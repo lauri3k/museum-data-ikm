@@ -1,0 +1,248 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-524-A",
+  "priref": "6349",
+  "objectNumber": "AK-MAK-524-A",
+  "language": "en",
+  "title": "Shiva, Parvati, and Ganesha",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9894718d-8a14-4ba5-84e4-420dd70f0698",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 28,
+    "width": 1667,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/1qTQGJr9Vj7XjVe5FDJACcKXD_w86aKy0F6XpeA9KpWJNJEnESxx_thsFvECvMuR83rR9LBFtXYvjFjNX1IugMxtVi0F=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#222421"
+    },
+    {
+      "percentage": 10,
+      "hex": " #555851"
+    },
+    {
+      "percentage": 2,
+      "hex": " #989B93"
+    },
+    {
+      "percentage": 6,
+      "hex": " #767972"
+    },
+    {
+      "percentage": 51,
+      "hex": " #BEC0BA"
+    },
+    {
+      "percentage": 24,
+      "hex": " #EAEBEA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#222421",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #555851",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #989B93",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #767972",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BEC0BA",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #EAEBEA",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 24,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 24,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Shiva"
+  ],
+  "description": "Vier-armige Shiva, staand op een dubbele lotus troon, met een klein figuurtje Nandi, de stier. De attributen zijn een drietand, bidsnoer, vliegenmepper en een waterfles.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture",
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Java"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Java"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Gerrit-Jan Verburgt bequest, 1969)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Java"
+  ],
+  "dating": {
+    "presentingDate": "850 - 930",
+    "sortingDate": 850,
+    "period": 9,
+    "yearEarly": 850,
+    "yearLate": 930
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H13(SHIVA)",
+      "12H13(SHIVA)8"
+    ],
+    "iconClassDescription": [
+      "Shiva, god of fertility of nature",
+      "Shiva, god of fertility of nature - attributes of non-Christian god or goddess"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Shiva"
+    ],
+    "objectNumbers": [
+      "AK-MAK-524-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Shiva"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Pauline Lunsingh Scheurleer, 'Een perfect paar', Aziatische Kunst 38 (2008), nr. 3, p. 44-54.",
+    "H.F.E. Visser, Kunst uit het Oosten, Amsterdam 1953, pl. 80.",
+    "H.F.E. Visser, Asiatic art in private collections in Holland and Belgium, Amsterdam, 1948, nr. 362, pl. 210.",
+    "Cat. Legaat Verburgt, nr. 34. (Bulletin van de Vereniging van Vrienden der Aziatische Kunst. Derde Serie 19-20 (1970))"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "11.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "5.0"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "154"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver",
+  "longTitle": "Shiva, Parvati, and Ganesha, anonymous, 850 - 930",
+  "subTitle": "h 11.5cm \u00d7 w 5.0cm \u00d7 w 154gr",
+  "scLabelLine": "Indonesia, Central Java, c. 850-930, silver, bronze",
+  "label": {
+    "title": "Shiva, Parvati, and Ganesha",
+    "makerLine": "Indonesia, Central Java, c. 850-930, silver, bronze",
+    "description": "Shiva was the most important Hindu deity of ancient Java. Great temples were dedicated to him and images of him were made in stone, bronze, and precious metal. This pair of silver statuettes shows him together with his wife Parvati, the daughter of the mountain. Their son,\nthe elephant-headed Ganesha, was also worshipped in his own right.",
+    "notes": "Geldt voor: AK-MAK-524-A & B, AK-MAK-251.",
+    "date": "2018-06-05"
+  },
+  "showImage": true,
+  "location": null
+}

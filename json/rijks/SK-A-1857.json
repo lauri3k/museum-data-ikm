@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1857",
+  "priref": "8141",
+  "objectNumber": "SK-A-1857",
+  "language": "en",
+  "title": "Still Life with a Fish",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3bdc36ca-4377-4c12-9d97-10f3c0b08090",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2886,
+    "height": 2211,
+    "url": "https://lh3.googleusercontent.com/LTx6ianXlMDdYPiN9Yy_dJPxdhEpo7MRmbnhTYSqi2iIRDbEsjqnq1ZA0Tsr7F3yFp6JLZSTE1KOZI_3EssET8vLsG0iPwb2ixd0AdY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#574A2A"
+    },
+    {
+      "percentage": 20,
+      "hex": " #918259"
+    },
+    {
+      "percentage": 26,
+      "hex": " #756441"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A79E7E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C6BD9D"
+    },
+    {
+      "percentage": 25,
+      "hex": " #262011"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#574A2A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #918259",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #756441",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A79E7E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C6BD9D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #262011",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 34,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #556B2F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 26,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Still Life with a Fish",
+    "Still Life"
+  ],
+  "description": "Stilleven met vis, brood en een geschilde citroen op tinnen borden. Rechts een roemer met wijn, een zoutvat met een schotel peperkorrels en druiven. Tussen de borden liggen enkele noten en een mes.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Claesz",
+      "unFixedName": "Claesz, Pieter",
+      "placeOfBirth": "Berchem",
+      "dateOfBirth": "1598",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1660",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Claesz (c. 1598 - 1660)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Claesz",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1900-06-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1647",
+    "sortingDate": 1647,
+    "period": 17,
+    "yearEarly": 1647,
+    "yearLate": 1647
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C38",
+      "41C68"
+    ],
+    "iconClassDescription": [
+      "laid table as still life",
+      "fish; still life of fishes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1857"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Annemarie Vels Heijn, 'Zoutvaten in verschillende stijlen', Rijksmuseum Kunstkrant 16 (1989/1990) nr. 1, afb, p. 9."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Claesz",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "62"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "81"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Still Life with a Fish, Pieter Claesz, 1647",
+  "subTitle": "h 62cm \u00d7 w 81cm",
+  "scLabelLine": "Pieter Claesz, 1647, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

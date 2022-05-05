@@ -1,0 +1,246 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2656",
+  "priref": "8919",
+  "objectNumber": "SK-A-2656",
+  "language": "en",
+  "title": "Na\u00efef of karikaturaal portret van Jean-Etienne Liotard op ongeveer 54-jarige leeftijd",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "340aa379-c0be-44a0-b8be-0103a2f79035",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1966,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/5SXkv32ExaR2bWCSUl2_hPnMKFLhpXC_yO0DZ-Bh7TGCm983fev4vNJYMvvEtq_mUVuaPw18u3CR5Y340_V8ig6KBIw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 45,
+      "hex": "#745C45"
+    },
+    {
+      "percentage": 29,
+      "hex": " #342E27"
+    },
+    {
+      "percentage": 9,
+      "hex": " #101111"
+    },
+    {
+      "percentage": 6,
+      "hex": " #908A7A"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B0A79B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #AA7345"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C8C7C6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#745C45",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #342E27",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #101111",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #908A7A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B0A79B",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #AA7345",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C8C7C6",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 38,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Na\u00efef of karikaturaal portret van Jean-Etienne Liotard op ongeveer 54-jarige leeftijd",
+    "Zelfportret"
+  ],
+  "description": "Zelfportret van Jean Etienne Liotard. Staand, ten halven lijve, met een lange grijze baard en een rode fez op het hoofd.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1913-02-01T00:00:00",
+    "creditLine": "Gift of H.G.C. Leendertz, Apeldoorn"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1752 - c. 1800",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "31A534",
+      "61B2",
+      "48B3"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "beard",
+      "historical persons",
+      "portrait, self-portrait of artist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Liotard, Jean-Etienne"
+    ],
+    "objectNumbers": [
+      "SK-A-2656"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Liotard, Jean-Etienne"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "23.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "20"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "30.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "26.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "3.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Na\u00efef of karikaturaal portret van Jean-Etienne Liotard op ongeveer 54-jarige leeftijd, anonymous, c. 1752 - c. 1800",
+  "subTitle": "h 23.6cm \u00d7 w 20cm",
+  "scLabelLine": "anonymous, c. 1752 - c. 1800, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

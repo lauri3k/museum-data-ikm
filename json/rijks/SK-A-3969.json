@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3969",
+  "priref": "8471",
+  "objectNumber": "SK-A-3969",
+  "language": "en",
+  "title": "Portrait of Ernest de Beveren, Lord of West-IJsselmonde and De Lindt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4f80388d-061e-460a-b9a5-f5933e48bfb6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2038,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/LAVj9mBEATuI5lmDGgiD1Ys8jCSyKdOOQmhdtdPEg5RCFAUN7adEwShhnTBKQw0dQd47iNupC3-kGUcP8qYM3uHW8fnV=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#C2975F"
+    },
+    {
+      "percentage": 58,
+      "hex": " #0F0C08"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3B483"
+    },
+    {
+      "percentage": 6,
+      "hex": " #755934"
+    },
+    {
+      "percentage": 31,
+      "hex": " #432B14"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A26E3F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C2975F",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #0F0C08",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D3B483",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #755934",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #432B14",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A26E3F",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 38,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 2,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DEB887"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 89,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Ernestus van Beveren (1660-1722), Lord of West-Ysselmonde and de Lindt, Alderman, Burgomaster and from 1704 on Postmaster of Dordrecht"
+  ],
+  "description": "Portret van Ernst van Beveren, heer van West-IJselmonde en de Lindt, schepen, burgemeester en sedert 1704 postmeester van Dordrecht. Heupstuk, staande bij een tafel en gebarend met de rechterhand.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Aert de Gelder",
+      "unFixedName": "Gelder, Aert de",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1645-10-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1727-08-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Dordrecht",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Aert de Gelder (26-okt-1645 - 25-aug-1727)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aert de Gelder",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1685",
+    "sortingDate": 1685,
+    "period": 17,
+    "yearEarly": 1685,
+    "yearLate": 1685
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "41D2121(+81)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "coat (+ men's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Bevere, Ernst Cornelisz. de"
+    ],
+    "objectNumbers": [
+      "SK-A-3969"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Bevere, Ernst Cornelisz. de"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Aert de Gelder",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "128"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Ernest de Beveren, Lord of West-IJsselmonde and De Lindt, Aert de Gelder, 1685",
+  "subTitle": "h 128cm \u00d7 w 105cm",
+  "scLabelLine": "Aert de Gelder (1645\u20131727), oil on canvas, 1685",
+  "label": {
+    "title": "Portrait of Ernest de Beveren, Lord of West-IJsselmonde and De Lindt",
+    "makerLine": "Aert de Gelder (1645\u20131727), oil on canvas, 1685",
+    "description": "The 25-year-old Ernest de Beveren was the last scion of one of Dordrecht\u2019s most distinguished regent families. He is represented in a fanciful historicizing costume. Emulating Rembrandt, De Gelder painted\nwith broad brushstrokes, used his brush handle to scratch into the paint layer, and introduced similar contrasts of light and dark.",
+    "notes": null,
+    "date": "2013-04-03"
+  },
+  "showImage": true,
+  "location": null
+}

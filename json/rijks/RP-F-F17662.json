@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F17662",
+  "priref": "250848",
+  "objectNumber": "RP-F-F17662",
+  "language": "en",
+  "title": "Peggy Guggenheim",
+  "copyrightHolder": "erven Man Ray/Pictoright",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Peggy Guggenheim, Paris"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Man Ray",
+      "unFixedName": "Ray, Man",
+      "placeOfBirth": "Philadelphia",
+      "dateOfBirth": "1890-08-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1976",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "United States of America"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Man Ray (27-aug-1890 - 1976), United States of America"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Man Ray",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "baryta paper"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "United States of America"
+  ],
+  "dating": {
+    "presentingDate": "1924",
+    "sortingDate": 1924,
+    "period": 20,
+    "yearEarly": 1924,
+    "yearLate": 1924
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Guggenheim, Marguerite (Peggy)"
+    ],
+    "objectNumbers": [
+      "RP-F-F17662"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Guggenheim, Marguerite (Peggy)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Man Ray",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "279"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "179"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Peggy Guggenheim, Man Ray, 1924",
+  "subTitle": "h 279mm \u00d7 w 179mm",
+  "scLabelLine": "Man Ray (1890-1976), gelatin silver print, Paris, 1924",
+  "label": {
+    "title": "Peggy Guggenheim",
+    "makerLine": "Man Ray (1890-1976), gelatin silver print, Paris, 1924",
+    "description": "Man Ray was a photographer with two souls. While he would have preferred to devote himself exclusively to painting, he derived his primary source of income from portrait, fashion, and advertising photography. Alongside this \u2018commercial\u2019 work he conducted all kinds of artistic experiments in the darkroom. In 1924 he took this elegant photograph of Peggy Guggenheim wearing a gown by Paul Poiret. While the cast shadow is a modern element, the soft-focus in contrast is traditional, if not old-fashioned.",
+    "notes": null,
+    "date": "2014-11-12"
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-955",
+  "priref": "6234",
+  "objectNumber": "SK-A-955",
+  "language": "en",
+  "title": "The Vijverberg, The Hague, in Winter, with Prince Maurits and his Retinue in the Foreground",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f2b855d5-e307-46a2-96fd-386d55f71982",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2917,
+    "height": 1574,
+    "url": "https://lh3.googleusercontent.com/IjTkGHY-WOqt3n1l2Ix4H-b823jHhsIrgBYkid45SyU0dA5nOJXcW6jBId4GqftCKrYmG_4ROg-8K3FM_QDWWXdnA-YON_0sYtKAMZ5S=s0"
+  },
+  "colors": [
+    {
+      "percentage": 14,
+      "hex": "#A69657"
+    },
+    {
+      "percentage": 14,
+      "hex": " #1E1908"
+    },
+    {
+      "percentage": 17,
+      "hex": " #887333"
+    },
+    {
+      "percentage": 25,
+      "hex": " #675621"
+    },
+    {
+      "percentage": 22,
+      "hex": " #543410"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C1B57D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A69657",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #1E1908",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #887333",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #675621",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #543410",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C1B57D",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#808000"
+    },
+    {
+      "percentage": 22,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 19,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 14,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 19,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 14,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The Vijverberg, The Hague, in Winter, with Prince Maurits and his Retinue in the Foreground"
+  ],
+  "description": "Wintergezicht met ijsvermaak op de Vijverberg te Den Haag en op de voorgrond prins Maurits en Frederik Hendrik met gevolg voorafgegaan door een groep hellebaardiers. Links de gebouwen van het Binnenhof.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adam van Breen",
+      "unFixedName": "Breen, Adam van",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1642",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Kristiania",
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adam van Breen (c. 1586 - after 1642)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adam van Breen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1885-02-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1618",
+    "sortingDate": 1618,
+    "period": 17,
+    "yearEarly": 1618,
+    "yearLate": 1618
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43C244"
+    ],
+    "iconClassDescription": [
+      "skates (winter sports)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16181618"
+    ],
+    "places": [
+      "Vijverberg"
+    ],
+    "people": [
+      "Maurits (prins van Oranje)",
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-955"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)",
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adam van Breen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "71"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "131.8"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Vijverberg, The Hague, in Winter, with Prince Maurits and his Retinue in the Foreground, Adam van Breen, 1618",
+  "subTitle": "h 71cm \u00d7 w 131.8cm",
+  "scLabelLine": "Adam van Breen, 1618, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

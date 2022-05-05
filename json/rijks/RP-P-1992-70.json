@@ -1,0 +1,293 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1992-70",
+  "priref": "82",
+  "objectNumber": "RP-P-1992-70",
+  "language": "en",
+  "title": "Vanitasstilleven met een schedel met lauwerkrans",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5aed114f-4f8b-420c-880b-9f14944de311",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1864,
+    "height": 2790,
+    "url": "https://lh5.ggpht.com/WqWRhnXC2Os0gcjN1Jpk-gXyQvUmjFfPEX3lOlLOlsbjm-sxTZmauSiecN0nkjdQRN61EyiifcnHQRcK6BV5FLYa_oI=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#F4EBDC"
+    },
+    {
+      "percentage": 25,
+      "hex": " #CEC5BA"
+    },
+    {
+      "percentage": 15,
+      "hex": " #847C75"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A097"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5B554F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #433E3A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4EBDC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CEC5BA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #847C75",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A9A097",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #5B554F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #433E3A",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 25,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 61,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Vanitasstilleven met een schedel met lauwerkrans",
+    "Finis Coronat Opus"
+  ],
+  "description": "Allegorie op de vergankelijkheid. Vanitasstilleven met een schedel gekroond met een lauwerkrans, boeken, een zandloper, een gedoofde kaars, een vaas met bloemen en diverse schildersattributen. Op de voorgrond opengeslagen boeken waarin prenten zijn te zien. In het open boek in het midden: Marc 13-13: Wie volstandich[...]sal salig worde. en: Apoc.14: Salich syn de doode[...]volgen haer na. Linksvoor een koperplaatje met afbeelding van Hercules, waarop het monogram van Hendrick Hondius. Onder de gravure een tekst in boekdruk in twee kolommen van elk 32 regels in het Nederlands.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hendrick Hondius",
+      "unFixedName": "Hondius, Hendrick",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick Hondius, The Hague"
+    },
+    {
+      "name": "Republiek der Zeven Verenigde Nederlanden",
+      "unFixedName": "Republiek der Zeven Verenigde Nederlanden",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Republiek der Zeven Verenigde Nederlanden"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hendrick Hondius (I)",
+      "unFixedName": "Hondius, Hendrick (I)",
+      "placeOfBirth": "Duffel",
+      "dateOfBirth": "1573-06-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1650-10-25",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick Hondius (I) (09-jun-1573 - before 25-okt-1650)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick Hondius (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1992-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1626",
+    "sortingDate": 1626,
+    "period": 17,
+    "yearEarly": 1626,
+    "yearLate": 1626
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11R6",
+      "23U22",
+      "11R71",
+      "49M32",
+      "48C515",
+      "48C534"
+    ],
+    "iconClassDescription": [
+      "'Vanitas' still life",
+      "hourglass",
+      "skull as symbol of 'Vanitas'",
+      "book",
+      "tools, implements of painter",
+      "tools, implements of graphic artist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1992-70"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 19",
+    "19",
+    "New Hollstein Dutch 20",
+    "20"
+  ],
+  "principalOrFirstMaker": "Hendrick Hondius (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "216"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "275"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "431"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "285"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Vanitasstilleven met een schedel met lauwerkrans, Hendrick Hondius (I), 1626",
+  "subTitle": "h 216mm \u00d7 w 275mm",
+  "scLabelLine": "Hendrick Hondius (I), 1626, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

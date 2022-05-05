@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-RBK-1965-88",
+  "priref": "3153",
+  "objectNumber": "AK-RBK-1965-88",
+  "language": "en",
+  "title": "Charger with a qilin",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5493e774-f82f-4360-8d9a-02e2d76c4b6e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/GOpz9p_YevK9cHHaQf93ivnOtJizNZCiqUk_o67gqXlc01tJvuoGWiprYZQsJFjqwkJ5QwZHP5dTuRovYyX_uPIuJNGS=s0"
+  },
+  "colors": [
+    {
+      "percentage": 20,
+      "hex": "#F2F3F1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #404E7F"
+    },
+    {
+      "percentage": 28,
+      "hex": " #A3ADB4"
+    },
+    {
+      "percentage": 10,
+      "hex": " #6B768D"
+    },
+    {
+      "percentage": 8,
+      "hex": " #262A3C"
+    },
+    {
+      "percentage": 25,
+      "hex": " #D3D8D5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2F3F1",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #404E7F",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #A3ADB4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #6B768D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #262A3C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D3D8D5",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 28,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 25,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 10,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #483D8B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 53,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #4279DB"
+    }
+  ],
+  "titles": [
+    "Dish with a qilin near a rock among plants"
+  ],
+  "description": "Grote schotel van porselein, beschilderd in onderglazuur blauw. Op het plat in een medaillon een qilin met vlammen bij een rots, omgeven door fruitplanten (druif, bananenplant, meloen). De binnenwand met lotusranken. Op de binnenrand een band met servetwerk. Op de buitenwand een band met bloemranken. Twee barsten in de rand. De onderzijde is ongeglazuurd. Yuan porselein in blauw-wit.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1965-01-19T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "cobalt (mineral)"
+  ],
+  "techniques": [
+    "painting",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1350",
+    "sortingDate": 1350,
+    "period": 14,
+    "yearEarly": 1350,
+    "yearLate": 1350
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25FF9",
+      "48A983"
+    ],
+    "iconClassDescription": [
+      "still other fabulous animals which cannot be classified under 25 FF 2 - 25 FF 7",
+      "ornament derived from plant forms"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-RBK-1965-88"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jan Fontein, 'Het verzamelen van  Aziatische kunst in de 20ste eeuw', Aziatische Kunst 23/3 (1993), pp. 2-17."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "45.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "25.1"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Charger with a qilin, anonymous, c. 1350",
+  "subTitle": "h 7.2cm \u00d7 d 45.7cm",
+  "scLabelLine": "China, Yuan dynasty (1279\u20131368), c. 1350, porcelain",
+  "label": {
+    "title": "Charger with a qilin",
+    "makerLine": "China, Yuan dynasty (1279\u20131368), c. 1350, porcelain",
+    "description": "This charger is painted with a qilin, a mythical beast. According to legend, a qilin has the scaly skin of a dragon, the body of a deer and the hooves and tail of an ox. It is a benign creature, which refrains from stepping on insects or eating live grass. The qilin possesses both male (qi) and female (lin) powers.",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": null
+}

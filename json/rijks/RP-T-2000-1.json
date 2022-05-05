@@ -1,0 +1,147 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2000-1",
+  "priref": "358474",
+  "objectNumber": "RP-T-2000-1",
+  "language": "en",
+  "title": "Portret van Gillis van Breen, tekenend of hout snijdend",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "69982280-5162-42ec-80bd-abab31fab9b3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2428,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/BttYD5wW5EnTetROwdnwHPsnY6ERKe4AgciDFcn2odnlwh0OIA7D1lEK0JN3oIKxoEaQ7ltUyqMpyz0-3lhnko-SNg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Gillis van Breen, tekenend of hout snijdend"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Hendrick Goltzius (jan-1558 - 01-jan-1617)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick Goltzius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2000-01-26T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1568 - 1617",
+    "sortingDate": 1568,
+    "period": 16,
+    "yearEarly": 1568,
+    "yearLate": 1617
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C52",
+      "48C532"
+    ],
+    "iconClassDescription": [
+      "drawing",
+      "portrait, self-portrait of graphic artist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Breen, Gillis van"
+    ],
+    "objectNumbers": [
+      "RP-T-2000-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Breen, Gillis van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "'Recent acquisitions at the Rijksmuseum, Amsterdam', The Burlington Magazine (November 2000), p. 731 met afb. VII."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick Goltzius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Portret van Gillis van Breen, tekenend of hout snijdend, Hendrick Goltzius, 1568 - 1617",
+  "subTitle": "h 223mm \u00d7 w 178mm",
+  "scLabelLine": "Hendrick Goltzius, 1568 - 1617, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

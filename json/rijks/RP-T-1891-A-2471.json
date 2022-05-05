@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1891-A-2471",
+  "priref": "61379",
+  "objectNumber": "RP-T-1891-A-2471",
+  "language": "en",
+  "title": "View of a Richly Appointed Chamber with a Four-poster Bed",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eec2fb7d-1421-4d42-a618-20f0f538db14",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1829,
+    "url": "https://lh5.ggpht.com/hyGAjfIw5Q5dtHhd2ZmqWmE6tazx036TKVwFlGwqACdh8Z1nDsLNn8zokc-_DlJwabOMI_OOgrZAZqRRojQTefOv_Nw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#5A554A"
+    },
+    {
+      "percentage": 18,
+      "hex": " #B9B3A4"
+    },
+    {
+      "percentage": 0,
+      "hex": " #746E60"
+    },
+    {
+      "percentage": 7,
+      "hex": " #948F82"
+    },
+    {
+      "percentage": 54,
+      "hex": " #D8D1C3"
+    },
+    {
+      "percentage": 19,
+      "hex": " #F7F3E3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#5A554A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B9B3A4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #746E60",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #948F82",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D8D1C3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F7F3E3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 19,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 18,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 91,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "View of a Richly Appointed Chamber with a Four-poster Bed"
+  ],
+  "description": "Een slaapkamer waarvan de muren met wandtapijten en schilderijen zijn behangen. Links een hemelbed, vier stoelen zijn tegen de wand onder het raam geschoven. Over de tafel tegen de rechterwand is een kleed gedrapeerd. Aan de andere kant van de kamer bevindt zich de schouw. Mogelijk het slaapvertrek van Maurits in het Stadhouderlijk Kwartier in Den Haag.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen Pietersz van de Venne",
+      "unFixedName": "Venne, Adriaen Pietersz van de",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1589",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1662-11-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adriaen Pietersz van de Venne (c. 1589 - 12-nov-1662)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen Pietersz van de Venne",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1891-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1662",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1662
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A23",
+      "41A413"
+    ],
+    "iconClassDescription": [
+      "bedroom",
+      "tapestry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001625"
+    ],
+    "places": [
+      "Stadhouderlijk Kwartier"
+    ],
+    "people": [
+      "Maurits (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "RP-T-1891-A-2471"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen Pietersz van de Venne",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "196"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "324"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen and brown ink, with grey wash, over black chalk; framing line in black ink (fragments)",
+  "longTitle": "View of a Richly Appointed Chamber with a Four-poster Bed, Adriaen Pietersz van de Venne, c. 1600 - c. 1662",
+  "subTitle": "h 196mm \u00d7 w 324mm",
+  "scLabelLine": "Adriaen Pietersz van de Venne, c. 1600 - c. 1662, pen and brown ink, with grey wash, over black chalk; framing line in black ink (fragments)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

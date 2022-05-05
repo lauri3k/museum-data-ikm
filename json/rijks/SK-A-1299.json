@@ -1,0 +1,242 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1299",
+  "priref": "5263",
+  "objectNumber": "SK-A-1299",
+  "language": "en",
+  "title": "Portrait of Philippus Baldaeus and Gerrit Mossopotam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d5bddc76-5499-4ee5-94b4-a7aa9c18da90",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1959,
+    "url": "https://lh3.googleusercontent.com/7e61Jb_rAIj5wrTZndOYv1gYcVg4m3QrwGWCVOvKunM2WCaAP_JFcL42yc5A65HZDCx-dec-xNwGr304mkHXYyQ79Q0e=s0"
+  },
+  "colors": [
+    {
+      "percentage": 34,
+      "hex": "#1C170F"
+    },
+    {
+      "percentage": 24,
+      "hex": " #3B2816"
+    },
+    {
+      "percentage": 21,
+      "hex": " #573F24"
+    },
+    {
+      "percentage": 9,
+      "hex": " #897649"
+    },
+    {
+      "percentage": 9,
+      "hex": " #7F4D2A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A39265"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8A777"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1C170F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3B2816",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #573F24",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #897649",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7F4D2A",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A39265",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B8A777",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 59,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 30,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 30,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Philippus Baldaeus and his assistant Gerrit Mosopatam",
+    "Double potrait of Philippus Baldaeus (1632-1671) and Gerrit Mossopatam"
+  ],
+  "description": "Dubbelportret van de predikant Philippus Baldaeus (1632-1671) en zijn Singalese tolk-vertaler Gerrit Mossopatam in een landschap. Bij de voeten van Baldaeus drie honden.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johan de la Rocquette",
+      "unFixedName": "Rocquette, Johan de la",
+      "placeOfBirth": null,
+      "dateOfBirth": "1640",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1694",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johan de la Rocquette (c. 1640 - after 1694)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johan de la Rocquette",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1668",
+    "sortingDate": 1668,
+    "period": 17,
+    "yearEarly": 1668,
+    "yearLate": 1668
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "34B11",
+      "25H"
+    ],
+    "iconClassDescription": [
+      "dog",
+      "landschappen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Sri Lanka"
+    ],
+    "people": [
+      "Baldaeus, Philippus",
+      "Mossopatam, Gerrit"
+    ],
+    "objectNumbers": [
+      "SK-A-1299"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Baldaeus, Philippus",
+    "Mossopatam, Gerrit"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johan de la Rocquette",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "141"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Philippus Baldaeus and Gerrit Mossopotam, Johan de la Rocquette, 1668",
+  "subTitle": "h 141cm \u00d7 w 176cm \u00d7 t 9cm",
+  "scLabelLine": "Johan de la Rocquette (c. 1640-after 1694), oil on canvas, 1668",
+  "label": {
+    "title": "Portrait of Philippus Baldaeus and Gerrit Mossopotam",
+    "makerLine": "Johan de la Rocquette (c. 1640-after 1694), oil on canvas, 1668",
+    "description": "Philippus Baldaeus was active as a minister for the VOC on Ceylon (Sri Lanka) from 1654 to 1665. Back in the Netherlands, he had this picture painted to commemorate his years of service overseas. The seated Baldaeus wears clothing he brought with him from Asia. He is probably joined here by Gerrit Mossopotam, who resided with Baldaeus in the Netherlands and may\nhave assisted him in translating Christian texts.",
+    "notes": null,
+    "date": "2014-02-07"
+  },
+  "showImage": true,
+  "location": "HG-2.9"
+}

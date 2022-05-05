@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1889-A-2056",
+  "priref": "28545",
+  "objectNumber": "RP-T-1889-A-2056",
+  "language": "en",
+  "title": "Three Women and a Child by a Door",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "42ce0678-94c1-4602-930a-6ace901483b1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2026,
+    "height": 2712,
+    "url": "https://lh6.ggpht.com/mtdkekOdtK1kX5ES_uCsylj-G54fdWvu6zfVgZ8uraQ7hA9cSWGj1F1Fu-DsvnM0to0jixoXVF7nxTJwQaILNgxI0A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 48,
+      "hex": "#F6F4E9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C7B89B"
+    },
+    {
+      "percentage": 38,
+      "hex": " #DED3B9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #786751"
+    },
+    {
+      "percentage": 4,
+      "hex": " #9F9179"
+    },
+    {
+      "percentage": 2,
+      "hex": " #4D4337"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F4E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C7B89B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DED3B9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #786751",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9F9179",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4D4337",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 38,
+      "hex": " #FFEFD5"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 87,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Three Women and a Child by a Door"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1889-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "pen"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1645",
+    "sortingDate": 1645,
+    "period": 17,
+    "yearEarly": 1645,
+    "yearLate": 1645
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42A3",
+      "42B74"
+    ],
+    "iconClassDescription": [
+      "mother and baby or young child",
+      "family group, especially parents with their child(ren)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1889-A-2056"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Schatborn 27",
+    "27"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "233"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen and brown ink; framing line in brown ink",
+  "longTitle": "Three Women and a Child by a Door, Rembrandt van Rijn, c. 1645",
+  "subTitle": "h 233mm \u00d7 w 178mm",
+  "scLabelLine": "pen and brown ink, c. 1645",
+  "label": {
+    "title": "Three Women and a Child by a Door",
+    "makerLine": "pen and brown ink, c. 1645",
+    "description": "Rembrandt took visible pleasure in drawing domestic scenes of women and children. Collectors, too, were clearly charmed by them. When the painter and collector Jan van de Cappelle died in 1679, he left behind an album containing 135 drawings \u2018being the life of women with children by Rembrandt.\u2019 Perhaps this splendid drawing was one of them.",
+    "notes": null,
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

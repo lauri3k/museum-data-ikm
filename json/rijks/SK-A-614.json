@@ -1,0 +1,231 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-614",
+  "priref": "6100",
+  "objectNumber": "SK-A-614",
+  "language": "en",
+  "title": "Aeneas at the Court of Latinus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e1804c53-e5ce-4c10-94f2-9786f027ae10",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2368,
+    "url": "https://lh3.googleusercontent.com/wpC_t8DUCLUC4xRcqQgviudddt7OGMr5T2ZDLLScYyKqOb-33XUW1Pylz8s2B5xLGE0sa7qsHYjj1llLAVjGLVXUHMM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#1A1812"
+    },
+    {
+      "percentage": 40,
+      "hex": " #4A2D1D"
+    },
+    {
+      "percentage": 32,
+      "hex": " #6B462B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B6A777"
+    },
+    {
+      "percentage": 2,
+      "hex": " #9B895E"
+    },
+    {
+      "percentage": 22,
+      "hex": " #856B46"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1A1812",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4A2D1D",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #6B462B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B6A777",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9B895E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #856B46",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 22,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 54,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 40,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Aeneas crowns Cloanthus",
+    "Aeneas at the Court of Latinus"
+  ],
+  "description": "Aeneas kroont Cloanthus. Aeneas reikt prijzen uit na de wedstrijd ter zee. Aeneas kroont Cloanthus met een lauwerkrans, onder grote belangstelling. Links de masten van verschillende schepen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ferdinand Bol",
+      "unFixedName": "Bol, Ferdinand",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1616-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1680-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "draughtsman",
+        "print maker"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Ferdinand Bol (jun-1616 - 24-jul-1680)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ferdinand Bol",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1799-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1661 - c. 1663",
+    "sortingDate": 1661,
+    "period": 17,
+    "yearEarly": 1661,
+    "yearLate": 1663
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "96B422",
+      "43A433"
+    ],
+    "iconClassDescription": [
+      "the contests held in memory of Anchises",
+      "crowning with laurel"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Admiraliteit van Amsterdam"
+    ],
+    "objectNumbers": [
+      "SK-A-614"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Admiraliteit van Amsterdam"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ferdinand Bol",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "218"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "232"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Aeneas at the Court of Latinus, Ferdinand Bol, c. 1661 - c. 1663",
+  "subTitle": "h 218cm \u00d7 w 232cm",
+  "scLabelLine": "Ferdinand Bol (1616\u20131680), oil on canvas, c. 1661\u20131664",
+  "label": {
+    "title": "Aeneas at the Court of Latinus",
+    "makerLine": "Ferdinand Bol (1616\u20131680), oil on canvas, c. 1661\u20131664",
+    "description": "Bol\u2019s painting, made for the Amsterdam Admiralty, shows a scene from Virgil\u2019s Aeneid. Aeneas congratulates\none of four ships\u2019 captains who competed in a race. All four were rewarded on their return, even the captain who threw his helmsman overboard for disobeying an order. The painting was accompanied by a poem by Vondel, stressing the importance of firmness and generosity in good government.",
+    "notes": null,
+    "date": "2013-03-27"
+  },
+  "showImage": true,
+  "location": "HG-2.15"
+}

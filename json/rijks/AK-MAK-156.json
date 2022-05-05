@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-156",
+  "priref": "1568",
+  "objectNumber": "AK-MAK-156",
+  "language": "en",
+  "title": "Writing Box and Inro",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5b49c584-b634-419e-a908-9fd612e8498f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2247,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/twVIHGIBzTBB6gPvKilc3nvcf_cDlodis4tmFiUrWAeTycXusLDoBF40EGxOvuknOd-ZIWoR3azYDApAqdR8UcrOCFM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#403C33"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F3EFE1"
+    },
+    {
+      "percentage": 73,
+      "hex": " #D4CCBB"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B3A790"
+    },
+    {
+      "percentage": 5,
+      "hex": " #91897C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #766B58"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#403C33",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F3EFE1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D4CCBB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B3A790",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #91897C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #766B58",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 73,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [],
+  "description": "Decoratie met suzuki-gras in goud tegen een zwarte achtergrond. Tevens een maansikkel in zilverlak en een gedicht. Vijf doosjes met touw verbonden.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase, Kyoto, 1930)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "lacquer (coating)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1700 - 1800",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "24B1"
+    ],
+    "iconClassDescription": [
+      "waxing moon, i.e. facing this way: )"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-156"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Lee Bruscke-Johnson, 'Dew Drops and Dancing Plovers: Literary Themes in Japanese Lacquer in the Rijksmuseum', Aziatische Kunst 26/1 (1996), pp. 31-38.",
+    "H.F.E. Visser, Kunst uit het Oosten, 1953, pl. 78."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "11.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "7.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "2.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Writing Box and Inro, anonymous, 1700 - 1800",
+  "subTitle": "h 11.5cm \u00d7 w 7.3cm \u00d7 d 2.6cm",
+  "scLabelLine": "Japan, c. 1700-1800, wood, lacquer, mother-of-pearl, silver",
+  "label": {
+    "title": "Writing Box and Inro",
+    "makerLine": "Japan, c. 1700-1800, wood, lacquer, mother-of-pearl, silver",
+    "description": "Lacquer decorations often comprise references to literature. Sometimes calligraphed poetry is incorporated as part of the ornamentation, as in the case of this writing box and inro (a portable case for small items such as medicine). The characters were applied in inlaid mother-of-pearl and silver. The depicted plants (hagi on the box and susuki grass on the inro) relate to the poems.",
+    "notes": null,
+    "date": "2019-07-23"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1878-A-1698",
+  "priref": "39555",
+  "objectNumber": "RP-P-1878-A-1698",
+  "language": "en",
+  "title": "Landschap met galgenveld bij Haarlem",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2bcd1a98-7527-4944-b7b3-d27a00ecc23c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1656,
+    "url": "https://lh5.ggpht.com/D6AALu-fQeIEd-YzhaUL72iUK1yp5NXZOpQhEAbdpqGMKuwQqNKMbdvcZHrOHDSIjwfWCgqd18A0n-wYd0AJZeInqvSx=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#CBC4B5"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A19B8C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #7B7567"
+    },
+    {
+      "percentage": 6,
+      "hex": " #57544A"
+    },
+    {
+      "percentage": 46,
+      "hex": " #F1EFE7"
+    },
+    {
+      "percentage": 2,
+      "hex": " #32312B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CBC4B5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A19B8C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7B7567",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #57544A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F1EFE7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #32312B",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 46,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 33,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 80,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Landschap met galgenveld bij Haarlem",
+    "Landschappen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Pietersz. Berendrecht",
+      "unFixedName": "Berendrecht, Johannes Pietersz.",
+      "placeOfBirth": "Alkmaar",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1645",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "printer",
+        "publisher",
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Pietersz. Berendrecht (c. 1590 - c. 1645), Haarlem"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Esaias van de Velde",
+      "unFixedName": "Velde, Esaias van de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1587-05-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1630-11-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Esaias van de Velde (17-mei-1587 - 18-nov-1630), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Esaias van de Velde",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1878-01-07T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Haarlem",
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1615 - 1616",
+    "sortingDate": 1615,
+    "period": 17,
+    "yearEarly": 1615,
+    "yearLate": 1616
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31E2355",
+      "44G(+14)"
+    ],
+    "iconClassDescription": [
+      "violent death by hanging",
+      "law and jurisprudence (+ place of execution)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Haarlem"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1878-A-1698"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 26",
+    "26"
+  ],
+  "principalOrFirstMaker": "Esaias van de Velde",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "174"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Landschap met galgenveld bij Haarlem, Esaias van de Velde, 1615 - 1616",
+  "subTitle": "h 88mm \u00d7 w 174mm",
+  "scLabelLine": "Esaias van de Velde, 1615 - 1616, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

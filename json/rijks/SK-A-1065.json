@@ -1,0 +1,242 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1065",
+  "priref": "7128",
+  "objectNumber": "SK-A-1065",
+  "language": "en",
+  "title": "Piano Practice Interrupted",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3fec625c-02d2-490b-885f-4a503a216331",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 25,
+    "width": 2012,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/d93z-O9gU4_rApm0gQ3HXebvvobvSO1u30MHe_vQ2P37QlXcmFlQs8eE93qGRpX0rS1zJ41GDdCkyb5juDNZXtN-Kg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 70,
+      "hex": "#523C28"
+    },
+    {
+      "percentage": 8,
+      "hex": " #9F9E98"
+    },
+    {
+      "percentage": 7,
+      "hex": " #1B1713"
+    },
+    {
+      "percentage": 5,
+      "hex": " #7D7A73"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C2C1B5"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7C6340"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4C555D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#523C28",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #9F9E98",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #1B1713",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7D7A73",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2C1B5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7C6340",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #4C555D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 73,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Piano Practice Interrupted"
+  ],
+  "description": "Het gestoorde pianospel. Twee jongens vallen hun zusje tijdens het pianospelen lastig. Het meisje draait zich op haar stoel om naar de jongens.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Bartel van der Kooi",
+      "unFixedName": "Kooi, Willem Bartel van der",
+      "placeOfBirth": "Augustinusga",
+      "dateOfBirth": "1768-05-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1836-07-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leeuwarden",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Bartel van der Kooi (13-mei-1768 - 14-jul-1836)"
+    }
+  ],
+  "plaqueDescriptionDutch": "De Friese schilder Van der Kooi was een meester in het schilderen van kinderen. De kinderen op dit schilderij zijn heel speels en ongedwongen geportretteerd; het is bijna een snapshot. Maar schijn bedriegt. De schilder heeft de kinderen bewust zo geplaatst dat ze een mooie driehoek vormen. En of het daadwerkelijk een portret is, of een gefantaseerd tafereel, is onbekend.",
+  "plaqueDescriptionEnglish": "A native of Friesland, artist Van der Kooi specialised in painting children. The children in this painting are shown in a playful, spontaneous pose. It could almost be a snapshot. Yet appearances are deceptive. The artist arranged the children deliberately to form a triangular composition. And we no longer know if this is a genuine portrait or an imaginary scene.",
+  "principalMaker": "Willem Bartel van der Kooi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1869-01-01T00:00:00",
+    "creditLine": "Gift of H. van der Kooi, Leeuwarden"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1813",
+    "sortingDate": 1813,
+    "period": 19,
+    "yearEarly": 1813,
+    "yearLate": 1813
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C7333",
+      "42G222",
+      "43C7",
+      "41A721"
+    ],
+    "iconClassDescription": [
+      "pianoforte",
+      "brothers or sisters (second degree family relationships)",
+      "children's games and plays",
+      "chair"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1065"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Bartel van der Kooi",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "121"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Piano Practice Interrupted, Willem Bartel van der Kooi, 1813",
+  "subTitle": "h 147cm \u00d7 w 121cm",
+  "scLabelLine": "Willem Bartel van der Kooi (1768-1836), oil on canvas, 1813",
+  "label": {
+    "title": "Piano Practice Interrupted",
+    "makerLine": "Willem Bartel van der Kooi (1768-1836), oil on canvas, 1813",
+    "description": "The Frisian painter Willem Bartel van der Kooi was a master at depicting children. The children in this painting are portrayed so playfully and naturally that the work resembles a snapshot. However, appearances are deceiving, for Van der Kooij carefully arranged the children to form a triangular composition. It is not known whether the painting is a portrait or an imaginary scene.",
+    "notes": "Multimediatour",
+    "date": "2018-02-07"
+  },
+  "showImage": true,
+  "location": "HG-1.12"
+}

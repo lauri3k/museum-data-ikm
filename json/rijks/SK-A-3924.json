@@ -1,0 +1,272 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3924",
+  "priref": "8833",
+  "objectNumber": "SK-A-3924",
+  "language": "en",
+  "title": "Pompeius Occo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d8f80cb3-e2a4-44ba-aa64-45d5206afbcb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 0,
+    "width": 5656,
+    "height": 6894,
+    "url": "https://lh3.googleusercontent.com/n5NW7FpRVEXvh0wh-6KFrIK4gPjaJm-ENVmTxaDQQ-q1u2OfhNHNXqDSn2ri-ML2hmSLNHRBN76iijas5FYav5ZxNOffC5AASvA8j18=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#DCDBBD"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B6B797"
+    },
+    {
+      "percentage": 52,
+      "hex": " #312814"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737856"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A89668"
+    },
+    {
+      "percentage": 9,
+      "hex": " #614C23"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DCDBBD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B6B797",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #312814",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #737856",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #A89668",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #614C23",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 7,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 18,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Pompeius Occo (1483-1537), Banker, Merchant and Humanist"
+  ],
+  "description": "Portret van Pompeius Occo, bankier, koopman en humanist in Amsterdam. Ten halven lijve, achter een balustrade, een anjer in de rechterhand, de linkerhand rustend op een schedel. Op de achtergrond een bergachtig landschap. Gekleed in een mantel met bontkraag, op het hoofd een baret. Het familiewapen hangt rechts aan de tak van een boom.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirck Jacobsz",
+      "unFixedName": "Jacobsz, Dirck",
+      "placeOfBirth": null,
+      "dateOfBirth": "1497",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1567",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Dirck Jacobsz (c. 1497 - 1567), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck Jacobsz",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "Purchased with a contribution from the J. Loudon Bequest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1531",
+    "sortingDate": 1531,
+    "period": 16,
+    "yearEarly": 1531,
+    "yearLate": 1531
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+53)",
+      "25G41(CARNATION)",
+      "31F11"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ half-length portrait)",
+      "flowers: carnation",
+      "death's head, skull (symbol of Death)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Occo, Pompejus"
+    ],
+    "objectNumbers": [
+      "SK-A-3924"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Occo, Pompejus"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "M. de Winkel, 'Een der deftigsten dragten', Nederlands Kunsthistorisch Jaarboek (1995), p. 147.",
+    "Isa Ramm, 'Die Herkunft des humanisten und Fuggerfaktors Pompejus Occo (um 1483 bis 1535)', Emder Jahrbuch 68 (1988), p. 39-64.",
+    "E.J. Wolleswinkel in De Nederlandsche Leeuw (1987) juni, kol. 239-240.",
+    "Rijksmuseum Kunstkrant 9 (1982) okt.",
+    "Rijksmuseum Kunstkrant 8 (1982) nr. 10 juni.",
+    "D.G. Carasso, 'Amsterdams opkomst', Ons Amsterdam 24 (1972), p. 43.",
+    "Otto N\u00fcbel, Pompejus Occo, 1483-1537 : Fuggerfaktor in Amsterdam, Tubingen 1972, p. 243-244.",
+    "B. Haak in Antiek 1 (1967), p. 23, afb. 1",
+    "F.J. Dubiez, 'De Amsterdamse bankier en humanist Pompejus Occo en zijn portret van Dirck Jacobsz', Ons Amsterdam 10 (1958), p. 159.",
+    "J.F.M. Sterck in Oud-Holland 51 (1934), p. 41.",
+    "J.F.M. Sterck in Oud-Holland 43 (1926), p. 251.",
+    "J.F.M. Sterck, 'Eenige Amsterdamsche Familieportrettenuit de 16e eeuw', Het Gildeboek (1925), p. 98, afb. 1.",
+    "J. Six in Oud-Holland 42 (1925), p. 11."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck Jacobsz",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "66.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "55.1"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "65"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "53.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Pompeius Occo, Dirck Jacobsz, c. 1531",
+  "subTitle": "h 66.5cm \u00d7 w 55.1cm",
+  "scLabelLine": "Dirck Jacobsz (c. 1497\u20131567), Amsterdam, c. 1531, oil on panel",
+  "label": {
+    "title": "Pompeius Occo",
+    "makerLine": "Dirck Jacobsz (c. 1497\u20131567), Amsterdam, c. 1531, oil on panel",
+    "description": "Pompeius Occo (1483\u20131537) came from a north German family and grew up in Augsburg. In 1511 he settled in Amsterdam as a representative of the Fugger banking house and business firm of Augsburg. He played a leading role in the city\u2019s cultural and religious life. The skull alludes to the transience of earthly existence, and the red carnation to the hope of eternal life.",
+    "notes": null,
+    "date": "2012-11-22"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

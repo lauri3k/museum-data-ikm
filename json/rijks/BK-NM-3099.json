@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-3099",
+  "priref": "24379",
+  "objectNumber": "BK-NM-3099",
+  "language": "en",
+  "title": "Epitaph for the Ros Family with the Seat of Mercy",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3dec9e0f-0ab3-405b-a12c-82b4ca9c7555",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1946,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/fZoIV9rrdNKszHEKCL2p4Sl3VeCQuc_wA-QwTWdJiLeIb28zMBdKT1dZesJkQ0vBudSIU-gOensqQ-bqT1ibU4P1hw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#23292A"
+    },
+    {
+      "percentage": 20,
+      "hex": " #D1C094"
+    },
+    {
+      "percentage": 15,
+      "hex": " #AA976D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #554223"
+    },
+    {
+      "percentage": 7,
+      "hex": " #7B7561"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F2E5B6"
+    },
+    {
+      "percentage": 2,
+      "hex": " #4F595B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#23292A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D1C094",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AA976D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #554223",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7B7561",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F2E5B6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4F595B",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 35,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 39,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 9,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Epitaph for the Ros Family with the Seat of Mercy"
+  ],
+  "description": "Grafsteen van de familie Ros uit de Grote Kerk te Wageningen. Het wandreli\u00ebf, ter nagedachtenis van  overledenen, is gehavend. De koppen van de figuren zijn weggehakt of beschadigd.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Arnt van Tricht",
+      "unFixedName": "Arnt van Tricht",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Kalkar"
+      ],
+      "qualification": null,
+      "labelDesc": "Arnt van Tricht, Kalkar"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Arnt van Tricht",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1877-01-01T00:00:00",
+    "creditLine": "On loan from the City of Wageningen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "sandstone"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Kalkar"
+  ],
+  "dating": {
+    "presentingDate": "c. 1550",
+    "sortingDate": 1550,
+    "period": 16,
+    "yearEarly": 1550,
+    "yearLate": 1550
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11B3232"
+    ],
+    "iconClassDescription": [
+      "God the Father standing or seated, holding the body of Christ, 'Piti\u00c3\u00a9-de-Notre-Seigneur', 'Not Gottes'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1578-111578-12"
+    ],
+    "places": [
+      "Grote Kerk"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-3099"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Beeldhouwkunst & Kunstnijverheid."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Arnt van Tricht",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "27"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": "c.",
+      "part": null,
+      "value": "209"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "Baumberger sandstone with remnants of polychromy",
+  "longTitle": "Epitaph for the Ros Family with the Seat of Mercy, Arnt van Tricht, c. 1550",
+  "subTitle": "h 144cm \u00d7 w 104cm \u00d7 d 27cm \u00d7 w c.209kg",
+  "scLabelLine": "Arnt van Tricht, c. 1550, Baumberger sandstone with remnants of polychromy",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

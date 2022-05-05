@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1610",
+  "priref": "6592",
+  "objectNumber": "SK-A-1610",
+  "language": "en",
+  "title": "The Grey Horse",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f9f3ccb-ff46-47f5-b032-d73cfc5cdce5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2268,
+    "height": 2682,
+    "url": "https://lh3.googleusercontent.com/F8rQyE1nOY5PVfHFkc8XJP03o7vnhpZnCTHOvUxtJvuQUfwy0nJsvfD7QctAlN-e8RwoSUVZiBnB3dgCYvrnEJuHibVKRFQJrd_OOZg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#796B56"
+    },
+    {
+      "percentage": 14,
+      "hex": " #8B806D"
+    },
+    {
+      "percentage": 22,
+      "hex": " #ACA08C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #BFBCB1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #211812"
+    },
+    {
+      "percentage": 12,
+      "hex": " #614733"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#796B56",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8B806D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ACA08C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFBCB1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #211812",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #614733",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 22,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 27,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 22,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "The Grey"
+  ],
+  "description": "Staande op een heuvel houdt een jongen een wit paard bij de toom terwijl rechts de ruiter gehurkt zijn behoefte doet.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Philips Wouwerman",
+      "unFixedName": "Wouwerman, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1619-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1668-05-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philips Wouwerman (24-mei-1619 - 19-mei-1668)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philips Wouwerman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1894-03-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oak (wood)",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1646",
+    "sortingDate": 1646,
+    "period": 17,
+    "yearEarly": 1646,
+    "yearLate": 1646
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C13141",
+      "31A62"
+    ],
+    "iconClassDescription": [
+      "horse",
+      "defecation"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1610"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jaarverslag 1894, p. 28.",
+    "Documentatiemap: inventariskaart; dendrochronologisch rapport, 2008-09-09; foto's; referentie vergelijkbare afbeelding."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Philips Wouwerman",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "43.9"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "37.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Grey Horse, Philips Wouwerman, c. 1646",
+  "subTitle": "h 43.9cm \u00d7 w 37.6cm",
+  "scLabelLine": "Philips Wouwerman (1619\u20131668), oil on panel, c. 1646",
+  "label": {
+    "title": "The Grey Horse",
+    "makerLine": "Philips Wouwerman (1619\u20131668), oil on panel, c. 1646",
+    "description": "A grey horse, whose reins are held by a boy, plays the leading role in this small panel. The horse stands out\nclearly against the dramatic cloudy sky. Wouwerman\u2019s rendering of the animal with its almost palpable coat\nis very lifelike. By choosing a low vantage point, the artist strengthened the painting\u2019s monumental effect.",
+    "notes": null,
+    "date": "2013-03-21"
+  },
+  "showImage": true,
+  "location": null
+}

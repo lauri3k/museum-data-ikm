@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-184",
+  "priref": "36105",
+  "objectNumber": "RP-P-OB-184",
+  "language": "en",
+  "title": "Saint Jerome Reading in an Italianate Landscape",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2a2bbe9e-d834-440f-9e87-9f127e687958",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2029,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Ozh76ERvySQDJzguuAu5Y3Ucmj4OJkYX3kXiEhzTxh1pr3zwA4FnqINi6vnyFTH5Aj_ZAmXkX6vDk0pQ_IyEZclX9RYW=s0"
+  },
+  "colors": [
+    {
+      "percentage": 25,
+      "hex": "#CCC1A8"
+    },
+    {
+      "percentage": 21,
+      "hex": " #746E5D"
+    },
+    {
+      "percentage": 19,
+      "hex": " #4A493F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B3A890"
+    },
+    {
+      "percentage": 12,
+      "hex": " #968F7E"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F2F1EC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DFD7C1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CCC1A8",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #746E5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A493F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #B3A890",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #968F7E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F2F1EC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DFD7C1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 38,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 38,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 33,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 19,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "St Jerome reading in an Italian landscape"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "Japanese paper (handmade paper)"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1653",
+    "sortingDate": 1653,
+    "period": 17,
+    "yearEarly": 1653,
+    "yearLate": 1653
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JEROME)361"
+    ],
+    "iconClassDescription": [
+      "St. Jerome as hermit in a landscape, reading"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-184"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "C.B. Scallen, 'Rembrandt's etching St Jerome reading in an Italian landscape', Delineavit et Sculpsit 8 (1992), p. 1-11",
+    "S.D. Kuretsky, 'Rembrandt's tree stump. An iconographic attribute of St Jerome', The Art Bulletin 56 (1974), p. 576-578"
+  ],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 275",
+    "275",
+    "Bartsch 104",
+    "104",
+    "Hollstein Dutch 104",
+    "104"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "260"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "209"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Saint Jerome Reading in an Italianate Landscape, Rembrandt van Rijn, c. 1653",
+  "subTitle": "h 260mm \u00d7 w 209mm",
+  "scLabelLine": "etching and drypoint, printed with surface tone on Japanese paperfirst state of two, c. 1653",
+  "label": {
+    "title": "Saint Jerome Reading in an Italianate Landscape",
+    "makerLine": "etching and drypoint, printed with surface tone on Japanese paperfirst state of two, c. 1653",
+    "description": "The upright format and diagonal sweep of this etching were derived from Titian. Rembrandt underscored the diagonal layout of the depiction by alternating passages of light and shade. He left the foreground deliberately unfinished to produce the effect of bright sunlight. The shaded area behind Jerome is a dense web of parallel and criss-crossed drypoint lines.",
+    "notes": null,
+    "date": "2015-07-27"
+  },
+  "showImage": true,
+  "location": null
+}

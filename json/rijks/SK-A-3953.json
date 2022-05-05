@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3953",
+  "priref": "10060",
+  "objectNumber": "SK-A-3953",
+  "language": "en",
+  "title": "Portrait of Ambrogio Spinola",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "005bf111-ff85-4242-9ee8-e7439fa19677",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1823,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/ZbAScokeFo_8_6vJUW5rmqPelL80vYh5m0CZPlRTqBFzRhCfMV85fMAJYtZicdXfdynhYypvSJeXUPZGQh3V_SzMt4xfVBfo3m7SZijw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#524829"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AF9F75"
+    },
+    {
+      "percentage": 3,
+      "hex": " #877A4E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #712717"
+    },
+    {
+      "percentage": 83,
+      "hex": " #210D0C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D9CCA8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#524829",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #AF9F75",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #877A4E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #712717",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #210D0C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D9CCA8",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 83,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #800000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 83,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #981313"
+    }
+  ],
+  "titles": [
+    "Portrait of Ambrogio Spinola (1569-1630)"
+  ],
+  "description": "Portret van Ambrogio Spinola, opperbevelhebber der Spaanse troepen in de Zuidelijke Nederlanden. Heupstuk, staande in wapenrusting bij een tafel waarop de helm met pluimen staat. Commandostaf in de rechterhand, de linkerhand op het gevest van zijn degen. Aan een ketting om de hals het embleem van de Orde van het Gulden Vlies.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michiel Jansz van Mierevelt",
+      "unFixedName": "Mierevelt, Michiel Jansz van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1567-05-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-06-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Michiel Jansz van Mierevelt (01-mei-1567 - 27-jun-1641), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michiel Jansz van Mierevelt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1609",
+    "sortingDate": 1609,
+    "period": 17,
+    "yearEarly": 1609,
+    "yearLate": 1609
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45C22",
+      "45C212",
+      "46A1241(GOLDEN FLEECE)1"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "armour",
+      "baton of general",
+      "knighthood order of the Golden Fleece - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)"
+    ],
+    "motifs": [],
+    "events": [
+      "Tachtigjarige Oorlog"
+    ],
+    "periods": [
+      "16091625"
+    ],
+    "places": [
+      "Spanje",
+      "Zuidelijke Nederlanden"
+    ],
+    "people": [
+      "Spinola, Ambrogio (markies de los Balbases)"
+    ],
+    "objectNumbers": [
+      "SK-A-3953"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Spinola, Ambrogio (markies de los Balbases)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michiel Jansz van Mierevelt",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "119"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "87.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Ambrogio Spinola, Michiel Jansz van Mierevelt, 1609",
+  "subTitle": "h 119cm \u00d7 w 87.5cm",
+  "scLabelLine": "Michiel van Mierevelt (1566-1641), oil on canvas, 1609",
+  "label": {
+    "title": "Portrait of Ambrogio Spinola",
+    "makerLine": "Michiel van Mierevelt (1566-1641), oil on canvas, 1609",
+    "description": "Between 1601 and 1627 Ambrogio Spinola is by far the most important general of the Spanish army. During the Siege of Ostend, which lasts from 1601 to 1604, Spinola provides not only his services, but also his money for this cause. These additional means are most welcome, for now he can pay his troops should the funds from Spain be delayed. Under his command the Spanish army recaptures Oldenzaal and Groenlo, and in 1625 even the most important fortified city, Breda.",
+    "notes": null,
+    "date": "2018-11-06"
+  },
+  "showImage": true,
+  "location": null
+}

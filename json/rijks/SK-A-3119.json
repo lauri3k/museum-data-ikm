@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3119",
+  "priref": "4637",
+  "objectNumber": "SK-A-3119",
+  "language": "en",
+  "title": "Portraits of Sir Thomas Gresham and Anne Fernely",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bb3f4d80-9fbe-43e8-9396-be26d1c6336b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 4,
+    "width": 2120,
+    "height": 2508,
+    "url": "https://lh3.googleusercontent.com/5bKxqWfm_J_Z9j_74FkNo44f5va7iGZEZTkFyzfXrIcQgOEtUI--nl9iHY63Qpki4mKo6Rqvnx_9fuQ-DrarZIKcsRFZ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 23,
+      "hex": "#0C0C07"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A8A294"
+    },
+    {
+      "percentage": 3,
+      "hex": " #665B4F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #83786B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #50402F"
+    },
+    {
+      "percentage": 61,
+      "hex": " #2E2A18"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0C0C07",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A8A294",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #665B4F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #83786B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #50402F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2E2A18",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 84,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Portrait of Anne Fernely. Wife of Sir Thomas Gresham"
+  ],
+  "description": "Portret van Anne Fernely (Lady Gresham), de echtgenote van Sir Thomas Gresham. Zittend in een stoel, naar links. Pendant van SK-A-3118.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Anthonis Mor",
+      "unFixedName": "Mor, Anthonis",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1519",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1575",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Anthonis Mor (1519 - c. 1575), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anthonis Mor",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1931-05-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1560 - c. 1565",
+    "sortingDate": 1560,
+    "period": 16,
+    "yearEarly": 1560,
+    "yearLate": 1565
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Fernely, Anne"
+    ],
+    "objectNumbers": [
+      "SK-A-3119"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Fernely, Anne"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "F. Bijl de Vroe, \"Het Nationaal Fonds 1930 en de voorzitters M.P. Vo\u00fbte en E. Heldring\", Bulletin van de Vereniging Rembrandt 15 (2005), nr. 2, p. 29-31."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anthonis Mor",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "75.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel transferred to canvas",
+  "longTitle": "Portraits of Sir Thomas Gresham and Anne Fernely, Anthonis Mor, c. 1560 - c. 1565",
+  "subTitle": "h 88cm \u00d7 w 75.5cm",
+  "scLabelLine": "Anthonis Mor (1519\u2013c. 1576/78), Antwerp, c. 1560\u20131565, oil on panel",
+  "label": {
+    "title": "Portraits of Sir Thomas Gresham and Anne Fernely",
+    "makerLine": "Anthonis Mor (1519\u2013c. 1576/78), Antwerp, c. 1560\u20131565, oil on panel",
+    "description": "Sir Thomas Gresham (1519\u20131579) was the leading English merchant in Antwerp and also the English king\u2019s financial agent in the Low Countries. He and his wife, Anne Fernely, are expensively, yet soberly dressed. Their status is also evident in their choice of painter: Anthonis Mor was one of the preeminent portraitists of his day and court painter to the Spanish king.",
+    "notes": "Geldt ook voor SK-A-3118.",
+    "date": "2012-11-22"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

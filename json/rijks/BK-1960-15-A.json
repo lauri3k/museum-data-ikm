@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1960-15-A",
+  "priref": "18419",
+  "objectNumber": "BK-1960-15-A",
+  "language": "en",
+  "title": "Two salt-cellars, one with Cain and Abel, and one with the Sacrifice of Isaac",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fe56c2c2-6120-44d1-9391-b7e7c61fae0d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2426,
+    "url": "https://lh5.ggpht.com/ji2G7C-_c90WhuNWFY6cfGyFqktYQ64K9WsKewI-UDtjZjVmgJLbleLb_V0tj4x3RFCn53pAo2-EFUHd22ENjk7jVQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Figuraal zoutvat van gedreven zilver, bestaande uit een voetstuk, een groep van dragende figuren en het vat. Voorstellende: Ka\u00efn en Abel.",
+  "labelText": null,
+  "objectTypes": [
+    "salt (condiment vessel)"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adam van Vianen (I)",
+      "unFixedName": "Vianen, Adam van (I)",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1569",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1627",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "silversmith"
+      ],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Adam van Vianen (I) (1569 - 1627), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adam van Vianen (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1621",
+    "sortingDate": 1621,
+    "period": 17,
+    "yearEarly": 1621,
+    "yearLate": 1621
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71A82",
+      "48A98"
+    ],
+    "iconClassDescription": [
+      "the killing of Abel: Cain slays him with a stone, a club or a jaw-bone, alternatively with a spade or another tool as weapon",
+      "ornaments ~ art"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1960-15-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Annemarie Vels Heijn, 'Zoutvaten in verschillende stijlen', Rijksmuseum Kunstkrant 16 (1989/1990) nr. 1, afb, p. 9."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adam van Vianen (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "26.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "13.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "13.0"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "1008"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Two salt-cellars, one with Cain and Abel, and one with the Sacrifice of Isaac, Adam van Vianen (I) (possibly), 1621",
+  "subTitle": "h 26.5cm \u00d7 d 13.5cm",
+  "scLabelLine": "Adam van Vianen (c. 1569\u20131627), silver, 1620, 1621",
+  "label": {
+    "title": "Two salt-cellars, one with Cain and Abel, and one with the Sacrifice of Isaac",
+    "makerLine": "Adam van Vianen (c. 1569\u20131627), silver, 1620, 1621",
+    "description": "These two silver sculptures are actually salt-cellars. Each depicts an Old Testament scene with a figure threatening another. One presents Cain killing his brother out of envy, and the other Abraham obeying God\u2019s command to sacrifice his son Isaac.",
+    "notes": null,
+    "date": "2013-03-18"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

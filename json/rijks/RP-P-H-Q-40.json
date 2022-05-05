@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-Q-40",
+  "priref": "46668",
+  "objectNumber": "RP-P-H-Q-40",
+  "language": "en",
+  "title": "Jongen in een atelier",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b7323bf3-dccd-47cd-b2a3-ccffbe499ee0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2248,
+    "height": 2736,
+    "url": "https://lh4.ggpht.com/AmTkHXsL3V_le8vNvj9UNXZfiz_vbvPFZbzXt_sjJjtnygXxQsNDvuIeBcuGWiK6uH1WvazcWMn47sulyp5Qo-lGOw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#F6F3E9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DCD7C6"
+    },
+    {
+      "percentage": 8,
+      "hex": " #BEB8A6"
+    },
+    {
+      "percentage": 11,
+      "hex": " #918C7B"
+    },
+    {
+      "percentage": 16,
+      "hex": " #625E4D"
+    },
+    {
+      "percentage": 30,
+      "hex": " #413F34"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F3E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DCD7C6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BEB8A6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #918C7B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #625E4D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #413F34",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 46,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 27,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 30,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 28,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Jongen in een atelier"
+  ],
+  "description": "Een jongen zit een boek te lezen in een atelier. Voor hem staat een album met tekeningen en om hem heen nog meer studiemateriaal: opgerolde prenten en gipsmodellen. Het beeldje dat voor hem staat is een afgietsel van het Christuskind dat Michelangelo maakte voor de kathedraal van Brugge.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Wallerant Vaillant",
+      "unFixedName": "Vaillant, Wallerant",
+      "placeOfBirth": "Lille",
+      "dateOfBirth": "1623",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1677-08-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Wallerant Vaillant (1623 - 28-aug-1677)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Wallerant Vaillant",
+      "unFixedName": "Vaillant, Wallerant",
+      "placeOfBirth": "Lille",
+      "dateOfBirth": "1623",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1677-08-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Wallerant Vaillant (1623 - 28-aug-1677)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wallerant Vaillant",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650 - 1675",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1675
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48B122",
+      "49N",
+      "48B14"
+    ],
+    "iconClassDescription": [
+      "artist (in general) studying classical remains",
+      "lezen",
+      "education, tuition of the artist (in general)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-Q-40"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 98",
+    "98"
+  ],
+  "principalOrFirstMaker": "Wallerant Vaillant",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "275"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "213"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Jongen in een atelier, Wallerant Vaillant, 1650 - 1675",
+  "subTitle": "h 275mm \u00d7 w 213mm",
+  "scLabelLine": "Wallerant Vaillant, 1650 - 1675, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-559",
+  "priref": "668",
+  "objectNumber": "AK-MAK-559",
+  "language": "en",
+  "title": "Vase",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0fb728d5-c3c2-4c9d-aa41-730172e6ffbe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2112,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/RwXXzw4ZJPSKK7vBqpQFCT63JDcJ2uINY6yDK1XAfE5p0rKtX64-P8550LvsJ0H6UZZzrcfEKyLTfC1rT0rSbi9RqvY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#0B0B04"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2D2A18"
+    },
+    {
+      "percentage": 23,
+      "hex": " #4B5043"
+    },
+    {
+      "percentage": 40,
+      "hex": " #7A7E69"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D0D0C1"
+    },
+    {
+      "percentage": 24,
+      "hex": " #A6A88F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0B0B04",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #2D2A18",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4B5043",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7A7E69",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D0D0C1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A6A88F",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 24,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 23,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Funeral vase with figures, clouds and a dragon"
+  ],
+  "description": "Grafvaas van steengoed met een eivormige buik en een lange, brede, naar boven toe vernauwende nek, gedeeltelijk bedekt met een transparant glazuur met een lichtblauwe tint. Op de nek een geappliceerde decoratie van een band met figuren op een gemodelleerde, geschulpte rand. Daarboven verschillende figuren en een draak tussen wolken. Onder de rand een ringvormige verdikking met een gemodelleerde, geschulpte rand. Onder deze verdikking vier kleine, gemodelleerde ringen. Enkele chips in de rand. Qingbai.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1127 - c. 1279",
+    "sortingDate": 1127,
+    "period": 12,
+    "yearEarly": 1127,
+    "yearLate": 1279
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12N",
+      "25FF411"
+    ],
+    "iconClassDescription": [
+      "traditionele Chinese religies",
+      "dragon"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-559"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "J. Wirgin, Sung ceramic design, pl. 30a, 30b."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "63.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "18"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "12.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Vase, anonymous, c. 1127 - c. 1279",
+  "subTitle": "h 63.5cm \u00d7 d 9cm",
+  "scLabelLine": "China, c. 1127-1279, stoneware",
+  "label": {
+    "title": "Vase",
+    "makerLine": "China, c. 1127-1279, stoneware",
+    "description": "This vase has an unusual oval shape with a tall slender neck around which are depicted clouds, dragons, and immortal beings. This type of vase is known as hunping (vase of the soul). It was placed in a grave along with the deceased with the wish that their soul would safely ascend to heaven.",
+    "notes": null,
+    "date": "2018-10-13"
+  },
+  "showImage": true,
+  "location": null
+}

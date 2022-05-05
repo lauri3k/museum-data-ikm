@@ -1,0 +1,263 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-14656",
+  "priref": "250580",
+  "objectNumber": "BK-14656",
+  "language": "en",
+  "title": "Dolls\u2019 house of Petronella Dunois",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "41b21ee4-66d2-4202-9086-4876e0d04db0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2439,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/tRvaH__2NAnZozC8ts2R4Pe6PChhAz1BDIZgWkoDEi47Zdq0zblX_Q7zvivGOm46-HaA_YHfQDZecaZCsSm-Ju5S8w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 2,
+      "hex": "#ECEFF0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #6F6151"
+    },
+    {
+      "percentage": 21,
+      "hex": " #A1855F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #130E0A"
+    },
+    {
+      "percentage": 48,
+      "hex": " #C8C7B9"
+    },
+    {
+      "percentage": 20,
+      "hex": " #614128"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECEFF0",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #6F6151",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A1855F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #130E0A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #C8C7B9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #614128",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "Poppenhuis in een kast belijmd met wortelnotenhout op een eikenhouten kern. De geslingerde poten zijn verbonden door een dubbel Y-vormig kruis, met een ovaal kruispunt. De zijkanten vertonen binnen cirkels achtpuntige sterren. Achter de deuren, waarin openingen zijn uitgezaagd, zijn v.l.n.r. de volgende ruimten aangebracht: onder: kelder, keuken, eetzaal; midden: kraam- en beste kamer; boven: turfzolder, zolder, kinderkamer. Het huis is gevuld met een verzameling miniatuurvoorwerpen en een en twintig poppen.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture",
+    "dollhouse"
+  ],
+  "objectCollection": [
+    "dollhouse"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1934-01-01T00:00:00",
+    "creditLine": "Gift of A.S.M. van Tienhoven-Hacke"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "oak (wood)",
+    "ebony (wood)",
+    "cardboard",
+    "chintz",
+    "silk",
+    "gilding (material)"
+  ],
+  "techniques": [
+    "gilding",
+    "chintz"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1676",
+    "sortingDate": 1676,
+    "period": 17,
+    "yearEarly": 1676,
+    "yearLate": 1676
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A2",
+      "41A256",
+      "43C7871",
+      "41A7"
+    ],
+    "iconClassDescription": [
+      "interior of the house",
+      "storage space",
+      "(playing with) dolls",
+      "furniture and household effects"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Dunois, Petronella"
+    ],
+    "objectNumbers": [
+      "BK-14656"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Dunois, Petronella"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Inzoomer object op zaal, 2013 (Nederlands/English).",
+    "Jaarverslag Rijksmuseum (2011), afb. p. 103.",
+    "Eeghen, I.H. van, in: Amstelodamum, november 1953",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "150.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "56"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Dolls\u2019 house of Petronella Dunois, anonymous, c. 1676",
+  "subTitle": "h c.200cm \u00d7 w c.150.5cm \u00d7 d c.56cm",
+  "scLabelLine": "Amsterdam, c. 1676, oak cabinet, veneered with walnut, cedar and ebony",
+  "label": {
+    "title": "Dolls\u2019 house of Petronella Dunois",
+    "makerLine": "Amsterdam, c. 1676, oak cabinet, veneered with walnut, cedar and ebony",
+    "description": "Various objects in this dolls\u2019 house are marked with the year 1676, which was probably when it was largely completed. It was made for Petronella Dunois (1650\u20131695), a wealthy orphan who lived with her sister in Amsterdam. The dolls\u2019 house contains a peat loft, a linen room, a nursery, a lying-in room, a reception room, a cellar, a kitchen and a dining room.",
+    "notes": null,
+    "date": "2013-03-19"
+  },
+  "showImage": true,
+  "location": "HG-2.20"
+}

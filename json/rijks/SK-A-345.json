@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-345",
+  "priref": "5316",
+  "objectNumber": "SK-A-345",
+  "language": "en",
+  "title": "Cimon and Pero",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "58977de5-2ee9-4fbd-bd50-46bcb7c86fb2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 0,
+    "width": 2938,
+    "height": 2434,
+    "url": "https://lh3.googleusercontent.com/y9vstIVZvW73JWQD3xcakpVfVsThmeinriARLFr-cJnBWIDPl4WZ36HWJ07wNyyB9VQ3ZqK-R9gLucC2R9tWmNzoX4YXkC1NqPAOqiDF=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#CEBF9D"
+    },
+    {
+      "percentage": 7,
+      "hex": " #AB9670"
+    },
+    {
+      "percentage": 11,
+      "hex": " #7B6744"
+    },
+    {
+      "percentage": 32,
+      "hex": " #281B0E"
+    },
+    {
+      "percentage": 46,
+      "hex": " #623720"
+    },
+    {
+      "percentage": 1,
+      "hex": " #954430"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CEBF9D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AB9670",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7B6744",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #281B0E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #623720",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #954430",
+      "normalizedHex": "#981313"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 46,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 32,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#981313"
+    },
+    {
+      "percentage": 32,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Cimon and Pero"
+  ],
+  "description": "Cimon en Pero. De dochter geeft haar vader, die geboeid in de gevangenis zit, de borst. Rechts twee soldaten voor een getralied venster.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Peter Paul Rubens",
+      "unFixedName": "Rubens, Peter Paul",
+      "placeOfBirth": "Siegen",
+      "dateOfBirth": "1577-06-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1640-05-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Peter Paul Rubens (28-jun-1577 - 30-mei-1640)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Peter Paul Rubens",
+      "unFixedName": "Rubens, Peter Paul",
+      "placeOfBirth": "Siegen",
+      "dateOfBirth": "1577-06-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1640-05-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Peter Paul Rubens (28-jun-1577 - 30-mei-1640)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Peter Paul Rubens",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "exchange",
+    "date": "1825-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1635",
+    "sortingDate": 1635,
+    "period": 17,
+    "yearEarly": 1635,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42B41"
+    ],
+    "iconClassDescription": [
+      "Pero suckling Cimon ('Caritas romana')"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-345"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Peter Paul Rubens",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "156.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "188.8"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "11.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Cimon and Pero, Peter Paul Rubens (workshop of), c. 1635",
+  "subTitle": "h 156.4cm \u00d7 w 188.8cm",
+  "scLabelLine": "Peter Paul Rubens, c. 1635, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

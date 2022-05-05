@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3855",
+  "priref": "5547",
+  "objectNumber": "SK-A-3855",
+  "language": "en",
+  "title": "Portrait of Joseph Deutz",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0ac61530-0d36-4651-94f6-93e86fe093f2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 24,
+    "width": 2007,
+    "height": 2658,
+    "url": "https://lh3.googleusercontent.com/KBcvrAs0coEG-v_RVcX7vqnZaviFTa0ls9-3EOLa8YMbKdtOW-L_Q6ZA9Atz5No-sSUlATmoBTLx6PAYxOYNl-qlYNG7=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#8B7667"
+    },
+    {
+      "percentage": 86,
+      "hex": " #15120D"
+    },
+    {
+      "percentage": 6,
+      "hex": " #453A30"
+    },
+    {
+      "percentage": 2,
+      "hex": " #6A6058"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B4A497"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2CCC0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#8B7667",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #15120D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #453A30",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6A6058",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B4A497",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #D2CCC0",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 86,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 92,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Portret van Joseph Deutz (1624-84). Ten halven lijve, staand met de rechterhand bij de kin, de linkerhand in de zij.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michael Sweerts",
+      "unFixedName": "Sweerts, Michael",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1618-09-29",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1664",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Goa",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Michael Sweerts (29-sep-1618 - 1664)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michael Sweerts",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1953-05-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1648 - c. 1649",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1649
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+53)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ half-length portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Deutz, Joseph"
+    ],
+    "objectNumbers": [
+      "SK-A-3855"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Deutz, Joseph"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michael Sweerts",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "99.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "74.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Joseph Deutz, Michael Sweerts, c. 1648 - c. 1649",
+  "subTitle": "h 99.5cm \u00d7 w 74.5cm",
+  "scLabelLine": "Michael Sweerts (1618\u20131664), oil on canvas, c. 1648\u20131649",
+  "label": {
+    "title": "Portrait of Joseph Deutz",
+    "makerLine": "Michael Sweerts (1618\u20131664), oil on canvas, c. 1648\u20131649",
+    "description": "This is an unusual portrait: a young man direct engaging the viewer, as though he is about to speak. Sweerts portrayed Joseph Deutz in Rome, while he was sojourning there with his brothers. Deutz (1624\u20131684) was a member of one of the wealthiest families in Amsterdam. His art collection also included Sweerts\u2019 paintings of the \u2018Seven Works of Mercy\u2019, four of which are presented in this gallery.",
+    "notes": null,
+    "date": "2013-04-09"
+  },
+  "showImage": true,
+  "location": "HG-2.17"
+}

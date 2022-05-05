@@ -1,0 +1,181 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-B-116-1",
+  "priref": "25147",
+  "objectNumber": "BK-B-116-1",
+  "language": "en",
+  "title": "Buste van Jhr. Mr. Victor Eugene Louis de Stuers (1843-1916)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d9d42810-448a-4d10-97c7-93f62de6ce2b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1982,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/3Sqq9SQYLcPzzivaWp6X__Q8v3hZdzePygmAuXNOMm9PLrvppFe5zGAHFl-AjbliQ6GRPqvmPlnbttu2ImNFrvo6J0TqMEwD_i_AjfWr=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Buste van Jhr. Mr. Victor Eugene Louis de Stuers (1843-1916)"
+  ],
+  "description": "Buste van marmer van Jhr. Mr. Victor Eugene Louis de Stuers (1843-1916).",
+  "labelText": null,
+  "objectTypes": [
+    "bust"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Toon Dupuis",
+      "unFixedName": "Dupuis, Toon",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1877-02-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1937-10-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": null,
+      "labelDesc": "Toon Dupuis (18-feb-1877 - 13-okt-1937), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Toon Dupuis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1915-02-01T00:00:00",
+    "creditLine": "Gift of the Vrienden en vereerders van V.E.L. de Stuers"
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1914",
+    "sortingDate": 1914,
+    "period": 20,
+    "yearEarly": 1914,
+    "yearLate": 1914
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18431916"
+    ],
+    "places": [],
+    "people": [
+      "Stuers, jonkheer Victor Eug\u00e8ne Louis de"
+    ],
+    "objectNumbers": [
+      "BK-B-116-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Stuers, jonkheer Victor Eug\u00e8ne Louis de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "H.E. van Gelder, 'Jhr. Mr. Victor de Stuers, 1843 - 20 october 1943', Oudheidkundig Jaarboek XII (1943), pl. I.",
+    "Jaarverslag Rijksmuseum (1915), p. 4, afb."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Toon Dupuis",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "83"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "66.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "47"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "110"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "72"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "56"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "313.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "marble (rock)",
+  "longTitle": "Buste van Jhr. Mr. Victor Eugene Louis de Stuers (1843-1916), Toon Dupuis, 1914",
+  "subTitle": "h c.83cm \u00d7 w c.66.5cm \u00d7 d c.47cm",
+  "scLabelLine": "Toon Dupuis, 1914, marble (rock)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

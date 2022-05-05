@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3835",
+  "priref": "10006",
+  "objectNumber": "SK-A-3835",
+  "language": "en",
+  "title": "Portrait of Philip the Good, Duke of Burgundy",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2925e307-7fa5-4152-9170-a2b641ae498b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 2,
+    "width": 2645,
+    "height": 2568,
+    "url": "https://lh3.googleusercontent.com/OI011UGmiUiuGMvlklx988QVf-ElT7P-J3s3TmcGo2pi0cFcotBXQU2oXeSp3M5EPzmwXpGBJ0ckLVl2-gVPgyqbeQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 65,
+      "hex": "#4E2818"
+    },
+    {
+      "percentage": 28,
+      "hex": " #826A4D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AA926C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #030302"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C4AF86"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E8D5AB"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F8F2D9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4E2818",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #826A4D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #AA926C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #030302",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #C4AF86",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E8D5AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F8F2D9",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 65,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 28,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#981313"
+    },
+    {
+      "percentage": 28,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Portrait of Philip the Good, Duke of Burgundy"
+  ],
+  "description": "Portret van Filips de Goede, hertog van Bourgondi\u00eb. Staande, naar links, ten voeten uit op een tegelvloer. Om de hals de keten van het Gulden Vlies. Rechtsboven het familiewapen. Met ge\u00efntegreerde lijst. Pendant van SK-A-3836.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Southern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1952-01-01T00:00:00",
+    "creditLine": "Gift of Kunsthandel G. Wildenstein"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Southern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1460 - c. 1480",
+    "sortingDate": 1460,
+    "period": 15,
+    "yearEarly": 1460,
+    "yearLate": 1480
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A122",
+      "61B2(+55)"
+    ],
+    "iconClassDescription": [
+      "armorial bearing, heraldry",
+      "historical persons (+ full length portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "13961467"
+    ],
+    "places": [
+      "Bourgondi\u00eb"
+    ],
+    "people": [
+      "Filips de Goede (hertog van Bourgondi\u00eb)"
+    ],
+    "objectNumbers": [
+      "SK-A-3835"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Filips de Goede (hertog van Bourgondi\u00eb)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": "support",
+      "value": "38.7"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": "support",
+      "value": "3.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Philip the Good, Duke of Burgundy, anonymous, c. 1460 - c. 1480",
+  "subTitle": "d 38.7cm \u00d7 t 3.3cm",
+  "scLabelLine": "anonymous, c. 1460 - c. 1480, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,146 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-241",
+  "priref": "36288",
+  "objectNumber": "RP-P-OB-241",
+  "language": "en",
+  "title": "The Shell (Conus marmoreus)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a9304642-a543-4f43-953e-255dc4d63aa2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1875,
+    "url": "https://lh4.ggpht.com/aJOT03s3p0QNO0xJvCWWpGrF6W2qR9Pny_wMhyaDcauba74onvSQtZbcUkQExlh8M77whe7lQZ__ThcRRdubt-X96w=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The shell"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F72(+36)"
+    ],
+    "iconClassDescription": [
+      "molluscs (+ shell, snail-shell etc.)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-241"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 247",
+    "247",
+    "Bartsch 159",
+    "159",
+    "Hollstein Dutch 159",
+    "159"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "97"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "129"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "The Shell (Conus marmoreus), Rembrandt van Rijn, 1650",
+  "subTitle": "h 97mm \u00d7 w 129mm",
+  "scLabelLine": "Rembrandt Harmensz van Rijn (1606\u20131669), etchings, engraving and drypoint, 1650",
+  "label": {
+    "title": "The Shell (Conus marmoreus)",
+    "makerLine": "Rembrandt Harmensz van Rijn (1606\u20131669), etchings, engraving and drypoint, 1650",
+    "description": "Collecting exotic shells was a popular hobby in the 17th century, and it excited Rembrandt\u2019s interest too. He had a small natural history collection of his own, including this marbled cone shell; it is similar in shape to the conus cervus, a \u2018deer\u2019 cone. He rendered the form and markings of the shell with meticulous care on the copperplate. Note that the shell appears in mirror image.",
+    "notes": null,
+    "date": "2013-08-05"
+  },
+  "showImage": true,
+  "location": null
+}

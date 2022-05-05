@@ -1,0 +1,295 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-MC-829",
+  "priref": "244643",
+  "objectNumber": "NG-MC-829",
+  "language": "en",
+  "title": "Model of a Lighthouse",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "db49e93e-7ec0-4305-a112-7f497be4f906",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1761,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/SPmDWxNya-mzN070SP2i6kWIrIFXl8p-tkLhTiebS8FqZM--fNIdcJB3hZbqUq369rmgNCQK8vZncQnjTSPHgRT67vV8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 80,
+      "hex": "#D6D4C9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #5A584B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #868477"
+    },
+    {
+      "percentage": 3,
+      "hex": " #38362E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B2AF9F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F2F2EE"
+    },
+    {
+      "percentage": 0,
+      "hex": " #17150F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D6D4C9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5A584B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #868477",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #38362E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #B2AF9F",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F2F2EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #17150F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 80,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Model of a Lighthouse"
+  ],
+  "description": "Houten model van een ronde vuurtoren op een vierkant gebouw. Het hele model is met zand bestreken en in twee kleuren grijs geverfd. Het mausoleumachtige gebouw, dat in feite om de voet van de toren heengebouwd is, heeft aan de landzijde een verlaagde ingang, geflankeerd door de latijnse opschriften. De toren heeft vijf ronde vensters mat kransen aan de zeezijde, en aan de landzijde twee kransen met gekruiste ankers, en het opschrift J.C.J. VAN SPEYK onder sterren en boven de Militaire Willemsorde gehangen aan twee palmtakken. De tienkantige kuip heeft een ronde omloop met een balustrade van fakkels; van de tien vensters zijn de vier aan landzijde geblindeerd. Tienkantige koepel met windvaan. Schaal 1:20 (Obreen).",
+  "labelText": null,
+  "objectTypes": [
+    "show model"
+  ],
+  "objectCollection": [
+    "Navy Model Room"
+  ],
+  "makers": [
+    {
+      "name": "J. Valk",
+      "unFixedName": "Valk, J.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "designer"
+      ],
+      "roles": [
+        "after design by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "J. Valk, Netherlands"
+    },
+    {
+      "name": "Johan David Zocher",
+      "unFixedName": "Zocher, Johan David",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1791-02-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1870-07-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "designer"
+      ],
+      "roles": [
+        "after design by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Johan David Zocher (12-feb-1791 - 08-jul-1870), Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "model maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1883-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "bronze (metal)",
+    "glass",
+    "gypsum",
+    "sand"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands",
+    "Netherlands",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1840",
+    "sortingDate": 1840,
+    "period": 19,
+    "yearEarly": 1840,
+    "yearLate": 1840
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C2831"
+    ],
+    "iconClassDescription": [
+      "lighthouse, lightship"
+    ],
+    "motifs": [],
+    "events": [
+      "Belgische Revolutie"
+    ],
+    "periods": [
+      "18301848"
+    ],
+    "places": [
+      "Egmond aan Zee",
+      "Vuurtoren J.C.J. van Speijk"
+    ],
+    "people": [
+      "Speijk, Jan Carel Josephus van",
+      "Militaire Willemsorde",
+      "Koninklijke College Zeemanshoop"
+    ],
+    "objectNumbers": [
+      "NG-MC-829"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Speijk, Jan Carel Josephus van",
+    "Militaire Willemsorde",
+    "Koninklijke College Zeemanshoop"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "J.C. de Leeuw, 'Het monument opgerigt ter eere van J.C.J. van Speyk te Egmond aan Zee', Bouwkundige Bijdrage I, (1843), p. 180-183, pl. XI."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "110"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood, bronze, glass, plaster and sand",
+  "longTitle": "Model of a Lighthouse, anonymous, 1840",
+  "subTitle": "h 160cm \u00d7 w 112cm \u00d7 d 110cm",
+  "scLabelLine": "anonymous, 1840, wood, bronze, glass, plaster and sand",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

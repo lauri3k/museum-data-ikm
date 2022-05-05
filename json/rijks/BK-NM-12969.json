@@ -1,0 +1,248 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12969",
+  "priref": "299484",
+  "objectNumber": "BK-NM-12969",
+  "language": "en",
+  "title": "The Flight into Egypt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a47e58a3-ed81-4470-8119-e889e9b6dc59",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/TvDrBDSFyN5qW3YJUIeAtedim_RYrA3wP4d40ZcecTgDP_V-OYUHjnFANaL2_l3V4FfTh-yWy5f9HfXePsgdLYdaIrg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 9,
+      "hex": "#DFE6E1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C9C99C"
+    },
+    {
+      "percentage": 19,
+      "hex": " #534939"
+    },
+    {
+      "percentage": 36,
+      "hex": " #15100A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #87763A"
+    },
+    {
+      "percentage": 15,
+      "hex": " #A49B6D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DFE6E1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C9C99C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #534939",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #15100A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #87763A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A49B6D",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 14,
+      "hex": " #EEE8AA"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F5FFFA"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 36,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 34,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 19,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Ronde gebrandschilderde ruit met voorstelling van de Vlucht naar Egypte. Maria zit schrijlings op de ezel, die door Jozef aan een leidsel wordt meegevoerd. Het in doeken gewikkelde Christuskind houdt zij beschermend in haar armen. Een os vergezelt hen, als verwijzing naar de geboorte van Christus. Op de achtergrond een landschap met een kasteel en een stad. Links op de achtergrond is de kindermoord te zien. In het midden is het wonder uitgebeeld, dat de heidense godenbeelden van de Egyptenaren van hun voetstukken vielen en in stuken braken, toen het Christuskind voor hen verscheen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Albrecht D\u00fcrer",
+      "unFixedName": "D\u00fcrer, Albrecht",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1471-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1528-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "after",
+      "labelDesc": "after Albrecht D\u00fcrer (24-mei-1471 - 05-apr-1528)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Dirck Vellert",
+      "unFixedName": "Vellert, Dirck",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1485",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1547",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Dirck Vellert (c. 1485 - c. 1547), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck Vellert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "exchange",
+    "date": "1922-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "silver stain",
+    "lead (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1532 - c. 1540",
+    "sortingDate": 1532,
+    "period": 16,
+    "yearEarly": 1532,
+    "yearLate": 1540
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73B641",
+      "73B6421"
+    ],
+    "iconClassDescription": [
+      "the flight into Egypt: Mary, Joseph, the child (and sometimes others) on their way; Mary usually riding on an ass",
+      "falling of the idols ~ miracles during the flight into Egypt"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-12969"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "H. Schmitz, Deutsche Glasmalereien der Gotik und Renaissance. Rund und Kabinettscheiben, in: Geschichte der Kunst und des Kunstgewerbes, 1923, afb. 71"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck Vellert",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "28.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glass",
+  "longTitle": "The Flight into Egypt, Dirck Vellert (workshop of), c. 1532 - c. 1540",
+  "subTitle": "d 28.8cm",
+  "scLabelLine": "workshop of Dirck Vellert (c. 1480-1547), after a print by Albrecht D\u00fcrer (1471-1528), Antwerp, c. 1535",
+  "label": {
+    "title": "The Flight into Egypt",
+    "makerLine": "workshop of Dirck Vellert (c. 1480-1547), after a print by Albrecht D\u00fcrer (1471-1528), Antwerp, c. 1535",
+    "description": null,
+    "notes": null,
+    "date": "2013-08-19"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

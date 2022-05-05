@@ -1,0 +1,269 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-46.795",
+  "priref": "134902",
+  "objectNumber": "RP-P-OB-46.795",
+  "language": "en",
+  "title": "Feestmaal van Cleopatra",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3f846920-f16b-45f8-aad3-92ad641a22c2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1854,
+    "url": "https://lh3.ggpht.com/qW7jBJUXQNPZHik6zLE8KL-WBQr8uMxoZPB_JRrxdy5kItn9V1pgX_vQ3_eRCAexhXgYWfucDibj88WX25qYWN0APw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 22,
+      "hex": "#CFC9B8"
+    },
+    {
+      "percentage": 19,
+      "hex": " #545146"
+    },
+    {
+      "percentage": 18,
+      "hex": " #726E61"
+    },
+    {
+      "percentage": 17,
+      "hex": " #8E887A"
+    },
+    {
+      "percentage": 11,
+      "hex": " #AFA898"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F2EFE3"
+    },
+    {
+      "percentage": 1,
+      "hex": " #323028"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CFC9B8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #545146",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #726E61",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8E887A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AFA898",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F2EFE3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #323028",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 17,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 54,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 32,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Feestmaal van Cleopatra",
+    "Quem Mars nunquam, vicit V\u00e9nus"
+  ],
+  "description": "Het feestmaal van Cleopatra in een paleisinterieur. Links ligt Cleopatra met ontblote borsten aan tafel, rechts zit Marcus Antonius. Rond de tafel staan verschillende gasten en leden van de hofhouding. Voorgesteld is het moment waarop Lucius Plancus verhindert dat Cleopatra een tweede parel uit haar oorbel neemt om in haar wijn op te laten lossen. Hierdoor verliest Marcus Antonius de weddenschap om wie het duurste banket kon geven. Op de grond voor de tafel ligt een jachthond.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gerard de Lairesse",
+      "unFixedName": "Lairesse, Gerard de",
+      "placeOfBirth": "Luik",
+      "dateOfBirth": "1641",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gerard de Lairesse (1641 - 1711)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gerard de Lairesse",
+      "unFixedName": "Lairesse, Gerard de",
+      "placeOfBirth": "Luik",
+      "dateOfBirth": "1641",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gerard de Lairesse (1641 - 1711)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard de Lairesse",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1675 - 1680",
+    "sortingDate": 1675,
+    "period": 17,
+    "yearEarly": 1675,
+    "yearLate": 1680
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "98C(CLEOPATRA)51"
+    ],
+    "iconClassDescription": [
+      "banquet of Mark Antony and Cleopatra: she dissolves a pearl in a cup of wine, which she then drinks"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-46.795"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "T. Zakula, 'Improving on Raphael: Gerard de Lairesse's Heliodorus', Simiolus 32, nr. 2/3 (2006), p. 153."
+  ],
+  "catRefRPK": [
+    "Hollstein Dutch 67",
+    "67",
+    "Roy G. 88",
+    "G. 88"
+  ],
+  "principalOrFirstMaker": "Gerard de Lairesse",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "358"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "483"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Feestmaal van Cleopatra, Gerard de Lairesse, 1675 - 1680",
+  "subTitle": "h 358mm \u00d7 w 483mm",
+  "scLabelLine": "Gerard de Lairesse, 1675 - 1680, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

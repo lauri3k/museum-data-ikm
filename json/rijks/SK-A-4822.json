@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4822",
+  "priref": "5047",
+  "objectNumber": "SK-A-4822",
+  "language": "en",
+  "title": "Rich Children, Poor Parents",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "68960387-3b36-4209-8ba7-2cda627b553a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2920,
+    "height": 1084,
+    "url": "https://lh3.ggpht.com/khwaaYQLhfWeJ41CAgA28VYUU_0EQV6VbljpwEjUPn-BUYQ8Tnh-MDJWgwBmmL2sex6Bl24rozhrCQLt8KS_GY5a6w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#1B1B18"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DDD7C8"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C1AF91"
+    },
+    {
+      "percentage": 14,
+      "hex": " #97825E"
+    },
+    {
+      "percentage": 39,
+      "hex": " #694A2D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #6E0E13"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1B1B18",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DDD7C8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C1AF91",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #97825E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #694A2D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #6E0E13",
+      "normalizedHex": "#981313"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 39,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #800000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 39,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Rich Children, Poor Parents"
+  ],
+  "description": "Rijke kinderen, arme ouders. Op een terras staat rechts een rijk echtpaar met vijf kinderen, links komen de arme ouders de trap af. Een van de kinderen speelt met een stokpaard, een ander heeft een hondje onder de arm. Rechts bij een hek kijken twee vrouwen toe. De door de vader en zoon uitgesproken teksten staan als opschriften op bordjes.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Pietersz. (I)",
+      "unFixedName": "Pietersz., Pieter (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1541",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1603",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter Pietersz. (I) (1541 - 1603)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Aert Pietersz.",
+      "unFixedName": "Pietersz., Aert",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1612-06-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Aert Pietersz. (c. 1550 - 12-jun-1612)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aert Pietersz.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1983-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt and the Rijksmuseum-Stichting"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1599",
+    "sortingDate": 1599,
+    "period": 16,
+    "yearEarly": 1599,
+    "yearLate": 1599
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42B51",
+      "46A21",
+      "43C78721"
+    ],
+    "iconClassDescription": [
+      "poor parents, rich children (absence of filial love)",
+      "contrast between rich and poor",
+      "hobby-horse"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-4822"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "W. Kloek, 'Pieter Aertsen en de wereld op zijn kop', Amsterdam 2010, p. 58, afb. 55"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Aert Pietersz.",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "61"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "163"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Rich Children, Poor Parents, Aert Pietersz., 1599",
+  "subTitle": "h 61cm \u00d7 w 163cm",
+  "scLabelLine": "Pieter Pietersz (c. 1540\u20131603) or Aert Pietersz (c. 1550\u20131612), oil on panel, 1599",
+  "label": {
+    "title": "Rich Children, Poor Parents",
+    "makerLine": "Pieter Pietersz (c. 1540\u20131603) or Aert Pietersz (c. 1550\u20131612), oil on panel, 1599",
+    "description": "The parents have spent all their money on providing their son with a good upbringing. They now turn to him for help, which he flatly refuses because he has to maintain his status. In so doing, he breaks the Fifth\nCommandment: \u2018Honour your father and your mother.\u2019 But the parents, too, have failed to act according to\nthe Bible; had they been more mindful of their money, they would not have become destitute.",
+    "notes": null,
+    "date": "2013-03-19"
+  },
+  "showImage": true,
+  "location": "HG-2.5"
+}

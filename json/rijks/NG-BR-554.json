@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-BR-554",
+  "priref": "337418",
+  "objectNumber": "NG-BR-554",
+  "language": "en",
+  "title": "Spear Rack of Governor-General J.C. Baud",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "29217fd6-9bf6-4fe1-b99c-a47ad924b025",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1994,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/KEveqUI4JwGq0u3da-Z8PojrqOEbHOlwjp4ZuAUFdh1Pc4Zy_o72-hlG1eLoDYG-jzc-jla0VH4-xID4U__oE9x3D-Y=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Houten boog met 13 ovale uitsparingen voor stokwapens. Elke uitsparing heeft messing klamp. De vorm van de klamp is een rechthoek met aan beide kopse kanten een klaver-drie vorm. Achterwand van boog bestaat uit twee brede planken en \u00e9\u00e9n smalle plank die met pen en gat verbinding in de boog passen. Op de bovenste plank van achterwand vijf latten en elf koperen ringen ter geleiding van de lansen in het rek. Het rek behoort bij 13 lansen die door Indonesische leiders aan J.C. Baud zouden zijn geschonken.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Java"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Java"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1959-10-20T00:00:00",
+    "creditLine": "On loan from C.L. Luyken-Baud, Lelystad"
+  },
+  "exhibitions": [],
+  "materials": [
+    "teak (wood)",
+    "brass (alloy)"
+  ],
+  "techniques": [
+    "cutting",
+    "casting"
+  ],
+  "productionPlaces": [
+    "Java"
+  ],
+  "dating": {
+    "presentingDate": "1834",
+    "sortingDate": 1834,
+    "period": 19,
+    "yearEarly": 1834,
+    "yearLate": 1834
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18331835"
+    ],
+    "places": [],
+    "people": [
+      "Baud, Jean Chr\u00e9tien baron"
+    ],
+    "objectNumbers": [
+      "NG-BR-554"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Baud, Jean Chr\u00e9tien baron"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap: volgorde lansen in rek."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "171.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "141.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cutting",
+  "longTitle": "Spear Rack of Governor-General J.C. Baud, anonymous, 1834",
+  "subTitle": "h 171.0cm \u00d7 w 141.0cm",
+  "scLabelLine": "Java, 1834, teak, brass",
+  "label": {
+    "title": "Spear Rack of Governor-General J.C. Baud",
+    "makerLine": "Java, 1834, teak, brass",
+    "description": "Most of these spears were presented to J.C. Baud, Governor-General of the Dutch East Indies in 1834. The Java War (1825-1830), a bloody colonial war between the Dutch and the Java princes, cost the lives of 200,000 Javanese and 15,000 Dutchmen. Because unrest remained in parts of Java, Baud went on an inspection tour in 1834. During this journey he received weapons, traditional symbols of power, from local\nrulers as a token of their (extorted) loyalty to the Dutch government.",
+    "notes": null,
+    "date": "2016-10-12"
+  },
+  "showImage": true,
+  "location": "HG-1.17"
+}

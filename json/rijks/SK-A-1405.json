@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1405",
+  "priref": "8170",
+  "objectNumber": "SK-A-1405",
+  "language": "en",
+  "title": "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "407fe89e-5255-417f-8888-0993bbf255ef",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 37,
+    "width": 2097,
+    "height": 2700,
+    "url": "https://lh3.googleusercontent.com/wsOiP3dkzCLPxvJrI22iBU6o0pTx924PhmColiZIS0U-9gxyuAEe0R_zXqBomPXyP5aQerx3BKhyiKxVMf1Z0Y8NjsU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#0C0C0A"
+    },
+    {
+      "percentage": 40,
+      "hex": " #372D1B"
+    },
+    {
+      "percentage": 13,
+      "hex": " #796841"
+    },
+    {
+      "percentage": 0,
+      "hex": " #9E8B6F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AFA68A"
+    },
+    {
+      "percentage": 9,
+      "hex": " #514333"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0C0C0A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #372D1B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #796841",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9E8B6F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AFA68A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #514333",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 75,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 75,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 15,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 9,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33)",
+    "Self Portrait"
+  ],
+  "description": "Portret van de schilder Jacob Cornelisz van Oostsanen, voorheen beschouwd als een zelfportret.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Cornelisz van Oostsanen",
+      "unFixedName": "Cornelisz van Oostsanen, Jacob",
+      "placeOfBirth": "Oostzaan",
+      "dateOfBirth": "1475",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Jacob Cornelisz van Oostsanen (c. 1475 - c. 1533), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": "Zelfportretten zijn illustratief voor het groeiende zelfbewustzijn onder kunstenaars. Dit werk gold lang als het vroegst bekende zelfportret in de schilderkunst van de Noordelijke Nederlanden. Jacob Cornelisz kijkt ons direct aan; achter hem hangt een papiertje met het jaartal 1533 en zijn monogram I (Iacob), A (Amsterdam) met ertussen de omgekeerde W (Warre, zijn achternaam). ",
+  "plaqueDescriptionEnglish": "Self portraits signal a growing awareness among artists of their own role. This work was long thought to be the earliest self portrait of an artist in the Northern Netherlands. Jacob Cornelisz is looking directly at the viewer; behind him on a piece of paper is the date, 1533, and the artist\u2019s monogram I (Iacob), A (Amsterdam) around an inverted W: for Warre, his surname.",
+  "principalMaker": "Jacob Cornelisz van Oostsanen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1533",
+    "sortingDate": 1533,
+    "period": 16,
+    "yearEarly": 1533,
+    "yearLate": 1533
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Cornelisz. van Oostsanen, Jacob"
+    ],
+    "objectNumbers": [
+      "SK-A-1405"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Cornelisz van Oostsanen, Jacob"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "S.A.C. Dudok van Heel, m.m.v. W.J. van den Berg, 'De schilders Jacob Cornelisz. alias Jacob War en Cornelis Buys uit Oostzaan : Hun werkplaatsen in Amsterdam en Alkmaar', De Nederlandsche Leeuw 128 (2011) jun., p. 50.",
+    "M. Leeflang en D. Meuwissen, 'Ondertekend' : Onderzoek naar de ondertekening van de schilderijen van Jacob Cornelisz. van Oostsanen, Oostzaan, 2003, p. 62-63."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Cornelisz van Oostsanen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "37.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "29.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33), Jacob Cornelisz van Oostsanen (workshop of), c. 1533",
+  "subTitle": "h 37.8cm \u00d7 w 29.4cm",
+  "scLabelLine": "Jacob Cornelisz van Oostsanen, c. 1533, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": "2018-02-22"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

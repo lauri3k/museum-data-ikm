@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3746",
+  "priref": "6069",
+  "objectNumber": "SK-A-3746",
+  "language": "en",
+  "title": "The Preaching of Saint John the Baptist",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b26f556c-655f-4c72-91e3-1e128825ab0c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1816,
+    "url": "https://lh3.googleusercontent.com/PNheEP8EMnGyZO_XbqJReM0wLs3mwuUAHdFxnUoyw_E4a3dPl-GY1IZDii4BRioT9Y1p5juzKhoflfAqsaN7APxR2g=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#1D1911"
+    },
+    {
+      "percentage": 10,
+      "hex": " #5D4F32"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A09375"
+    },
+    {
+      "percentage": 33,
+      "hex": " #443521"
+    },
+    {
+      "percentage": 23,
+      "hex": " #837653"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B39D5A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1D1911",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5D4F32",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A09375",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #443521",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #837653",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B39D5A",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 28,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 61,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 28,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "The Preaching of St John the Baptist"
+  ],
+  "description": "Bergachtig landschap met toehoorders bij de prediking van Johannes de Doper. In het midden een staande man met en trommel op de rug, daarvoor een zogende vrouw.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Abraham Bloemaert",
+      "unFixedName": "Bloemaert, Abraham",
+      "placeOfBirth": "Gorinchem",
+      "dateOfBirth": "1566-12-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1651-01-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Abraham Bloemaert (25-dec-1566 - 27-jan-1651)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham Bloemaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1950-05-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1590 - 1610",
+    "sortingDate": 1590,
+    "period": 16,
+    "yearEarly": 1590,
+    "yearLate": 1610
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C11",
+      "73C113",
+      "42A31",
+      "25H1",
+      "48CC7341"
+    ],
+    "iconClassDescription": [
+      "John the Baptist preaching (perhaps Christ among the bystanders)",
+      "John the Baptist identifies Christ as the Lamb of God ('Ecce Agnus Dei') (John 1:29, 1:36)",
+      "nursing, suckling",
+      "landscapes in the temperate zone",
+      "drum (musical instrument) - CC - out of doors"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3746"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "W. Kloek, 'Abraham Bloemaert en de prediking van Johannes de Doper', Antiek 28 (1993/1994), p. 196-203"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Abraham Bloemaert",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "139"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "188"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Preaching of Saint John the Baptist, Abraham Bloemaert, 1590 - 1610",
+  "subTitle": "h 139cm \u00d7 w 188cm \u00d7 d 8.5cm",
+  "scLabelLine": "Abraham Bloemaert (1564\u20131651), oil on canvas, 1590\u20131610",
+  "label": {
+    "title": "The Preaching of Saint John the Baptist",
+    "makerLine": "Abraham Bloemaert (1564\u20131651), oil on canvas, 1590\u20131610",
+    "description": "The protagonist in this scene, John the Baptist, the forerunner of Christ, stands partially concealed in the shade of a group of fanciful trees. It is as if Bloemaert wanted to prove that he could paint virtually anything and everything: a mountainous landscape, leafy trees, as well as figures, either nude or clad in exotic colourful gowns and arranged in complicated poses. All of this proves him to be a master of Mannerism.",
+    "notes": null,
+    "date": "2013-03-20"
+  },
+  "showImage": true,
+  "location": null
+}

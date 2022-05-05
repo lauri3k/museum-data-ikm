@@ -1,0 +1,240 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3451",
+  "priref": "8429",
+  "objectNumber": "SK-A-3451",
+  "language": "en",
+  "title": "Rembrandt as a Shepherd with a Staff and Flute",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1a6fd89d-8c70-49ce-aa95-cefb4f9c95f2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2127,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/acrCxDjpuRPxYMgtm3cQAf_W3rSMB1aMeyIgydJe0xa8-YXIJOAynOD6ssf5eV1bWN_yVokixHZTfo8e-FakXKctoQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#292216"
+    },
+    {
+      "percentage": 29,
+      "hex": " #55472C"
+    },
+    {
+      "percentage": 16,
+      "hex": " #786A46"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C3B790"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A18E67"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D9CFAB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#292216",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #55472C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #786A46",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C3B790",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A18E67",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D9CFAB",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 16,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 26,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Rembrandt as Shepherd with Staff and Flute"
+  ],
+  "description": "Portret van Rembrandt als herder met staf, een fluit in de handen en een krans van bladeren op het hoofd. Een oorbel in het rechteroor. Pendant van het portret van een herderin gedateerd 1636 in Braunschweig.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Govert Flinck",
+      "unFixedName": "Flinck, Govert",
+      "placeOfBirth": "Kleef",
+      "dateOfBirth": "1615-01-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1660-02-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Govert Flinck (25-jan-1615 - 02-feb-1660)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Govert Flinck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1942-09-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1636",
+    "sortingDate": 1636,
+    "period": 17,
+    "yearEarly": 1636,
+    "yearLate": 1636
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "47I221",
+      "48C7351"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "herding, herdsman, herdswoman, shepherd, shepherdess, cowherd, etc.",
+      "flute, aulos, tibia"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rijn, Rembrandt van"
+    ],
+    "objectNumbers": [
+      "SK-A-3451"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rijn, Rembrandt van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Govert Flinck",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "75.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "64.5"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "4.1"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "11.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Rembrandt as a Shepherd with a Staff and Flute, Govert Flinck, 1636",
+  "subTitle": "h 75.2cm \u00d7 w 64.5cm \u00d7 t 4.1cm \u00d7 d 11.2cm",
+  "scLabelLine": "Govert Flinck (1615-1660), oil on canvas, c. 1635",
+  "label": {
+    "title": "Rembrandt as a Shepherd with a Staff and Flute",
+    "makerLine": "Govert Flinck (1615-1660), oil on canvas, c. 1635",
+    "description": "Depictions of shepherds and shepherdesses were popular in the 17th century. They show an idyllic world, one full of simple pleasures. Busy city dwellers could dream away while looking at such paintings. Govert Flinck here portrayed his teacher Rembrandt in the guise of a shepherd. The companion to this picture, of Rembrandt\u2019s wife Saskia as a shepherdess, is in the museum in Braunschweig.",
+    "notes": null,
+    "date": "2019-09-20"
+  },
+  "showImage": true,
+  "location": null
+}

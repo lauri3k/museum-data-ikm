@@ -1,0 +1,275 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2696",
+  "priref": "8832",
+  "objectNumber": "SK-A-2696",
+  "language": "en",
+  "title": "Michiel de Ruyter and his Family",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "da44e08b-ceef-471c-ae97-06a4dd2760c7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1662,
+    "url": "https://lh3.googleusercontent.com/T9S5NFpiNfO1dm3jhqYcjvBhKim1fhkkHi86df1HootPjkJuTr_qzoTOOcDAMX9BqPdPVdb6z_ZmOuSNVG0cORXzrw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 46,
+      "hex": "#0C0B09"
+    },
+    {
+      "percentage": 37,
+      "hex": " #3A2B1F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #6F563F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7F7864"
+    },
+    {
+      "percentage": 2,
+      "hex": " #958F7D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #713520"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A8A594"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0C0B09",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3A2B1F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6F563F",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7F7864",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #958F7D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #713520",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #A8A594",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 83,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 83,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Michiel de Ruyter and his Family"
+  ],
+  "description": "Groepsportret van Michiel de Ruyter en zijn familie. Links zit Michiel Adriaensz de Ruyter, vice-admiraal van Holland ten tijde van dit portret, zijn derde vrouw Anna van Gelder (1614-87) en haar zoon uit een eerder huwelijk Jan Pauwelsz van Gelder (1647-73). De drie kinderen uit De Ruyters tweede huwelijk zijn staande voorgesteld: uiterst rechts Cornelia (1639-1720) met haar man Jan de Witte (overl. 1683), in het midden Alida (1642-79) en links Engel (1649-83) met een valk. De twee kleine dochters van het echtpaar, links Margaretha (1652-88) en rechts Anna (1655-66), spelen met hun neef Cornelis de Witte (1660-1701). Links twee honden. Het gezelschap bevindt zich in een soort tuin, links een stenen muur, rechts een fontein met een putto.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Juriaen Jacobsz.",
+      "unFixedName": "Jacobsz., Juriaen",
+      "placeOfBirth": "Hamburg",
+      "dateOfBirth": "1626",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1685",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leeuwarden",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Juriaen Jacobsz. (1626 - 1685)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Juriaen Jacobsz.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-04-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1662",
+    "sortingDate": 1662,
+    "period": 17,
+    "yearEarly": 1662,
+    "yearLate": 1662
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42B74",
+      "61B2",
+      "34B11"
+    ],
+    "iconClassDescription": [
+      "family group, especially parents with their child(ren)",
+      "historical persons",
+      "dog"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16071676"
+    ],
+    "places": [],
+    "people": [
+      "Ruyter, Michiel Adriaansz. de",
+      "Gelder, Anna van",
+      "Ruyter, Engel de"
+    ],
+    "objectNumbers": [
+      "SK-A-2696"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Ruyter, Michiel Adriaansz. de",
+    "Gelder, Anna van",
+    "Ruyter, Engel de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "A. Jensen Adams, Public Faces and Private Identities in Seventeenth-Century Holland, Portraiture and the Production of Community, New York 2009, p. 140-154, fig. 38.",
+    "Zeitschrift f\u00fcr Kunstgeschichte (2004), nr. 2, p. 251-252",
+    "Rijksmuseum Kunstkrant vol. 7 (1980), nr. 1",
+    "E. de Jongh, Grape symbolism in paintings of the 16th and 17th centuries, in: Simiolus 7 (1974), p. 180, afb. 22, 23",
+    "H. Lungagnini, Der Hamburger Maler Juriaen Jacobsz 1624-1685 Leben und Werk (diss.) Hamburg 1970, p. 86-95, cat.nr. G 64.",
+    "J.H. van Eeghen, De nakomelingen van Michiel Adriaensz. de Ruyter, in: Maandblad Amstelodamum (maart 1957), p. 40",
+    "J.H. Kruisinga, Michiel Adriaensz. de Ruyter eens grootburger van Amsterdam, in: Ons Amsterdam IX (1957), afb. p. 107",
+    "B.J.A. Renckens, Jurriaens Jacobsz. als Amsterdams portrettist, in: Oud Holland LXVI (1951), p. 184",
+    "A. Wassenbergh, De portretkunst in Friesland in de 17e eeuw, in: Jaarboek van het Centraal Bureau voor Genealogie 2 (1948), p. 188-205",
+    "Jaarverslag RMA, 1914, p. 10",
+    "F. Muller Frederiksz., 'Het nieuw aangekochte familieportret van den Admiraal De Ruyter', Bulletin van den Nederlandschen Oudheidkundigen Bond 5 (1912), p. 137-140.",
+    "Jan Fran\u00e7ois Leopold de Balbian Verster, 'Admiraal de Ruyter en de zijnen in 1662' Eigen haard 38, (1912), p. 408-411.",
+    "Jan Fran\u00e7ois Leopold de Balbian Verster, 'Een portret van De Ruyter, door Dujardin' Eigen haard 38 (1912), p. 51",
+    "K. Freise, in: Der Cicerone 4 (1912), p. 657",
+    "B.W.F. van Riemsdijk, 'Jurriaen Jacobson. Familieportret van Michiel Adriaensz. de Ruyter in 's Rijks Museum', Vereniging Rembrandt tot behoud in Nederland van kunstschatten (1911), p. 8.",
+    "De Navorscher 1864, p. 274"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Juriaen Jacobsz.",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "269"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "406"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "5.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "71"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Michiel de Ruyter and his Family, Juriaen Jacobsz., 1662",
+  "subTitle": "h 269cm \u00d7 w 406cm \u00d7 t 5.5cm \u00d7 w 71kg",
+  "scLabelLine": "Juriaen Jacobsz., 1662, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

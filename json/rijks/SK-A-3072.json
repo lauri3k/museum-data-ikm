@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3072",
+  "priref": "6037",
+  "objectNumber": "SK-A-3072",
+  "language": "en",
+  "title": "Woodland Pond at Sunset",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2b0facd3-71ea-4874-8a21-577f6aad9d51",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2914,
+    "height": 1811,
+    "url": "https://lh3.googleusercontent.com/grxRvGpt1fSqt4-t6RsBpPP9YthbeUA2SjX8QgIhZfGwQy8kovtb0QJPXreNhiRnu2jva84U-7JbwYq7zJSKoW6Ggfo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#7A6236"
+    },
+    {
+      "percentage": 65,
+      "hex": " #2F2715"
+    },
+    {
+      "percentage": 13,
+      "hex": " #594626"
+    },
+    {
+      "percentage": 9,
+      "hex": " #9E824A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C2A769"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DEC584"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#7A6236",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #2F2715",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #594626",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #9E824A",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #C2A769",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DEC584",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 65,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DEB887"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Pond in the Woods at Sunset"
+  ],
+  "description": "Landschap met een plas onder bomen bij zonsondergang. Bij het water een paar eenden, in de verte een boerderij.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerard Bilders",
+      "unFixedName": "Bilders, Gerard",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1838-12-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1865-03-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gerard Bilders (09-dec-1838 - 08-mrt-1865)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard Bilders",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1929-01-01T00:00:00",
+    "creditLine": "J.B.A.M. Westerwoudt Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1862",
+    "sortingDate": 1862,
+    "period": 19,
+    "yearEarly": 1862,
+    "yearLate": 1862
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H2143",
+      "24A2",
+      "25G3"
+    ],
+    "iconClassDescription": [
+      "pond, pool",
+      "sunset",
+      "trees"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3072"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard Bilders",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "22"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "35"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Woodland Pond at Sunset, Gerard Bilders, c. 1862",
+  "subTitle": "h 22cm \u00d7 w 35cm",
+  "scLabelLine": "Albert Gerard Bilders (1838\u20131865), oil on panel, c. 1862",
+  "label": {
+    "title": "Woodland Pond at Sunset",
+    "makerLine": "Albert Gerard Bilders (1838\u20131865), oil on panel, c. 1862",
+    "description": "Bilders painted this small panel in the vicinity of Lochem in the province of Gelderland. He was fasci-nated by the colours of nature and tried to recreate them as closely as possible. This painting is about the effect of the sunset, which is mirrored in the pond. The branches of the trees stand out starkly against the glowing sky.",
+    "notes": null,
+    "date": "2013-02-04"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

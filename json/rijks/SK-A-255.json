@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-255",
+  "priref": "6738",
+  "objectNumber": "SK-A-255",
+  "language": "en",
+  "title": "Maurits, Prince of Orange (1567-1625)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8768b140-b448-4be2-9351-646ca08db6c7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 15,
+    "width": 1616,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/08XFVaireDsvexAJqS_4gViOShicJg52zXJrOkZ-2KjUetrRogXWnmbA2xPHBKJ7dGUgv9v5eC2kFGBds2aanZJlufmFCLLFge18pSI=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#2E2213"
+    },
+    {
+      "percentage": 37,
+      "hex": " #0A0906"
+    },
+    {
+      "percentage": 10,
+      "hex": " #514527"
+    },
+    {
+      "percentage": 5,
+      "hex": " #90845E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #665B3B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #776C49"
+    },
+    {
+      "percentage": 0,
+      "hex": " #AD9F7C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#2E2213",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #0A0906",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #514527",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #90845E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #665B3B",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #776C49",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AD9F7C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 78,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 15,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Maurits (1567-1625), Prince of Orange"
+  ],
+  "description": "Portret van Maurits, prins van Oranje. Staand, ten voeten uit, in wapenrusting. Links een targe, rechts een tafel waarop helm en handschoen liggen. In de rechterhand een commandostaf.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michiel Jansz van Mierevelt",
+      "unFixedName": "Mierevelt, Michiel Jansz van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1567-05-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-06-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Michiel Jansz van Mierevelt (01-mei-1567 - 27-jun-1641)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michiel Jansz van Mierevelt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1800-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1613 - c. 1620",
+    "sortingDate": 1613,
+    "period": 17,
+    "yearEarly": 1613,
+    "yearLate": 1620
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45C22",
+      "45D311",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "armour",
+      "commander-in-chief, general, marshal",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "15671625"
+    ],
+    "places": [],
+    "people": [
+      "Maurits (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-255"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michiel Jansz van Mierevelt",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "220.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "143.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "sight size",
+      "value": "218.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "sight size",
+      "value": "141.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Maurits, Prince of Orange (1567-1625), Michiel Jansz van Mierevelt, c. 1613 - c. 1620",
+  "subTitle": "h 220.3cm \u00d7 w 143.5cm",
+  "scLabelLine": "Michiel van Mierevelt (1566\u20131641), oil on panel, c. 1613\u20131620",
+  "label": {
+    "title": "Maurits, Prince of Orange (1567-1625)",
+    "makerLine": "Michiel van Mierevelt (1566\u20131641), oil on panel, c. 1613\u20131620",
+    "description": "Prince Maurits was stadholder and military commander of the Republic of the Seven United Netherlands. He sired eight children with six different mistresses. As he refused to marry he had no legal successor. Maurits stands proud in a ceremonial gilded suit of armour, his helmet and gloves are on the table. This design had been the norm for state portraits since 1551, when it was first devised by the Italian painter Titian.",
+    "notes": null,
+    "date": "2018-03-05"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

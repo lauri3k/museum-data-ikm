@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1983-68",
+  "priref": "362408",
+  "objectNumber": "NG-1983-68",
+  "language": "en",
+  "title": "Maron in Baglen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a7184b98-5fa5-4cb8-b8af-dac1e0731982",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1544,
+    "url": "https://lh3.googleusercontent.com/U9Lfb8UyrhDIHRHIYRGOz8rcBdfUNhVaS9C1SRJVEBaToQNjWn-KfTqJOoysEE8r1DT8WYjB9uv0JPR7tYxCQEMX_qYSSRgVe_YbZu0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 6,
+      "hex": "#F1F1EE"
+    },
+    {
+      "percentage": 42,
+      "hex": " #D0CABA"
+    },
+    {
+      "percentage": 0,
+      "hex": " #33302A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #635F4E"
+    },
+    {
+      "percentage": 24,
+      "hex": " #B4AC94"
+    },
+    {
+      "percentage": 23,
+      "hex": " #888371"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F1F1EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D0CABA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #33302A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #635F4E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B4AC94",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #888371",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 24,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 26,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Het dorp Maron in het gewest Baglen of Bagalen op Java. Heuvelrug waarop dorp onder palmbomen. Rechtsachter drie loofbomen met het opschrift 'begraafplaats'. Linksvoor acht palen waarop afgehakte mensenhoofden van muiters zijn gestoken.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "paper",
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Java"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Java"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1983-11-25T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Java"
+  ],
+  "dating": {
+    "presentingDate": "1829",
+    "sortingDate": 1829,
+    "period": 19,
+    "yearEarly": 1829,
+    "yearLate": 1829
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I22",
+      "44G321(STAKE)"
+    ],
+    "iconClassDescription": [
+      "prospect of village, silhouette of village",
+      "instruments of torture, execution or punishment: stake"
+    ],
+    "motifs": [],
+    "events": [
+      "Java-oorlog"
+    ],
+    "periods": [
+      "18251830"
+    ],
+    "places": [
+      "Java"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-1983-68"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Encyclopaedie van Nederlandsch Oost-Indi\u00eb, zie Bagalen (p. 103) en Krijgverrichtingen (p. 465)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "340"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "ink and watercolour",
+  "longTitle": "Maron in Baglen, anonymous, 1829",
+  "subTitle": "h 205mm \u00d7 w 340mm",
+  "scLabelLine": "Java, 1829, ink and watercolour",
+  "label": {
+    "title": "Maron in Baglen",
+    "makerLine": "Java, 1829, ink and watercolour",
+    "description": "This drawing bears rare visual witness to the atrocities committed by the troops under Dutch command during the Java War (1825-1830). Probably drawn by a Dutch officer, the sketch depicts a Javanese village with a Dutch fort. Visible on pikes in the foreground are eight \u2018severed heads of mutineers,\u2019 as described in the caption.",
+    "notes": null,
+    "date": "2017-08-31"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-247",
+  "priref": "1958",
+  "objectNumber": "AK-MAK-247",
+  "language": "en",
+  "title": "Makara",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "58f04082-8f0d-4e3b-9320-1194d8ffd7e1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2247,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/mUVNuSSFYLvaO4kjMUuQ11ICGhj3N7o0gA2ZkxSm6GdEq94T2nxXd4wE8h9umTvW0CMsmFZ6t1TPnrdIWeuEfFEIZg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 22,
+      "hex": "#888481"
+    },
+    {
+      "percentage": 37,
+      "hex": " #6E6862"
+    },
+    {
+      "percentage": 13,
+      "hex": " #484039"
+    },
+    {
+      "percentage": 4,
+      "hex": " #1C1811"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A59E9A"
+    },
+    {
+      "percentage": 16,
+      "hex": " #CCCAC8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#888481",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6E6862",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #484039",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #1C1811",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A59E9A",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CCCAC8",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 50,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 16,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 22,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Makara"
+  ],
+  "description": "Makara van de hoofdtempel van Candi Sewu in de Prambanan-regio op Midden-Java. Afkomstig van de rechterkant van de oostelijke ingang. De makara is een mythologisch waterdier met een wijd opengesperde bek en een gekrulde olifantenslurf.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (transfer Oudheidkundige Dienst Nederlands-Indi\u00eb, 1931)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "andesite"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 800 - c. 900",
+    "sortingDate": 800,
+    "period": 8,
+    "yearEarly": 800,
+    "yearLate": 900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H61",
+      "25FF9"
+    ],
+    "iconClassDescription": [
+      "temple, shrine ~ Hinduism, Buddhism, Jainism",
+      "still other fabulous animals which cannot be classified under 25 FF 2 - 25 FF 7"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-247"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Marijke Klokke en William Southworth, 'Tracing the History of Makara AK-MAK-247 in the Rijksmuseum Amsterdam', Aziatische Kunst (2014) nr. 3, p. 17-22.",
+    "Pauline Lunsingh Scheurleer, 'Elegante topstukjes', Aziatische Kunst 38 (2008), nr. 3, p. 40, afb. 5.",
+    "J. Auboyer et al., Oriental art, 1978, p. 282.",
+    "W.A. Southworth, \u2018Twelve Stone Sculptures from Java\u2019, Rijksmuseum Bulletin 65/3 (2017), pp. 244-275"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "97.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "99.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "37.0"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "322"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "volcanic stone (andesite)",
+  "longTitle": "Makara, anonymous, c. 800 - c. 900",
+  "subTitle": "h 97.0cm \u00d7 w 99.0cm \u00d7 d 37.0cm \u00d7 w 322kg",
+  "scLabelLine": "Indonesia, Central Java, 9th century, volcanic stone (andesite)",
+  "label": {
+    "title": "Makara",
+    "makerLine": "Indonesia, Central Java, 9th century, volcanic stone (andesite)",
+    "description": "The makara is a mythical creature associated with water. In Central Java, they often stood guard at temple entrances. This example has the muzzle of a dragon, the trunk of an elephant and the horns of a ram. Seated on the tongue of its wide-open mouth is a lion.",
+    "notes": "Multimediatour",
+    "date": "2018-02-07"
+  },
+  "showImage": true,
+  "location": "AK-1"
+}

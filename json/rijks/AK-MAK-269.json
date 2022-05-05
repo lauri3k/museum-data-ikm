@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-269",
+  "priref": "1975",
+  "objectNumber": "AK-MAK-269",
+  "language": "en",
+  "title": "Oil Lamp",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f75a2a19-7e1d-42a9-ab90-d2c95a179204",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2247,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/XDr-Ve1O92zSa5VQqB-LrnUYglpYIaeK7I68nCczXWxez0D0H87yvFugky2HLuJeA_0wh30mb6J5J88XBZ5mnDhLcXY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 76,
+      "hex": "#E4E4E3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #6A654D"
+    },
+    {
+      "percentage": 5,
+      "hex": " #3F3A25"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8B856F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A19B86"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C6BFA7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #1D1808"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E4E4E3",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #6A654D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3F3A25",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8B856F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A19B86",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C6BFA7",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #1D1808",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 76,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 76,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Oil Lamp with a Figure of Garuda"
+  ],
+  "description": "Garuda houdt een vrouw vast op zijn linker dij en is gewapend met een lang zwaard of stok. De vrouw houdt in elke hand een conisch gevormd object vast.",
+  "labelText": null,
+  "objectTypes": [
+    "lamp"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase heirs J.A.W. Sieburg, 1950)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1300 - c. 1500",
+    "sortingDate": 1300,
+    "period": 13,
+    "yearEarly": 1300,
+    "yearLate": 1500
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H7",
+      "12H13(GARUDA)"
+    ],
+    "iconClassDescription": [
+      "ritual objects and ritual means ~ Hinduism, Buddhism, Jainism",
+      "Garuda, half man half bird"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-269"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "A.J. Bernet Kempers, 'Een Oud-Javaansche lamp', Mededeelingen van de Dienst voor Kunsten en Wetenschappen der Gemeente 's-Gravenhage, III (1933), p. 19-23.",
+    "Th. van Erp, 'Aankoop voor het Museum van Aziatische Kunst van eenige Hindoe-Javaansche ceremonieele lampen', MBK (1941) 18, p. 102-114.",
+    "A.J. Bernet Kempers, Ancient  Indonesian art, Amsterdam 1959. Pl. 307."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "32.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "19.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "19.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze",
+  "longTitle": "Oil Lamp, anonymous, c. 1300 - c. 1500",
+  "subTitle": "h 32.5cm \u00d7 w 19.4cm \u00d7 d 19.8cm",
+  "scLabelLine": "Indonesia, East Java, c. 1300-1500, bronze",
+  "label": {
+    "title": "Oil Lamp",
+    "makerLine": "Indonesia, East Java, c. 1300-1500, bronze",
+    "description": "Fire, like water, plays an important role in rituals. Oil lamps are often suspended before the effigy of a god, both at home and in a temple. An essential part of a Hindu temple ceremony (puja) is worshipping the god by moving a lamp in front of his or her image. In ancient India, lamps\nwere the most popular gifts to temples, along with cows to supply clarified butter (the fuel).",
+    "notes": null,
+    "date": "2019-10-10"
+  },
+  "showImage": true,
+  "location": null
+}

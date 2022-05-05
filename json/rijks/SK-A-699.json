@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-699",
+  "priref": "6992",
+  "objectNumber": "SK-A-699",
+  "language": "en",
+  "title": "Portrait of Maria Joachimsdr Swartenhont (1598-1631)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "22b6ecb0-fc34-4faa-8d7f-bbda4231d053",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 0,
+    "width": 2238,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/_fq_RR0Vin4ifHuv_HW8d_eXx40Cku6RFxAetaK8WTVC6WpEeUwFxOtgTM3ulopUmBFy2X6XUgm6SH16jIQtvweessm2um_RVTjDxUqa5Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#0C0B07"
+    },
+    {
+      "percentage": 16,
+      "hex": " #3C3420"
+    },
+    {
+      "percentage": 5,
+      "hex": " #74622F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #BEAE77"
+    },
+    {
+      "percentage": 2,
+      "hex": " #9F864A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D6D1A0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #67480E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0C0B07",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3C3420",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #74622F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BEAE77",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9F864A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D6D1A0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #67480E",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EEE8AA"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Maria Joachimsdr Swartenhont (1598-1631)",
+    "Portrait of Maria Joachimsdr. Swartenhont (1598-1631), Wife of Maerten Rey"
+  ],
+  "description": "Ovale portret van Maria Joachimsdr Swartenhont (1598-1631), echtgenote van Maerten Rey. Ten halven lijve, zittend, handschoenen in de rechterhand. Pendant van SK-A-698.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes Eliasz Pickenoy",
+      "unFixedName": "Pickenoy, Nicolaes Eliasz",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1588",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1656",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Nicolaes Eliasz Pickenoy (c. 1588 - c. 1656)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes Eliasz Pickenoy",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1880-01-01T00:00:00",
+    "creditLine": "Jonkheer J.S.H. van de Poll Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1627",
+    "sortingDate": 1627,
+    "period": 17,
+    "yearEarly": 1627,
+    "yearLate": 1627
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2(+53)"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman (+ half-length portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Swartenhondt, Maria Joachimsdr."
+    ],
+    "objectNumbers": [
+      "SK-A-699"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Swartenhondt, Maria Joachimsdr."
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolaes Eliasz Pickenoy",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "98.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "73.1"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "8.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Maria Joachimsdr Swartenhont (1598-1631), Nicolaes Eliasz Pickenoy, 1627",
+  "subTitle": "h 98.3cm \u00d7 w 73.1cm",
+  "scLabelLine": "Nicolaes Eliasz Pickenoy, 1627, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

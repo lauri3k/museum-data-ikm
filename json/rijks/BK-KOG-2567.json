@@ -1,0 +1,283 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-2567",
+  "priref": "54436",
+  "objectNumber": "BK-KOG-2567",
+  "language": "en",
+  "title": "Two plaques from a column",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f4596c81-13a4-45ec-b065-5573dcf31204",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2492,
+    "url": "https://lh5.ggpht.com/TfHE0XSa2uKjuxpvE-P7gOURJg41pP2RvWG0JNAG2M_kdAiHB9yVQBQtUNYWYSSfwFn63Y6f7xk3tusv_GR-lN6yXg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 25,
+      "hex": "#ECEEE8"
+    },
+    {
+      "percentage": 10,
+      "hex": " #656A89"
+    },
+    {
+      "percentage": 1,
+      "hex": " #120F31"
+    },
+    {
+      "percentage": 21,
+      "hex": " #8E95A6"
+    },
+    {
+      "percentage": 10,
+      "hex": " #3A3B5F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #C1C6C9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECEEE8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #656A89",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #120F31",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8E95A6",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3A3B5F",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #C1C6C9",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 25,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 21,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 10,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 1,
+      "hex": " #191970"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 29,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 25,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #4019B1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Tegel met een blauwe voorstelling met een kroon met hermelijn rustend op het halfronde gedeelte van een symmetrisch ornamentaal bandwerk. Onder de kroon zweeft op wolken een trompetblazende vrouwenfiguur. Aan de trompet hangt een standaard met het gekroonde spiegelmonogram WR (Willem Rex). In het midden op de onderrand een buste op voet van Willem III met naar rechts gewend hoofd. Boven hem houden twee trompetblazende engeltjes, die uit bladkelken te voorschijn komen, een lauwerkrans.",
+  "labelText": null,
+  "objectTypes": [
+    "tile"
+  ],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "Dani\u00ebl Marot (I)",
+      "unFixedName": "Marot, Dani\u00ebl (I)",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1663",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1752-06-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "after",
+      "labelDesc": "after Dani\u00ebl Marot (I) (c. 1663 - 04-jun-1752)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "De Grieksche A",
+      "unFixedName": "De Grieksche A",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "De Grieksche A, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "De Grieksche A",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1955-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "tin glaze"
+  ],
+  "techniques": [
+    "majolica"
+  ],
+  "productionPlaces": [
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1690",
+    "sortingDate": 1690,
+    "period": 17,
+    "yearEarly": 1690,
+    "yearLate": 1690
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "59B32",
+      "43A433",
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "Fame; 'Fama', 'Fama buona', 'Fama chiara' (Ripa)",
+      "crowning with laurel",
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "BK-KOG-2567"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "De Grieksche A",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "125.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "5.2"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "61.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "majolica",
+  "longTitle": "Two plaques from a column, De Grieksche A, c. 1690",
+  "subTitle": "h 125.3cm \u00d7 w 63.4cm \u00d7 d 5.2cm",
+  "scLabelLine": "De Grieksche A (Adrianus Kocx), designed by Dani\u00ebl Marot (1661\u20131752), Delft, c. 1690, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Two plaques from a column",
+    "makerLine": "De Grieksche A (Adrianus Kocx), designed by Dani\u00ebl Marot (1661\u20131752), Delft, c. 1690, tin-glazed earthenware (faience)",
+    "description": "These plaques were part of the wall decoration in the Water Gallery at Hampton Court Palace, the London residence of William and Mary. They were ordered from the Grieksche A pottery factory, where large flower vases had also been made earlier on royal commission. The Water Gallery was demolished shortly after Mary\u2019s sudden death in 1692. The plaques were probably removed at that time and ended up on the market.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

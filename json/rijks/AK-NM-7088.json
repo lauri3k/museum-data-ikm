@@ -1,0 +1,217 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-NM-7088",
+  "priref": "56417",
+  "objectNumber": "AK-NM-7088",
+  "language": "en",
+  "title": "Toe jewellery",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c7df17d1-c4c0-4133-937c-c621932cf5b9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1730,
+    "url": "https://lh5.ggpht.com/46QR6oABe0noq7jiwYtPNLLpLEsTWvQsYtpcWV6lEJ3TZ15tI7Tgf9c50YmbbQbnJkY1nbX1ZO4d5GBMwoVqFlvm-gY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 74,
+      "hex": "#C0BEBB"
+    },
+    {
+      "percentage": 11,
+      "hex": " #9C9891"
+    },
+    {
+      "percentage": 4,
+      "hex": " #3F4245"
+    },
+    {
+      "percentage": 4,
+      "hex": " #7E7B71"
+    },
+    {
+      "percentage": 3,
+      "hex": " #65635C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #252727"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D7D7D6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C0BEBB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #9C9891",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3F4245",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7E7B71",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #65635C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #252727",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D7D7D6",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 74,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Toe jewellery"
+  ],
+  "description": "Een paar teensieraden van zilver. Bestaande uit kleine zilveren ringen met scharniersluiting en met een gebogen zilveren schild, versierd met blauw en groen email. De schilden zijn onderling met kleine zilveren schakelkettinkjes verbonden.",
+  "labelText": null,
+  "objectTypes": [
+    "jewellery"
+  ],
+  "objectCollection": [
+    "jewellery"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1750",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1750
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-NM-7088"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "12"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Toe jewellery, anonymous, c. 1750",
+  "subTitle": "w 12cm \u00d7 h 4cm \u00d7 d 4cm",
+  "scLabelLine": "silver, enamel",
+  "label": {
+    "title": "Toe jewellery",
+    "makerLine": "silver, enamel",
+    "description": null,
+    "notes": null,
+    "date": "2015-07-21"
+  },
+  "showImage": true,
+  "location": null
+}

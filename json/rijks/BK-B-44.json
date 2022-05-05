@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-B-44",
+  "priref": "25021",
+  "objectNumber": "BK-B-44",
+  "language": "en",
+  "title": "Ecce homo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1359406d-e4fd-442f-907d-cd6cb16d91f7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1963,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/x5POh3m09mW1LGjySS65J4WX1uXVHlPZlHnFkUwGQ3tuPhC-vwGztvmpcO9Ax_roZ97koyE5fTw4Mqr21Y6smBINQQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 38,
+      "hex": "#9B9A95"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E1DED3"
+    },
+    {
+      "percentage": 25,
+      "hex": " #848179"
+    },
+    {
+      "percentage": 1,
+      "hex": " #484234"
+    },
+    {
+      "percentage": 15,
+      "hex": " #BAB7B0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #6A675E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#9B9A95",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E1DED3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #848179",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #484234",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #BAB7B0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #6A675E",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 25,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 71,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [],
+  "description": "het hoofd is even naar rechts en naar beneden gewend, de blik neergeslagen. De polsen van de gekruiste handen zijn met een touw omwonden; in de rechterhand houdt hij een deel van de rietstengel. Hij draagt de doornenkroon op het golvende haar, dat tot op de schouders neerhangt. De mantel hangt van de linkerschouder, wordt onder de linkerarm opgehouden en is naar links toegeslagen; van achteren loopt hij schuin over de rug en is over de rechterarm opgenomen. Het beeld eindigt onder het middel.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Louis Royer",
+      "unFixedName": "Royer, Louis",
+      "placeOfBirth": "Mechelen",
+      "dateOfBirth": "1793-08-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1868-06-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": null,
+      "labelDesc": "Louis Royer (02-aug-1793 - 05-jun-1868), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Louis Royer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1828-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1826",
+    "sortingDate": 1826,
+    "period": 19,
+    "yearEarly": 1826,
+    "yearLate": 1826
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D361"
+    ],
+    "iconClassDescription": [
+      "Christ alone (also called 'Ecce Homo')"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-B-44"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Katholiek Documentatie Centrum, Nijmegen, nrs. 5379, 5384, 5408, 5425, 5446, 5458."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Louis Royer",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "88.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "67.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "45.0"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "300"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "34"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "48"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "marble (rock)",
+  "longTitle": "Ecce homo, Louis Royer, 1826",
+  "subTitle": "h c.88.0cm \u00d7 w c.67.0cm \u00d7 d c.45.0cm \u00d7 w 300kg",
+  "scLabelLine": "Louis Royer (1793-1868), Rome, 1826 marble",
+  "label": {
+    "title": "Ecce homo",
+    "makerLine": "Louis Royer (1793-1868), Rome, 1826 marble",
+    "description": "After the Dutch sculptor Louis Royer won the Prix de Rome, he spent four years studying in Rome, then the leading centre for European sculpture. Among the works he created there was this figure of Christ, crowned with thorns, at the moment of his presentation to the people. Hence the title Ecce homo: \u2018Behold the man\u2019.",
+    "notes": null,
+    "date": "2012-12-20"
+  },
+  "showImage": true,
+  "location": "HG-1.12"
+}

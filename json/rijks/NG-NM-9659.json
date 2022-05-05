@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-9659",
+  "priref": "242015",
+  "objectNumber": "NG-NM-9659",
+  "language": "en",
+  "title": "Michiel de Ruyter\u2019s goblet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ebb6cc9d-3e61-45e6-8a6c-c87160a08cb8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1797,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Fzww_TUYXtgxGJ-zhWzkZjehoWp7-RGpzDe7xOmF7JQIm9rMh4XJPcFRzlGChKp6r4OCD9ZfmIVLR5a2ehlFPWSzVrg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#D3C7AB"
+    },
+    {
+      "percentage": 25,
+      "hex": " #786A57"
+    },
+    {
+      "percentage": 24,
+      "hex": " #EBEDF2"
+    },
+    {
+      "percentage": 6,
+      "hex": " #593F21"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C9B176"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A09894"
+    },
+    {
+      "percentage": 0,
+      "hex": " #261910"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D3C7AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #786A57",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EBEDF2",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #593F21",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C9B176",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A09894",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #261910",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #F8F8FF"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 39,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 28,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 24,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Gouden beker met los, wijd klokvormig deksel (zonder knop). Het deksel, de onderzijde van de kop, de schacht en de voet rijk gegraveerd met bladmotieven en versierd met wit en zwart email. Op de bovenzijde van het deksel is in email een naar links klimmende leeuw weergeven (wapen van Holland). De kop is voorzien van een doorlopend fries in gekleurd email waarop de gebeurtenissen tijdens de Tocht naar Chatham, van 20-23 juni 1667 zijn weergegeven. De voorstelling vangt aan met de aanval op het fort van Sheerness ('Shirnasse'). Gesigneerd, gemerkt, opschrift. Beker geschonken aan luitenant-admiraal De Ruyter op 7 november 1667.",
+  "labelText": null,
+  "objectTypes": [
+    "cup"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes Loockemans",
+      "unFixedName": "Loockemans, Nicolaes",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1673",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "silversmith"
+      ],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Nicolaes Loockemans (.... - 1673)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes Loockemans",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1892-01-01T00:00:00",
+    "creditLine": "H.C.H.C. des Tombe Bequest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)"
+  ],
+  "techniques": [
+    "striking (metalworking)",
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1667",
+    "sortingDate": 1667,
+    "period": 17,
+    "yearEarly": 1667,
+    "yearLate": 1667
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3(+32)"
+    ],
+    "iconClassDescription": [
+      "battle (+ sailing-ships)"
+    ],
+    "motifs": [],
+    "events": [
+      "Tocht naar Chatham"
+    ],
+    "periods": [
+      "1667-06-201667-06-23"
+    ],
+    "places": [
+      "Chatham"
+    ],
+    "people": [
+      "Ruyter, Michiel Adriaansz. de",
+      "Staten van Holland en West-Friesland"
+    ],
+    "objectNumbers": [
+      "NG-NM-9659"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Ruyter, Michiel Adriaansz. de",
+    "Staten van Holland en West-Friesland"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Inzoomer object op zaal, 2013 (Nederlands/English).",
+    "Annual report : Rijksmuseum Amsterdam (1999), p. 38, afb."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolaes Loockemans",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "30"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": "c.",
+      "part": null,
+      "value": "15"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "striking (metalworking)",
+  "longTitle": "Michiel de Ruyter\u2019s goblet, Nicolaes Loockemans, 1667",
+  "subTitle": "h c.30cm \u00d7 d c.15cm",
+  "scLabelLine": "Nicolaes Loockemans (?\u20131673), gold, enamel, 1667",
+  "label": {
+    "title": "Michiel de Ruyter\u2019s goblet",
+    "makerLine": "Nicolaes Loockemans (?\u20131673), gold, enamel, 1667",
+    "description": "A continuous scene represents the major episodes in the Dutch attack on the English naval base at Chatham. Two days after the fort at Sheerness had been captured on 20 June 1667, Dutch forces sailed up the Medway and destroyed the English fleet. The States of Holland\nrewarded Admiral Michiel de Ruyter with this lavish goblet. The lid bears the arms of Holland.",
+    "notes": "Multimediatour",
+    "date": "2018-07-11"
+  },
+  "showImage": true,
+  "location": "HG-2.15"
+}

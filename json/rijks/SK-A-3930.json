@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3930",
+  "priref": "8144",
+  "objectNumber": "SK-A-3930",
+  "language": "en",
+  "title": "Vanitas Still Life with the Spinario",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f665becf-dff7-408f-b219-38ee8e3b38c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2850,
+    "height": 2459,
+    "url": "https://lh3.googleusercontent.com/w8tHIkFL6F-E-Nmlk7oSa8LVyx_GU8nL1vcANl9ywW2O0PX7F8USrIuedT6m-4P_1e6mX-QKZQE3gKBA5msLqAxCBRwz2Yk1zhYqyf8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 53,
+      "hex": "#171209"
+    },
+    {
+      "percentage": 24,
+      "hex": " #362F1A"
+    },
+    {
+      "percentage": 7,
+      "hex": " #55441F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #76602E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A49E7A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #908863"
+    },
+    {
+      "percentage": 2,
+      "hex": " #877745"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#171209",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #362F1A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #55441F",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #76602E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A49E7A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #908863",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #877745",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 77,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Vanitas Still Life with the Spinario"
+  ],
+  "description": "Vanitas stilleven. Op een tafel staan een gipsen beeld van de Doornuittrekker of Spinario, schedel met botten, roemer, horloge, boeken en paperassen, een gedoofde olielamp en een schilderspalet met penselen. Op de vloer muziekinstrumenten: luit, viool en een soort fluit. Links een harnas en een helm en een openstaande kunstboek met een tekening van een naakte vrouw.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Claesz",
+      "unFixedName": "Claesz, Pieter",
+      "placeOfBirth": "Berchem",
+      "dateOfBirth": "1598",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1660",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Claesz (c. 1598 - 1660)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Claesz",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1958-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1628",
+    "sortingDate": 1628,
+    "period": 17,
+    "yearEarly": 1628,
+    "yearLate": 1628
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11R6",
+      "31A523",
+      "48C24",
+      "48C51111",
+      "48C5152",
+      "48C7323",
+      "48C7311"
+    ],
+    "iconClassDescription": [
+      "'Vanitas' still life",
+      "'Spinario', child pulling a thorn out of its foot",
+      "piece of sculpture, reproduction of a piece of sculpture",
+      "studio requisites ~ painter",
+      "palette",
+      "lute, and special forms of lute, e.g.: theorbo",
+      "violin, fiddle"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3930"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Claesz",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "70.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "80.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Vanitas Still Life with the Spinario, Pieter Claesz, 1628",
+  "subTitle": "h 70.5cm \u00d7 w 80.5cm",
+  "scLabelLine": "Pieter Claesz (c. 1597\u20131660), oil on panel, 1628",
+  "label": {
+    "title": "Vanitas Still Life with the Spinario",
+    "makerLine": "Pieter Claesz (c. 1597\u20131660), oil on panel, 1628",
+    "description": "Appearances can be deceptive \u2013 certainly in painting, which gives only an impression of reality. Here Claesz presents the study materials of an educated painter: books, drawings, armour, musical instruments and a plaster cast of the Spinario, a famous antique sculpture of a boy extracting a thorn from his foot. On the table are a paintbrush and a palette, along with bones and a skull. The message is clear: the world is mere illusion and transience (vanitas).",
+    "notes": null,
+    "date": "2019-03-26"
+  },
+  "showImage": true,
+  "location": null
+}

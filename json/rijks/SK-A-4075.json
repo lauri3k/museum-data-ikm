@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4075",
+  "priref": "10090",
+  "objectNumber": "SK-A-4075",
+  "language": "en",
+  "title": "Plantation in Suriname",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b847704d-5cca-4052-8cd2-5a644d5b7759",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 68,
+    "width": 2118,
+    "height": 2514,
+    "url": "https://lh6.ggpht.com/PYEU9WVPCkY_qVHTROcC1sjh0z7swWn_sRwiilRc1PJgV0TrXXRNtHt1AYhnZeIt3vVfU9huwvhABYuZGccVsy59toU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 9,
+      "hex": "#727D5A"
+    },
+    {
+      "percentage": 34,
+      "hex": " #9EADA6"
+    },
+    {
+      "percentage": 1,
+      "hex": " #CFD5B0"
+    },
+    {
+      "percentage": 24,
+      "hex": " #131611"
+    },
+    {
+      "percentage": 14,
+      "hex": " #383F21"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696929"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#727D5A",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #9EADA6",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CFD5B0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #131611",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #383F21",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #696929",
+      "normalizedHex": "#367614"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 39,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 34,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 24,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FAFAD2"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 25,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 24,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 14,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Plantation in Suriname"
+  ],
+  "description": "Een plantage in Suriname met links en rechts groepen palmen. In het midden enkele mensen bij een woning van palmbladeren, in de verte de gebouwen van de plantage.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirk Valkenburg",
+      "unFixedName": "Valkenburg, Dirk",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1675-02-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1721-02-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Dirk Valkenburg (17-feb-1675 - 01-feb-1721)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirk Valkenburg",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1962-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1707",
+    "sortingDate": 1707,
+    "period": 18,
+    "yearEarly": 1707,
+    "yearLate": 1707
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25K182",
+      "25G3(PALM-TREE)",
+      "32B344"
+    ],
+    "iconClassDescription": [
+      "plantation",
+      "trees: palm-tree",
+      "Native peoples of South America"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17001750"
+    ],
+    "places": [
+      "Suriname"
+    ],
+    "people": [
+      "West-Indische Compagnie"
+    ],
+    "objectNumbers": [
+      "SK-A-4075"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "West-Indische Compagnie"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirk Valkenburg",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "52.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "45.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "59.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Plantation in Suriname, Dirk Valkenburg, 1707",
+  "subTitle": "h 52.5cm \u00d7 w 45.5cm",
+  "scLabelLine": "Dirk Valkenburg (1675-1721), oil on canvas, 1707",
+  "label": {
+    "title": "Plantation in Suriname",
+    "makerLine": "Dirk Valkenburg (1675-1721), oil on canvas, 1707",
+    "description": "The painter Dirk Valkenburg spent several years in Suriname at the plantations of the Amsterdam merchant Jonas Witsen, who commissioned him to paint this scene of an orange plantation. Several Indians \u2013 the original inhabitants of this territory \u2013 appear among the palm trees in the foreground, while the plantation owner\u2019s residence can be glimpsed in the background.",
+    "notes": null,
+    "date": "2013-01-03"
+  },
+  "showImage": true,
+  "location": "HG-1.2"
+}

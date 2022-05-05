@@ -1,0 +1,267 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-14201",
+  "priref": "67023",
+  "objectNumber": "BK-NM-14201",
+  "language": "en",
+  "title": "Tafel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "986127fa-b661-4402-b879-85a8b7644d34",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2439,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/JE-bXoC9dhM4reYdsz5VGAtx1EOxvZz4PkP4xvTzDNtReXK2N49CJdZvZBVF9YsSCIQc8R7rLXB4y3gqkNZ43zmv8FHU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#141110"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D5C486"
+    },
+    {
+      "percentage": 29,
+      "hex": " #DEE0E2"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B8B7B7"
+    },
+    {
+      "percentage": 13,
+      "hex": " #92816D"
+    },
+    {
+      "percentage": 32,
+      "hex": " #69442C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#141110",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D5C486",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DEE0E2",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #B8B7B7",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #92816D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #69442C",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 29,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Tafel"
+  ],
+  "description": "Tafel belijmd met palissanderhout op een eiken kern. De poten vertonen een vaasvormige geleding met huizen en zijn verbonden door een dubbel Y-vormig kruis. Het kruis is op de randen aan de bovenzijde versierd met ebben robbellijsten. De regels hebben eveneens ebben robbellijsten. De steunstukken vertonen gebroken S-voluten en zijn evenals de huizen met ebben plaatjes versierd. Een halfronde ebben band is rond de vaasvormige geledingen van de poten aangebracht. Het meubel heeft twee trekladen.",
+  "labelText": null,
+  "objectTypes": [
+    "table"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1926-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "oak (wood)",
+    "rosewood (wood)",
+    "ebony (wood)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1650 - 1700",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-14201"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "78.5"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "125"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "72"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Tafel, anonymous, 1650 - 1700",
+  "subTitle": "h 78.5cm \u00d7 l 125cm \u00d7 w 84cm \u00d7 w 72kg",
+  "scLabelLine": "anonymous, 1650 - 1700, wood (plant material)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

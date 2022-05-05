@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-601",
+  "priref": "37052",
+  "objectNumber": "RP-P-OB-601",
+  "language": "en",
+  "title": "The Hundred Guilder Print",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f4453341-cbcf-439f-879f-d8fd010b1bb6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2832,
+    "height": 2238,
+    "url": "https://lh5.ggpht.com/x2AStcKfxaZtdeOtRTF-9cG4dIvhGUWnL6r5V8ztrVX3oGtUsMSM071J6lbqG0gDrGJBJ1WP48mZp2wHRXEL_gtwKd3c=s0"
+  },
+  "colors": [
+    {
+      "percentage": 34,
+      "hex": "#DED1BC"
+    },
+    {
+      "percentage": 23,
+      "hex": " #393630"
+    },
+    {
+      "percentage": 15,
+      "hex": " #5F594E"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F3EFEA"
+    },
+    {
+      "percentage": 6,
+      "hex": " #9E978A"
+    },
+    {
+      "percentage": 5,
+      "hex": " #877F71"
+    },
+    {
+      "percentage": 5,
+      "hex": " #BFB4A1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DED1BC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #393630",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5F594E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F3EFEA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9E978A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #877F71",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BFB4A1",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 39,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 34,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 27,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 23,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "The Hundred Guilder Print"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "Japanese paper"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1648",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1648
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C73"
+    ],
+    "iconClassDescription": [
+      "Christ preaching or teaching (in general)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-601"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 239",
+    "239",
+    "Bartsch 74",
+    "74",
+    "Hollstein Dutch 74",
+    "74"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "282"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "395"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "The Hundred Guilder Print, Rembrandt van Rijn, c. 1648",
+  "subTitle": "h 282mm \u00d7 w 395mm",
+  "scLabelLine": "Rembrandt van Rijn, c. 1648, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

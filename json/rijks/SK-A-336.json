@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-336",
+  "priref": "6765",
+  "objectNumber": "SK-A-336",
+  "language": "en",
+  "title": "Still Life with Flowers",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1d262cd5-e902-4705-ab8d-93e684ba8725",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2081,
+    "height": 2696,
+    "url": "https://lh3.googleusercontent.com/gY4VzBTZ8hiRODYOmMuIp60gjiaTtIWXgi8WXikG6YiYMAS298W4Bwb_aKLthELbR1lWCNzxM9zG1ApJX22wP0-v1sw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#101009"
+    },
+    {
+      "percentage": 56,
+      "hex": " #2D3633"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6F6E5A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A3A186"
+    },
+    {
+      "percentage": 1,
+      "hex": " #7F4422"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C3C5AC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#101009",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #2D3633",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6F6E5A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A3A186",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7F4422",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C3C5AC",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 56,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Still Life with Flowers"
+  ],
+  "description": "Stilleven met bloemen. Een boeket bloemen in een metalen vaas staande in een nis. In het boeket zitten rozen, irissen, papavers, een tarwehalm, tulpen en ander bloemen. Tussen de bloemen en over de nis kruipen een slak, een rups en een kever. Pendant van SK-A-337.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Coenraet Roepel",
+      "unFixedName": "Roepel, Coenraet",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1678-11-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1748-01-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Coenraet Roepel (06-nov-1678 - 04-jan-1748)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Coenraet Roepel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1809-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1721",
+    "sortingDate": 1721,
+    "period": 18,
+    "yearEarly": 1721,
+    "yearLate": 1721
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A6711"
+    ],
+    "iconClassDescription": [
+      "flowers in a vase"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-336"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Coenraet Roepel",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "52.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Still Life with Flowers, Coenraet Roepel, 1721",
+  "subTitle": "h 67cm \u00d7 w 52.5cm \u00d7 d 6cm",
+  "scLabelLine": "Coenraet Roepel, 1721, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

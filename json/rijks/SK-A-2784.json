@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2784",
+  "priref": "8088",
+  "objectNumber": "SK-A-2784",
+  "language": "en",
+  "title": "Heraclitus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "63c36ddf-ed54-46f7-aae2-6d93a0459c6f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 20,
+    "width": 2027,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/E0vONXxtX4Ddy0A4SbMBWptMbAZpb8xpwCq1vSdi_8pCZuNMHoijK8fJB1P7xQqGGbsYNYj-JEoVnNf58tkmFzlBgBnhrwVCrqlEdJFu=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heraclitus"
+  ],
+  "description": "Heraclitus, pratend en gebarend terwijl hij met zijn rechterarm op een aardglobe leunt. Pendant van SK-A-2783.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick ter Brugghen",
+      "unFixedName": "Brugghen, Hendrick ter",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1588",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1629-11-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick ter Brugghen (c. 1588 - 01-nov-1629)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick ter Brugghen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1916-01-01T00:00:00",
+    "creditLine": "Gift of B. Asscher, Amsterdam and H. Koetser, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1628",
+    "sortingDate": 1628,
+    "period": 17,
+    "yearEarly": 1628,
+    "yearLate": 1628
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "98B(HERACLITUS)51",
+      "25A13"
+    ],
+    "iconClassDescription": [
+      "Heraclitus, the weeping philosopher, and Democritus, the laughing philosopher",
+      "globe"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2784"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick ter Brugghen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "85.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "70"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Heraclitus, Hendrick ter Brugghen, 1628",
+  "subTitle": "h 85.5cm \u00d7 w 70cm",
+  "scLabelLine": "Hendrick ter Brugghen (c. 1588\u20131629), oil on canvas, 1628",
+  "label": {
+    "title": "Heraclitus",
+    "makerLine": "Hendrick ter Brugghen (c. 1588\u20131629), oil on canvas, 1628",
+    "description": "The Greek sage Heraclitus was known as the crying philosopher because he mourned the folly of mankind, while his opposite Democritus (the nearby pendant) could only laugh at it. Here Heraclitus looks like a melancholy old man. Downcast, he leans on a terrestrial globe and gestures dismissively with his left hand, as if to say: \u2018All is for nought, the world will come to nothing.\u2019",
+    "notes": null,
+    "date": "2013-03-20"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

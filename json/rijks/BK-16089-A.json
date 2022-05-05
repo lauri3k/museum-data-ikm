@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-16089-A",
+  "priref": "18131",
+  "objectNumber": "BK-16089-A",
+  "language": "en",
+  "title": "Basin with Diana and Actaeon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "55cd4eec-d51d-4fd4-b7c5-919df3d6e796",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 8176,
+    "height": 6077,
+    "url": "https://lh3.googleusercontent.com/QAXQLbmHH5iISk-_9fGQjlqle82Jh8SinU6QhdJe7CR4j3JoG43S9W6AMKnYX0oxr6bYh79DFsPeeHwJXTrnW1aISH8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#79766B"
+    },
+    {
+      "percentage": 27,
+      "hex": " #BCBBAE"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E7E7D8"
+    },
+    {
+      "percentage": 7,
+      "hex": " #191611"
+    },
+    {
+      "percentage": 8,
+      "hex": " #55524A"
+    },
+    {
+      "percentage": 40,
+      "hex": " #9A9689"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#79766B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BCBBAE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E7E7D8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #191611",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #55524A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A9689",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 27,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 40,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Schaal van gedreven zilver. De rand is versierd met kwabornament waartussen acht mascarons. Op het plat: Diana door Actaeon verrast. Achterzijde: de dood van Actaeon.",
+  "labelText": null,
+  "objectTypes": [
+    "dish"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Paulus Willemsz. van Vianen",
+      "unFixedName": "Vianen, Paulus Willemsz. van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1570",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1614",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Praag",
+      "occupation": [
+        "draughtsman",
+        "jeweler"
+      ],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Paulus Willemsz. van Vianen (c. 1570 - c. 1614)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Paulus Willemsz. van Vianen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1947-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1613",
+    "sortingDate": 1613,
+    "period": 17,
+    "yearEarly": 1613,
+    "yearLate": 1613
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "97C1",
+      "97C11",
+      "48A98211"
+    ],
+    "iconClassDescription": [
+      "Actaeon changed into a stag: as punishment for seeing her bathe, Diana changes Actaeon, the hunter, into a stag (Ovid, Metamorphoses III 193)",
+      "Actaeon as a stag is devoured by his own dogs",
+      "mask, mascaron ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-16089-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Inzoomer object op zaal, 2013 (Nederlands/English)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Paulus Willemsz. van Vianen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "6.0"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": "c.",
+      "part": null,
+      "value": "50.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "40.0"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "3061"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Basin with Diana and Actaeon, Paulus Willemsz. van Vianen, 1613",
+  "subTitle": "h c.6.0cm \u00d7 l c.50.0cm \u00d7 w c.40.0cm \u00d7 w 3061gr",
+  "scLabelLine": "Paulus van Vianen (c. 1570-1613), Prague, 1613, silver",
+  "label": {
+    "title": "Basin with Diana and Actaeon",
+    "makerLine": "Paulus van Vianen (c. 1570-1613), Prague, 1613, silver",
+    "description": "Paulus van Vianen was celebrated for his unrivalled silver reliefs. This dish shows the goddess Diana being surprised by the huntsman Actaeon. She changes him into a stag: his hat is already sprouting antlers. The kwab style is used in many forms in the splendid, broad border, which\ncommands as much attention as the scene it surrounds.\nThe story depicted on the inside of this basin is continued on the reverse. Actaeon, transformed into a stag, is killed by his fellow huntsmen and devoured by his hounds. Never before had the underside of a dish been embellished with another scene. The ornament is even more prominent than on the front. The basin\u2019s feet are veritable kwab sculptures.",
+    "notes": null,
+    "date": "2018-07-03"
+  },
+  "showImage": true,
+  "location": "HG-2.3"
+}

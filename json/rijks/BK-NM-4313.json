@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-4313",
+  "priref": "18272",
+  "objectNumber": "BK-NM-4313",
+  "language": "en",
+  "title": "Spice box",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4815340f-95db-417e-9b2e-94c5fdb319ac",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/EMICgO_9egwws-e-rok5e2W-xZ2owRLHTxNfG-c-1kv69whw7-1JPHy8Bj7YJH3ifnUAX6AN_6nnkwkq0RJTNfnnHig=s0"
+  },
+  "colors": [
+    {
+      "percentage": 94,
+      "hex": "#CAC7C3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F4F2F1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #ACA59B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #898277"
+    },
+    {
+      "percentage": 0,
+      "hex": " #655E55"
+    },
+    {
+      "percentage": 0,
+      "hex": " #413D38"
+    },
+    {
+      "percentage": 0,
+      "hex": " #1D1A16"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CAC7C3",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #F4F2F1",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #ACA59B",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #898277",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #655E55",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #413D38",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #1D1A16",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 94,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Specerijdoos van zilver in de vorm van een fluitschip. Op de spiegel het wapen van Prins Maurits.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Middelburg"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Middelburg"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1878-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Middelburg"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1600
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Maurits (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BK-NM-4313"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "17.6"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "24.0"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "319"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Spice box, anonymous, c. 1600",
+  "subTitle": "h 17.6cm \u00d7 l 24.0cm \u00d7 w 319gr",
+  "scLabelLine": "Middelburg, c. 1600, silver",
+  "label": {
+    "title": "Spice box",
+    "makerLine": "Middelburg, c. 1600, silver",
+    "description": "The spice trade was the most important goal of the journeys to Asia. Pepper, nutmeg, mace and cinnamon were very costly commodities. Accordingly, they were offered at table in an opulent manner. This spice box is in the shape of the Mauritius, one of the ships that had already successfully sailed to Asia before the VOC was founded. Its lid (the deck) conceals little compartments for different spices.",
+    "notes": null,
+    "date": "2015-10-16"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-195",
+  "priref": "4722",
+  "objectNumber": "SK-C-195",
+  "language": "en",
+  "title": "Portrait of Mary Stuart (1662-95), Wife of Prince William III",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f613484-aaaa-405d-96bb-6ec10567eccb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2063,
+    "height": 2658,
+    "url": "https://lh3.googleusercontent.com/Ze_Cx6BDx1wsBaklFIPThJhylBo6XwhLtwy908DdoBOvjxFMePKBvAd0BCuCgKJ2o6btNFh-ZN1x7651Xab8pXMjDQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#2A302D"
+    },
+    {
+      "percentage": 20,
+      "hex": " #664D29"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8A774E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C9C2A1"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A3956E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #4A5C5D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708586"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#2A302D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #664D29",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8A774E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C9C2A1",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A3956E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4A5C5D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #708586",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 68,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Mary Stuart (1662-95), Wife of Prince William III"
+  ],
+  "description": "Portret van Maria Stuart, echtgenote van prins Willem III. Zittend ten voeten uit voor een balustrade en gordijn. Op de balustrade zit een papegaai. Op de achtergrond een fontein met Venus en Cupido gezeten op dolfijnen en een beeld van twee vechtende mannen. Pendant van SK-C-194.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Caspar Netscher",
+      "unFixedName": "Netscher, Caspar",
+      "placeOfBirth": "Heidelberg",
+      "dateOfBirth": "1639",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1684-01-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Caspar Netscher (1639 - 15-jan-1684)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Caspar Netscher",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1683",
+    "sortingDate": 1683,
+    "period": 17,
+    "yearEarly": 1683,
+    "yearLate": 1683
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B1511",
+      "25F35(PARROT)",
+      "41A651",
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "queen, empress, etc. (wife of a ruler)",
+      "ornamental birds: parrot",
+      "garden fountain",
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16621695"
+    ],
+    "places": [],
+    "people": [
+      "Maria II Stuart (koningin van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "SK-C-195"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maria II Stuart (koningin van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap: aantekeningen R. van Luttervelt."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Caspar Netscher",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "80.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "5.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Mary Stuart (1662-95), Wife of Prince William III, Caspar Netscher, c. 1683",
+  "subTitle": "h 80.5cm \u00d7 w 63.5cm \u00d7 d 5.5cm",
+  "scLabelLine": "Caspar Netscher, c. 1683, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

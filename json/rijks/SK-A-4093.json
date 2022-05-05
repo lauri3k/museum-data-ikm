@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4093",
+  "priref": "4897",
+  "objectNumber": "SK-A-4093",
+  "language": "en",
+  "title": "Landscape with an old oak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "27fda028-4957-4f15-b7e4-6c46092da03a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1737,
+    "url": "https://lh3.googleusercontent.com/lwITzGcPkf7GKrKpVU_EJUHCw0_seVxTjWJtDm7saBUvCrd_8y-BXcTn6o_P-_pgxRuAqY1ZPZsyCayB1Ahj4aFds9Tz6Xss8XNKPsA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#6E613F"
+    },
+    {
+      "percentage": 23,
+      "hex": " #453C27"
+    },
+    {
+      "percentage": 17,
+      "hex": " #392814"
+    },
+    {
+      "percentage": 8,
+      "hex": " #22160C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #978B64"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A19B7B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #684D22"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#6E613F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #453C27",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #392814",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #22160C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #978B64",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A19B7B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #684D22",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Landscape with an old Oak"
+  ],
+  "description": "Landschap met oude eik. Duinachtig landschap met links de oude boom. Links zit een man langs de weg, rechts op de achtergrond gaat een herder met schapen over een weg met een stenen brug.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen van Ostade",
+      "unFixedName": "Ostade, Adriaen van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1610-12-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1685-04-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adriaen van Ostade (19-dec-1610 - 28-apr-1685)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen van Ostade",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1963-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1639 - c. 1641",
+    "sortingDate": 1639,
+    "period": 17,
+    "yearEarly": 1639,
+    "yearLate": 1641
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G3(OAK)",
+      "25H1321",
+      "25I6"
+    ],
+    "iconClassDescription": [
+      "trees: oak",
+      "dunes (sea not visible); in the dunes",
+      "landscape with bridge, viaduct or aqueduct"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-4093"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen van Ostade",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "34.1"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "48.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "4.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Landscape with an old oak, Adriaen van Ostade, c. 1639 - c. 1641",
+  "subTitle": "h 34.1cm \u00d7 w 48.3cm",
+  "scLabelLine": "Adriaen van Ostade (1610-1685), oil on panel, c. 1640",
+  "label": {
+    "title": "Landscape with an old oak",
+    "makerLine": "Adriaen van Ostade (1610-1685), oil on panel, c. 1640",
+    "description": "Adriaen van Ostade from Haarlem painted not only a great many genre scenes with farming folk, but also several landscapes. This painting, with its dramatic contrast between light and shadow, betrays the influence of Rembrandt.",
+    "notes": null,
+    "date": "2014-10-07"
+  },
+  "showImage": true,
+  "location": null
+}

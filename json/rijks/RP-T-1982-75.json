@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1982-75",
+  "priref": "28051",
+  "objectNumber": "RP-T-1982-75",
+  "language": "en",
+  "title": "De opstanding",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7140c8bf-7236-49b8-a7d8-d0660c60b84f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2020,
+    "height": 2586,
+    "url": "https://lh3.googleusercontent.com/OqEqmEHYJtRLOEilgxEzsFVQ2rgNr0Iy6Orm94tFkC8Z3ykA8ueRFFqPeO7dG3gVko1E3I7QwOfumTJkmwRJ6V7I5jo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#EEECDB"
+    },
+    {
+      "percentage": 14,
+      "hex": " #7E7869"
+    },
+    {
+      "percentage": 10,
+      "hex": " #585348"
+    },
+    {
+      "percentage": 29,
+      "hex": " #A19A89"
+    },
+    {
+      "percentage": 37,
+      "hex": " #C7BFA9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #39362F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EEECDB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7E7869",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #585348",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A19A89",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C7BFA9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #39362F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 29,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 29,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 24,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "De opstanding"
+  ],
+  "description": "De opstanding, ontwerp voor een glasruit.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lucas van Leyden",
+      "unFixedName": "Leyden, Lucas van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1494-06",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lucas van Leyden (c. jun-1494 - aug-1533)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas van Leyden",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1982-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "in or after 1529 - 1533",
+    "sortingDate": 1529,
+    "period": 16,
+    "yearEarly": 1529,
+    "yearLate": 1533
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73E12"
+    ],
+    "iconClassDescription": [
+      "Christ, usually holding a banner, arises from the grave; often combined with sleeping and/or frightened soldiers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1982-75"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lucas van Leyden",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "252"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "199"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "De opstanding, Lucas van Leyden, in or after 1529 - 1533",
+  "subTitle": "h 252mm \u00d7 w 199mm",
+  "scLabelLine": "Lucas van Leyden, in or after 1529 - 1533, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

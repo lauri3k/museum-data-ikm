@@ -1,0 +1,268 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-164",
+  "priref": "6691",
+  "objectNumber": "SK-A-164",
+  "language": "en",
+  "title": "Portrait of Charles V, Holy Roman Emperor",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "63c9ec54-2cd2-4a51-a20f-576ce6591787",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2124,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/KKsAi6jnW2BJmS9kmtb44Hx7WUefNau9kNjf80DRjMxlAWaogO4v4UvPmmOQGsMn5gRxjQWWj9LlXtsJHi6fPxNmuw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 50,
+      "hex": "#13120A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #4A4029"
+    },
+    {
+      "percentage": 36,
+      "hex": " #392A15"
+    },
+    {
+      "percentage": 3,
+      "hex": " #795D32"
+    },
+    {
+      "percentage": 4,
+      "hex": " #93794E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #AF9367"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#13120A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4A4029",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #392A15",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #795D32",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #93794E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AF9367",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 87,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 87,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Portrait of Charles V, Holy Roman Emperor"
+  ],
+  "description": "Portret van Karel V (1500-58), keizer van het Heilige Roomse Rijk. Buste naar rechts, een baret schuin op het hoofd.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Jan Cornelisz Vermeyen",
+      "unFixedName": "Vermeyen, Jan Cornelisz",
+      "placeOfBirth": "Beverwijk",
+      "dateOfBirth": "1500",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1559",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Jan Cornelisz Vermeyen (c. 1500 - c. 1559)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Cornelisz Vermeyen",
+      "unFixedName": "Vermeyen, Jan Cornelisz",
+      "placeOfBirth": "Beverwijk",
+      "dateOfBirth": "1500",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1559",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "manner of",
+      "labelDesc": "manner of Jan Cornelisz Vermeyen (c. 1500 - c. 1559)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Cornelisz Vermeyen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1825-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1530",
+    "sortingDate": 1530,
+    "period": 16,
+    "yearEarly": 1530,
+    "yearLate": 1530
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A1241(GOLDEN FLEECE)1",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "knighthood order of the Golden Fleece - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "15001558"
+    ],
+    "places": [],
+    "people": [
+      "Karel V van Habsburg (Duits keizer en koning van Spanje)"
+    ],
+    "objectNumbers": [
+      "SK-A-164"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Karel V van Habsburg (Duits keizer en koning van Spanje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Cornelisz Vermeyen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "16.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "14"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "lijst",
+      "value": "22.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "lijst",
+      "value": "19.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Charles V, Holy Roman Emperor, Jan Cornelisz Vermeyen (manner of), c. 1530",
+  "subTitle": "h 16.4cm \u00d7 w 14cm",
+  "scLabelLine": "Jan Cornelisz Vermeyen, c. 1530, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

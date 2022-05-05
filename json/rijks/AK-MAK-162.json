@@ -1,0 +1,288 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-162",
+  "priref": "1659",
+  "objectNumber": "AK-MAK-162",
+  "language": "en",
+  "title": "Jizo Bodhisattva",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c9e1e5fa-bd34-4972-9204-cd26ea6e6368",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 906,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/sbnqcIvuuqAgmAR8A_59NJbAyiWnq_3HWhlnmGWwWKeso5AY8teRR-TH9pEc0PYocf3VbH1n6R9bazSNRJoAqP9JtXQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 12,
+      "hex": "#D0E5F6"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9DB2CF"
+    },
+    {
+      "percentage": 45,
+      "hex": " #5D534E"
+    },
+    {
+      "percentage": 12,
+      "hex": " #94908A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2BC94"
+    },
+    {
+      "percentage": 25,
+      "hex": " #1E2631"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D0E5F6",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #9DB2CF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #5D534E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #94908A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D2BC94",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #1E2631",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #F0F8FF"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B0C4DE"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "The Bodhisattva Jizo"
+  ],
+  "description": "Bodhisatva Jizo op twee lotuskussens op een wolk tegen een achtergrond van gestileerde golven. In houten doos.",
+  "labelText": null,
+  "objectTypes": [
+    "hanging scroll"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase auction collection A. Breuer, Berlijn, 1929)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silk",
+    "ink",
+    "dye",
+    "gold (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1300 - c. 1350",
+    "sortingDate": 1300,
+    "period": 13,
+    "yearEarly": 1300,
+    "yearLate": 1350
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H13"
+    ],
+    "iconClassDescription": [
+      "representations ~ gods, demi-gods, heroes, etc. (Hinduism, Buddhism, Jainism)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-162"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jan van Campen en Philip Meredith, 'Gerestaureerde rolschilderingen uit China en Japan', Aziatische Kunst 31/3 (2001), pp. 4-35 (no. IX).",
+    "Cat. tent.. Chinesische Kunst, Berlijn 1925.",
+    "Veilingcat. Collectie Breuer, cat.nr. 326.",
+    "Ostasiatische Zeitschrift, 3 Jahrg., p. 192.",
+    "Herman van Gessel, 'Rolschilderingen gerestaureerd', Rijksmuseum Kunstkrant, 27 (2001) nr. 4, p.8-9."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "96.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "39.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "173.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "56.9"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "64.4"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "55"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "11"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "68.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "11.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "ink and paint on silk",
+  "longTitle": "Jizo Bodhisattva, anonymous, c. 1300 - c. 1350",
+  "subTitle": "h 96.8cm \u00d7 w 39.5cm",
+  "scLabelLine": "Japan, c. 1300-1350, ink and dye on silk",
+  "label": {
+    "title": "Jizo Bodhisattva",
+    "makerLine": "Japan, c. 1300-1350, ink and dye on silk",
+    "description": "Jizo saves souls and those who pass away. Commissioning a portrait of Jizo was also considered propitious for a person\u2019s\nancestors. Jizo descends on a cloud and meets his devotees. Here he is shown in the usual way as an elegant, young monk,\nwith a shaven head and richly decorated clothes.",
+    "notes": null,
+    "date": "2014-01-14"
+  },
+  "showImage": true,
+  "location": null
+}

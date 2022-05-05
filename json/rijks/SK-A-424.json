@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-424",
+  "priref": "6799",
+  "objectNumber": "SK-A-424",
+  "language": "en",
+  "title": "The Batavians Defeating the Romans on the Rhine",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "719b917c-0de1-4c5c-8dc2-160240b3b5b6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1862,
+    "url": "https://lh3.googleusercontent.com/ks4BHJ2XYjiYDO0kADRyYVXDFgiXCYQvk0gOi6UHD6Rty8i45n1FsLOgORmrrFbW7xu0LbWIZkaMssDJ0BLD1pyHU28=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#819298"
+    },
+    {
+      "percentage": 14,
+      "hex": " #7B7763"
+    },
+    {
+      "percentage": 20,
+      "hex": " #181710"
+    },
+    {
+      "percentage": 0,
+      "hex": " #AAA58C"
+    },
+    {
+      "percentage": 26,
+      "hex": " #423324"
+    },
+    {
+      "percentage": 26,
+      "hex": " #615640"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#819298",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7B7763",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #181710",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #AAA58C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #423324",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #615640",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 47,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "\"Claudius Civilis Defeats the Roman Troops near the Rhine in 69 AD",
+    " one of a series of twelve on the Insurrection of the Batavians against the Romans \""
+  ],
+  "description": "De Bataven verslaan de Romeinen bij de Rijn. Veldslag met op de voorgrond twee verslagen Romeinse soldaten en een paard, daarachter de oprukkende legers van de Batavieren. Vierde voorstelling in een reeks van twaalf taferelen van de opstand van de Batavieren tegen de Romeinen (SK-A-421/432), aangekocht door de Staten-Generaal in 1613.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Otto van Veen",
+      "unFixedName": "Veen, Otto van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1556",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1629-05-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Otto van Veen (1556 - 06-mei-1629)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Otto van Veen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1799-06-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1600 - 1613",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1613
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3",
+      "25H213"
+    ],
+    "iconClassDescription": [
+      "battle",
+      "river"
+    ],
+    "motifs": [],
+    "events": [
+      "Bataafse Opstand"
+    ],
+    "periods": [],
+    "places": [
+      "Binnenhof",
+      "Rijn"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-424"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Otto van Veen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "38"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "52"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Batavians Defeating the Romans on the Rhine, Otto van Veen, 1600 - 1613",
+  "subTitle": "h 38cm \u00d7 w 52cm",
+  "scLabelLine": "Otto van Veen (1556\u20131629), oil on panel, c. 1610\u20131613",
+  "label": {
+    "title": "The Batavians Defeating the Romans on the Rhine",
+    "makerLine": "Otto van Veen (1556\u20131629), oil on panel, c. 1610\u20131613",
+    "description": "In 1613, the Dutch parliament (States General) commissioned Otto van Veen to paint twelve paintings depicting the revolt of the Batavians against the Romans in AD 69 and 70. These were displayed in Binnenhof, the central government building in The Hague. In the early years of the Dutch Republic, many compared their own revolt against Spain to the Batavian uprising.",
+    "notes": "SK-A-421 t/m SK-A-432",
+    "date": "2014-11-20"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

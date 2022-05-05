@@ -1,0 +1,334 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1598",
+  "priref": "8148",
+  "objectNumber": "SK-A-1598",
+  "language": "en",
+  "title": "Triptych",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2eb131fb-18a2-4e0c-87ff-45ef0393fc6d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1862,
+    "url": "https://lh3.googleusercontent.com/soTHDM5Q7hnZbvtoEg0QIeGIMEAhrs86eh1L6wWp2I6Lea3wtTMp3PShmTbXp_y0_iM9pN-RH0ICR7m6-qS0yJIdbxy0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 12,
+      "hex": "#E7E6E5"
+    },
+    {
+      "percentage": 21,
+      "hex": " #C1BCAF"
+    },
+    {
+      "percentage": 14,
+      "hex": " #88887C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #26241D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #464138"
+    },
+    {
+      "percentage": 30,
+      "hex": " #766750"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E7E6E5",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #C1BCAF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #88887C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #26241D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #464138",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #766750",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Triptych with the Crucifixion (centre panel), St Peter and a Male Donor (inner left wing), St James and a Female Donor (inner right wing), St Christopher and the Christ Child on the Road of Life (outer wings)",
+    "Triptych: Calvary, with donors (open); St. Christopher with the Christ child on the road (closed)"
+  ],
+  "description": "Drieluik met de kruisiging van Christus op het middenpaneel, op het linker zijpaneel een knielende mannelijke stichter met de heilige Petrus, op het rechter zijpaneel een knielende vrouwelijk stichter met de heilige Jacobus. Boven de stichters vliegen putti met de familiewapens. Gesloten toont het altaarstuk de heilige Christophorus te paard met het Christuskind op de arm, rechts een leger van duivels.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Pseudo Jan Wellens de Cock",
+      "unFixedName": "Cock, Pseudo Jan Wellens de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Pseudo Jan Wellens de Cock, Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pseudo Jan Wellens de Cock",
+      "unFixedName": "Cock, Pseudo Jan Wellens de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Leiden"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Pseudo Jan Wellens de Cock, Leiden"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pseudo Jan Wellens de Cock",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1893-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Leiden",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1525",
+    "sortingDate": 1525,
+    "period": 16,
+    "yearEarly": 1525,
+    "yearLate": 1525
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D6",
+      "73D6411",
+      "11H(PETER)",
+      "11H(JAMES THE GREAT)",
+      "11H(CHRISTOPHER)"
+    ],
+    "iconClassDescription": [
+      "the crucifixion of Christ: Christ's death on the cross; Golgotha (Matthew 27:45-58; Mark 15:33-45; Luke 23:44-52; John 19:25-38)",
+      "Mary and John close together; sometimes Mary swooning ~ crucified Christ",
+      "the apostle Peter, first bishop of Rome; possible attributes: book, cock, (upturned) cross, (triple) crozier, fish, key, scroll, ship, tiara",
+      "the apostle James the Great; possible attributes: book, pilgrim's cloak, hat, shell, staff, and wallet, scroll, sword",
+      "the giant and martyr Christophorus; possible attributes: palm-tree (with bunches of dates, or withered), infant Christ"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1598"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pseudo Jan Wellens de Cock",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "50"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "33.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "42"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "16.8"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "42"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "16.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "painted surface",
+      "value": "37"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "painted surface",
+      "value": "25.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "painted surface",
+      "value": "32.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "painted surface",
+      "value": "10"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "painted surface",
+      "value": "31.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "painted surface",
+      "value": "9.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Triptych, Pseudo Jan Wellens de Cock (attributed to), c. 1525",
+  "subTitle": "h 50cm \u00d7 w 33.5cm",
+  "scLabelLine": "attributed to Pseudo Jan Wellens de Cock (active c. 1505\u20131530), Leiden or Antwerp, c. 1525, oil on panel",
+  "label": {
+    "title": "Triptych",
+    "makerLine": "attributed to Pseudo Jan Wellens de Cock (active c. 1505\u20131530), Leiden or Antwerp, c. 1525, oil on panel",
+    "description": "Depicted at the centre of this triptych is The Crucifixion. On the wings Saint Peter and Saint James stand behind the couple who commissioned this private altar. The donors, dressed in black, kneel in adoration before the crucified Christ. Thus included, they appear to participate in Christ\u2019s sacrifice on the cross at Golgotha outside Jerusalem where criminals were executed.",
+    "notes": null,
+    "date": "2012-11-20"
+  },
+  "showImage": true,
+  "location": "HG-0.1"
+}

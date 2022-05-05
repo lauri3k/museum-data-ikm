@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4857",
+  "priref": "5606",
+  "objectNumber": "SK-A-4857",
+  "language": "en",
+  "title": "Self-portrait",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5bf3f2bf-8082-40b9-b252-1bd84f6bf532",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1903,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/6-ipQDft_wDOqYamLpgOO0W6VEl8bUifISzOMixQtJeQNrHipnS74CdpdEDUVWOm0I8g7p003VQddR8MqQ0X0SRoJw1w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#3A321F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #181510"
+    },
+    {
+      "percentage": 29,
+      "hex": " #644D2B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #7D7155"
+    },
+    {
+      "percentage": 2,
+      "hex": " #9A8E6C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B4A993"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D8D3C3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3A321F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #181510",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #644D2B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7D7155",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A8E6C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B4A993",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D8D3C3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Self Portrait"
+  ],
+  "description": "Zelfportret van Wouter Johannes van Troostwijk, zittend in zijn atelier achter een schilderij met palet, penselen en schildersstok in de hand. Bovenop een kast liggen verschillende gipsmodellen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Wouter Johannes van Troostwijk",
+      "unFixedName": "Troostwijk, Wouter Johannes van",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1782-05-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1810-09-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Wouter Johannes van Troostwijk (28-mei-1782 - 20-sep-1810)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wouter Johannes van Troostwijk",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1988-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper",
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1809",
+    "sortingDate": 1809,
+    "period": 19,
+    "yearEarly": 1809,
+    "yearLate": 1809
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "48C511",
+      "48C5152"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "painter at work, in his studio",
+      "palette"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Troostwijk, Wouter Johannes van"
+    ],
+    "objectNumbers": [
+      "SK-A-4857"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Troostwijk, Wouter Johannes van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "A. Quarles van Ufford, 'Kunstenaars & liefhebbers, kunst uit de tijd van de Verlichting' , Museumtijdschrift, nr. 3 (2007), p. 20-23, p.21 (afb.)",
+    "J. de Vries, Vaderlandsche letteroefeningen, 1815, dl. 2, p. 233-245."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Wouter Johannes van Troostwijk",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "51.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "40"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cardboard",
+  "longTitle": "Self-portrait, Wouter Johannes van Troostwijk, c. 1809",
+  "subTitle": "h 51.3cm \u00d7 w 40cm",
+  "scLabelLine": "Wouter Johannes van Troostwijk (1782-1810), oil on paper on cardboard on panel, c. 1809",
+  "label": {
+    "title": "Self-portrait",
+    "makerLine": "Wouter Johannes van Troostwijk (1782-1810), oil on paper on cardboard on panel, c. 1809",
+    "description": "The promising painter Wouter van Troostwijk is said to have died young from a cold he caught while drawing outside at night. An artist\u2019s life could hardly end more romantically! His atelier is pictured in this informal self-portrait, which he made shortly before his death. Grouped together on top of the cupboard are plaster casts of Classical sculptures, the models traditionally used by a painter.",
+    "notes": null,
+    "date": "2013-01-08"
+  },
+  "showImage": true,
+  "location": "HG-1.14"
+}

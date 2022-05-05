@@ -1,0 +1,246 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2213",
+  "priref": "8493",
+  "objectNumber": "SK-A-2213",
+  "language": "en",
+  "title": "Still Life with Vegetables before a Draped, Overturned Plinth by an Ornamental Fountain",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a9547c8f-fa90-4dfd-9a1c-1a4e0791c8e5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2863,
+    "height": 2326,
+    "url": "https://lh3.googleusercontent.com/gMF-TG5HuOR_Ikj-o6M7q0j16IbWgqi9DCFPM2Q2G67DUs31TuGVSNU4fNc42_XfDwTE78EfXHneYSbpXT7r-x3_IBgBY-Rit7U_HsgoCg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 77,
+      "hex": "#1A1811"
+    },
+    {
+      "percentage": 18,
+      "hex": " #3A3C38"
+    },
+    {
+      "percentage": 1,
+      "hex": " #71746A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #714C2C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #927542"
+    },
+    {
+      "percentage": 0,
+      "hex": " #ACA57D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1A1811",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3A3C38",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #71746A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #714C2C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #927542",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #ACA57D",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 77,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [
+    "Still Life with Vegetables before a Draped, Overturned Plinth by an Ornamental Fountain"
+  ],
+  "description": "Stilleven van bloemen, vruchten en vaatwerk bij een fontein met een putto op een dolfijn, tussen zuilen. Linksonder twee hazen, een bloemkool en een kalebas, druiven, ma\u00efs, abrikozen, appels en aalbessen. Rechts een gouden lampetstel en een aapje (meerkat). Tussen de vruchten zitten allerlei vogeltjes, vlinders en andere insecten.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Peeter Gijsels",
+      "unFixedName": "Gijsels, Peeter",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1621-12-03",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1690",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Peeter Gijsels (c. 03-dec-1621 - c. 1690)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Peeter Gijsels",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-12-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1680 - 1690",
+    "sortingDate": 1680,
+    "period": 17,
+    "yearEarly": 1680,
+    "yearLate": 1690
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A671",
+      "41A651",
+      "25F26(RABBIT)",
+      "25F22",
+      "41A431"
+    ],
+    "iconClassDescription": [
+      "still life of plants, flowers and fruit",
+      "garden fountain",
+      "rodents: rabbit",
+      "monkeys, apes",
+      "carpet, rug"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2213"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Peeter Gijsels",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "38.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "47.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "4.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on copper",
+  "longTitle": "Still Life with Vegetables before a Draped, Overturned Plinth by an Ornamental Fountain, Peeter Gijsels, 1680 - 1690",
+  "subTitle": "h 38.4cm \u00d7 w 47.5cm",
+  "scLabelLine": "Peeter Gijsels, 1680 - 1690, oil on copper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

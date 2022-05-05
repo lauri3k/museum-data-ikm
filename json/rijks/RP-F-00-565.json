@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-565",
+  "priref": "60452",
+  "objectNumber": "RP-F-00-565",
+  "language": "en",
+  "title": "Oudezijds Achterburgwal en links de achterzijde van de Zeedijk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b34f259f-7ca4-4b39-975f-8f2f35a3321b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2730,
+    "height": 2277,
+    "url": "https://lh5.ggpht.com/Ud7CpR7bp4aV3AeW8RbUxnrg4ETNwSE9cJMT6vFKwvzWBm8Tw5ydFsyc9cHjL9EOFiW__x26EoJPiir5vdnoHaQZaA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oudezijds Achterburgwal en links de achterzijde van de Zeedijk",
+    "Het Kolkje en de Oudezijds Achterburgwal in Amsterdam"
+  ],
+  "description": "Oudezijds Achterburgwal in zuidelijke richting. links de achterzijde van de Zeedijk.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "George Hendrik Breitner",
+      "unFixedName": "Breitner, George Hendrik",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1857-09-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1923-06-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "George Hendrik Breitner (12-sep-1857 - 05-jun-1923), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Hendrik Breitner",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1949-01-01T00:00:00",
+    "creditLine": "M.C.J. Breitner-Jordan Bequest, Zeist"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1894 - 1898",
+    "sortingDate": 1894,
+    "period": 19,
+    "yearEarly": 1894,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I145"
+    ],
+    "iconClassDescription": [
+      "canals, waters (in city)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Oudezijds Kolk",
+      "Oudezijds Achterburgwal"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-565"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Hendrik Breitner",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "301"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "355"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "394"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "446"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Oudezijds Achterburgwal en links de achterzijde van de Zeedijk, George Hendrik Breitner, 1894 - 1898",
+  "subTitle": "h 301mm \u00d7 w 355mm",
+  "scLabelLine": "George Hendrik Breitner, 1894 - 1898, gelatin silver print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

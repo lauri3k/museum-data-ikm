@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-240",
+  "priref": "6729",
+  "objectNumber": "SK-A-240",
+  "language": "en",
+  "title": "Marie Fargues, the Painter\u2019s Wife",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "08730aa2-dee2-4906-ad6f-a946f13046cc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1883,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/Iwc2byRUNFpS9xU3CfZY-6rtoskkCu5bseEDquR5qCTlM3g42w4lCCRS45dJ3OItevBNfTwx0JLgDZ90Z7ANoPoTYQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 61,
+      "hex": "#C2C3BA"
+    },
+    {
+      "percentage": 15,
+      "hex": " #A49280"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E3DFD4"
+    },
+    {
+      "percentage": 10,
+      "hex": " #6D7275"
+    },
+    {
+      "percentage": 0,
+      "hex": " #594842"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A15A49"
+    },
+    {
+      "percentage": 0,
+      "hex": " #34302C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C2C3BA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A49280",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E3DFD4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6D7275",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #594842",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A15A49",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #34302C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 61,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 15,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FAF0E6"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 15,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Portret van  Marie Fargues, echtgenote van de kunstenaar, in Turks kostuum. Ten voeten uit, zittend op een divan. Het hoofd rustend op de rechterhand. Op de divan liggen een boek en een mand met een spiegel, kam en muts. Op de vloer een Oosters kleed en een vaasje met anjers.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean-Etienne Liotard",
+      "unFixedName": "Liotard, Jean-Etienne",
+      "placeOfBirth": "Gen\u00e8ve",
+      "dateOfBirth": "1702-12-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1789-06-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Gen\u00e8ve",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jean-Etienne Liotard (22-dec-1702 - 12-jun-1789)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean-Etienne Liotard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1873-01-01T00:00:00",
+    "creditLine": "Bequeathed by Miss Marie-Anne Liotard, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1756 - 1758",
+    "sortingDate": 1756,
+    "period": 18,
+    "yearEarly": 1756,
+    "yearLate": 1758
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2",
+      "41D3",
+      "41A722",
+      "31A511",
+      "49M32",
+      "41A6711"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman",
+      "folk costume, regional costume",
+      "couch, sofa, settee",
+      "mirror",
+      "book",
+      "flowers in a vase"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Fargues, Marie"
+    ],
+    "objectNumbers": [
+      "SK-A-240"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Fargues, Marie"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "K. Posner en Robert van Langh [red.], Supporting Conservation : Four projects funded by Gieskes-Strijbis Fonds, Amsterdam 2015, p. 23, 32, afb. 16, 22, 23.",
+    "Duncan Bull, 'Princess, countess, lover or wife? Liotard's 'lady on a sofa'', The Burlington Magazine, The Burlington Magazine 150 (2008), p. 592-602.",
+    "Kunstschrift 49 (2005), nr. 2, p. 4-5. (Thema: portretten van de 18e eeuw)"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean-Etienne Liotard",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "103.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "79.8"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "14.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pastel on two pieces of vellum",
+  "longTitle": "Marie Fargues, the Painter\u2019s Wife, Jean-Etienne Liotard, 1756 - 1758",
+  "subTitle": "h 103.8cm \u00d7 w 79.8cm \u00d7 w 14.1kg",
+  "scLabelLine": "Jean-Etienne Liotard (1702-1789), pastel on two pieces of vellum, c. 1757-1759",
+  "label": {
+    "title": "Marie Fargues, the Painter\u2019s Wife",
+    "makerLine": "Jean-Etienne Liotard (1702-1789), pastel on two pieces of vellum, c. 1757-1759",
+    "description": "Liotard was already 54 when he married the 29-yearold Marie Fargues in Amsterdam in 1756. This extraordinary portrait \u2013 it is one of Liotard\u2019s largest pastels and necessitated the use of two pieces of vellum \u2013 was probably done shortly following their wedding. Liotard chose a composition he had first used in a drawing made in Constantinople and had repeated several times in different contexts: it was, indeed, one of the most famous inventions of his persona as \u2018Le peintre turc\u2019.",
+    "notes": "Multimediatour 249",
+    "date": "2018-09-05"
+  },
+  "showImage": true,
+  "location": "HG-1.9"
+}

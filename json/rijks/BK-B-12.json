@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-B-12",
+  "priref": "25015",
+  "objectNumber": "BK-B-12",
+  "language": "en",
+  "title": "Portrait of Cornelis Apostool",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c85d5b0d-6e41-4570-a00f-a3d226bc788d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2134,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/9OxBDcVW8PgiJGzP3kdyABQOFPhZlSzwM6olWmfNxX0MP94QYE3TkajTC02w9-hH5o3T4D8saqEXu1IZnw4t9tuOX6Y=s0"
+  },
+  "colors": [
+    {
+      "percentage": 48,
+      "hex": "#A1A19A"
+    },
+    {
+      "percentage": 42,
+      "hex": " #C0C1BB"
+    },
+    {
+      "percentage": 5,
+      "hex": " #8B897B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E5E3D6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #6D6C60"
+    },
+    {
+      "percentage": 0,
+      "hex": " #515045"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3A3A33"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A1A19A",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C0C1BB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8B897B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E5E3D6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6D6C60",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #515045",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #3A3A33",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 42,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Het hoofd is driekwart naar links gewend, de mond niet geheel gesloten. De borst verloopt in een rechthoekig onderstuk met op de rechterzijde: GABRIEL.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Paulus Joseph Gabri\u00ebl",
+      "unFixedName": "Gabri\u00ebl, Paulus Joseph",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1784-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1834-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Paulus Joseph Gabri\u00ebl (jul-1784 - 01-jan-1834), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Paulus Joseph Gabri\u00ebl",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1844-01-01T00:00:00",
+    "creditLine": "C. Apostool Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1817",
+    "sortingDate": 1817,
+    "period": 19,
+    "yearEarly": 1817,
+    "yearLate": 1817
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+51)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ head (and shoulders) (portrait))"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Apostool, Cornelis"
+    ],
+    "objectNumbers": [
+      "BK-B-12"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Apostool, Cornelis"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Paulus Joseph Gabri\u00ebl",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "56.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "24.7"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "23.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "marble (rock)",
+  "longTitle": "Portrait of Cornelis Apostool, Paulus Joseph Gabri\u00ebl, c. 1817",
+  "subTitle": "h c.56.5cm \u00d7 w c.24.7cm \u00d7 d c.23.0cm",
+  "scLabelLine": "Paulus Joseph Gabri\u00ebl (1784-1834), marble, c. 1817",
+  "label": {
+    "title": "Portrait of Cornelis Apostool",
+    "makerLine": "Paulus Joseph Gabri\u00ebl (1784-1834), marble, c. 1817",
+    "description": "Apostool was the first director of the Koninklijke Museum in Amsterdam, forerunner of the Rijksmuseum. His portrait was sculpted by the royal sculptor Paulus Gabri\u00ebl, who chose a Classical form whereby Apostool\u2019s head appears to emerge naturally from a block of stone. This type of portrait, known as a herm, was used mainly for artists and art lovers.",
+    "notes": null,
+    "date": "2012-12-20"
+  },
+  "showImage": true,
+  "location": "HG-1.12"
+}

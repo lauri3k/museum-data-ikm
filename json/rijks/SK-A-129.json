@@ -1,0 +1,219 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-129",
+  "priref": "8165",
+  "objectNumber": "SK-A-129",
+  "language": "en",
+  "title": "The Fall of Man",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "94b57308-43cc-4795-9eae-8bd720d8d7e3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 100,
+    "width": 2104,
+    "height": 2592,
+    "url": "https://lh3.googleusercontent.com/735D6PqhkkKpWuXg5unq0HiovKboVmL1z9YcfWpeHhhK5XmpbW0JoP0_SMuL1O-6FGtNXSEqoDSv587kmacKPwutog=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#544A33"
+    },
+    {
+      "percentage": 48,
+      "hex": " #2E281B"
+    },
+    {
+      "percentage": 16,
+      "hex": " #6D5D3D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8E815E"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B1A385"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2C6AE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#544A33",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2E281B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6D5D3D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8E815E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B1A385",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D2C6AE",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "The Fall of Man"
+  ],
+  "description": "De zondeval. Adam en Eva staande voor de boom der kennis. Een slang reikt Eva een appel aan. Om de figuren allerlei dieren: aap, kat, hond, naaktslakken, egel, kikker, vos en uil.  Links op de achtergrond worden Adam en Eva door God gewaarschuwd niet van de boom te eten.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Cornelisz. van Haarlem",
+      "unFixedName": "Cornelisz. van Haarlem, Cornelis",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1562",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1638-11-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Cornelisz. van Haarlem (1562 - 11-nov-1638)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Cornelisz. van Haarlem",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1804-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1592",
+    "sortingDate": 1592,
+    "period": 16,
+    "yearEarly": 1592,
+    "yearLate": 1592
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71A42"
+    ],
+    "iconClassDescription": [
+      "Temptation and Fall (scenes with both Adam and Eve)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-129"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Cornelisz. van Haarlem",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "273"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "220"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Fall of Man, Cornelis Cornelisz. van Haarlem, 1592",
+  "subTitle": "h 273cm \u00d7 w 220cm",
+  "scLabelLine": "Cornelis Cornelisz van Haarlem (1562\u20131638), oil on canvas, 1592",
+  "label": {
+    "title": "The Fall of Man",
+    "makerLine": "Cornelis Cornelisz van Haarlem (1562\u20131638), oil on canvas, 1592",
+    "description": "In the left background we see God (a cloud with a human face and hands) cautioning Adam and Eve. They may eat the fruit of all of the trees, except the tree of \u2018the knowledge of good and evil\u2019. Tempted by the serpent (with a human torso), Adam and Eve\nnevertheless eat the forbidden fruit, for which they were driven from Paradise.",
+    "notes": null,
+    "date": "2013-03-20"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

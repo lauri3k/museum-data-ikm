@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-321",
+  "priref": "5050",
+  "objectNumber": "SK-A-321",
+  "language": "en",
+  "title": "Boatmen Moored on the Shore of an Italian Lake",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a57870a2-2256-4517-a959-6423da61abe8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2331,
+    "height": 2628,
+    "url": "https://lh3.googleusercontent.com/rbj2u7G6hKJKbQouCK8M6e8SEEjJCHE0wIFC0YNjW60UilUPhAP5N47N1gS5SE20MnLYX7j23fI-g45PjnelsZMEqjE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 45,
+      "hex": "#191911"
+    },
+    {
+      "percentage": 13,
+      "hex": " #4B4027"
+    },
+    {
+      "percentage": 10,
+      "hex": " #61634C"
+    },
+    {
+      "percentage": 21,
+      "hex": " #C5C3AA"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8D6A35"
+    },
+    {
+      "percentage": 9,
+      "hex": " #8E947D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#191911",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4B4027",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #61634C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #C5C3AA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8D6A35",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8E947D",
+      "normalizedHex": "#62AD77"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 45,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #62AD77"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Boatmen moored on the shore of an Italian lake; perhaps intended to represent the flight into Egypt"
+  ],
+  "description": "Italiaans berglandschap met schippers bezig met het laden en lossen van hun boten aan de oever van een meer. In het midden een moeder met een kind aan de borst, op de voorgrond een koe en een ezel. Misschien bedoeld als een voorstelling van de vlucht naar Egypte.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adam Pijnacker",
+      "unFixedName": "Pijnacker, Adam",
+      "placeOfBirth": "Schiedam",
+      "dateOfBirth": "1622-02-15",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1673-03-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adam Pijnacker (c. 15-feb-1622 - 28-mrt-1673)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adam Pijnacker",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1808-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650 - 1670",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1670
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H21",
+      "73B65",
+      "47I2112",
+      "46C21"
+    ],
+    "iconClassDescription": [
+      "water course",
+      "rest on the flight into Egypt",
+      "cow",
+      "ships (in general)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-321"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Bikker, Jonathan, 'The hidden collection of the spectacularly bankrupt banker Leendert Pieter de Neufville', Simiolus 36 (2012), nr. 3/4, p. 190, afb. 8."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adam Pijnacker",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "97.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "85.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas on panel",
+  "longTitle": "Boatmen Moored on the Shore of an Italian Lake, Adam Pijnacker, 1650 - 1670",
+  "subTitle": "h 97.5cm \u00d7 w 85.5cm",
+  "scLabelLine": "Adam Pijnacker (c. 1620\u20131673), oil on canvas, laid down on panel, 1650\u20131670",
+  "label": {
+    "title": "Boatmen Moored on the Shore of an Italian Lake",
+    "makerLine": "Adam Pijnacker (c. 1620\u20131673), oil on canvas, laid down on panel, 1650\u20131670",
+    "description": "Pijnacker assembled an ingenious composition. Dark tree trunks in the foreground frame the vignette of the boats. Everything is bathed in the golden glow of the warm Italian light. Sunlight falls on the white birch bark and mossy tree trunks, creating sharp accents.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.17"
+}

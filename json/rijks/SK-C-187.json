@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-187",
+  "priref": "9119",
+  "objectNumber": "SK-C-187",
+  "language": "en",
+  "title": "Still Life with Fruit and Oysters",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "48762243-e06d-4ac2-8901-f22e4a616370",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2018,
+    "url": "https://lh3.googleusercontent.com/V-eQlsfZi-DREM-CTdXBzAZCADiikfkTnEE8f_4js6_kFQ0wWcyD6IUZAl2M-Y63r_T5sK5sOFrcGEezgl76EGLBIbU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#AFA57D"
+    },
+    {
+      "percentage": 65,
+      "hex": " #191A11"
+    },
+    {
+      "percentage": 18,
+      "hex": " #633219"
+    },
+    {
+      "percentage": 5,
+      "hex": " #7D6235"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737460"
+    },
+    {
+      "percentage": 8,
+      "hex": " #3B3F36"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#AFA57D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #191A11",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #633219",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #7D6235",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #737460",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3B3F36",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 65,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Still Life with Fruit and Oysters"
+  ],
+  "description": "Stilleven met vruchten en oesters. Op een marmeren tafelblad liggen een bord met oesters en citroen, een broodje, een roemer, een granaatappel, een grote schaal met druiven, kastanjes, kweeperen, kalebassen, wijnranken, pruimen en perziken. Vooraan een bokaal en een horloge aan een lint. Achter het fruit staan een hoge glas en een sierbokaal. Tussen het fruit zitten slakken, vlinders een spin en een libel.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Abraham Mignon",
+      "unFixedName": "Mignon, Abraham",
+      "placeOfBirth": "Frankfurt am Main",
+      "dateOfBirth": "1640-06-21",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679-03-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham Mignon (21-jun-1640 - 27-mrt-1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham Mignon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1660 - 1679",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1679
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C653",
+      "41C38",
+      "25F72(OYSTER)",
+      "23U25"
+    ],
+    "iconClassDescription": [
+      "fruit",
+      "laid table as still life",
+      "molluscs: oyster",
+      "watch"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-187"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Abraham Mignon",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "60.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "75"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "11.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Still Life with Fruit and Oysters, Abraham Mignon, 1660 - 1679",
+  "subTitle": "h 60.5cm \u00d7 w 75cm \u00d7 d 11.7cm",
+  "scLabelLine": "Abraham Mignon, 1660 - 1679, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

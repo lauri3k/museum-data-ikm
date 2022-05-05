@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3945",
+  "priref": "8564",
+  "objectNumber": "SK-A-3945",
+  "language": "en",
+  "title": "Summer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4d99cdea-dbaf-47d8-98da-1f50428468cf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 62,
+    "width": 2500,
+    "height": 2456,
+    "url": "https://lh3.googleusercontent.com/4Kjg584A0Ow9K1vOWUeIUXwZui5ltUhP2px8CVgTQ5iU-p-HSrJjiNeGWH0MdO3TdY2wdciCy4iRUjCsQFqwRSYut1h-983om_L8evQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 23,
+      "hex": "#968D6F"
+    },
+    {
+      "percentage": 22,
+      "hex": " #2B2214"
+    },
+    {
+      "percentage": 21,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A6A493"
+    },
+    {
+      "percentage": 10,
+      "hex": " #594727"
+    },
+    {
+      "percentage": 5,
+      "hex": " #6D5E39"
+    },
+    {
+      "percentage": 2,
+      "hex": " #807855"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#968D6F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #2B2214",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #000000",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A6A493",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #594727",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #6D5E39",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #807855",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 8,
+      "hex": " #556B2F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 39,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Summer"
+  ],
+  "description": "Ronde voorstelling met een landschap in de zomer. Links een boerenwoning bij een oude boom, op de voorgrond een ruiter in gesprek met drie personen. Op de achtergrond meer woningen, een molen en de kerktoren van een dorp. Pendant van de SK-A-3946 'Winter'.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan van Goyen",
+      "unFixedName": "Goyen, Jan van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1596-01-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1656-04-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Jan van Goyen (13-jan-1596 - 27-apr-1656)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan van Goyen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1958-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1625",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1625
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "23F43",
+      "47D31",
+      "25I2"
+    ],
+    "iconClassDescription": [
+      "summer landscape; landscape symbolizing summer (the four seasons of the year)",
+      "windmill",
+      "village"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3945"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan van Goyen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": "support",
+      "value": "33.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "frame",
+      "value": "43.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "frame",
+      "value": "44.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "frame",
+      "value": "4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": "sight size",
+      "value": "32"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Summer, Jan van Goyen, 1625",
+  "subTitle": "d 33.5cm",
+  "scLabelLine": "Jan van Goyen (1596\u20131656), oil on panel, 1625",
+  "label": {
+    "title": "Summer",
+    "makerLine": "Jan van Goyen (1596\u20131656), oil on panel, 1625",
+    "description": "Small circular landscapes must have been in great demand among the art-buying public. Van Goyen painted dozens of them over the years. In Summer, he combined several typical \u2018Dutch\u2019 motifs: an old house in the shade of a tall tree, a windmill on a bulwark, and a church tower.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.6"
+}

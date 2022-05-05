@@ -1,0 +1,260 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-816-A",
+  "priref": "233390",
+  "objectNumber": "NG-NM-816-A",
+  "language": "en",
+  "title": "Crown for the King of Ardra",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c1f4b2c8-8f52-4446-a10e-caa4d6680cfe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/CIeYbKuNxtWZNJlc8wO3rtcA91FtFR7GoVFkKm3O85gze6yX1LFBUchTBffN2wIMrUJiOD59TJ6JkUh0FKDHCGPffrPK=s0"
+  },
+  "colors": [
+    {
+      "percentage": 53,
+      "hex": "#ECEBD2"
+    },
+    {
+      "percentage": 13,
+      "hex": " #5F3D34"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C1C1BF"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B4A983"
+    },
+    {
+      "percentage": 6,
+      "hex": " #2A120F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #878067"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0D097"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECEBD2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5F3D34",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #C1C1BF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #B4A983",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #2A120F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #878067",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E0D097",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 53,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EEE8AA"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 53,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Crown for the King of Ardra"
+  ],
+  "description": "Kroon met op de hoofdband rechthoekige glazen stenen in verschillende kleuren afgewisseld met knoppen. Bovenop de band versiering van fleurons. Vanaf de band lopen vier beugels versierd met vierkant kruis (onderaan), stenen en knoppen. Op de kruising van de beugels een wereldbol met vierkant kruis. Dit kruis is ingelegd met glas. De kroon is gevoerd met rood fluweel.",
+  "labelText": null,
+  "objectTypes": [
+    "jewellery"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)",
+    "glass",
+    "velvet (fabric weave)"
+  ],
+  "techniques": [
+    "casting",
+    "inlay (process)"
+  ],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "c. 1664",
+    "sortingDate": 1664,
+    "period": 17,
+    "yearEarly": 1664,
+    "yearLate": 1664
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B193"
+    ],
+    "iconClassDescription": [
+      "orb (symbol of sovereignty; sphere with cross on top)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16641664"
+    ],
+    "places": [],
+    "people": [
+      "Ruyter, Michiel Adriaansz. de",
+      "Ardra, koning van"
+    ],
+    "objectNumbers": [
+      "NG-NM-816-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Ruyter, Michiel Adriaansz. de",
+    "Ardra, koning van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Object van de maand (7), Gijs van der Ham, Historiek, 10 juli 2012 - http://historiek.net/overige/6696-een-kroon-voor-ardra-7"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "28"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "18"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "casting",
+  "longTitle": "Crown for the King of Ardra, anonymous, c. 1664",
+  "subTitle": "h 28cm \u00d7 d 18cm",
+  "scLabelLine": "England, c. 1664, brass, glass, velvet",
+  "label": {
+    "title": "Crown for the King of Ardra",
+    "makerLine": "England, c. 1664, brass, glass, velvet",
+    "description": "Although impressive, this crown is actually made of inexpensive materials. It was meant to be a gift from the English to the king of Adra on the west coast of Africa. The English (as well as the Dutch) used such diplomatic incentives to foster the trade in enslaved Africans. The crown, however, never reached the king. Admiral Michiel de Ruyter seized it while on a mission to expel the English from the Dutch fortresses on the African coast.",
+    "notes": "Multimediatour",
+    "date": "2018-07-11"
+  },
+  "showImage": true,
+  "location": "HG-2.9"
+}

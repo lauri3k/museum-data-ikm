@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1328",
+  "priref": "6239",
+  "objectNumber": "SK-A-1328",
+  "language": "en",
+  "title": "The Yellow Riders",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5c1034d9-7c84-4fc7-acdb-81828508a0b7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 6,
+    "width": 1672,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/eyfjWtgsGz7l48QFu3gZ6WN2IV1hfh8EFpu6Fs-BztYLd9efOoyGpLvP9ier3VZmn7Med3PO-ajadOQ7nT8tb1FJxWJm=s0"
+  },
+  "colors": [
+    {
+      "percentage": 6,
+      "hex": "#CDC096"
+    },
+    {
+      "percentage": 19,
+      "hex": " #998865"
+    },
+    {
+      "percentage": 8,
+      "hex": " #AE9F7D"
+    },
+    {
+      "percentage": 12,
+      "hex": " #5B4C36"
+    },
+    {
+      "percentage": 22,
+      "hex": " #2D2721"
+    },
+    {
+      "percentage": 30,
+      "hex": " #827148"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CDC096",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #998865",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AE9F7D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5B4C36",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2D2721",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #827148",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 30,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 22,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 64,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 22,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Horse Artillery"
+  ],
+  "description": "Rijdende artillerie. Een groep ruiters komt een duin afgestormd. Dit werk is ook bekend onder de titel 'De Gele Rijders'.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "George Hendrik Breitner",
+      "unFixedName": "Breitner, George Hendrik",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1857-09-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1923-06-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "George Hendrik Breitner (12-sep-1857 - 05-jun-1923)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Hendrik Breitner",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1886-10-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1885 - 1886",
+    "sortingDate": 1885,
+    "period": 19,
+    "yearEarly": 1885,
+    "yearLate": 1886
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45B",
+      "46C131"
+    ],
+    "iconClassDescription": [
+      "de soldaat; het leven van een soldaat",
+      "riding a horse, ass, or mule; rider, horseman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1328"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Anoniem [A.C. Loffelt?], Het Vaderland : staat- en letterkundig nieuwsblad (1886) 10-11 okt."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Hendrik Breitner",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "77.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "13.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "31.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Yellow Riders, George Hendrik Breitner, 1885 - 1886",
+  "subTitle": "h 115cm \u00d7 w 77.5cm \u00d7 d 13.5cm \u00d7 w 31.5kg",
+  "scLabelLine": "George Hendrik Breitner (1857\u20131923), oil on canvas, 1885\u20131886",
+  "label": {
+    "title": "The Yellow Riders",
+    "makerLine": "George Hendrik Breitner (1857\u20131923), oil on canvas, 1885\u20131886",
+    "description": "The elite \u2018Yellow Riders\u2019 (a mounted artillery corps) gallops down the dunes at breakneck speed. Breitner took full advantage of their black-and-red busbies and the gold braid on their uniforms. The repetition of these colour accents reinforces the dynamism of the movement. The sand kicked up by the horses at front clouds the view of the horsemen behind. All that remains are the accents of black, yellow and red.",
+    "notes": null,
+    "date": "2013-02-01"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

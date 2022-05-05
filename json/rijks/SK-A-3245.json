@@ -1,0 +1,224 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3245",
+  "priref": "4707",
+  "objectNumber": "SK-A-3245",
+  "language": "en",
+  "title": "River View by Moonlight",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3433b2e0-ace5-4976-9b75-b34d1222ffd0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2868,
+    "height": 1544,
+    "url": "https://lh3.googleusercontent.com/qeRQCnctI4eDDt4l73--Dikz47lJnfKkC1kpo8yq0MAtorEBEgJKVk_GbKe8RAqHx0f0lgre-9vvfUSlAoT-ds2B-Rv34uREoER1YT52GA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#6C5C41"
+    },
+    {
+      "percentage": 14,
+      "hex": " #4F402C"
+    },
+    {
+      "percentage": 36,
+      "hex": " #231B11"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2C29B"
+    },
+    {
+      "percentage": 14,
+      "hex": " #7E7158"
+    },
+    {
+      "percentage": 5,
+      "hex": " #948C76"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#6C5C41",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #4F402C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #231B11",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D2C29B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7E7158",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #948C76",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 36,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 36,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 28,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Landscape by Moonlight"
+  ],
+  "description": "Riviergezicht bij maanlicht. Gezicht op een dorp gelegen langs een rivier bij het licht van de maan. Op de voorgrond twee door paarden getrokken wagens op een weg. Rechts een visser in een bootje op het water, in de verte twee molens.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Aert van der Neer",
+      "unFixedName": "Neer, Aert van der",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1604",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1677-11-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Aert van der Neer (c. 1604 - 09-nov-1677)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aert van der Neer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1936-05-01T00:00:00",
+    "creditLine": "Gift of H.W.A. Deterding, London"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1650 - c. 1655",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1655
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "24B6",
+      "25H213",
+      "46C142"
+    ],
+    "iconClassDescription": [
+      "moonlight",
+      "river",
+      "two-wheeled, animal-drawn vehicle"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3245"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "E. van de Wetering, Contouren van een dankbaar clich\u00e9, in: Kunstschrift 6 (2008), p. 31, afb. 33"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Aert van der Neer",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "55.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "102.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "River View by Moonlight, Aert van der Neer, c. 1650 - c. 1655",
+  "subTitle": "h 55.7cm \u00d7 w 102.6cm",
+  "scLabelLine": "Aert van der Neer (c. 1603\u20131677), oil on panel, c. 1640\u20131650",
+  "label": {
+    "title": "River View by Moonlight",
+    "makerLine": "Aert van der Neer (c. 1603\u20131677), oil on panel, c. 1640\u20131650",
+    "description": "Van der Neer was a painter with two specialities: winter scenes and nocturnal moonlit landscapes. With a limited range of colours, Van der Neer here created the perfect illusion of a moonlit night. The chilly moonlight is reflected in the water, glances off the windowpanes of the houses at left, and lights up the white feathers of the ducks in the foreground.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.6"
+}

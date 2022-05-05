@@ -1,0 +1,259 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3949",
+  "priref": "4621",
+  "objectNumber": "SK-A-3949",
+  "language": "en",
+  "title": "River Landscape with Boar Hunt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "02305b43-1172-42f3-a13b-ead8300fed2f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1527,
+    "url": "https://lh3.googleusercontent.com/jxgYXjK5ebtm9tridCffGWsbNRpFzOxEyrXEbZkN2gbvDE6MzFEuGslUbtKwSV0PlPvmWKTTy1yz1RSSoPbuZvBa5-Jc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 34,
+      "hex": "#271F12"
+    },
+    {
+      "percentage": 16,
+      "hex": " #6F541A"
+    },
+    {
+      "percentage": 12,
+      "hex": " #9E976E"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C5C0A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #4B4932"
+    },
+    {
+      "percentage": 6,
+      "hex": " #656B58"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8C793B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#271F12",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6F541A",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #9E976E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C5C0A9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4B4932",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #656B58",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8C793B",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 34,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 12,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 18,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "River Landscape with Boar Hunt"
+  ],
+  "description": "Weids rivierlandschap met everzwijnenjacht. Landschap met een stad gelegen aan een rivier of meer in een vallei. Op het water bevinden zich enkele schepen. Op de voorgrond doden jagers te paard en honden een everzwijn. Rechts een ruiter op een houten brug, op de heuveltoppen staan kastelen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Joos de Momper (II)",
+      "unFixedName": "Momper, Joos de (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1635-02-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Joos de Momper (II) (1564 - 05-feb-1635)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joos de Momper (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1958-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting Jubileumfonds Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1590 - c. 1635",
+    "sortingDate": 1590,
+    "period": 16,
+    "yearEarly": 1590,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H213",
+      "43C111243",
+      "43C1147",
+      "41A12"
+    ],
+    "iconClassDescription": [
+      "river",
+      "boar-hunting",
+      "hunting dogs",
+      "castle"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3949"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joos de Momper (II)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "121"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "196.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "River Landscape with Boar Hunt, Joos de Momper (II), c. 1590 - c. 1635",
+  "subTitle": "h 121cm \u00d7 w 196.5cm \u00d7 d 9cm \u00d7 w kg",
+  "scLabelLine": "Joos de Momper (II), c. 1590 - c. 1635, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

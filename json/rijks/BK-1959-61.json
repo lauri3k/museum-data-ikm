@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1959-61",
+  "priref": "24515",
+  "objectNumber": "BK-1959-61",
+  "language": "en",
+  "title": "Mercury",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "04e2e1b2-d613-44d0-af1b-d9d3da5a900c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1480,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/wSK2MSfT2aDFKPLCHLowZMEyspU5W9i1c8nCLS0MxfLf0agZ8X3vwPJQ6thyFuI63XTSeIJ8wBTlKoZUDBEjdtF_rHE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 72,
+      "hex": "#D4C7B3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #51473C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #231F1D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #ECE1D3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #87785D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #9D9B9B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0A675"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D4C7B3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #51473C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #231F1D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #ECE1D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #87785D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9D9B9B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C0A675",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 76,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 76,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 15,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Mercury"
+  ],
+  "description": "Mercurius staat op een vierkant standvlak, rust op het rechterbeen en heeft het linker naar voren geplaatst. Het bovenlijf helt iets schuin naar achteren, de kop wat naar voren en driekwart naar rechts, de mond is half geopend. In zijn rechterhand houdt hij een deel van de caduceus (?), in de linker, die in de zij staat, een fluit (?). Op het krullende haar, dat tot in de nek afhangt, staat schuin de petasus, die aan de voorzijde twee voluutvormige groeven heeft, elk overgaand in een vleugel. Op het standvlak voor de voeten het monogram HDK en 1611.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick de Keyser (I)",
+      "unFixedName": "Keyser, Hendrick de (I)",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1565-05-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1621-05-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "sculptor",
+        "print maker"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hendrick de Keyser (I) (15-mei-1565 - 15-mei-1621), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick de Keyser (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [
+    "casting"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1611",
+    "sortingDate": 1611,
+    "period": 17,
+    "yearEarly": 1611,
+    "yearLate": 1611
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92B5",
+      "92B58(PETASUS)"
+    ],
+    "iconClassDescription": [
+      "(story of) Mercury (Hermes)",
+      "attributes of Mercury: petasus"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1959-61"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jaarverslag van het Rijksmuseum 1959, p.13-14",
+    "E. Szmodis-Eszl\u00e1ry, 'Un petit bronze inconnu de Hendrick de Keyser', Bulletin du Mus\u00e9e Hongrois des Beaux-Arts 34/35, 1970, p.102"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick de Keyser (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "32.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze",
+  "longTitle": "Mercury, Hendrick de Keyser (I), 1611",
+  "subTitle": "h 32.3cm",
+  "scLabelLine": "Hendrik de Keyser I (1565\u20131621), bronze, 1611",
+  "label": {
+    "title": "Mercury",
+    "makerLine": "Hendrik de Keyser I (1565\u20131621), bronze, 1611",
+    "description": "This statuette can be identified by his winged hat as Mercury, the messenger of the gods in Classical mythology. In his right hand, he originally held a caduceus, a wand with two serpents entwined around it. De Keyser gave the figure a beautiful S-curve based on the classic contrapposto pose. The weight is placed on the right leg, balanced by the left arm, with the other arm and leg remaining free.",
+    "notes": null,
+    "date": "2013-03-18"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

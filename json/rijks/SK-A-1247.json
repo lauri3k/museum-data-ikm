@@ -1,0 +1,214 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1247",
+  "priref": "8607",
+  "objectNumber": "SK-A-1247",
+  "language": "en",
+  "title": "Portrait of a Woman",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "898f8841-86c4-48dc-af85-8dd05f5b1637",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2168,
+    "height": 2688,
+    "url": "https://lh3.googleusercontent.com/k8whv6UpR3jyb7bRrQ5kWXZ_kDtJRsibDPccIaw7IJIcgweBt9nDG7njJDsARrP95Q4hmV_hhqN1QI9s2Xe-WSWApawzKM8LXCrcxD4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#393428"
+    },
+    {
+      "percentage": 21,
+      "hex": " #1A1810"
+    },
+    {
+      "percentage": 14,
+      "hex": " #4D4636"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A38F73"
+    },
+    {
+      "percentage": 4,
+      "hex": " #826F55"
+    },
+    {
+      "percentage": 4,
+      "hex": " #635C4D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A7A498"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#393428",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #1A1810",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4D4636",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #A38F73",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #826F55",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #635C4D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A7A498",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 68,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of a Woman",
+    "Portrait of a Woman, possibly Sara Wolphaerts van Diemen (1594-1667), second Wife of Nicolaes Hasselaer"
+  ],
+  "description": "Portret van een vrouw, mogelijk Sara Wolphaerts van Diemen, tweede echtgenote van Nicolaes Hasselaer. Borstbeeld naar links, met een grote molensteenkraag. Pendant van SK-A-1246.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Frans Hals",
+      "unFixedName": "Hals, Frans",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1583",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1666-08-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Frans Hals (c. 1583 - 26-aug-1666)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Frans Hals",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "Gift of Jonkheer J.S.R. van de Poll, Arnhem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1635",
+    "sortingDate": 1635,
+    "period": 17,
+    "yearEarly": 1635,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Wolphaerts van Diemen, Sara"
+    ],
+    "objectNumbers": [
+      "SK-A-1247"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Wolphaerts van Diemen, Sara"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Frans Hals",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "81.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "68"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of a Woman, Frans Hals, c. 1635",
+  "subTitle": "h 81.5cm \u00d7 w 68cm",
+  "scLabelLine": "Frans Hals (c. 1582\u20131666), oil on canvas, c. 1635",
+  "label": {
+    "title": "Portrait of a Woman",
+    "makerLine": "Frans Hals (c. 1582\u20131666), oil on canvas, c. 1635",
+    "description": "Compared with the dynamic Portrait of a Man, this one of his wife makes a somewhat more formal impression. The pose is traditional, with the upper torso turned slightly to the left. She looks straight at the viewer, her lips slightly parted as though she is about to speak. Her face is rendered in much thinner paint than that of her husband, beautifully suggesting the greater softness of a woman\u2019s skin.",
+    "notes": null,
+    "date": "2019-07-19"
+  },
+  "showImage": true,
+  "location": "HG-2.14"
+}

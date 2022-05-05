@@ -1,0 +1,308 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-16127",
+  "priref": "24510",
+  "objectNumber": "BK-16127",
+  "language": "en",
+  "title": "Grotesque little monster",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b597f31c-2077-4ed8-9d7c-ae2f1d6f8776",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2311,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/aSgZwn7Dg2fgcW-yY9nUWWBwA86LWuy2bJiO5RZGEneu3kPsbMOYmqBMuM95tKFs_uQ_bqLLVoen7igX8rwlbPx3fMhi=s0"
+  },
+  "colors": [
+    {
+      "percentage": 78,
+      "hex": "#CBCAC8"
+    },
+    {
+      "percentage": 6,
+      "hex": " #3E3936"
+    },
+    {
+      "percentage": 6,
+      "hex": " #877B70"
+    },
+    {
+      "percentage": 2,
+      "hex": " #5F5952"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A7A5A4"
+    },
+    {
+      "percentage": 1,
+      "hex": " #212020"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EEEDEC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CBCAC8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #3E3936",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #877B70",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5F5952",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A7A5A4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #212020",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #EEEDEC",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 78,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Grotesque Animal, Oil Lamp",
+    "Grotesque animal",
+    "Grotesque bird"
+  ],
+  "description": "Het dier staat op hoge poten met opengesperde muil. Op de plaats van de vleugels de spiraalwand van een slakkenhuis; geprononceerde genitali\u00ebn.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [
+    {
+      "name": "Arent van Bolten",
+      "unFixedName": "Bolten, Arent van",
+      "placeOfBirth": "Zwolle",
+      "dateOfBirth": "1573",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": "Leeuwarden",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "after design by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Arent van Bolten (c. 1573 - before 1633)"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "brazier"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Arent van Bolten",
+      "unFixedName": "Bolten, Arent van",
+      "placeOfBirth": "Zwolle",
+      "dateOfBirth": "1573",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": "Leeuwarden",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "caster"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "possibly copy after",
+      "labelDesc": "possibly copy after Arent van Bolten (c. 1573 - before 1633), Paris"
+    },
+    {
+      "name": "Arent van Bolten",
+      "unFixedName": "Bolten, Arent van",
+      "placeOfBirth": "Zwolle",
+      "dateOfBirth": "1573",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": "Leeuwarden",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "caster"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "possibly copy after",
+      "labelDesc": "possibly copy after Arent van Bolten (c. 1573 - before 1633), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Arent van Bolten",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1949-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [
+    "lacquering"
+  ],
+  "productionPlaces": [
+    "? Paris",
+    "? Rome"
+  ],
+  "dating": {
+    "presentingDate": "c. 1780 - c. 1900",
+    "sortingDate": 1780,
+    "period": 18,
+    "yearEarly": 1780,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25FF3"
+    ],
+    "iconClassDescription": [
+      "fabulous animals ~ birds"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-16127"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "J. Leeuwenberg, 'The grotesques ascribed to Arend van Bolten', Apollo LXXXIII (1966), p. 272-277 (noemt overeenkomstige bronzen en ermee samenhangende prenten)"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Arent van Bolten",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "17.0"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "20.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "10.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "15.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze",
+  "longTitle": "Grotesque little monster, Arent van Bolten (possibly copy after), Arent van Bolten (possibly copy after), c. 1780 - c. 1900",
+  "subTitle": "h 17.0cm",
+  "scLabelLine": "attributed to Arent van Bolten (c. 1573\u2013before 1633), Zwolle, c. 1610\u20131630, bronze, black lacquer",
+  "label": {
+    "title": "Grotesque little monster",
+    "makerLine": "attributed to Arent van Bolten (c. 1573\u2013before 1633), Zwolle, c. 1610\u20131630, bronze, black lacquer",
+    "description": "The body of a snail, the legs of an ostrich, a head that is birdlike yet human: the silversmith Arent van Bolten was fascinated by such bizarre monsters, as is evidenced by his numerous design drawings and prints. This statuette may have once served as an incense burner or an oil lamp.",
+    "notes": null,
+    "date": "2016-12-21"
+  },
+  "showImage": true,
+  "location": null
+}

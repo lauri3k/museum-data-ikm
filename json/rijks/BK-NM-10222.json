@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10222",
+  "priref": "340955",
+  "objectNumber": "BK-NM-10222",
+  "language": "en",
+  "title": "Ruit met de heilige Catharina",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1a31628b-26d6-4fc4-ba7d-7bf16dc130c7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2185,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/3g7fam3sz-gcA1QAlAlUPecqp4qU-FGgi1Up8jQVSVh4VL2SIYjibBT3GUkknEEPQrysNzGJm4kNQD4bufqXtw-W7g=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ruit met de heilige Catharina"
+  ],
+  "description": "Ruit met gebrandschilderde voorstelling van de heilige Catharina. Catharina is frontaal weergegeven, lezend in een boek dat op haar rechterarm rust. Met de linkerhand omvat zij een zwaard. Om het hoofd een aureool. Op de achtergrond een rand van vierlobbige gotische ornamenten.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1895-01-01T00:00:00",
+    "creditLine": "Gift of the Nederlands Hervormde Gemeente, Zutphen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "lead (metal)",
+    "silver stain"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1475",
+    "sortingDate": 1475,
+    "period": 15,
+    "yearEarly": 1475,
+    "yearLate": 1475
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(CATHERINE)"
+    ],
+    "iconClassDescription": [
+      "the virgin martyr Catherine of Alexandria; possible attributes: book, crown, emperor Maxentius, palm-branch, ring, sword, wheel"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Walburgiskerk"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-10222"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "92.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "58.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glass",
+  "longTitle": "Ruit met de heilige Catharina, anonymous, c. 1475",
+  "subTitle": "h 92.0cm \u00d7 w 58.0cm",
+  "scLabelLine": "anonymous, c. 1475, glass",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

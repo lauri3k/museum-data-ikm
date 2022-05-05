@@ -1,0 +1,218 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1584",
+  "priref": "8779",
+  "objectNumber": "SK-A-1584",
+  "language": "en",
+  "title": "Interior of the Oude Kerk in Delft",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ddf9da58-b069-4537-b003-bdc912601370",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2087,
+    "height": 2496,
+    "url": "https://lh3.googleusercontent.com/arL9rpG0NtmkBMroiog211QOxF6HSZfRjQOlxafW81uuIx-1ecs6iDnz8VWyyJWNG5MrwtZVImFrwOYb1gMgMZear6B-VFQdOmfpJC4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#3B3724"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8F826F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #151107"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A69E"
+    },
+    {
+      "percentage": 11,
+      "hex": " #5D5441"
+    },
+    {
+      "percentage": 4,
+      "hex": " #76694D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C8C4BA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3B3724",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8F826F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #151107",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A9A69E",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #5D5441",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #76694D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C8C4BA",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Interior of the Oude Kerk in Delft, with a Trompe-l\u2019Oeil Curtain"
+  ],
+  "description": "Interieur van de Oude Kerk te Delft. Kerkinterieur met verschillende figuren, rechts praat een soldaat met een vrouw. In het midden de preekstoel achter een grote zuil. Voor de voorstelling een opengeschoven gordijn aan een roede.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerard Houckgeest",
+      "unFixedName": "Houckgeest, Gerard",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1600",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1661-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Bergen op Zoom",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gerard Houckgeest (c. 1600 - aug-1661)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard Houckgeest",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1892-06-22T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1654",
+    "sortingDate": 1654,
+    "period": 17,
+    "yearEarly": 1654,
+    "yearLate": 1654
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11Q713"
+    ],
+    "iconClassDescription": [
+      "interior of church"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Oude Kerk"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1584"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard Houckgeest",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "48.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "40.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Interior of the Oude Kerk in Delft, Gerard Houckgeest, 1654",
+  "subTitle": "h 48.7cm \u00d7 w 40.2cm",
+  "scLabelLine": "Gerrit Houckgeest (1600?\u20131661), oil on panel, 1654",
+  "label": {
+    "title": "Interior of the Oude Kerk in Delft",
+    "makerLine": "Gerrit Houckgeest (1600?\u20131661), oil on panel, 1654",
+    "description": "Gerrit Houckgeest specialized in church interiors and the use of perspective. With great attention to detail, he has here captured how the sunlight, pouring through the stained-glass windows, casts coloured dots on the column in the middle. The painted green curtain is a witty illusionistic device, imitating the 17th-century custom of protecting paintings from light and dust with a curtain.",
+    "notes": null,
+    "date": "2019-03-26"
+  },
+  "showImage": true,
+  "location": "HG-2.27"
+}

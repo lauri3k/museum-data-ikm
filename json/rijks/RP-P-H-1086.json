@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-1086",
+  "priref": "46782",
+  "objectNumber": "RP-P-H-1086",
+  "language": "en",
+  "title": "Vanitasstilleven in een nis",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1e2ccddf-899f-4b56-9ad6-f48575ff98c1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1845,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/SDOXMyH6Bn2CXZuNyZwv_MuoeXxSOoWUGyW3VdClgI6henCF1FElTkatwOjeCiNXhL2bErHe9zJo9q0NTpUZy5KN03c=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#414037"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F2EBD2"
+    },
+    {
+      "percentage": 20,
+      "hex": " #5D5B4D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #817C6A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D6CFB7"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A19B88"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BFB9A5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#414037",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F2EBD2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5D5B4D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #817C6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D6CFB7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A19B88",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFB9A5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Vanitasstilleven in een nis"
+  ],
+  "description": "Stilleven in een nis met een schedel op een boek en een walmende kaars in een kandelaar.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Wallerant Vaillant",
+      "unFixedName": "Vaillant, Wallerant",
+      "placeOfBirth": "Lille",
+      "dateOfBirth": "1623",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1677-08-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Wallerant Vaillant (1623 - 28-aug-1677)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wallerant Vaillant",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": null,
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1658 - 1677",
+    "sortingDate": 1658,
+    "period": 17,
+    "yearEarly": 1658,
+    "yearLate": 1677
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11R6",
+      "11R71",
+      "41B31",
+      "49M32"
+    ],
+    "iconClassDescription": [
+      "'Vanitas' still life",
+      "skull as symbol of 'Vanitas'",
+      "candle",
+      "book"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-1086"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 158",
+    "158"
+  ],
+  "principalOrFirstMaker": "Wallerant Vaillant",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Vanitasstilleven in een nis, Wallerant Vaillant, 1658 - 1677",
+  "subTitle": "h 176mm \u00d7 w 130mm",
+  "scLabelLine": "Wallerant Vaillant, 1658 - 1677, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

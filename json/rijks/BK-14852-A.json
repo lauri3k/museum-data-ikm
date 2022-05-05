@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-14852-A",
+  "priref": "14222",
+  "objectNumber": "BK-14852-A",
+  "language": "en",
+  "title": "Pair of flower pyramids",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "68c48dff-1f95-4ccd-8194-2f6a84bc7971",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1040,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/y2ipmJc6Iz7keArmjJV3g8nsagW0wmCM5NNlXcxswGnuLcZSq3wfD_soAfCSDfkys80iWXH7smefvrSrgF733k3Ozw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 79,
+      "hex": "#93979B"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C3C4C2"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5A5C5E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #354062"
+    },
+    {
+      "percentage": 3,
+      "hex": " #727984"
+    },
+    {
+      "percentage": 0,
+      "hex": " #151C47"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E7E7E3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#93979B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C3C4C2",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #5A5C5E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #354062",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #727984",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #151C47",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #E7E7E3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 79,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 0,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Bloempiramide van faience",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "Lambertus van Eenhoorn",
+      "unFixedName": "Eenhoorn, Lambertus van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1651",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1721",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lambertus van Eenhoorn (1651 - 1721), Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "De Metaale Pot",
+      "unFixedName": "De Metaale Pot",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "De Metaale Pot, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "De Metaale Pot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1936-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1710 - c. 1720",
+    "sortingDate": 1710,
+    "period": 18,
+    "yearEarly": 1710,
+    "yearLate": 1720
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I153",
+      "48A9833"
+    ],
+    "iconClassDescription": [
+      "obelisk, needle",
+      "flowers ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-14852-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "De Metaale Pot",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "18.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "17.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "18.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "17.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": null,
+  "longTitle": "Pair of flower pyramids, De Metaale Pot, c. 1710 - c. 1720",
+  "subTitle": "h 104.0cm \u00d7 w 18.0cm \u00d7 d 17.5cm",
+  "scLabelLine": "attributed to De Metaale Pot (Lambertus van Eenhoorn), Delft, c. 1710\u20131720, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Pair of flower pyramids",
+    "makerLine": "attributed to De Metaale Pot (Lambertus van Eenhoorn), Delft, c. 1710\u20131720, tin-glazed earthenware (faience)",
+    "description": null,
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-653",
+  "priref": "6973",
+  "objectNumber": "SK-A-653",
+  "language": "en",
+  "title": "Portrait of Louis Napoleon, King of Holland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "03048d01-58ea-4877-bf6b-14c1018c2b20",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 21,
+    "width": 1641,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/2rlQ_5kLMfb17H6jn8dNdKjUoG-_IliFImy4fJ9fUtTddIpNjZeCX-VBI5jgMLmXAMhzRv5TCoXsv4VryEXDfjLqHQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 62,
+      "hex": "#473022"
+    },
+    {
+      "percentage": 20,
+      "hex": " #100F0B"
+    },
+    {
+      "percentage": 8,
+      "hex": " #6C5F51"
+    },
+    {
+      "percentage": 6,
+      "hex": " #887D6A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A6A38C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #576A71"
+    },
+    {
+      "percentage": 0,
+      "hex": " #882B22"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#473022",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #100F0B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6C5F51",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #887D6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A6A38C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #576A71",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #882B22",
+      "normalizedHex": "#981313"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A52A2A"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Louis Napoleon (1778-1846), King of Holland from 1806 to 1810, in the uniform of the life guards on foot, decorated with the Grand Cross of the Royal Order of the Union of Holland and the Officers Cross of the Legion of Honor"
+  ],
+  "description": "Portret van Lodewijk Napoleon, koning van Holland van 1806 tot 1810. Staande, ten voeten uit, in een landschap. Gebarend met de linkerhand, zijn steek in de rechterhand. Hij is gekleed in het uniform van een kolonel van lijfwacht te voet met het grootkruis van de koninklijke orde van de Unie van Holland en het officierskruis van het Legioen van Eer.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Charles Howard Hodges",
+      "unFixedName": "Hodges, Charles Howard",
+      "placeOfBirth": "Portsmouth",
+      "dateOfBirth": "1764",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1837-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Charles Howard Hodges (1764 - 24-jul-1837)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Charles Howard Hodges",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1810-01-01T00:00:00",
+    "creditLine": "Gift of Lodewijk Napoleon Bonaparte"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1809",
+    "sortingDate": 1809,
+    "period": 19,
+    "yearEarly": 1809,
+    "yearLate": 1809
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B113"
+    ],
+    "iconClassDescription": [
+      "king"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18061810"
+    ],
+    "places": [
+      "Holland"
+    ],
+    "people": [
+      "Lodewijk Napoleon Bonaparte",
+      "Orde van de Unie",
+      "Legioen van Eer"
+    ],
+    "objectNumbers": [
+      "SK-A-653"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Lodewijk Napoleon Bonaparte",
+    "Orde van de Unie",
+    "Legioen van Eer"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "E.Bergvelt, 'Lodewijk Napoleon, de levende meesters en het Koninklijk Museum (1806-1810)', Kunsthistorisch Jaarboek  56/57 (2005-2006), p. 269 met afb. 8.",
+    "T. van der Meer, 'Lodewijk Napoleon : Een Hollandse koning', Rijksmuseum Kunstkrant 32 (2006) 3, p. 14-17 met afb.",
+    "E. Bergvelt, 'Kunst, Musea en Oranje', De negentiende Eeuw (maart 1999) 1, p. 56, 60 met afb.",
+    "D.O. Wijnands, et al., Een Sieraad voor de Stad. De Amsterdamse Hortus Botanicus 1638-1993, Amsterdam 1994, p. 144 met afb.",
+    "J.A. Groen Jr., 'Amsterdam als residentie van Koning Lodewijk Napoleon', Ons Amsterdam X (1958), p. 87 (afb.).",
+    "B. Houthakker, 'Charles Howard Hodges', Maandblad van Beeldende Kunsten III (1926), p. 334 [afb. van een onbekende gravure naar dit schilderij].",
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Charles Howard Hodges",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Louis Napoleon, King of Holland, Charles Howard Hodges, 1809",
+  "subTitle": "h 223cm \u00d7 w 147cm",
+  "scLabelLine": "Charles Howard Hodges (1764-1837), oil on canvas, 1809",
+  "label": {
+    "title": "Portrait of Louis Napoleon, King of Holland",
+    "makerLine": "Charles Howard Hodges (1764-1837), oil on canvas, 1809",
+    "description": "In 1795 French troops invaded the Netherlands. The country became an ally of France and enjoyed a large degree of independence, until 1806 when Napoleon seized power and made his brother Louis Napoleon King of Holland. Louis showed sympathy for his new kingdom and supported Dutch interests. This had not been Napoleon\u2019s intention and in 1810 he forced his brother to abdicate.",
+    "notes": null,
+    "date": "2015-06-01"
+  },
+  "showImage": true,
+  "location": "HG-1.12"
+}

@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-7437",
+  "priref": "38478",
+  "objectNumber": "RP-P-BI-7437",
+  "language": "en",
+  "title": "Portret van Titiaan en zijn maitresse",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f3bfeb96-ee3b-41b9-82dd-2045d77b2a2e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2311,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/OooIrhvQD2O4hjoPJBFxQjWK5RCZ9rhF-F3NZiPKaL2r6aoXEWbx6wdNDjpsOJmefDPMaM-Wx4yeC6Bb4HTAy0_YQjf6=s0"
+  },
+  "colors": [
+    {
+      "percentage": 20,
+      "hex": "#60615D"
+    },
+    {
+      "percentage": 18,
+      "hex": " #393C3C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #EFF2F4"
+    },
+    {
+      "percentage": 16,
+      "hex": " #C4C6C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #141E2A"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A5A6A1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #898985"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#60615D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #393C3C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #EFF2F4",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #C4C6C0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #141E2A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A5A6A1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #898985",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 39,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 16,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 27,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 23,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 18,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 17,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Portret van Titiaan en zijn maitresse"
+  ],
+  "description": "Kopie naar zelfportret van Titiaan met een jonge vrouw. Rechtsonder een doodshoofd. Het schilderij van Titiaan is verloren gegaan, door de ets van Van Dyck weten we hoe het portret er uitzag.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Anthony van Dyck",
+      "unFixedName": "Dyck, Anthony van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1599-03-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-12-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anthony van Dyck (22-mrt-1599 - 09-dec-1641), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anthony van Dyck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "brush"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1627 - 1635",
+    "sortingDate": 1627,
+    "period": 17,
+    "yearEarly": 1627,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "42D7",
+      "11R71"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "mistress",
+      "skull as symbol of 'Vanitas'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Titiaan"
+    ],
+    "objectNumbers": [
+      "RP-P-BI-7437"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Titiaan"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 628",
+    "628",
+    "Mauquoy-Hendricx (van Dyck)"
+  ],
+  "principalOrFirstMaker": "Anthony van Dyck",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "306"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "235"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Titiaan en zijn maitresse, Anthony van Dyck, 1627 - 1635",
+  "subTitle": "h 306mm \u00d7 w 235mm",
+  "scLabelLine": "Anthony van Dyck, 1627 - 1635, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

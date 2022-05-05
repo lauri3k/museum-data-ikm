@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1462",
+  "priref": "227422",
+  "objectNumber": "AK-MAK-1462",
+  "language": "en",
+  "title": "Spiegel versierd met vier apen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "81bf4713-17ed-4683-8029-d7027157a5e4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/712DN3dJxmF2kgEdYl5XCU_9ApsJDZbG2nKgQMbu4Hvl7OJB7qRu43otBCVuwcAPp4dhD13ufHBbqyUHtXp_JKSFUJg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 25,
+      "hex": "#EAEAEA"
+    },
+    {
+      "percentage": 23,
+      "hex": " #7A7265"
+    },
+    {
+      "percentage": 22,
+      "hex": " #4E4C46"
+    },
+    {
+      "percentage": 20,
+      "hex": " #D5D1BB"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F2F2B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #9E9585"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B1AFA7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EAEAEA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #7A7265",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4E4C46",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D5D1BB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #2F2F2B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #9E9585",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B1AFA7",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 46,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Spiegel versierd met vier apen"
+  ],
+  "description": "Bronzen spiegel versierd met vier apen die elkaar bij de staart grijpen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1993-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of Mr and Mrs Van Beek, 1993)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "-400 - -200",
+    "sortingDate": -400,
+    "period": -1,
+    "yearEarly": -400,
+    "yearLate": -200
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F22"
+    ],
+    "iconClassDescription": [
+      "monkeys, apes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1462"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Filippo Salviati, 'Stylistic features of some pre-Han Chinese mirrors in the Rijksmuseum Collection, Amsterdam', Aziatische Kunst 27/1 (1997), pp. 21-28.",
+    "Klaas Ruitenbeek, 'Aanwinst : Bronzen spiegel uit de Chu-cultuur', Aziatische Kunst 23/3 (1993), pp. 18-21."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "16.6"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "0.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze (metal)",
+  "longTitle": "Spiegel versierd met vier apen, anonymous, -400 - -200",
+  "subTitle": "d 16.6cm \u00d7 h 0.6cm",
+  "scLabelLine": "anonymous, -400 - -200, bronze (metal)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

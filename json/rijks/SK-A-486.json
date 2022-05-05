@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-486",
+  "priref": "6598",
+  "objectNumber": "SK-A-486",
+  "language": "en",
+  "title": "Assault on the Town of Coevorden, 30 December 1672",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "250c6363-cae8-4930-85ed-200ab5971e7f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2037,
+    "url": "https://lh3.googleusercontent.com/qtcC678ItSmbZlIbhO5iFBvxCAasDN7D5vqQSPlgjh_Q0tROIo7R04obLKkv8aiDIvbsy1woVu2sBAU9cVIcIs0DcDNO=s0"
+  },
+  "colors": [
+    {
+      "percentage": 19,
+      "hex": "#948E5E"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B3A56E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C6B67E"
+    },
+    {
+      "percentage": 33,
+      "hex": " #766C45"
+    },
+    {
+      "percentage": 25,
+      "hex": " #514125"
+    },
+    {
+      "percentage": 11,
+      "hex": " #262013"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#948E5E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B3A56E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C6B67E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #766C45",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #514125",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #262013",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 25,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Assault on the Town of Coevorden, 30 December 1672"
+  ],
+  "description": "De bestorming en verovering van Coevorden op 30 december 1672 door de troepen onder bevel van generaal Rabenhaupt. Infanterie en cavalerie trekken op in de richting van de vestingswallen om de versterkte stad.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Wouwerman",
+      "unFixedName": "Wouwerman, Pieter",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1623-09-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1682-05-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Wouwerman (13-sep-1623 - 09-mei-1682), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Wouwerman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1804-03-20T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1672 - 1682",
+    "sortingDate": 1672,
+    "period": 17,
+    "yearEarly": 1672,
+    "yearLate": 1682
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45K21"
+    ],
+    "iconClassDescription": [
+      "siege"
+    ],
+    "motifs": [],
+    "events": [
+      "Rampjaar",
+      "Verovering van Coevorden"
+    ],
+    "periods": [
+      "1672-12-301672-12-30"
+    ],
+    "places": [
+      "Coevorden"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-486"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Rijksmuseum Kunstkrant 8 (mei 1982), nr. 9",
+    "Spiegel Historiael 6 (1971), p. 380 (afb.)",
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Wouwerman",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "65.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "80.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Assault on the Town of Coevorden, 30 December 1672, Pieter Wouwerman, 1672 - 1682",
+  "subTitle": "h 65.5cm \u00d7 w 80.5cm \u00d7 d 7.7cm",
+  "scLabelLine": "Pieter Wouwerman, 1672 - 1682, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

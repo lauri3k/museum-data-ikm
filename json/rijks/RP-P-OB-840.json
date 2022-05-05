@@ -1,0 +1,256 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-840",
+  "priref": "37305",
+  "objectNumber": "RP-P-OB-840",
+  "language": "en",
+  "title": "Mountain Valley with Fenced Fields",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4a933f2d-bb9f-46d1-80b2-2dd3da91b09c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1500,
+    "height": 711,
+    "url": "https://lh3.ggpht.com/7TTAAsdoVM19n3AfKJwYVCJ1XYy9iIk0dkSVS7qtKqRbwHeYhpHVyvrO9O1BW-a6-SvXPIwYw6FRi_mtsBgKgdil_u8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 38,
+      "hex": "#838782"
+    },
+    {
+      "percentage": 25,
+      "hex": " #A5A190"
+    },
+    {
+      "percentage": 24,
+      "hex": " #5C6160"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F9F8F2"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BAB8A5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DADBCA"
+    },
+    {
+      "percentage": 0,
+      "hex": " #474742"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#838782",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A5A190",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5C6160",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F9F8F2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BAB8A5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DADBCA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #474742",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 25,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Mountain Valley with Fenced Fields",
+    "Mountain Valley with Fenced Fields"
+  ],
+  "description": "Heuvelig landschap met omheinde velden, rechts een houten balustrade.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hercules Segers",
+      "unFixedName": "Segers, Hercules",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1640",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hercules Segers (c. 1590 - c. 1640), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hercules Segers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": "Transferred from the Koninklijke Bibliotheek (The Hague), 1816"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint",
+    "brush"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1625 - c. 1630",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1630
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H114",
+      "25I3",
+      "41A541"
+    ],
+    "iconClassDescription": [
+      "low hill country",
+      "farm or solitary house in landscape",
+      "balustrade"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-840"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 6",
+    "6",
+    "Leeflang 6",
+    "6",
+    "Haverkamp-Begemann 6",
+    "6"
+  ],
+  "principalOrFirstMaker": "Hercules Segers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "225"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "489"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "line etching, additions in drypoint, supplemented with plate tone, printed in blue on thick paper; with pink and blue oil paint; framing line in brown ink; plate tone has been rubbed away entirely in the lightest sections",
+  "longTitle": "Mountain Valley with Fenced Fields, Hercules Segers, c. 1625 - c. 1630",
+  "subTitle": "h c.225mm \u00d7 w c.489mm",
+  "scLabelLine": "line etching and drypoint in blue, with plate tone, coloured with the brush, second state of two, c. 1625\u20131630",
+  "label": {
+    "title": "Mountain Valley with Fenced Fields",
+    "makerLine": "line etching and drypoint in blue, with plate tone, coloured with the brush, second state of two, c. 1625\u20131630",
+    "description": null,
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

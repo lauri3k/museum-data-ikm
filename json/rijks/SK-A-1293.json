@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1293",
+  "priref": "6362",
+  "objectNumber": "SK-A-1293",
+  "language": "en",
+  "title": "The Cattle Ferry",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c39ee832-04fc-4b41-86cf-4dc6d6e215c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2916,
+    "height": 1959,
+    "url": "https://lh3.googleusercontent.com/cfvYboy98I8fR1U-GH9-H36NWaK-ueuQ6m3JRz_FrRsp9XIUmtCQhMMWU2-VFJquyJLRaY_uzkalyZEacWrjrdLbqp6sQSvEPOax1pOt=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#1F1A0F"
+    },
+    {
+      "percentage": 23,
+      "hex": " #717255"
+    },
+    {
+      "percentage": 15,
+      "hex": " #8F8B65"
+    },
+    {
+      "percentage": 11,
+      "hex": " #473C27"
+    },
+    {
+      "percentage": 11,
+      "hex": " #ACAC90"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C6C4A0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5E5837"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1F1A0F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #717255",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #8F8B65",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #473C27",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #ACAC90",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C6C4A0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5E5837",
+      "normalizedHex": "#367614"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 26,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #EEE8AA"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 31,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 11,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "The Ferry"
+  ],
+  "description": "Het ponteveer. Een veerpont beladen met personen en dieren op een rivier die door een dorp loopt. Aan weerszijden van het water staan huizen en lopen figuren. In de verte een kerk en een molen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Esaias van de Velde",
+      "unFixedName": "Velde, Esaias van de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1587-05-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1630-11-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Esaias van de Velde (17-mei-1587 - 18-nov-1630)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Esaias van de Velde",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1885-10-30T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1622",
+    "sortingDate": 1622,
+    "period": 17,
+    "yearEarly": 1622,
+    "yearLate": 1622
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1112",
+      "25H213",
+      "47D31"
+    ],
+    "iconClassDescription": [
+      "ferry",
+      "river",
+      "windmill"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1293"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Esaias van de Velde",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "75.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "113"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Cattle Ferry, Esaias van de Velde, 1622",
+  "subTitle": "h 75.5cm \u00d7 w 113cm",
+  "scLabelLine": "Esaias van de Velde (1587\u20131630), oil on panel, 1622",
+  "label": {
+    "title": "The Cattle Ferry",
+    "makerLine": "Esaias van de Velde (1587\u20131630), oil on panel, 1622",
+    "description": "This painting is a milestone, for never before had a Dutch painter depicted his native flat, watery landscape\nin such a monumental format. Dusk is falling, and the light is beginning to fade. The glistening river winds its way into the distance, drawing the viewer along, too, past countless little figures.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.6"
+}

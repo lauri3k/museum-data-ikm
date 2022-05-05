@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1878-A-1543",
+  "priref": "38793",
+  "objectNumber": "RP-P-1878-A-1543",
+  "language": "en",
+  "title": "Gnarled Trees near the Water",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d3c2a577-c78f-4b73-a103-e3718b088736",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2148,
+    "height": 1804,
+    "url": "https://lh6.ggpht.com/pOHR7jAwaigESpZ2TSH9t2dkcE1VEypoSVJBq82eOF4YAPuQ1ZDcGjtin8ZPujnVIzxHJMwCHHBjhboKmtyRKTvenErB=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#B0AB99"
+    },
+    {
+      "percentage": 30,
+      "hex": " #E1DDCA"
+    },
+    {
+      "percentage": 15,
+      "hex": " #8D897A"
+    },
+    {
+      "percentage": 10,
+      "hex": " #757163"
+    },
+    {
+      "percentage": 8,
+      "hex": " #565248"
+    },
+    {
+      "percentage": 1,
+      "hex": " #38362F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FEFEE8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B0AB99",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E1DDCA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8D897A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #757163",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #565248",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #38362F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #FEFEE8",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 31,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 19,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 33,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 31,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [],
+  "description": "Knoestige bomen aan een water of moeras; links op de achtergrond een bruggetje en jagers met hun hond.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Roelant Savery",
+      "unFixedName": "Savery, Roelant",
+      "placeOfBirth": "Kortrijk",
+      "dateOfBirth": "1576",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1639-02-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Roelant Savery (1576 - 25-feb-1639), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Roelant Savery",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1878-01-07T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "? Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1605 - 1639",
+    "sortingDate": 1605,
+    "period": 17,
+    "yearEarly": 1605,
+    "yearLate": 1639
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H15",
+      "43C114"
+    ],
+    "iconClassDescription": [
+      "forest, wood",
+      "hunter"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1878-A-1543"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 2",
+    "2"
+  ],
+  "principalOrFirstMaker": "Roelant Savery",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "145"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gnarled Trees near the Water, Roelant Savery, 1605 - 1639",
+  "subTitle": "h 124mm \u00d7 w 145mm",
+  "scLabelLine": "Roelant Savery (c. 1578-1639), etching, c. 1608",
+  "label": {
+    "title": "Gnarled Trees near the Water",
+    "makerLine": "Roelant Savery (c. 1578-1639), etching, c. 1608",
+    "description": "This small print featuring trees with a bridge and hunters in the background is the only etching that can be firmly attributed to Savery. The artist used his own drawing as a model for it. The drawing is squared for transfer \u2013 a technique used to copy a composition to a larger scale \u2013 indicating that he originally had other plans for it. He ultimately decided to use it for an etching of roughly the same size.",
+    "notes": null,
+    "date": "2014-02-03"
+  },
+  "showImage": true,
+  "location": null
+}

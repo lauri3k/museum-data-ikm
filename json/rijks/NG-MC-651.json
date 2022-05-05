@@ -1,0 +1,391 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-MC-651",
+  "priref": "244466",
+  "objectNumber": "NG-MC-651",
+  "language": "en",
+  "title": "Model of the William Rex",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "791fd2e6-d053-4f01-93b0-76dbeb47a915",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 78,
+    "width": 2500,
+    "height": 2273,
+    "url": "https://lh5.ggpht.com/7Yy7efUK95TFNuvFAckhQYKLJu8sAl5eGb3ZvPCLXRWQRlB6jbVhzrm3VQkcDie_vTvY4iRbqrtd2lbQFXjAXg-oaPTn=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#D5D4C6"
+    },
+    {
+      "percentage": 28,
+      "hex": " #F2F5F2"
+    },
+    {
+      "percentage": 13,
+      "hex": " #3F3129"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9C8F76"
+    },
+    {
+      "percentage": 5,
+      "hex": " #1C1917"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B9B09B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #6B523E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D5D4C6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F2F5F2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3F3129",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #9C8F76",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #1C1917",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #B9B09B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6B523E",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 28,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 16,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 19,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Model of a 74-Gun Ship of the Line"
+  ],
+  "description": "Gepolychromeerd, getuigd spantmodel. Vier en zeventig stukken verdeeld over drie dekken; de bovencampanje is onbewapend. Laag galjoen met een leeuw met Engelse kroon als schegbeeld. Voorschot, regeling en kraanbalken versierd met snijwerk. Platte spiegel en hol wulf. Het hek heeft twee verdiepingen en is overdadig versierd met snijwerk van putti, allegorische figuren en lofwerk; het draagt het wapen van Zeeland, de datum en een kruis in stralenbundel met de monogrammen RWR. De zijgalerijen, versierd met snijwerk van putti en lofwerk, zijn van \u00e9\u00e9n verdieping met gepunte overkapping en een uitbouw voor een lantaarn. Recht roer met versierde vierkante roerkoning die buiten de romp blijft, kolderstok op het halfdek. Het model is voorzien van drie ankers, drie spillen en vier pompen. De zeeg loopt op naar achteren, twee dubbele barkhouten en twee reehouten; rondspant. Het schip heeft een zeventiende eeuws driemasttuig met zeilen; een blinde en bovenblinde op de boegspriet, ronde marsen en ezelshoofden, bezaansroede.",
+  "labelText": null,
+  "objectTypes": [
+    "ship model",
+    "fully rigged model",
+    "show model"
+  ],
+  "objectCollection": [
+    "Navy Model Room"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Maertens",
+      "unFixedName": "Maertens, Pieter",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "model maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Middelburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Maertens, Middelburg"
+    },
+    {
+      "name": "Jacob Louwerissen",
+      "unFixedName": "Louwerissen, Jacob",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "model maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Middelburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Jacob Louwerissen, Middelburg"
+    },
+    {
+      "name": "Jacob Dont",
+      "unFixedName": "Dont, Jacob",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "model maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Middelburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Jacob Dont, Middelburg"
+    },
+    {
+      "name": "Cornelis Evertsen (1628-1679)",
+      "unFixedName": "Evertsen, Cornelis (1628-1679)",
+      "placeOfBirth": "Vlissingen",
+      "dateOfBirth": "1628-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679-09-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Vlissingen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Middelburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Evertsen (1628-1679) (16-apr-1628 - 20-sep-1679), Middelburg"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Adriaen de Vriend",
+      "unFixedName": "Vriend, Adriaen de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "model maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Flushing"
+      ],
+      "qualification": null,
+      "labelDesc": "Adriaen de Vriend, Flushing"
+    },
+    {
+      "name": "Adriaen Davidsen",
+      "unFixedName": "Davidsen, Adriaen",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "model maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Flushing"
+      ],
+      "qualification": null,
+      "labelDesc": "Adriaen Davidsen, Flushing"
+    },
+    {
+      "name": "Cornelis Moerman",
+      "unFixedName": "Moerman, Cornelis",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Flushing"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Moerman, Flushing"
+    }
+  ],
+  "plaqueDescriptionDutch": "Model van een Nederlands oorlogsschip met 74 kanonnen. Het is gebouwd in Vlissingen en stond opgesteld in de vergaderzaal van de Zeeuwse marine in Middelburg. De \u2018spiegel\u2019 aan de achterzijde is voorzien van het wapen van Zeeland. Een echte William Rex heeft nooit bestaan. De naam heeft betrekking op Willem III van Oranje, de Nederlandse stadhouder die ook koning van Engeland was.",
+  "plaqueDescriptionEnglish": "Model of a 74-gun Dutch battleship. It was made in Vlissingen (Flushing) and displayed in the boardroom of the Zeeland navy in Middelburg. The decorative stern sports the arms of Zeeland. In fact no such ship actually existed. The name William Rex refers to William III of Orange, the Dutch stadholder who became king of England.",
+  "principalMaker": "Adriaen de Vriend",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1883-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "brass (alloy)",
+    "iron (metal)",
+    "glass",
+    "rope",
+    "textile materials"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Flushing",
+    "Flushing",
+    "Flushing",
+    "Middelburg",
+    "Middelburg",
+    "Middelburg",
+    "Middelburg"
+  ],
+  "dating": {
+    "presentingDate": "1698",
+    "sortingDate": 1698,
+    "period": 17,
+    "yearEarly": 1698,
+    "yearLate": 1698
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16981698"
+    ],
+    "places": [
+      "Middelburg"
+    ],
+    "people": [
+      "Admiraliteit van Zeeland",
+      "Koning William (schip)"
+    ],
+    "objectNumbers": [
+      "NG-MC-651"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Admiraliteit van Zeeland",
+    "Koning William (schip)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "L.G. Carr Laughton, Old Figure Heads and Sterns, London/New York 1925, p. 174, afb. b.",
+    "Correspondentie tussen Jhr. (B.W.F.) van Riemsdijk, toenmalig directeur van het Nederlandsch Museum en den admiraal (E.) Paris, toenmalig directeur van het Mus\u00e9e de la Marine te Parijs, MS 1889-1890, Nederlands Scheepvaartmuseum, Amsterdam H 269."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen de Vriend, Adriaen Davidsen, Cornelis Moerman",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "410"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "452"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood, brass, iron, glass, rope, textile and paint",
+  "longTitle": "Model of the William Rex, Adriaen de Vriend, Adriaen Davidsen, Cornelis Moerman, 1698",
+  "subTitle": "h 410cm \u00d7 l 452cm \u00d7 w 205cm",
+  "scLabelLine": "Adriaen de Vriend (?\u20131698), Cornelis Moesman, wood, brass, iron, glass, rope, textile, 1698",
+  "label": {
+    "title": "Model of the William Rex",
+    "makerLine": "Adriaen de Vriend (?\u20131698), Cornelis Moesman, wood, brass, iron, glass, rope, textile, 1698",
+    "description": "This model shows the appearance of a Dutch warship in the late 17th century. It was made at the dockyards of Vlissingen (Flushing), where real warships were also built. These would have been more than twelve times larger than this model. This ship has 74 guns. The model was displayed in the council chamber of the Admiralty of Zeeland in Middelburg.",
+    "notes": null,
+    "date": "2018-02-27"
+  },
+  "showImage": true,
+  "location": "HG-2.15"
+}

@@ -1,0 +1,223 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-408",
+  "priref": "6786",
+  "objectNumber": "SK-A-408",
+  "language": "en",
+  "title": "Portraits of the stadtholder\u2019s family",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2db99b88-1aea-4f50-8bb1-b872e0a93522",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2055,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/N9ay2BjNph8eobCB1MmqmoeWYn-1EBlMy03Xut3Mh5qmC0lFDEz0VPsdi43ntF_EzzaXjQdq5wOYICSDETEv7UGWAC00=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#51412E"
+    },
+    {
+      "percentage": 26,
+      "hex": " #94816C"
+    },
+    {
+      "percentage": 15,
+      "hex": " #60605B"
+    },
+    {
+      "percentage": 12,
+      "hex": " #20262A"
+    },
+    {
+      "percentage": 10,
+      "hex": " #35455B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B6A08D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D5BDAB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#51412E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #94816C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #60605B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #20262A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #35455B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B6A08D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D5BDAB",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 46,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 26,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Portret van Willem V (1748-1806), prins van Oranje-Nassau. Buste naar rechts. Maakt deel uit van een reeks van negen portretten van prinsen en prinsessen uit het huis van Oranje-Nassau (SK-A-408/416). Onderdeel van de collectie pastels.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Friedrich August Tischbein",
+      "unFixedName": "Tischbein, Johann Friedrich August",
+      "placeOfBirth": "Maastricht",
+      "dateOfBirth": "1750-03-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1812-06-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Heidelberg",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johann Friedrich August Tischbein (09-mrt-1750 - 21-jun-1812)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Friedrich August Tischbein",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1808-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1789",
+    "sortingDate": 1789,
+    "period": 18,
+    "yearEarly": 1789,
+    "yearLate": 1789
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)",
+      "Orde van de Kouseband"
+    ],
+    "objectNumbers": [
+      "SK-A-408"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)",
+    "Orde van de Kouseband"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Friedrich August Tischbein",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "62.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "52.4"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "10.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "parchment (animal material)",
+  "longTitle": "Portraits of the stadtholder\u2019s family, Johann Friedrich August Tischbein, 1789",
+  "subTitle": "h 62.7cm \u00d7 w c.52.4cm \u00d7 w 10.3kg",
+  "scLabelLine": "Johann Friedrich August Tischbein (1750-1812), pastel on vellum, c. 1787-1795",
+  "label": {
+    "title": "Portraits of the stadtholder\u2019s family",
+    "makerLine": "Johann Friedrich August Tischbein (1750-1812), pastel on vellum, c. 1787-1795",
+    "description": "Under pressure from fierce opposition to his rule, Stadtholder William V and his family fled The Hague in 1785. They returned two years later and the stadtholder\u2019s authority was restored. This provided the occasion to commission a series of portraits of the members of his family from the portraitist Tischbein. The artist produced a fashionable group of oval portraits in pastel. The giltwood frames were made by the Hague \nframemaker Hendrik Ebbens.",
+    "notes": "Multimediatour.",
+    "date": "2018-02-28"
+  },
+  "showImage": true,
+  "location": "HG-1.10"
+}

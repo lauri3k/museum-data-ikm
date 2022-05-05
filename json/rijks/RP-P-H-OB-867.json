@@ -1,0 +1,259 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-OB-867",
+  "priref": "37304",
+  "objectNumber": "RP-P-H-OB-867",
+  "language": "en",
+  "title": "Still Life with Books",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3805821d-9e6a-4664-9ff2-4215779269c3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1500,
+    "height": 776,
+    "url": "https://lh5.ggpht.com/wXFYxEyT_6WBEJcsP4q2POTL2tT-X-BYPyabZiL-gpB55vG_J9MY9QlmShSmRqqXnGRt9nm25wkWVeI2t603CubDvQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#57533D"
+    },
+    {
+      "percentage": 23,
+      "hex": " #958560"
+    },
+    {
+      "percentage": 14,
+      "hex": " #222625"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A59E8D"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F8F9F9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2C7B1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E5E1DC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#57533D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #958560",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #222625",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A59E8D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F8F9F9",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #D2C7B1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E5E1DC",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 14,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 34,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 14,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Still Life with Books"
+  ],
+  "description": "Compositie van drie boeken op een tafel. De boeken liggen op een tafel en zijn van opzij weergegeven. Het dikke boek onderop doet dienst als ondersteuning voor een foliant die opengeslagen ligt alsof er net nog in gelezen werd. Tussen de bladzijden van dit grote boek steekt ten slotte nog een klein boekje, als een soort boekenlegger. Zo componeerde Segers een informeel stilleven van de lectuur die een studieuze lezer voor een moment achtergelaten lijkt te hebben.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hercules Segers",
+      "unFixedName": "Segers, Hercules",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1640",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hercules Segers (c. 1590 - c. 1640), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hercules Segers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "cotton (textile)",
+    "paint (coating)"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "? Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1618 - c. 1622",
+    "sortingDate": 1618,
+    "period": 17,
+    "yearEarly": 1618,
+    "yearLate": 1622
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49M32",
+      "41E1"
+    ],
+    "iconClassDescription": [
+      "book",
+      "still life of related objects"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-OB-867"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 54",
+    "54",
+    "Leeflang 54",
+    "54",
+    "Haverkamp-Begemann 54",
+    "54"
+  ],
+  "principalOrFirstMaker": "Hercules Segers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "93"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "205"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "line etching, possibly a counterproof, printed in bluish-green on cotton prepared with a cream-coloured, lead-based ground, coloured with paint in transparent grey, semi-transparent brown and opaque black",
+  "longTitle": "Still Life with Books, Hercules Segers, c. 1618 - c. 1622",
+  "subTitle": "h c.93mm \u00d7 w c.205mm",
+  "scLabelLine": "counterproof (?) of a line etching in blue-green, on cotton with a cream tinted ground, only state, c. 1618\u20131622",
+  "label": {
+    "title": "Still Life with Books",
+    "makerLine": "counterproof (?) of a line etching in blue-green, on cotton with a cream tinted ground, only state, c. 1618\u20131622",
+    "description": "While Segers\u2019 stack of books looks unassuming enough, it is entirely original, and may even be the earliest still life in European graphic art. While still lifes frequently feature in 17th-century paintings, they are rarely found in black-and-white (in prints).",
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

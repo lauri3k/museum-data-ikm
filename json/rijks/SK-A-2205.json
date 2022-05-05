@@ -1,0 +1,247 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2205",
+  "priref": "6507",
+  "objectNumber": "SK-A-2205",
+  "language": "en",
+  "title": "Vanitas Still Life",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "43c87e6b-7941-499c-89a3-0a58ec8eeabe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2000,
+    "height": 1492,
+    "url": "https://lh3.googleusercontent.com/Vwhi9MnMoGfbY0B3vX6-m3hq4F9Oseh_LpiX4RVjH5mVn1mPXHCLBdOyCrhhA6DwyQsJGbVeoIwmsIL9fbFcIZ0bNTV0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#817B5C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C1C0B1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #9F9D8B"
+    },
+    {
+      "percentage": 28,
+      "hex": " #635837"
+    },
+    {
+      "percentage": 49,
+      "hex": " #342C20"
+    },
+    {
+      "percentage": 17,
+      "hex": " #0E0E0D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#817B5C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C1C0B1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9F9D8B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #635837",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #342C20",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #0E0E0D",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 31,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 28,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Vanitas Still Life"
+  ],
+  "description": "Vanitas stilleven. Op een tafel staan en liggen enkele boeken en paperassen. In het midden een schedel en een zandloper.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerrit van Vucht",
+      "unFixedName": "Vucht, Gerrit van",
+      "placeOfBirth": null,
+      "dateOfBirth": "1610",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1697-11-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Schiedam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gerrit van Vucht (c. 1610 - 19-nov-1697)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerrit van Vucht",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1905-11-01T00:00:00",
+    "creditLine": "M.E. van den Brink Bequest, Velp"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1658 - 1697",
+    "sortingDate": 1658,
+    "period": 17,
+    "yearEarly": 1658,
+    "yearLate": 1697
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11R71",
+      "11R6",
+      "23U22",
+      "49M32"
+    ],
+    "iconClassDescription": [
+      "skull as symbol of 'Vanitas'",
+      "'Vanitas' still life",
+      "hourglass",
+      "book"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2205"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jaarverslag Rijksmusem (1905), p. 18."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerrit van Vucht",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "9.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "12"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "13.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "16.6"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "1.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Vanitas Still Life, Gerrit van Vucht, 1658 - 1697",
+  "subTitle": "h 9.3cm \u00d7 w 12cm",
+  "scLabelLine": "Gerrit van Vucht, 1658 - 1697, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

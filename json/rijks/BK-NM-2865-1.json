@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-2865-1",
+  "priref": "24529",
+  "objectNumber": "BK-NM-2865-1",
+  "language": "en",
+  "title": "Bust of Piet Heyn",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b5d6f66a-cf7b-46f8-b8d1-135718ac5ae0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2180,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/S1BJP4RaLtvfZTh8ChRAdL2ZKkQaceCaEtLf9iD4hr3cS4KHHxl3zn42qNKb7j99HV6AoXGWbFpZtJOsuZx81mQygkI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "De kop, iets naar links gewend, vertoont een knevel en een puntbaardje. Vanaf de schouders loopt het beeld naar beneden smaller toe en gaat daar over in een gevleugeld mascaron in kwabornament, dat zich voortzet in het uit hout vervaardigde voetstuk. Hij draagt een brede plooikraag over een halsberg en een wambuis met puntige knoopjes en 'met france koorden geboort'. Onder de halsberg komt een getande rand van 'leer' te voorschijn. Het achtzijdige voetstuk heeft bovenaan een krans van bloemen en bladeren met op de achterzijde een afhangende strik en onderaan afhangend accanthusblad. Op de achterzijde van de kraag gedateerd: 1636.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick de Keyser (II)",
+      "unFixedName": "Keyser, Hendrick de (II)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1665-09-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Hendrick de Keyser (II) (1613 - 26-sep-1665), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick de Keyser (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1883-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1636",
+    "sortingDate": 1636,
+    "period": 17,
+    "yearEarly": 1636,
+    "yearLate": 1636
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001629"
+    ],
+    "places": [],
+    "people": [
+      "Heyn, Pieter Pietersz."
+    ],
+    "objectNumbers": [
+      "BK-NM-2865-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Heyn, Pieter Pietersz."
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Benno van Tilburg, 'Piet Heyn en de verovering van de Zilvervloot', Rijksmuseum Kunstkrant 19 (1993) nr. 3, p. 19-22.",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick de Keyser (II)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "80"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "38"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "34"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta (clay material)",
+  "longTitle": "Bust of Piet Heyn, Hendrick de Keyser (II) (attributed to), 1636",
+  "subTitle": "h 80cm \u00d7 w 38cm \u00d7 d 34cm",
+  "scLabelLine": "Attributed to Hendrik de Keyser (1613\u20131665), wood and terracotta, 1636",
+  "label": {
+    "title": "Bust of Piet Heyn",
+    "makerLine": "Attributed to Hendrik de Keyser (1613\u20131665), wood and terracotta, 1636",
+    "description": "Piet Heyn became a seaman at a young age. When he was fifteen years old, he was taken prisoner by the Spanish and made to serve two years as a galley slave. After his release, Heyn pursued a career in the merchant marine: he held high-ranking positions in the Dutch West India Company. In 1628 he captured a Spanish treasure fleet (known as the \u2018Silver Fleet\u2019) off the coast of Cuba. A year later he perished at sea.",
+    "notes": null,
+    "date": "2013-04-10"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2110",
+  "priref": "6050",
+  "objectNumber": "SK-A-2110",
+  "language": "en",
+  "title": "Woman Peeling an Apple",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bd5ae909-f6da-46f4-b0df-76866eb56986",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2052,
+    "height": 2651,
+    "url": "https://lh3.googleusercontent.com/Qh0vVVOH7ypDEy30Jl7ZJdKlB1KWIIiQpJKBFSixaW8h57f2EA7gACR4owA_ftJZGXKo_7Ejchdux8B761dTLDncSuRY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 50,
+      "hex": "#120D04"
+    },
+    {
+      "percentage": 35,
+      "hex": " #3F2B11"
+    },
+    {
+      "percentage": 10,
+      "hex": " #575032"
+    },
+    {
+      "percentage": 2,
+      "hex": " #60634C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #87774E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #988D67"
+    },
+    {
+      "percentage": 0,
+      "hex": " #ABAA8F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#120D04",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3F2B11",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #575032",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #60634C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #87774E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #988D67",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #ABAA8F",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 50,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 35,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 12,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 86,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Woman Peeling an Apple",
+    "Girl Peeling an Apple"
+  ],
+  "description": "De appelschilster. Interieur met een vrouw, een dienstmeid, die voor de deur zit en appels schilt. In het interieur zijn twee schilderijen zichtbaar en in de verte een vogelkooi.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Bisschop",
+      "unFixedName": "Bisschop, Cornelis",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1630",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1674",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Bisschop (1630 - 1674)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Bisschop",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1903-05-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1667",
+    "sortingDate": 1667,
+    "period": 17,
+    "yearEarly": 1667,
+    "yearLate": 1667
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C2612",
+      "41A2",
+      "42F51",
+      "41A3211"
+    ],
+    "iconClassDescription": [
+      "cleaning fruit, e.g. peeling",
+      "interior of the house",
+      "maid ~ house personnel",
+      "open door"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2110"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Bisschop",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "57"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Woman Peeling an Apple, Cornelis Bisschop, 1667",
+  "subTitle": "h 70cm \u00d7 w 57cm \u00d7 d 6.7cm",
+  "scLabelLine": "Cornelis Bisschop (1630-1674), oil on panel, 1667",
+  "label": {
+    "title": "Woman Peeling an Apple",
+    "makerLine": "Cornelis Bisschop (1630-1674), oil on panel, 1667",
+    "description": "A maidservant leans casually against a door jamb while peeling an apple, apparently taking a break from her work. Bisschop situated her in the entrance hall, on the threshold between inside and outside. Our eye is led into the interior through the maid\u2019s sunlit face and the light door jamb. The birds form a subtle detail: those outdoors move around freely, while the one indoors is kept in a cage.",
+    "notes": null,
+    "date": "2018-09-05"
+  },
+  "showImage": true,
+  "location": null
+}

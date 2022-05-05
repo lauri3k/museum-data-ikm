@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4956",
+  "priref": "360664",
+  "objectNumber": "SK-A-4956",
+  "language": "en",
+  "title": "Portrait of Pieter van Son (c. 1590-1654)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8342dc05-3fcd-4a6f-83e9-2f9fe4951d45",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1846,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/zfoBXp2qR9sYR0eLhzlSSMAVRuUYNwSs0-2xu9bzgTzUmnXUZU2WhyMtZOE2DvmRQJh5HSUlLtz0msH4ieRA5Rbup5og72jQ7GPV3K4heQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#802F13"
+    },
+    {
+      "percentage": 86,
+      "hex": " #13100C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #493525"
+    },
+    {
+      "percentage": 2,
+      "hex": " #6F5539"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8E7656"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B0A086"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#802F13",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #13100C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #493525",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6F5539",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8E7656",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B0A086",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 86,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B0000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 91,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #981313"
+    }
+  ],
+  "titles": [
+    "Portrait of Pieter van Son (c. 1590-1654)"
+  ],
+  "description": "Portret van Pieter van Son, sedert 1622 echtgenoot van Johanna Le Maire. Heupstuk, staande, met handschoenen in de linkerhand, de rechterhand in de zij. Rechtsboven het familiewapen. Pendant van SK-A-4957.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes Eliasz Pickenoy",
+      "unFixedName": "Pickenoy, Nicolaes Eliasz",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1588",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1656",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Nicolaes Eliasz Pickenoy (c. 1588 - c. 1656)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes Eliasz Pickenoy",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the BankGiro Lottery"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1622 - c. 1629",
+    "sortingDate": 1622,
+    "period": 17,
+    "yearEarly": 1622,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Son, Pieter van"
+    ],
+    "objectNumbers": [
+      "SK-A-4956"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Son, Pieter van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "B. du Mortier, 'Uniek ensemble herenigd', in: Jaarverslag Rijksmuseum Amsterdam, Amsterdam 2000, p. 74-75, afb.",
+    "Documentatiemap SK"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolaes Eliasz Pickenoy",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "105.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "79.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "8.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Pieter van Son (c. 1590-1654), Nicolaes Eliasz Pickenoy (attributed to), c. 1622 - c. 1629",
+  "subTitle": "h 105.5cm \u00d7 w 79.3cm",
+  "scLabelLine": "Nicolaes Eliasz Pickenoy, c. 1622 - c. 1629, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1889-A-2120",
+  "priref": "61193",
+  "objectNumber": "RP-T-1889-A-2120",
+  "language": "en",
+  "title": "Gezicht op Spaarnwoude",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d1a9e971-7715-441d-bbcc-bb423ac64829",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1528,
+    "url": "https://lh6.ggpht.com/9FRvY6ErHxBKa1IbIfBMiDKlWRL81W9ZQ06C5O-mYZOXui6VSTTA1aKcU0ncIVVL5MiPBQ8A23QOUioTSeuZ7WZzdUk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 63,
+      "hex": "#EFE6D0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D9C8AB"
+    },
+    {
+      "percentage": 8,
+      "hex": " #9E8C73"
+    },
+    {
+      "percentage": 5,
+      "hex": " #BAA88D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7F6F5A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEEF"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5D4F40"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EFE6D0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D9C8AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9E8C73",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BAA88D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7F6F5A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FEFEEF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5D4F40",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 17,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 14,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Spaarnwoude"
+  ],
+  "description": "Ontwerp voor een prent.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Esaias van de Velde",
+      "unFixedName": "Velde, Esaias van de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1587-05-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1630-11-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Esaias van de Velde (17-mei-1587 - 18-nov-1630)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Esaias van de Velde",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1889-07-24T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "chalk"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1610 - 1615",
+    "sortingDate": 1610,
+    "period": 17,
+    "yearEarly": 1610,
+    "yearLate": 1615
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11Q712",
+      "25I22"
+    ],
+    "iconClassDescription": [
+      "church (exterior)",
+      "prospect of village, silhouette of village"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Spaarnwoude"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1889-A-2120"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Keyes, G. (1984) p. 256, nr. D 133",
+    "Amsterdam 1987 nr. 13"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Esaias van de Velde",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Gezicht op Spaarnwoude, Esaias van de Velde, 1610 - 1615",
+  "subTitle": "h 87mm \u00d7 w 178mm",
+  "scLabelLine": "Esaias van de Velde, 1610 - 1615, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

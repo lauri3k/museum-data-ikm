@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-AM-51-21",
+  "priref": "24603",
+  "objectNumber": "BK-AM-51-21",
+  "language": "en",
+  "title": "The Judgement of Junius Brutus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "84207d27-a247-434c-aaa7-08d8d7c2a4b9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2638,
+    "url": "https://lh6.ggpht.com/3iIX5F8vtoNLKQZzWv1ijWVP-Et-LzZ81QJgO4u8drkM0MIshnO9eZC6itR1VXYEnLj09p6jJCNXU9VdpdBNj2mEmT4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#89786B"
+    },
+    {
+      "percentage": 30,
+      "hex": " #A9998C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #725642"
+    },
+    {
+      "percentage": 9,
+      "hex": " #CAC3BC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #4E3726"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2C1C11"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E7E6E6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#89786B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A9998C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #725642",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #CAC3BC",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #4E3726",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #2C1C11",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #E7E6E6",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 30,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 74,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "In het midden op de voorgrond knielt driekwart naar links gekeerd Brutus' jongste zoon met de handen op de rug in afwachting van de bijlslag, die de achter hem staande beul hem zal toebrengen. Deze, geheel naakt en met de rug driekwart naar de beschouwer, houdt de bijl met beide handen boven het hoofd. Geheel links Brutus' tuniek en toog, frontaal, staande op het rechterbeen en met het linker zijwaarts. Hij houdt de rechterarm voor de borst, het vertrokken gelaat naar rechts en de gestrekte linker arm gebiedend naar de beul ten teken, dat het vonnis kan worden voltrokken. Voor hem ligt het onthoofde lichaam van zijn oudste zoon; achter hem staat een hond. Op de achtergrond het bovenlijf van een veroordeelde met gebonden polsen tegenover een vierde, ter executie geleid door een Romeins soldaat, die hem het hoofd omlaag drukt. Rechts en links van de beul twee knapen, van wie de ene diens mantel draagt en de andere met de gevouwen handen voor de ogen in tranen is uitgebarsten. Geheel rechts het profiel en de schouder van een toeschouwer. Slechts de knie\u00ebn en armen van de op de achtergrond zittende Jupiter zijn vaag zichtbaar boven de hoofden. Op het reli\u00ebf hier en daar horizontale en verticale groeven voor overbrenging.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Artus Quellinus (I)",
+      "unFixedName": "Quellinus, Artus (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1609",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1668-08-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Artus Quellinus (I) (1609 - 23-aug-1668), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Artus Quellinus (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1651",
+    "sortingDate": 1651,
+    "period": 17,
+    "yearEarly": 1651,
+    "yearLate": 1651
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "98B(BRUTUS, L.J.)41"
+    ],
+    "iconClassDescription": [
+      "L. Junius Brutus has his two sons beheaded because they joined a conspiracy"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Stadhuis van Amsterdam (1655-1808)"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-AM-51-21"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "F. Scholten, 'Quellinus's burgomasters:a portrait gallery of Amsterdam republicanism', Simiolus 32, nr. 2/3 (2006), p. 105"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Artus Quellinus (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "72.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "83.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "20.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta (clay material)",
+  "longTitle": "The Judgement of Junius Brutus, Artus Quellinus (I), 1651",
+  "subTitle": "h 72.0cm \u00d7 w 83.5cm \u00d7 d 20.0cm",
+  "scLabelLine": "Artus Quellinus I (1609\u20131668), Amsterdam, 1651, terracotta",
+  "label": {
+    "title": "The Judgement of Junius Brutus",
+    "makerLine": "Artus Quellinus I (1609\u20131668), Amsterdam, 1651, terracotta",
+    "description": "The most elaborately ornamented space in the Town Hall was the Vierschaar (Tribunal), where death sentences were pronounced. Three marble reliefs above the seats of the judges illustrate exemplary verdicts from antiquity or the Bible. This is the model for the relief of the Judgement of Brutus, a Roman consul who had his own sons beheaded for conspiring against him \u2013 a paragon of justice.",
+    "notes": null,
+    "date": "2013-03-29"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

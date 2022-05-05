@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-803",
+  "priref": "325768",
+  "objectNumber": "BK-NM-803",
+  "language": "en",
+  "title": "Molenbeker",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c4550752-17d3-4aac-8f85-c0999264af9c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3467,
+    "height": 4158,
+    "url": "https://lh6.ggpht.com/gIiWdkz7ruVMwqaUx2-2A1SDhFzCEX2l5UP8A9dAIu4NjlmZw0PHaK6sk3xpaIfap5WxsCjsNU1Dqcv_HaliRRycR29o=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#9A968C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F8F7F3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #6C6960"
+    },
+    {
+      "percentage": 93,
+      "hex": " #BDBBB4"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3B362D"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DEDDDA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#9A968C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F8F7F3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6C6960",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BDBBB4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #3B362D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DEDDDA",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 93,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 93,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Molenbeker"
+  ],
+  "description": "Molenbeker met trompetvormige kelk van filigraanglas a retortoli. De molen is van zilver.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "silver (metal)"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Low Countries",
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1700",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47D31",
+      "47B192",
+      "41A343"
+    ],
+    "iconClassDescription": [
+      "windmill",
+      "miller",
+      "ladder"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-803"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "19.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Molenbeker, anonymous, c. 1600 - c. 1700",
+  "subTitle": "h 19.7cm \u00d7 d 10.4cm",
+  "scLabelLine": "anonymous, c. 1600 - c. 1700, glassblowing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

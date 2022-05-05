@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2813",
+  "priref": "5600",
+  "objectNumber": "SK-A-2813",
+  "language": "en",
+  "title": "Emblematic Still Life with Flagon, Glass, Jug and Bridle",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c94213f2-8d87-4a31-b35a-5891911d3173",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2641,
+    "height": 2680,
+    "url": "https://lh3.googleusercontent.com/WwkkPkJChcfG7nmKVQ2jw8MRab67he-zYxrbhLVCSPZWI9ejI6h1oSw8WRUg_t7iWmGrjcavp4TNAENteF6SLBSDrpbFLjdWpa28M43ffA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#281E15"
+    },
+    {
+      "percentage": 1,
+      "hex": " #92866E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #756246"
+    },
+    {
+      "percentage": 46,
+      "hex": " #070604"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B3AB95"
+    },
+    {
+      "percentage": 5,
+      "hex": " #553F26"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#281E15",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #92866E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #756246",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #070604",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #B3AB95",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #553F26",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 88,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 88,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Emblematic still life with flagon, glass, jug and bridle"
+  ],
+  "description": "Emblematisch stilleven samengesteld uit drinkgerei: een tinnen schenkkan, een roemer met witte wijn en een rode stenen kruik met daarboven een breidel. Onder de voet van de roemer een muziekblad met een versje over de Matigheid en aan weerszijden twee pijpen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Torrentius",
+      "unFixedName": "Torrentius, Johannes",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1589",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1644-02-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johannes Torrentius (1589 - 17-feb-1644)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Torrentius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1918-06-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1614",
+    "sortingDate": 1614,
+    "period": 17,
+    "yearEarly": 1614,
+    "yearLate": 1614
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41E1",
+      "54A43(+4)",
+      "41C32",
+      "41C741"
+    ],
+    "iconClassDescription": [
+      "still life of related objects",
+      "Temperance, Moderation; 'Misura' (Ripa) (+ emblematical representation of concept)",
+      "drinking-vessels",
+      "pipe ~ tobacco"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2813"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Tony English, Tug of War: The Tension Concept and the Art of International Negotiation, Melbourne 2010, p. 36-40.",
+    "A. Marr, 'Temperance or Indulgence? Wine in still lifes of the Dutch Golden Age', in: The World of Wine, no. 16 (2007), p, 103 + afb.",
+    "A. Wallert, 'A peculiar emblematic still-life painting from Johannes Torrentius', Art Matters 4 (2007), p. 54-67."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Torrentius",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "51"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "51.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paint on panel",
+  "longTitle": "Emblematic Still Life with Flagon, Glass, Jug and Bridle, Johannes Torrentius, 1614",
+  "subTitle": "h 51cm \u00d7 w 51.5cm",
+  "scLabelLine": "Johannes Torrentius (1589\u20131644), oil on panel, 1614",
+  "label": {
+    "title": "Emblematic Still Life with Flagon, Glass, Jug and Bridle",
+    "makerLine": "Johannes Torrentius (1589\u20131644), oil on panel, 1614",
+    "description": "A pewter flagon, a wine glass, an earthenware jug, a bridle or rein, and a piece of paper with two staves and inscribed \u2018what is out of measure, perishes in immeasurable evil.\u2019 These are exhortations to moderation. You must cut wine with water, curb your appetites. This strict message contrasts sharply with the reputation of the painter, who was repeatedly accused of whoremongery and heresy.",
+    "notes": "text based on label 2019-07-12",
+    "date": "2020-01-20"
+  },
+  "showImage": true,
+  "location": "HG-2.6"
+}

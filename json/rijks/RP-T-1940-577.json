@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1940-577",
+  "priref": "242277",
+  "objectNumber": "RP-T-1940-577",
+  "language": "en",
+  "title": "Het Colosseum te Rome",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "94995b79-1e7f-42fa-8d19-302dbb2ef0ce",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1773,
+    "url": "https://lh4.ggpht.com/Y4dt4f6Ep5Yz7xzbVexmFCzy1M7gM4xQLKGnSSPYivIAkM6U0B-KKHztXu1p2BuTW5giNcerYaRLJPiJyJBzypKGPgk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Het Colosseum te Rome"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Josephus Augustus Knip",
+      "unFixedName": "Knip, Josephus Augustus",
+      "placeOfBirth": "Tilburg",
+      "dateOfBirth": "1777-08-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1847-10-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlicum",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Josephus Augustus Knip (03-aug-1777 - 01-okt-1847)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Josephus Augustus Knip",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1940-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1809",
+    "sortingDate": 1809,
+    "period": 19,
+    "yearEarly": 1809,
+    "yearLate": 1809
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C149"
+    ],
+    "iconClassDescription": [
+      "ruin of a building ~ architecture"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Colosseum"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1940-577"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "E. Bergvelt, 'J.A. Knip (1777-1847) : De werkwijze van een 19de-eeuwse landschapschilder in relatie tot de kunsttheorie in Holland en Frankrijk omstreeks 1800', Nederlands Kunsthistorisch Jaarboek 27 (1976), p. 11-22, 24."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Josephus Augustus Knip",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "425"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "597"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Het Colosseum te Rome, Josephus Augustus Knip, 1809",
+  "subTitle": "h 425mm \u00d7 w 597mm",
+  "scLabelLine": "Josephus Augustus Knip, 1809, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

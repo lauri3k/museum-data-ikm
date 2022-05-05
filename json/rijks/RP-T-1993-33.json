@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1993-33",
+  "priref": "61739",
+  "objectNumber": "RP-T-1993-33",
+  "language": "en",
+  "title": "Roman Hero",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fad9c2bb-93c8-4600-82cf-9efefeef5e29",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1689,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/m8paXsuFb1f0P9oaUF37UFyhVZLCkMcs4_sJCjhFQm_bNDGY1rRyxyIjsYgj6-fNk-eY0ZhCZJ5h8di0n4m52XskNg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#EDEAE1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737F94"
+    },
+    {
+      "percentage": 16,
+      "hex": " #635C59"
+    },
+    {
+      "percentage": 9,
+      "hex": " #AEB0A7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CBB659"
+    },
+    {
+      "percentage": 63,
+      "hex": " #B09856"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDEAE1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #737F94",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #635C59",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AEB0A7",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CBB659",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B09856",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Roman Hero"
+  ],
+  "description": "Een Romeinse held, met een ornamentele rand van bloemmotieven en wolken waarin dichtregels; opgeplakt op een albumblad met vergulde bloemmotieven.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Keshavdas",
+      "unFixedName": "Keshavdas",
+      "placeOfBirth": null,
+      "dateOfBirth": "155555",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Keshavdas (155555 - 1617)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Keshavdas",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1993-04-07T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "deck paint",
+    "gouache (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1590 - c. 1595",
+    "sortingDate": 1590,
+    "period": 16,
+    "yearEarly": 1590,
+    "yearLate": 1595
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45B"
+    ],
+    "iconClassDescription": [
+      "de soldaat; het leven van een soldaat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1993-33"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Fleur Kalbfleisch, 'Contour en volume : Invloed van de Europese prentkunst op de Mogol-schilderkunst', Aziatische Kunst28/1 (1998), pp. 3-17.",
+    "Parijs, Drouot, 1993/04/07, lot nr. 81 met afb. van 2 Goltzius prenten"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Keshavdas",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "182"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "107"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "402"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "264"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Roman Hero, Keshavdas (attributed to), c. 1590 - c. 1595",
+  "subTitle": "h 182mm \u00d7 w 107mm",
+  "scLabelLine": "Attributed to Kesu Das, India, c. 1590-1595, gouache",
+  "label": {
+    "title": "Roman Hero",
+    "makerLine": "Attributed to Kesu Das, India, c. 1590-1595, gouache",
+    "description": null,
+    "notes": null,
+    "date": "2016-03-18"
+  },
+  "showImage": true,
+  "location": null
+}

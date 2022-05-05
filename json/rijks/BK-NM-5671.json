@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-5671",
+  "priref": "56108",
+  "objectNumber": "BK-NM-5671",
+  "language": "en",
+  "title": "Collector\u2019s cabinet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9ae0ea01-b240-4a0c-8758-4db9dc1ffbce",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1975,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/1EpRVHmoLDgOTqzYsH8X417jhD7Y8z-6hLJgZeiMin8ddQfU7VEU78U-M2bejZuIQQu9ZP1WgnqlYG5s8qny78P0ZGo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Kunstkast belijmd met note- en wortelnotenhout op een eiken kern. De beide deuren zijn, evenals de zijwanden, gemarketteerd met achtpuntige sterren en zeshoeken, uitgevoerd in oesterstukken. Geopend vertoont het meubel veertien laden van cederhout rond een middenvak met deurtjes. De vakken en de voorborden van de laden zijn versierd met spiegels waarop zeegevechten en in de deurtjes Venus en Amor. Achter de middendeurtjes een spiegelnis, waaronder een stoep en geflankeerd door huisgevels in marketerie.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "furniture worker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1882-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "oak (wood)",
+    "walnut (hardwood)",
+    "ebony (wood)",
+    "rosewood (wood)",
+    "rosewood (wood)",
+    "glass",
+    "ivory",
+    "gilding (material)",
+    "amalgam"
+  ],
+  "techniques": [
+    "gilding",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1675 - c. 1685",
+    "sortingDate": 1675,
+    "period": 17,
+    "yearEarly": 1675,
+    "yearLate": 1685
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92C454",
+      "92D1921",
+      "46C24",
+      "94L",
+      "92B4",
+      "92B5"
+    ],
+    "iconClassDescription": [
+      "Venus and Cupid (Cupid not being mere attribute)",
+      "story of Cupid and Psyche (Apuleius, 'Metamorphoses' (Golden Ass) IV 28 - VI 25)",
+      "sailing-ship, sailing-boat",
+      "(het verhaal van) Hercules (Herakles)",
+      "(story of) Mars (Ares)",
+      "(story of) Mercury (Hermes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-5671"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "167.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "121.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "51.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Collector\u2019s cabinet, anonymous, c. 1675 - c. 1685",
+  "subTitle": "h 167.0cm \u00d7 w 121.5cm \u00d7 d 51.5cm",
+  "scLabelLine": "The Netherlands, c. 1675\u20131685, oak, veneered with olive wood, ebony and boxwood, brown heartwood, bone and engraved mirrors",
+  "label": {
+    "title": "Collector\u2019s cabinet",
+    "makerLine": "The Netherlands, c. 1675\u20131685, oak, veneered with olive wood, ebony and boxwood, brown heartwood, bone and engraved mirrors",
+    "description": "When the doors are closed, this cabinet is relatively sober in appearance. This increases the surprise of its lavish interior with engraved mirrors. The two small central doors conceal a so-called \u2018perspective\u2019, with a niche whose inlays create the suggestion of architecture. The drawers were probably used to store valuable items and works of art.",
+    "notes": null,
+    "date": "2013-03-19"
+  },
+  "showImage": true,
+  "location": "HG-2.20"
+}

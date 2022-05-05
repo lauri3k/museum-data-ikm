@@ -1,0 +1,240 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2576",
+  "priref": "7856",
+  "objectNumber": "SK-A-2576",
+  "language": "en",
+  "title": "An Amsterdam Canal House Garden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2c710ddf-f85a-497d-ad62-5495a20d60b4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2119,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/WsSQDqQaAacoi97E810uPhShkA-jAdUl6gafIASvwNDKiquiEHxj1_FYdKDwPXYGKJKFOb0nRFP2cBBXzFrT40j91Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#4B4A2B"
+    },
+    {
+      "percentage": 34,
+      "hex": " #272517"
+    },
+    {
+      "percentage": 12,
+      "hex": " #84845F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #9B9D79"
+    },
+    {
+      "percentage": 3,
+      "hex": " #706C48"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BEB785"
+    },
+    {
+      "percentage": 0,
+      "hex": " #653A1C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4B4A2B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #272517",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #84845F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9B9D79",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #706C48",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #BEB785",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #653A1C",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 55,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 34,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 34,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [],
+  "description": "Gezicht in een Amsterdamse stadstuin met een prieel met enkele beelden aan het einde. Een man op een ladder plukt druiven en legt deze op een schaal opgehouden door een meisje. Links op de voorgrond maakt een keukenmeid groente schoon, naast haar zit een papegaai, op de grond staat een vogelkooi.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Troost",
+      "unFixedName": "Troost, Cornelis",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1696-10-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1750-03-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Troost (08-okt-1696 - 07-mrt-1750)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Troost",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1912-05-01T00:00:00",
+    "creditLine": "Gift of the heirs of C. Hoogendijk, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1740 - 1745",
+    "sortingDate": 1740,
+    "period": 18,
+    "yearEarly": 1740,
+    "yearLate": 1745
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A6",
+      "41CC2611",
+      "25F35(PARROT)",
+      "47I4222",
+      "41A641"
+    ],
+    "iconClassDescription": [
+      "garden",
+      "cleaning vegetables - CC - in the open air",
+      "ornamental birds: parrot",
+      "bunch of grapes",
+      "statues, sculptures in garden"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2576"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Troost",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "66"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "56"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "An Amsterdam Canal House Garden, Cornelis Troost, c. 1740 - 1745",
+  "subTitle": "h 66cm \u00d7 w 56cm",
+  "scLabelLine": "Cornelis Troost (1696-1750), oil on canvas, c. 1740-1745",
+  "label": {
+    "title": "An Amsterdam Canal House Garden",
+    "makerLine": "Cornelis Troost (1696-1750), oil on canvas, c. 1740-1745",
+    "description": "The garden of this Amsterdam canal house radiates tranquillity and prosperity. At centre is a gilded statue of Fortuna, symbol of the family\u2019s good fortune. In the bright sunlight, the master of the house picks grapes with his daughter, while in the foreground in the shade a maidservant cleans vegetables. A tame parrot looks on, hoping for a tasty tidbit.",
+    "notes": null,
+    "date": "2012-12-12"
+  },
+  "showImage": true,
+  "location": "HG-1.1"
+}

@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4120",
+  "priref": "10109",
+  "objectNumber": "SK-A-4120",
+  "language": "en",
+  "title": "Portrait of Johan Rudolf Thorbecke, Minister of State and Minister of the Interior",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "db228dce-6731-49c3-8ad2-f2b660fae25d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2095,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/cAGu3nZ9P2T_mpN2E4meb4QXLdVN5Wk_cpUz_IMEoH0RBAIr5L4u5kTsJ3d16vcLQcUKVBYQv9bpsDaIOKDbHjchXiCo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#3B301B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #866A3D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2BF79"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B99557"
+    },
+    {
+      "percentage": 3,
+      "hex": " #624426"
+    },
+    {
+      "percentage": 60,
+      "hex": " #1B190F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3B301B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #866A3D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #D2BF79",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B99557",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #624426",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #1B190F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #DEB887"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 89,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Portrait of Johan Rudolf Thorbecke, Minister of State and Minister of the Interior"
+  ],
+  "description": "Johan Rudolf Thorbecke (1796-1872). Minister van Staat en minister van binnenlandse zaken. Kniestuk, zittende in een stoel naast een tafel waarop brieven en een aktetas liggen. De rechterhand in de jas gestoken, op de borst het kruis van de orde van de Nederlandse Leeuw.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johan Heinrich Neuman",
+      "unFixedName": "Neuman, Johan Heinrich",
+      "placeOfBirth": "Keulen",
+      "dateOfBirth": "1819-01-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1898-04-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johan Heinrich Neuman (07-jan-1819 - 14-apr-1898)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johan Heinrich Neuman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1965-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1852",
+    "sortingDate": 1852,
+    "period": 19,
+    "yearEarly": 1852,
+    "yearLate": 1852
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A7212",
+      "61B2",
+      "44B211"
+    ],
+    "iconClassDescription": [
+      "armchair, seat",
+      "historical persons",
+      "minister ~ government"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18401872"
+    ],
+    "places": [],
+    "people": [
+      "Thorbecke, Johan Rudolf",
+      "Orde van de Nederlandse Leeuw"
+    ],
+    "objectNumbers": [
+      "SK-A-4120"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Thorbecke, Johan Rudolf",
+    "Orde van de Nederlandse Leeuw"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)?"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johan Heinrich Neuman",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Johan Rudolf Thorbecke, Minister of State and Minister of the Interior, Johan Heinrich Neuman, 1852",
+  "subTitle": "h 100cm \u00d7 w 84cm \u00d7 d 6cm",
+  "scLabelLine": "Johan Heinrich Neuman, 1852, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

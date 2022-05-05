@@ -1,0 +1,231 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-268",
+  "priref": "36450",
+  "objectNumber": "RP-P-OB-268",
+  "language": "en",
+  "title": "The bridge at Klein Kostverloren on the Amstel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8c8fbe5f-fbb9-47b3-ab13-99100a2b2d26",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1757,
+    "url": "https://lh3.ggpht.com/de_Gb_IYkzwHBM6kMk37tVQmEyhpI6R6TdVn7r7cm7iE8DxOdOhtkluLSIz1-IOxHRflEe4_gJAkFvsw6Zz26SWJCHnh=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FEFEFA"
+    },
+    {
+      "percentage": 74,
+      "hex": " #E2E1D8"
+    },
+    {
+      "percentage": 16,
+      "hex": " #BAB6A4"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8D8A7A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #676454"
+    },
+    {
+      "percentage": 0,
+      "hex": " #413F33"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FEFEFA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E2E1D8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BAB6A4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8D8A7A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #676454",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #413F33",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 74,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 92,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "The bridge at Klein Kostverloren on the Amstel"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1645",
+    "sortingDate": 1645,
+    "period": 17,
+    "yearEarly": 1645,
+    "yearLate": 1645
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I6"
+    ],
+    "iconClassDescription": [
+      "landscape with bridge, viaduct or aqueduct"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ouderkerk aan de Amstel",
+      "Huis Kostverloren"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-268"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 222",
+    "222",
+    "Bartsch 208",
+    "208",
+    "Hollstein Dutch 208",
+    "208"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "125"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "The bridge at Klein Kostverloren on the Amstel, Rembrandt van Rijn, 1645",
+  "subTitle": "h 125mm \u00d7 w 223mm",
+  "scLabelLine": "Rembrandt van Rijn, 1645, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

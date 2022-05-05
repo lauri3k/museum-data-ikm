@@ -1,0 +1,178 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-35.343",
+  "priref": "85050",
+  "objectNumber": "RP-P-OB-35.343",
+  "language": "en",
+  "title": "Triomf van de liefde",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "07298233-6c2d-4ecd-ba92-fae80749db80",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2137,
+    "url": "https://lh6.ggpht.com/YORxr2o52PW3q2FubvpbCkjLbHvZJlH7r70VfoSuALWrgctLw3_t6xBhwADt34ibBzIwoF1eFdaUnvfq9JXfSz5tPvc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Triomf van de liefde"
+  ],
+  "description": "De triomf van de liefde. Amor rijdt op een strijdwagen, getrokken door twee eenhoorns, door de wolken. Hij schiet zijn pijlen af op de naakte liefdesparen in het landschap onder hem. Midden onder ligt Amor in het water met een naakte figuur. Op de achtergrond links Apollo op zijn zonnewagen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Tommaso Barlacchi",
+      "unFixedName": "Barlacchi, Tommaso",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Tommaso Barlacchi, Rome"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giulio Bonasone",
+      "unFixedName": "Bonasone, Giulio",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": "1510",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1576",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Bologna",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Giulio Bonasone (c. 1510 - after 1576), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giulio Bonasone",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1545",
+    "sortingDate": 1545,
+    "period": 16,
+    "yearEarly": 1545,
+    "yearLate": 1545
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A4311",
+      "92D1521",
+      "33C23"
+    ],
+    "iconClassDescription": [
+      "'Trionfi d'Amore', 'Triumphus Cupidinis'; 'Carro d'amore' (Ripa)",
+      "Cupid shooting a dart",
+      "couple of lovers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-35.343"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Massari 47",
+    "47",
+    "The Illustrated Bartsch 106",
+    "106",
+    "Bartsch 106",
+    "106"
+  ],
+  "principalOrFirstMaker": "Giulio Bonasone",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "277"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "397"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Triomf van de liefde, Giulio Bonasone, 1545",
+  "subTitle": "h 277mm \u00d7 w 397mm",
+  "scLabelLine": "Giulio Bonasone, 1545, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

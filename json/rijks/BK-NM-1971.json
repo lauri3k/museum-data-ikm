@@ -1,0 +1,247 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-1971",
+  "priref": "248476",
+  "objectNumber": "BK-NM-1971",
+  "language": "en",
+  "title": "Settle",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6f198c96-09a3-4746-bd6b-e35487bde9b2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2948,
+    "url": "https://lh3.ggpht.com/8OOFlmJys-8lgCGW5Tklspf0iABpzIcQwABGRRn-XfBjGeYuAtapXlbDKmPv0pBgYcUr7DSwXZZ-M0CWHl6THyowhF8g=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#A89F97"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C5BFB9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8D7D6F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #291F15"
+    },
+    {
+      "percentage": 37,
+      "hex": " #624C39"
+    },
+    {
+      "percentage": 34,
+      "hex": " #ECECEB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A89F97",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C5BFB9",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8D7D6F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #291F15",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #624C39",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #ECECEB",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 34,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 37,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 34,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 18,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Bank van eikenhout met beweegbare leuning. Het kistvormig onderstel, met zijkanten fungerend als wangen, heeft platte, grotendeels geprofileerde armleggers. De kist draagt aan de lange zijden drie, aan de korte zijden en wangen twee, panelen, die met briefornament versierd zijn; het middenpaneel der voorzijde uitgezonderd. De leuning draait om een spil in de middenstijl der wangen. De zitting is aan de voor- en zijkanten geprofileerd en heeft een aan twee staarthengsels bevestigd deksel.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "furniture worker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": "Gift of A.P. Hermans-Smits, Eindhoven"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "oak (wood)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1500",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1500
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-1971"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "82"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "80.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "51"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "73.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "43.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Settle, anonymous, c. 1500",
+  "subTitle": "h c.82cm \u00d7 w c.80.5cm \u00d7 d c.51cm",
+  "scLabelLine": "Northern Netherlands, c. 1500, oak",
+  "label": {
+    "title": "Settle",
+    "makerLine": "Northern Netherlands, c. 1500, oak",
+    "description": "By shifting the back, you could use both sides of this settle. Sitting before a fire, you could alternate positions to keep your whole body warm. Under the seat is a storage space for keeping valuables safe. Settles such as these would have stood in the houses of ordinary citizens. They are the forerunners of separate chests, chairs and settees.",
+    "notes": null,
+    "date": "2012-11-22"
+  },
+  "showImage": true,
+  "location": "HG-0.4"
+}

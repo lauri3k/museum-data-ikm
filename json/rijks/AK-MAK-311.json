@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-311",
+  "priref": "1979",
+  "objectNumber": "AK-MAK-311",
+  "language": "en",
+  "title": "Kuvera (Jambhala)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "228b0421-e41b-47a4-9f17-cc47a878cb0c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2181,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/V9qR3ca5Qveyi3hK2fVW-WCvOJmeuxkUDNk6-9v3LUGFezKHz1RX99BEaTSAQVOMKP7DQ0oA20vgrlDO0k3j2ldcofmx=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#8A8A79"
+    },
+    {
+      "percentage": 60,
+      "hex": " #B8B7A6"
+    },
+    {
+      "percentage": 8,
+      "hex": " #454539"
+    },
+    {
+      "percentage": 6,
+      "hex": " #666657"
+    },
+    {
+      "percentage": 1,
+      "hex": " #1D1E17"
+    },
+    {
+      "percentage": 15,
+      "hex": " #EBEBE8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#8A8A79",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B8B7A6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #454539",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #666657",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #1D1E17",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #EBEBE8",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 15,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 75,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "De vierarmige Kuvera zit op een lotusbloem ondersteund door een geldbuidel welke is dichtgebonden door kettingen van juwelen.Zijn rechtervoet rust op een paar geldbuidels. Op elke hoek van het voetstuk staat een geldbuidel en aan de weersijden nog een zes geldbuidels.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Java"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Java"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase Carlebach, New York, 1958)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Java"
+  ],
+  "dating": {
+    "presentingDate": "850 - 930",
+    "sortingDate": 850,
+    "period": 9,
+    "yearEarly": 850,
+    "yearLate": 930
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H13",
+      "41D267"
+    ],
+    "iconClassDescription": [
+      "representations ~ gods, demi-gods, heroes, etc. (Hinduism, Buddhism, Jainism)",
+      "purse, money-bag"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-311"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "11.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "6.6"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "5.9"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "488"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze (metal)",
+  "longTitle": "Kuvera (Jambhala), anonymous, 850 - 930",
+  "subTitle": "h 11.5cm \u00d7 w 6.6cm \u00d7 d 5.9cm \u00d7 w 488gr",
+  "scLabelLine": "Indonesia, Central Java, c. 850-930, bronze",
+  "label": {
+    "title": "Kuvera (Jambhala)",
+    "makerLine": "Indonesia, Central Java, c. 850-930, bronze",
+    "description": "The god of prosperity was worshipped by Hindus (who called him Kuvera) and Buddhists (under the name Jambhala). During recent research a gold coin and gold and silver foil were discovered in the base of the statue, probably with an inscription. These lent the statue protection and divine power. The consecration of statues with the addition of such small objects is common in the Himalayas, but exceptional in Indonesia.",
+    "notes": null,
+    "date": "2019-10-10"
+  },
+  "showImage": true,
+  "location": null
+}

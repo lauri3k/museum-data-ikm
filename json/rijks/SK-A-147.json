@@ -1,0 +1,245 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-147",
+  "priref": "8663",
+  "objectNumber": "SK-A-147",
+  "language": "en",
+  "title": "Portrait of Gerard Andriesz Bicker",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f06f5e1b-ca7a-4c19-9520-e68f4cc85ea8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 26,
+    "width": 1878,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/2XVzz6Nbh3oohR-NmDkVMkuGnPkYfClz7SSRBn5bgiE5KtJ8KqO8p1TdGh2sicrAGaGEGK294GnM0F-j9ZEPu3IRDQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#1A140D"
+    },
+    {
+      "percentage": 15,
+      "hex": " #735541"
+    },
+    {
+      "percentage": 31,
+      "hex": " #583722"
+    },
+    {
+      "percentage": 11,
+      "hex": " #8A755C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #ADA389"
+    },
+    {
+      "percentage": 2,
+      "hex": " #CAC8B1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1A140D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #735541",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #583722",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8A755C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #ADA389",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CAC8B1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 58,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Gerard Andriesz Bicker (1622-66), Lord of Engelenburg. High Bailiff of Muiden"
+  ],
+  "description": "Portret van Gerard Andriesz Bicker, heer van Engelenburg, drost van Muiden. Staand, ten halven lijve, handschoenen in de rechterhand, de linkerhand in de zij.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bartholomeus van der Helst",
+      "unFixedName": "Helst, Bartholomeus van der",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1670-12-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Bartholomeus van der Helst (1613 - 16-dec-1670)"
+    }
+  ],
+  "plaqueDescriptionDutch": "Bartholomeus van der Helst portretteerde vader en zoon Bicker. Het verschil tussen de twee generaties is opvallend. De vader is in stemmig zwart gekleed en draagt een ouderwetse molensteenkraag. Zoon Gerard - hier ongeveer twintig jaar oud - is kleurig en opzichtig uitgedost, met een platte kraag en modieuze handschoenen.",
+  "plaqueDescriptionEnglish": "Bartholomeus van der Helst portrayed both Bickers, father and son. The difference between the two generations is striking. The father is dressed in sober black, wearing an old-fashioned millstone ruff. His son Gerard - here about twenty - appears in a colourful, flamboyant costume, with a flat collar and fashionable shoes.",
+  "principalMaker": "Bartholomeus van der Helst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1848-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1642",
+    "sortingDate": 1642,
+    "period": 17,
+    "yearEarly": 1642,
+    "yearLate": 1642
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "41D225"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "gloves, mittens, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Bicker, Gerard Andriesz."
+    ],
+    "objectNumbers": [
+      "SK-A-147"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Bicker, Gerard Andriesz."
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Toon Vugts, 'Actie : De 250 rijksten van de Gouden Eeuw', Rijksmuseum Kunstkrant 32 (2006) 6, p. 24-26 (afb.)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bartholomeus van der Helst",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "117.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "70.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "96"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Gerard Andriesz Bicker, Bartholomeus van der Helst, c. 1642",
+  "subTitle": "h 94cm",
+  "scLabelLine": "Bartholomeus van der Helst (1613\u20131670), oil on panel, c. 1642",
+  "label": {
+    "title": "Portrait of Gerard Andriesz Bicker",
+    "makerLine": "Bartholomeus van der Helst (1613\u20131670), oil on panel, c. 1642",
+    "description": "Like his father, the twenty-year-old Gerard Bicker is portrayed as self-assured, his arm akimbo. The striking differences in the garments worn by father and son confirm that they are from different generations. While his father Andries is dressed in dignified black clothing with an old-fashioned ruff, Gerard wears a colourful and showy outfit with a flat collar and elegant gloves. Gerard was not awarded as many key administrative positions in Amsterdam.",
+    "notes": "Multimediatour",
+    "date": "2018-02-27"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

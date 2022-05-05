@@ -1,0 +1,260 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12080",
+  "priref": "25246",
+  "objectNumber": "BK-NM-12080",
+  "language": "en",
+  "title": "Bust of a Classical philosopher",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5fc898d4-c091-41bd-bbec-4e73b0dad743",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1876,
+    "url": "https://lh4.ggpht.com/zYPd6lfCDrb2b_9PquBSHyKHZPwXKjpYjFo1Ka90j1i9epCCFMzATI9qbymDFglk8TRyxeAzj6G7qQxkbuKjG4nH8Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 64,
+      "hex": "#C3C2C1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #37332D"
+    },
+    {
+      "percentage": 6,
+      "hex": " #57544E"
+    },
+    {
+      "percentage": 4,
+      "hex": " #9A9997"
+    },
+    {
+      "percentage": 4,
+      "hex": " #716F6B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #13100E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DEDEDE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C3C2C1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #37332D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #57544E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A9997",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #716F6B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #13100E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DEDEDE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "De man houdt het opgeheven hoofd iets naar links, draagt snor en baard en om het krullende haar een band. Over de schouders hangt een klassieke toga, waarvan de twee einden op de rechterschouder door een knoop worden samengehouden.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [
+    {
+      "name": "Severo Calzetta da Ravenna",
+      "unFixedName": "Ravenna, Severo Calzetta da",
+      "placeOfBirth": null,
+      "dateOfBirth": "1470",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1538",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Severo Calzetta da Ravenna (c. 1470 - before 1538)"
+    },
+    {
+      "name": "Antonio Lombardo",
+      "unFixedName": "Lombardo, Antonio",
+      "placeOfBirth": null,
+      "dateOfBirth": "1458",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1516",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "after sculpture by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Antonio Lombardo (c. 1458 - 1516)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Severo Calzetta da Ravenna",
+      "unFixedName": "Ravenna, Severo Calzetta da",
+      "placeOfBirth": null,
+      "dateOfBirth": "1470",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1538",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Severo Calzetta da Ravenna (c. 1470 - before 1538)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Severo Calzetta da Ravenna",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1505 - c. 1525",
+    "sortingDate": 1505,
+    "period": 16,
+    "yearEarly": 1505,
+    "yearLate": 1525
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A534"
+    ],
+    "iconClassDescription": [
+      "beard"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-12080"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Severo Calzetta da Ravenna",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "15.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "19.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "10.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze (metal)",
+  "longTitle": "Bust of a Classical philosopher, Severo Calzetta da Ravenna, c. 1505 - c. 1525",
+  "subTitle": "h 15.5cm \u00d7 w 19.5cm \u00d7 d 10.0cm",
+  "scLabelLine": "Severo Calzetta da Ravenna (c. 1470\u2013before 1538), Padua or Ravenna, c. 1505-1525",
+  "label": {
+    "title": "Bust of a Classical philosopher",
+    "makerLine": "Severo Calzetta da Ravenna (c. 1470\u2013before 1538), Padua or Ravenna, c. 1505-1525",
+    "description": null,
+    "notes": null,
+    "date": "2012-11-21"
+  },
+  "showImage": true,
+  "location": "HG-0.5"
+}

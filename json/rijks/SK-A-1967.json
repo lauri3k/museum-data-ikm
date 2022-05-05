@@ -1,0 +1,268 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1967",
+  "priref": "8173",
+  "objectNumber": "SK-A-1967",
+  "language": "en",
+  "title": "The Crucifixion",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3c9ccf34-70e0-4547-96a5-9a4f7a9bd765",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 3,
+    "width": 3000,
+    "height": 3596,
+    "url": "https://lh3.googleusercontent.com/wS0cacc2X3bt-DKd1EqoRuRTgLXa3dfRk3Q3hDDhARsCDIuUfaPMxOtPPXGrkgzZEa-LwP0JlJUdnBMxARsEBCDCcjQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#1E1B10"
+    },
+    {
+      "percentage": 4,
+      "hex": " #6F7E61"
+    },
+    {
+      "percentage": 8,
+      "hex": " #9E8C5B"
+    },
+    {
+      "percentage": 12,
+      "hex": " #75613B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C2B484"
+    },
+    {
+      "percentage": 59,
+      "hex": " #563C24"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1E1B10",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6F7E61",
+      "normalizedHex": "#62AD77"
+    },
+    {
+      "originalHex": " #9E8C5B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #75613B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C2B484",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #563C24",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 71,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #556B2F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 71,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #62AD77"
+    }
+  ],
+  "titles": [
+    "The Crucifixion",
+    "Calvary"
+  ],
+  "description": "Kruisberg met vele figuren en verschillende epiodes uit de Passie. In het midden Christus aan het kruis, met vier engelen die het bloed opvangen. Op de voorgrond Maria Magdalena, Maria, Johannes en de heilige Veronica met de zweetdoek. Op de rand van haar mantel staat: Salve Sact(a) Facies Nos(tri) Redemptor(is). Rechts te paard Longinus en de centurion. Op de achtergrond: de kruisdraging, Christus die afscheid neemt van zijn moeder en het gebed in de Hof van Olijven in Getsemane.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Cornelisz van Oostsanen",
+      "unFixedName": "Cornelisz van Oostsanen, Jacob",
+      "placeOfBirth": "Oostzaan",
+      "dateOfBirth": "1475",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Jacob Cornelisz van Oostsanen (c. 1475 - c. 1533), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Cornelisz van Oostsanen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1902-03-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1507 - c. 1510",
+    "sortingDate": 1507,
+    "period": 16,
+    "yearEarly": 1507,
+    "yearLate": 1510
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D3121",
+      "73D17",
+      "73D41",
+      "73D415",
+      "73D625",
+      "73D644",
+      "11D3121"
+    ],
+    "iconClassDescription": [
+      "agony of Christ: to comfort him one or more angels appear to Christ with chalice and/or cross",
+      "Christ taking leave of Mary, usually Mary Magdalene present",
+      "carrying of the cross: Christ bearing the cross, alone or with the help of others (e.g. Simon the Cyrenian)",
+      "Christ meets Veronica, who has a cloth to wipe Christ's face",
+      "bystanders at the foot of the cross, among whom Mary, Mary Magdalene and John the Evangelist; Mary may be shown swooning",
+      "crucified Christ with Stephaton and/or Longinus",
+      "'Vera Icon', held up by Veronica"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1967"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "M. Leeflang en D. Meuwissen, 'Ondertekend' : Onderzoek naar de ondertekening van de schilderijen van Jacob Cornelisz. van Oostsanen, Oostzaan, 2003, p. 14.",
+    "Wouter Kloek, 'Pasen', De Rijksmuseum Kunstkrant 28 (2003) nr. 2, p. 20-23.",
+    "Friedl\u00e4nder, V, 1969, p. 34",
+    "J.H.H. Kessler, Het vraagstuk Jacob Cornelisz., in: Oudheidkundig Jaarboek  1932, nr. 1, p. 102 [Alkmaars meester, C. Buys?].",
+    "K. Steinbart, Nachlese im Werke des Jacob Cornelisz., in: Marburger Jahrbuch 1929, p. 227, afb. 24 [verband met een calvarie in het Barnard Castle].",
+    "J. Six, 'Jan van Hout, Cornelis Buys en Jacob Cornelisz.', Oud Holland (1925), p. 17 [Jan van Hout voor 1512]; Oud Holland (1926), p. 142.",
+    "N. Beets, 'De tentoonstelling van N. Nederl. schilder- en beeldhouwkunst', Onze Kunst (1914), p. 86.",
+    "N. Beets, '...', Bulletin Nederlands Oudheidkundige Bond (1905), p. 182.",
+    "C. Hofstede de Groot, 'Kritische opmerkingen, etc.', Oud Holland (1904), p. 34, 38 [als zeker Jacob Cornelisz.].",
+    "B.W.F. van Riemsdijk, 'Berichten van Nederlandse Musea', Bulletin van de Nederlandse Oudheidkundige Bond (1901/02), p. 87 [als omgeving Jacob Cornelisz.].",
+    "M.J. Friedl\u00e4nder, 'Ausstellungen u. Versteigerungen', Repertorium f\u00fcr Kunstwissenschaft (1901), p. 328 [als Jacob Cornelisz.].",
+    "F. D\u00fclberg, 'Das Alkmaarer J\u00fcngste Gericht', Repertorium f\u00fcr Kunstwissenschaft (1900), p. 208 [als Jacob Cornelisz.]."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Cornelisz van Oostsanen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "105"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "88.4"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "86.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Crucifixion, Jacob Cornelisz van Oostsanen, c. 1507 - c. 1510",
+  "subTitle": "h 105cm \u00d7 w 88.4cm",
+  "scLabelLine": "Jacob Cornelisz van Oostsanen, alias Jacob War van Amsterdam (c. 1472/77-in or before 1533) Amsterdam, c. 1507-1510,\noil on panel",
+  "label": {
+    "title": "The Crucifixion",
+    "makerLine": "Jacob Cornelisz van Oostsanen, alias Jacob War van Amsterdam (c. 1472/77-in or before 1533) Amsterdam, c. 1507-1510,\noil on panel",
+    "description": "For his depiction of Golgotha, the mountain on which Christ was crucified, the artist chose a high viewpoint. In doing so, he created a vast landscape in which to represent successive episodes of the Passion of Christ simultaneously. This narrative convention was often used in medieval painting.",
+    "notes": null,
+    "date": "2012-11-20"
+  },
+  "showImage": true,
+  "location": "HG-0.1"
+}

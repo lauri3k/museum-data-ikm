@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1983-16-A",
+  "priref": "342125",
+  "objectNumber": "NG-1983-16-A",
+  "language": "en",
+  "title": "Honorary Medal Awarded by Frederick Henry to Piet Hein",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bed472d2-790f-44fb-bc29-1547357a78f8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2271,
+    "height": 2766,
+    "url": "https://lh6.ggpht.com/5t8qq1dFwkwnuZtmVTM6zyisC555n2MkyUMGEus58kyXOCg8LxXSjQmzqZ7E6_Z84Z5nuOdSY2p-U_GIYunp17qbwQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#D2BF8E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F8ECC7"
+    },
+    {
+      "percentage": 9,
+      "hex": " #234D7E"
+    },
+    {
+      "percentage": 23,
+      "hex": " #A99664"
+    },
+    {
+      "percentage": 52,
+      "hex": " #626C70"
+    },
+    {
+      "percentage": 14,
+      "hex": " #162432"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D2BF8E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F8ECC7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #234D7E",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #A99664",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #626C70",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #162432",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 14,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4169E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 14,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Piet Heynpenning, gouden medaille met draagoog. Voorzijde: in bladerkrans met twee strikken het gekroonde wapen van Oranje-Nassau. Keerzijde: compacte bladerkrans met 2 knopvormige ornamenten als verbinding; hierbinnen opschrift.",
+  "labelText": null,
+  "objectTypes": [
+    "medal"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1983-10-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)"
+  ],
+  "techniques": [
+    "striking (metalworking)"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1629",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B194"
+    ],
+    "iconClassDescription": [
+      "coat of arms (symbol of sovereignty)"
+    ],
+    "motifs": [],
+    "events": [
+      "Verovering van de Zilvervloot"
+    ],
+    "periods": [
+      "16291629"
+    ],
+    "places": [],
+    "people": [
+      "Heyn, Pieter Pietersz."
+    ],
+    "objectNumbers": [
+      "NG-1983-16-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Heyn, Pieter Pietersz."
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Benno van Tilburg, 'Piet Heyn en de verovering van de Zilvervloot', Rijksmuseum Kunstkrant 19 (1993) nr. 3, p. 19-22."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "4.9"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "54.92"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "striking (metalworking)",
+  "longTitle": "Honorary Medal Awarded by Frederick Henry to Piet Hein, anonymous, 1629",
+  "subTitle": "d 4.9cm \u00d7 w 54.92gr",
+  "scLabelLine": "gold, 1629",
+  "label": {
+    "title": "Honorary Medal Awarded by Frederick Henry to Piet Hein",
+    "makerLine": "gold, 1629",
+    "description": "People who have performed a heroic deed or reached the end of a long career are sometimes awarded a medal as a token of esteem and gratitude. Often these are made of gold. Especially in the seventeenth century, gold medals with their chains were literally a reward. They were subsequently melted down and converted into money, which is why so few have survived.",
+    "notes": "NG-1983-16-A, NG-2004-22, NG-2016-12, NG-664-1, NG-85, NG-C-2016-1-1, NG-C-2017-181, NG-NM-12118, NG-NM-9883, NG-VG-1-1523, NG-VG-1-4373",
+    "date": "2019-07-11"
+  },
+  "showImage": true,
+  "location": "HG-2.16"
+}

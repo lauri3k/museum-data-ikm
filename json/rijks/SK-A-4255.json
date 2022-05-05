@@ -1,0 +1,246 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4255",
+  "priref": "8489",
+  "objectNumber": "SK-A-4255",
+  "language": "en",
+  "title": "Spanish Warhorse",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e1cf9d5b-510e-46e7-91ab-51d89a3fe21e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2090,
+    "url": "https://lh3.googleusercontent.com/Znje8BE6lKDoVcsf12XTNzrl0D3VN9Cx0RWcdJIwZT5meaht--i-phWhMU24u15TNCqs0OqVYDzr_bsBgAt4nEB2qIB2PyVwrArtybE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 31,
+      "hex": "#473E31"
+    },
+    {
+      "percentage": 21,
+      "hex": " #2D2820"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BCB59B"
+    },
+    {
+      "percentage": 22,
+      "hex": " #87775D"
+    },
+    {
+      "percentage": 17,
+      "hex": " #6B5640"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B09C7D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#473E31",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2D2820",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #BCB59B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #87775D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6B5640",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B09C7D",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 21,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 31,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 21,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "A Spanish Warhorse Captured by Lodewijk Gunther van Nassau from Archduke Albert of Austria in the Battle of Nieuwpoort and Presented to Prince Maurits"
+  ],
+  "description": "Een witte Spaanse strijdhengst, buitgemaakt door Lodewijk G\u00fcnther van Nassau op aartshertog Albertus van Oostenrijk tijdens de Slag bij Nieuwpoort in 1600 en geschonken aan prins Maurits. Het paard wordt door een stalknecht geleid en is bijna levensgroot weergegeven.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob de Gheyn (II)",
+      "unFixedName": "Gheyn, Jacob de (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1565",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1629-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "painter",
+        "print maker"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob de Gheyn (II) (1565 - 29-mrt-1629)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob de Gheyn (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1880-01-01T00:00:00",
+    "creditLine": "Gift of Jonkheer W.L.B. van Panhuys, Leeuwarden"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1603",
+    "sortingDate": 1603,
+    "period": 17,
+    "yearEarly": 1603,
+    "yearLate": 1603
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C13141",
+      "46C13171",
+      "45L311"
+    ],
+    "iconClassDescription": [
+      "horse",
+      "groom",
+      "trophy ~ battle, war"
+    ],
+    "motifs": [],
+    "events": [
+      "Slag bij Nieuwpoort"
+    ],
+    "periods": [
+      "16001600"
+    ],
+    "places": [
+      "Nieuwpoort (Belgi\u00eb)"
+    ],
+    "people": [
+      "Maurits (prins van Oranje)",
+      "Nassau, Lodewijk Gunther graaf van",
+      "Oostenrijk, Albrecht aartshertog van"
+    ],
+    "objectNumbers": [
+      "SK-A-4255"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)",
+    "Nassau, Lodewijk Gunther graaf van",
+    "Oostenrijk, Albrecht aartshertog van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob de Gheyn (II)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "228"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "269"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Spanish Warhorse, Jacob de Gheyn (II), 1603",
+  "subTitle": "h 228cm \u00d7 w 269cm \u00d7 d 6.2cm",
+  "scLabelLine": "Jacob de Gheyn II (c. 1565-1629), oil on canvas, 1603",
+  "label": {
+    "title": "Spanish Warhorse",
+    "makerLine": "Jacob de Gheyn II (c. 1565-1629), oil on canvas, 1603",
+    "description": "This Spanish stallion belonged to the Spanish military commander Albert of Austria in 1600. During the Battle of Nieuwpoort the horse was seized and subsequently presented to Prince Maurice. Three years later Maurice had the horse grandly portrayed as a war trophy and a sign of triumph. At some point the painting lost this meaning and was folded up; the resulting damage is still visible.",
+    "notes": null,
+    "date": "2018-11-06"
+  },
+  "showImage": true,
+  "location": null
+}

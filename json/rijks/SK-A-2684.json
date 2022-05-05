@@ -1,0 +1,308 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2684",
+  "priref": "8389",
+  "objectNumber": "SK-A-2684",
+  "language": "en",
+  "title": "The Dairy Cow: The Dutch Provinces, Revolting against the Spanish King Philip II, Are Led by Prince William of Orange, The States General Entreat Queen Elizabeth I for Aid",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3ce09e59-9d24-40dd-a296-b9ab30c43ffc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2319,
+    "url": "https://lh3.googleusercontent.com/AVqJjcf1TRf5SAKi1b8F-Hy869NeKzq-htC1aoi35pdaocGPv5oVD1sL6hS6P-gMKoMbxjsHNMSgDAhfdT7nVM0EXA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#221B0F"
+    },
+    {
+      "percentage": 27,
+      "hex": " #BAB086"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A4945E"
+    },
+    {
+      "percentage": 11,
+      "hex": " #847146"
+    },
+    {
+      "percentage": 7,
+      "hex": " #625332"
+    },
+    {
+      "percentage": 22,
+      "hex": " #48351C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#221B0F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #BAB086",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A4945E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #847146",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #625332",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #48351C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 22,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #556B2F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 35,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "The Dairy Cow: The Dutch Provinces, Revolting against the Spanish King Philip II, Are Led by Prince William of Orange, The States General Entreat Queen Elizabeth I for Aid"
+  ],
+  "description": "Het melkkoetje, satirische voorstelling over de politieke positie van de Nederlanden, wellicht naar een onbekende Engelse prent. De Nederlanden gesymboliseerd door een koe wordt bereden door Filips II, koning van Spanje. Elisabeth I, koningin van Engeland geeft de koe eten en drinken. Willem I, prins van Oranje, ligt onder de koe en drinkt uit de uier terwijl de hertog van Anjou de staart van de koe mag vasthouden en op zijn hand gescheten wordt. Op de achtergrond kijkt een groepje edelen toe.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "after print by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "after painting by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1913-07-01T00:00:00",
+    "creditLine": "R.T., Baron van Pallandt van Eerde Bequest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp",
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "c. 1633 - c. 1639",
+    "sortingDate": 1633,
+    "period": 17,
+    "yearEarly": 1633,
+    "yearLate": 1639
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44C312",
+      "47I2112",
+      "44B1511"
+    ],
+    "iconClassDescription": [
+      "political caricatures and satires",
+      "cow",
+      "queen, empress, etc. (wife of a ruler)"
+    ],
+    "motifs": [],
+    "events": [
+      "Tachtigjarige Oorlog"
+    ],
+    "periods": [
+      "15811585"
+    ],
+    "places": [
+      "Nederland"
+    ],
+    "people": [
+      "Elizabeth I Tudor (koningin van Engeland)",
+      "Filips II (koning van Spanje)",
+      "Willem I (prins van Oranje)",
+      "Valois, Fran\u00e7ois-Hercule de (hertog van Anjou)",
+      "Staten-Generaal",
+      "Republiek der Zeven Verenigde Nederlanden"
+    ],
+    "objectNumbers": [
+      "SK-A-2684"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Elizabeth I Tudor (koningin van Engeland)",
+    "Filips II (koning van Spanje)",
+    "Willem I (prins van Oranje)",
+    "Valois, Fran\u00e7ois-Hercule de (hertog van Anjou)",
+    "Staten-Generaal",
+    "Republiek der Zeven Verenigde Nederlanden"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "James Tanis, 'The Tale of a Cow', in: The Low Countries. Art and Society in Flanders and the Netherlands. A Yearbook. 1996-97, Rekkem (Ons Erfdeel) 1996, p. 152-162.",
+    "Documentatiemap Schilderijen."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "52"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "69.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Dairy Cow: The Dutch Provinces, Revolting against the Spanish King Philip II, Are Led by Prince William of Orange, The States General Entreat Queen Elizabeth I for Aid, anonymous, c. 1633 - c. 1639",
+  "subTitle": "h 52cm \u00d7 w 67cm",
+  "scLabelLine": "anonymous, c. 1633 - c. 1639, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

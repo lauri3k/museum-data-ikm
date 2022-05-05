@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-165",
+  "priref": "12059",
+  "objectNumber": "SK-C-165",
+  "language": "en",
+  "title": "Winter Landscape",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d5c439d1-4b07-4d7b-9210-a0eed09925e9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2876,
+    "height": 2384,
+    "url": "https://lh3.googleusercontent.com/67HGhe7NaCXbOfHbt7fWyMPb3az2Y-mqp8yfAHtUez1rqD1X0bAtLqE564W66BiF2IIspdqvxdKr5hOKW8x8Pt6ygYas=s0"
+  },
+  "colors": [
+    {
+      "percentage": 22,
+      "hex": "#BDC0B5"
+    },
+    {
+      "percentage": 9,
+      "hex": " #CBD2CE"
+    },
+    {
+      "percentage": 19,
+      "hex": " #655D47"
+    },
+    {
+      "percentage": 30,
+      "hex": " #A29C82"
+    },
+    {
+      "percentage": 7,
+      "hex": " #3B3528"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8A836A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BDC0B5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CBD2CE",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #655D47",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A29C82",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3B3528",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8A836A",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 22,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 19,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Winter landscape"
+  ],
+  "description": "Winterlandschap. Gezicht op een brede laan, met sneeuw bedekt, die langs een bos voert. Op de voorgrond drie jongens met sleden. Meer naar achteren staat een wagen getrokken door twee paarden op de weg voor een boerderij.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Barend Cornelis Koekkoek",
+      "unFixedName": "Koekkoek, Barend Cornelis",
+      "placeOfBirth": "Middelburg",
+      "dateOfBirth": "1803-10-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1862-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Kleef",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Barend Cornelis Koekkoek (11-okt-1803 - 05-apr-1862)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Barend Cornelis Koekkoek",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1835 - 1838",
+    "sortingDate": 1835,
+    "period": 19,
+    "yearEarly": 1835,
+    "yearLate": 1838
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "26D1",
+      "23F41",
+      "46C181",
+      "25I3"
+    ],
+    "iconClassDescription": [
+      "snow",
+      "winter landscape; landscape symbolizing winter (the four seasons of the year)",
+      "sleigh, sledge (non-sport)",
+      "farm or solitary house in landscape"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-165"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Barend Cornelis Koekkoek",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "75"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Winter Landscape, Barend Cornelis Koekkoek, 1835 - 1838",
+  "subTitle": "h 62cm \u00d7 w 75cm",
+  "scLabelLine": "Barend Cornelis Koekkoek (1803\u20131862), oil on canvas, 1835\u20131838",
+  "label": {
+    "title": "Winter Landscape",
+    "makerLine": "Barend Cornelis Koekkoek (1803\u20131862), oil on canvas, 1835\u20131838",
+    "description": "For this winter landscape, Koekkoek chose a hilly region in Gelderland or the German region of the Lower Rhine. Unlike his imposing forest views, this is a peaceful scene, with men pausing beside a sled laden with brushwood and vegetables. A panorama stretches out through the mist in the distance. The painting shows tranquil view of nature on a winter\u2019s day, a world blanketed in a layer of pristine snow.",
+    "notes": null,
+    "date": "2013-01-08"
+  },
+  "showImage": true,
+  "location": "HG-1.14"
+}

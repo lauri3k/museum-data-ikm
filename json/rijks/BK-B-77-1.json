@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-B-77-1",
+  "priref": "25129",
+  "objectNumber": "BK-B-77-1",
+  "language": "en",
+  "title": "Buste van dr. Nicolaas Beets (1814-1903), letterkundige",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "58b033b3-0864-4bc9-b6a9-a111fa96a044",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1874,
+    "height": 2570,
+    "url": "https://lh3.googleusercontent.com/5rvZ6y0ME_e8ulqyUBO0VWEepYXqL7MMwvy0gvfi2Ct9P1qwiBo4U-LPBSCR3pvhpX-3Djh0Sg2mnUSrQKqAnXR_cUjquYSLsKCCdqkI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Buste van dr. Nicolaas Beets (1814-1903), letterkundige"
+  ],
+  "description": "Buste van dr. Nicolaas Beets (1814-1903), letterkundige. Gemerkt: C. Beets 1894.",
+  "labelText": null,
+  "objectTypes": [
+    "bust"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Beets",
+      "unFixedName": "Beets, Cornelis",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Beets, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Beets",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1898-05-01T00:00:00",
+    "creditLine": "Gift of M. Crommelin, Utrecht"
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1894",
+    "sortingDate": 1894,
+    "period": 19,
+    "yearEarly": 1894,
+    "yearLate": 1894
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C93",
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "portrait of a writer",
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18301900"
+    ],
+    "places": [],
+    "people": [
+      "Beets, Nicolaas"
+    ],
+    "objectNumbers": [
+      "BK-B-77-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Beets, Nicolaas"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Jaarverslag Rijksmuseum (1898), p. 6."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Beets",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "56"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "36"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "marble (rock)",
+  "longTitle": "Buste van dr. Nicolaas Beets (1814-1903), letterkundige, Cornelis Beets, 1894",
+  "subTitle": "h 88cm \u00d7 w 56cm \u00d7 d 36cm \u00d7 w 175kg",
+  "scLabelLine": "Cornelis Beets, 1894, marble (rock)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

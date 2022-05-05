@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12400-79",
+  "priref": "14245",
+  "objectNumber": "BK-NM-12400-79",
+  "language": "en",
+  "title": "Inkstand with the coats of arms of Leiden, Delft and William III",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e80f5808-e6d2-49b4-bf75-e5bd55eec2fc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1960,
+    "url": "https://lh5.ggpht.com/-Px2MTX57-oolDtnf3FEKSKrqhgRGFdlPDRnGkv4CNlBC5LWrLe4XL6lZ5EdBz9xLdZMN29SAfWyJSEPFiycNw2LWcw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#C0C0BF"
+    },
+    {
+      "percentage": 19,
+      "hex": " #858A8F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #5B6270"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F9F9F8"
+    },
+    {
+      "percentage": 5,
+      "hex": " #343844"
+    },
+    {
+      "percentage": 0,
+      "hex": " #13120F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C0C0BF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #858A8F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5B6270",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F9F9F8",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #343844",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #13120F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 19,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 31,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Inktstel van fa\u00efence met de wapens van de stad Leiden, de stad Delft en Stadhouder Willem III en met het opschrift VIJVA ORANIE Gemonteerd in zilver.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1916-01-01T00:00:00",
+    "creditLine": "Gift of the heirs of J.F. Loudon, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1670 - c. 1680",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1680
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44A1"
+    ],
+    "iconClassDescription": [
+      "coat of arms (as symbol of the state, etc.)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Leiden",
+      "Delft"
+    ],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "BK-NM-12400-79"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "15"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "21.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Inkstand with the coats of arms of Leiden, Delft and William III, anonymous, c. 1670 - c. 1680",
+  "subTitle": "h c.15cm \u00d7 w c.21.5cm",
+  "scLabelLine": "Delft, c. 1670\u20131680, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Inkstand with the coats of arms of Leiden, Delft and William III",
+    "makerLine": "Delft, c. 1670\u20131680, tin-glazed earthenware (faience)",
+    "description": "This inkstand was made for the Orangist Jan Knotter, a bargeman who was granted the right to navigate between Leiden and Delft in 1675. The arms of Leiden and Delft held up by lions, and the water landscape on the back allude to the barge service, and the inscription and the arms of William III to Knotter\u2019s political loyalties.",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

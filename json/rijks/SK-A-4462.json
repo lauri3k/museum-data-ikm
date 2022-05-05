@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4462",
+  "priref": "10358",
+  "objectNumber": "SK-A-4462",
+  "language": "en",
+  "title": "Portrait of Ren\u00e9 de Chalon (c. 1519-1544), Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2efba101-2a6c-4cdf-9d7a-8931a1f1e96d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2696,
+    "height": 2628,
+    "url": "https://lh3.googleusercontent.com/CLsN26tH7Dv4-RK0tOzEpXCqCb688BKEnooGFVI1qRJ83Jvb_DYVKqhbVJLeDxxgNGBuu4QglGR5rrRezU5FoIcWyw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 64,
+      "hex": "#4C3629"
+    },
+    {
+      "percentage": 22,
+      "hex": " #0C0A07"
+    },
+    {
+      "percentage": 6,
+      "hex": " #845F3C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8E7766"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B9A391"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D6C7BD"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EDE4DF"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4C3629",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #0C0A07",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #845F3C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8E7766",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B9A391",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D6C7BD",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #EDE4DF",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 71,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 22,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAF0E6"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Ren\u00e9 de Chalon (c. 1519-1544), Prince of Orange"
+  ],
+  "description": "Portret van Ren\u00e9 de Chalon (ca. 1518-44), prins van Oranje. Buste en profil naar rechts. Pendant van SK-A-4027.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution anonymous, Low Countries"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan van Scorel",
+      "unFixedName": "Scorel, Jan van",
+      "placeOfBirth": "Schoorl",
+      "dateOfBirth": "1495-01-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1562-12-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly copy after",
+      "labelDesc": "possibly copy after Jan van Scorel (09-jan-1495 - 06-dec-1562)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan van Scorel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "after 1542",
+    "sortingDate": 1542,
+    "period": 16,
+    "yearEarly": 1542,
+    "yearLate": 1542
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+523)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ profile portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "15181544"
+    ],
+    "places": [],
+    "people": [
+      "Ren\u00e9 van Ch\u00e2lon (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-4462"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Ren\u00e9 van Ch\u00e2lon (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan van Scorel",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": "support",
+      "value": "15"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Ren\u00e9 de Chalon (c. 1519-1544), Prince of Orange, Jan van Scorel (possibly copy after), after 1542",
+  "subTitle": "d 15cm",
+  "scLabelLine": "Jan van Scorel, after 1542, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

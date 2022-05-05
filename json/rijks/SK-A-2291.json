@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2291",
+  "priref": "6531",
+  "objectNumber": "SK-A-2291",
+  "language": "en",
+  "title": "The Trekvliet Shipping Canal near Rijswijk, known as the \u2018View near the Geest Bridge\u2019",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dd15ee42-0449-42dc-9a6d-ed0595c41a1c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2878,
+    "height": 1758,
+    "url": "https://lh3.googleusercontent.com/C6sQ8m1R2K-kneZGnRibFwV8UbneWt9i1pRp8sedtNEDR8zwpQkGUpHlcP1ShmzP7Q-GWaJYxdAJKQStXjW02psg0tAA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The Trekvliet Shipping Canal near Rijswijk, known as the \u2018View near the Geest Bridge\u2019"
+  ],
+  "description": "Voorstelling getiteld 'Gezicht bij de Geestbrug'. Rivierlandschap met de Trekvliet bij Rijswijk met in de verte links kasteel De Binckhorst en rechts de Laakmolen. Op de weg naar de boerderij staat een vrouw met kinderen, op het water zeilen boten.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johan Hendrik Weissenbruch",
+      "unFixedName": "Weissenbruch, Johan Hendrik",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1824-06-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1903-03-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johan Hendrik Weissenbruch (19-jun-1824 - 24-mrt-1903)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johan Hendrik Weissenbruch",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1907-01-01T00:00:00",
+    "creditLine": "J.B.A.M. Westerwoudt Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1868",
+    "sortingDate": 1868,
+    "period": 19,
+    "yearEarly": 1868,
+    "yearLate": 1868
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H21",
+      "46C24",
+      "25I41",
+      "46C11",
+      "42B742"
+    ],
+    "iconClassDescription": [
+      "water course",
+      "sailing-ship, sailing-boat",
+      "windmill in landscape",
+      "road, path",
+      "mother and child(ren), woman and child(ren) (family group)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Geestbrug (Rijswijk)",
+      "Vliet, de",
+      "Kasteel Binckhorst",
+      "Laakmolen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2291"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johan Hendrik Weissenbruch",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "31"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Trekvliet Shipping Canal near Rijswijk, known as the \u2018View near the Geest Bridge\u2019, Johan Hendrik Weissenbruch, 1868",
+  "subTitle": "h 31cm \u00d7 w 50cm",
+  "scLabelLine": "Johan Hendrik Weissenbruch (1824\u20131903), oil on panel, 1868",
+  "label": {
+    "title": "The Trekvliet Shipping Canal near Rijswijk, known as the \u2018View near the Geest Bridge\u2019",
+    "makerLine": "Johan Hendrik Weissenbruch (1824\u20131903), oil on panel, 1868",
+    "description": "A tranquil landscape executed in bright colours: this early painting by Weissenbruch is still very Romantic in feel. Yet unlike the Romantic painters, Weissenbruch did not alter reality to suit his imagination, but gave a topographically accurate representation. The Trekvliet Canal linked The Hague with the neighbouring villages of Rijswijk and Voorburg. In the distance at left is the tower of De Binckhorst Castle, and the windmill called the Laakmolen at right.",
+    "notes": null,
+    "date": "2013-01-24"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

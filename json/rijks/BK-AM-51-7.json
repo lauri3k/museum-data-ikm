@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-AM-51-7",
+  "priref": "24582",
+  "objectNumber": "BK-AM-51-7",
+  "language": "en",
+  "title": "Atlas",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b8c9693d-aa15-42f8-a6ad-0318d5809111",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2250,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/_I13FZNJoD0IukySpzodme_mG8Cga4GHrRO1-xFb2u_hE-fEbizJSQoE2eKDD6mvUlYn31YAe9ESIefrS5FPP4tQYg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#AEA090"
+    },
+    {
+      "percentage": 5,
+      "hex": " #7A7066"
+    },
+    {
+      "percentage": 81,
+      "hex": " #CFC8BD"
+    },
+    {
+      "percentage": 0,
+      "hex": " #36291E"
+    },
+    {
+      "percentage": 6,
+      "hex": " #5E4A3A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #19120C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#AEA090",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7A7066",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CFC8BD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #36291E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5E4A3A",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #19120C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 81,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 81,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Atlas, Model for a Statue on the West Facade of the Amsterdam Town Hall (now Royal Palace) at Dam Square"
+  ],
+  "description": "Schets van een mannenfiguur, staande met gespreide armen (die grotendeels verloren gingen) op het linkerbeen en met het rechter gebogen; het gebaarde hoofd, dat met een krans van bladeren is omgeven, rust op de borst. Hij draagt een in elkaar gedraaide, naar links afzakkende lendendoek, welke naar achteren tot op de grond afhangt.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Artus Quellinus (I)",
+      "unFixedName": "Quellinus, Artus (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1609",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1668-08-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Artus Quellinus (I) (1609 - 23-aug-1668), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Artus Quellinus (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1650 - 1651",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1651
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "91B13661"
+    ],
+    "iconClassDescription": [
+      "Atlas supporting the heavens on his shoulders"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Stadhuis van Amsterdam (1655-1808)"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-AM-51-7"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Artus Quellinus (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "78"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta",
+  "longTitle": "Atlas, Artus Quellinus (I), 1650 - 1651",
+  "subTitle": "h 78cm",
+  "scLabelLine": "Artus Quellinus i (1609\u20131668), Amsterdam, ca. 1656, terracotta",
+  "label": {
+    "title": "Atlas",
+    "makerLine": "Artus Quellinus i (1609\u20131668), Amsterdam, ca. 1656, terracotta",
+    "description": "Both fa\u00e7ades of the Town Hall are surmounted by three bronze statues. On the rear elevation, Atlas shoulders a celestial globe \u2013 of which this is the scale model (without the globe) \u2013 with Temperance and Vigilance at his side. On the front elevation, Peace is flanked by the virtues Wisdom and Justice. The message expressed here is that universal peace, on earth and in heaven, depends on these four virtues.",
+    "notes": null,
+    "date": "2019-11-29"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

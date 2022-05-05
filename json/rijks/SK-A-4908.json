@@ -1,0 +1,297 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4908",
+  "priref": "309349",
+  "objectNumber": "SK-A-4908",
+  "language": "en",
+  "title": "Memorial Portrait of Moses ter Borch",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "788674bf-c40f-4995-a00b-e91d95f39c3d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1953,
+    "height": 2634,
+    "url": "https://lh3.googleusercontent.com/A0wu9TDHIZlEnMyxoFn410lv2GWHcFMJvATad2_MyRvp1VTdq38WWrdIfJer460UNGYBVuzpsD2d-loqGnF_lGI94KQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 34,
+      "hex": "#7C5C3E"
+    },
+    {
+      "percentage": 30,
+      "hex": " #413D2E"
+    },
+    {
+      "percentage": 17,
+      "hex": " #211C13"
+    },
+    {
+      "percentage": 13,
+      "hex": " #9A8A59"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BEAA6E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A1A18E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CAC8B0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#7C5C3E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #413D2E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #211C13",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #9A8A59",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BEAA6E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A1A18E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CAC8B0",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 34,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 30,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 30,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 17,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Memorial Portrait of Moses ter Borch (1645-1667)"
+  ],
+  "description": "Portret ten voeten uit. Moses ter Borch is gekleed in zijn militair tenue. Hij staat, leunend op een wandelstok voor een gedeeltelijk begroeide rots. Links is iets van de achtergrond te zien. Om hem heen zijn diverse dieren en gebruiksvoorwerpen afgebeeld die naar zijn militaire carri\u00e8re verwijzen of trouw en vergankelijkheid symboliseren (honden, schedel, wapenrusting, horloge, slang etc.).",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerard ter Borch (II)",
+      "unFixedName": "Borch, Gerard ter (II)",
+      "placeOfBirth": "Zwolle",
+      "dateOfBirth": "1617-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1681-12-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Deventer",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gerard ter Borch (II) (dec-1617 - 08-dec-1681)"
+    },
+    {
+      "name": "Gesina ter Borch",
+      "unFixedName": "Borch, Gesina ter",
+      "placeOfBirth": "Zwolle",
+      "dateOfBirth": "1633-11-15",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1690-04-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Deventer",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gesina ter Borch (c. 15-nov-1633 - 16-apr-1690)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard ter Borch (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1995-01-12T00:00:00",
+    "creditLine": "Purchased with the support of the Rijksmuseum-Stichting"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1667 - 1669",
+    "sortingDate": 1667,
+    "period": 17,
+    "yearEarly": 1667,
+    "yearLate": 1669
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+55)",
+      "23U22",
+      "34B11",
+      "31F11",
+      "45C221",
+      "25F711(BUTTERFLY)",
+      "25F72(SNAIL)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ full length portrait)",
+      "hourglass",
+      "dog",
+      "death's head, skull (symbol of Death)",
+      "helmet",
+      "insects: butterfly",
+      "molluscs: snail"
+    ],
+    "motifs": [],
+    "events": [
+      "Tocht naar Chatham"
+    ],
+    "periods": [
+      "16671667"
+    ],
+    "places": [
+      "Harwich"
+    ],
+    "people": [
+      "Borch, Moses ter"
+    ],
+    "objectNumbers": [
+      "SK-A-4908"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Borch, Moses ter"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Kunstschrift, 2005, nr. 3 [gewijd aan Ter Borch]",
+    "The Burlington Magazine (nov. 1996), p. 779 + afb.",
+    "J. Verbeek, 'Tekeningen van de familie Terborch', Antiek (1966) nr. 2, p. 37, 39 + afb.",
+    "S.J. Gudlaugsson, 'Einige Ausnahmef\u00e4lle in der Bildnisgestaltung Ter Borches', Festschrift Friedrich Winckler (1959), p. 309, ill. 5.",
+    "Hofstede de Groot, vol. 5, p. 92, nr. 276 [als mogelijk Willem III].",
+    "Catalogue NY Historical Society 1915, p. 79, nr. B-182.",
+    "Mogelijk M.E. Houck, Mededelingen...ter Borch, Verslagen...Overijsselsch Regt en Geschiedenis 1899, p. 156.",
+    "E.W. Moes, 'Gerard ter Borch en zijn familie', Oud Holland (1886), p. 156 (ill.), p. 162-164.",
+    "A.A. Turner, Lights and Shadows of New York Picture Galleries. Forty photographs, New York 1864, p. XVI [William of Orange. G. Terburg. In the Gallery of Thomas J. Bryan, Esq. (Frick coll number: O31//Y87)].",
+    "Catalogue of the Bryan Gallery of Christian Art, New York 1853, p. 11, nr. 147 [als portret van Willem III].",
+    "Bryan Companion Catalogue 1853, p. 88, nr. 147.",
+    "Documentatiemap Schilderijen: correspondentie over de aankoop."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard ter Borch (II), Gesina ter Borch",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "76.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "56.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Memorial Portrait of Moses ter Borch, Gerard ter Borch (II), Gesina ter Borch, 1667 - 1669",
+  "subTitle": "h 76.2cm \u00d7 w 56.5cm",
+  "scLabelLine": "Gerard ter Borch (1617\u20131681) and Gesina ter Borch (1633\u20131690), oil on canvas, 1667\u20131669",
+  "label": {
+    "title": "Memorial Portrait of Moses ter Borch",
+    "makerLine": "Gerard ter Borch (1617\u20131681) and Gesina ter Borch (1633\u20131690), oil on canvas, 1667\u20131669",
+    "description": "The two painters produced this portrait to commemorate their youngest brother, Moses, who was born in 1645. Moses died in 1667 during the storming of Fort Languard near Felixstowe in England. He had served in the Dutch navy against the English since 1664. In the painting Moses is surrounded by symbols that allude to his military life: time (the pocket watch), death (the skull), eternity (the ivy on the rocks) and loyalty (the dogs).",
+    "notes": "Multimediatour",
+    "date": "2018-02-28"
+  },
+  "showImage": true,
+  "location": "HG-2.30.5"
+}

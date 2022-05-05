@@ -1,0 +1,272 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3903",
+  "priref": "8889",
+  "objectNumber": "SK-A-3903",
+  "language": "en",
+  "title": "Saint Jerome in his Study by Candlelight",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d9e4972b-3b5e-4e1a-b918-4f994b5c1d81",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2046,
+    "height": 2604,
+    "url": "https://lh3.googleusercontent.com/iOsuCdVS20cPnaK0-fAiQVJi4bGdfqhJsIZNryxwStWk_45h6sTFcfEEoLWLA-qWjmczNwNte1oJcI_UyVEtMs7q8nJF=s0"
+  },
+  "colors": [
+    {
+      "percentage": 53,
+      "hex": "#1F1910"
+    },
+    {
+      "percentage": 24,
+      "hex": " #432F16"
+    },
+    {
+      "percentage": 10,
+      "hex": " #6A3317"
+    },
+    {
+      "percentage": 5,
+      "hex": " #5D4A25"
+    },
+    {
+      "percentage": 3,
+      "hex": " #837446"
+    },
+    {
+      "percentage": 2,
+      "hex": " #735E34"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A49562"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1F1910",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #432F16",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6A3317",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #5D4A25",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #837446",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #735E34",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A49562",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 53,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 40,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 78,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Saint Jerome in his Study by Candlelight"
+  ],
+  "description": "De heilige Hieronymus in zijn studeervertrek bij kaarslicht. De geleerde is in gepeins verzonken, starend naar een schedel in de linkerhand. Aan de muur hangt een kardinaalshoed en een rozenkrans, links een spiegel, boven een plankje met een zandloper. Op de tafel voor hem ligt een opengeslagen boek en een inktstel.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Jan Cornelisz Vermeyen",
+      "unFixedName": "Vermeyen, Jan Cornelisz",
+      "placeOfBirth": "Beverwijk",
+      "dateOfBirth": "1500",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1559",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Jan Cornelisz Vermeyen (c. 1500 - c. 1559)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Aertgen Claesz van Leyden",
+      "unFixedName": "Claesz van Leyden, Aertgen",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1498",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1564",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Leiden"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Aertgen Claesz van Leyden (c. 1498 - c. 1564), Leiden"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aertgen Claesz van Leyden",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1956-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Leiden"
+  ],
+  "dating": {
+    "presentingDate": "c. 1520 - c. 1530",
+    "sortingDate": 1520,
+    "period": 16,
+    "yearEarly": 1520,
+    "yearLate": 1530
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JEROME)12"
+    ],
+    "iconClassDescription": [
+      "St. Jerome as Doctor of the Latin Church in his study with book, pen and ink; lion and cardinal's hat beside him"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3903"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "J. Bruyn en O. Millar, 'Notes on the Royal Collection. 3: The 'Dutch Gift' to Charles I', The Burlington Magazine 104 (1962).",
+    "J. Bruyn, 'Twee St. Antonius-panelen en andere werken van Aertgen van Leyden', Nederlands Kunsthistorisch jaarboek 11 (1960), 79, 93."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Aertgen Claesz van Leyden",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "48"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "37.7"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "47.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "37.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Saint Jerome in his Study by Candlelight, Aertgen Claesz van Leyden (attributed to), c. 1520 - c. 1530",
+  "subTitle": "h 48cm \u00d7 w 37.7cm",
+  "scLabelLine": "Aertgen Claesz van Leyden, c. 1520 - c. 1530, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2507",
+  "priref": "7816",
+  "objectNumber": "SK-A-2507",
+  "language": "en",
+  "title": "The Last Supper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "28440653-de00-41fc-bd0f-384a77bebe92",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1731,
+    "url": "https://lh3.googleusercontent.com/yUSmPMDyqxiIR9Fn_7l2dhzz4DJgLLFjdF4JlIRGg0Xb4t9XhkJmYlc50poWoh1LKn9Ewm9xvVgTgLR95TrC-ftijw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The Last Supper"
+  ],
+  "description": "Het laatste avondmaal. Christus met zijn discipelen gezeten rond een tafel in een vertrek verlicht met kaarsen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerbrand van den Eeckhout",
+      "unFixedName": "Eeckhout, Gerbrand van den",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1621-08-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1674-09-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gerbrand van den Eeckhout (19-aug-1621 - 29-sep-1674)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerbrand van den Eeckhout",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1910-09-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1664",
+    "sortingDate": 1664,
+    "period": 17,
+    "yearEarly": 1664,
+    "yearLate": 1664
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D24"
+    ],
+    "iconClassDescription": [
+      "Last Supper (in general) (Matthew 26:21-35; Mark 14:18-31; Luke 22:3, 22:15-23; John 13:21-38)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2507"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerbrand van den Eeckhout",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "142"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Last Supper, Gerbrand van den Eeckhout, 1664",
+  "subTitle": "h c.100cm \u00d7 w c.142cm \u00d7 d 7.5cm",
+  "scLabelLine": "Gerbrand van den Eeckhout, 1664, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

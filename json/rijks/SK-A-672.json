@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-672",
+  "priref": "9083",
+  "objectNumber": "SK-A-672",
+  "language": "en",
+  "title": "Old Woman Meditating",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7a9f3957-3927-48dd-b88e-fed2c5cf3376",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2128,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/04kew09ndL0YYZHYymG2Kqe0wRgTEhthmdAQo8JcKmmotP-OIvMONq-0B2buDQ4ql8UIcyK5pG4aTmUyg660ugHk4g=s0"
+  },
+  "colors": [
+    {
+      "percentage": 58,
+      "hex": "#110F0C"
+    },
+    {
+      "percentage": 35,
+      "hex": " #3B2F23"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A99B7F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #94876F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #7E6F58"
+    },
+    {
+      "percentage": 1,
+      "hex": " #5E4E3A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C1BEAE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#110F0C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3B2F23",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A99B7F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #94876F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7E6F58",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5E4E3A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C1BEAE",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 38,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 94,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Old Woman Meditating"
+  ],
+  "description": "Een oude vrouw leest zittend in een stoel uit een boek. Zij gebruikt een bril in haar rechterhand om de tekst te kunnen lezen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gabri\u00ebl Metsu",
+      "unFixedName": "Metsu, Gabri\u00ebl",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1629-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1667-10-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gabri\u00ebl Metsu (jan-1629 - 24-okt-1667)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gabri\u00ebl Metsu",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1880-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1661 - c. 1663",
+    "sortingDate": 1661,
+    "period": 17,
+    "yearEarly": 1661,
+    "yearLate": 1663
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D17",
+      "49N",
+      "31A311",
+      "49MM32"
+    ],
+    "iconClassDescription": [
+      "old woman",
+      "lezen",
+      "eyeglasses, spectacles",
+      "book - MM - book open"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-672"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gabri\u00ebl Metsu",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "27.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "23.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Old Woman Meditating, Gabri\u00ebl Metsu, c. 1661 - c. 1663",
+  "subTitle": "h 27.3cm \u00d7 w 23.2cm",
+  "scLabelLine": "Gabriel Metsu (1629\u20131667), oil on panel, c. 1661\u20131663",
+  "label": {
+    "title": "Old Woman Meditating",
+    "makerLine": "Gabriel Metsu (1629\u20131667), oil on panel, c. 1661\u20131663",
+    "description": "This old woman is seated with a book in her lap. She has just removed her pince-nez. Is she pausing for a moment or has she dozed off? The book in the woman\u2019s hands and her wrinkled skin stand out in this small and otherwise dark painting. Metsu did this to underscore the essence of this popular subject \u2013 the contemplation of devotional texts, with a focus on the transitoriness of life.",
+    "notes": null,
+    "date": "2013-03-15"
+  },
+  "showImage": true,
+  "location": null
+}

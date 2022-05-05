@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2099",
+  "priref": "8161",
+  "objectNumber": "SK-A-2099",
+  "language": "en",
+  "title": "Still Life with Asparagus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d0c3b966-dc1d-4845-bafd-feafcc2a081d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2072,
+    "height": 2564,
+    "url": "https://lh3.googleusercontent.com/qEnlrp5MyHgLIVvrQR3HYtMBhQaLsxCmhBB15DCxX07l_rAvKqjKAXgCkgigYYxA2hGls9riG6Xfn_K_V5_GMfd_0bE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 57,
+      "hex": "#110E07"
+    },
+    {
+      "percentage": 25,
+      "hex": " #3F3120"
+    },
+    {
+      "percentage": 4,
+      "hex": " #84755B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A49C7F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #6A5638"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BDB89E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D8D5BD"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#110E07",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3F3120",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #84755B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A49C7F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6A5638",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #BDB89E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D8D5BD",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 82,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Still Life with Asparagus"
+  ],
+  "description": "Stilleven met een bosje asperges.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen Coorte",
+      "unFixedName": "Coorte, Adriaen",
+      "placeOfBirth": null,
+      "dateOfBirth": "1665",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1710",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adriaen Coorte (c. 1665 - c. 1710)"
+    }
+  ],
+  "plaqueDescriptionDutch": "Coorte vervaardigde vooral kleine stilleventjes met een intiem karakter. Door hun eenvoudige onderwerpen - asperges of besjes \u2013 staken zijn schilderijtjes scherp af tegen de grote pronkstillevens die in de mode waren. Daarop ging het juist om de overdaad aan kostbare spullen en etenswaren, terwijl hier de aandacht uitgaat naar de verfijnde weergave van een enkele groente.",
+  "plaqueDescriptionEnglish": "Most of Coorte\u2019s paintings are small, intimate still lifes. With their simple subjects - asparagus, or berries - his paintings contrast starkly with the magnificent, extravagant still lifes then in vogue. Those pictures are all about the profusion of valuable objects and foods, while here the emphasis is on the meticulous rendering of a single vegetable.",
+  "principalMaker": "Adriaen Coorte",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1903-01-01T00:00:00",
+    "creditLine": "A.A. des Tombe Bequest, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1697",
+    "sortingDate": 1697,
+    "period": 17,
+    "yearEarly": 1697,
+    "yearLate": 1697
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G22(ASPARAGUS)",
+      "41C6"
+    ],
+    "iconClassDescription": [
+      "(non-fruit) products of plants or trees: asparagus",
+      "foodstuffs; still life of foodstuffs"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2099"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "'Galerij stillevens', Oog 3 (2009) nr. 2, p. 26-37, afb. p. 27."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen Coorte",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "25"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "20.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Still Life with Asparagus, Adriaen Coorte, 1697",
+  "subTitle": "h 25cm \u00d7 w 20.5cm",
+  "scLabelLine": "Adriaen Coorte (active c. 1683\u20131707), oil on paper, laid down on panel, 1697",
+  "label": {
+    "title": "Still Life with Asparagus",
+    "makerLine": "Adriaen Coorte (active c. 1683\u20131707), oil on paper, laid down on panel, 1697",
+    "description": "Coorte produced mostly small, intimate still lifes. Through their simple subjects \u2013 asparagus or berries \u2013 these modest paintings stand out in stark contrast to the sumptuous still lifes that were in fashion at the time. While the aim of those works was to present a superabundance of costly objects and foodstuffs, here attention is focused on the refined rendering of a single vegetable.",
+    "notes": "text based on label 2018-02-18",
+    "date": "2020-01-20"
+  },
+  "showImage": true,
+  "location": "HG-2.24"
+}

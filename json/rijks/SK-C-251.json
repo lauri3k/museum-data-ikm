@@ -1,0 +1,268 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-251",
+  "priref": "6420",
+  "objectNumber": "SK-C-251",
+  "language": "en",
+  "title": "Woman Reading a Letter",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4d2a72e4-eb25-461c-86ae-889bc3c0699c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 28,
+    "width": 2094,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/cgJpNZ47yAU-Ttf6SF4vdBBxAiiZW_w_-DsA1Xchet3eDJN-8EyoA24xgNR9Wl1fTLwGAhENkTkMZu1qULcXOQdgF2K1qDbdWSwic1POVg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#565435"
+    },
+    {
+      "percentage": 15,
+      "hex": " #D0D2C8"
+    },
+    {
+      "percentage": 5,
+      "hex": " #989E9B"
+    },
+    {
+      "percentage": 17,
+      "hex": " #747868"
+    },
+    {
+      "percentage": 27,
+      "hex": " #333F4F"
+    },
+    {
+      "percentage": 26,
+      "hex": " #0F1219"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#565435",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #D0D2C8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #989E9B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #747868",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #333F4F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #0F1219",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#483D8B"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 15,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 35,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 22,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 15,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Woman in Blue Reading a Letter",
+    "Woman Reading a Letter"
+  ],
+  "description": "Brieflezende vrouw. Een jonge vrouw, staande bij een tafel met stoelen, leest een brief. Achter haar hangt aan de muur een landkaart op rollen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Vermeer",
+      "unFixedName": "Vermeer, Johannes",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1632-10-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1675-12-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johannes Vermeer (31-okt-1632 - 15-dec-1675)"
+    }
+  ],
+  "plaqueDescriptionDutch": "Een stil priv\u00e9moment \u2013 een jonge vrouw staat aandachtig een brief te lezen. Het is ochtend als we haar gadeslaan, ze is nog in haar blauwe nachtjakje. Alle andere kleuren zijn ondergeschikt aan dit stralende lapis-lazuliblauw, geel of rood komen nauwelijks op het schilderij voor. Vermeer registreerde exact de uiteenlopende effecten van het koele licht. Zo durfde hij het als eerste aan om huidskleur zachtgrijs, en de schaduwen op de muur in het lichtblauw te schilderen.",
+  "plaqueDescriptionEnglish": "In a quiet, private moment, a young woman stands, engrossed in reading a letter. It is morning, and she is still wearing her blue nightrobe. All the other colours are subordinate to its radiant lapis lazuli; yellow and red hardly make an appearance. Vermeer rendered the different effects of the cool light precisely. For example, he was the first artist to try soft grey for flesh, and to paint the shadows on the wall light blue.",
+  "principalMaker": "Johannes Vermeer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1663",
+    "sortingDate": 1663,
+    "period": 17,
+    "yearEarly": 1663,
+    "yearLate": 1663
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46E221",
+      "49N",
+      "25A",
+      "41A721"
+    ],
+    "iconClassDescription": [
+      "letter, envelope",
+      "lezen",
+      "kaarten, atlassen",
+      "chair"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-251"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Liza Burmeister Kaaring, 'Tracking the Language of Stillness', SMK Artjournal : Statens  Museum for Kunst (2007), p. 108-115, p. 112, afb. 6.",
+    "Karin Leonhard, 'Vermeer's Pregnant Women : On Human Generation an Pictorial Representation', Art History 25 (2002) nr. 3, p. 293-318.",
+    "M.A. Castor, 'Augenblick und Zeitfluss : Bemerkungen zu einigen Konstanten in der Malerei Jan Vermeers', Pantheon 54 (1996), p. 91.",
+    "R. Roos, 'Johannes Vermeer', Vernisage (1996) mrt., p. 12.",
+    "K. Zandvliet, 'In plaets van schilderijen', Vitrine (1996) mrt./apr., p. 16-17.",
+    "'Vermeer', bijlage Vrij Nederland, 24 februari 1996, nr. 8.",
+    "James A. Welu, 'Vermeer : his cartographic sources', The Art Bulletin 57 (1975), p. 532-533, 541, afb. 3.",
+    "K. Clark, Connaissance des Arts (1974), p. 78.",
+    "Daniel A. Fink, 'Vermeer's Use of the Camera Obscura : A Comparative Study', The Art Bulletin 53 (1971), p. 493-505.",
+    "A.B. de Vries, Openbaar Kunstbezit 9 (1965), nr. 39.",
+    "H. van Gelder, 'Haagsche Kunstverzamelingen voor 1900', Die Haghe (1942), p. 26, afb. 9.",
+    "W. Thor\u00e9-B\u00fcrger, Gazette des Beaux-Arts (1866)"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Vermeer",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "46.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "39"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Woman Reading a Letter, Johannes Vermeer, c. 1663",
+  "subTitle": "h 46.5cm \u00d7 w 39cm \u00d7 d 6.5cm",
+  "scLabelLine": "Johannes Vermeer (1632\u20131675), oil on canvas, c. 1663",
+  "label": {
+    "title": "Woman Reading a Letter",
+    "makerLine": "Johannes Vermeer (1632\u20131675), oil on canvas, c. 1663",
+    "description": "Enjoying a quiet, private moment, this young woman is absorbed in reading a letter in the morning light. She is still wearing her blue night jacket. All of the colours in the composition are secondary to its radiant lapis lazuli blue. Vermeer recorded the effects of light with extraordinary precision. Particularly innovative is his rendering of the woman\u2019s skin with pale grey, and the shadows on the wall using light blue.",
+    "notes": "Multimediatour",
+    "date": "2018-02-27"
+  },
+  "showImage": true,
+  "location": "HG-2.30.3"
+}

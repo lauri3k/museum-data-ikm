@@ -1,0 +1,265 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-1281",
+  "priref": "33231",
+  "objectNumber": "RP-P-OB-1281",
+  "language": "en",
+  "title": "Portret van Erasmus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a9f82ecb-a247-4617-988c-4688ccdf4fa4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 7,
+    "width": 2324,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/oNtFsxolBv6Fr4nQZoMA62akyW-U0H_oR5Kc0jXvKu-fVzGa2PGIQ43bBt5XBPZtpju97xw_dO-Zq5ibqbO-1NU-KXM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#C5C5C2"
+    },
+    {
+      "percentage": 23,
+      "hex": " #8B8C83"
+    },
+    {
+      "percentage": 16,
+      "hex": " #45473F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #676960"
+    },
+    {
+      "percentage": 13,
+      "hex": " #AFB0A8"
+    },
+    {
+      "percentage": 2,
+      "hex": " #212622"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DBDDDB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C5C5C2",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8B8C83",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #45473F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #676960",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AFB0A8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #212622",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DBDDDB",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 28,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 23,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 38,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 16,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Portret van Erasmus",
+    "Imago Erasmi Roterodami ab Alberto Durero ad vivam effigiem deliniata"
+  ],
+  "description": "Portret van Erasmus, schrijvend, staande aan een lezenaar bij een tafel waarop een vaas met bloemen staat. Achter de tafel een tablet aan de wand met Latijnse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Albrecht D\u00fcrer",
+      "unFixedName": "D\u00fcrer, Albrecht",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1471-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1528-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albrecht D\u00fcrer (24-mei-1471 - 05-apr-1528)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albrecht D\u00fcrer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": null,
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1526",
+    "sortingDate": 1526,
+    "period": 16,
+    "yearEarly": 1526,
+    "yearLate": 1526
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "49L11",
+      "49C(+3)",
+      "49L62",
+      "49L63",
+      "49L65",
+      "49M32",
+      "41A6711"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "handwriting, writing as activity",
+      "aspects of science in general (+ portrait of scholar, scientist)",
+      "ink-well",
+      "pen-knife",
+      "seal, stamp",
+      "book",
+      "flowers in a vase"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Erasmus, Desiderius"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-1281"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Erasmus, Desiderius"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 107",
+    "107",
+    "Meder 105",
+    "105"
+  ],
+  "principalOrFirstMaker": "Albrecht D\u00fcrer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "193"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Erasmus, Albrecht D\u00fcrer, 1526",
+  "subTitle": "h 249mm \u00d7 w 193mm",
+  "scLabelLine": "Albrecht D\u00fcrer, 1526, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

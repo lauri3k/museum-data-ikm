@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-224",
+  "priref": "955",
+  "objectNumber": "AK-MAK-224",
+  "language": "en",
+  "title": "Sleeping Vishnu",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1132b676-85e5-4f0a-a253-b5b0ad46631f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1823,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/3nSULWCJhngmQdV71Q9esXL9H12PIK9_YoWj4Sw469MxCtsXj2e1oKjy6J1DtdlZ170meha_cgWX-NbgTG2ER8m1ksoc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 17,
+      "hex": "#6C6356"
+    },
+    {
+      "percentage": 42,
+      "hex": " #EAEAEA"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B3ADA3"
+    },
+    {
+      "percentage": 19,
+      "hex": " #938C81"
+    },
+    {
+      "percentage": 5,
+      "hex": " #3A3631"
+    },
+    {
+      "percentage": 11,
+      "hex": " #CAC9C9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#6C6356",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EAEAEA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #B3ADA3",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #938C81",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3A3631",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #CAC9C9",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 36,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Head of Vishnu Reclining"
+  ],
+  "description": "Fragment (hoofd) van een slapende Visjnoe; het hoofd staat een beetje schuin op de hals.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase C.J.P. Baronesse van der Feltz-Lotsy, 1951)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "sandstone"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1100 - c. 1300",
+    "sortingDate": 1100,
+    "period": 11,
+    "yearEarly": 1100,
+    "yearLate": 1300
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H13(VISHNU)"
+    ],
+    "iconClassDescription": [
+      "Vishnu, protector and preserver of the world"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-224"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jan Fontein, 'De vroege jaren van de vereniging: lezing nieuwjaarsbijeenkomst 2005', Aziatische Kunst 35/2 (2005), pp. 2-20."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "32.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "20.2"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "19.4"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "14.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "sandstone",
+  "longTitle": "Sleeping Vishnu, anonymous, c. 1100 - c. 1300",
+  "subTitle": "h c.32.8cm \u00d7 w c.20.2cm \u00d7 d 19.4cm \u00d7 w 14.5kg",
+  "scLabelLine": "Cambodia, 11th\u201313th century, sandstone",
+  "label": {
+    "title": "Sleeping Vishnu",
+    "makerLine": "Cambodia, 11th\u201313th century, sandstone",
+    "description": "This head originally formed part of a complete figure of Vishnu. The Hindu god would have been represented reclining on his side, resting his head on his hand. The damage behind his right ear marks the place where the hand would have been. According to Hindu belief, creation is cyclical. Before each new creation cycle, Vishnu sleeps and dreams of the coming regeneration.",
+    "notes": null,
+    "date": "2018-09-07"
+  },
+  "showImage": true,
+  "location": "AK-1"
+}

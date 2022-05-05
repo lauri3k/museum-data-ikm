@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2525",
+  "priref": "9008",
+  "objectNumber": "SK-A-2525",
+  "language": "en",
+  "title": "Eenden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dc93772d-0ac5-44b1-b4f4-c54f450a4ea3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2884,
+    "height": 2388,
+    "url": "https://lh3.googleusercontent.com/inIJ6TyL4uYlpwOqHFGCCJ311jiFAnNQRMuitYedAVZvnFlAsjdKtIfAkhIQyZw-3ArH-oNdOQnxOQTKJEu2SuX_O-2f=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#1E2016"
+    },
+    {
+      "percentage": 46,
+      "hex": " #333822"
+    },
+    {
+      "percentage": 41,
+      "hex": " #5B5932"
+    },
+    {
+      "percentage": 1,
+      "hex": " #817A5B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #9C9270"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BAAD84"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1E2016",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #333822",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #5B5932",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #817A5B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9C9270",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BAAD84",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 88,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 46,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 41,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Eenden"
+  ],
+  "description": "Twee eenden en enkele kuikens in het gras nabij de waterkant.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Maris",
+      "unFixedName": "Maris, Willem",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1844-02-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1910-10-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Maris (18-feb-1844 - 10-okt-1910)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Maris",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1910-01-01T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Drucker-Fraser, Montreux"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1880 - c. 1904",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1904
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F36(DUCK)"
+    ],
+    "iconClassDescription": [
+      "water-birds: duck"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2525"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Maris",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "93"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "14.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Eenden, Willem Maris, c. 1880 - c. 1904",
+  "subTitle": "h 93cm \u00d7 w 113cm \u00d7 d 14.5cm",
+  "scLabelLine": "Willem Maris, c. 1880 - c. 1904, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

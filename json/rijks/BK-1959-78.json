@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1959-78",
+  "priref": "24897",
+  "objectNumber": "BK-1959-78",
+  "language": "en",
+  "title": "Bust of William IV",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "728aa115-119e-4d81-b915-2c7070ec1fb3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 14,
+    "width": 1886,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/mzQ0LbOxCtDV-KAtIsyVI-8cooUpPeCkKlyZrmEE8RaUNBtwSDmCVQbA0Uk1KDe1VBha7cnlrk5aIC7NYLwEJCR0ho4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#F2EBD6"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DDD3B4"
+    },
+    {
+      "percentage": 8,
+      "hex": " #BCB292"
+    },
+    {
+      "percentage": 10,
+      "hex": " #948B71"
+    },
+    {
+      "percentage": 40,
+      "hex": " #262116"
+    },
+    {
+      "percentage": 37,
+      "hex": " #7B6F51"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2EBD6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DDD3B4",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BCB292",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #948B71",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #262116",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7B6F51",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 37,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 40,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "De prins heeft het hoofd driekwart naar rechts, draagt een pruik, waarvan de krullen voor een deel tot op de rug neerhangen en bij de nek zijn samengebonden door een strik. Over een dun, fijngeplooid hemd met jabot, waarvan slechts de gelobde bovenrand van de binnenvoering zichtbaar is, een kuras. Van de linkerschouder hangt schuin de met hermelijn gevoerde mantel, waaronder het lint van de Orde van de Kouseband ten dele schuil gaat. het bijbehorende versiersel met HONI [SOIT QUI MAL Y PENSE] is gedeeltelijk zichtbaar op de mantel, die van voren door een kleinood wordt gesloten en aan weerszijden van het voetstuk afhangt. Het beeld eindigt boven de ellebogen en gaat bij het middel over in een geprofileerd voetstuk.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture",
+    "bust"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Baptist Xavery",
+      "unFixedName": "Xavery, Jan Baptist",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1697-03-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1742-07-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Baptist Xavery (30-mrt-1697 - 19-jul-1742)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Baptist Xavery",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1733",
+    "sortingDate": 1733,
+    "period": 18,
+    "yearEarly": 1733,
+    "yearLate": 1733
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A1241",
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "knighthood order",
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17111751"
+    ],
+    "places": [],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "BK-1959-78"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "L.J. van der Klooster, 'Jan Baptist Xavery (1697-1742), Documentatie over enkele van zijn werken', Nederlands Kunsthistorisch Jaarboek 21 (1970), p. 123.",
+    "H.R. Hoetink, \"Prins Willen IV\", Openbaar Kunstbezit (1962) p. 22a-b.",
+    "Jaarverslag Rijksmuseum (1959), p. 19.",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Baptist Xavery",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "74"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta (clay material)",
+  "longTitle": "Bust of William IV, Jan Baptist Xavery, 1733",
+  "subTitle": "h 74cm",
+  "scLabelLine": "Jan Baptist Xavery (1697-1742), terracotta, 1733",
+  "label": {
+    "title": "Bust of William IV",
+    "makerLine": "Jan Baptist Xavery (1697-1742), terracotta, 1733",
+    "description": "This is a preparatory modello for a marble bust that Xavery made of the 22-year-old Prince William IV. Three years later, it was followed by a bust of Princess Anne of England, whom William IV married in 1734. Both marble busts were placed in the Oranjezaal (Orange Hall) at Huis ten Bosch, the royal couple\u2019s residence near The Hague.",
+    "notes": "Multimediatour",
+    "date": "2018-02-28"
+  },
+  "showImage": true,
+  "location": "HG-1.2"
+}

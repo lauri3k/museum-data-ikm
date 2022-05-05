@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2249",
+  "priref": "7685",
+  "objectNumber": "SK-A-2249",
+  "language": "en",
+  "title": "Portrait of Machteld Muilman",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6c3bab64-3f57-4d5a-92af-0872847c42f1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1830,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/SmjW68Ubc2FIr-o1mIsYTLubMC1AOWB5BVIp1DLbrN-8A7InonMchsJnZaHwoNOQosCG-fGOUQi5CXuYpSTJXNaPBQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 61,
+      "hex": "#4D4A36"
+    },
+    {
+      "percentage": 25,
+      "hex": " #151819"
+    },
+    {
+      "percentage": 9,
+      "hex": " #848877"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BDB8A2"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D9D9C8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #1C5A85"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5E87A5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4D4A36",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #151819",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #848877",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BDB8A2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D9D9C8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #1C5A85",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #5E87A5",
+      "normalizedHex": "#4279DB"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 61,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4682B4"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 61,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4279DB"
+    }
+  ],
+  "titles": [],
+  "description": "Portret van Machteld Muilman, de tweede echtgenote van Jan Pranger. Zittend, ten voeten uit in een stoel naast een tafeltje waarop een zilveren kan en fruit staan. In de rechterhand een kopje thee of koffie. Rechts een doorkijk naar een andere kamer haar schilderijen aan de wand hangen. Pendant van SK-A-2248.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Frans van der Mijn",
+      "unFixedName": "Mijn, Frans van der",
+      "placeOfBirth": "D\u00fcsseldorf",
+      "dateOfBirth": "1719",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1783-08-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Frans van der Mijn (1719 - 20-aug-1783)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Frans van der Mijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-10-31T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1745 - c. 1747",
+    "sortingDate": 1745,
+    "period": 18,
+    "yearEarly": 1745,
+    "yearLate": 1747
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C331",
+      "48C514",
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "cup and saucer",
+      "picture, painting",
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Muilman, Machteld"
+    ],
+    "objectNumbers": [
+      "SK-A-2249"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Muilman, Machteld"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Frans van der Mijn",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "154.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Machteld Muilman, Frans van der Mijn, c. 1745 - c. 1747",
+  "subTitle": "h 210cm \u00d7 w 154.5cm",
+  "scLabelLine": "Frans van der Mijn (1719-1783), oil on canvas, c. 1745-1747",
+  "label": {
+    "title": "Portrait of Machteld Muilman",
+    "makerLine": "Frans van der Mijn (1719-1783), oil on canvas, c. 1745-1747",
+    "description": "Jan Pranger married his second wife, Machteld Muilman, in 1745. Van der Mijn painted this likeness of her as a pendant to his portrait of Pranger. She is shown in their house on the Singel in Amsterdam, wearing a satin jacket embellished with ermine tails. The costly urn with coffee or hot water for tea on the table and the picture gallery glimpsed in the back-ground also attest to the couple\u2019s affluence.",
+    "notes": null,
+    "date": "2013-01-03"
+  },
+  "showImage": true,
+  "location": "HG-1.5"
+}

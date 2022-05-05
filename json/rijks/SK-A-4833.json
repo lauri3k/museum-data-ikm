@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4833",
+  "priref": "5225",
+  "objectNumber": "SK-A-4833",
+  "language": "en",
+  "title": "Portrait of Haesje Jacobsdr van Cleyburg",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "64251961-db46-4617-9682-6385c88c6a0e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2050,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/8IJF23RpZ5Jjukz6GHkAvagBGK4X5ZRJygm6DMvR7a0eQQWc_NoPzDZmf2UugJ-2NUxgFcJ2tx0c26K8EZvzkQBlra3o=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#695640"
+    },
+    {
+      "percentage": 34,
+      "hex": " #433A2E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #AD987A"
+    },
+    {
+      "percentage": 5,
+      "hex": " #8F7A5D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BFBEAA"
+    },
+    {
+      "percentage": 47,
+      "hex": " #16130C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#695640",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #433A2E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #AD987A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8F7A5D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFBEAA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #16130C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 39,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 82,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Portrait van Haesje Jacobsdr van Cleyburgh",
+    "Portrait of Haesje Jacobsdr van Cleyburg (1583-1641). Wife of the Rotterdam Brewer Dirck Jansz Pesser (1586-1651)"
+  ],
+  "description": "Portret van Haesje Jacobsdr van Cleyburg (1583-1641), echtgenote van de Rotterdamse bierbrouwer Dirck Jansz Pesser (1586-1651). Buste, driekwart naar links, met een wit kapje en een dubbelgeplooide molensteenkraag. Pendant van het portret van haar echtgenoot in het Los Angeles County Museum of Art.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1985-09-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting Jubileumfonds Rijksmuseum, the State of the Netherlands,  the Vereniging Rembrandt, the Rijksmuseum-Stichting, the Grote Loterij Nederland, the Stichting Klaver Vier, the Stichting Teleslag, the business community and private collectors"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1634",
+    "sortingDate": 1634,
+    "period": 17,
+    "yearEarly": 1634,
+    "yearLate": 1634
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Cleyburg, Haesje Jacobsdr van"
+    ],
+    "objectNumbers": [
+      "SK-A-4833"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Cleyburg, Haesje Jacobsdr van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "The Rembrandt Database,  Object information, Rembrandt,  Portrait of Haesje Jacobsdr van Cleyburg,  dated 163[4], Rijksmuseum, Amsterdam, inv. no. SK-A-4833, http://www.rembrandtdatabase.org/Rembrandt/painting/3043/portrait-of-haesje-jacobsdr-van-cleyburg, accessed 2016 February 01",
+    "E. van de Wetering, Rembrandt : the painter at work, Amsterdam 2009, p. 171, afb. 214",
+    "Mauritshuis en Rijksdienst Beeldende Kunst, '\"Een keuze\" : een kleine en persoonlijke keuze van de gastconservator mr. drs. L.C. Brinkman uit de diverse aanwinsten die gedurende de laatste zeven jaar voor de Rijkscollectie zijn verworven',  Den Haag 1989, vouwblad nr. 14.",
+    "Gary Schwartz, Rembrandt, zijn leven, zijn schilderijen, Maarsen 1984, p. 154, 162, 194, afb. 145",
+    "H. Gerson, Rembrandt paintings, Amsterdam 1968, nr. 169",
+    "A. Bredius, Rembrandt : the complete edition of the paintings, revised by H. Gerson, London 1969, nr. 354",
+    "K. Bauch, Rembrandt Gem\u00e4lde, Berlin 1966, nr. 492",
+    "J.G. van Gelder, 'The Rembrandt-exhibition at Edinburgh', The Burlington Magazine 92 (1950), p. 328",
+    "A. Bredius, Rembrandt : schilderijen, Utrecht 1935, nr. 354"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "68.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "53.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Haesje Jacobsdr van Cleyburg, Rembrandt van Rijn, 1634",
+  "subTitle": "h 68.6cm \u00d7 w 53.4cm",
+  "scLabelLine": "Rembrandt van Rijn (1606\u20131669), oil on panel, 1634",
+  "label": {
+    "title": "Portrait of Haesje Jacobsdr van Cleyburg",
+    "makerLine": "Rembrandt van Rijn (1606\u20131669), oil on panel, 1634",
+    "description": "Haesje van Cleyburg, the wife of a wealthy Rotterdam beer brewer, is fashionably yet extremely soberly dressed. She has not been made more beautiful than she was: the wrinkles, shadows under her eyes, the bushy eyebrows, and the greying hair are all rendered with painstaking realism. What makes the portrait so charming is the faint smile that plays across her slightly parted lips.",
+    "notes": "Multimediatour",
+    "date": "2018-02-28"
+  },
+  "showImage": true,
+  "location": "HG-2.8"
+}

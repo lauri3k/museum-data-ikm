@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1350",
+  "priref": "11858",
+  "objectNumber": "SK-C-1350",
+  "language": "en",
+  "title": "The Great Assembly of 1651",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "aae637ac-8b8f-484c-9be7-62c3756ada9c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1950,
+    "url": "https://lh3.googleusercontent.com/9E5ADvuGofMtq8eoQwomhzu3jQ7ki-iPfiKATsfQUp8o7g0fsMFtlaZK5lq6vaCB1dpqsKB3-jzGyrZqq8xGVYXqemBt=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#161714"
+    },
+    {
+      "percentage": 21,
+      "hex": " #44432B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D4D2A6"
+    },
+    {
+      "percentage": 9,
+      "hex": " #BBB77D"
+    },
+    {
+      "percentage": 43,
+      "hex": " #958E45"
+    },
+    {
+      "percentage": 19,
+      "hex": " #686439"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#161714",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #44432B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #D4D2A6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BBB77D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #958E45",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #686439",
+      "normalizedHex": "#367614"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#808000"
+    },
+    {
+      "percentage": 41,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #EEE8AA"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 21,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 19,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The Great Hall of the Binnenhof, The Hague, during the Great Assembly of the States-General in 1651"
+  ],
+  "description": "Interieur van de grote zaal op het Binnenhof, Den Haag, tijdens de grote vergadering van de Staten Generaal in 1651. Aan het plafond hangen op de vijand veroverde vlaggen en vaandels. Op het schilderij is een metalen flap bevestigd. Wanneer deze geopend is, is een voorstelling van de grote vergadering zichtbaar. Op de voorgrond staat een tafel met boeken, een zandloper en een inktstel. Op de tafel een kleed met de spreuk 'Concordia res parvae crescunt'. Als de flap gesloten is wordt een deel van de zaal, afgeschermd door een wand met schilderijen, getoond.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Anthonie Palamedesz",
+      "unFixedName": "Palamedesz, Anthonie",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1601",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1673-11-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Anthonie Palamedesz (1601 - 27-nov-1673)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bartholomeus van Bassen",
+      "unFixedName": "Bassen, Bartholomeus van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1652-11-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Bartholomeus van Bassen (c. 1595 - 28-nov-1652)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bartholomeus van Bassen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1948-05-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Kabinet van Schilderijen Mauritshuis"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "metal",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1651",
+    "sortingDate": 1651,
+    "period": 17,
+    "yearEarly": 1651,
+    "yearLate": 1651
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45D1",
+      "46A63"
+    ],
+    "iconClassDescription": [
+      "(military) flags and standards",
+      "meeting, assembly"
+    ],
+    "motifs": [],
+    "events": [
+      "Eerste Grote Vergadering",
+      "Overlijden van Willem II, prins van Oranje"
+    ],
+    "periods": [
+      "16511651"
+    ],
+    "places": [
+      "Ridderzaal"
+    ],
+    "people": [
+      "Staten-Generaal"
+    ],
+    "objectNumbers": [
+      "SK-C-1350"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Staten-Generaal"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Annual report : Rijksmuseum Amsterdam (1999), p. 41, afb.",
+    "Documentatiemap: aantekeningen R. van Luttervelt.",
+    "Object van de maand (8), Tristan Mostert, Historiek, 14 augustus 2012 - http://historiek.net/overige/6865-de-grote-zaal-op-het-binnenhof-tijdens-de-grote-vergadering-der-staten-generaal-dirck-van-delen"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bartholomeus van Bassen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "52"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "66"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel and metal",
+  "longTitle": "The Great Assembly of 1651, Bartholomeus van Bassen, c. 1651",
+  "subTitle": "h 52cm \u00d7 w 66cm",
+  "scLabelLine": "Bartholomeus van Bassen (c. 1590-1652), oil on panel, 1651",
+  "label": {
+    "title": "The Great Assembly of 1651",
+    "makerLine": "Bartholomeus van Bassen (c. 1590-1652), oil on panel, 1651",
+    "description": "This is the Ridderzaal (Hall of Knights) at the Binnenhof in The Hague. Hanging from the ceiling are Southern Netherlandish and Spanish flags captured during the war. The representatives of the seven provinces of the Dutch Republic are gathered in the hall. When Stadholder William II, son of Frederick Henry, dies at the end of 1650, most of the provinces decide after lengthy deliberations not to appoint a new stadholder on 21\nAugust 1651. The war is over, and \u2013 as they concur \u2013 the country is more than able to face the future without the Oranges.",
+    "notes": "Multimediatour 80 jaar oorlog, 988.",
+    "date": "2019-01-02"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

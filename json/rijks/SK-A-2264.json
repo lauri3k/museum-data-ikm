@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2264",
+  "priref": "6034",
+  "objectNumber": "SK-A-2264",
+  "language": "en",
+  "title": "Cows in the Meadow",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d7f3a91e-7774-4a31-befa-559594e0efe2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2874,
+    "height": 1850,
+    "url": "https://lh3.googleusercontent.com/YHSupvDO2O4nhdNca5WjTfynmqKRSnCACp1AWj2f5vZzq-41FYpPhWgtIgQGkeHEsfZt_pec_d0_lWjMPThlpCOCu0c=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#C9B881"
+    },
+    {
+      "percentage": 24,
+      "hex": " #554A30"
+    },
+    {
+      "percentage": 15,
+      "hex": " #896A2E"
+    },
+    {
+      "percentage": 6,
+      "hex": " #271F11"
+    },
+    {
+      "percentage": 5,
+      "hex": " #9F8D55"
+    },
+    {
+      "percentage": 4,
+      "hex": " #88988A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EADEBA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C9B881",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #554A30",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #896A2E",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #271F11",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #9F8D55",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #88988A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EADEBA",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 24,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Cows in the Meadow"
+  ],
+  "description": "Landschap met koeien in de weide, op de voorgrond een paar eenden.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerard Bilders",
+      "unFixedName": "Bilders, Gerard",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1838-12-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1865-03-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gerard Bilders (09-dec-1838 - 08-mrt-1865)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard Bilders",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1907-01-01T00:00:00",
+    "creditLine": "J.B.A.M. Westerwoudt Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1860 - 1865",
+    "sortingDate": 1860,
+    "period": 19,
+    "yearEarly": 1860,
+    "yearLate": 1865
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I2112",
+      "25H17"
+    ],
+    "iconClassDescription": [
+      "cow",
+      "meadow, pasture"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2264"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "M. Haveman, De alomtegenwoordige bewoonster van het Hollandse landschap, Kunstschrift, jaargang 51, nr. 3 (juni/juli 2007),p. 43, afb. 50"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard Bilders",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "47"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "13.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Cows in the Meadow, Gerard Bilders, 1860 - 1865",
+  "subTitle": "h 47cm \u00d7 w 70cm \u00d7 d 13.5cm",
+  "scLabelLine": "Gerard Bilders, 1860 - 1865, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

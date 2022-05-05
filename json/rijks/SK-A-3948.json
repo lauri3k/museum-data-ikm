@@ -1,0 +1,248 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3948",
+  "priref": "10058",
+  "objectNumber": "SK-A-3948",
+  "language": "en",
+  "title": "Portrait of a Member of the Van der Mersch Family",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c2ac9347-7d7a-4148-ac21-152e6b29d0f5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2022,
+    "height": 2556,
+    "url": "https://lh5.ggpht.com/5cC5A43gL66dAluLm3_Mp0NiZ7v6BZxwnD--37cz3fvjV087nF1NvkOjnlWs5KqnvgVtd1pcR-JcqkTCk8YKhWr_W3j8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 73,
+      "hex": "#151412"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B8B5A8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E4E1D8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BE993C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7280A3"
+    },
+    {
+      "percentage": 20,
+      "hex": " #6B543A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#151412",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #B8B5A8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E4E1D8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BE993C",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #7280A3",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6B543A",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 73,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 3,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [],
+  "description": "Portret van een kunst- en muziekliefhebber, vermoedelijk een van de drie broers van de doopsgezinde familie Van der Mersch uit Amsterdam. De man is ten voeten uit geportretteerd, zittend aan een tafel met een tekening in de hand. Op tafel ligt een kunstboek en een muziekboek met het familiewapen Van der Mersch, rechts tegen een stoel staat een cello geleund, links een globe.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Troost",
+      "unFixedName": "Troost, Cornelis",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1696-10-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1750-03-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Cornelis Troost (08-okt-1696 - 07-mrt-1750), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": "Dit portret wekt de indruk dat wij zo bij deze man kunnen binnenwandelen om samen met hem te genieten van kunst en muziek. Op typisch 18de-eeuwse wijze is er geen afstand, het portret wekt geen ontzag. We staan oog in oog met de opgewekte persoonlijkheid van de jongeman, lid van een rijke doopsgezinde familie uit Amsterdam. Hij is niet op bezoek voorbereid: op zijn schouder ligt poeder dat hij heeft gemorst toen hij zijn pruik poederde. ",
+  "plaqueDescriptionEnglish": "The portrait conveys a sense of convivial hospitality, as if the man were inviting us into his home to enjoy his art and music. In a typically 18th-century way, the portrait has no sense of distance, of authority. It introduces us directly to the open personality of this enthusiastic young member of a wealthy Baptist family from Amsterdam. He was not expecting visitors: there are a few specks on his shoulder from when he powdered his wig. ",
+  "principalMaker": "Cornelis Troost",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1958-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1736",
+    "sortingDate": 1736,
+    "period": 18,
+    "yearEarly": 1736,
+    "yearLate": 1736
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A13",
+      "48C7312",
+      "48C524",
+      "46A122",
+      "48C742"
+    ],
+    "iconClassDescription": [
+      "globe",
+      "viola, violoncello; double bass",
+      "drawing, sketch",
+      "armorial bearing, heraldry",
+      "manuscript of musical score"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Mersch, Johannes van der"
+    ],
+    "objectNumbers": [
+      "SK-A-3948"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Mersch, Johannes van der"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "'Een beeld van de 18de eeuw : Het galante tijdperk', De Rijksmuseum Kunstkrant 20 (1995) nr. 3, p. 3-4."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Troost",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "72"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "57"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of a Member of the Van der Mersch Family, Cornelis Troost, 1736",
+  "subTitle": "h 72cm \u00d7 w 57cm",
+  "scLabelLine": "Cornelis Troost (1696-1750), oil on panel, 1736",
+  "label": {
+    "title": "Portrait of a Member of the Van der Mersch Family",
+    "makerLine": "Cornelis Troost (1696-1750), oil on panel, 1736",
+    "description": "This portrait invites us to enter the room and enjoy art and music with this gentleman. Typical of the 18th century is the lack of distance between sitter and viewer: the likeness is not intimidating. We stand face to face with a cheerful young man, member of a wealthy Mennonite family from Amsterdam. The visit has caught him unawares: on his shoulder are traces of powder spilled while he powdered his wig.",
+    "notes": "Multimediatour",
+    "date": "2018-02-03"
+  },
+  "showImage": true,
+  "location": "HG-1.1"
+}

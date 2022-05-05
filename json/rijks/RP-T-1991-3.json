@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1991-3",
+  "priref": "27165",
+  "objectNumber": "RP-T-1991-3",
+  "language": "en",
+  "title": "View of the Ponte Rotto in Rome, Seen from the East",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a2bbb893-7f5f-4b1b-82da-befca93cef67",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1934,
+    "url": "https://lh3.ggpht.com/HQLISX4PKaeXpoPwt_JPZiD_a_fiDuHE7R_cWYXA3b9EAcoexORVLgoFbGwZh3LpvlxucLhlhPvyLDqPll1WY2bvPps=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#F9F7F3"
+    },
+    {
+      "percentage": 44,
+      "hex": " #D8D5CE"
+    },
+    {
+      "percentage": 19,
+      "hex": " #BAB5AB"
+    },
+    {
+      "percentage": 26,
+      "hex": " #9A968B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #6D6961"
+    },
+    {
+      "percentage": 1,
+      "hex": " #3E4040"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F9F7F3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D8D5CE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BAB5AB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #9A968B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6D6961",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3E4040",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 26,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 19,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 45,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 33,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 19,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "View of the Ponte Rotto in Rome, Seen from the East"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Asselijn",
+      "unFixedName": "Asselijn, Jan",
+      "placeOfBirth": "Dieppe",
+      "dateOfBirth": "1610",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1652-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Asselijn (1610 - okt-1652), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Asselijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1991-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk",
+    "ink",
+    "watercolor (paint)",
+    "deck paint"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [
+    "? Rome"
+  ],
+  "dating": {
+    "presentingDate": "c. 1636 - c. 1644",
+    "sortingDate": 1636,
+    "period": 17,
+    "yearEarly": 1636,
+    "yearLate": 1644
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1",
+      "25I1451"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'",
+      "bridge in city across river, canal, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ponte Rotto",
+      "Trastevere"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1991-3"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Asselijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "199"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "313"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "point of brush and black ink, with grey wash, over black chalk; later additions in dark grey wash, with some opaque white and green watercolour; framing line in brown ink",
+  "longTitle": "View of the Ponte Rotto in Rome, Seen from the East, Jan Asselijn, c. 1636 - c. 1644",
+  "subTitle": "h 199mm \u00d7 w 313mm",
+  "scLabelLine": "Jan Asselijn, c. 1636 - c. 1644, point of brush and black ink, with grey wash, over black chalk; later additions in dark grey wash, with some opaque white and green watercolour; framing line in brown ink",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

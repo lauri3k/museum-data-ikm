@@ -1,0 +1,273 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3814",
+  "priref": "9987",
+  "objectNumber": "SK-A-3814",
+  "language": "en",
+  "title": "Johannes Benedictus van Heutsz (1851-1924). Gouverneur-generaal (1904-09)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d10db1ce-8101-42bb-a256-dcdf0317b9b0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 0,
+    "width": 1783,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/pQbqEfvtm6QaKeKJp76HxjfPKxj0Ng6zjC6-17EMNLK_zXrkj4nyrkr-Xpora9WnSt5XYU7RiPDAXC4SdAmpvwqg-0QDvGr28JHbpJx2=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#0D0F0E"
+    },
+    {
+      "percentage": 39,
+      "hex": " #483214"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C9C2B6"
+    },
+    {
+      "percentage": 7,
+      "hex": " #6C6030"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A88822"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A1926A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0D0F0E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #483214",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C9C2B6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6C6030",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #A88822",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #A1926A",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 39,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 32,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 39,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 32,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [
+    "Johannes Benedictus van Heutsz (1851-1924). Gouverneur-generaal (1904-09)"
+  ],
+  "description": "Portret van Johannes Benedictus van Heutsz (1851-1924). Gouverneur-generaal (1905-1909). Kniestuk, staande, het hoofd iets naar rechts gekeerd. De steek in de rechterhand, een wandelstok in de linkerhand. Rechtsboven het familiewapen. Onderdeel van een reeks van portretten van de gouverneurs-generaal van het voormalige Nederlands Oost-Indi\u00eb.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hannk\u00e9",
+      "unFixedName": "Hannk\u00e9",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Batavia"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hannk\u00e9, Batavia"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hannk\u00e9",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1950-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [
+    "Batavia"
+  ],
+  "dating": {
+    "presentingDate": "1909",
+    "sortingDate": 1909,
+    "period": 20,
+    "yearEarly": 1909,
+    "yearLate": 1909
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+54)",
+      "41D221(BICORNE)(+81)",
+      "44B241"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ three-quarter length portrait)",
+      "head-gear: bicorne, bicorn (+ men's clothes)",
+      "colonial governor"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "19041909"
+    ],
+    "places": [
+      "Nederlands-Indi\u00eb"
+    ],
+    "people": [
+      "Heutsz, Johannes Benedictus van"
+    ],
+    "objectNumbers": [
+      "SK-A-3814"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Heutsz, Johannes Benedictus van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "E. Spaans, Ontmoetingen in de Oost, in: Vitrine, sept./okt/ 2002, p. 10 + afb. (zie inventarismap)",
+    "K. van Brakel et al., Indi\u00eb omlijst : Vier eeuwen schilderkunst in Nederlands-Indi\u00eb, Amsterdam 1998, p. 90-102.",
+    "M. van de Laar en W. de Ridder, 'De Wisselvallige geschiedenis van de portrettengalerij van de Gouverneurs-Generaal van Nederlands-Indi\u00eb', Bulletin van het Rijksmuseum (1997) nr. 3, p. 204-216.",
+    "Koloniale expansie en de Nederlandse monumentale sculptuur / Ype Koopmans - In: Tijdschrift voor Geschiedenis 105 (1992) pag. 383-406.",
+    "J.P.M. Goudaens, Jaarboek Die Haghe (1986), p. 127-181 (Over de serie kleine Gouverneurs-Generaal van Nederlands Indi\u00eb).",
+    "M.A. van Rhede van der Kloot, De Gouverneurs-Generaal en Commissarissen-Generaal van Nederlandsch-Indi\u00eb, Den Haag 1891."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hannk\u00e9",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "141.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "101.08"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "4.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Johannes Benedictus van Heutsz (1851-1924). Gouverneur-generaal (1904-09), Hannk\u00e9, 1909",
+  "subTitle": "h 141.5cm \u00d7 w 101.08cm \u00d7 t 4.0cm \u00d7 d 9.2cm",
+  "scLabelLine": "Hannk\u00e9, 1909, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

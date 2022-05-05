@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2627",
+  "priref": "8320",
+  "objectNumber": "SK-A-2627",
+  "language": "en",
+  "title": "Old Woman Reading",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "08744d51-6fbd-4fa5-b65c-3c83502168a3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2019,
+    "height": 2612,
+    "url": "https://lh3.googleusercontent.com/_sKPy08dghdqCv99fvYQWXdnxmTyi_BZ6t31nU4NpWNky40D_GnvRLq_Juw9wTNXOi28nhBSM0wgIOIVQvUX42iWlgu5=s0"
+  },
+  "colors": [
+    {
+      "percentage": 49,
+      "hex": "#16160F"
+    },
+    {
+      "percentage": 27,
+      "hex": " #333124"
+    },
+    {
+      "percentage": 6,
+      "hex": " #978150"
+    },
+    {
+      "percentage": 5,
+      "hex": " #554221"
+    },
+    {
+      "percentage": 5,
+      "hex": " #766840"
+    },
+    {
+      "percentage": 3,
+      "hex": " #65532E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #ADA070"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#16160F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #333124",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #978150",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #554221",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #766840",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #65532E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #ADA070",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Old Woman reading a Lectionary : the so-called portrait of Rembrandt's mother, Neeltgen Willemsdr van Zuijdtbroeck (d. 1640)"
+  ],
+  "description": "Oude vrouw lezend in een lectionarium; het zogenaamde portret van Rembrandts moeder, Neeltgen Willemsdr van Zuijdtbroeck. De oude vrouw houdt in haar handen een boek waarin een prent het evangelie van Lukas illustreert.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerard Dou",
+      "unFixedName": "Dou, Gerard",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1613-04-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1675",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gerard Dou (07-apr-1613 - 1675)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard Dou",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1912-10-01T00:00:00",
+    "creditLine": "A.H. Hoekwater Bequest, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1631 - c. 1632",
+    "sortingDate": 1631,
+    "period": 17,
+    "yearEarly": 1631,
+    "yearLate": 1632
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D17",
+      "49N",
+      "11Q511",
+      "41D221(CAP)(+43)",
+      "41D222(COLLAR)(+43)"
+    ],
+    "iconClassDescription": [
+      "old woman",
+      "lezen",
+      "the Bible as a book",
+      "head-gear: cap (+ fur used for clothes)",
+      "neck-gear: collar (+ fur used for clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2627"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard Dou",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "71.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "55.2"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "1.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Old Woman Reading, Gerard Dou, c. 1631 - c. 1632",
+  "subTitle": "h 71.2cm \u00d7 w 55.2cm \u00d7 d 1.1cm",
+  "scLabelLine": "Gerard Dou (1613\u20131675), oil on panel, c. 1631\u20131632",
+  "label": {
+    "title": "Old Woman Reading",
+    "makerLine": "Gerard Dou (1613\u20131675), oil on panel, c. 1631\u20131632",
+    "description": "The book is rendered in such detail that it is easy to see what the woman is reading: the beginning of chapter 19 of the Gospel of Luke. The passage states that those who wish to do good must give away half of all they own to the poor. The old woman\u2019s expensive clothing contrasts sharply with this message: she is still attached to worldly possessions.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": null
+}

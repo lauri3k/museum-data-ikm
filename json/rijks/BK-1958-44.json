@@ -1,0 +1,253 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1958-44",
+  "priref": "17396",
+  "objectNumber": "BK-1958-44",
+  "language": "en",
+  "title": "Nautilus cup",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3a4b3da8-49b1-4139-afbe-9f6a98a97042",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 25,
+    "width": 4167,
+    "height": 6132,
+    "url": "https://lh3.googleusercontent.com/WVHHI8nzrrV-E1LYoAx0OSV9PIKgQj-ApOJV7vXPOjiuJEemF4f2fIQYndgx5DRwhA_dKmSUj3swLcm2KLGTMRUDE1Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#49545B"
+    },
+    {
+      "percentage": 25,
+      "hex": " #5D79A6"
+    },
+    {
+      "percentage": 17,
+      "hex": " #8B9CB8"
+    },
+    {
+      "percentage": 3,
+      "hex": " #938659"
+    },
+    {
+      "percentage": 1,
+      "hex": " #182128"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C4C1B3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EEECDD"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#49545B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5D79A6",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #8B9CB8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #938659",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #182128",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #C4C1B3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EEECDD",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #4682B4"
+    },
+    {
+      "percentage": 17,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Nautilusbeker met verguld zilveren montuur, in de vorm van een struisvogel. De schelp is beschilderd met draperie\u00ebn, boeketten en vogels. In de kop van de struisvogel is een amethist gevat. In de gedreven voetrand zijn, tussen voluten en struisveren, tweemaal een kinderkop, twee toegewende bokken en twee afgewende paarden afgebeeld.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Joachim Hiller",
+      "unFixedName": "Hiller, Joachim",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Joachim Hiller"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joachim Hiller",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1958-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)",
+    "nautilus shell",
+    "amethyst (mineral)"
+  ],
+  "techniques": [
+    "gilding",
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1600",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1600
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F38(OSTRICH)",
+      "25F3",
+      "48A98333"
+    ],
+    "iconClassDescription": [
+      "walker and runner birds: ostrich",
+      "birds",
+      "bunch of flowers ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1958-44"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joachim Hiller",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "42.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "19.7"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "11.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Nautilus cup, Joachim Hiller, c. 1600",
+  "subTitle": "h 42.4cm \u00d7 w 19.7cm \u00d7 d 11.5cm",
+  "scLabelLine": "Joachim Hiller (active 1573\u20131613), Breslau, c. 1600, nautilus shell, silver gilt, amethysts",
+  "label": {
+    "title": "Nautilus cup",
+    "makerLine": "Joachim Hiller (active 1573\u20131613), Breslau, c. 1600, nautilus shell, silver gilt, amethysts",
+    "description": "This nautilus shell has been cleverly used to represent the body of a realistically rendered ostrich. Ever since Classical antiquity this bird has been a symbol of virtue. Even though it cannot fly, it surpasses all other twolegged creatures in the speed with which it can run. Virtue thus always triumphs.",
+    "notes": null,
+    "date": "2013-03-21"
+  },
+  "showImage": true,
+  "location": "HG-2.3"
+}

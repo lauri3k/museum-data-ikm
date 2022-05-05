@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-222",
+  "priref": "10664",
+  "objectNumber": "SK-C-222",
+  "language": "en",
+  "title": "Jan van Speijk steekt de lont in het kruit, 5 februari 1831",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b91792cf-b9bc-4e54-a19b-02c5d3c8d712",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1970,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/ZLRlSawsl66vUxbtL-i000hbjzwalsU8f6AhtcrbMA4h5kRiEf3gVAs9e8ticnCT7QgiEAz4djgz19GXN8WROYBH7Wg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#1E1814"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B7A966"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3C781"
+    },
+    {
+      "percentage": 9,
+      "hex": " #978448"
+    },
+    {
+      "percentage": 48,
+      "hex": " #554C3A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #823613"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1E1814",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #B7A966",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D3C781",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #978448",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #554C3A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #823613",
+      "normalizedHex": "#981313"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 40,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 40,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #981313"
+    }
+  ],
+  "titles": [
+    "Jan van Speijk steekt de lont in het kruit, 5 februari 1831"
+  ],
+  "description": "Jan van Speijk knielt bij het vat en steekt met een theatraal gebaar de lont in het kruit, 5 februari 1831.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacobus Schoemaker Doyer",
+      "unFixedName": "Schoemaker Doyer, Jacobus",
+      "placeOfBirth": "Krefeld",
+      "dateOfBirth": "1792-06-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1867-06-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zutphen",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacobus Schoemaker Doyer (24-jun-1792 - 09-jun-1867)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacobus Schoemaker Doyer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1831 - 1850",
+    "sortingDate": 1831,
+    "period": 19,
+    "yearEarly": 1831,
+    "yearLate": 1850
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45C17(GUNPOWDER)"
+    ],
+    "iconClassDescription": [
+      "projectiles, explosives, etc.: gunpowder"
+    ],
+    "motifs": [],
+    "events": [
+      "Belgische Revolutie"
+    ],
+    "periods": [
+      "1831-02-051831-02-05"
+    ],
+    "places": [
+      "Antwerpen (stad)"
+    ],
+    "people": [
+      "Speijk, Jan Carel Josephus van"
+    ],
+    "objectNumbers": [
+      "SK-C-222"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Speijk, Jan Carel Josephus van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap: aantekeningen R. van Luttervelt.",
+    "20 eeuwen Nederland: 4. Vijanden en oorlogen, Waanders uitgevers 1998, afl. 4, p.97"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacobus Schoemaker Doyer",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "25.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "20.2"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "1.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Jan van Speijk steekt de lont in het kruit, 5 februari 1831, Jacobus Schoemaker Doyer, 1831 - 1850",
+  "subTitle": "h 25.4cm \u00d7 w 20.2cm \u00d7 t 1.0cm \u00d7 d 8.0cm",
+  "scLabelLine": "Jacobus Schoemaker Doyer, 1831 - 1850, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

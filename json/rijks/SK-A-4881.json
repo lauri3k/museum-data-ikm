@@ -1,0 +1,248 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4881",
+  "priref": "9",
+  "objectNumber": "SK-A-4881",
+  "language": "en",
+  "title": "Portrait of a young man, possibly Simon van Alphen (1650-1730)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b578cf08-8623-43d4-a714-19d02ab36447",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2114,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/DoGKqdRVllAdR3EBi31hiP_yyEljofJkdz0N-LTWWljAtgY5GEh0AymljBVhDZlcYJEaoaQ0rmPXfrJOJljPuUJ3RQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 60,
+      "hex": "#453225"
+    },
+    {
+      "percentage": 27,
+      "hex": " #7D7065"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0AA70"
+    },
+    {
+      "percentage": 2,
+      "hex": " #9E9CAA"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C1C2D9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EDEDFA"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E9DBA6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#453225",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7D7065",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C0AA70",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9E9CAA",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C1C2D9",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #EDEDFA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #E9DBA6",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 87,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E6E6FA"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EEE8AA"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 60,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Portrait of a young man, possibly Simon van Alphen (1650-1730)"
+  ],
+  "description": "Portret van een jonge man uit de familie Van Alphen, waarschijnlijk Simon van Alphen. Kniestuk, staande geleund tegen een boom. Gebarend met de linkerhand, de rechterhand in de zij. Op de achtergrond een landschap met een waterval.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes Maes",
+      "unFixedName": "Maes, Nicolaes",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1634-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1693-11-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Nicolaes Maes (jan-1634 - 24-nov-1693)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes Maes",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1991-01-01T00:00:00",
+    "creditLine": "C.H. de Koning Bequest, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "canvas"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1675 - 1685",
+    "sortingDate": 1675,
+    "period": 17,
+    "yearEarly": 1675,
+    "yearLate": 1685
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "25H216"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "waterfall"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Alphen, Simon van"
+    ],
+    "objectNumbers": [
+      "SK-A-4881"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Alphen, Simon van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolaes Maes",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "71.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "57.2"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "4.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of a young man, possibly Simon van Alphen (1650-1730), Nicolaes Maes, 1675 - 1685",
+  "subTitle": "h 71.5cm \u00d7 w 57.2cm \u00d7 d 4.5cm",
+  "scLabelLine": "Nicolaes Maes, 1675 - 1685, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

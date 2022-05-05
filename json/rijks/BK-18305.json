@@ -1,0 +1,179 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-18305",
+  "priref": "24784",
+  "objectNumber": "BK-18305",
+  "language": "en",
+  "title": "Portrait of Andries de Graeff",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "876923e7-ee7b-4339-b3f5-5f24f2788f1d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 26,
+    "width": 2085,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/Dm4qOkEfe0P9YqnN7s-KRxy6K_o4trePSnlVvGNg0TPGcKmiDS_sdmqqbSeSENg22FFjyIz0xI2CEJhkrk9IfmDYHwo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bust of Andries de Graeff (1611-1678), Burgomaster of Amsterdam"
+  ],
+  "description": "De kop met hangsnor en imperiale is iets naar links gewend; de rechterhand wordt voor de borst gehouden, de linker in de zij. Een kalotje rust op de pruik, waarvan de krullen tot op de brede kraag neerhangen. De mantel, die schouder en armen geheel bedekt, is naar rechts toegeslagen en wordt voor de borst met de rechterhand opgehouden, zodat slechts een klein deel van de met knoopjes gesloten wambuis zichtbaar is. Het geheel rust op een plint.",
+  "labelText": null,
+  "objectTypes": [
+    "bust"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Artus Quellinus (I)",
+      "unFixedName": "Quellinus, Artus (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1609",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1668-08-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Artus Quellinus (I) (1609 - 23-aug-1668), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": "De familie De Graeff behoorde tot de elite van koopliedenfamilies die het in Amsterdam voor het zeggen hadden. Andries was er, evenals zijn vader en zijn broer, burgemeester. De Antwerpse beeldhouwer Quellinus - naar Amsterdam gehaald voor het beeldhouwwerk van het nieuwe stadhuis - maakte een monumentaal marmeren portret van hem. Op de plint staat: Andries de Graeff, Amsterdams consul, door Quellinus, 1661.",
+  "plaqueDescriptionEnglish": "The De Graeffs were one of the leading merchant families of Amsterdam and highly influential. Like his father and brother, Andries was also a burgomaster. The superb bust was carved by Quellinus, who had been brought from Antwerp to Amsterdam to create sculptures for the new town hall. The plinth states: Andries de Graeff, Amsterdam consul, by Quellinus, 1661.",
+  "principalMaker": "Artus Quellinus (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1661",
+    "sortingDate": 1661,
+    "period": 17,
+    "yearEarly": 1661,
+    "yearLate": 1661
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16571678"
+    ],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [
+      "Graeff, Andries de"
+    ],
+    "objectNumbers": [
+      "BK-18305"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Graeff, Andries de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "F. Scholten, 'Quellinus's burgomasters:a portrait gallery of Amsterdam republicanism', Simiolus 32, nr. 2/3 (2006), p. 103.",
+    "Th.H. Lunsingh Scheurleer, \"Marmeren borstbeeld van Burgemeester Andries de Graeff\", Openbaar Kunstbezit (1963) p. 7a-b.",
+    "A. Pit, 'De verzameling Hollandsch beeldhouwwerk in het Nederlandsch Museum, te Amsterdam', Bulletin van den Nederlandschen Oudheidkundigen Bond 2(1900/01), p. 11."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Artus Quellinus (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "36"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "22.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "22.4"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": "c.",
+      "part": null,
+      "value": "237"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "white Carrara marble",
+  "longTitle": "Portrait of Andries de Graeff, Artus Quellinus (I), 1661",
+  "subTitle": "h 76cm \u00d7 w 76cm \u00d7 d 36cm",
+  "scLabelLine": "Artus Quellinus I (1609\u20131668), Amsterdam, 1661, Carrara marble",
+  "label": {
+    "title": "Portrait of Andries de Graeff",
+    "makerLine": "Artus Quellinus I (1609\u20131668), Amsterdam, 1661, Carrara marble",
+    "description": "In assuming power, the mayors of Amsterdam were inspired by the ancient Roman Republic. This is powerfully expressed in this imposing portrait bust of Andries de Graeff. With his cloak wrapped to resemble a Classical toga, the mayor had himself immortalized in marble in the guise of a Roman consul, as is suggested by the letters \u2018COS\u2019 (the abbreviation for a consul in ancient Rome) following his name on the pedestal.",
+    "notes": "Multimediatour",
+    "date": "2018-02-27"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

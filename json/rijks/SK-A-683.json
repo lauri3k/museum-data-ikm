@@ -1,0 +1,152 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-683",
+  "priref": "6111",
+  "objectNumber": "SK-A-683",
+  "language": "en",
+  "title": "Portrait of Roelof Meulenaer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b5770754-c997-46c4-a13c-a5cdcb0c0909",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2005,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/L6n2nNP7m_zsRrTUGEtcFZVU6hILMQY__ps3UbX2Z3fBMDj9bcF0TbybPlF-Fgv0zqHraQJRzl5acXkqj5XeYwn45zI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Roelof Meulenaer (1618/19-1691). Amsterdam Mercantile Courier or Postmaster on the Antwerp Route"
+  ],
+  "description": "Portret van Roelof Meulenaer (1618/19-91), koopmansbode of postmeester op Antwerpen te Amsterdam. Heupstuk, leunend tegen een balustrade. Pendant van SK-A-684.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ferdinand Bol",
+      "unFixedName": "Bol, Ferdinand",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1616-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1680-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "draughtsman",
+        "print maker"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Ferdinand Bol (jun-1616 - 24-jul-1680)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ferdinand Bol",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1880-01-01T00:00:00",
+    "creditLine": "Jonkheer J.S.H. van de Poll Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+53)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ half-length portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16401691"
+    ],
+    "places": [
+      "Antwerpen (stad)",
+      "Amsterdam"
+    ],
+    "people": [
+      "Meulenaer, Roelof"
+    ],
+    "objectNumbers": [
+      "SK-A-683"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Meulenaer, Roelof"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ferdinand Bol",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "118"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "96.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Roelof Meulenaer, Ferdinand Bol, 1650",
+  "subTitle": "h 118cm \u00d7 w 96.5cm \u00d7 d 7cm",
+  "scLabelLine": "Ferdinand Bol (1616-1680), oil on canvas, 1650",
+  "label": {
+    "title": "Portrait of Roelof Meulenaer",
+    "makerLine": "Ferdinand Bol (1616-1680), oil on canvas, 1650",
+    "description": "Roelof Meulenaer, an Amsterdam postmaster, commissioned portraits of himself and his wife from Rembrandt\u2019s pupil Ferdinand Bol around 1650. At this time, Bol was developing his own, more elegant style based on the work of the Flemish artist Anthony van Dyck, while continuing to avail himself of Rembrandt\u2019s warm palette. Meulenaer\u2019s portrait, thus, unites the best of these two exemplary models.",
+    "notes": null,
+    "date": "2019-02-21"
+  },
+  "showImage": true,
+  "location": null
+}

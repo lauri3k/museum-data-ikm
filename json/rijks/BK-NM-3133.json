@@ -1,0 +1,267 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-3133",
+  "priref": "14244",
+  "objectNumber": "BK-NM-3133",
+  "language": "en",
+  "title": "Dish with a Portrait of Prince William III as a Child",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d22a9fdb-3b76-4f05-b2ac-187ee63eaff6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2433,
+    "url": "https://lh4.ggpht.com/fZ9IYQ_dMdJEcxrJPmwFWLHmoIvOmbJm_ArcOhAacOqjuRMTwgy87DUOgBkEoRYnc_kDrqHt1UcPc0PfsnzhAtbOJyk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 50,
+      "hex": "#C6C7C7"
+    },
+    {
+      "percentage": 23,
+      "hex": " #AEA897"
+    },
+    {
+      "percentage": 9,
+      "hex": " #818B97"
+    },
+    {
+      "percentage": 9,
+      "hex": " #5E6A82"
+    },
+    {
+      "percentage": 3,
+      "hex": " #38446B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #23294A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E3E2DE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C6C7C7",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #AEA897",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #818B97",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5E6A82",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #38446B",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #23294A",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #E3E2DE",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 50,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 23,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 9,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 3,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 50,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 23,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 1,
+      "hex": " #4019B1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Bord van faience met het portret van Prins Willem III als kind.",
+  "labelText": null,
+  "objectTypes": [
+    "plate (dishes)"
+  ],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "Anthonie Heeres Siverdtsma",
+      "unFixedName": "Siverdtsma, Anthonie Heeres",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1625",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "after",
+      "labelDesc": "after Anthonie Heeres Siverdtsma (1625 - ....)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1877-01-25T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "1658",
+    "sortingDate": 1658,
+    "period": 17,
+    "yearEarly": 1658,
+    "yearLate": 1658
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B151211"
+    ],
+    "iconClassDescription": [
+      "crown prince"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16501660"
+    ],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "BK-NM-3133"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "J.D. van Dam, \"De Koning-Stadhouder Willem III op Delftse faience. Een keuze: als prinsje, als veldheer, als koning\" Antiek vol. 23, nr. 2 (1988), p. 73, afb. 3",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "20.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "plate (dishes)",
+  "longTitle": "Dish with a Portrait of Prince William III as a Child, anonymous, 1658",
+  "subTitle": "d 20.5cm",
+  "scLabelLine": "after a print by Anthonie Heeres Siverdtsma (active c. 1625)?, Delft, 1658, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Dish with a Portrait of Prince William III as a Child",
+    "makerLine": "after a print by Anthonie Heeres Siverdtsma (active c. 1625)?, Delft, 1658, tin-glazed earthenware (faience)",
+    "description": "Prince William III was eight years old when this dish with his portrait was made. The Delft pottery factories would continue to produce dishes and jugs with his portrait long after his death, not as royal commissions, but rather for private individuals intent on expressing their Orangist loyalties through such objects.",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

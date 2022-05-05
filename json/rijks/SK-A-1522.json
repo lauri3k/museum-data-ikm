@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1522",
+  "priref": "6190",
+  "objectNumber": "SK-A-1522",
+  "language": "en",
+  "title": "Still Life with Flowers in a Wan-li Vase",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f42ee1a3-8293-40c3-91de-fc8e600b4ba3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2150,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/vkxU_IetGpdedRsM_VS7YM1n8i8hIUnll0f037lwM_2Y1mCssZ6z4IXdnpAzKpCicWy8QtXOEg9jy9W3TbGG_Z7Mk6sKnvaRYsaNygZN=s0"
+  },
+  "colors": [
+    {
+      "percentage": 61,
+      "hex": "#290F06"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2C797"
+    },
+    {
+      "percentage": 11,
+      "hex": " #4B290E"
+    },
+    {
+      "percentage": 9,
+      "hex": " #80541C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B9A463"
+    },
+    {
+      "percentage": 9,
+      "hex": " #9A7C39"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#290F06",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D2C797",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4B290E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #80541C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B9A463",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9A7C39",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 61,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 6,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 61,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Still Life with Flowers in a Wan-li Vase"
+  ],
+  "description": "Stilleven met bloemen in een Wan Li-vaas. Boeket met tulpen, rozen en narcissen in een vaas. Op de stenen plint een anjer en een cyclaam.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ambrosius Bosschaert",
+      "unFixedName": "Bosschaert, Ambrosius",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1573-11-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1621",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Ambrosius Bosschaert (18-nov-1573 - 1621)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ambrosius Bosschaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1890-05-04T00:00:00",
+    "creditLine": "Gift of A. Bredius, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1619",
+    "sortingDate": 1619,
+    "period": 17,
+    "yearEarly": 1619,
+    "yearLate": 1619
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A6711",
+      "25G41(ROSE)",
+      "25G41(TULIP)",
+      "25G41(NARCISSUS)",
+      "25G41(CARNATION)",
+      "41A773"
+    ],
+    "iconClassDescription": [
+      "flowers in a vase",
+      "flowers: rose",
+      "flowers: tulip",
+      "flowers: narcissus",
+      "flowers: carnation",
+      "container of ceramics: jar, jug, pot, vase"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1522"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ambrosius Bosschaert",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "31"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "22.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on copper",
+  "longTitle": "Still Life with Flowers in a Wan-li Vase, Ambrosius Bosschaert, 1619",
+  "subTitle": "h 31cm \u00d7 w 22.5cm",
+  "scLabelLine": "Ambrosius Bosschaert, 1619, oil on copper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

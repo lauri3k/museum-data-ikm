@@ -1,0 +1,264 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-RAK-1992-1",
+  "priref": "49133",
+  "objectNumber": "AK-RAK-1992-1",
+  "language": "en",
+  "title": "Durga Killing the Buffalo Demon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e3f3f208-b2be-4b0b-8852-b67c362e97be",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 29,
+    "width": 1623,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/H3C8PP-Am2qUqyDQikYw1gB-JW0rOfKtwalvXLqGhcz2GFQ6N3hRA7O65nGKbDqYupop9XeNFEIbWEs2VGpfRkQ8Cw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 26,
+      "hex": "#908D83"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F7F7F7"
+    },
+    {
+      "percentage": 19,
+      "hex": " #69665B"
+    },
+    {
+      "percentage": 18,
+      "hex": " #D2D2D1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B0AEA5"
+    },
+    {
+      "percentage": 3,
+      "hex": " #4D4B42"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F2D26"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#908D83",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F7F7F7",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #69665B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D2D2D1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #B0AEA5",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #4D4B42",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2F2D26",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 26,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 18,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 46,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 27,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Durga Killing the Buffalo Demon"
+  ],
+  "description": "Sculptuur van Durga Mahishasuramardini (Durga, die de buffeldemon doodt), van steen.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1992-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1000 - c. 1100",
+    "sortingDate": 1000,
+    "period": 10,
+    "yearEarly": 1000,
+    "yearLate": 1100
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12HH13",
+      "12B19"
+    ],
+    "iconClassDescription": [
+      "representations ~ goddesses, demi-goddesses, heroines etc. (Hinduism, Buddhism or Jainism)",
+      "demons ~ non-Christian religions"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-RAK-1992-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Anna Slaczka, 'Straks weer te zien in het Rijksmuseum : Godin die de Buffeldemon doodt', Aziatische Kunst 41 (2011) nr. 3, p. 18-20.",
+    "A.A. Slaczka, The Iconography of the Hindu Deities in the Devyamata, an Early Saiva pratisthatantra, in: L. Sudyka [red.], Interrelations of Indian Literature and Arts, Krakow 2011, p. 181-261.",
+    "Y. Yokochi, The Rise of the Warriors Goddess in Ancient India : A study of the Myth Cycle of Kausiki-Vindyavasini in the Skandapurana, s.l. 2005.",
+    "E. Haque, Bengal Sculptures : Hindu Iconography up to c. 1250 A.D., Dhaka 1992, . 237-253, fig. 196-205.",
+    "Inzoomer object op zaal, 2013 (Nederlands/English)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "37.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "12"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "stone",
+  "longTitle": "Durga Killing the Buffalo Demon, anonymous, c. 1000 - c. 1100",
+  "subTitle": "h 87.5cm \u00d7 w 37.0cm \u00d7 d 12cm",
+  "scLabelLine": "Bangladesh, Pala style, 11th century, stone",
+  "label": {
+    "title": "Durga Killing the Buffalo Demon",
+    "makerLine": "Bangladesh, Pala style, 11th century, stone",
+    "description": "The fight between the Hindu goddess Durga and the demon is described in various Sanskrit texts, which are well known to Hindus. The demon could change shape. He first appeared as a buffalo and was beheaded by Durga; the buffalo\u2019s decapitated head can be seen lying on the ground. When the demon assumed human form, the goddess killed him again, this time using a trident.",
+    "notes": null,
+    "date": "2013-04-03"
+  },
+  "showImage": true,
+  "location": "AK-1"
+}

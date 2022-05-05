@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-182",
+  "priref": "8770",
+  "objectNumber": "SK-A-182",
+  "language": "en",
+  "title": "Woman with a Child in a Pantry",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8254c6e8-b924-4a1b-9c88-9dfe876ca077",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 6901,
+    "height": 7382,
+    "url": "https://lh3.googleusercontent.com/5HyCvI9V8cj41z9iLdosXvrriM9Nf-UHAvlqYjGswdPIR26J76pjjUvsLI0K2OWLeV5jEu1mW9h2kuEn1W-xdWnqWg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 52,
+      "hex": "#373121"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8C7B54"
+    },
+    {
+      "percentage": 11,
+      "hex": " #564F37"
+    },
+    {
+      "percentage": 5,
+      "hex": " #7F5418"
+    },
+    {
+      "percentage": 5,
+      "hex": " #0A0906"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A49E7D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C7C1A5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#373121",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8C7B54",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #564F37",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7F5418",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #0A0906",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A49E7D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C7C1A5",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Woman with a Child in a Pantry"
+  ],
+  "description": "Een vrouw met een kind in een kelderkamer met tegelvloer. Een jonge vrouw reikt een klein meisje een kan met deksel. Links en rechts doorkijkjes naar andere kamers. In de kamer rechts staat het venster open, bij het raam een stoel met kussen, aan de muur een schilderij met een mansportret.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter de Hooch",
+      "unFixedName": "Hooch, Pieter de",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1629-12-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679",
+      "dateOfDeathPrecision": "in or after",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter de Hooch (20-dec-1629 - in or after 1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter de Hooch",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1817-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1656 - c. 1660",
+    "sortingDate": 1656,
+    "period": 17,
+    "yearEarly": 1656,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A2",
+      "41A771",
+      "31D11222"
+    ],
+    "iconClassDescription": [
+      "interior of the house",
+      "container of metal: bucket, can, canister, drum, tin",
+      "girl (child between toddler and youth)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-182"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter de Hooch",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "65"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Woman with a Child in a Pantry, Pieter de Hooch, c. 1656 - c. 1660",
+  "subTitle": "h 65cm \u00d7 w 60.5cm",
+  "scLabelLine": "Pieter de Hooch (1629\u2013c. 1683), oil on canvas, c. 1656\u20131660",
+  "label": {
+    "title": "Woman with a Child in a Pantry",
+    "makerLine": "Pieter de Hooch (1629\u2013c. 1683), oil on canvas, c. 1656\u20131660",
+    "description": "Pieter de Hooch worked in Delft for a few years at the same time as Johannes Vermeer. Both artists were\nfascinated by how to render light and space. Here, De Hooch represented a space by means of two \u2018throughviews\u2019 (glimpses through doorways or windows): one into the cellar, the other into the entrance hall. He depicted the daylight with the lightest of paint, namely pure white. He thus created the perfect illusion of an interior space.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": "HG-2.30.3"
+}

@@ -1,0 +1,231 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3989",
+  "priref": "8186",
+  "objectNumber": "SK-A-3989",
+  "language": "en",
+  "title": "Mary Magdalene",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "844afceb-0e31-430f-a62a-c16225e2ff87",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 10,
+    "width": 789,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/XrE3cqsL3Cpk_vo9rB99AGsFGeLdu1Qumqs8BHvKcBr16iPtsjFv2wVWgtHknJ4-HiJ-2lhxHzl2LPcKKGgLd4FCnC8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#8C7456"
+    },
+    {
+      "percentage": 23,
+      "hex": " #565437"
+    },
+    {
+      "percentage": 14,
+      "hex": " #AD9369"
+    },
+    {
+      "percentage": 12,
+      "hex": " #472C23"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C1AF8E"
+    },
+    {
+      "percentage": 6,
+      "hex": " #813B2E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E1D4BB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#8C7456",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #565437",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #AD9369",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #472C23",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #C1AF8E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #813B2E",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #E1D4BB",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 56,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A52A2A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 33,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 23,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 22,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 19,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Mary Magdalene"
+  ],
+  "description": "De heilige Maria Magdalena, staande met de zalfpot in de rechterhand.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Carlo Crivelli",
+      "unFixedName": "Crivelli, Carlo",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Carlo Crivelli"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Carlo Crivelli",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1480",
+    "sortingDate": 1480,
+    "period": 15,
+    "yearEarly": 1480,
+    "yearLate": 1480
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(MARY MAGDALENE)"
+    ],
+    "iconClassDescription": [
+      "the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3989"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Carlo Crivelli",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "49"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "tempera on panel",
+  "longTitle": "Mary Magdalene, Carlo Crivelli, c. 1480",
+  "subTitle": "h 152cm \u00d7 w 49cm",
+  "scLabelLine": "Carlo Crivelli (c. 1430\u20131495), Ascoli Piceno, ca. 1480, tempera on panel",
+  "label": {
+    "title": "Mary Magdalene",
+    "makerLine": "Carlo Crivelli (c. 1430\u20131495), Ascoli Piceno, ca. 1480, tempera on panel",
+    "description": "With Carlo Crivelli, the so-called \u2018International Gothic\u2019 style experienced its final flowering in Italy. This perfectly preserved panel was painted towards the end of his career. It served as the altarpiece of a provincial church dedicated to Mary Magdalene\nin the sparsely populated rural area of the Marches where Crivelli lived.",
+    "notes": null,
+    "date": "2014-01-28"
+  },
+  "showImage": true,
+  "location": "HG-0.2"
+}

@@ -1,0 +1,224 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-230",
+  "priref": "5505",
+  "objectNumber": "SK-C-230",
+  "language": "en",
+  "title": "The Sick Woman",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d1cb50bd-d3b7-424f-ad7d-6f815a749761",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2148,
+    "height": 2588,
+    "url": "https://lh3.googleusercontent.com/GFRfu3RlXmUidpjPAsCfSocljTqJvOTRu_nNaNsZCZ4814rMzybV2bFIXV7uq4VgC-Eou2CrWmM8dCTUN1n80wsYdRl3=s0"
+  },
+  "colors": [
+    {
+      "percentage": 77,
+      "hex": "#4B3B29"
+    },
+    {
+      "percentage": 14,
+      "hex": " #18160E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #847550"
+    },
+    {
+      "percentage": 1,
+      "hex": " #555A55"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AB9C6D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AFAE9C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C5C5B5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4B3B29",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #18160E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #847550",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #555A55",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AB9C6D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AFAE9C",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C5C5B5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 78,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "The sick woman"
+  ],
+  "description": "De zieke vrouw. In een interieur neemt een dokter de pols van een jonge vrouw die voorovergebogen met haar hoofd op een kussen ligt. Op de achtergrond een bed, aan de muur een luit en een klok. Linksonder een stoof en een testje.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Havicksz. Steen",
+      "unFixedName": "Steen, Jan Havicksz.",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1626",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1679-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Havicksz. Steen (c. 1626 - feb-1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Havicksz. Steen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1663 - c. 1666",
+    "sortingDate": 1663,
+    "period": 17,
+    "yearEarly": 1663,
+    "yearLate": 1666
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49G2",
+      "49G311",
+      "49G1",
+      "42A132"
+    ],
+    "iconClassDescription": [
+      "patient, sick person",
+      "examination of urine",
+      "physician, doctor",
+      "nausea, giddiness (of pregnant woman)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-230"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Havicksz. Steen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Sick Woman, Jan Havicksz. Steen, c. 1663 - c. 1666",
+  "subTitle": "h 76cm \u00d7 w 63.5cm",
+  "scLabelLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, c. 1663\u20131666",
+  "label": {
+    "title": "The Sick Woman",
+    "makerLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, c. 1663\u20131666",
+    "description": "Faint from fever, the young woman rests her head on a pillow. Is she perhaps lovesick? Is she pregnant? To find out, a quack would put a strip of his patient\u2019s clothing in a brazier to smoulder \u2013 the scent would disclose her secret. Jan Steen here presents such a charlatan making a diagnosis. His old-fashioned attire characterizes him as a comic character.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": null
+}

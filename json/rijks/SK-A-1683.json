@@ -1,0 +1,256 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1683",
+  "priref": "7469",
+  "objectNumber": "SK-A-1683",
+  "language": "en",
+  "title": "Portrait of Lieutenant-Admiral Cornelis Tromp in Roman Costume",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8c5aa43e-5ac1-478a-abbc-1424e2a33a81",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2508,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/fPhp00rWNNzv_89eqI1eePlig-b7gLr7YnZDd_gz7SQEQe7PD4CV5dRNgfC9dsJ-5wIwFj9K8XgOeE674bMfy8I9Zw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#564535"
+    },
+    {
+      "percentage": 27,
+      "hex": " #452118"
+    },
+    {
+      "percentage": 19,
+      "hex": " #7B5536"
+    },
+    {
+      "percentage": 9,
+      "hex": " #280E0F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8F7558"
+    },
+    {
+      "percentage": 1,
+      "hex": " #98907F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B4AE9A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#564535",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #452118",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #7B5536",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #280E0F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8F7558",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #98907F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B4AE9A",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 27,
+      "hex": " #800000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 9,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 27,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 27,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Portrait of Lieutenant-Admiral Cornelis Tromp in Roman Costume"
+  ],
+  "description": "Portret van Cornelis Tromp (1629-91), luitenant-admiraal, in Romeins kostuum. Staande, ten halven lijve, aan een kust, met in de verte een zeeslag. Voorgesteld op het moment dat hij zijn zwaard uit de schede trekt.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Abraham Evertsz. van Westerveld",
+      "unFixedName": "Westerveld, Abraham Evertsz. van",
+      "placeOfBirth": null,
+      "dateOfBirth": "1620",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1692-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rotterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham Evertsz. van Westerveld (c. 1620 - apr-1692)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham Evertsz. van Westerveld",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1894-06-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650 - 1692",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1692
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45H3(+3)",
+      "41D2"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "battle (+ naval force)",
+      "clothes, costume"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16501691"
+    ],
+    "places": [],
+    "people": [
+      "Tromp, Cornelis"
+    ],
+    "objectNumbers": [
+      "SK-A-1683"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Tromp, Cornelis"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Eveline Sint Nicolaas, 'A Diplomatic Gift Full of Surprises : The weapon rack of Cornelis Tromp and other 'exotic' arms belonging to Tromp and Michiel de Ruyter', in: Thom Richardson,  East Meets West : Diplomatic Gifts of Arms and Armour between Europe and Asia, proceedings of the Royal Armouries conference held at H.M. Tower of London, Saturday 14 September 2013, p. 106, fig. 18.",
+    "J.B. Kist, 'Wapens van Cornelis Tromp (1629-1691)', Antiek 6 (1971-1972) 10, p. 653-673 (afb. p. 664).",
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Abraham Evertsz. van Westerveld",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "40"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "33"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Lieutenant-Admiral Cornelis Tromp in Roman Costume, Abraham Evertsz. van Westerveld, 1650 - 1692",
+  "subTitle": "h 40cm \u00d7 w 33cm",
+  "scLabelLine": "Abraham Evertsz. van Westerveld, 1650 - 1692, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "HG-0.12"
+}

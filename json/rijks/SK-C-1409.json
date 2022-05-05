@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1409",
+  "priref": "5352",
+  "objectNumber": "SK-C-1409",
+  "language": "en",
+  "title": "The Old Town Hall of Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9c6d0083-4ad5-48e2-a542-5858ad657ae4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1931,
+    "url": "https://lh3.googleusercontent.com/4sXqduLWWNyBbGT8P-2SYMQKh2loADqzO_Xn1-yIQPLJJSEOKCkMd1otBBT3eCceV8PtHQBIuBLGlSujSFwPsj70yGC8f3VfMBtJZD2u=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#111314"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7F8F87"
+    },
+    {
+      "percentage": 54,
+      "hex": " #BBC2C9"
+    },
+    {
+      "percentage": 19,
+      "hex": " #BAAD71"
+    },
+    {
+      "percentage": 20,
+      "hex": " #7C6F4D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #433323"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#111314",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7F8F87",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BBC2C9",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #BAAD71",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7C6F4D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #433323",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 20,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 19,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 54,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 39,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The old town hall of Amsterdam"
+  ],
+  "description": "Gezicht op het oude stadhuis aan de Dam te Amsterdam. In de galerij van de vierschaar en voor het gebouw enkele personen. Rechts enkele winkeltjes.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Jansz Saenredam",
+      "unFixedName": "Saenredam, Pieter Jansz",
+      "placeOfBirth": "Assendelft",
+      "dateOfBirth": "1597-06-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1665-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter Jansz Saenredam (09-jun-1597 - mei-1665)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Jansz Saenredam",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1950-11-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1657",
+    "sortingDate": 1657,
+    "period": 17,
+    "yearEarly": 1657,
+    "yearLate": 1657
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B233"
+    ],
+    "iconClassDescription": [
+      "townhall"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Stadhuis van Amsterdam (14e eeuw-1652)"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-1409"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Jansz Saenredam",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "65.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "84.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Old Town Hall of Amsterdam, Pieter Jansz Saenredam, 1657",
+  "subTitle": "h 65.5cm \u00d7 w 84.5cm",
+  "scLabelLine": "Pieter Jansz Saenredam (1597\u20131665), oil on panel, 1657",
+  "label": {
+    "title": "The Old Town Hall of Amsterdam",
+    "makerLine": "Pieter Jansz Saenredam (1597\u20131665), oil on panel, 1657",
+    "description": "Saenredam based this painting on a drawing he had made sixteen years earlier. On the step of the portico, he noted that the dilapidated town hall had in the meantime been destroyed by fire and replaced by a new monumental one (now the Palace on Dam Square). From 1658 this painting hung in the stately chamber\nof the mayors in the new Town Hall as a memento of the old building.",
+    "notes": null,
+    "date": "2013-03-21"
+  },
+  "showImage": true,
+  "location": "HG-2.30.2"
+}

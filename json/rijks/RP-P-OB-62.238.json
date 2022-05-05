@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-62.238",
+  "priref": "191302",
+  "objectNumber": "RP-P-OB-62.238",
+  "language": "en",
+  "title": "Portret van Michiel Sparenbeek van Kranenburgh",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "69fd29a4-4094-4223-b770-f4a0bce32210",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1870,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/4-ZHTn-F38T_QYo7zeC-iUQGsHaM3xJ-faOP1G1yOjFW-00yret_muZrBEbA0f7sXyAh3_JDdwr24muLSXbT-vW38v4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Michiel Sparenbeek van Kranenburgh"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Visscher (II)",
+      "unFixedName": "Visscher, Cornelis (II)",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1629",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1658-01-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Visscher (II) (1629 - 16-jan-1658), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Visscher (II)",
+      "unFixedName": "Visscher, Cornelis (II)",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1629",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1658-01-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Visscher (II) (1629 - 16-jan-1658), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Visscher (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1638 - 1658",
+    "sortingDate": 1638,
+    "period": 17,
+    "yearEarly": 1638,
+    "yearLate": 1658
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D221"
+    ],
+    "iconClassDescription": [
+      "head-gear"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-62.238"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 161",
+    "161"
+  ],
+  "principalOrFirstMaker": "Cornelis Visscher (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "212"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Michiel Sparenbeek van Kranenburgh, Cornelis Visscher (II), 1638 - 1658",
+  "subTitle": "h 212mm \u00d7 w 157mm",
+  "scLabelLine": "Cornelis Visscher (II), 1638 - 1658, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

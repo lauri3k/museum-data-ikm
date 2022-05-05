@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-383",
+  "priref": "378037",
+  "objectNumber": "SK-A-383",
+  "language": "en",
+  "title": "Self-portrait",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "52063391-0278-4e2f-b73d-96165f8e0ebf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 15,
+    "width": 2230,
+    "height": 2590,
+    "url": "https://lh3.googleusercontent.com/GVIL4z8-zb4iicaLy6yTkANAdQFrhrekjQBXS-hRZd6a7WO3AswhwwymmnAGHnMJTh428-8NomtZ4gOU9Bqa5mTT-g=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#615841"
+    },
+    {
+      "percentage": 32,
+      "hex": " #60371C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B29B6A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #AAA996"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8E876E"
+    },
+    {
+      "percentage": 47,
+      "hex": " #11100C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#615841",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #60371C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B29B6A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AAA996",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8E876E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #11100C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 32,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 32,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 14,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Self-Portrait"
+  ],
+  "description": "Jan Steen portretteerde zichzelf als een zelfbewuste kunstenaar, deftig in het zwart, met op de achtergrond een gedrapeerd gordijn. Met dit type zelfportret volgde hij het voorbeeld van beroemde meesters als Titiaan en Rembrandt. Het portret vormt in Steens oeuvre een uitzondering. Doorgaans schilderde hij zichzelf in de rol van komiek.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Havicksz. Steen",
+      "unFixedName": "Steen, Jan Havicksz.",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1626",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1679-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Havicksz. Steen (c. 1626 - feb-1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Havicksz. Steen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1821-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1670",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1670
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "41A422"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "hangings and drapery"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Steen, Jan Havicksz."
+    ],
+    "objectNumbers": [
+      "SK-A-383"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Steen, Jan Havicksz."
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Havicksz. Steen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "73"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "95"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "85.5"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Self-portrait, Jan Havicksz. Steen, c. 1670",
+  "subTitle": "h 73cm \u00d7 w 62cm",
+  "scLabelLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, c. 1670",
+  "label": {
+    "title": "Self-portrait",
+    "makerLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, c. 1670",
+    "description": "A distinguished citizen dressed in decorous black is seated before a red curtain and tassel. Jan Steen, known primarily for his humorous scenes with simple folk, portrayed himself here as utterly self-assured. He also regularly included himself in other paintings, but then usually in a comic role.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": null
+}

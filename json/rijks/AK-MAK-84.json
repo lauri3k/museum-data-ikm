@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-84",
+  "priref": "935",
+  "objectNumber": "AK-MAK-84",
+  "language": "en",
+  "title": "Guanyin",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9ff4dc3b-6580-443e-9546-9ab1a4478d13",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2759,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/FkkMpQsDIyGGyfUGafaEKVcrXJXFDMfzDBuIU41XIg8nWGGEQwmHa1ouAL2Zhyl2yw4mBqwAlmUY1tULVdZoTN2QcA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#E6E2DD"
+    },
+    {
+      "percentage": 24,
+      "hex": " #251F1A"
+    },
+    {
+      "percentage": 3,
+      "hex": " #CFC0B2"
+    },
+    {
+      "percentage": 19,
+      "hex": " #746B63"
+    },
+    {
+      "percentage": 36,
+      "hex": " #4B433E"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A6978D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E6E2DD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #251F1A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #CFC0B2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #746B63",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4B433E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A6978D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 56,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 68,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 24,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Guanyin"
+  ],
+  "description": "Houten Guanyin met resten van beschildering en verguldsel. Guanyin zit in een ontspannen houding: \u00e9\u00e9n been heeft hij opgetrokken, de rechterarm rust er losjes op.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture",
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": "De boeddhistische godheid Guanyin, redder van mensen in nood, is afgebeeld tijdens het mediteren, zittend op een rots. Volgens de legende werd hij ooit in deze houding aangetroffen, mediterend op de weerspiegeling van de maan in het water, in het boeddhisme een symbool van illusie en vergankelijkheid. Zijn houding en gezicht belichamen innerlijke rust en concentratie. ",
+  "plaqueDescriptionEnglish": "The Buddhist deity Guanyin, who rescues people in need, is shown here meditating, seated on a rock. According to legend, he was once discovered in this position, meditating on the moon\u2019s reflection in the water - in Buddhism a symbol of illusion and transience. His pose and facial expression embody inner peace and concentration. ",
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase widow Otto H. Kahn, 1939)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "willow (wood)",
+    "gilding (material)",
+    "dye"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1100 - c. 1200",
+    "sortingDate": 1100,
+    "period": 11,
+    "yearEarly": 1100,
+    "yearLate": 1200
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12N13",
+      "12H13"
+    ],
+    "iconClassDescription": [
+      "representations ~ gods, demi-gods, heroes, etc. (traditional Chinese religions)",
+      "representations ~ gods, demi-gods, heroes, etc. (Hinduism, Buddhism, Jainism)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Guanyin"
+    ],
+    "objectNumbers": [
+      "AK-MAK-84"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Guan Yin"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Inzoomer object op zaal, 2013 (Nederlands/English).",
+    "Ren\u00e9e Steenbergen, 'De Vereniging van Vrienden der Aziatische Kunst in het interbellum : Deftige verzamelaars, rijke donateurs en Indische fortuinen', Aziatische Kunst 38 (2008), nr. 3, p. 12, afb. 9.",
+    "Ellen Uitzinger, 'Guanyin dooergelicht', Aziatische Kunst 32/2 (2002), pp. 21-27.",
+    "Verkregen met de steun van de Vereniging Rembrandt , Bulletin van het Rijksmuseum 31 (1983) 3, p. 195-231, afb. 19.",
+    "J. Fontein, Rose Hempel, 'China, Korea, Japan' in: Propyl\u00e4en Kunstgeschichte Bd. 17, Berlijn 1968, p. 175, pl. 115.",
+    "D. Seckel, Buddischtische Kunst, Stuttgart 1957, pl. 68.",
+    "London News, Kerstmis, 1947",
+    "Kunst uit het Oosten, pl. 27"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "117.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "111.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "74.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "willow and paulownia wood with painting and guilding",
+  "longTitle": "Guanyin, anonymous, c. 1100 - c. 1200",
+  "subTitle": "h 117.0cm \u00d7 w 111.0cm \u00d7 d 74.0cm",
+  "scLabelLine": "China, Shanxi, 12th century, painted and gilded wood",
+  "label": {
+    "title": "Guanyin",
+    "makerLine": "China, Shanxi, 12th century, painted and gilded wood",
+    "description": "Here the Buddhist deity Guanyin, saviour of people in peril, is represented meditating on a rock. According to legend, he was once found in this position, meditating on the reflection of the moon in water, a symbol of illusion and transience in Buddhism. His pose and face embody inner peace and concentration.",
+    "notes": "Multimediatour",
+    "date": "2018-02-07"
+  },
+  "showImage": true,
+  "location": "AK-2"
+}

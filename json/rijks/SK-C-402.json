@@ -1,0 +1,253 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-402",
+  "priref": "8834",
+  "objectNumber": "SK-C-402",
+  "language": "en",
+  "title": "A Group of Guardsmen, 1529",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c9b67f68-8dd5-41ff-8d3f-a174e73bfd1f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1095,
+    "url": "https://lh3.googleusercontent.com/97B7IEA3UiGtMGPJGMdqlGB7bI3EqUybTRu-qThLsS53U6p3rrgSb1zvKwzjBAgCKNHFvaf1pDB4wZI2U32bn1mLWClN5Cq3rC7I054y=s0"
+  },
+  "colors": [
+    {
+      "percentage": 19,
+      "hex": "#060605"
+    },
+    {
+      "percentage": 58,
+      "hex": " #282116"
+    },
+    {
+      "percentage": 14,
+      "hex": " #4B3C29"
+    },
+    {
+      "percentage": 7,
+      "hex": " #745F41"
+    },
+    {
+      "percentage": 0,
+      "hex": " #978F6F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BCB795"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#060605",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #282116",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4B3C29",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #745F41",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #978F6F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BCB795",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 77,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 91,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "A Group of Guardsmen, 1529"
+  ],
+  "description": "Een groep schutters van de Kloveniersdoelen. Schuttersstuk bestaande uit drie delen: een middenstuk uit 1529 met zeventien personen en twee zijstukken elk met zeven portretten die later zijn toegevoegd. Alle figuren zijn in buste of ten halven lijve voorgesteld, met een zwarte baret op het hoofd en meestal met gebarende handen. Op het linker zijstuk een man met een lied op een stuk papier, een man met een roemer en een schutter met een haring en een mes. In het middenstuk houden twee schutters in hun hand de loop van hun geweer, boven een man met een pen. In het rechter stuk ook een schrijvende man met een pen naast de man met een tinnen kan.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirck Jacobsz",
+      "unFixedName": "Jacobsz, Dirck",
+      "placeOfBirth": null,
+      "dateOfBirth": "1497",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1567",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Dirck Jacobsz (c. 1497 - 1567)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck Jacobsz",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-10-02T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1559",
+    "sortingDate": 1559,
+    "period": 16,
+    "yearEarly": 1559,
+    "yearLate": 1559
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45(+26)"
+    ],
+    "iconClassDescription": [
+      "warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kloveniersdoelen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-402"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "A. Jensen Adams, Public Faces and Private Identities in Seventeenth-Century Holland, Portraiture and the Production of Community, New York 2009, p. 212,  225, fig. 66"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck Jacobsz",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "119.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "174.4"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "119.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "75.9"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "120.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "76.1"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": "c.",
+      "part": null,
+      "value": "60"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "A Group of Guardsmen, 1529, Dirck Jacobsz, 1559",
+  "subTitle": "h 119.3cm \u00d7 w 174.4cm",
+  "scLabelLine": "Dirck Jacobsz, 1559, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

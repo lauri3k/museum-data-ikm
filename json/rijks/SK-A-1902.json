@@ -1,0 +1,240 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1902",
+  "priref": "7571",
+  "objectNumber": "SK-A-1902",
+  "language": "en",
+  "title": "\u2018Arrangement in Yellow and Gray\u2019: Effie Deans",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "59f9cc06-4bbf-44a8-a44b-1cecbf556a40",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 3,
+    "width": 1176,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/1cNFdXShyn5laCI_qN_is7BXHCHGFvXVPnmzUQ3TaWRrrAVuAtOjbv05PExHgEGEs8UUqHFauq_u0gj4DaFaNnwC9A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#272723"
+    },
+    {
+      "percentage": 64,
+      "hex": " #424034"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A08E58"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C5B277"
+    },
+    {
+      "percentage": 28,
+      "hex": " #6C664B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #848475"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#272723",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #424034",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #A08E58",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C5B277",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6C664B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #848475",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 93,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 64,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 31,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "\u2018Arrangement in Yellow and Gray\u2019: Effie Deans"
+  ],
+  "description": "Een staande jonge vrouw, ten voeten uit, in profiel naar rechts. Een van meerdere schilderijen van staande vrouwen met de titel \u201cArrangement ...\u201d uit de jaren 1874-77 waarvoor Maud Franklin, de ma\u00eetresse van de kunstenaar, heeft geposeerd. De bijtitel \u201cEffie Deans\u201d, die naar een van de hoofdpersonages in Walter Scott\u2019s roman \u201cThe Heart of Midlothian\u201d (1818)  verwijst,  werd in 1886 voor het eerst gebruikt;  het opschrift en de signatuur werden waarschijnlijk pas in 1889 toegevoegd.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "James Abbott McNeill Whistler",
+      "unFixedName": "Whistler, James Abbott McNeill",
+      "placeOfBirth": "Lowell",
+      "dateOfBirth": "1834-07-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1903-07-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Chelsea",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "James Abbott McNeill Whistler (10-jul-1834 - 17-jul-1903)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "James Abbott McNeill Whistler",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1900-04-01T00:00:00",
+    "creditLine": "Gift of M.C., Baroness van Lynden-van Pallandt, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1876 - c. 1878",
+    "sortingDate": 1876,
+    "period": 19,
+    "yearEarly": 1876,
+    "yearLate": 1878
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31AA231"
+    ],
+    "iconClassDescription": [
+      "standing figure - AA - female human figure"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1902"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "James Abbott McNeill Whistler",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "194"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "93"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "224.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "\u2018Arrangement in Yellow and Gray\u2019: Effie Deans, James Abbott McNeill Whistler, c. 1876 - c. 1878",
+  "subTitle": "h 194cm \u00d7 w 93cm \u00d7 d 9cm",
+  "scLabelLine": "James Abbott McNeill Whistler (1834\u20131903), oil on canvas, c. 1876\u20131878",
+  "label": {
+    "title": "\u2018Arrangement in Yellow and Gray\u2019: Effie Deans",
+    "makerLine": "James Abbott McNeill Whistler (1834\u20131903), oil on canvas, c. 1876\u20131878",
+    "description": "Whistler considered the formal and painterly qualities of his works more important than any reference to what they depicted. He often gave paintings musical titles indicating the colours in the composition. This is one of a series of studies he called \u2018Arrangements\u2019; it later acquired a literary sub-title Effie Deans referring to the heroine of Sir Walter Scott\u2019s novel The Heart of Midlothian.",
+    "notes": null,
+    "date": "2014-01-13"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-385",
+  "priref": "5500",
+  "objectNumber": "SK-A-385",
+  "language": "en",
+  "title": "The Feast of St Nicholas",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "89f09729-f5bf-481c-b90f-38edbace60a1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2324,
+    "height": 2713,
+    "url": "https://lh3.googleusercontent.com/5AA_BNey03ZDae2iAmr521pe3WGem57AmjPFwy22a5375Dfjp9lt0WhVm9slUcVyC3wIP0cB4qZvS7LC24YLug9581g=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#432D19"
+    },
+    {
+      "percentage": 40,
+      "hex": " #1A160E"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6E502F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #866E47"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8F876D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A3A08A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B7B49C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#432D19",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #1A160E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6E502F",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #866E47",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8F876D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A3A08A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B7B49C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 53,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 40,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "The feast of St. Nicholas"
+  ],
+  "description": "Interieur waarin een familie het Sint Nicolaasfeest viert. In het midden een meisje met in haar armen een Johannes de Doper-pop en een emmer met snoep. Links een huilende jongen die een roe in zijn schoen heeft gekregen. Naast de moeder met uitgestoken armen staat een lachende jongen met een kolfstok. Op de vloer staat een mand met koeken en broodjes, bij de schoorsteen zingen enkele jongeren een sinterklaaslied. Op de achtergrond een oudere man en vrouw.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Havicksz. Steen",
+      "unFixedName": "Steen, Jan Havicksz.",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1626",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1679-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Havicksz. Steen (c. 1626 - feb-1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Havicksz. Steen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1809-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1665 - 1668",
+    "sortingDate": 1665,
+    "period": 17,
+    "yearEarly": 1665,
+    "yearLate": 1668
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A1451",
+      "31B6214",
+      "43C7871",
+      "41C634",
+      "41D2332(+83)",
+      "41A22"
+    ],
+    "iconClassDescription": [
+      "festivities on St. Nicholas (Eve) (December 5)",
+      "weeping",
+      "(playing with) dolls",
+      "sugar-candy",
+      "shoes, sandals (+ children's clothes)",
+      "communal rooms"
+    ],
+    "motifs": [],
+    "events": [
+      "Sinterklaasfeest"
+    ],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-385"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "W. Kloek, Jan Steen (1626-1679), Zwolle 2005",
+    "Annual report : Rijksmuseum Amsterdam (1999), p. 40, afb.",
+    "W. Kloek, Een huishouden van Jan Steen, Hilversum 1998",
+    "M. Westermann, The Amusements of Jan Steen, Zwolle 1997, p. 154, 155, 319",
+    "K. Braun, Alle tot nu toe bekende schilderijen van Jan Steen, Rotterdam 1980",
+    "B.D. Kirschenbaum, The religious and historical paintings of Jan Steen, New York 1977, p. 59, afb. 105"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Havicksz. Steen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "82.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "70.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Feast of St Nicholas, Jan Havicksz. Steen, 1665 - 1668",
+  "subTitle": "h 82.0cm \u00d7 w 70.5cm",
+  "scLabelLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, 1665\u20131668",
+  "label": {
+    "title": "The Feast of St Nicholas",
+    "makerLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, 1665\u20131668",
+    "description": "The feast of St Nicholas takes place in December. In the Netherlands, it has been celebrated in the same way for centuries. Good children receive gifts from the saint. The little girl in the foreground, for instance, has a bucket full of treats. Naughty children, like the wailing boy at the left, get only a switch (a bundle of twigs) in their shoe. Jan Steen was a born storyteller. He succeeded in incorporating all of the elements of the popular feast in this picture.",
+    "notes": "Multimediatour",
+    "date": "2018-02-27"
+  },
+  "showImage": true,
+  "location": "HG-2.30.4"
+}

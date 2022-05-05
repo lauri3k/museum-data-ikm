@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1961-102",
+  "priref": "344359",
+  "objectNumber": "BK-1961-102",
+  "language": "en",
+  "title": "The Triumph of Time",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "52bfbc10-93d5-4241-8865-2febc4b58c41",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2277,
+    "url": "https://lh3.googleusercontent.com/xZsctrtCZ0XT6jqbhvI1Jnk_sW6QF3kwmPXhs15fvOfFPWxNYo434I4BKSHm6E1-MVJk_3nLz3oW4zJdAi1VS2AIKiA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Ruit met gebrandschilderde voorstelling van De Triomf van de Tijd, voorgesteld door Kronos staande op een door twee herten getrokken zegewagen die bedekt is met ten dele ontbladerde takken. Op de voorgrond krijgstrofee\u00ebn en de overwonnen figuur van \"De Faam\" met twee bazuinen. Voor de wagen de figuur van Hercules met een zuil als symbool van \"De Kracht\". Op de achtergrond een bergachtig landschap met bomen, rotspoort, een klassiek bouwwerk en in het verschiet een stadsgezicht. Kleuren: geel, bruin, groen en grisaille.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Pieter Coecke van Aelst (I)",
+      "unFixedName": "Coecke van Aelst, Pieter (I)",
+      "placeOfBirth": "Aalst",
+      "dateOfBirth": "1502",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1550-12-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": "after",
+      "labelDesc": "after Pieter Coecke van Aelst (I) (1502 - 06-dec-1550), Southern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Southern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1961-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "silver stain",
+    "lead (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Southern Netherlands",
+    "Southern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1530 - c. 1540",
+    "sortingDate": 1530,
+    "period": 16,
+    "yearEarly": 1530,
+    "yearLate": 1540
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "91B11141",
+      "91B11178",
+      "43A4315",
+      "59B32(+0)",
+      "94L74"
+    ],
+    "iconClassDescription": [
+      "Saturn devouring his children",
+      "triumph of Saturn; 'Carro di Saturno' (Ripa)",
+      "'Trionfo del Tempo', 'Triumphus Temporis'; 'Carro del Tempo' (Ripa)",
+      "Fame; 'Fama', 'Fama buona', 'Fama chiara' (Ripa) (+ variant)",
+      "Hercules as personification of some other abstract notion"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1961-102"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "J. Bruyn, 'Tekeningen uit de werkplaats van Pieter Coecke van Aelst voor een serie glasruitjes met de \"Trionfi\"', Nederlands Kunsthistorisch Jaarboek 38 (1987), p. 81 - 82, afb. 8."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "29.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glass",
+  "longTitle": "The Triumph of Time, anonymous, c. 1530 - c. 1540",
+  "subTitle": "d 29.5cm",
+  "scLabelLine": "after Pieter Coecke van Aelst (1502\u20131550), Southern Netherlands, c. 1530-1540",
+  "label": {
+    "title": "The Triumph of Time",
+    "makerLine": "after Pieter Coecke van Aelst (1502\u20131550), Southern Netherlands, c. 1530-1540",
+    "description": null,
+    "notes": null,
+    "date": "2013-08-19"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

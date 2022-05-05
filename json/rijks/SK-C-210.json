@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-210",
+  "priref": "5332",
+  "objectNumber": "SK-C-210",
+  "language": "en",
+  "title": "Landscape with Waterfall",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a4b30520-2296-47d3-ac10-93907280fc5b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2896,
+    "height": 2089,
+    "url": "https://lh3.googleusercontent.com/FcDBx2AP6veDpiC4HhvrSBTC8Oldvs_kvk1hlIrEflOnEUiTiUzhqw6OgFKVa5XBjC3Aisinrut_Xp2K2TxFq7pfzQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Landscape with waterfall"
+  ],
+  "description": "Landschap met op de voorgrond een brede waterval over rotsen met links en rechts boomstammen. Op de achtergrond een bos, in de verte een kerktoren en de molens van een dorp.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Isaacksz van Ruisdael",
+      "unFixedName": "Ruisdael, Jacob Isaacksz van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1629-06",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1682-03-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Isaacksz van Ruisdael (c. jun-1629 - 14-mrt-1682)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Isaacksz van Ruisdael",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1668",
+    "sortingDate": 1668,
+    "period": 17,
+    "yearEarly": 1668,
+    "yearLate": 1668
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H216"
+    ],
+    "iconClassDescription": [
+      "waterfall"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-210"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Isaacksz van Ruisdael",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "142.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "196"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Landscape with Waterfall, Jacob Isaacksz van Ruisdael, c. 1668",
+  "subTitle": "h 142.5cm \u00d7 w 196cm",
+  "scLabelLine": "Jacob Isaacksz van Ruisdael (c. 1628\u20131682), oil on canvas, c. 1668",
+  "label": {
+    "title": "Landscape with Waterfall",
+    "makerLine": "Jacob Isaacksz van Ruisdael (c. 1628\u20131682), oil on canvas, c. 1668",
+    "description": "The tiny figures in this grand landscape with a rushing waterfall are almost lost. The composition is dominated\nby gnarled trees, barren tree trunks, and roiling water. The dramatic cycle of nature\u2019s birth and decay is almost tangible. A church tower rises up in the distance like a beacon of peace.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": "HG-2.30.6"
+}

@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2568",
+  "priref": "4896",
+  "objectNumber": "SK-A-2568",
+  "language": "en",
+  "title": "Dancing Couple",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "57d0cf23-8811-4172-af14-df22e85c63e0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2880,
+    "height": 2085,
+    "url": "https://lh3.googleusercontent.com/9A-C3mNJpFgBo9k63J6tys7mjm8SM4lyI7-NgiitXfR9kf--sL0M3CoTDqIG5svql3-h_90hNzTnUaXuI295ogJ9ER0t5afAsT9BNMYGBg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dancing Couple"
+  ],
+  "description": "Het dansende paar. Herberginterieur met een boer en boerin die dansen op de muziek van een vioolspeler staande op een ton. Rechts een roker en een man die drinkt uit een pasglas.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen van Ostade",
+      "unFixedName": "Ostade, Adriaen van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1610-12-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1685-04-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adriaen van Ostade (19-dec-1610 - 28-apr-1685)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen van Ostade",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1912-05-01T00:00:00",
+    "creditLine": "Gift of the heirs of C. Hoogendijk, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1635",
+    "sortingDate": 1635,
+    "period": 17,
+    "yearEarly": 1635,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43C92",
+      "48C7311",
+      "43B31"
+    ],
+    "iconClassDescription": [
+      "one pair dancing; man and woman dancing as a couple",
+      "violin, fiddle",
+      "inn, coffee-house, public house, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2568"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "J. Blanc, 'Confusion des genres. Des th\u00e9ories hollandaises de la <peinture de genre>', Revue de l'Art, 161 (2008-3), p. 13, fig. 5"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen van Ostade",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "38.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "52.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Dancing Couple, Adriaen van Ostade, c. 1635",
+  "subTitle": "h 38.3cm \u00d7 w 52.2cm",
+  "scLabelLine": "Adriaen van Ostade, c. 1635, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

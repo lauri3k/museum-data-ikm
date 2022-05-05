@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-906",
+  "priref": "38004",
+  "objectNumber": "RP-P-BI-906",
+  "language": "en",
+  "title": "Fluitspelende herder en spinster",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a4386029-2803-4cf7-a63e-735c98260236",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2031,
+    "height": 2520,
+    "url": "https://lh5.ggpht.com/yi6jbgzqOVxk08xfm8eRYdm6F929DB16ptRVSoZMa0KxyELKPrtqBeH7bibNyRw2mGKvx3_ZqHxu9in5RhnaW4JHF4dc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 38,
+      "hex": "#E7E1CB"
+    },
+    {
+      "percentage": 19,
+      "hex": " #ABA494"
+    },
+    {
+      "percentage": 15,
+      "hex": " #7D7669"
+    },
+    {
+      "percentage": 10,
+      "hex": " #555147"
+    },
+    {
+      "percentage": 7,
+      "hex": " #CEC7B2"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FAF9F5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #37352F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E7E1CB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ABA494",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7D7669",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #555147",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CEC7B2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FAF9F5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #37352F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Fluitspelende herder en spinster"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes Pietersz Berchem",
+      "unFixedName": "Berchem, Nicolaes Pietersz",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1620",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1683-02-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolaes Pietersz Berchem (1620 - 18-feb-1683), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes Pietersz Berchem",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1652",
+    "sortingDate": 1652,
+    "period": 17,
+    "yearEarly": 1652,
+    "yearLate": 1652
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I221",
+      "47H311",
+      "48C7351",
+      "48C752"
+    ],
+    "iconClassDescription": [
+      "herding, herdsman, herdswoman, shepherd, shepherdess, cowherd, etc.",
+      "distaff",
+      "flute, aulos, tibia",
+      "one person playing an instrument"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-906"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 8",
+    "8",
+    "Hollstein Dutch 8",
+    "8"
+  ],
+  "principalOrFirstMaker": "Nicolaes Pietersz Berchem",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "262"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "209"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Fluitspelende herder en spinster, Nicolaes Pietersz Berchem, 1652",
+  "subTitle": "h 262mm \u00d7 w 209mm",
+  "scLabelLine": "Nicolaes Pietersz Berchem, 1652, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

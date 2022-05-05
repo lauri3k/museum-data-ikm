@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-613",
+  "priref": "6096",
+  "objectNumber": "SK-A-613",
+  "language": "en",
+  "title": "Consul Titus Manlius Torquatus Orders the Beheading of his Son",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "544084aa-eeeb-46b2-99bf-8c81737731fb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2826,
+    "height": 2611,
+    "url": "https://lh3.googleusercontent.com/sNosXH1RxWTGUm0tw5lke0H--k9uCfwmpYMeCgc2BZPF7yh9RVXcmWD-8zGelPoerlXYhLdwQIvBKlhsB6OBOdhYrHuD=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Consul Titus Manlius Torquatus Beheading his Son"
+  ],
+  "description": "Consul Titus Manlius Torquatus laat zijn zoon onthoofden. De consul zit op een troon tussen twee zuilen. Op de grond het lichaam van de zoon; de beul houdt het afgehakte hoofd omhoog. Rechts een soldaat met een paard. Op de achtergrond gebouwen van Rome.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ferdinand Bol",
+      "unFixedName": "Bol, Ferdinand",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1616-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1680-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "draughtsman",
+        "print maker"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Ferdinand Bol (jun-1616 - 24-jul-1680)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ferdinand Bol",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1799-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1661 - 1663",
+    "sortingDate": 1661,
+    "period": 17,
+    "yearEarly": 1661,
+    "yearLate": 1663
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "98B(TORQUATUS, T.M.)42"
+    ],
+    "iconClassDescription": [
+      "Torquatus has his son beheaded because he has fought an enemy in single combat against the strict orders of his father"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Admiraliteit van Amsterdam"
+    ],
+    "objectNumbers": [
+      "SK-A-613"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Admiraliteit van Amsterdam"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "F. Grijzenhout, 'Tempel voor Nederland : De Nationale Konst-Gallerij in 's-Gravenhage', Nederlands Kunsthistorische Jaarboek 35 (1984), p. 29, afb. 25."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ferdinand Bol",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "218"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "242"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Consul Titus Manlius Torquatus Orders the Beheading of his Son, Ferdinand Bol, 1661 - 1663",
+  "subTitle": "h 218cm \u00d7 w 242cm",
+  "scLabelLine": "Ferdinand Bol (1616\u20131680), oil on canvas, c. 1661\u20131664",
+  "label": {
+    "title": "Consul Titus Manlius Torquatus Orders the Beheading of his Son",
+    "makerLine": "Ferdinand Bol (1616\u20131680), oil on canvas, c. 1661\u20131664",
+    "description": "This picture was painted for the headquarters of the Admiralty of Amsterdam. It represents a story from Roman times in which a consul condemns his son to be beheaded for ignoring a command. The Admiralty\nintended this image to proclaim that insubordination would be severely punished. It also reminded officers\nthat they must always remain impartial.",
+    "notes": null,
+    "date": "2013-03-27"
+  },
+  "showImage": true,
+  "location": "HG-2.15"
+}

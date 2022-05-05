@@ -1,0 +1,214 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1606",
+  "priref": "5855",
+  "objectNumber": "SK-A-1606",
+  "language": "en",
+  "title": "Prometheus Being Chained by Vulcan",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "19b3ea23-5a3b-47dd-97e1-d0a98f3fef1b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2261,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/nm0eCaRlhQpyxbj0W_zxVpD_19LgWnuXxv4hMA1m2fwVlhvpv9dZZDkdo8ij87PP0EwAHKxc2kRr2W_kPzbzKv-4u3rxdXwx2XLb1hI_kQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 50,
+      "hex": "#201912"
+    },
+    {
+      "percentage": 24,
+      "hex": " #3F3023"
+    },
+    {
+      "percentage": 7,
+      "hex": " #5D4225"
+    },
+    {
+      "percentage": 6,
+      "hex": " #997E54"
+    },
+    {
+      "percentage": 5,
+      "hex": " #715331"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7F6440"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B59C71"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#201912",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3F3023",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5D4225",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #997E54",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #715331",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7F6440",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B59C71",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 50,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 16,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Prometheus being Chained by Vulcan"
+  ],
+  "description": "De liggende Prometheus door Vulcanus aan grote steenblokken geketend. Rechts kijkt Mercurius lachend toe. Achter Vulcanus een adelaar.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirck van Baburen",
+      "unFixedName": "Baburen, Dirck van",
+      "placeOfBirth": "Wijk bij Duurstede",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1624-02-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "painter",
+        "draughtsman",
+        "print maker"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Dirck van Baburen (c. 1595 - 21-feb-1624)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck van Baburen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1893-12-01T00:00:00",
+    "creditLine": "Gift of J. von Loehr, Ca\u00efro"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1623",
+    "sortingDate": 1623,
+    "period": 17,
+    "yearEarly": 1623,
+    "yearLate": 1623
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "91E461"
+    ],
+    "iconClassDescription": [
+      "punishment of Prometheus; he is chained to a rock, usually by Vulcan and/or Mercury"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1606"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Miguel Falomir, Las Furias : Alegor\u00eda pol\u00edtica y desaf\u00edo art\u00edstico, Madrid 2014, p. 99, fig. 60.",
+    "G. Janzen, 'De lotgevallen van Prometheus in de lage landen, de uitbeedilng van de Prmetheusmythe in Holland en Vlaanderen vanaf 1500', Hermeneus 59 (1987), p. 146-158."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck van Baburen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "201"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "182"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Prometheus Being Chained by Vulcan, Dirck van Baburen, 1623",
+  "subTitle": "h 201cm \u00d7 w 182cm",
+  "scLabelLine": "Dirck van Baburen (c. 1595\u20131624), oil on canvas, 1623",
+  "label": {
+    "title": "Prometheus Being Chained by Vulcan",
+    "makerLine": "Dirck van Baburen (c. 1595\u20131624), oil on canvas, 1623",
+    "description": "Prometheus stole fire from the gods and gave it to mankind. As punishment, Vulcan chained him to a rock, where an eagle pecked out his liver causing him excruciating pain. Here we see Prometheus being chained, his face contorted with fear, while Mercury laughs at him. Van Baburen borrowed the dramatic illumination and the figure\u2019s sunburned hands and faces from\nhis great model Caravaggio.",
+    "notes": null,
+    "date": "2013-03-20"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

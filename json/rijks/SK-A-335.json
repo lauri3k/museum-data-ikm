@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-335",
+  "priref": "6764",
+  "objectNumber": "SK-A-335",
+  "language": "en",
+  "title": "Still Life with Golden Goblet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d7a4618b-6b36-4579-84e4-446deb2e8679",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2215,
+    "height": 2656,
+    "url": "https://lh3.googleusercontent.com/3ISiYprJYeL5-2C74AWTdt-Uuc2G4zgkOB4pCww4jhxqUuX7nfasy5CUzFXO1vmBOnZ4jPu5O4W0eQbGOeqqP4uiwQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 78,
+      "hex": "#12171D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #5E351B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7E5B35"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8E8C73"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C3B27F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #253D58"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D6CEAB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#12171D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5E351B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7E5B35",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8E8C73",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C3B27F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #253D58",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #D6CEAB",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 78,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Still Life with Golden Goblet"
+  ],
+  "description": "Stilleven met een gouden pronkbokaal, een zilveren houder waarop een Chinese schotel staat, een sinaasappel, een geschilde citroen, druiven, perziken, een kreeft, een bord met oesters en een broodje.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter de Ring",
+      "unFixedName": "Ring, Pieter de",
+      "placeOfBirth": "Ieper",
+      "dateOfBirth": "1615",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1660-09-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter de Ring (c. 1615 - 22-sep-1660)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter de Ring",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1809-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1640 - 1660",
+    "sortingDate": 1640,
+    "period": 17,
+    "yearEarly": 1640,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C38",
+      "41C65",
+      "25G21",
+      "25F716(LOBSTER)"
+    ],
+    "iconClassDescription": [
+      "laid table as still life",
+      "vegetables and fruit; still life of vegetables and fruit",
+      "fruits",
+      "crustaceans: lobster"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-335"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Tucker Kinder, Tyrell, 'Pieter de Ring: A Still-Life Painter in Seventeenth Century Holland', Indiana University Art Museum Bulletin (1979), p. 30-32, fig. 5."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter de Ring",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Still Life with Golden Goblet, Pieter de Ring, 1640 - 1660",
+  "subTitle": "h 100cm \u00d7 w 85cm \u00d7 d 9cm",
+  "scLabelLine": "Pieter de Ring, 1640 - 1660, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

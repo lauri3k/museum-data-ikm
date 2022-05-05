@@ -1,0 +1,331 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1999-85",
+  "priref": "356616",
+  "objectNumber": "BK-1999-85",
+  "language": "en",
+  "title": "Cabinet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cae9ceaa-e0fa-4895-abc1-bcc37004664c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2062,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/Ci6VlZZyexvueST_evTP1th6qZ0p2TcZ94c4u97A_kgx61KycMMvXvUjTUgaD0-KmjAfYFSPsVRxjXVAVcQf4Q0X578=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#070C0E"
+    },
+    {
+      "percentage": 14,
+      "hex": " #BDB8A6"
+    },
+    {
+      "percentage": 16,
+      "hex": " #E9E9E7"
+    },
+    {
+      "percentage": 5,
+      "hex": " #9A8967"
+    },
+    {
+      "percentage": 13,
+      "hex": " #1C2B50"
+    },
+    {
+      "percentage": 14,
+      "hex": " #5F5953"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#070C0E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #BDB8A6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E9E9E7",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #9A8967",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #1C2B50",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #5F5953",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 35,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 14,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 13,
+      "hex": " #4019B1"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [],
+  "description": "Kabinet met getrapte opbouw van naald-, eiken-, esdoorn- en ebbenhout en jeneverbes. Belijmd met ivoor en ebben-, letter-, olijf- en violethout, ingelegd met lapis lazuli en pietre dure plaquettes met vogels, vruchten en bloemen, zuilen van chrysopraas, beslag van verguld zilver en verguld koper.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture",
+    "cabinet"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Opificio delle pietre dure",
+      "unFixedName": "Opificio delle pietre dure",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Opificio delle pietre dure"
+    },
+    {
+      "name": "Johann Spitzmacher",
+      "unFixedName": "Spitzmacher, Johann",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "silversmith"
+      ],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Johann Spitzmacher, Augsburg"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Elias Boscher",
+      "unFixedName": "Boscher, Elias",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "furniture worker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Elias Boscher, Augsburg"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "furniture worker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution anonymous, Augsburg"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Elias Boscher",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1999-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Sponsor Loterij"
+  },
+  "exhibitions": [],
+  "materials": [
+    "softwood",
+    "oak (wood)",
+    "maple (wood)",
+    "ebony (wood)",
+    "juniper (wood)",
+    "olive (wood)",
+    "kingwood (wood)",
+    "ivory",
+    "lapis lazuli (rock)",
+    "chrysoprase",
+    "touchstone",
+    "silver (metal)",
+    "copper (metal)"
+  ],
+  "techniques": [
+    "inlay (process)",
+    "gluing"
+  ],
+  "productionPlaces": [
+    "Augsburg",
+    "Augsburg",
+    "Augsburg"
+  ],
+  "dating": {
+    "presentingDate": "c. 1660 - c. 1670",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1670
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G3(PEAR-TREE)(+221)",
+      "25F3",
+      "48A98333",
+      "48C161"
+    ],
+    "iconClassDescription": [
+      "trees; pear-tree (+ sprig, twig)",
+      "birds",
+      "bunch of flowers ~ ornament",
+      "column, pillar ~ architecture"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1999-85"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "'Verstilde vogels op een pronkkabinet', Cachet : tijdschrift voor kunstliefhebbers 4, nr. 14 (2001), p. 22-25 met afb.",
+    "'Recent acquisitions at the Rijksmuseum, Amsterdam', The Burlington Magazine (November 2000), p. 733 met afb. XIII.",
+    "'An Augsburg showpiece', Annual report : Rijksmuseum Amsterdam (1999), p. 56-57 met afb., omslag.",
+    "Anoniem, An Augsburg ivory & hard-stone table cabinet : attributed to the cabinet-maker Melchior Baumgartner [Augsburg 1621-1686] with silver gilt mounts marked in Augsburg c. 1670 by the master gold-smith Johann Spitzmacher [Augsburg c. 1625-1678], Londen (Rainer Zietz Ltd.), 1996."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Elias Boscher, anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "81"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "68.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "39"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "inlay (process)",
+  "longTitle": "Cabinet, Elias Boscher, anonymous (rejected attribution), c. 1660 - c. 1670",
+  "subTitle": "h c.81cm \u00d7 w c.68.5cm \u00d7 d c.39cm",
+  "scLabelLine": "Augsburg, c. 1660\u20131670, fittings: Johann Spitzmacher and others, various woods, veneered with ivory, ebony, letterwood, olive wood and\nrosewood, inlaid with lapis lazuli, pietra dura panels and Lydian stone; fittings: silver gilt, gilt copper",
+  "label": {
+    "title": "Cabinet",
+    "makerLine": "Augsburg, c. 1660\u20131670, fittings: Johann Spitzmacher and others, various woods, veneered with ivory, ebony, letterwood, olive wood and\nrosewood, inlaid with lapis lazuli, pietra dura panels and Lydian stone; fittings: silver gilt, gilt copper",
+    "description": "From the 16th century, Augsburg was a centre of production for luxurious cabinets, which were exported throughout Europe. The outside of this showpiece combines extremely rare and precious materials. Mosaic panels of various kinds of hardstones (pietre dure) were applied onto a background of ivory, between columns of semi-precious stones. The panels were made in the grand-ducal workshop in Florence.",
+    "notes": null,
+    "date": "2019-01-02"
+  },
+  "showImage": true,
+  "location": "HG-2.26"
+}

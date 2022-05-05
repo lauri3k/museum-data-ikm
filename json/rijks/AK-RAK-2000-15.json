@@ -1,0 +1,152 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-RAK-2000-15",
+  "priref": "360426",
+  "objectNumber": "AK-RAK-2000-15",
+  "language": "en",
+  "title": "Avalokiteshvara",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8a1db0ca-f22b-4540-b10d-d8eef3feb0da",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 24,
+    "width": 1459,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/CruPbdR0roue6N0yHo1TQagmSmY7U3w0-7vLnnyfB0j0xbeejV1jB-OK_rhDYz_X6Fqc9azDz0Xd6ex3iTfBJelYM5wp2BPT6US_zaBapg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The bodhisattva Avalokiteshvara"
+  ],
+  "description": "Staand beeld met vier armen van Avalokitesvara.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "brazier"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2000-10-31T00:00:00",
+    "creditLine": "Purchased with the support of the SponsorBingo Loterij"
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [
+    "casting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 750 - c. 900",
+    "sortingDate": 750,
+    "period": 8,
+    "yearEarly": 750,
+    "yearLate": 900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H13"
+    ],
+    "iconClassDescription": [
+      "representations ~ gods, demi-gods, heroes, etc. (Hinduism, Buddhism, Jainism)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-RAK-2000-15"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jan van Campen, 'Een nieuw collectieboek', Aziatische Kunst 45 (2014) nr. 2, p. 52, afb. 2.",
+    "Ren\u00e9e Steenbergen, 'Chronology', Aziatische Kunst 40 (2010) nr. 2, p. 25-34, afb. 13.",
+    "Emma C. Bunker, 'The Prakhon Chai story : facts and fiction', Arts of Asia 32 (2002) nr. 2, p. 106-125, afb. 15.",
+    "P. Lunsingh Scheurleer en M. Baarspul, 'Een bronzen vondst : De bodhisattva Avalokiteshvara', Aziatische Kunst 31 (2001), nr. 1, p. 2-4.",
+    "R. van Langh, 'Een Thais bronzen beeld uit de achtste eeuw vanuit een technisch oogpunt benaderd', Aziatische Kunst 31 (2001), nr. 1, p. 2-4.",
+    "Emma C. Bunker, 'Pre-Angkor Period Bronzes from Pra Kon Chai', Archives of Asian Art 25 (1971-1972), p. 67-76, nr. 22."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "79"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "29.6"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "17.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze",
+  "longTitle": "Avalokiteshvara, anonymous, c. 750 - c. 900",
+  "subTitle": "h 79cm",
+  "scLabelLine": "Thailand, Buriram, c. 750-900, bronze",
+  "label": {
+    "title": "Avalokiteshvara",
+    "makerLine": "Thailand, Buriram, c. 750-900, bronze",
+    "description": "This statue is one of a series of large, bronze Buddhist images found in northeast Thailand. Avalokiteshvara is recognizable by his hairstyle, a tower of curls in which a figure of the Buddha Amitabha is seen meditating. This statue has recently been cleaned and restored to reveal the original patina. Its silvery appearance is due to the high tin content of the bronze.",
+    "notes": null,
+    "date": "2019-10-03"
+  },
+  "showImage": true,
+  "location": "AK-1"
+}

@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1898-A-19670",
+  "priref": "37909",
+  "objectNumber": "RP-P-1898-A-19670",
+  "language": "en",
+  "title": "Waardin en gezelschap in herberg",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7307520e-5267-4733-b12b-072364ec2703",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2159,
+    "height": 2820,
+    "url": "https://lh3.ggpht.com/ITXd92MWV2Y9cxvRoUEDJ1yOsSDlfaBIry9F4UpM5AiPHs4oQY6z34bjEc7AndfP1MNAPmjcGSOGwx4AU5ZY-Zfr3Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 31,
+      "hex": "#555249"
+    },
+    {
+      "percentage": 25,
+      "hex": " #3A3933"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E2DBC3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #7E786A"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FAF9F3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A49E8C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BFB7A0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#555249",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3A3933",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #E2DBC3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7E786A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FAF9F3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A49E8C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFB7A0",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Waardin en gezelschap in herberg",
+    "De oude waardin"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Pietersz. Bega",
+      "unFixedName": "Bega, Cornelis Pietersz.",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1632",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1664-08-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "painter",
+        "draughtsman",
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Pietersz. Bega (c. 1632 - 27-aug-1664), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Pietersz. Bega",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "exchange",
+    "date": "1898-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1642 - 1664",
+    "sortingDate": 1642,
+    "period": 17,
+    "yearEarly": 1642,
+    "yearLate": 1664
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43B31",
+      "41C326"
+    ],
+    "iconClassDescription": [
+      "inn, coffee-house, public house, etc.",
+      "jar, jug (used as drinking-vessel)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1898-A-19670"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 32",
+    "32",
+    "Hollstein Dutch 32",
+    "32"
+  ],
+  "principalOrFirstMaker": "Cornelis Pietersz. Bega",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Waardin en gezelschap in herberg, Cornelis Pietersz. Bega, 1642 - 1664",
+  "subTitle": "h 175mm \u00d7 w 133mm",
+  "scLabelLine": "Cornelis Pietersz. Bega, 1642 - 1664, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

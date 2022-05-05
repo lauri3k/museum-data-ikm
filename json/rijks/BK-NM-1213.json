@@ -1,0 +1,270 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-1213",
+  "priref": "24332",
+  "objectNumber": "BK-NM-1213",
+  "language": "en",
+  "title": "St Dorothy",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2b1bd710-9a80-47b3-ae06-50520c9334c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 18,
+    "width": 2459,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/abIy7P23F6Aqkl5BODLaDY5pF0MCeZ_-rbUMkkODo9UeXTLzSwex-k5riAyzMNz1Xoaj9Cj7KFrc2bbRswAz1oubtw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 73,
+      "hex": "#B8ABAC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #908075"
+    },
+    {
+      "percentage": 5,
+      "hex": " #54422B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #20180E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7F5742"
+    },
+    {
+      "percentage": 0,
+      "hex": " #646368"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D5CDDB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B8ABAC",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #908075",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #54422B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #20180E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7F5742",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #646368",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D5CDDB",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 73,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E6E6FA"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "St Dorothy"
+  ],
+  "description": "Zij staat op een hoog, rechthoekig geprofileerd voetstuk en kijkt ingetogen voor zich. In haar rechterhand houdt zij een boek rechtop, in haar linker haar attribuut, een hengselmandje (met rozen). Op het golvende haar, dat over de schouders afhangt, een krans van bloemen. Het van voren geplooide gewaad, dat de punten van het schoeisel vrijlaat, heeft om het middel een brede riem, waaraan een bidsnoer hangt; om de hals een parelcollier in drie rijen (met reminiscenties van de getande rand), hieraan een ruitvormige hanger. Tussen delen van het onderkleed een frontje, begrensd door een parelrand. De van de schouders hangende mantel wordt opgehouden door de linkerarm.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [
+    {
+      "name": "Master of Koudewater",
+      "unFixedName": "Master of Koudewater",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Master of Koudewater"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Master of Koudewater",
+      "unFixedName": "Master of Koudewater",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Brabant"
+      ],
+      "qualification": null,
+      "labelDesc": "Master of Koudewater, Northern Brabant"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Master of Koudewater",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "walnut (hardwood)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Brabant"
+  ],
+  "dating": {
+    "presentingDate": "c. 1470",
+    "sortingDate": 1470,
+    "period": 15,
+    "yearEarly": 1470,
+    "yearLate": 1470
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(DOROTHEA)"
+    ],
+    "iconClassDescription": [
+      "the virgin martyr Dorothea of Caesarea; possible attributes: basket of roses and apples, child with basket of roses, garland of roses, roses in hand or lap"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-1213"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Master of Koudewater",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "38"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "13.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "walnut with polychromy and gilding",
+  "longTitle": "St Dorothy, Master of Koudewater, c. 1470",
+  "subTitle": "h 38cm \u00d7 w 13.5cm \u00d7 d 8cm",
+  "scLabelLine": "Master of Koudewater, c. 1470, walnut with polychromy and gilding",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

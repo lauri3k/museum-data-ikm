@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-17064",
+  "priref": "19023",
+  "objectNumber": "BK-17064",
+  "language": "en",
+  "title": "Hanger met ineengesloten handen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0928ebce-4c81-4297-a798-134fdd09681c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2337,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/hDdUuh9TQ3dVpcrPCYVpjAA1FN1mhRqd9-6wCEC0lSa95CQx4j8c8iUkeJenVJPp88AQKPqItAXJ138jhuChVW0yzrk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#F2EEDC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #6D473E"
+    },
+    {
+      "percentage": 36,
+      "hex": " #928F87"
+    },
+    {
+      "percentage": 55,
+      "hex": " #D3C5AE"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4E5A72"
+    },
+    {
+      "percentage": 1,
+      "hex": " #302E43"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2EEDC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6D473E",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #928F87",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D3C5AE",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4E5A72",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #302E43",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 55,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 36,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 36,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Hanger met ineengesloten handen"
+  ],
+  "description": "Hanger, bruidsgeschenk, van goud, email, parels en diamanten. In het midden een grote diamant waar omheen twee handen.",
+  "labelText": null,
+  "objectTypes": [
+    "pendant (jewelry)"
+  ],
+  "objectCollection": [
+    "jewellery"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "jeweler"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Southern Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)",
+    "diamond (mineral)",
+    "pearl"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Southern Germany"
+  ],
+  "dating": {
+    "presentingDate": "c. 1580 - c. 1600",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1600
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A22210",
+      "25F35(PARROT)",
+      "48A98"
+    ],
+    "iconClassDescription": [
+      "heart symbolism",
+      "ornamental birds: parrot",
+      "ornaments ~ art"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-17064"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "'Renaissance juweel', De Rijksmuseum Kunstkrant 19 (1994) nr. 5, p. 8-9."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "6.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gold (metal)",
+  "longTitle": "Hanger met ineengesloten handen, anonymous, c. 1580 - c. 1600",
+  "subTitle": "h 10.0cm \u00d7 w 6.0cm",
+  "scLabelLine": "anonymous, c. 1580 - c. 1600, gold (metal)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "HG-0.9"
+}

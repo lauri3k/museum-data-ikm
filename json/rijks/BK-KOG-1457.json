@@ -1,0 +1,278 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-1457",
+  "priref": "24810",
+  "objectNumber": "BK-KOG-1457",
+  "language": "en",
+  "title": "Portrait of Johannes Munter",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a7e27f6a-0e22-494e-9696-1454dc0f84af",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2070,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/SaV7NSboNTVepxKRM6ocLb-DvIj-CXVVinc6EriCFBV25sQnRRMQvDv-6mrv_WUU92kUC8fdDsJ-VBrCxRqtwkNMsNHS=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#6A665A"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C3C1B5"
+    },
+    {
+      "percentage": 17,
+      "hex": " #9E9B90"
+    },
+    {
+      "percentage": 17,
+      "hex": " #848178"
+    },
+    {
+      "percentage": 2,
+      "hex": " #ECE8D4"
+    },
+    {
+      "percentage": 2,
+      "hex": " #3F392B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #181408"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#6A665A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C3C1B5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9E9B90",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #848178",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ECE8D4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3F392B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #181408",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 17,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 76,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Bust of Burgomaster Johannes Munter (1611-1685)"
+  ],
+  "description": "De gezette figuur is tot het middel afgebeeld. Hij ziet recht voor zich uit en houdt de linkerhand voor de borst. De haarkrullen hangen tot op de schouders. Hij draagt een col rabat, een wambuis en een mantel, die voor het middel zowel naar links als naar rechts is toegeslagen. Uit de mantel steekt de linkerhand, waarvan de duim en wijsvinger met de akers van de col rabat spelen; aan de pols een teruggeslagen manchet. De halffiguur gaat over in een vierhoekige plint, waarop een cartouche met opschrift. De omlijsting hiervan bestaat uit een krans van eikenbladeren en eikels, waarin aan weerszijden een palmtak steekt. Het opschrift: IOANES MUNTER CONSULES AMSTELD. AETATIS SUAE LXIII. In de linker hoek aan de voorzijde van de plint: B. EGGERS FECIT, in de rechter: ANNO 1673.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bartholomeus Eggers",
+      "unFixedName": "Eggers, Bartholomeus",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1637",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1692-02-23",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Bartholomeus Eggers (1637 - before 23-feb-1692), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bartholomeus Eggers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1673",
+    "sortingDate": 1673,
+    "period": 17,
+    "yearEarly": 1673,
+    "yearLate": 1673
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)",
+      "44B231"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)",
+      "mayor, burgomaster"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16301685"
+    ],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [
+      "Munter, Johannes"
+    ],
+    "objectNumbers": [
+      "BK-KOG-1457"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Munter, Johannes"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "F. Scholten, 'Quellinus's burgomasters:a portrait gallery of Amsterdam republicanism', Simiolus 32, nr. 2/3 (2006), p. 108",
+    "Documentatiemap"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bartholomeus Eggers",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "71.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "35.0"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "265"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "32.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "25.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "white Carrara marble",
+  "longTitle": "Portrait of Johannes Munter, Bartholomeus Eggers, 1673",
+  "subTitle": "h 88.0cm \u00d7 w 71.0cm \u00d7 d 35.0cm \u00d7 w 265kg",
+  "scLabelLine": "Bartholomeus Eggers (1637\u2013before 1692), Amsterdam, 1673, Carrara marble",
+  "label": {
+    "title": "Portrait of Johannes Munter",
+    "makerLine": "Bartholomeus Eggers (1637\u2013before 1692), Amsterdam, 1673, Carrara marble",
+    "description": "Bartholomeus Eggers was one of the young sculptors trained by Artus Quellinus in his Amsterdam workshop. Eggers\u2019 portrait of Mayor Johannes Munter is still strongly influenced by his teacher\u2019s style. However, the sculptor introduced a playful motif: Munter plays with the tassels of his collar with his left hand, subtly subverting the formal character of the bust.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

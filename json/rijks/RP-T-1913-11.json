@@ -1,0 +1,224 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1913-11",
+  "priref": "53053",
+  "objectNumber": "RP-T-1913-11",
+  "language": "en",
+  "title": "Zelfportret van David Bailly",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b130161e-451e-4702-8664-1ddfa2018aa3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1968,
+    "height": 2604,
+    "url": "https://lh3.ggpht.com/FZ7ipeUFJ7YO8gSasvu7J3Ze_Ti87F8noaKw2UWTAXKGTKM6SiRbupTdLPgS_Es1sgcxM7FpcP4PMRVvf6qTplTy7w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#E9DDC7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CCC1A9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #8F8063"
+    },
+    {
+      "percentage": 52,
+      "hex": " #B4A589"
+    },
+    {
+      "percentage": 17,
+      "hex": " #70654E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #49473D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E9DDC7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CCC1A9",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8F8063",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B4A589",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #70654E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #49473D",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Zelfportret van David Bailly"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "David Bailly",
+      "unFixedName": "Bailly, David",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1584",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1657",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "David Bailly (c. 1584 - 1657)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "David Bailly",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1913-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1626",
+    "sortingDate": 1626,
+    "period": 17,
+    "yearEarly": 1626,
+    "yearLate": 1626
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C523",
+      "48C513",
+      "48B3"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of draughtsman",
+      "portrait, self-portrait of painter",
+      "portrait, self-portrait of artist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Bailly, David"
+    ],
+    "objectNumbers": [
+      "RP-T-1913-11"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Bailly, David"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "David Bailly",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "164"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "122"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Zelfportret van David Bailly, David Bailly, 1626",
+  "subTitle": "h 164mm \u00d7 w 122mm",
+  "scLabelLine": "David Bailly, 1626, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,184 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-15784-1",
+  "priref": "25294",
+  "objectNumber": "BK-15784-1",
+  "language": "en",
+  "title": "Stier",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5a483a83-89fa-42e2-92fc-7479b8212956",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2060,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/ijIBfX983Tz4tTn8JplYJfw1q5Lfk4pIvJy77O7Pa2lg-Pq-xPq46XAdjHLE2_juYPnp4_dbqS_L0mKZYt1G4pb9wg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Stier"
+  ],
+  "description": "De kop van de stier is iets naar links gewend, de linkervoorpoot opgeheven, de linkerachterpoot naar voren geplaatst, de opzwaaiende staartpluim ligt tegen de linkerflank.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Giambologna",
+      "unFixedName": "Giambologna",
+      "placeOfBirth": "Douai",
+      "dateOfBirth": "1524",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1608-08-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Florence",
+      "occupation": [
+        "draughtsman",
+        "sculptor",
+        "goldsmith"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Giambologna (1524 - 13-aug-1608)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giambologna",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1946-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1600",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1600
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I2111"
+    ],
+    "iconClassDescription": [
+      "bull"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-15784-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Giambologna",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "21.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "26.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.0"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "21.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "11.2"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "30.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "26.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "11.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze (metal)",
+  "longTitle": "Stier, Giambologna (workshop of), c. 1600",
+  "subTitle": "h 21.6cm \u00d7 w 26.0cm \u00d7 d 7.0cm",
+  "scLabelLine": "Giambologna, c. 1600, bronze (metal)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

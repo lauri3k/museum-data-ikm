@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1962-9",
+  "priref": "35687",
+  "objectNumber": "RP-P-1962-9",
+  "language": "en",
+  "title": "Self-portrait, Etching at a Window",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f9d836bf-08ad-40a0-acac-7650af1909a2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2096,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/KAAcuqS2dD591eqdwEht4kApU5_y6ZIt_FbGdn1-L4j8trxYV3g4OmyThYXKtg1qlv4moTu2EFq5tuQp34dsnAkWWjfc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 50,
+      "hex": "#3C3D35"
+    },
+    {
+      "percentage": 13,
+      "hex": " #626356"
+    },
+    {
+      "percentage": 11,
+      "hex": " #DBD7C8"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F4F4F1"
+    },
+    {
+      "percentage": 5,
+      "hex": " #9E9B8C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #7F7E6F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C4C0AD"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3C3D35",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #626356",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #DBD7C8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F4F4F1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9E9B8C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7F7E6F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C4C0AD",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Self-portrait etching at a window"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1962-01-01T00:00:00",
+    "creditLine": "Mr and Mrs De Bruijn-van der Leeuw Bequest, Muri, Switzerland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1648",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1648
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C523(+1)"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of draughtsman (+ artist at work)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rijn, Rembrandt van"
+    ],
+    "objectNumbers": [
+      "RP-P-1962-9"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rijn, Rembrandt van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 240",
+    "240",
+    "Bartsch 22",
+    "22",
+    "Hollstein Dutch 22",
+    "22"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Self-portrait, Etching at a Window, Rembrandt van Rijn, 1648",
+  "subTitle": "h 160mm \u00d7 w 130mm",
+  "scLabelLine": "etching and drypoint, 1648",
+  "label": {
+    "title": "Self-portrait, Etching at a Window",
+    "makerLine": "etching and drypoint, 1648",
+    "description": "While it might seem odd that Rembrandt is wearing a hat inside the house, it was actually part of his studio work clothes. This unadorned\nportrayal makes one almost forget the unparalleled technique he uses to create this effect. With a combination of etching and drypoint, he achieves an unprecedented painterly tonality.",
+    "notes": null,
+    "date": "2019-02-22"
+  },
+  "showImage": true,
+  "location": null
+}

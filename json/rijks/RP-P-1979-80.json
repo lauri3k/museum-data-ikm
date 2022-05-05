@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1979-80",
+  "priref": "212932",
+  "objectNumber": "RP-P-1979-80",
+  "language": "en",
+  "title": "Two Women on the Shore",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3b7ef6b5-eed2-4dcd-b101-bce53ddd556d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2215,
+    "url": "https://lh3.googleusercontent.com/aTiXw7_faqhsiNMLrrlJ2HdOpyem3DM0EAFoKDsaVSIUoreKI5mttVffVDuYcxpYJ7s0N-7bmX1Bnb-B5YC7DvW_LTOkgq2sVqhFLkcv=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Two Women on the Shore"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Edvard Munch",
+      "unFixedName": "Munch, Edvard",
+      "placeOfBirth": "L\u00f8ten",
+      "dateOfBirth": "1863-12-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1944-01-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Ekely",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Norway"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Edvard Munch (12-dec-1863 - 23-jan-1944), Norway"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Edvard Munch",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "color woodcut"
+  ],
+  "productionPlaces": [
+    "Norway"
+  ],
+  "dating": {
+    "presentingDate": "1898",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H133",
+      "31D15"
+    ],
+    "iconClassDescription": [
+      "beach",
+      "adult woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1979-80"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Edvard Munch",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "510"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "578"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "color woodcut",
+  "longTitle": "Two Women on the Shore, Edvard Munch, 1898",
+  "subTitle": "h 510mm \u00d7 w 578mm",
+  "scLabelLine": "Edvard Munch, 1898, color woodcut",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

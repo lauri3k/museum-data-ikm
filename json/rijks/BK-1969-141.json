@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1969-141",
+  "priref": "302603",
+  "objectNumber": "BK-1969-141",
+  "language": "en",
+  "title": "Commode",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ce2eb688-3d5a-4849-9fbc-716cee5fe8bd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2144,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/uTY7rIHSVi2k7dH4TFEagsfkZKUPy1EmO9Z5Afjbw6ea6r-S78iXCNU_i-2NvRaz_rAKdP1BkQCgS1-obA-RFBM6hOQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Eikenhouten commode belijmd met meerdere houtsoorten. De kwartrond gewelfde zijden tonen een boeket met strik. De voorzijde bevat een lade met cirkels met rozetten. De deur eronder toont een vaas met portretmedaillon, acanthusvoluten met festoen, bloemtakken en vogels; langs de voorzijde kloksnoeren aan een strik. De hoekige poten lopen naar onderen taps toe; de voorste hoekstijlen met schijncannelures zijn overhoeks geplaatst. Verguld bronzen slotplaten en plintlijst; geelachtig bontgevlekt marmeren blad.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Matthijs Horrix",
+      "unFixedName": "Horrix, Matthijs",
+      "placeOfBirth": "Krefeld",
+      "dateOfBirth": "1735",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1809-05-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "furniture worker"
+      ],
+      "roles": [
+        "furniture worker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Matthijs Horrix (1735 - 12-mei-1809), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Matthijs Horrix",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1969-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "oak (wood)",
+    "rosewood (wood)",
+    "maple (wood)",
+    "purpleheart (wood)",
+    "elm (wood)",
+    "boxwood (hardwood)",
+    "bronze (metal)",
+    "marble (rock)",
+    "gilding (material)"
+  ],
+  "techniques": [
+    "gilding"
+  ],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "c. 1775 - c. 1780",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1780
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A9875",
+      "48A9854",
+      "25F35",
+      "48A98333"
+    ],
+    "iconClassDescription": [
+      "ornament ~ festoon, garland",
+      "vase ~ ornament",
+      "ornamental birds",
+      "bunch of flowers ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1969-141"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Matthijs Horrix",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "90.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "121.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "50.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Commode, Matthijs Horrix (attributed to), c. 1775 - c. 1780",
+  "subTitle": "h 90.0cm \u00d7 w 121.0cm \u00d7 d 50.5cm",
+  "scLabelLine": "attributed to Matthijs Horrix (1735-1809), The Hague, c. 1775-1780, oak, veneered with tulipwood and other woods, gilt bronze, later marble top",
+  "label": {
+    "title": "Commode",
+    "makerLine": "attributed to Matthijs Horrix (1735-1809), The Hague, c. 1775-1780, oak, veneered with tulipwood and other woods, gilt bronze, later marble top",
+    "description": "German-born Matthijs Horrix was the leading cabinet-maker in The Hague and the preferred purveyor of furniture to the stadtholder\u2019s court. He specialized in furniture with marquetry decoration in the French style, and even named his shop in The Hague In de commode van Parijs (In the commode of Paris).",
+    "notes": null,
+    "date": "2013-01-04"
+  },
+  "showImage": true,
+  "location": "HG-1.10"
+}

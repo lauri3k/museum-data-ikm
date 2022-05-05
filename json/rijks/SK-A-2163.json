@@ -1,0 +1,290 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2163",
+  "priref": "6503",
+  "objectNumber": "SK-A-2163",
+  "language": "en",
+  "title": "Battle of Gibraltar in 1607",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b23c89b5-fa7b-414b-bace-723e4bc787b5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1809,
+    "url": "https://lh3.googleusercontent.com/8KVYnY-_P9tePfN1hPpYVANmj_9B3GaeVWVrPT-JHBUbUVLET00kQAZJtxGOhyWtiopOg9i0zBWqBkhKq91v8dzOZ9wmrtZID7rcq8uc2A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#727359"
+    },
+    {
+      "percentage": 23,
+      "hex": " #8F8F72"
+    },
+    {
+      "percentage": 17,
+      "hex": " #535845"
+    },
+    {
+      "percentage": 15,
+      "hex": " #212019"
+    },
+    {
+      "percentage": 13,
+      "hex": " #36392D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A788"
+    },
+    {
+      "percentage": 0,
+      "hex": " #947B4B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#727359",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8F8F72",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #535845",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #212019",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #36392D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #A9A788",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #947B4B",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 23,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 30,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 27,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 26,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 15,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The Explosion of the Spanish Flagship during the Battle of Gibraltar, 25 April 1607"
+  ],
+  "description": "Het ontploffen van het Spaanse admiraalsschip tijdens de zeeslag bij Gibraltar, 25 april 1607, op het moment dat het Spaanse oorlogsschip wordt geramd door een Hollands schip. Door de ontploffing worden mensen de lucht in geslingerd. Op de voorgrond proberen zeelieden zich in sloepen te redden, anderen zwemmen in het water. Waarschijnlijk geschilderd als proefstuk voor de grote Slag bij Gibraltar vervaardigd in opdracht van de Amsterdamse Admiraliteit in 1622.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Hendrik Cornelisz Vroom",
+      "unFixedName": "Vroom, Hendrik Cornelisz",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1566",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1640-02-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Hendrik Cornelisz Vroom (c. 1566 - 04-feb-1640)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Claesz van Wieringen",
+      "unFixedName": "Wieringen, Cornelis Claesz van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1577",
+      "dateOfBirthPrecision": "before",
+      "dateOfDeath": "1633-12-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Claesz van Wieringen (before 1577 - 29-dec-1633)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Claesz van Wieringen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1621",
+    "sortingDate": 1621,
+    "period": 17,
+    "yearEarly": 1621,
+    "yearLate": 1621
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3(+3)",
+      "45C17"
+    ],
+    "iconClassDescription": [
+      "battle (+ naval force)",
+      "projectiles, explosives, etc."
+    ],
+    "motifs": [],
+    "events": [
+      "Zeeslag bij Gibraltar (1607)"
+    ],
+    "periods": [
+      "1607-04-251607-04-25"
+    ],
+    "places": [
+      "Straat van Gibraltar"
+    ],
+    "people": [
+      "Admiraliteit van Amsterdam"
+    ],
+    "objectNumbers": [
+      "SK-A-2163"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Admiraliteit van Amsterdam"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Remmelt Daalder, 'Modello voor een schilderij van de Zeeslag bij Gibraltar, 25 april 1607', Bulletin van de Vereniging Rembrandt 21 (2011) nr. 3, p. 22 (afb).",
+    "Brian Dillon, 'Blow up', Cabinet (2011) nr. 43, p. 19-25.",
+    "Remmelt Daalder, 'Cornelis Claesz van Wieringen en de Zeeslag bij Gibraltar in 1607', Scheepshistorie (2010) nr. 9, p. 48-53, afb. 6.",
+    "Remmelt Daalder, 'Een zeeslag voor prins Maurits', Amstelodamum 95 (2008), nr. 2, p. 3-12, afb. 8.",
+    "Remmelt Daalder, 'We hebben hem! Hoe de aankoop van een belangrijk schilderij tot stand komt', in: Zeemagazijn 34:1 (2008, p. 6-8.",
+    "P. Sigmond, 'Zeeslagen en zeehelden in de Gouden Eeuw, Maritieme geschiedenis in het De Ruyterjaar', Rijksmuseum Kunstkrant, 33 (2007), nr. 2, p. 5-8 met afb.",
+    "Liesbeth van Noortwijk, 'Oud & nieuw : oude kunst als inspiratiebron voor nieuwe kunst', Rijksmuseum Kunstkrant 2 (maart/april 1996), p. 20-22.",
+    "R. Brand, 'Bedreven in de konst van schepen ende see : De marineschilderkunst van Cornelis Claesz. van Wieringen', Antiek 30 (1995) nr. 5, p. 203 met afb.",
+    "C. Lawrence, 'Hendrick de Keyser's monument', Simiolus 21 (1992) nr. 4. p. 288, afb. 22.",
+    "Voorbeijtel Cannenburg, W., 'De zeeslag bij Gibraltar door Corn. Claesz. v. Wieringen', in: Jaarverslag Scheepvaartmuseum Amsterdam (1928), Bijlage B, p. 52-60.",
+    "Balbian Verster, J.F.L., de, 'De slag van Gibraltar door Vroom', in: Jaarverslag Scheepvaartmuseum Amsterdam (1922), p. 47-56.",
+    "H. Jantzen, 'De ruimte in de Hollandsche zeeschildering', Onze Kunst XVIII (1910), p. 105.",
+    "Jaarverslag Rijksmuseum Amsterdam (1905), p. 13.",
+    "Documentatiemap: aantekeningen R. van Luttervelt (voor 1963): artikel Daalder 2008; copy voor een artikel, datum en auteur onbekend."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Claesz van Wieringen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "136.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "187"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Battle of Gibraltar in 1607, Cornelis Claesz van Wieringen, c. 1621",
+  "subTitle": "h 136.8cm \u00d7 w 187cm",
+  "scLabelLine": "Claes van Wieringen (1577-1633), oil on canvas, 1621",
+  "label": {
+    "title": "Battle of Gibraltar in 1607",
+    "makerLine": "Claes van Wieringen (1577-1633), oil on canvas, 1621",
+    "description": "A Spanish flagship is hit amidships by a smaller Dutch warship. It explodes in the middle of the Bay of Gibraltar. 25 April 1607: this is the first sea battle the Dutch fleet fights out with the Spanish beyond their own waters. It meets with great success. The Spanish losses are extensive: Spanish soldiers are catapulted into the air and drown in the sea. The painting is thus also meant to celebrate this spectacular Dutch victory.",
+    "notes": null,
+    "date": "2018-11-06"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

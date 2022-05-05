@@ -1,0 +1,267 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12400-93",
+  "priref": "14325",
+  "objectNumber": "BK-NM-12400-93",
+  "language": "en",
+  "title": "Bust of King-Stadtholder William III",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f83180c5-590c-4b30-a555-3f815c38e461",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 29,
+    "width": 1744,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/hZ4FxOBxgYy-wTf8Qm06vuFniFOrGk9_tc7kS9xeHhbtnI0hQDR8HKVtKHgAN-usWh9jmt1zez4bFuHrPRV-jCKNaPM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#21283F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #414959"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D5D7D8"
+    },
+    {
+      "percentage": 10,
+      "hex": " #67707C"
+    },
+    {
+      "percentage": 76,
+      "hex": " #9199A1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B3B3AB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#21283F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #414959",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D5D7D8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #67707C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9199A1",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B3B3AB",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 76,
+      "hex": "#778899"
+    },
+    {
+      "percentage": 10,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 90,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Borstbeeld van fa\u00efence van Stadhouder-Koning Willem III.",
+  "labelText": null,
+  "objectTypes": [
+    "bust"
+  ],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "Lambertus van Eenhoorn",
+      "unFixedName": "Eenhoorn, Lambertus van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1651",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1721",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Lambertus van Eenhoorn (1651 - 1721), Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "De Metaale Pot",
+      "unFixedName": "De Metaale Pot",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to De Metaale Pot, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "De Metaale Pot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1916-01-01T00:00:00",
+    "creditLine": "Gift of the heirs of J.F. Loudon, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1695 - c. 1700",
+    "sortingDate": 1695,
+    "period": 17,
+    "yearEarly": 1695,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)",
+      "44B113"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)",
+      "king"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16951702"
+    ],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "BK-NM-12400-93"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "De Metaale Pot",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "41.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "24"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "10"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bust",
+  "longTitle": "Bust of King-Stadtholder William III, De Metaale Pot (attributed to), c. 1695 - c. 1700",
+  "subTitle": "h c.41.5cm \u00d7 w c.24cm \u00d7 d c.9cm",
+  "scLabelLine": "attributed to De Metaale Pot (Lambertus van Eenhoorn), Delft, c. 1695\u20131700, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Bust of King-Stadtholder William III",
+    "makerLine": "attributed to De Metaale Pot (Lambertus van Eenhoorn), Delft, c. 1695\u20131700, tin-glazed earthenware (faience)",
+    "description": "After De Metaale Pot hired a French modeller, it succeeded in becoming the first pottery factory in the Netherlands to produce large sculptural earthenware objects. The modeller\u2019s influence is visible in the way in which the drapery folds around the shoulders of this portrait bust are rendered.",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

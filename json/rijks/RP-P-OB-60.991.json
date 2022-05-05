@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-60.991",
+  "priref": "182014",
+  "objectNumber": "RP-P-OB-60.991",
+  "language": "en",
+  "title": "Zelfportret van Michael Sweerts",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "477d401c-a431-4916-8e3a-e0f054a62060",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1977,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/MLpzVHp_zqhwdxfQUByr_O9dwqFYjPOjhJOb4vXcbLA3QYbet3nbbqGesWYsyAqMx5a0jnAZhrh4bOnI9pA4FQFA_A=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zelfportret van Michael Sweerts"
+  ],
+  "description": "Zelfportret van de schilder Michael Sweerts. Hij houdt zijn palet en een aantal penselen in de hand.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michael Sweerts",
+      "unFixedName": "Sweerts, Michael",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1618-09-29",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1664",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Goa",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Michael Sweerts (29-sep-1618 - 1664)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michael Sweerts",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1643 - 1661",
+    "sortingDate": 1643,
+    "period": 17,
+    "yearEarly": 1643,
+    "yearLate": 1661
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Sweerts, Michael"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-60.991"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Sweerts, Michael"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 19",
+    "19"
+  ],
+  "principalOrFirstMaker": "Michael Sweerts",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "165"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Zelfportret van Michael Sweerts, Michael Sweerts, 1643 - 1661",
+  "subTitle": "h 210mm \u00d7 w 165mm",
+  "scLabelLine": "Michael Sweerts, 1643 - 1661, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-NM-6620-D",
+  "priref": "320899",
+  "objectNumber": "AK-NM-6620-D",
+  "language": "en",
+  "title": "Plaque depicting an interior with figures",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2e143c77-336d-4ac0-b70e-facf11373658",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2302,
+    "url": "https://lh5.ggpht.com/s3cCbBfGC_58DVt1_kLqje-zf-TAGc5GUzYydLp55g3NLn0jXQikyAJSOnYYDA_oq1a8FEwS4OwIDKIkIHf-6qHYgcE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#DEE3EA"
+    },
+    {
+      "percentage": 32,
+      "hex": " #C7BE98"
+    },
+    {
+      "percentage": 26,
+      "hex": " #5C2C1F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #856E53"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6A7FAD"
+    },
+    {
+      "percentage": 0,
+      "hex": " #27406F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DEE3EA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #C7BE98",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5C2C1F",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #856E53",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #6A7FAD",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #27406F",
+      "normalizedHex": "#4279DB"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 26,
+      "hex": " #800000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4682B4"
+    },
+    {
+      "percentage": 0,
+      "hex": " #483D8B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 26,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #4279DB"
+    }
+  ],
+  "titles": [],
+  "description": "Koperen plaque beschilderd met emails met een man en een vrouw en een bediende in een interieur. In de achtergrond is een venster opengezaagd en achter de opening is een op papier geschilderd landschap geplakt. De figuren en architectuurelementen zijn in ondiep reli\u00ebf aangegeven. Originele zwart gelakte lijst met eekhoorns en wijnranken in goud.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)",
+    "wood (plant material)",
+    "paper",
+    "lacquer (coating)",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1770 - c. 1775",
+    "sortingDate": 1770,
+    "period": 18,
+    "yearEarly": 1770,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42F5",
+      "41A2",
+      "34B11",
+      "45C15(BOW AND ARROW)",
+      "25H"
+    ],
+    "iconClassDescription": [
+      "house personnel, servants",
+      "interior of the house",
+      "dog",
+      "archer's weapons: bow and arrow",
+      "landschappen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Royer, Jean Theodore"
+    ],
+    "objectNumbers": [
+      "AK-NM-6620-D"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Royer, Jean Theodore"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Jan van Campen, 'Jean Theodore Royer, verzamelaar van kunst en kennis uit Azi\u00eb', Aziatische Kunst 31/2 (2001), pp. 2-11."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "37.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "48.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Plaque depicting an interior with figures, anonymous, c. 1770 - c. 1775",
+  "subTitle": "h 37.0cm \u00d7 w 48.5cm",
+  "scLabelLine": "Canton, c. 1770-1775, enamel on copper, oil on paper, wood, lacquer",
+  "label": {
+    "title": "Plaque depicting an interior with figures",
+    "makerLine": "Canton, c. 1770-1775, enamel on copper, oil on paper, wood, lacquer",
+    "description": "A man in summer dress converses with a Manchurian woman, recognizable from her large shoes and broad hairstyle. The books and writing materials in the cabinet suggest that she is well educated. The four plaques in this series are still in their original Chinese lacquer frames.",
+    "notes": null,
+    "date": "2012-12-21"
+  },
+  "showImage": true,
+  "location": "HG-1.5"
+}

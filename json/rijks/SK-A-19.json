@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-19",
+  "priref": "5949",
+  "objectNumber": "SK-A-19",
+  "language": "en",
+  "title": "The Castle of Batavia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "31ce6d20-8147-4b07-be96-41cc6aa6630e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1777,
+    "url": "https://lh3.googleusercontent.com/QezB90hMeM0MTdqQn51-LsBUn4IuN99RYuK7nJHDepaQzJAAWutdvMGoYAJC8J68IUOLhElMa-6eL9XpvN-sDhmjFuk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#62482C"
+    },
+    {
+      "percentage": 20,
+      "hex": " #AAA593"
+    },
+    {
+      "percentage": 16,
+      "hex": " #99907A"
+    },
+    {
+      "percentage": 11,
+      "hex": " #28241C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #857B61"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6E624A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #CDC4A4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#62482C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #AAA593",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #99907A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #28241C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #857B61",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6E624A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CDC4A4",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 26,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 27,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 19,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The Castle of Batavia, seen from Kali Besar West"
+  ],
+  "description": "Het kasteel van Batavia, gezien van Kali Besar West, ca. 1656. Op de voorgrond een soort markt onder de palmbomen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Andries Beeckman",
+      "unFixedName": "Beeckman, Andries",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Andries Beeckman"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Andries Beeckman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1859-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1661",
+    "sortingDate": 1661,
+    "period": 17,
+    "yearEarly": 1661,
+    "yearLate": 1661
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G3(PALM-TREE)",
+      "46B11"
+    ],
+    "iconClassDescription": [
+      "trees: palm-tree",
+      "market"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16561656"
+    ],
+    "places": [
+      "Kasteel Batavia",
+      "Kali Besar"
+    ],
+    "people": [
+      "Verenigde Oostindische Compagnie"
+    ],
+    "objectNumbers": [
+      "SK-A-19"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Verenigde Oostindische Compagnie"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "L. Panhuysen, 'Ontziet uw vijanden niet, God is met ons', Historisch Nieuwsblad (2010) nr. 10, p. 38",
+    "Erlend de Groot, 'Uitheemse volkeren in de Nederlandse zeventiende-eeuwse kunst. Een eerste indruk', Desipientia 9/2 (2002), pp. 101 - 113",
+    "'Het kasteel Batavia', Verslagen en aanwinsten 1978-1979, Stichting cultuurgeschiedenis van de Nederlanders overzee, pag. 68-73.",
+    "Documentatiemap: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Andries Beeckman",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "108"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "151.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Castle of Batavia, Andries Beeckman, c. 1661",
+  "subTitle": "h 108cm \u00d7 w 151.5cm",
+  "scLabelLine": "Andries Beeckman (?\u20131664), oil on canvas, 1661",
+  "label": {
+    "title": "The Castle of Batavia",
+    "makerLine": "Andries Beeckman (?\u20131664), oil on canvas, 1661",
+    "description": "Both free and unfree people populate this market in Batavia, with the fortress of the Dutch East India Company (VOC) in the background. At the end of the 17th century, more than half of the city\u2019s inhabitants lived in slavery. Slavery was a centuries-old custom in the Indonesian archipelago, which was taken over, adapted and intensified by the Dutch. Batavia became the central slave market for the region, where both Europeans and Asians traded in human beings.",
+    "notes": null,
+    "date": "2022-01-28"
+  },
+  "showImage": true,
+  "location": "HG-2.9"
+}

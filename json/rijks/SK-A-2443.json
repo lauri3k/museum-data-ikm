@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2443",
+  "priref": "7769",
+  "objectNumber": "SK-A-2443",
+  "language": "en",
+  "title": "Riders in the Snow in the Haagse Bos",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d66e2154-587b-4ca6-a446-4ec510d0d4e2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1658,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/CKrxLJqyzjzEg8YAvWgYtJnXLTaNSnHcC4XjYQmhPSHMxIwLQfL2F-mVIi9relG9CX0QrZ6cLysAqNZafu9aFPT6w1pC=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#414130"
+    },
+    {
+      "percentage": 13,
+      "hex": " #777763"
+    },
+    {
+      "percentage": 7,
+      "hex": " #5E5F4E"
+    },
+    {
+      "percentage": 37,
+      "hex": " #959584"
+    },
+    {
+      "percentage": 0,
+      "hex": " #1E2019"
+    },
+    {
+      "percentage": 35,
+      "hex": " #BBBDB7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#414130",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #777763",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5E5F4E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #959584",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #1E2019",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #BBBDB7",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 35,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 35,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 12,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Anton Mauve",
+      "unFixedName": "Mauve, Anton",
+      "placeOfBirth": "Zaandam",
+      "dateOfBirth": "1838-09-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1888-02-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Arnhem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anton Mauve (18-sep-1838 - 05-feb-1888)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anton Mauve",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1910-04-01T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Drucker-Fraser, Montreux"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "deck paint",
+    "pencil",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1880",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H15",
+      "26D1",
+      "46C131"
+    ],
+    "iconClassDescription": [
+      "forest, wood",
+      "snow",
+      "riding a horse, ass, or mule; rider, horseman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Haagse Bos"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2443"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anton Mauve",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "441"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "267"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Riders in the Snow in the Haagse Bos, Anton Mauve, 1880",
+  "subTitle": "h 441mm \u00d7 w 267mm",
+  "scLabelLine": "Anton Mauve (1838\u20131888), pencil, watercolour, white bodycolour, 1879\u20131880",
+  "label": {
+    "title": "Riders in the Snow in the Haagse Bos",
+    "makerLine": "Anton Mauve (1838\u20131888), pencil, watercolour, white bodycolour, 1879\u20131880",
+    "description": "As in his painting of the Morning Ride on the Beach (Gallery 1.18), Mauve shows the riders from behind. They are trotting away from the viewer in that silent wood. In the watercolour, the bare branches contrast sharply with the misty background, lit by an almost imperceptible winter sun. The whole scene seems to convey a sense of tranquillity and serenity.",
+    "notes": null,
+    "date": "2013-08-05"
+  },
+  "showImage": true,
+  "location": null
+}

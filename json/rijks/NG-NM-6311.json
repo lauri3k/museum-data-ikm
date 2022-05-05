@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-6311",
+  "priref": "241211",
+  "objectNumber": "NG-NM-6311",
+  "language": "en",
+  "title": "Slag op Doggersbank",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1dc1329e-6fb0-4ff3-b888-d31bba746ed1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1921,
+    "url": "https://lh3.googleusercontent.com/UYJEEjW6-9cRdm2FKptvae-lThdplZ8TW8mxgB89ZvHwZJ-rEc8djbTWg-CjTmumrRm1BLrk2c_VSq6LlZxlP5VmbRqePFz1rr9Pt00T=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Slag op Doggersbank"
+  ],
+  "description": "Zwart gelakte metalen plaat in een zwartgeverfde houten lijst die gedeeltelijk verguld is. Afbeelding in goud en grijs op zwarte ondergrond. Vele zeilschepen met beschadigde zeilen met elkaar in gevecht op een kalme zee. Op de voorgrond scheepsonderdelen en drenkelingen in zee.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Sasaya",
+      "unFixedName": "Sasaya",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "Sasaya, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Sasaya",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)",
+    "wood (plant material)",
+    "lacquer (coating)"
+  ],
+  "techniques": [
+    "lacquering"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1792",
+    "sortingDate": 1792,
+    "period": 18,
+    "yearEarly": 1792,
+    "yearLate": 1792
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24",
+      "45H3(+32)"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat",
+      "battle (+ sailing-ships)"
+    ],
+    "motifs": [],
+    "events": [
+      "Zeeslag bij Doggersbank"
+    ],
+    "periods": [
+      "1781-08-051781-08-05"
+    ],
+    "places": [
+      "Doggersbank"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-NM-6311"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Sasaya",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "36.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "53"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "lacquering",
+  "longTitle": "Slag op Doggersbank, Sasaya, 1792",
+  "subTitle": "h 36.5cm \u00d7 w 53cm \u00d7 d 3cm",
+  "scLabelLine": "Sasaya, 1792, lacquering",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

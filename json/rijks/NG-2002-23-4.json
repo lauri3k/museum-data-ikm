@@ -1,0 +1,274 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-2002-23-4",
+  "priref": "365975",
+  "objectNumber": "NG-2002-23-4",
+  "language": "en",
+  "title": "Lontslotmusket met vuursteenslot uit latere periode",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "74dd281c-6c42-4945-b685-2ac7054599a0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 764,
+    "url": "https://lh3.ggpht.com/XOq-dkog2wcyYVao_jkhXT-bo54Au6u5qp8NATZwPliIX1gI31UCOL0y7pU-7bdJQaMZXo4RChEPSs2VHjH9VY6LjewP=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #463D34"
+    },
+    {
+      "percentage": 0,
+      "hex": " #25211E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #695C48"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9A917A"
+    },
+    {
+      "percentage": 81,
+      "hex": " #C5C2B7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F5F5",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #463D34",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #25211E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #695C48",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A917A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C5C2B7",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 81,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 81,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Lontslotmusket met vuursteenslot uit latere periode"
+  ],
+  "description": "Het lontslot van dit musket is eind zeventiende eeuw vervangen door een vuursteenslot; een deel van de oude, rechthoekige slotplaat is nog aanwezig als steun aan de onderzijde; het nieuwe slot is gegraveerd met lofwerk en een signatuur. De loop is voorzien van een achtervizier in de vorm van een gegroefd blokje en achter de tromp een geelkoperen vizierkorrel, ajour bewerkt en met een gekrulde rand; onderop gemerkt met twee maal AI en een C. De kolf is ingelegd met koperdraad, parelmoeren rondjes en koehoorn gegraveerd met blad- en bloemmotieven. Het beslag bestaat uit een geelkoperen ladekap en een ijzeren trekkerplaat, trekkerbeugel en kolfplaat; de laadstok is voorzien van een kap van verguld geelkoper.",
+  "labelText": null,
+  "objectTypes": [
+    "flintlock weapon"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Richard Bower",
+      "unFixedName": "Bower, Richard",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Richard Bower, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Utrecht"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Utrecht"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2002-01-01T00:00:00",
+    "creditLine": "Purchased from the H.L. Visser Collection, with the support of the Prins Bernhard Cultuurfonds, the Ministerie van OCenW, the Ministerie van Defensie, the VSBfonds, the BankGiro Lottery and the Rijksmuseum Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "mother of pearl",
+    "horn (animal material)",
+    "gilding (material)",
+    "brass (alloy)",
+    "iron (metal)"
+  ],
+  "techniques": [
+    "engraving",
+    "inlay (process)",
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Utrecht",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "after c. 1675 - before c. 1699",
+    "sortingDate": 1675,
+    "period": 17,
+    "yearEarly": 1675,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A983"
+    ],
+    "iconClassDescription": [
+      "ornament derived from plant forms"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16501700"
+    ],
+    "places": [
+      "Nederland"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-2002-23-4"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "152.3"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "114.8"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "18.2"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "5.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Lontslotmusket met vuursteenslot uit latere periode, anonymous, after c. 1675 - before c. 1699",
+  "subTitle": "l 152.3cm",
+  "scLabelLine": "anonymous, after c. 1675 - before c. 1699, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "HG-0.12"
+}

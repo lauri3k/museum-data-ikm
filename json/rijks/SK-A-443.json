@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-443",
+  "priref": "6354",
+  "objectNumber": "SK-A-443",
+  "language": "en",
+  "title": "The Hut",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6b244367-e1b9-46cc-8c50-dc40602b7bb9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2196,
+    "height": 2613,
+    "url": "https://lh3.ggpht.com/3wd3EC9i1ti8coYnig3Me8JJYIxS9efAX6wOCBhgmEMxgpFhvYRZl7OKKlKgZmwj0xTp31aD7vULp88-il4ESZnwQws=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#4D5D78"
+    },
+    {
+      "percentage": 19,
+      "hex": " #8FA1B6"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C9C8C2"
+    },
+    {
+      "percentage": 8,
+      "hex": " #9D8F6D"
+    },
+    {
+      "percentage": 21,
+      "hex": " #1B150C"
+    },
+    {
+      "percentage": 41,
+      "hex": " #623E23"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4D5D78",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8FA1B6",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C9C8C2",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #9D8F6D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #1B150C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #623E23",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 21,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 21,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "The Hut"
+  ],
+  "description": "De hut. Italiaans heuvelachtig landschap met een jonge vrouw die voor de ingang van een herdershut zit tussen koeien en schapen, rechts een man op een wit paard.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen van de Velde",
+      "unFixedName": "Velde, Adriaen van de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1636-11-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1672-01-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adriaen van de Velde (30-nov-1636 - 21-jan-1672)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen van de Velde",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1822-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1671",
+    "sortingDate": 1671,
+    "period": 17,
+    "yearEarly": 1671,
+    "yearLate": 1671
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A18",
+      "47I221",
+      "46C131"
+    ],
+    "iconClassDescription": [
+      "hut, cabin, lodge",
+      "herding, herdsman, herdswoman, shepherd, shepherdess, cowherd, etc.",
+      "riding a horse, ass, or mule; rider, horseman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-443"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen van de Velde",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "65"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Hut, Adriaen van de Velde, 1671",
+  "subTitle": "h 76cm \u00d7 w 65cm",
+  "scLabelLine": "Adriaen van de Velde (1636-1672), oil on canvas, 1671",
+  "label": {
+    "title": "The Hut",
+    "makerLine": "Adriaen van de Velde (1636-1672), oil on canvas, 1671",
+    "description": "The Rijksmuseum bought this painting in 1822 for the \u2013 at the time \u2013 staggering amount of 8290 guilders. Its small format notwithstanding, throughout the 19th century the painting was considered an absolute masterpiece of Dutch Golden Age art. This celebrity status faded in the 20th century. Even so, it remains one of the most beautiful pictures from the last year of Adriaen van de Velde\u2019s life.",
+    "notes": null,
+    "date": "2016-08-08"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,283 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3147-B",
+  "priref": "9132",
+  "objectNumber": "SK-A-3147-B",
+  "language": "en",
+  "title": "The Saint Elizabeth\u2019s Day Flood",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "98b07bb5-4b23-4f42-9145-048f2551f3e7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2188,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/2Q3sLSVZ4t08cqx9rDT7cB821VdrHOWQrme_5GBK_Riie06FtwqPLemr1Txm3--wuyKgNhmOGFqlAbivkM2rvfMEvFY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#374531"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2C58D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #9C8A54"
+    },
+    {
+      "percentage": 20,
+      "hex": " #29281B"
+    },
+    {
+      "percentage": 30,
+      "hex": " #653F23"
+    },
+    {
+      "percentage": 27,
+      "hex": " #67643E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#374531",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #D2C58D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9C8A54",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #29281B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #653F23",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #67643E",
+      "normalizedHex": "#367614"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 27,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 30,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 27,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [],
+  "description": "De Sint Elisabethsvloed, watersnood op 18-19 november 1421. Het door de ramp getroffen landschap in vogelvlucht. Rechtsboven de dijkdoorbraak. Op de voorgrond en op het middenplan proberen mensen zichzelf en hun bezittingen in boten te redden, in het water drijven de lichamen van verdronken mensen en vee. Buitenzijde van het rechterpaneel, maakt deel uit van twee panelen, aan weerszijden beschilderd met voorstellingen uit het leven van de heilige Elisabeth van Hongarije (1207-31) en de Sint Elisabethsvloed 18-19 november 1421 (SK-A-3145/46 en SK-A-3147A/B).",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Dordrecht"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Dordrecht"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Master of the St Elizabeth Panels",
+      "unFixedName": "Master of the St Elizabeth Panels",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Master of the St Elizabeth Panels, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Master of the St Elizabeth Panels",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1933-12-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "? Dordrecht"
+  ],
+  "dating": {
+    "presentingDate": "c. 1490 - c. 1495",
+    "sortingDate": 1490,
+    "period": 15,
+    "yearEarly": 1490,
+    "yearLate": 1495
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H1991",
+      "25H1992"
+    ],
+    "iconClassDescription": [
+      "dike-break",
+      "rescue work during a flood"
+    ],
+    "motifs": [],
+    "events": [
+      "Sint Elisabethsvloed"
+    ],
+    "periods": [
+      "1421-11-181421-11-19"
+    ],
+    "places": [
+      "Wieldrecht"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3147-B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "G. Simpson, The Pine Standard Chest in St Margaret's Church, King's Lynn, and the Social and Economic Significance of the Type, in: King's Lynn and the Fens: medieval art, architecture and archaeology, British Archaeological Association Conference Transactions XXXI (2008), p. 60, fig. 5",
+    "\"\u2019So grot overvlot der watere\u2019. Een bijdrage in het moderne multidisciplinaire onderzoek naar de St. Elisabethsvloed en de periode die daaraan vooraf ging\u201d/ P. Cleveringa e.a. - In: Holland 36/3 (2004), pp. 162-180.",
+    "De waterstaat/ Tom van der Meer - In: Rijksmuseum Kunstkrant, jrg. 25, maart-april 1999, nr. 2, pag.4-10.",
+    "De watersnood van 1421 / Jean Baptist Bedaux - In: Vitrine: museummagazine 3/95, pag. 13.",
+    "De Elisabethsvloed en het altaar van de Wieldrechtenaren in de Grote Kerk van Dordrecht / Liesbeth M. Helmus - In: Kwartaal & Teken 18/1992 (verkorte en aangepaste versie van 1991-nr. 2).",
+    "Strijd tegen het water / In: 20 Eeuwen Nederland en de Nederlanders - Waanders Uitgevers 1998, afl. 1, pag. 12.",
+    "Inzoomer object op zaal, 2013 (Nederlands/English)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Master of the St Elizabeth Panels",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "127.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "110.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "126"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "109"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Saint Elizabeth\u2019s Day Flood, Master of the St Elizabeth Panels, c. 1490 - c. 1495",
+  "subTitle": "h 127.5cm \u00d7 w 110.5cm",
+  "scLabelLine": "Master of the Saint Elizabeth Panels (active c. 1490-1495), Northern Netherlands (Dordrecht?), c. 1490\u20131495, oil on panel",
+  "label": {
+    "title": "The Saint Elizabeth\u2019s Day Flood",
+    "makerLine": "Master of the Saint Elizabeth Panels (active c. 1490-1495), Northern Netherlands (Dordrecht?), c. 1490\u20131495, oil on panel",
+    "description": "On the night of 19 November 1421 \u2013 the feast day of Saint Elizabeth \u2013 much of Holland was flooded. The Dordrecht region was badly hit: 23 villages were submerged and 2,000 people died. The survivors later had an altarpiece made. The outer panels depict the disaster, with the breach of the dike on the right and the undamaged town of Dordrecht on the left.",
+    "notes": "SK-A-3147-A, B",
+    "date": "2012-11-22"
+  },
+  "showImage": true,
+  "location": null
+}

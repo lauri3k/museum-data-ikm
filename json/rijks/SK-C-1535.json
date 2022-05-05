@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1535",
+  "priref": "5608",
+  "objectNumber": "SK-C-1535",
+  "language": "en",
+  "title": "The Raampoortje in Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a48a967e-d677-4601-9c5b-73c54538edbb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2141,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/de5wBDavPigWBpQe57mnS5fE62IQGaSPrVQGAkTXzoCPdA6jHg3o8Mh9StabQSoHusX42LvN75Eij-v6ejwMl_rQnA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 23,
+      "hex": "#9B9B7E"
+    },
+    {
+      "percentage": 43,
+      "hex": " #7D7859"
+    },
+    {
+      "percentage": 16,
+      "hex": " #5B4B30"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B6B69A"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D4D5BE"
+    },
+    {
+      "percentage": 6,
+      "hex": " #322D1C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#9B9B7E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7D7859",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5B4B30",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B6B69A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D4D5BE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #322D1C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "The Raampoortje in Amsterdam"
+  ],
+  "description": "Het Raampoortje te Amsterdam in de winter bij sneeuw. Op de achtergrond de gevels van de Bloemgracht en de Westertoren.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Wouter Johannes van Troostwijk",
+      "unFixedName": "Troostwijk, Wouter Johannes van",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1782-05-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1810-09-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Wouter Johannes van Troostwijk (28-mei-1782 - 20-sep-1810)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wouter Johannes van Troostwijk",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1902-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1809",
+    "sortingDate": 1809,
+    "period": 19,
+    "yearEarly": 1809,
+    "yearLate": 1809
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I145",
+      "25I2461",
+      "26D4",
+      "26D1"
+    ],
+    "iconClassDescription": [
+      "canals, waters (in city)",
+      "village-gate",
+      "ice ~ freezing weather",
+      "snow"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Raampoort",
+      "Westertoren"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-1535"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Wouter Johannes van Troostwijk",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "57"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "48"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Raampoortje in Amsterdam, Wouter Johannes van Troostwijk, 1809",
+  "subTitle": "h 57cm \u00d7 w 48cm",
+  "scLabelLine": "Wouter Johannes van Troostwijk (1782-1810), oil on canvas, 1809",
+  "label": {
+    "title": "The Raampoortje in Amsterdam",
+    "makerLine": "Wouter Johannes van Troostwijk (1782-1810), oil on canvas, 1809",
+    "description": "The 18th-century Raampoortje was part of Amsterdam\u2019s city rampart near the Bloemgracht. The small gate gave access to the bleaching fields outside the city wall, where dyed cloth was laid out to dry on wooden frames, from which the Raampoortje (Frame Gate) got its name. Here we look from the bleaching fields past the houses on the Bloemgracht towards the cold and wintry city. The Westertoren rises in the distance. The gate was demolished in 1846.",
+    "notes": null,
+    "date": "2013-01-08"
+  },
+  "showImage": true,
+  "location": "HG-1.14"
+}

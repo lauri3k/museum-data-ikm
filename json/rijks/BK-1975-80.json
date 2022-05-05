@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1975-80",
+  "priref": "336883",
+  "objectNumber": "BK-1975-80",
+  "language": "en",
+  "title": "Wandtafel van verguld lindehout met aan de voorkant Europa op de stier",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1a1a518f-6155-4656-ba94-e7ff9207c7ef",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2426,
+    "url": "https://lh3.googleusercontent.com/0Of8fNxDeOXcHZSKgaThh9k2W-iaq58LCYGC92g-KTL4GPad3JW6-EH7eDn0TXraeUbYMJsSxVH8vMcGfqn5wDdbiiE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#17120E"
+    },
+    {
+      "percentage": 23,
+      "hex": " #464356"
+    },
+    {
+      "percentage": 19,
+      "hex": " #827058"
+    },
+    {
+      "percentage": 14,
+      "hex": " #AE9E82"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C7BEA6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EDE8C6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#17120E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #464356",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #827058",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AE9E82",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C7BEA6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #EDE8C6",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 37,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 37,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Wandtafel van verguld lindehout met aan de voorkant Europa op de stier"
+  ],
+  "description": "Wandtafel van verguld lindehout met aan de voorkant Europa op de stier in reli\u00ebf.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture",
+    "table"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1975-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "linden",
+    "gilding (material)"
+  ],
+  "techniques": [
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1690 - 1710",
+    "sortingDate": 1690,
+    "period": 17,
+    "yearEarly": 1690,
+    "yearLate": 1710
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92B1218",
+      "48A9831"
+    ],
+    "iconClassDescription": [
+      "Jupiter, usually in the shape of a white bull, abducts Europa and carries her across the water",
+      "foliage, tendrils, branches ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1975-80"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "123.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "76.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "39"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Wandtafel van verguld lindehout met aan de voorkant Europa op de stier, anonymous, 1690 - 1710",
+  "subTitle": "h 88.0cm \u00d7 w 123.0cm \u00d7 d 76.5cm \u00d7 w 39kg",
+  "scLabelLine": "anonymous, 1690 - 1710, gilding",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

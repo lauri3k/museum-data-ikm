@@ -1,0 +1,148 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-1458-A",
+  "priref": "24782",
+  "objectNumber": "BK-KOG-1458-A",
+  "language": "en",
+  "title": "Cornelis de Graeff and Catharina Hooft",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8a8d35a7-084b-4591-a962-d48303c4860c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/uymmgRGYwuDaycr6hw1_dUPBw-plB861vcrrjc4FixlMEILbk-n_Zbc2hNk1gWVLshx-uBcx2tqahgBNdSrgLopF=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait Medallion of Cornelis de Graeff (1599-1664)"
+  ],
+  "description": "Het hoofd met snor en imperiale is in profiel naar rechts gewend; het haar valt in krullen op de schouder. Hij draagt een kalotje, een wambuis met platliggende kraag, die gesloten is door een koord met akers, en een los omgeslagen mantel. De gladde achtergrond is enigszins gewelfd. Onder de schouder is een deel van een voetstuk aangegeven met het opschrift: CORNELIUS DE GRAEF CONSUL AMSTELDAMIS CIC. IC. CLX. (1660) AD VIVUM SCULP.SIT A. QUELLIEN.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Artus Quellinus (I)",
+      "unFixedName": "Quellinus, Artus (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1609",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1668-08-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Artus Quellinus (I) (1609 - 23-aug-1668), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Artus Quellinus (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1660",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+523)",
+      "44B231"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ profile portrait)",
+      "mayor, burgomaster"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Graeff, Cornelis de"
+    ],
+    "objectNumbers": [
+      "BK-KOG-1458-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Graeff, Cornelis de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "F. Scholten, 'Quellinus's burgomasters:a portrait gallery of Amsterdam republicanism', Simiolus 32, nr. 2/3 (2006), p. 102",
+    "J. van den Vondel, Op d'Afbeeldinge van Mevrouwe van Zuidpolsbroeck Katharine Hooft (De werken van J. van den Vondel, uitgegeven door J. van Lennep, herzien door J.H.W. Unger, dl. 1657-1660, p. 325/326, afb."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Artus Quellinus (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "58"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "53"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "white Carrara marble",
+  "longTitle": "Cornelis de Graeff and Catharina Hooft, Artus Quellinus (I), 1660",
+  "subTitle": "h c.58cm \u00d7 w c.53cm",
+  "scLabelLine": "Artus Quellinus (1609\u20131668), Amsterdam, 1660, Carrara marble",
+  "label": {
+    "title": "Cornelis de Graeff and Catharina Hooft",
+    "makerLine": "Artus Quellinus (1609\u20131668), Amsterdam, 1660, Carrara marble",
+    "description": "Mayor Cornelis de Graeff, one of the driving forces behind the construction of the new Amsterdam Town Hall, is portrayed in profile together with his wife, Catharina Hooft. The unusual format recalls Roman coins. The Classical orientation is also conveyed through the choice of material (marble), as well as the Latin inscription, which gives De Graeff\u2019s title as \u2018consul\u2019.",
+    "notes": "Geldt ook voor BK-KOG-1458-B.",
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

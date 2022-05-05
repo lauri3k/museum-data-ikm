@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4941",
+  "priref": "355871",
+  "objectNumber": "SK-A-4941",
+  "language": "en",
+  "title": "The Raree-show (\u2019t Fraay Curieus)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7dc17501-d617-4852-943f-1d117ae07a20",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2114,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/cEuPb9sB5g2bs6BEd30mNp2Y99hSwaYkuLPaxFZpIik-gGI3gKh6VZ04-RMBBd_mt_UFwww6mq9xloaDPqpwnRuaKDs=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#0F1113"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D4D4D8"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A6A396"
+    },
+    {
+      "percentage": 6,
+      "hex": " #876A50"
+    },
+    {
+      "percentage": 76,
+      "hex": " #563A29"
+    },
+    {
+      "percentage": 2,
+      "hex": " #415A67"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0F1113",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D4D4D8",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #A6A396",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #876A50",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #563A29",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #415A67",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 76,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 83,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "De rarekiek (door de kunstenaar ' 't Fraay Curieus' genoemd). In een interieur toont een rondtrekkende Savooiaard een kijkkast ten overstaan van een familie met kinderen. In de rarekiek zijn sc\u00e8nes voorgesteld, wellicht uit een ridder- of andere populaire roman. De kamer staat vol huisraad: een spinnewiel, manden met fruit, speelgoedmolentjes, een mand, sloffen en een emmer met een bezem. Tegen de rechterwand staat een rij vaten waarop iemand een bord met vis heeft neergezet. Aan de rechtermuur een schilderij, tegen de achterwand een rek met kruiken. Aan het plafond hangt een vogelkooi.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem van Mieris",
+      "unFixedName": "Mieris, Willem van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1662-06-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1747-01-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem van Mieris (03-jun-1662 - 27-jan-1747)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem van Mieris",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1998-11-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt, with additional funding from the Prins Bernhard Fonds and the Rijksmuseum Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1718",
+    "sortingDate": 1718,
+    "period": 18,
+    "yearEarly": 1718,
+    "yearLate": 1718
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C75411",
+      "46A152",
+      "41A2",
+      "43C743",
+      "34B131",
+      "25F6"
+    ],
+    "iconClassDescription": [
+      "minstrel, 'jongleur'",
+      "'fahrende Leute', vagrants",
+      "interior of the house",
+      "child and art",
+      "bird in a cage",
+      "fishes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-4941"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "'Recent acquisitions at the Rijksmuseum, Amsterdam', The Burlington Magazine (November 2000), p. 733 met afb. XI.",
+    "G. Jansen, 'De rarekiek', Bulletin Vereniging Rembrandt 9 (1999) 1, p. 20-22 met afb. in kleur.",
+    "C.W. Fock, 'Willem van Mieris en zijn mecenas Pieter de la Court van der Voort', LKJ 2 (1983), p. 277."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem van Mieris",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "58"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "49"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Raree-show (\u2019t Fraay Curieus), Willem van Mieris, 1718",
+  "subTitle": "h 58cm \u00d7 w 49cm",
+  "scLabelLine": "Willem van Mieris (1662-1747), oil on panel, 1718",
+  "label": {
+    "title": "The Raree-show (\u2019t Fraay Curieus)",
+    "makerLine": "Willem van Mieris (1662-1747), oil on panel, 1718",
+    "description": "The old Dutch title (in parentheses) refers to the cries \u2018beautiful!\u2019 (fraai) and \u2018extraordinary!\u2019 (curieus) with which itinerant performers announced themselves. Here a performer shows a wooden triptych with characters from a chivalric romance, while undoubtedly recounting the tale to those gathered around. Willem van Mieris was a \u2018fine painter\u2019, meaning that he rendered the scene in a highly detailed and refined manner. The painting is actually also a kind of peepshow.",
+    "notes": null,
+    "date": "2012-12-21"
+  },
+  "showImage": true,
+  "location": "HG-1.6"
+}

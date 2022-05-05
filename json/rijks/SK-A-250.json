@@ -1,0 +1,217 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-250",
+  "priref": "9082",
+  "objectNumber": "SK-A-250",
+  "language": "en",
+  "title": "The Old Drinker",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3b01e739-3610-458e-980f-d39aa507a34b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2280,
+    "height": 2586,
+    "url": "https://lh3.googleusercontent.com/Qz3Y_XF41XS9Jr2IR9niE7RZwY1ZsjJ_YY0Mjr9k73R5Gl9zOrk0xmDD3kO3OOAkpgbRpbIP9spSjF102yDU_cm7_44D=s0"
+  },
+  "colors": [
+    {
+      "percentage": 18,
+      "hex": "#41321F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5C4D37"
+    },
+    {
+      "percentage": 75,
+      "hex": " #1F130A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #77664B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8A7E67"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A49E8F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#41321F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5C4D37",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #1F130A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #77664B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8A7E67",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A49E8F",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 75,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 94,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [],
+  "description": "De oude drinker. Een man zit naast een biervat, een pijp in de rechterhand, een tinnen bierkan in de linkerhand. Aan de muur hangt een kruik.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gabri\u00ebl Metsu",
+      "unFixedName": "Metsu, Gabri\u00ebl",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1629-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1667-10-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gabri\u00ebl Metsu (jan-1629 - 24-okt-1667)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gabri\u00ebl Metsu",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1827-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1661 - c. 1663",
+    "sortingDate": 1661,
+    "period": 17,
+    "yearEarly": 1661,
+    "yearLate": 1663
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D16",
+      "41C12",
+      "41C741"
+    ],
+    "iconClassDescription": [
+      "old man",
+      "drinking",
+      "pipe ~ tobacco"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-250"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gabri\u00ebl Metsu",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "22"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "19.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Old Drinker, Gabri\u00ebl Metsu, c. 1661 - c. 1663",
+  "subTitle": "h 22cm \u00d7 w 19.5cm",
+  "scLabelLine": "Gabriel Metsu (1629\u20131667), oil on panel, c. 1661\u20131663",
+  "label": {
+    "title": "The Old Drinker",
+    "makerLine": "Gabriel Metsu (1629\u20131667), oil on panel, c. 1661\u20131663",
+    "description": "This old man holding a beer tankard looks out at us somewhat drowsily. The tally of the drinks he has consumed is chalked up on the slate behind him. The beer barrel at the left bears the mark of Het Rode Hert (The Red Hart), an Amsterdam brewery on the Prinsengracht. Metsu was living next door to it around 1650.",
+    "notes": null,
+    "date": "2013-03-15"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1163",
+  "priref": "7192",
+  "objectNumber": "SK-A-1163",
+  "language": "en",
+  "title": "Time",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7aac91f2-5770-4187-9ae5-f08b2dc49559",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 0,
+    "width": 2239,
+    "height": 2572,
+    "url": "https://lh5.ggpht.com/uQ5SJM6ImFmzCohIvuYb3nLtbbxhRQ2bDnrZvUyMSks6pgsiu3Edrj0ySUbfz0AaeDVmyvlNGzM_SL5ZA2P7yMKBy08L=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Time"
+  ],
+  "description": "De Tijd. Vadertje Tijd, naakt en met vleugels op de rug, knielend op zijn rechterknie, in profiel naar links. Hij houdt met zijn rechterhand een doek omhoog, op de grond ligt een gouden weegschaal tussen bladeren.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Christoffel Wonder",
+      "unFixedName": "Wonder, Pieter Christoffel",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1780-01-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1852-07-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter Christoffel Wonder (10-jan-1780 - 12-jul-1852)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Christoffel Wonder",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1853-01-01T00:00:00",
+    "creditLine": "P.C. Wonder Bequest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1810",
+    "sortingDate": 1810,
+    "period": 19,
+    "yearEarly": 1810,
+    "yearLate": 1810
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "23A1"
+    ],
+    "iconClassDescription": [
+      "Father Time, man with wings and scythe"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1163"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "W. Loos, 'Pieter Christoffel Wonder: De Tijd', De negentiende eeuw 17 (1993) nr. 2, p. 97-99."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Christoffel Wonder",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "121.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Time, Pieter Christoffel Wonder, 1810",
+  "subTitle": "h 121.5cm \u00d7 w 105cm \u00d7 d 9.5cm",
+  "scLabelLine": "Pieter Christoffel Wonder, 1810, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

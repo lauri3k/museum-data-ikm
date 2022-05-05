@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-14202",
+  "priref": "58163",
+  "objectNumber": "BK-NM-14202",
+  "language": "en",
+  "title": "Four-poster bed",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2ac30723-72fd-4f16-a969-c6f04dddcd3c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1997,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/WPFlZpj4QcX4hB3S4WW37VOr21cME4Ic-fnxQuIGtNs4xjJ4FrwR8fm5pj0TTO2fMHPN7K_TZHX4XMcbhXwb4Qbqnwo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#41311D"
+    },
+    {
+      "percentage": 30,
+      "hex": " #716C4E"
+    },
+    {
+      "percentage": 18,
+      "hex": " #ACA175"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E1DAB7"
+    },
+    {
+      "percentage": 5,
+      "hex": " #0D0D0D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #987F39"
+    },
+    {
+      "percentage": 0,
+      "hex": " #7B591C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#41311D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #716C4E",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #ACA175",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E1DAB7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #0D0D0D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #987F39",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #7B591C",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 30,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 18,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Ledikant behangen met lichtgroen zijdedamast met een grote bloem. Het geraamte is van grenen-, het binnenbed van eikenhout. Vier gordijnen bedekken de stijlen. Onder de regels en aan de hemel hangen lambrekijns. De hemel heeft een hoofdgestel met een hol gebogen fries en een kroonlijst met voluten. De achterwand heeft een middenstuk en is beplakt is met Chinese zijde met veelkleurig borduursel.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "furniture worker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1926-01-01T00:00:00",
+    "creditLine": "Gift of P., Baron van Pallandt van Eerde, Ommen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "pine (wood)",
+    "oak (wood)",
+    "silk"
+  ],
+  "techniques": [
+    "damask",
+    "embroidering"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1715 - c. 1720",
+    "sortingDate": 1715,
+    "period": 18,
+    "yearEarly": 1715,
+    "yearLate": 1720
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A983"
+    ],
+    "iconClassDescription": [
+      "ornament derived from plant forms"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kasteel Eerde"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-14202"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "330"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "215"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "damask",
+  "longTitle": "Four-poster bed, anonymous, c. 1715 - c. 1720",
+  "subTitle": "h 330cm \u00d7 w 175cm \u00d7 d 215cm",
+  "scLabelLine": "The Netherlands, c. 1715\u20131720, pinewood and oak, with European and Chinese silk damask",
+  "label": {
+    "title": "Four-poster bed",
+    "makerLine": "The Netherlands, c. 1715\u20131720, pinewood and oak, with European and Chinese silk damask",
+    "description": "This bed may have been made for Johan Werner van Pallandt and his Eerde Castle in Ommen. Dani\u00ebl Marot published several designs for splendidly ornamented beds. The shape of this one, however, is somewhat plainer. The greatest attention was lavished on the sumptuous fabrics, in particular the embroidered Chinese silk of the bed\u2019s headboard and head curtain.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1910",
+  "priref": "8650",
+  "objectNumber": "SK-A-1910",
+  "language": "en",
+  "title": "Sibylla Erythrea",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fa95eda5-566c-4225-80fa-bef0b8671116",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1524,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/XQEKF5YaUJRPZwjsWebFnnnB_10ck5OLNM7jkInPGK2cxWkQ3jx2FzVVZ9CMBHqifzYQIRRi70Agt4gUkrj-oyVK0w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 19,
+      "hex": "#A08A68"
+    },
+    {
+      "percentage": 18,
+      "hex": " #402917"
+    },
+    {
+      "percentage": 15,
+      "hex": " #161511"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8F6E49"
+    },
+    {
+      "percentage": 12,
+      "hex": " #B0A489"
+    },
+    {
+      "percentage": 11,
+      "hex": " #805333"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4C4830"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A08A68",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #402917",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #161511",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8F6E49",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B0A489",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #805333",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #4C4830",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 29,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 15,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 31,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 24,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Left Wing of a Triptych: the Donor Matelief Dammasz. and St Paul (front) and the Erythraean Sibyl (back)"
+  ],
+  "description": "De linker zijpaneel van een drieluik. Op de buitenzijde Sybilla Erythraea (de sibille van Erythrae), zittend in een landschap met een boek in de rechterhand. Op de achtergrond een berglandschap met een stad aan een rivier. Op de binnenzijde een knielende stichter Matelief Dammasz met de heilige apostel Paulus, op de tafel de naam en wapen van de schenker. Met ge\u00efntegreerde lijst.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Maarten van Heemskerck",
+      "unFixedName": "Heemskerck, Maarten van",
+      "placeOfBirth": "Heemskerk",
+      "dateOfBirth": "1498",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1574",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Maarten van Heemskerck (1498 - 1574)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Maarten van Heemskerck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1900-06-01T00:00:00",
+    "creditLine": "Gift of the heirs of Jonkheer J.P. Six"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1564",
+    "sortingDate": 1564,
+    "period": 16,
+    "yearEarly": 1564,
+    "yearLate": 1564
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A2331",
+      "11H(PAUL)",
+      "11I2(ERYTHRAEAN)"
+    ],
+    "iconClassDescription": [
+      "kneeling on both knees",
+      "the apostle Paul of Tarsus; possible attributes: book, scroll, sword",
+      "Erythraean sibyl"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Dammasz, Matelief"
+    ],
+    "objectNumbers": [
+      "SK-A-1910"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Dammasz, Matelief"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Maarten van Heemskerck",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "126"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "76.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "141.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Sibylla Erythrea, Maarten van Heemskerck, 1564",
+  "subTitle": "h 126cm \u00d7 w 76.5cm",
+  "scLabelLine": "Maarten van Heemskerck (1498-1574), Haarlem, 1564, oil on panel",
+  "label": {
+    "title": "Sibylla Erythrea",
+    "makerLine": "Maarten van Heemskerck (1498-1574), Haarlem, 1564, oil on panel",
+    "description": "The Erythraean Sybil was a prophetess of classical antiquity who foretold the coming of Christ. Heemskerck depicted her here, on this left wing of a large altarpiece, as a young woman attired in fantasy clothing. The paint layer has become discoloured and transparent in places, whereby the underdrawing shines through the gown.",
+    "notes": null,
+    "date": "2019-02-13"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

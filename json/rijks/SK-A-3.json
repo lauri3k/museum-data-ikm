@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3",
+  "priref": "5757",
+  "objectNumber": "SK-A-3",
+  "language": "en",
+  "title": "The Egg Dance",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "38f0c6f3-1b6a-4257-a000-85c608a3eb65",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1216,
+    "url": "https://lh3.googleusercontent.com/tag3fYeclW652kg1ekaMTcPCJ5IOtuXDcKLEK5QK-xlHJ0VBx-2ee0FclmeB0jvmf_00apcOXtddMt3j9R0Q2oVVzkE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#44291D"
+    },
+    {
+      "percentage": 35,
+      "hex": " #12100B"
+    },
+    {
+      "percentage": 16,
+      "hex": " #62523C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #8B7A5E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A39273"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7C351B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BAAD90"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#44291D",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #12100B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #62523C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8B7A5E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A39273",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7C351B",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #BAAD90",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 35,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 38,
+      "hex": "#981313"
+    },
+    {
+      "percentage": 35,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "The Egg Dance"
+  ],
+  "description": "De eierdans. Interieur van een boerenwoning met verschillende personen voor een haard en aan een tafel. Rechts een dansende jonge man, links een drinkende man met een kruik. Bij de haard een doedelzakspeler.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Aertsen",
+      "unFixedName": "Aertsen, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1508",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1575-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Aertsen (1508 - 02-jun-1575), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Aertsen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1839-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1552",
+    "sortingDate": 1552,
+    "period": 16,
+    "yearEarly": 1552,
+    "yearLate": 1552
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A(+71)",
+      "43C911",
+      "41A2"
+    ],
+    "iconClassDescription": [
+      "festivities (+ games of skill ~ festive activities)",
+      "man dancing alone",
+      "interior of the house"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Aertsen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "20.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Egg Dance, Pieter Aertsen, 1552",
+  "subTitle": "h 84cm \u00d7 w 172cm \u00d7 w 20.5kg",
+  "scLabelLine": "Pieter Aertsen (1508?\u20131575), Antwerp, 1552, oil on panel",
+  "label": {
+    "title": "The Egg Dance",
+    "makerLine": "Pieter Aertsen (1508?\u20131575), Antwerp, 1552, oil on panel",
+    "description": "At right, in this brothel, a young man does an egg dance to the music of a bagpiper. While dancing, he had to roll an egg within a chalk circle \u2013 without it breaking \u2013 and to cover it with a wooden bowl. This \u2018pointless\u2019 amusement, along with the dissolute behaviour of the other figures, served as a moral warning against debauchery.",
+    "notes": null,
+    "date": "2015-10-26"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

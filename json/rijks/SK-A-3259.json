@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3259",
+  "priref": "5340",
+  "objectNumber": "SK-A-3259",
+  "language": "en",
+  "title": "River view near Deventer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bcad19b7-8eb3-4af6-8036-e59af0878fd7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1793,
+    "url": "https://lh3.googleusercontent.com/aWduXfn4-qIfFukK0dXKojAxGiogMpXQ-M7AOcRqVS4rBsmGPaxjhOsI_B7y0U5qTgSUjKrYc1NK9oo_3X-IZgmM1uw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 25,
+      "hex": "#817C68"
+    },
+    {
+      "percentage": 19,
+      "hex": " #94907E"
+    },
+    {
+      "percentage": 17,
+      "hex": " #332A1D"
+    },
+    {
+      "percentage": 15,
+      "hex": " #AAA489"
+    },
+    {
+      "percentage": 8,
+      "hex": " #574F37"
+    },
+    {
+      "percentage": 7,
+      "hex": " #716848"
+    },
+    {
+      "percentage": 6,
+      "hex": " #CDBD94"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#817C68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #94907E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #332A1D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #AAA489",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #574F37",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #716848",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #CDBD94",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #556B2F"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "River view near Deventer"
+  ],
+  "description": "Riviergezicht bij Deventer. Op het water van de IJssel varen enkele roeiboten en zeilscheepjes. Rechts zijn enkele huizen en een kerk zichtbaar tussen bomen, in de verte het profiel van de stad Deventer.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Salomon van Ruysdael",
+      "unFixedName": "Ruysdael, Salomon van",
+      "placeOfBirth": "Naarden",
+      "dateOfBirth": "1603",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1670-11-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Salomon van Ruysdael (c. 1603 - 03-nov-1670)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Salomon van Ruysdael",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1936-06-01T00:00:00",
+    "creditLine": "Gift of H.W.A. Deterding, London"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1645",
+    "sortingDate": 1645,
+    "period": 17,
+    "yearEarly": 1645,
+    "yearLate": 1645
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H213",
+      "46C232"
+    ],
+    "iconClassDescription": [
+      "river",
+      "rowing-boat, canoe, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Deventer"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3259"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Salomon van Ruysdael",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "110.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "5.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "River view near Deventer, Salomon van Ruysdael, 1645",
+  "subTitle": "h 110.7cm \u00d7 w 152cm \u00d7 t 5.4cm \u00d7 d 8.9cm",
+  "scLabelLine": "Salomon van Ruysdael, 1645, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

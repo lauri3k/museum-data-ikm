@@ -1,0 +1,273 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1349",
+  "priref": "8172",
+  "objectNumber": "SK-C-1349",
+  "language": "en",
+  "title": "Salome with the Head of John the Baptist",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "db4545c8-b977-4ec5-b042-ab208b89f9aa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1872,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/8B3Eo5BeY4sxHS-N0_ZDx-ZBFeGISP0Yhqq1YXlqMxl1XfIA87j3GU-dl0sXlknLtEmh0-qvJ9f674X8S2GwdsG0Aw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 47,
+      "hex": "#2F1E16"
+    },
+    {
+      "percentage": 23,
+      "hex": " #6B4C3B"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A2AC9B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #977E67"
+    },
+    {
+      "percentage": 3,
+      "hex": " #5C756D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #79958C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #63251B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#2F1E16",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6B4C3B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A2AC9B",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #977E67",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #5C756D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #79958C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #63251B",
+      "normalizedHex": "#981313"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #5F9EA0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #800000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 31,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #981313"
+    }
+  ],
+  "titles": [
+    "Salome and the Head of John the Baptist"
+  ],
+  "description": "Salom\u00e9 met het hoofd van Johannes de Doper op een grote ronde tinnen schotel. Staande onder een boog, in de verte een landschap met boerderijen aan een rivier.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Cornelisz van Oostsanen",
+      "unFixedName": "Cornelisz van Oostsanen, Jacob",
+      "placeOfBirth": "Oostzaan",
+      "dateOfBirth": "1475",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Jacob Cornelisz van Oostsanen (c. 1475 - c. 1533), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Cornelisz van Oostsanen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1948-05-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Kabinet van Schilderijen Mauritshuis"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1524",
+    "sortingDate": 1524,
+    "period": 16,
+    "yearEarly": 1524,
+    "yearLate": 1524
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C1338"
+    ],
+    "iconClassDescription": [
+      "the head of John the Baptist on a platter"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-1349"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Cornelisz van Oostsanen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "71.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "53.6"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "frame",
+      "value": "83.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "frame",
+      "value": "66.5"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": "frame",
+      "value": "5.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Salome with the Head of John the Baptist, Jacob Cornelisz van Oostsanen, 1524",
+  "subTitle": "h 71.8cm \u00d7 w 53.6cm",
+  "scLabelLine": "Jacob Cornelisz van Oostsanen, alias Jacob War van Amsterdam (c. 1472/77\u2013 in or before 1533), Amsterdam, 1524, oil on panel",
+  "label": {
+    "title": "Salome with the Head of John the Baptist",
+    "makerLine": "Jacob Cornelisz van Oostsanen, alias Jacob War van Amsterdam (c. 1472/77\u2013 in or before 1533), Amsterdam, 1524, oil on panel",
+    "description": "Salome danced seductively for King Herod, and, as a reward, she was granted a wish. Urged on by her mother Herodias, Salome asked for the head of John the Baptist, who had criticized Herodias\u2019 adultery with the king. Salome is showing us her prize, the saint\u2019s head on a platter.",
+    "notes": null,
+    "date": "2012-11-22"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

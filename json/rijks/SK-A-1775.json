@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1775",
+  "priref": "6403",
+  "objectNumber": "SK-A-1775",
+  "language": "en",
+  "title": "The Departure of a Dignitary from Middelburg",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "228eaccd-0bab-4d04-b5c2-a63117cf29bf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1195,
+    "url": "https://lh3.googleusercontent.com/k1RyDykSCj_-w9HpfX5fz4YonlXXDoC0pK95mFsTuK-DrO27Ov4LwrX2wPqK5Y7jBOGPQd8_Rt8BqWTEAIDBoQLsDEd1CsvmlM3iFgM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#3B4A50"
+    },
+    {
+      "percentage": 24,
+      "hex": " #BCBDAC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #84877C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #7C684C"
+    },
+    {
+      "percentage": 37,
+      "hex": " #523D28"
+    },
+    {
+      "percentage": 9,
+      "hex": " #19190F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3B4A50",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #BCBDAC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #84877C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7C684C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #523D28",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #19190F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 24,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 24,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "The Departure of a Dignitary from Middelburg"
+  ],
+  "description": "Het vertrek van een hoogwaardigheidsbekleder uit Middelburg, 1615. Het oorlogsschip De Zeehondt wordt door paarden door het kanaal naar het havenhoofd getrokken. Rechts op de dijk rijdt de hoogwaardigheidsbekleder met een escorte te paard. Op het water eveneens de jacht van prins Maurits. In de verte het profiel van de stad Middelburg.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen Pietersz van de Venne",
+      "unFixedName": "Venne, Adriaen Pietersz van de",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1589",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1662-11-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adriaen Pietersz van de Venne (c. 1589 - 12-nov-1662)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen Pietersz van de Venne",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1898-06-01T00:00:00",
+    "creditLine": "D. Franken Bequest, Le V\u00e9sinet"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1615",
+    "sortingDate": 1615,
+    "period": 17,
+    "yearEarly": 1615,
+    "yearLate": 1615
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1",
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'",
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Middelburg"
+    ],
+    "people": [
+      "Maurits (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-1775"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "P. Hecht, 'Dani\u00ebl Franken : genereus en bescheiden', Bulletin van de Vereniging Rembrandt 24 (2014), afb. p. 11.",
+    "Documentatiemap: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen Pietersz van de Venne",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "63.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "131.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Departure of a Dignitary from Middelburg, Adriaen Pietersz van de Venne, 1615",
+  "subTitle": "h 63.2cm \u00d7 w 131.6cm",
+  "scLabelLine": "Adriaen Pietersz van de Venne (c. 1589\u20131662), oil on panel, 1615",
+  "label": {
+    "title": "The Departure of a Dignitary from Middelburg",
+    "makerLine": "Adriaen Pietersz van de Venne (c. 1589\u20131662), oil on panel, 1615",
+    "description": "The warship De Zeehondt is being towed to sea from the harbour of Middelburg by four muscular draught\nhorses. The identity of the departing person who is drawing so much attention from a multitude of lowand\nhigh-ranking people is unknown. However, it must have been someone of standing, for even Stadtholder\nMaurice\u2019s yacht is present; it fires a salute.",
+    "notes": null,
+    "date": "2013-03-19"
+  },
+  "showImage": true,
+  "location": "HG-2.5"
+}

@@ -1,0 +1,272 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1976-75",
+  "priref": "17215",
+  "objectNumber": "BK-1976-75",
+  "language": "en",
+  "title": "Lidded ewer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b7593955-22ca-4628-89f9-4f11d4f245d2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 12,
+    "width": 5490,
+    "height": 7485,
+    "url": "https://lh3.googleusercontent.com/Ovyo5Lk0AJGQtOvaFAc3ftMiDwPgLlEhl70T93W7s5QtNm5I33t4vMsA2JJ10i5srucjNOdzjQlvyyCKf_DGKUdEirI=s0"
+  },
+  "colors": [
+    {
+      "percentage": 72,
+      "hex": "#DADAAC"
+    },
+    {
+      "percentage": 10,
+      "hex": " #83815D"
+    },
+    {
+      "percentage": 6,
+      "hex": " #555634"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A6B0A7"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C1BB7D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #292F26"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EDF2E7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DADAAC",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #83815D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #555634",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #A6B0A7",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C1BB7D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #292F26",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #EDF2E7",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#EEE8AA"
+    },
+    {
+      "percentage": 17,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 85,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Lidded ewer for the Amsterdam Goldsmiths Guild"
+  ],
+  "description": "Kan met deksel van verguld zilver. Op de ronde, gegolfde voet zit een aapje dat de cuppa draagt. De cuppa verbreedt zich naar boven toe, met aan de voorzijde een brede schenktuit. Het hoge oor is opgebouwd uit onder andere een vrouwenlichaam. In de kan rust een losse binnenbak.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adam van Vianen (I)",
+      "unFixedName": "Vianen, Adam van (I)",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1569",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1627",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "silversmith"
+      ],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Utrecht"
+      ],
+      "qualification": null,
+      "labelDesc": "Adam van Vianen (I) (1569 - 1627), Utrecht"
+    }
+  ],
+  "plaqueDescriptionDutch": "Amsterdam\u2019s guild of silversmiths commissioned Adam van Vianen to make a jug to commemorate his brother Paulus, also a silversmith, who had recently died.\r\nBy designing the entire jug as a piece of auricular ornament, he turned it into a work of art in its own right. The jug was universally acclaimed as a technical and artistic masterpiece.\r\n",
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adam van Vianen (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1976-10-19T00:00:00",
+    "creditLine": "Purchased with the support of the Prins Bernhard Fonds, the Vereniging Rembrandt and the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Utrecht"
+  ],
+  "dating": {
+    "presentingDate": "1614",
+    "sortingDate": 1614,
+    "period": 17,
+    "yearEarly": 1614,
+    "yearLate": 1614
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F22",
+      "31AA2391"
+    ],
+    "iconClassDescription": [
+      "monkeys, apes",
+      "bending figure - AA - female human figure"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [
+      "Vianen, Paulus Willemsz. van"
+    ],
+    "objectNumbers": [
+      "BK-1976-75"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Vianen, Paulus Willemsz. van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "A. Jensen Adams, Public Faces and Private Identities in Seventeenth-Century Holland, Portraiture and the Production of Community, New York 2009, p. 184, fig. 51",
+    "R.J. Baarsen, bespreking van J.R. ter Molen, Van Vianen. Een Utrechtse familie van zilversmeden met een internationale faam, 2 dln., Leiden 1984, in: Oud Holland 100 (1986), p. 77-79., afb. 1,2.",
+    "J.R. ter Molen, 'Adam van Vianen's silverware in relation to seventeenth century Dutch painting', Apollo 110 (1979), 482-488, afb. 1.",
+    "Nederlandse Musea in 1976, IIC, 's-Gravenhage, 1978, p. 20-21.",
+    "T. Milnes Gaskell, 'Documentary silver-gilt ewer', Christie's review of the season 1977, London, 1977, p. 170-171.",
+    "Verslag van de Vereniging Rembrandt over 1976, p. 60.",
+    "Th.M. Duyven\u00e9 de Wit-Klinkhamer, 'Een vermaarde zilveren beker', Nederlands Kunsthistorisch Jaarboek 17 (1966), p. 79-103.",
+    "A.L. den Blaauwen, 'Een onbekende prent van Adam van Vianen', Bulletin van het Rijksmuseum 4 (1956), p. 32."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adam van Vianen (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "25.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "14.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "9.0"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "910.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Lidded ewer, Adam van Vianen (I), 1614",
+  "subTitle": "h c.25.0cm \u00d7 w c.14.0cm \u00d7 d c.9.0cm \u00d7 w 910.0gr",
+  "scLabelLine": "Adam van Vianen (c. 1569\u20131627), silver gilt, 1614",
+  "label": {
+    "title": "Lidded ewer",
+    "makerLine": "Adam van Vianen (c. 1569\u20131627), silver gilt, 1614",
+    "description": "The body of this bizarre ewer features Auricular-style decoration, that is, fluid earlobe-like forms flowing into one another as though someone has stirred a syrupy substance with a wooden spoon. Emerging from this mixture is all manner of terrifying part-human and part-animal creatures. Adam van Vianen made this ewer in memory of his brother Paulus van Vianen, who had died in 1613.",
+    "notes": "Multimediatour",
+    "date": "2018-05-01"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

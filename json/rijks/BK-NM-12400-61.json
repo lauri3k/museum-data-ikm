@@ -1,0 +1,290 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12400-61",
+  "priref": "14382",
+  "objectNumber": "BK-NM-12400-61",
+  "language": "en",
+  "title": "Plate with Christ on the Mount of Olives",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "46f33ad0-ee2c-4bc4-ad23-56023651a694",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/4NiXXG63nU6PytCm3zTwf2Gv9SwzS9wOSYHMHctyxGVucpmOALgFY67fYYsyVPy2Jn0YoOj7FPP6GIWScnrzFAqEB8E=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#D9DBDE"
+    },
+    {
+      "percentage": 26,
+      "hex": " #B1B3B4"
+    },
+    {
+      "percentage": 18,
+      "hex": " #768098"
+    },
+    {
+      "percentage": 9,
+      "hex": " #525E84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #343E6C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #1F2754"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F2F3F5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D9DBDE",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #B1B3B4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #768098",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #525E84",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #343E6C",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #1F2754",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #F2F3F5",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 26,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 18,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 16,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 36,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 26,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 8,
+      "hex": " #4019B1"
+    }
+  ],
+  "titles": [],
+  "description": "Bord van fa\u00efence met voorstellingen uit het leven van Christus naar gravures van Hendrick Goltzius.",
+  "labelText": null,
+  "objectTypes": [
+    "plate (dishes)"
+  ],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "De Witte Starre",
+      "unFixedName": "De Witte Starre",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to De Witte Starre, Delft"
+    },
+    {
+      "name": "Dammas Hofdijck",
+      "unFixedName": "Hofdijck, Dammas",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "Dammas Hofdijck, Delft"
+    },
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "after print by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Hendrick Goltzius (jan-1558 - 01-jan-1617)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "De Roos",
+      "unFixedName": "De Roos",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to De Roos, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "De Roos",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1916-01-01T00:00:00",
+    "creditLine": "Gift of the heirs of J.F. Loudon, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft",
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700 - c. 1725",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1725
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D31211"
+    ],
+    "iconClassDescription": [
+      "agony of Christ; three (or eleven) apostles sleeping"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-12400-61"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "De Roos",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": "c.",
+      "part": null,
+      "value": "25.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "plate (dishes)",
+  "longTitle": "Plate with Christ on the Mount of Olives, De Roos (attributed to), c. 1700 - c. 1725",
+  "subTitle": "d c.25.5cm",
+  "scLabelLine": "attributed to De Roos or De Witte Ster (Dammas Hofdijck), after a print by Hendrick Goltzius (1558\u20131617), Delft, c. 1700\u20131725, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Plate with Christ on the Mount of Olives",
+    "makerLine": "attributed to De Roos or De Witte Ster (Dammas Hofdijck), after a print by Hendrick Goltzius (1558\u20131617), Delft, c. 1700\u20131725, tin-glazed earthenware (faience)",
+    "description": null,
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

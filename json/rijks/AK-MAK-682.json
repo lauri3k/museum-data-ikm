@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-682",
+  "priref": "1578",
+  "objectNumber": "AK-MAK-682",
+  "language": "en",
+  "title": "Container in the form of a crane",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f8d25f9a-f36b-4ab3-bf40-dda7dfc4c491",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 6921,
+    "height": 5142,
+    "url": "https://lh3.googleusercontent.com/W_7eNeKDwKGEBDH-3-MWUJYaZvkqekHpdoWQ9ScAoCXko5MUEFTAGUd0QXbQJcdc4Id_pmUPzmIXZbC9aQg9eaI45Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#EFEEE9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B0AB99"
+    },
+    {
+      "percentage": 4,
+      "hex": " #867F6F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #655D4D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2A271F"
+    },
+    {
+      "percentage": 75,
+      "hex": " #CDD2C9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EFEEE9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B0AB99",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #867F6F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #655D4D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2A271F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #CDD2C9",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 75,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 76,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Container in the Shape of a Crane"
+  ],
+  "description": "Lakdoos in de vorm van een kraanvogel, ingelegd met parelmoer. Waarschijnlijk een doos voor het serveren van voedsel.",
+  "labelText": null,
+  "objectTypes": [
+    "box"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "lacquer (coating)",
+    "mother of pearl"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700 - c. 1800",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F37(CRANE)"
+    ],
+    "iconClassDescription": [
+      "shore-birds and wading-birds: crane"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-682"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Menno Fitski, 'Japanese art in the Westendorp-Osieck collection', Arts of Asia 38 (2008), nr. 4, p. 49, afb. 3."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "39.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "59.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "18.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "lacquer on wood, mother-of-pearl",
+  "longTitle": "Container in the form of a crane, anonymous, c. 1700 - c. 1800",
+  "subTitle": "h 39.5cm \u00d7 w 59.5cm \u00d7 d 18.7cm",
+  "scLabelLine": "Japan, c. 18th century, wood, lacquer, mother-of-pearl",
+  "label": {
+    "title": "Container in the form of a crane",
+    "makerLine": "Japan, c. 18th century, wood, lacquer, mother-of-pearl",
+    "description": "This large lacquerware box is in the shape of a sitting crane and inlaid with mother-of-pearl. A popular motif in Japan, the crane stands for a long and prosperous life, honour, and loyalty.",
+    "notes": null,
+    "date": "2016-12-06"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,240 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4225",
+  "priref": "10160",
+  "objectNumber": "SK-A-4225",
+  "language": "en",
+  "title": "Self-portrait",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "accc95ef-0fe6-4409-a23a-a60fe1ab6d2f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 30,
+    "width": 2025,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/00MG-W8hpaFmR_JaHlaDpzSVVa6yNfReevEp6eAK0Y6qRphkWbEsUNL7ERKYuDkjVczBmvy_0Xk5xrPZ62KDXp6YpKk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#635B3E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #9D7426"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BAA573"
+    },
+    {
+      "percentage": 0,
+      "hex": " #901811"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CFCAA9"
+    },
+    {
+      "percentage": 90,
+      "hex": " #202928"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#635B3E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #9D7426",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #BAA573",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #901811",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #CFCAA9",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #202928",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 90,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B0000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 90,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 0,
+      "hex": " #981313"
+    }
+  ],
+  "titles": [
+    "Self-Portrait"
+  ],
+  "description": "Zelfportret van Cornelis Troost, buste in een geschilderde ovale omlijsting, de linkerhand in de vest gestoken. Een gordijn hangt deels over het portret; vooraan op een voetstuk liggen een palet met verf en penselen en een tekening op blauw papier.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Troost",
+      "unFixedName": "Troost, Cornelis",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1696-10-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1750-03-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Troost (08-okt-1696 - 07-mrt-1750)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Troost",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1973-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt and the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1739",
+    "sortingDate": 1739,
+    "period": 18,
+    "yearEarly": 1739,
+    "yearLate": 1739
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C514",
+      "48C513",
+      "48C5152"
+    ],
+    "iconClassDescription": [
+      "picture, painting",
+      "portrait, self-portrait of painter",
+      "palette"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Troost, Cornelis"
+    ],
+    "objectNumbers": [
+      "SK-A-4225"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Troost, Cornelis"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Troost",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "83"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Self-portrait, Cornelis Troost, 1739",
+  "subTitle": "h 103cm \u00d7 w 83cm",
+  "scLabelLine": "Cornelis Troost (1696-1750), oil on canvas, 1739",
+  "label": {
+    "title": "Self-portrait",
+    "makerLine": "Cornelis Troost (1696-1750), oil on canvas, 1739",
+    "description": "As a former actor and scene painter, Troost understood illusion. In this self-portrait he gazes from a mirror at himself and at us. The curtain, pedestal, palette and drawing on blue paper create a sense of depth. Every detail testifies to his technical skill. Notice how he conveyed the fine batiste cloth of his fashionable jabot \u2013 the frill of ruffles attached to his shirt \u2013 with a single stroke of white paint.",
+    "notes": null,
+    "date": "2013-10-07"
+  },
+  "showImage": true,
+  "location": null
+}

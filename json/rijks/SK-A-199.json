@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-199",
+  "priref": "8859",
+  "objectNumber": "SK-A-199",
+  "language": "en",
+  "title": "Still Life with a Silver Jug and a Porcelain Bowl",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e8c04aef-f94a-48c1-8ab8-7cfc868e42fc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2321,
+    "height": 2592,
+    "url": "https://lh3.googleusercontent.com/B7qhYTP1s_5HEhs34gXA-WK5M-1E7fwSh_HC_DhSVV6lHcexGHpDdl3nZsppT5gIdvC5As2y4eVP9xfUTbFUIuZWhHw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 73,
+      "hex": "#130F08"
+    },
+    {
+      "percentage": 23,
+      "hex": " #585541"
+    },
+    {
+      "percentage": 1,
+      "hex": " #987C35"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B8F83"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B29D54"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BFBB8C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2D3C1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#130F08",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #585541",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #987C35",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #8B8F83",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B29D54",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFBB8C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D2D3C1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 73,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Still Life with a Silver Jug"
+  ],
+  "description": "Stilleven met een ornamentale zilveren schenkkan met deksel, een bekerschroef met een roemer met witte wijn, een Wan Li-schaal met citroenen en sinaasappelen en een horloge.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Kalf",
+      "unFixedName": "Kalf, Willem",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1619-11-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1693-07-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Kalf (03-nov-1619 - 31-jul-1693)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Kalf",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1821-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1655 - 1660",
+    "sortingDate": 1655,
+    "period": 17,
+    "yearEarly": 1655,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41E",
+      "41A7711",
+      "41C7111",
+      "25G21(LEMON)",
+      "23U25"
+    ],
+    "iconClassDescription": [
+      "stillevens van diverse voorwerpen",
+      "container of precious metal",
+      "glass of wine",
+      "fruits: lemon",
+      "watch"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-199"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Kalf",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "73.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "65.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Still Life with a Silver Jug and a Porcelain Bowl, Willem Kalf, 1655 - 1660",
+  "subTitle": "h 73.8cm \u00d7 w 65.2cm",
+  "scLabelLine": "Willem Kalf (1619-1693), oil on canvas, c. 1655-1660",
+  "label": {
+    "title": "Still Life with a Silver Jug and a Porcelain Bowl",
+    "makerLine": "Willem Kalf (1619-1693), oil on canvas, c. 1655-1660",
+    "description": "Willem Kalf did not paint the most common type of Asian objects circulating in the Dutch Republic, but generally chose rare examples that were already decades old. Sometimes he combined elements from various objects. For example, the decoration on the inside of this bowl is typical of klapmutsen (bowls with a flat rim) from earlier in the century, while the decoration on the outside is based on a contemporary\npiece of porcelain.",
+    "notes": null,
+    "date": "2015-10-19"
+  },
+  "showImage": true,
+  "location": "HG-2.30.5"
+}

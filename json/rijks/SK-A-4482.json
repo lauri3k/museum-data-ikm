@@ -1,0 +1,265 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4482",
+  "priref": "10375",
+  "objectNumber": "SK-A-4482",
+  "language": "en",
+  "title": "View of Ambon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ffc7241b-1751-47cb-a803-6bad27a96ad7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1372,
+    "url": "https://lh3.googleusercontent.com/ErhqmovHY9SrON9YTDhdW7W_XsElyOM5rPASaIa4Rh4HklCCRh6RgozBSGZFPaiBBQzeSgKJm4vfY6z2K0z1jtQJRB-aULtLN40eplWL=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#A9A179"
+    },
+    {
+      "percentage": 23,
+      "hex": " #928957"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696034"
+    },
+    {
+      "percentage": 8,
+      "hex": " #494221"
+    },
+    {
+      "percentage": 8,
+      "hex": " #7F7545"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BFB793"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F2C19"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A9A179",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #928957",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #696034",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #494221",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7F7545",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFB793",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #2F2C19",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 32,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Bird's-eye view of Ambon, with a Portrait of Frederik Houtman (1571-1627) in a Cartouche"
+  ],
+  "description": "Gezicht op Ambon in vogelperspectief met in een cartouche bekroond met Neptunus en zeewezens het portret van Frederik Houtman, gouverneur van Amboina (1605-11). Aan de baai ligt het door de Portugezen gebouwde fort dat in in 1605 door de Nederlanders werd veroverd. Op het eiland Ambon zijn met plaatsnamen de verschillende nederzettingen aangeduid. Op het water galeien, schepen en onderaan een zwaardvis.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Holland"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Holland"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1874-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Holland"
+  ],
+  "dating": {
+    "presentingDate": "c. 1617",
+    "sortingDate": 1617,
+    "period": 17,
+    "yearEarly": 1617,
+    "yearLate": 1617
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C14111(+0)",
+      "25K",
+      "45K13"
+    ],
+    "iconClassDescription": [
+      "bird's eye view ~ representation of building (+ variant)",
+      "landschappen in de tropische zone, exotische landschappen",
+      "fortress"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001627"
+    ],
+    "places": [
+      "Ambon"
+    ],
+    "people": [
+      "Houtman, Frederik de"
+    ],
+    "objectNumbers": [
+      "SK-A-4482"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Houtman, Frederik de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "L. Panhuysen, 'Ontziet uw vijanden niet, God is met ons', Historisch Nieuwsblad (2010) nr. 10, p. 39.",
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "148.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "268.2"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "frame",
+      "value": "176.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "frame",
+      "value": "296"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": "frame",
+      "value": "12.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "sight size",
+      "value": "148"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "sight size",
+      "value": "266.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "View of Ambon, anonymous, c. 1617",
+  "subTitle": "h 148.8cm \u00d7 w 268.2cm",
+  "scLabelLine": "oil on canvas, c. 1617",
+  "label": {
+    "title": "View of Ambon",
+    "makerLine": "oil on canvas, c. 1617",
+    "description": "This is a view of the Mollucan island of Ambon with a portrait of its first Dutch governor, Frederik Houtman, at the lower right. At centre is the Portuguese Fort Victoria, which was seized by the Dutch East India Company in 1605 because of the lucrative clove production. Houtman initially maintained good contacts with the Ambonese chiefs, but the company later mounted ruthless \u2018punitive expeditions\u2019 to counter the sale of cloves to its rivals.",
+    "notes": null,
+    "date": "2019-02-12"
+  },
+  "showImage": true,
+  "location": "HG-2.9"
+}

@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-AM-51-5",
+  "priref": "24580",
+  "objectNumber": "BK-AM-51-5",
+  "language": "en",
+  "title": "Justice",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "59c28e0f-493d-4c23-963b-ecbf1f334eed",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 15,
+    "width": 1535,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/HrPWnU18CHXKQWn969gGrobA3jGfLwJKZ6yJsI0hcW2lkniODLq3kP_ozIVY5dBd0zt3qjZRaPfVNlC9pgMSvBaV-Kg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#ECD7BE"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C0AC97"
+    },
+    {
+      "percentage": 9,
+      "hex": " #625548"
+    },
+    {
+      "percentage": 3,
+      "hex": " #423020"
+    },
+    {
+      "percentage": 74,
+      "hex": " #8F8278"
+    },
+    {
+      "percentage": 0,
+      "hex": " #170F08"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECD7BE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C0AC97",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #625548",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #423020",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8F8278",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #170F08",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 74,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFE4C4"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Justitia, Model for a Statue on the East Facade of the Amsterdam Town Hall (now Royal Palace) at Dam Square"
+  ],
+  "description": "Schets van een vrouwenfiguur met het hoofd iets naar links gewend, staande op het linkerbeen en met het rechter gebogen. In de rechterhand houdt zij de greep van een scepter; de linkeronderarm steekt naar voren voor het vasthouden van een weegschaal. Op het golvende haar, dat van voren is gescheiden en op het achterhoofd in vlechten is gelegd, draagt zij een diadeem. Een fijn geplooid onderkleed met teruggeslagen mouwen, dat de schouders vrijlaat, valt tot op het schoeisel. Een mouwloos overkleed, waarvan de boveneinden door een knoop worden verbonden, glijdt van de linkerschouder omlaag en is om de lendenen opgeschort, zodat een deel van het onderkleed tevoorschijn komt. De rugzijde is slechts gedeeltelijk bewerkt.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Artus Quellinus (I)",
+      "unFixedName": "Quellinus, Artus (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1609",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1668-08-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Artus Quellinus (I) (1609 - 23-aug-1668), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Artus Quellinus (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1650 - 1651",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1651
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11M44"
+    ],
+    "iconClassDescription": [
+      "Justice, 'Justitia'; 'Giustitia divina' (Ripa) ~ one of the Four Cardinal Virtues"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Stadhuis van Amsterdam (1655-1808)"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-AM-51-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Artus Quellinus (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta",
+  "longTitle": "Justice, Artus Quellinus (I), 1650 - 1651",
+  "subTitle": "h 88cm",
+  "scLabelLine": "Artus Quellinus I (1609\u20131668), Amsterdam, c. 1656, terracotta",
+  "label": {
+    "title": "Justice",
+    "makerLine": "Artus Quellinus I (1609\u20131668), Amsterdam, c. 1656, terracotta",
+    "description": "Both fa\u00e7ades of the Town Hall are surmounted by three bronze statues. On the front elevation, Peace is flanked by\nthe virtues Wisdom and Justice, of which these terracotta figures are the scale models. On the rear elevation, Atlas shoulders the celestial globe, with Temperance and Vigilance at his side. The message expressed here is that universal peace, on earth and in heaven, depends on these four virtues.",
+    "notes": null,
+    "date": "2013-03-25"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

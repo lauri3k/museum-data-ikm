@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-347",
+  "priref": "5334",
+  "objectNumber": "SK-A-347",
+  "language": "en",
+  "title": "Bentheim Castle",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ad52be6e-6b94-4953-9452-97ad53b45c8c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2000,
+    "height": 2522,
+    "url": "https://lh3.googleusercontent.com/VPHjRxExAd5bGes2oNEcU9szRDvD8V4lb9pvlyc83cQ1WRO6ngIPFHvxf2o8s_ri_JlC9rmCQascqDdG11LL5VB07BQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#413924"
+    },
+    {
+      "percentage": 18,
+      "hex": " #938665"
+    },
+    {
+      "percentage": 15,
+      "hex": " #786F54"
+    },
+    {
+      "percentage": 10,
+      "hex": " #221F15"
+    },
+    {
+      "percentage": 7,
+      "hex": " #5F553D"
+    },
+    {
+      "percentage": 7,
+      "hex": " #96A2A1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B1A88C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#413924",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #938665",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #786F54",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #221F15",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5F553D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #96A2A1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #B1A88C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 37,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 22,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Bentheim Castle"
+  ],
+  "description": "Kasteel Bentheim. Het kasteel gelegen op een heuveltop, gezien van beneden bij een beek met een watervalletje, rotsen en boomstammen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Isaacksz van Ruisdael",
+      "unFixedName": "Ruisdael, Jacob Isaacksz van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1629-06",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1682-03-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Isaacksz van Ruisdael (c. jun-1629 - 14-mrt-1682)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Isaacksz van Ruisdael",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1810-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650 - 1682",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1682
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I5",
+      "25H212"
+    ],
+    "iconClassDescription": [
+      "landscape with tower or castle",
+      "brook"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kasteel Bentheim"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-347"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Isaacksz van Ruisdael",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "68"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "54"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Bentheim Castle, Jacob Isaacksz van Ruisdael, 1650 - 1682",
+  "subTitle": "h 68cm \u00d7 w 54cm",
+  "scLabelLine": "Jacob Isaacksz van Ruisdael (c. 1628\u20131682), oil on canvas, 1650\u20131682",
+  "label": {
+    "title": "Bentheim Castle",
+    "makerLine": "Jacob Isaacksz van Ruisdael (c. 1628\u20131682), oil on canvas, 1650\u20131682",
+    "description": "Bentheim Castle still exists. It is located on the German\u2013Dutch border region, but the high mountains Ruisdael depicted in this painting are not found there. Fantasy and reality are interwoven in this scene. The painter made a dozen paintings of this castle, each with a different mountain landscape. In 1816, Goethe, the famous German writer, rightly called Ruisdael a poet.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": "HG-2.30.6"
+}

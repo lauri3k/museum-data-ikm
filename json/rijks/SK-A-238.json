@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-238",
+  "priref": "6727",
+  "objectNumber": "SK-A-238",
+  "language": "en",
+  "title": "Maria Josepha of Saxony, Dauphine of France",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cd0f2d25-f711-4efd-9320-31f212048c1e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 27,
+    "width": 1967,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/OGy84_xG4RJstvDkpEA9dGUXU4Z-VQQxpvx_oxiifwugtUhqaQF_mLFBU8epU87tmyZXpFIraBM1TZsiiVPMiz9U4pk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#484037"
+    },
+    {
+      "percentage": 5,
+      "hex": " #605751"
+    },
+    {
+      "percentage": 9,
+      "hex": " #BEAC9F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #99948F"
+    },
+    {
+      "percentage": 50,
+      "hex": " #79797A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D3CEC9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#484037",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #605751",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BEAC9F",
+      "normalizedHex": "#DDA5AA"
+    },
+    {
+      "originalHex": " #99948F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #79797A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D3CEC9",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 50,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 38,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 86,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #DDA5AA"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "Portret van Marie Jos\u00e8phe van Saksen (1731-67), dauphine van Frankrijk. Echtgenote van Louis van Bourbon, moeder van Lodewijk XVI. Ten halven lijve, naar rechts. Onderdeel van de collectie pastels.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean-Etienne Liotard",
+      "unFixedName": "Liotard, Jean-Etienne",
+      "placeOfBirth": "Gen\u00e8ve",
+      "dateOfBirth": "1702-12-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1789-06-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Gen\u00e8ve",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jean-Etienne Liotard (22-dec-1702 - 12-jun-1789)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean-Etienne Liotard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1873-01-01T00:00:00",
+    "creditLine": "Bequeathed by Miss Marie-Anne Liotard, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1749",
+    "sortingDate": 1749,
+    "period": 18,
+    "yearEarly": 1749,
+    "yearLate": 1749
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17311767"
+    ],
+    "places": [],
+    "people": [
+      "Maria Josepha Carolina van Saksen"
+    ],
+    "objectNumbers": [
+      "SK-A-238"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maria Josepha Carolina van Saksen"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean-Etienne Liotard",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "41"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "32.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "2.4"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "113.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88.8"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "6.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drawing",
+  "longTitle": "Maria Josepha of Saxony, Dauphine of France, Jean-Etienne Liotard, 1749",
+  "subTitle": "h 41cm \u00d7 w 32.5cm \u00d7 w 2.4kg",
+  "scLabelLine": "Jean-Etienne Liotard (1702-1789), pastel on vellum, 1749",
+  "label": {
+    "title": "Maria Josepha of Saxony, Dauphine of France",
+    "makerLine": "Jean-Etienne Liotard (1702-1789), pastel on vellum, 1749",
+    "description": "According to Liotard, the dauphine was so impressed by Liotard\u2019s pastels, among them La Liseuse, that Liotard was invited to make portraits of almost the entire French royal family. This example, which Liotard kept for himself, is one of the most charming in its simple presentation of the newlywed young princess.",
+    "notes": null,
+    "date": "2018-09-05"
+  },
+  "showImage": true,
+  "location": null
+}

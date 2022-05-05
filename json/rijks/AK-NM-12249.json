@@ -1,0 +1,275 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-NM-12249",
+  "priref": "25629",
+  "objectNumber": "AK-NM-12249",
+  "language": "en",
+  "title": "Portrait of Shah Jahan",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c8a21b52-4e54-41a3-8f64-39954496dc84",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1916,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/YC7t1DFFhG1Tng2aiz_RFrEUVKDJ_AkpCN3bNrlgKktNn2k-5dIQ3P6Csn3mAiY0d6wY526iIlPKmn_5Pvvkww5oDrvb=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#AD9F82"
+    },
+    {
+      "percentage": 33,
+      "hex": " #D7C49E"
+    },
+    {
+      "percentage": 14,
+      "hex": " #E1DED4"
+    },
+    {
+      "percentage": 7,
+      "hex": " #7F786C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #3F3D3A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #685B4A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BBBCBB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#AD9F82",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D7C49E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E1DED4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7F786C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3F3D3A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #685B4A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BBBCBB",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 70,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 14,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 70,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 14,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Portrait of Shah Jahan"
+  ],
+  "description": "Hij is met borst en schouders driekwart en met het hoofd in profiel naar rechts als achter een venster geplaatst. Aan de onderzijde gaat het venster over in een balustrade, waarover een tapijtje hangt, waarop zijn rechterhand rust. Hij draagt baard en snor, heeft een tulband met aan de voorzijde een kleinood met veer en een parelsnoer, dat van voor- naar achterhoofd loopt. Om de hals en over zijn naar links sluitende jas, een dubbel parelsnoer en aan een koord een hanger.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution anonymous, Italy"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1941-01-01T00:00:00",
+    "creditLine": "J.W.E. vom Rath Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "alabaster (mineral)"
+  ],
+  "techniques": [
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "c. 1630 - c. 1650",
+    "sortingDate": 1630,
+    "period": 17,
+    "yearEarly": 1630,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "41D221(TURBAN)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "head-gear: turban"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Jahan, Shah"
+    ],
+    "objectNumbers": [
+      "AK-NM-12249"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Jahan, Shah"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "C.M.M.A. Lindeman, 'Beeldhouwkunst en kunstnijverheid uit het legaat Edwin vom Rath aan het Rijksmuseum', Maandblad voor Beeldende Kunsten 19 (1942), p. 175.",
+    "Jaarverslag Rijksmuseum (1941), p. 27.",
+    "V.A. Smith, 'An alabaster relief bust of Shah-Jahan', Bulletin van den Nederlandschen Oudheidkundigen Bond  12 (1919), p. 170-172.",
+    "Jaarverslag Rijksmuseum (1911), p. 37."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "11.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "8.6"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "1.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "alabaster with traces of polychrome",
+  "longTitle": "Portrait of Shah Jahan, anonymous, c. 1630 - c. 1650",
+  "subTitle": "h 11.7cm \u00d7 w 8.6cm \u00d7 d 1.2cm",
+  "scLabelLine": "North India, c. 1625\u20131650, painted alabaster",
+  "label": {
+    "title": "Portrait of Shah Jahan",
+    "makerLine": "North India, c. 1625\u20131650, painted alabaster",
+    "description": "The great Mughal emperor Shah Jahan (1628\u20131658) is represented at the window where he customarily appeared to the people. The relief was sculpted by a European who was probably in the service of the emperor.",
+    "notes": null,
+    "date": "2018-02-21"
+  },
+  "showImage": true,
+  "location": null
+}

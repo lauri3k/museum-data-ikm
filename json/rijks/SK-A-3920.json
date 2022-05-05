@@ -1,0 +1,219 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3920",
+  "priref": "5627",
+  "objectNumber": "SK-A-3920",
+  "language": "en",
+  "title": "Portrait of a Goldsmith, Probably Bartholomeus Jansz van Assendelft",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "91626d47-9bf3-4808-9a63-0fa444324dea",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1792,
+    "height": 2412,
+    "url": "https://lh3.googleusercontent.com/PPnHtgTEpujoxsQLZvtTZbP8XV0P4BQ_HLMEMUUZMAPQR8NFvsYSbC5FzxQoEdRLHs5lBJhWk4HG6RY6vqL7JdtzoR7fztSzJooyxTYO=s0"
+  },
+  "colors": [
+    {
+      "percentage": 62,
+      "hex": "#181612"
+    },
+    {
+      "percentage": 24,
+      "hex": " #49392B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #BFB297"
+    },
+    {
+      "percentage": 2,
+      "hex": " #998771"
+    },
+    {
+      "percentage": 2,
+      "hex": " #655442"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7F6E59"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D9D8C5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#181612",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #49392B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #BFB297",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #998771",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #655442",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7F6E59",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D9D8C5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of a man with ring and touchstone, probably Bartholomeus Jansz van Assendelft (1585-1658)"
+  ],
+  "description": "Portret van een man met een ring en toetssteen, waarschijnlijk Bartholomeus Jansz van Assendelft (1585-1658), goudsmid te Leiden. Ten halven lijve, voorover gebogen uit een venster geleund, een ring in de rechterhand en een toetssteen in de linkerhand.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Werner van den Valckert",
+      "unFixedName": "Valckert, Werner van den",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1585",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1627",
+      "dateOfDeathPrecision": "in or after",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Werner van den Valckert (c. 1585 - in or after 1627)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Werner van den Valckert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-02-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1617",
+    "sortingDate": 1617,
+    "period": 17,
+    "yearEarly": 1617,
+    "yearLate": 1617
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D2664",
+      "61B2",
+      "48C311"
+    ],
+    "iconClassDescription": [
+      "ring",
+      "historical persons",
+      "jeweller, goldsmith, silversmith"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Assendelft, Bartholomeus Jansz van"
+    ],
+    "objectNumbers": [
+      "SK-A-3920"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Assendelft, Bartholomeus Jansz van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Werner van den Valckert",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "66"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "49.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of a Goldsmith, Probably Bartholomeus Jansz van Assendelft, Werner van den Valckert, 1617",
+  "subTitle": "h 66cm \u00d7 w 49.5cm",
+  "scLabelLine": "Werner van den Valckert (c. 1580\u2013in or after 1627), oil on panel, 1617",
+  "label": {
+    "title": "Portrait of a Goldsmith, Probably Bartholomeus Jansz van Assendelft",
+    "makerLine": "Werner van den Valckert (c. 1580\u2013in or after 1627), oil on panel, 1617",
+    "description": "The man leans out of a window. In his right hand he holds up a gold ring set with a stone. His left hand rests on a touchstone, an instrument for assessing the purity of gold and silver objects. The sitter might be the goldsmith Bartholomeus Jansz van Assendelft. In 1617, the year the portrait was painted, he was appointed assay-master of the Leiden goldsmiths\u2019 guild, which would explain the inclusion of the touchstone.",
+    "notes": null,
+    "date": "2013-03-19"
+  },
+  "showImage": true,
+  "location": "HG-2.5"
+}

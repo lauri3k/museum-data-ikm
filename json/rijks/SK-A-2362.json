@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2362",
+  "priref": "6366",
+  "objectNumber": "SK-A-2362",
+  "language": "en",
+  "title": "Still Life with a Tall Beer Glass",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a54ed51a-9e73-436e-a8fd-7e796c514d50",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2422,
+    "height": 2622,
+    "url": "https://lh3.googleusercontent.com/ABuZaQ9AYYRYDpstbBG9XNrNjQ4yaKYr7HCDMCpVmpT27p3uGJ4rGBS1EYG9sw4w3fKB0v0Ilh9JvO2fNDSKv4iPTo11=s0"
+  },
+  "colors": [
+    {
+      "percentage": 26,
+      "hex": "#19140C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #54452C"
+    },
+    {
+      "percentage": 51,
+      "hex": " #372A1A"
+    },
+    {
+      "percentage": 5,
+      "hex": " #766845"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C1B99C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #AA996F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#19140C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #54452C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #372A1A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #766845",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C1B99C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AA996F",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 78,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 78,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Still Life with a Tall Beer Glass"
+  ],
+  "description": "Stilleven met hoog bierglas. Op een tafel staan bijeen: een pasglas met bier, een tinnen bord met een citroen en een mes, een sinaasappel, een omgevallen tinnen kan, een Chinees bord met peperkorrels, een laag glas met bier, enkele oesters en noten en een pijp met een vuurtestje en tabak.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Jansz. van de Velde (III)",
+      "unFixedName": "Velde, Jan Jansz. van de (III)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1620",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1662-07-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Enkhuizen",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Jansz. van de Velde (III) (1620 - 10-jul-1662)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Jansz. van de Velde (III)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1647",
+    "sortingDate": 1647,
+    "period": 17,
+    "yearEarly": 1647,
+    "yearLate": 1647
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C7141",
+      "41C38",
+      "25F72(OYSTER)",
+      "41C74"
+    ],
+    "iconClassDescription": [
+      "glass of beer",
+      "laid table as still life",
+      "molluscs: oyster",
+      "tobacco"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2362"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Jansz. van de Velde (III)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "64.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "59"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Still Life with a Tall Beer Glass, Jan Jansz. van de Velde (III), 1647",
+  "subTitle": "h 64.5cm \u00d7 w 59cm \u00d7 d 7.5cm",
+  "scLabelLine": "Jan Jansz van de Velde (c. 1619\u20131662), oil on panel, 1647",
+  "label": {
+    "title": "Still Life with a Tall Beer Glass",
+    "makerLine": "Jan Jansz van de Velde (c. 1619\u20131662), oil on panel, 1647",
+    "description": "A striking object in this painting is the tall, distinctive type of beer glass known in English by the German term \u2018Passglas\u2019. It was used in drinking games during the 17th century. Each person took his turn to drink down to the next ring in one swig \u2013 no easy feat if you were already tipsy. Those who did not manage to reach the ring had to keep on going until they succeeded.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": null
+}

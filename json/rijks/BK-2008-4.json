@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2008-4",
+  "priref": "454287",
+  "objectNumber": "BK-2008-4",
+  "language": "en",
+  "title": "Eight Stacked Beams",
+  "copyrightHolder": "erven Carel Visser",
+  "webImage": null,
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#897E72"
+    },
+    {
+      "percentage": 11,
+      "hex": " #695C50"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A4A3A3"
+    },
+    {
+      "percentage": 12,
+      "hex": " #19140F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #45372A"
+    },
+    {
+      "percentage": 49,
+      "hex": " #DCDCDD"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#897E72",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #695C50",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A4A3A3",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #19140F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #45372A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DCDCDD",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 18,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 18,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Eight Stacked Beams"
+  ],
+  "description": "Acht gelijke balken, aaneengelast uit ijzeren platen. De balken steken, volgens een vaste ordening, om en om verder uit.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Carel Visser",
+      "unFixedName": "Visser, Carel",
+      "placeOfBirth": "Papendrecht",
+      "dateOfBirth": "1928-05-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2015-03-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "jeweler"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Carel Visser (03-mei-1928 - 01-mrt-2015)"
+    }
+  ],
+  "plaqueDescriptionDutch": "De acht robuuste balken waaruit deze abstracte sculptuur bestaat liggen niet precies in het midden op elkaar. Ze zijn twee aan twee telkens een stuk verschoven. Het ziet er volkomen vanzelfsprekend uit, maar in werkelijkheid is het een onmogelijk evenwicht. Daarom is de constructie van wezenlijk belang. Langs alle randen loopt namelijk een lasnaad: een subtiele \u2018levenslijn\u2019 die alles met elkaar verbindt en die de boel overeind houdt.",
+  "plaqueDescriptionEnglish": "The eight massive planks that form this abstract sculpture are not stacked in precise symmetry. Each pair of planks is slightly further to the side. It all appears quite natural, yet the stack is impossible to balance. So the construction is a crucial element. In fact there is a seam along all the edges: a subtle lifeline that connects everything and keeps the stack erect.",
+  "principalMaker": "Carel Visser",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2008-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Rijksmuseum Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "iron (metal)"
+  ],
+  "techniques": [
+    "welding"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1964",
+    "sortingDate": 1964,
+    "period": 20,
+    "yearEarly": 1964,
+    "yearLate": 1964
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2008-4"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "'Carel Visser : Acht gestapelde balken', in: Rijksmuseum Amsterdam Jaarverslag 2007, Amsterdam 2008, p. 59-61.",
+    "Documentatiemap Rijksmuseum Twenthe bij BK (kamer Frits Scholten)"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Carel Visser",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "173"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "25.5"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "123.2"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "72.2"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "12.2"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "241"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "welding",
+  "longTitle": "Eight Stacked Beams, Carel Visser, 1964",
+  "subTitle": "h c.100cm \u00d7 w 173cm",
+  "scLabelLine": "Carel Visser (1928\u20132015), iron, 1964",
+  "label": {
+    "title": "Eight Stacked Beams",
+    "makerLine": "Carel Visser (1928\u20132015), iron, 1964",
+    "description": "The beams in this sculpture are made of welded iron plates. They have been configured in such a way that alternating beams protrude in relation to the centre. The impossible balance thus created can only be maintained because the beams have been welded together. In this stack, the empty space between the beams is also emphasized. Visser\u2019s stack is a play of balance and gravity.",
+    "notes": "Multimediatour",
+    "date": "2018-07-10"
+  },
+  "showImage": true,
+  "location": "HG-3.4"
+}

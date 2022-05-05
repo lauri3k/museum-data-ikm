@@ -1,0 +1,279 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-15116",
+  "priref": "24520",
+  "objectNumber": "BK-15116",
+  "language": "en",
+  "title": "Self-portrait",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "60e85e14-f099-42e7-979e-1d102a70a81d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2008,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/PvRy6apxRh9-pON7C8BGUrbli76uzA3md8KxePWqDSyt10tCOmYXKuE93X5WWXGAFCrkn0d2WGqIrQ7RAhmsaXEX3xkZ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 47,
+      "hex": "#5C4D3A"
+    },
+    {
+      "percentage": 25,
+      "hex": " #28221D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #7B674B"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E9E9E9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #93846F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #AAA6A0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #CDC4B7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#5C4D3A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #28221D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7B674B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #E9E9E9",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #93846F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AAA6A0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CDC4B7",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 56,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Self-Portrait"
+  ],
+  "description": "Giambologna heeft zichzelf geportretteerd met baard en snor, gedeeltelijk kaalhoofdig; het hoofd is iets naar rechts gewend. Hij draagt een wambuis met ronde knopen en een geplooide kraag. Hierover heen een naar links dichtgeslagen mantel met plat liggende kraag; op zijn borst de pauselijke onderscheiding van de Cavaliere di Cristo. Onderaan de mantel een naar onderen uitstekend inzetstuk ter bevestiging.",
+  "labelText": null,
+  "objectTypes": [
+    "bust"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [
+    {
+      "name": "Giambologna",
+      "unFixedName": "Giambologna",
+      "placeOfBirth": "Douai",
+      "dateOfBirth": "1524",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1608-08-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Florence",
+      "occupation": [
+        "draughtsman",
+        "sculptor",
+        "goldsmith"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Giambologna (1524 - 13-aug-1608)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giambologna",
+      "unFixedName": "Giambologna",
+      "placeOfBirth": "Douai",
+      "dateOfBirth": "1524",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1608-08-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Florence",
+      "occupation": [
+        "draughtsman",
+        "sculptor",
+        "goldsmith"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Giambologna (1524 - 13-aug-1608)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giambologna",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1937-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gypsum",
+    "slate (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1600",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1600
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C23"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of sculptor"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Giambologna"
+    ],
+    "objectNumbers": [
+      "BK-15116"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Giambologna"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Giambologna",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "15.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "12.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gypsum",
+  "longTitle": "Self-portrait, Giambologna, c. 1600",
+  "subTitle": "h 9cm",
+  "scLabelLine": "Giambologna (1524\u20131608) or workshop, Florence, c. 1600, polychromed plaster, slate",
+  "label": {
+    "title": "Self-portrait",
+    "makerLine": "Giambologna (1524\u20131608) or workshop, Florence, c. 1600, polychromed plaster, slate",
+    "description": "Around 1600 Giambologna was considered the most famous sculptor active in Europe. The detailing of this polychromed plaster statue closely resembles that of his bronze self-portrait displayed nearby. Both versions would have been made from the same wax model.",
+    "notes": "Geldt voor: BK-15116, BK-15117.",
+    "date": "2019-11-11"
+  },
+  "showImage": true,
+  "location": "HG-2.3"
+}

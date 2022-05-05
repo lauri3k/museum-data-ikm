@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1905-73",
+  "priref": "29225",
+  "objectNumber": "RP-T-1905-73",
+  "language": "en",
+  "title": "Dood van de maagd Maria",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a28d0bc6-ee67-454b-ad37-78a2d757e7c0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2044,
+    "height": 2652,
+    "url": "https://lh6.ggpht.com/ZSj2ZciS9fBiTi9Wjd3Oc0UXQIjA6R8SaA_nipHWVGTtvZjcKb58rwLx0EXKpo2O_MY7gNuNRuvCL5Ezk5LGp5gguPI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dood van de maagd Maria"
+  ],
+  "description": "Ontwerp voor een glasraam.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirck Pietersz. Crabeth",
+      "unFixedName": "Crabeth, Dirck Pietersz.",
+      "placeOfBirth": "Gouda",
+      "dateOfBirth": "1520",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1574",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Gouda",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Dirck Pietersz. Crabeth (c. 1520 - 1574)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck Pietersz. Crabeth",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-01-19T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1561 - 1565",
+    "sortingDate": 1561,
+    "period": 16,
+    "yearEarly": 1561,
+    "yearLate": 1565
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73E74"
+    ],
+    "iconClassDescription": [
+      "the Dormition: Mary on her deathbed; the apostles are gathered around her (John the Evangelist may be shown sleeping or dreaming)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1905-73"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck Pietersz. Crabeth",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "301"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "233"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Dood van de maagd Maria, Dirck Pietersz. Crabeth, 1561 - 1565",
+  "subTitle": "h 301mm \u00d7 w 233mm",
+  "scLabelLine": "Dirck Pietersz. Crabeth, 1561 - 1565, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

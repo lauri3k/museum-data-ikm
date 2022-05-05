@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4026",
+  "priref": "10070",
+  "objectNumber": "SK-A-4026",
+  "language": "en",
+  "title": "The Bookshop and Lottery Agency of Jan de Groot in the Kalverstraat in Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4cf7c079-f127-4c51-bb26-6a8ebe63b6dd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2205,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/PwJMha2PjESwtU5BVxRmxv2OZmfXDpE1RDYnWwgkOFJkPDiYVrnPu3doJXO75e_wPkGj_6EXl9xLsrL3i_HCUaTHI-c=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#312B1D"
+    },
+    {
+      "percentage": 20,
+      "hex": " #5F4021"
+    },
+    {
+      "percentage": 15,
+      "hex": " #0F100F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #6E6639"
+    },
+    {
+      "percentage": 6,
+      "hex": " #968C4B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B6AD65"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D1CD89"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#312B1D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5F4021",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #0F100F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6E6639",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #968C4B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B6AD65",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D1CD89",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 12,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [],
+  "description": "De boekhandel en het loterijkantoor van Jan de Groot in de Kalverstraat te Amsterdam. Straatgevel met drie gebouwen, links de herberg de 'Graef van Holland', in het midden het loterijkantoor en rechts het etablissement het 'Hof van Hollandt'. Een menigte verdringt zich voor de deur van het loterijkantoor, voorbijgangers en bezoekers van de herbergen kijken toe.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Isaac Ouwater",
+      "unFixedName": "Ouwater, Isaac",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1748-07-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1793-03-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Isaac Ouwater (31-jul-1748 - 04-mrt-1793), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Isaac Ouwater",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1779",
+    "sortingDate": 1779,
+    "period": 18,
+    "yearEarly": 1779,
+    "yearLate": 1779
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49M7",
+      "43C58",
+      "46A7"
+    ],
+    "iconClassDescription": [
+      "book-shop, bookseller",
+      "raffle, lottery",
+      "crowd, mob"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kalverstraat"
+    ],
+    "people": [
+      "Groot, Jan de (boekverkoper)"
+    ],
+    "objectNumbers": [
+      "SK-A-4026"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Groot, Jan de (boekverkoper)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Isaac Ouwater",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "38.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "33.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Bookshop and Lottery Agency of Jan de Groot in the Kalverstraat in Amsterdam, Isaac Ouwater, 1779",
+  "subTitle": "h 38.5cm \u00d7 w 33.5cm",
+  "scLabelLine": "Isaac Ouwater (1748-1793), oil on canvas, 1779",
+  "label": {
+    "title": "The Bookshop and Lottery Agency of Jan de Groot in the Kalverstraat in Amsterdam",
+    "makerLine": "Isaac Ouwater (1748-1793), oil on canvas, 1779",
+    "description": "A group of men push and shove to enter the door of the lottery agency \u2013 to the astonishment of passersby and the general amusement of the hotel guests on either side. The scene is the start of the lottery ticket sales organized by the States General on 25 October 1779. This was the immediate forerunner of the National Lottery, which still exists, as does the house seen here.",
+    "notes": null,
+    "date": "2018-09-07"
+  },
+  "showImage": true,
+  "location": "HG-1.11"
+}

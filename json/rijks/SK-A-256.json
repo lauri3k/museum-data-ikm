@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-256",
+  "priref": "9097",
+  "objectNumber": "SK-A-256",
+  "language": "en",
+  "title": "Portrait of Philips Willem (1554-1618), Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dc30d32c-0e19-493a-ab45-07a1b31f8b16",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 8,
+    "width": 2293,
+    "height": 2616,
+    "url": "https://lh3.googleusercontent.com/DOFzAmTPRVJ9W9Jc3TRcYg-qD29IhPNID4Myx_uoUsFkcahC6qgtKxcNm-BM8DGX9D3Gcn-M8S0oEOOew61N6VXTYgHmhWwfhtz8NBMR=s0"
+  },
+  "colors": [
+    {
+      "percentage": 61,
+      "hex": "#201C0D"
+    },
+    {
+      "percentage": 29,
+      "hex": " #453A1E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #665B3B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #83764A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDA468"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A78E43"
+    },
+    {
+      "percentage": 0,
+      "hex": " #959278"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#201C0D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #453A1E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #665B3B",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #83764A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BDA468",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A78E43",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #959278",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 61,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Philips Willem (1554-1618), Prince of Orange"
+  ],
+  "description": "Portret van Philips Willem, prins van Oranje, oudste zoon van Willem van Oranje. Staand, kniestuk, de rechterhand op een wandelstok, de linkerhand rustend op het gevest van zijn zwaard. Links de helm op een tafel.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michiel Jansz van Mierevelt",
+      "unFixedName": "Mierevelt, Michiel Jansz van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1567-05-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-06-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Michiel Jansz van Mierevelt (01-mei-1567 - 27-jun-1641)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michiel Jansz van Mierevelt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "nationalization 1795",
+    "date": "1798-09-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1608",
+    "sortingDate": 1608,
+    "period": 17,
+    "yearEarly": 1608,
+    "yearLate": 1608
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45C221",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "helmet",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001618"
+    ],
+    "places": [],
+    "people": [
+      "Filips Willem (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-256"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Filips Willem (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michiel Jansz van Mierevelt",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "122.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "108.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "5.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Philips Willem (1554-1618), Prince of Orange, Michiel Jansz van Mierevelt, c. 1608",
+  "subTitle": "h 122.3cm \u00d7 w 108.3cm",
+  "scLabelLine": "Michiel Jansz van Mierevelt, c. 1608, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

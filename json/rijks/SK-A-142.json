@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-142",
+  "priref": "8661",
+  "objectNumber": "SK-A-142",
+  "language": "en",
+  "title": "Mary Stuart, Princess of Orange, as Widow of William II",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "609a1fd3-da4c-4259-ac38-8eb864e6a534",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2115,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Lubq4z5-Ef8VnteoX9lNeZWI8MunGg8HLlpdubITCa-csTuxJdxtjruEgxtG06E063fvOdtdcOuMaEb3uW-Zzvn0I8U=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#3C3025"
+    },
+    {
+      "percentage": 24,
+      "hex": " #13110F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #7B6F5C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #695841"
+    },
+    {
+      "percentage": 5,
+      "hex": " #949187"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B6B3A6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #AD8C4E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3C3025",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #13110F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7B6F5C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #695841",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #949187",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B6B3A6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #AD8C4E",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 66,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 75,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [
+    "Portrait of Princess Mary Stuart (1631-1660), Widow of Willem II, Prince of Orange"
+  ],
+  "description": "Prinses Maria Stuart (1631-60). Weduwe van Willem II, prins van Oranje. Zittend in een armstoel, ten voeten uit. In de rechterhand een oranjeappel. Links een doorkijk naar de St. Jacobskerk te Den Haag.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bartholomeus van der Helst",
+      "unFixedName": "Helst, Bartholomeus van der",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1670-12-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Bartholomeus van der Helst (1613 - 16-dec-1670)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bartholomeus van der Helst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "nationalization 1795",
+    "date": "1796-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1652",
+    "sortingDate": 1652,
+    "period": 17,
+    "yearEarly": 1652,
+    "yearLate": 1652
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2",
+      "25G21(ORANGE)"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman",
+      "fruits: orange"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16411660"
+    ],
+    "places": [
+      "Stadhouderspoort"
+    ],
+    "people": [
+      "Willem II (prins van Oranje)",
+      "Stuart, Maria Henrietta"
+    ],
+    "objectNumbers": [
+      "SK-A-142"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem II (prins van Oranje)",
+    "Stuart, Maria Henrietta"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bartholomeus van der Helst",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "199.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Mary Stuart, Princess of Orange, as Widow of William II, Bartholomeus van der Helst, 1652",
+  "subTitle": "h 199.5cm \u00d7 w 170cm",
+  "scLabelLine": "Bartholomeus van der Helst (1613\u20131670), oil on canvas, 1652",
+  "label": {
+    "title": "Mary Stuart, Princess of Orange, as Widow of William II",
+    "makerLine": "Bartholomeus van der Helst (1613\u20131670), oil on canvas, 1652",
+    "description": "White is the colour of mourning for people of royal blood. Mary was already a widow by the time she turned 19. Her husband, the Stadtholder William II, died in 1650 of smallpox. Two years later she had herself\nportrayed as his widow, holding an orange in her hand as a reference to the House of Orange. At the left is\nthe stadtholders\u2019 gate of the Binnenhof with a view of The Hague.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.8"
+}

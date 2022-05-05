@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-16937",
+  "priref": "25274",
+  "objectNumber": "BK-16937",
+  "language": "en",
+  "title": "Bust of Pope Gregory XIV",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3d6db0e3-87d0-4712-a500-b3bb99dc59e4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2247,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/pDDG46emlB1Xx135Js0zRdU2Hi2K8fYauq0mVebS3krZO4WhNerUR4x-3BzyTQuO6JO-mykOco33OYDpsoBOYMhwa5dY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#2C2822"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8E8987"
+    },
+    {
+      "percentage": 1,
+      "hex": " #0E0D09"
+    },
+    {
+      "percentage": 4,
+      "hex": " #585350"
+    },
+    {
+      "percentage": 67,
+      "hex": " #C4C2C0"
+    },
+    {
+      "percentage": 19,
+      "hex": " #EBEAE8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#2C2822",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8E8987",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #0E0D09",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #585350",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C4C2C0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #EBEAE8",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 19,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 19,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Paus Gregorius XIV draagt een baard en is afgebeeld in vol ornaat, met tiara en koorkap. Het beeld is onder de schouders afgesneden, loopt naar onderen spits toe en gaat over in een cherub met uitgespreide vleugels, die op een cartouche met opschrift rust, waaronder zich een geprofileerd rond voetstuk bevindt. Op de smalle zijvlakken een cherub met twee paar vleugels; op de cartouche het opschrift: GRE- XIV. Van de tiara hangen linten over de schouders af. Over de albe de koorkap, door een agrafe samengehouden, met aurifrisiae, waarop voorstellingen van heiligen: waarschijnlijk twee pausen en de halffiguren van Petrus en Paulus.",
+  "labelText": null,
+  "objectTypes": [
+    "bust"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Sebastiano Torrigiani",
+      "unFixedName": "Torrigiani, Sebastiano",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1596-09-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Sebastiano Torrigiani (.... - 05-sep-1596), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Sebastiano Torrigiani",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1590 - 1591",
+    "sortingDate": 1590,
+    "period": 16,
+    "yearEarly": 1590,
+    "yearLate": 1591
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11P3111"
+    ],
+    "iconClassDescription": [
+      "pope"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Gregorius XIV"
+    ],
+    "objectNumbers": [
+      "BK-16937"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Gregorius XIV"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Sebastiano Torrigiani",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "31"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "47.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "14.6"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "10.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze (metal)",
+  "longTitle": "Bust of Pope Gregory XIV, Sebastiano Torrigiani (attributed to), 1590 - 1591",
+  "subTitle": "h 31cm",
+  "scLabelLine": "attributed to Sebastiano Torrigiani (?\u20131596), Rome, 1590\u20131591",
+  "label": {
+    "title": "Bust of Pope Gregory XIV",
+    "makerLine": "attributed to Sebastiano Torrigiani (?\u20131596), Rome, 1590\u20131591",
+    "description": null,
+    "notes": null,
+    "date": "2012-11-21"
+  },
+  "showImage": true,
+  "location": "HG-0.5"
+}

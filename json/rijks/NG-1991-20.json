@@ -1,0 +1,287 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1991-20",
+  "priref": "234547",
+  "objectNumber": "NG-1991-20",
+  "language": "en",
+  "title": "Album van Spoorwegen in Nederlandsch-Indi\u00eb",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "709dca05-5888-4a04-bff5-544ec523d85b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1689,
+    "url": "https://lh6.ggpht.com/p_XP0J1DrQ6vHj9Bq9AqGt-eaTBzGqh-GfdyfQAlAu9LJB5w57c1xGyEFIiRejyPpgTNQVnC3BycMVow9u2_r03aDXA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 54,
+      "hex": "#4A141D"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E7ECF1"
+    },
+    {
+      "percentage": 15,
+      "hex": " #6A4743"
+    },
+    {
+      "percentage": 3,
+      "hex": " #93755C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C3A46F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3C6A7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #909395"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4A141D",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #E7ECF1",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #6A4743",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #93755C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C3A46F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D3C6A7",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #909395",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#800000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F0F8FF"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 69,
+      "hex": "#981313"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Album van Spoorwegen in Nederlandsch-Indi\u00eb"
+  ],
+  "description": "Fotoalbum in rood leren band met decoraties, titel en opschrift \"C.M.J. ten Sande\" in goudstempeling. Schutbladen met moir\u00e9 patrooon. Bevat 30 foto's waarvan 13 gesigneerd Carl Lang en gedateerd 1865. De foto's van Woodbury & Page dateren uit de jaren 1867-1868. Handgeschreven onderschriften en kaders om de foto's. Betreft de aanleg van de spoorlijn Semarang - Kedoeng Djattie (Kedungjati). Dit traject maakt deel uit van de oudste spoorlijn op Java, van Semarang naar de Vorstenlanden. Foto's van de aanleg van de spoordijk, stationsgebouwen en haltes.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Woodbury & Page",
+      "unFixedName": "Woodbury & Page",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Java"
+      ],
+      "qualification": null,
+      "labelDesc": "Woodbury & Page, Java"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Carl Emanuel Friedrich Lang",
+      "unFixedName": "Lang, Carl Emanuel Friedrich",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1906",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Buitenzorg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Java"
+      ],
+      "qualification": null,
+      "labelDesc": "Carl Emanuel Friedrich Lang (.... - 1906), Java"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Carl Emanuel Friedrich Lang",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1991-11-21T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard",
+    "leather"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Java",
+    "Java"
+  ],
+  "dating": {
+    "presentingDate": "1865 - 1868",
+    "sortingDate": 1865,
+    "period": 19,
+    "yearEarly": 1865,
+    "yearLate": 1868
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A983"
+    ],
+    "iconClassDescription": [
+      "ornament derived from plant forms"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18601875"
+    ],
+    "places": [
+      "Java"
+    ],
+    "people": [
+      "Sande, Carolus Maria Joannes ten"
+    ],
+    "objectNumbers": [
+      "NG-1991-20"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Sande, Carolus Maria Joannes ten"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "De Kinderziekten der Nederlandsch-Indische Spoorweg Maatschappij / S.A. Reitsma - overdruk uit 'Spoor- en tramwegen' 1941, Moorman's periodieke pers NV Den Haag.",
+    "Van batig slot naar ereschuld: de discussie over de financi\u00eble verhouding tussen Nederland en Indi\u00eb en de hervorming van de Nederlandse koloniale politiek, 1860-1900. Jantje de Jong - Proefschrift Rijksuniversiteit Groningen 7-9-1989, p. 171-176."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Carl Emanuel Friedrich Lang",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "31.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "47.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "96.5"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Album van Spoorwegen in Nederlandsch-Indi\u00eb, Carl Emanuel Friedrich Lang, 1865 - 1868",
+  "subTitle": "h 31.5cm \u00d7 w 47.5cm",
+  "scLabelLine": "Carl Emanuel Friedrich Lang, 1865 - 1868, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

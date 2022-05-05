@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3580",
+  "priref": "6274",
+  "objectNumber": "SK-A-3580",
+  "language": "en",
+  "title": "The Singel Bridge at the Paleisstraat in Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cd15e2fa-b1f6-41f4-9e9e-c2ca87abcca3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2880,
+    "height": 1897,
+    "url": "https://lh3.googleusercontent.com/Bawo7r1nPZV6sJ4OHZJHdKV_4Ky59vquAR7KoUXcNZgx9fqTaOW-QaOM9qoyYhOTAopzjt9OIfW06RMwa-9eJW9KjQw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#523821"
+    },
+    {
+      "percentage": 20,
+      "hex": " #17130D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #66533A"
+    },
+    {
+      "percentage": 12,
+      "hex": " #85765F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #9B8C72"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B4A488"
+    },
+    {
+      "percentage": 4,
+      "hex": " #76674D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#523821",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #17130D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #66533A",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #85765F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9B8C72",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B4A488",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #76674D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 14,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "The Bridge over the Singel at the Paleisstraat, Amsterdam"
+  ],
+  "description": "De Singelbrug bij de Paleisstraat te Amsterdam. Wintergezicht met figuren die de brug oversteken. Op de voorgrond een vrouw met voile en een bruine mantel afgezet met bont.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "George Hendrik Breitner",
+      "unFixedName": "Breitner, George Hendrik",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1857-09-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1923-06-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Hendrik Breitner (12-sep-1857 - 05-jun-1923), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": "Breitner maakte vaak zelf foto\u2019s als voorbereiding op zijn schilderijen. Ook van dit schilderij is een aantal van zulke voorstudies bekend. De manier waarop de vrouw recht op ons af loopt en de afsnijding van het beeld doen heel fotografisch aan. Aanvankelijk was hier een dienstmeid geschilderd, maar na een negatieve kritiek vond de kunsthandel die zijn schilderijen verkocht het maar beter dat Breitner er een dame van maakte. ",
+  "plaqueDescriptionEnglish": "Breitner often took photos when preparing a painting. Several preparatory photos for this painting are also known. The way the woman is walking directly towards us and the way the picture is cropped gives it a photographic feel. Originally, Breitner\u2019s subject was a maid, but following the negative response of the art dealer who sold his work, Breitner turned her into a lady.",
+  "principalMaker": "George Hendrik Breitner",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1944-01-01T00:00:00",
+    "creditLine": "Mr and Mrs Drucker-Fraser Bequest, Montreux"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "canvas"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1898",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1451",
+      "26D1",
+      "41D2211",
+      "41D2252(+43)"
+    ],
+    "iconClassDescription": [
+      "bridge in city across river, canal, etc.",
+      "snow",
+      "veil",
+      "muff (+ fur used for clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Paleisstraat",
+      "Singel"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3580"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "R. Bergsma, G.H. Breitner. Vijf studies over een Amsterdamse schilder en zijn tijd, Amsterdam 2012 (ongepubl. diss. Vrije Universiteit)",
+    "Inzoomer object op zaal, 2013 (Nederlands/English)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Hendrik Breitner",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "39.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Singel Bridge at the Paleisstraat in Amsterdam, George Hendrik Breitner, 1898",
+  "subTitle": "h 100cm \u00d7 w 152cm \u00d7 w 39.4kg",
+  "scLabelLine": "George Hendrik Breitner (1857\u20131923), oil on canvas, 1896; reworked 1898",
+  "label": {
+    "title": "The Singel Bridge at the Paleisstraat in Amsterdam",
+    "makerLine": "George Hendrik Breitner (1857\u20131923), oil on canvas, 1896; reworked 1898",
+    "description": "Breitner often took photographs to prepare his paintings, and several such studies are known for this work. The way in which the woman walks straight towards us and the image is cropped strikes one as distinctly photographic. Breitner initially depicted the woman as a maid, but after a negative review, the gallery representing him felt it would be better if he made her into an elegant lady.",
+    "notes": "Multimediatour",
+    "date": "2018-02-07"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

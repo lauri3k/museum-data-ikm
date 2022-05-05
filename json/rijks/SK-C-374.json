@@ -1,0 +1,293 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-374",
+  "priref": "8613",
+  "objectNumber": "SK-C-374",
+  "language": "en",
+  "title": "Militia Company of District XI under the Command of Captain Reynier Reael, Known as \u2018The Meagre Company\u2019",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5c480b9f-86ad-4560-a631-5b9912e5bc79",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1211,
+    "url": "https://lh3.googleusercontent.com/_z81MaJKdNIvtniyZhBuzH0Hz5ZeOotpklfJ5AugmBOwJcP4_o-fxZPmaSsGwUAZrI1F8V8rG1PqP5gQQB2_b_cSKhaha8glrOyCmo_7=s0"
+  },
+  "colors": [
+    {
+      "percentage": 26,
+      "hex": "#79693A"
+    },
+    {
+      "percentage": 24,
+      "hex": " #110C06"
+    },
+    {
+      "percentage": 24,
+      "hex": " #39321B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8A8A76"
+    },
+    {
+      "percentage": 8,
+      "hex": " #BEB799"
+    },
+    {
+      "percentage": 4,
+      "hex": " #BD9840"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EBE7DC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#79693A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #110C06",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #39321B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8A8A76",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BEB799",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BD9840",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #EBE7DC",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 26,
+      "hex": "#808000"
+    },
+    {
+      "percentage": 24,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 35,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Officers and other Guardsmen of the XIth District of Amsterdam, under the Command of Captain Reijnier Reael and lieutenant Cornelis Michielsz Blaeuw, known as the 'The Meagre Company'",
+    "The Company of Captain Reynier Reael and lieutenant Cornelis Michielsz Blaeuw, Amsterdam, 1637, known as the 'The Meagre Company'"
+  ],
+  "description": "Het korporaalschap van kapitein Reijnier Reael en luitenant Cornelis Michielsz Blaeuw, Amsterdam, 1637, bekend als 'De magere compagnie'. Schuttersstuk met twee zittende en verder alleen staande mannen. Sommigen met een vaandel, hellebaard en lans.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Frans Hals",
+      "unFixedName": "Hals, Frans",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1583",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1666-08-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Frans Hals (c. 1583 - 26-aug-1666)"
+    },
+    {
+      "name": "Pieter Codde",
+      "unFixedName": "Codde, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1599",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1678-10-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter Codde (c. 1599 - 12-okt-1678)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Frans Hals",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-10-02T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "canvas"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1637",
+    "sortingDate": 1637,
+    "period": 17,
+    "yearEarly": 1637,
+    "yearLate": 1637
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45(+26)"
+    ],
+    "iconClassDescription": [
+      "warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reael, Reynier",
+      "Blaeu, Cornelis Michielsz.",
+      "Amsterdam, schutterij van"
+    ],
+    "objectNumbers": [
+      "SK-C-374"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reael, Reynier",
+    "Blaeu, Cornelis Michielsz.",
+    "Amsterdam, schutterij van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "N. Middelkoop, 'Kruisbestuiving : Schutters- en regentenstukken in Haarlem en Amsterdam', Kunstschrift (2014) nr. 4, p. 29, afb. 29.",
+    "S.A.C. Dudok van Heel, 'Rembrandt en de Vaandrigs van de Amsterdamse Schutterij', Kroniek van het Rembrandthuis (1993) nr. 2, p. 18-19, afb.",
+    "P. Torresan, 'Per una rvolutazione di Pieter Codde', Antichit\u00e0 viva 14 (1975), p. 12.",
+    "I.H. van Eeghen, 'Pieter Codde en Frans Hals', Amstelodamum 61 (1974), p. 138-140, afb.",
+    "F. Suzman Jowell, 'Thor\u00e9-B\u00fcrger and the Revival of Frans Hals', The Art Bulletin 56 (1974), p. 109.",
+    "Kunstkronijk (1846), p. 4-12."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Frans Hals, Pieter Codde",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "209"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "429"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "233"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "452"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Militia Company of District XI under the Command of Captain Reynier Reael, Known as \u2018The Meagre Company\u2019, Frans Hals, Pieter Codde, 1637",
+  "subTitle": "h 209cm \u00d7 w 429cm",
+  "scLabelLine": "Frans Hals (c. 1582\u20131666) and Pieter Codde (1599\u20131678), oil on canvas, 1637",
+  "label": {
+    "title": "Militia Company of District XI under the Command of Captain Reynier Reael, Known as \u2018The Meagre Company\u2019",
+    "makerLine": "Frans Hals (c. 1582\u20131666) and Pieter Codde (1599\u20131678), oil on canvas, 1637",
+    "description": "A commission for a civic guard portrait was rarely granted to a painter from outside the city. Quite exceptionally, Frans Hals \u2013 from Haarlem \u2013 was asked to paint this group portrait. However, he soon found himself at odds with the guardsmen, and the Amsterdam painter Pieter Codde had to step in to finish the seven figures on the right. Known for his small-scale, very smoothly and finely executed works, Codde nevertheless imitated Hals\u2019s loose style as best he could.",
+    "notes": "Multimediatour",
+    "date": "2018-02-28"
+  },
+  "showImage": true,
+  "location": null
+}

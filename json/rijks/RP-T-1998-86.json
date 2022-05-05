@@ -1,0 +1,183 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1998-86",
+  "priref": "356025",
+  "objectNumber": "RP-T-1998-86",
+  "language": "en",
+  "title": "Het Liedboek van Anna Steyns, Haarlem 1611-1612",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Het Liedboek van Anna Steyns, Haarlem 1611-1612"
+  ],
+  "description": "Album in een met zilverdraad geborduurde fluwelen band, thans nog bevattende 136 bladen. Bevat drie tekeningen van Cornelis Claesz. van Wieringen: Haven met talrijke schepen; Schip op zee bij zwaar weer; Winters tafereel met schaatsenrijders en een tekening van Willem Pietersz. Buytewech: Zittende herderin in landschap.",
+  "labelText": null,
+  "objectTypes": [
+    "album",
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "Willem Pietersz Buytewech",
+      "unFixedName": "Buytewech, Willem Pietersz",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1592",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1624",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Pietersz Buytewech (c. 1592 - 1624)"
+    },
+    {
+      "name": "Anna Steyns",
+      "unFixedName": "Steyns, Anna",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Anna Steyns"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Claesz van Wieringen",
+      "unFixedName": "Wieringen, Cornelis Claesz van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1577",
+      "dateOfBirthPrecision": "before",
+      "dateOfDeath": "1633-12-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Claesz van Wieringen (before 1577 - 29-dec-1633)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Claesz van Wieringen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1998-01-01T00:00:00",
+    "creditLine": "Puchased with the support of the Vereniging Rembrandt, the Jaff\u00e9-Pierson Stichting, the Stichting Dr Hendrik Muller's Vaderlandsch Fonds, the J.C. Ruigrok Stichting, the Batouwe Stiftung, the VSBfonds Utrecht, the VSBfonds Den Haag en Omstreken, the Stichting K.F. Hein Fonds, the M.A.O.C. Gravin van Bylandt Stichting and private collectors"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "deck paint",
+    "watercolor (paint)",
+    "ink"
+  ],
+  "techniques": [
+    "brush",
+    "pen"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1611 - c. 1612",
+    "sortingDate": 1611,
+    "period": 17,
+    "yearEarly": 1611,
+    "yearLate": 1612
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24",
+      "43C244"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat",
+      "skates (winter sports)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Steyns, Anna"
+    ],
+    "objectNumbers": [
+      "RP-T-1998-86"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Steyns, Anna"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "M. Schapelhouman en A. Leerintveld, 'Liedboek van Anna Steyns', Bulletin van de Vereniging Rembrandt 8 (1998) nr. 2, p. 10-13."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Claesz van Wieringen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "153"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "203"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Het Liedboek van Anna Steyns, Haarlem 1611-1612, Cornelis Claesz van Wieringen, c. 1611 - c. 1612",
+  "subTitle": "h 153mm \u00d7 w 203mm",
+  "scLabelLine": "Cornelis Claesz van Wieringen, c. 1611 - c. 1612, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

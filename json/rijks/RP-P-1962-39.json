@@ -1,0 +1,240 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1962-39",
+  "priref": "35983",
+  "objectNumber": "RP-P-1962-39",
+  "language": "en",
+  "title": "The Three Crosses",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "811136b8-c595-4a8d-bfb3-f9e2d3581434",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2584,
+    "url": "https://lh3.ggpht.com/qU-Y0sOrWdwD4t8qH-djXrElesLGF80DQcnZq-oFyKg-1ORsBmbGVoNQo91U8tP-PMlafjcI1Bc1Y9UFJ7E6LmXU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#35352F"
+    },
+    {
+      "percentage": 19,
+      "hex": " #9E998C"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C6BFB1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #5D5A50"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E0DDD5"
+    },
+    {
+      "percentage": 11,
+      "hex": " #7C776B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FCFCF9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#35352F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #9E998C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C6BFB1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5D5A50",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E0DDD5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7C776B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FCFCF9",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 28,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 27,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Christ Crucified between the two Thieves: 'The Three Crosses'"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1962-01-01T00:00:00",
+    "creditLine": "Mr and Mrs De Bruijn-van der Leeuw Bequest, Muri, Switzerland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1653",
+    "sortingDate": 1653,
+    "period": 17,
+    "yearEarly": 1653,
+    "yearLate": 1653
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73DD652"
+    ],
+    "iconClassDescription": [
+      "Christ on the cross; only scenes following the crucifixion added - DD - the three crosses"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1962-39"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 274",
+    "274",
+    "Bartsch 78",
+    "78",
+    "Hollstein Dutch 78",
+    "78"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "387"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "455"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drypoint",
+  "longTitle": "The Three Crosses, Rembrandt van Rijn, 1653",
+  "subTitle": "h 387mm \u00d7 w 455mm",
+  "scLabelLine": "Rembrandt Harmensz van Rijn (1606\u20131669), drypoint, third state of five, 1653",
+  "label": {
+    "title": "The Three Crosses",
+    "makerLine": "Rembrandt Harmensz van Rijn (1606\u20131669), drypoint, third state of five, 1653",
+    "description": "When you scratch a line in an etching plate, it produces a small raised edge called a \u2018burr\u2019. The burr, which gives drypoint lines such a sumptuous velvety look, wears away quickly. As a result, the decorative effect of the technique diminishes and the representation becomes\nincreasingly lighter. Here Rembrandt solved that problem by making areas of shadow darker again with extra lines, for example under the dog in the foreground.",
+    "notes": null,
+    "date": "2015-03-24"
+  },
+  "showImage": true,
+  "location": null
+}

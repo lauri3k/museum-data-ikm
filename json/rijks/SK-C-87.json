@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-87",
+  "priref": "10635",
+  "objectNumber": "SK-C-87",
+  "language": "en",
+  "title": "Regents of the Aalmoezeniersweeshuis Orphanage in Amsterdam, 1729",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a5c157ed-fdc4-4b71-85ae-9565219afd0f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2458,
+    "url": "https://lh3.googleusercontent.com/nDigb93oiM6Xx5MiPXKVheAYVvTh6vlIl33zNmheoAlibMkePLb6BFEhx0423t16qUVNikcYmmH8SbBf2Q7iQRjf0uOru60gNiy8TMGGXw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 25,
+      "hex": "#221A13"
+    },
+    {
+      "percentage": 25,
+      "hex": " #59341D"
+    },
+    {
+      "percentage": 23,
+      "hex": " #6A5A4A"
+    },
+    {
+      "percentage": 13,
+      "hex": " #9E8550"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8E5728"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C4B077"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DBCE9C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#221A13",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #59341D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #6A5A4A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9E8550",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8E5728",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C4B077",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DBCE9C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Regents of the Aalmoezeniersweeshuis Orphanage in Amsterdam, 1729"
+  ],
+  "description": "Groepsportret van de regenten van het Aalmoezeniersweeshuis te Amsterdam in 1729, zittend en staand rond een tafel. Rechts op de voorgrond een weesjongen. Geportretteerd zijn zittend: C. van Westerhoff en Jan Lepeltak. Staande: Theodoor Rogge, L. de Bas, J. van Vliet, C. Commelin II en W. Swarth, in het midden achter de tafel: Ph. Schrijver, A. van Bogaerde en J. Capiteyn (boekhouder).",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Troost",
+      "unFixedName": "Troost, Cornelis",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1696-10-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1750-03-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Troost (08-okt-1696 - 07-mrt-1750)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Troost",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-10-02T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1729",
+    "sortingDate": 1729,
+    "period": 18,
+    "yearEarly": 1729,
+    "yearLate": 1729
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A61"
+    ],
+    "iconClassDescription": [
+      "board, esp. governors, trustees, etc. (Dutch: 'regenten')"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Aalmoezeniersweeshuis"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-87"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Troost",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "414"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "417"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Regents of the Aalmoezeniersweeshuis Orphanage in Amsterdam, 1729, Cornelis Troost, 1729",
+  "subTitle": "h 414cm \u00d7 w 417cm",
+  "scLabelLine": "Cornelis Troost, 1729, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

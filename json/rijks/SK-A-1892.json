@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1892",
+  "priref": "7561",
+  "objectNumber": "SK-A-1892",
+  "language": "en",
+  "title": "La Corniche near Monaco",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3a3e17fb-4b92-48ad-b5ce-c9c7c74724ff",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1992,
+    "url": "https://lh3.googleusercontent.com/I-lR7dFq_BfgGWMj3trll5gI_kCny3dZhw3O8DWA_Wtnt99kOuQNh-RumY7tsyo8Py9icvLPVouuaeh0aPLEtjucVwc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 45,
+      "hex": "#B9BEC1"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B1A58D"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2A3740"
+    },
+    {
+      "percentage": 17,
+      "hex": " #7885AD"
+    },
+    {
+      "percentage": 15,
+      "hex": " #60614B"
+    },
+    {
+      "percentage": 8,
+      "hex": " #99854C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B9BEC1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #B1A58D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #2A3740",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7885AD",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #60614B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #99854C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 45,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 24,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 17,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [],
+  "description": "La Corniche bij Monaco. Kustlandschap met een weg over een heuvel bij de kust van de Middellandse Zee.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Claude Monet",
+      "unFixedName": "Monet, Claude",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1840-11-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1926-12-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Giverny",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Claude Monet (14-nov-1840 - 06-dec-1926)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Claude Monet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1900-04-01T00:00:00",
+    "creditLine": "Gift of M.C., Baroness van Lynden-van Pallandt, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1884",
+    "sortingDate": 1884,
+    "period": 19,
+    "yearEarly": 1884,
+    "yearLate": 1884
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H13",
+      "46C11"
+    ],
+    "iconClassDescription": [
+      "coast",
+      "road, path"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Monaco"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1892"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Claude Monet",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "75"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "La Corniche near Monaco, Claude Monet, 1884",
+  "subTitle": "h 75cm \u00d7 w 94cm",
+  "scLabelLine": "Claude Monet (1840\u20131926), oil on canvas, 1884",
+  "label": {
+    "title": "La Corniche near Monaco",
+    "makerLine": "Claude Monet (1840\u20131926), oil on canvas, 1884",
+    "description": "In Monet\u2019s time La Corniche was a narrow mountain track; nowadays, it is the main road between Nice and Monaco. Here the sun is high, the lone walker\u2019s shadow short. Monet\u2019s colours glisten: red, green, blue \u2013 everything shimmers in the sunlight. The painting was given to the Rijksmuseum already in 1900, when Monet\u2019s work was still entirely unknown in the Netherlands.",
+    "notes": null,
+    "date": "2013-01-21"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

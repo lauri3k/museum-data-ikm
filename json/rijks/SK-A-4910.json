@@ -1,0 +1,253 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4910",
+  "priref": "309873",
+  "objectNumber": "SK-A-4910",
+  "language": "en",
+  "title": "Allegory on the French Invasion of 1672",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f82a7a18-8797-42ba-a6fe-309695e0d20e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2185,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/e50xVx_lZ9ZizNLHWPWHDZh0fPusfJEXbyrSZ0f2AHA0xEVDd-y0qA0o5VFPhPu6lCVyDPnVmq--nDjIOB-2vEJZ3J0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 62,
+      "hex": "#1A140E"
+    },
+    {
+      "percentage": 20,
+      "hex": " #423D34"
+    },
+    {
+      "percentage": 7,
+      "hex": " #565753"
+    },
+    {
+      "percentage": 6,
+      "hex": " #897D68"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AC9F87"
+    },
+    {
+      "percentage": 0,
+      "hex": " #616D74"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BFB69E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1A140E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #423D34",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #565753",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #897D68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AC9F87",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #616D74",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BFB69E",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 28,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [],
+  "description": "Allegorie op de Franse invasie in de Nederlanden in het Rampjaar 1672. Een lachende jonge man toont een zittende man met muts een blad papier of prent met een voorstelling van de kraaiende Franse haan boven de Hollandse Tuin waarin de Nederlandse leeuw verslagen ligt, het zwaard gebroken, de pijlen verstrooid en het hek platgetrapt. Onderaan het blad een muziekbalk.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes van Wijckersloot",
+      "unFixedName": "Wijckersloot, Johannes van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1630",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1687-11-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johannes van Wijckersloot (1630 - 04-nov-1687)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes van Wijckersloot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1995-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Rijksmuseum-Stichting"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "canvas"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1672",
+    "sortingDate": 1672,
+    "period": 17,
+    "yearEarly": 1672,
+    "yearLate": 1672
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44A5",
+      "44C312",
+      "49M31"
+    ],
+    "iconClassDescription": [
+      "symbols of particular nations, states, districts, etc.",
+      "political caricatures and satires",
+      "single printed leaf: broadsheet, leaflet"
+    ],
+    "motifs": [],
+    "events": [
+      "Rampjaar",
+      "Inval in de Nederlanden"
+    ],
+    "periods": [
+      "16721672"
+    ],
+    "places": [
+      "Lage Landen"
+    ],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "SK-A-4910"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "'De aanwinst', Rijksmuseum Nieuws 4 (1995) nr. 9.",
+    "Documentatiemap Schilderijen."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes van Wijckersloot",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "43"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "37.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Allegory on the French Invasion of 1672, Johannes van Wijckersloot, 1672",
+  "subTitle": "h 43cm \u00d7 w 37.5cm \u00d7 d 8.5cm",
+  "scLabelLine": "Johannes van Wijckersloot (c. 1625\u20131687), oil on canvas, 1672",
+  "label": {
+    "title": "Allegory on the French Invasion of 1672",
+    "makerLine": "Johannes van Wijckersloot (c. 1625\u20131687), oil on canvas, 1672",
+    "description": " In 1672 the Netherlands was invaded by the French. That disaster is allegorically rendered in the drawing at which the seated man looks: the Dutch lion is defeated, its weapons in pieces, the gate to its enclosure broken; above, the French rooster crows triumphantly. Symbolizing the other side is the standing man with an orange feather in his cap: he is a supporter ofWilliam III of Orange, who would avert the French threat.",
+    "notes": null,
+    "date": "2018-09-05"
+  },
+  "showImage": true,
+  "location": "HG-2.18"
+}

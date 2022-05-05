@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1188",
+  "priref": "905",
+  "objectNumber": "AK-MAK-1188",
+  "language": "en",
+  "title": "The bodhisattva Maitreya",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "de672721-748c-4b0f-b5d1-94302d34ea18",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1983,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/SIRRY2qV5PQr75N1OmtjGHLxQTi_RQbycMPig91ncapk2VOQjMMoTtdGqy9_OW-NwLpTgYlz4qjpqWHVSNkXie_W9cU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 16,
+      "hex": "#585044"
+    },
+    {
+      "percentage": 32,
+      "hex": " #898176"
+    },
+    {
+      "percentage": 7,
+      "hex": " #393022"
+    },
+    {
+      "percentage": 41,
+      "hex": " #B9B2A3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D8CEBA"
+    },
+    {
+      "percentage": 1,
+      "hex": " #141009"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#585044",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #898176",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #393022",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #B9B2A3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D8CEBA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #141009",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 32,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 41,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The Bodhisattva Maitreya"
+  ],
+  "description": "Bodhisattva Maitreya, de rechterhand omhooggehouden (abhaya-mudra); de linkerhand met het attribuut is afgebroken.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture",
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (schenking Vereniging Rembrandt, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "slate (rock)",
+    "dye",
+    "gilding (material)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 200 - c. 300",
+    "sortingDate": 200,
+    "period": 2,
+    "yearEarly": 200,
+    "yearLate": 300
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H63",
+      "12H13"
+    ],
+    "iconClassDescription": [
+      "statues, paintings, etc. ~ objects of worship (Hinduism, Buddhism, Jainism)",
+      "representations ~ gods, demi-gods, heroes, etc. (Hinduism, Buddhism, Jainism)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1188"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "52.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "30.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "12.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "slate, polychrome, gilding",
+  "longTitle": "The bodhisattva Maitreya, anonymous, c. 200 - c. 300",
+  "subTitle": "h 52.0cm \u00d7 w 30.0cm \u00d7 d 12.0cm",
+  "scLabelLine": "Pakistan, Gandhara, 3rd century, painted and gilded slate",
+  "label": {
+    "title": "The bodhisattva Maitreya",
+    "makerLine": "Pakistan, Gandhara, 3rd century, painted and gilded slate",
+    "description": "Maitreya, the Buddha of the future, is making the abhaya mudra, or \u2018fear not\u2019 gesture. His webbed fingers are a sign of his divine nature. This figure shows that Buddhist art in Gandhara, which was in contact via trade routes with regions around the Mediterranean Sea, was influenced by Greco-Roman sculpture. The drapery folds of the Maitreya\u2019s lower garment,\nfor instance, recall Roman figures, while his hairstyle is based on representations of the Greek god Apollo.\n",
+    "notes": null,
+    "date": "2013-04-03"
+  },
+  "showImage": true,
+  "location": "AK-1"
+}

@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1225",
+  "priref": "7226",
+  "objectNumber": "SK-A-1225",
+  "language": "en",
+  "title": "Frederika Sophia Wilhelmina of Pruissia (1751-1820), Equestrian portrait of the Wife of Prince Willem V",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "98ba4796-11ed-4de6-8583-2a2e1938a0f2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1967,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/AnJxIYpdgzyAM6OpuMKtIU788YPe2SZcAjWmfXG1rKqp1JIuHRKi_cayl9BDwwZOGEZ0n0GxS0hRRE4_vUz2SCzsdKU6=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#343021"
+    },
+    {
+      "percentage": 18,
+      "hex": " #7C7E73"
+    },
+    {
+      "percentage": 14,
+      "hex": " #786D54"
+    },
+    {
+      "percentage": 13,
+      "hex": " #685B3D"
+    },
+    {
+      "percentage": 12,
+      "hex": " #4F4532"
+    },
+    {
+      "percentage": 1,
+      "hex": " #181812"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A1967E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#343021",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7C7E73",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #786D54",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #685B3D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4F4532",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #181812",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A1967E",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 38,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 38,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Frederika Sophia Wilhelmina of Pruissia (1751-1820), Equestrian portrait of the Wife of Prince Willem V"
+  ],
+  "description": "Portret van Frederika Sophia Wilhelmina van Pruisen, echtgenote van prins Willem V, te paard. Ruiterportret, zittend op een bruin paard, met een steek op het hoofd, in een landschap, rechts in de verte een kerktoren.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Tethart Philip Christian Haag",
+      "unFixedName": "Haag, Tethart Philip Christian",
+      "placeOfBirth": "Kassel",
+      "dateOfBirth": "1737",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1812-08-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Tethart Philip Christian Haag (1737 - 03-aug-1812)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Tethart Philip Christian Haag",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-07-21T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1789",
+    "sortingDate": 1789,
+    "period": 18,
+    "yearEarly": 1789,
+    "yearLate": 1789
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1312",
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "equestrian state-portrait",
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Wilhelmina van Pruisen (1751-1820)"
+    ],
+    "objectNumbers": [
+      "SK-A-1225"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Wilhelmina van Pruisen (1751-1820)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Tethart Philip Christian Haag",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "69.5"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Frederika Sophia Wilhelmina of Pruissia (1751-1820), Equestrian portrait of the Wife of Prince Willem V, Tethart Philip Christian Haag, 1789",
+  "subTitle": "h 86cm \u00d7 w 69.5cm \u00d7 t 4cm \u00d7 d 9cm",
+  "scLabelLine": "Tethart Philip Christian Haag, 1789, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-NM-7050",
+  "priref": "56183",
+  "objectNumber": "AK-NM-7050",
+  "language": "en",
+  "title": "Pair of Bracelets and Two Necklaces",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3e2bb82e-59e7-42f5-9407-25db3b3d65cc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1514,
+    "url": "https://lh4.ggpht.com/6dZPa26OfU4hXo6ajLnFCY705GcAEs7QbObGuaiREd0q0uCcJt80yBxkkqcBE2YJJyqTTlpnFq-ZdUeq4eRugFjjiDwT=s0"
+  },
+  "colors": [
+    {
+      "percentage": 87,
+      "hex": "#BBB19A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #7D6B4D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BB9D5E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #66502B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8E8980"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F1E8BE"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3B2612"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BBB19A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7D6B4D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #BB9D5E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #66502B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8E8980",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F1E8BE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3B2612",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 87,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #DEB887"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFACD"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 90,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Pair of bracelets"
+  ],
+  "description": "Kangen.",
+  "labelText": null,
+  "objectTypes": [
+    "bracelet"
+  ],
+  "objectCollection": [
+    "jewellery"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "jeweler"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1750",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1750
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-NM-7050"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gold (metal)",
+  "longTitle": "Pair of Bracelets and Two Necklaces, anonymous, c. 1750",
+  "subTitle": "d 6.5cm \u00d7 h 1cm",
+  "scLabelLine": "India, Surat, before 1750, gold, pearls, diamonds",
+  "label": {
+    "title": "Pair of Bracelets and Two Necklaces",
+    "makerLine": "India, Surat, before 1750, gold, pearls, diamonds",
+    "description": "These jewels are part of a group of gold and silver ornaments from Surat, that are now kept in the Rijksmuseum. They were collected in the 18th century by a VOC (Dutch East India Company) servant. In India gold jewels were regularly melted down in order to make new, fashionable ornaments. Consequently, Indian jewels from before the 19th century are exceptionally rare.",
+    "notes": null,
+    "date": "2019-07-25"
+  },
+  "showImage": true,
+  "location": "AK-2-24"
+}

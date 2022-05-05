@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-16917",
+  "priref": "14560",
+  "objectNumber": "BK-16917",
+  "language": "en",
+  "title": "Candlestick: knight with dragon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3b5ab9dd-16f8-4e87-967b-49fe8345644c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2192,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/8ba3-txwRLxzIrsRyhLA1Z7g_obPfWO_5EYsDQY-oN1M9P5dUKq8FnBiOW_WqSCW_TVhvgtH1rxp8YgGYgK8RhNFDW1C=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Candlestick: Knight with a Dragon"
+  ],
+  "description": "Op de hooggewelfde rug van de draak zit een mannetje tussen rankwerk, waarvan de uitzwenkende krullen in bladeren eindigen. Bovenaan gaat het rankwerk over in een gelobde vetvanger met een kaarsenpin. De vetvanger is aan de onderkant glad en boven dubbellijnig gegraveerd. De op een versteviging rustende hals is z\u00f3 gedraaid, dat de van twee oren voorziene drakenkop op de romp van het dier rust. De staart wordt eveneens gevormd door een kop met twee oren, alsmede door twee poten. De details zijn grof uitgestoken. De rug van de draak vertoont twee openingen, waarover zich het rankwerk uitstrekt. Aan de binnenzijde van de rug bevinden zich twee resten van gietnaalden. Het stameinde is (destijds) opnieuw bevestigd met tinsoldeer.",
+  "labelText": null,
+  "objectTypes": [
+    "candlestick",
+    "figure"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "brazier"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper alloy"
+  ],
+  "techniques": [
+    "casting",
+    "engraving",
+    "soldering"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1200 - c. 1250",
+    "sortingDate": 1200,
+    "period": 12,
+    "yearEarly": 1200,
+    "yearLate": 1250
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25FF422",
+      "25FF411"
+    ],
+    "iconClassDescription": [
+      "dragon (large fabulous serpent, sometimes with wings and legs)",
+      "dragon"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-16917"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "23.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "19.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "casting",
+  "longTitle": "Candlestick: knight with dragon, anonymous, c. 1200 - c. 1250",
+  "subTitle": "h 23.5cm \u00d7 w 19.0cm \u00d7 d 7.2cm",
+  "scLabelLine": "Hildesheim, c. 1200-1250, copper alloy",
+  "label": {
+    "title": "Candlestick: knight with dragon",
+    "makerLine": "Hildesheim, c. 1200-1250, copper alloy",
+    "description": null,
+    "notes": null,
+    "date": "2017-10-31"
+  },
+  "showImage": true,
+  "location": "HG-0.2"
+}

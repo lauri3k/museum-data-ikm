@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1953-140",
+  "priref": "49600",
+  "objectNumber": "RP-T-1953-140",
+  "language": "en",
+  "title": "Design for an Equestrian Statue of Henry II of France",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0e3f12af-3ea1-441e-a2b5-977d4eb34a7a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2461,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/v1Au09-9OpT4X-OPEFFaXEl8-Qx-9nG_LbzCxEZXl0TjsPhhBOdbSKo7c_z6tEZI5gsIQxbdWzkxx6CAnyIVkgJcjAE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#F7F4EE"
+    },
+    {
+      "percentage": 7,
+      "hex": " #BDB5A1"
+    },
+    {
+      "percentage": 5,
+      "hex": " #9E9889"
+    },
+    {
+      "percentage": 76,
+      "hex": " #D8D0BC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #615D52"
+    },
+    {
+      "percentage": 1,
+      "hex": " #817B6D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F4EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BDB5A1",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9E9889",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D8D0BC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #615D52",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #817B6D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 76,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Design for an Equestrian Statue of Henry II of France"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michelangelo",
+      "unFixedName": "Michelangelo",
+      "placeOfBirth": "Caprese Michelangelo",
+      "dateOfBirth": "1475-03-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1564-02-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "draughtsman",
+        "painter",
+        "sculptor"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Michelangelo (06-mrt-1475 - 18-feb-1564)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michelangelo",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1953-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1559 - 1564",
+    "sortingDate": 1559,
+    "period": 16,
+    "yearEarly": 1559,
+    "yearLate": 1564
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1313"
+    ],
+    "iconClassDescription": [
+      "equestrian statue"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Hendrik II (koning van Frankrijk)"
+    ],
+    "objectNumbers": [
+      "RP-T-1953-140"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Hendrik II (koning van Frankrijk)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michelangelo",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Design for an Equestrian Statue of Henry II of France, Michelangelo, 1559 - 1564",
+  "subTitle": "h 130mm \u00d7 w 120mm",
+  "scLabelLine": "Michelangelo Buonarroti (1475-1564), black chalk, heightened with white chalk, c. 1559-1564",
+  "label": {
+    "title": "Design for an Equestrian Statue of Henry II of France",
+    "makerLine": "Michelangelo Buonarroti (1475-1564), black chalk, heightened with white chalk, c. 1559-1564",
+    "description": "In 1559 Catherine de Medici commissioned Michelangelo to create a monument with an equestrian statue for her husband, who had died in a tournament. However, it was never realized due to the death of the artist and of the assistant who was to take on the work. This sketch focuses mainly on the monumental pedestal (base). Its shape is derived from a design that the great master had made about fifty years earlier.",
+    "notes": null,
+    "date": "2019-11-12"
+  },
+  "showImage": true,
+  "location": null
+}

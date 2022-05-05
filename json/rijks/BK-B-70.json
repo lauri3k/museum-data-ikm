@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-B-70",
+  "priref": "25134",
+  "objectNumber": "BK-B-70",
+  "language": "en",
+  "title": "Buste van Johannes Petrus Hazebroek (1812-1896), letterkundige",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "29af3c7b-5bac-4142-b1d5-7e305b3f67a9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 23,
+    "width": 2732,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/vATp7HWsl25HWpQEqMul9ZTNjVADNaZP3ItOCAI-jQU2IwYiF2_ZtVDnF2bFr4N1eQe6re2mCcoL8P_2HTCAQGN3aLQX=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Buste van Johannes Petrus Hazebroek (1812-1896), letterkundige"
+  ],
+  "description": "Buste van van Johannes Petrus Hazebroek (1812-1896), letterkundige. Marmer. De sokkel van grijs graniet.",
+  "labelText": null,
+  "objectTypes": [
+    "bust"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johan Keller",
+      "unFixedName": "Keller, Johan",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1863-11-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": null,
+      "labelDesc": "Johan Keller (13-nov-1863 - ....), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johan Keller",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1893-09-01T00:00:00",
+    "creditLine": "Gift of the Hollandsche Maatschappij van Fraaije Kunsten en Wetenschappen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)",
+    "granite (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1893",
+    "sortingDate": 1893,
+    "period": 19,
+    "yearEarly": 1893,
+    "yearLate": 1893
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)",
+      "48C93"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)",
+      "portrait of a writer"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18121896"
+    ],
+    "places": [],
+    "people": [
+      "Hazebroek, Johannes Petrus"
+    ],
+    "objectNumbers": [
+      "BK-B-70"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Hazebroek, Johannes Petrus"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Jaarverslag Rijksmuseum (1893), p. 12."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johan Keller",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "79.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "71.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "40"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "marble (rock)",
+  "longTitle": "Buste van Johannes Petrus Hazebroek (1812-1896), letterkundige, Johan Keller, 1893",
+  "subTitle": "h 79.5cm \u00d7 w 71.5cm \u00d7 d c.40cm \u00d7 w 144kg",
+  "scLabelLine": "Johan Keller, 1893, marble (rock)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

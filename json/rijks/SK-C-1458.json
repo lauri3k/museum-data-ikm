@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1458",
+  "priref": "5756",
+  "objectNumber": "SK-C-1458",
+  "language": "en",
+  "title": "The Adoration of the Magi",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4a9de135-e17b-4766-ae45-4af30cdd93f5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2338,
+    "url": "https://lh3.googleusercontent.com/jTumIbNVZzraNm2F8WTjB-yeJUUfcgH6rgJCtvgmwMEE5K8R2CtA60l-J-yjwzEY6ti8YcKLsZZxaS56dMco7PXZr7HD=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#241710"
+    },
+    {
+      "percentage": 26,
+      "hex": " #454844"
+    },
+    {
+      "percentage": 15,
+      "hex": " #816A49"
+    },
+    {
+      "percentage": 7,
+      "hex": " #784325"
+    },
+    {
+      "percentage": 4,
+      "hex": " #958568"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B5A07E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #CCBA90"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#241710",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #454844",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #816A49",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #784325",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #958568",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B5A07E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CCBA90",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "The Adoration of the Magi"
+  ],
+  "description": "Middenpaneel van een drieluik met een voorstelling van de aanbidding der koningen. Rechts Maria, Jozef en het Christuskind. Links een knielende koning met zijn gevolg en kamelen. Dit middenpaneel maakt samen met het zijluik SK-A-1909 deel uit van een drieluik met een voorstelling van de aanbidding door de koningen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting",
+    "panel"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Aertsen",
+      "unFixedName": "Aertsen, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1508",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1575-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Aertsen (1508 - 02-jun-1575), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Aertsen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": "On loan from the Stichting Collectie P. en N. de Boer"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1560",
+    "sortingDate": 1560,
+    "period": 16,
+    "yearEarly": 1560,
+    "yearLate": 1560
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73B57"
+    ],
+    "iconClassDescription": [
+      "adoration of the kings: the Wise Men present their gifts to the Christ-child (gold, frankincense and myrrh)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-1458"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Michiel Plomp, De vernieling van het altaar van Ba\u00e4l', Bulletin van de Vereniging Rembrandt 18 (2008), nr. 2, p. 11.",
+    "Pauline Kintz, 'Collectie : Een blik op Maria', Rijksmuseum Kunstkrant 32 (2006) 6, p. 20-23 (afb.)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Aertsen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "167.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "180"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Adoration of the Magi, Pieter Aertsen, c. 1560",
+  "subTitle": "h 167.5cm \u00d7 w 180cm \u00d7 w 62kg",
+  "scLabelLine": "Pieter Aertsen (1508\u20131575), Amsterdam, c. 1560, oil on panel",
+  "label": {
+    "title": "The Adoration of the Magi",
+    "makerLine": "Pieter Aertsen (1508\u20131575), Amsterdam, c. 1560, oil on panel",
+    "description": "This altarpiece, which originally had two wings, is dedicated to the adoration of the newborn baby Jesus by the three magi, each of whom was represented on one of the panels. This centre panel depicts only the oldest king.",
+    "notes": null,
+    "date": "2012-11-23"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}
