@@ -8,14 +8,16 @@ from datetime import datetime
 import requests
 
 import pandas as pd
-from dotenv import load_dotenv
+
+# from dotenv import load_dotenv
 
 
 def get_key() -> str:
     """
     Get API key from .env file.
     """
-    return os.getenv("RIJKSMUSEUM_API")
+    return "Yiv3t0C0"
+    # return os.getenv("RIJKSMUSEUM_API")
 
 
 def harvest(token: Optional[str] = None, count: int = 0) -> Tuple[Optional[str], int]:
@@ -64,7 +66,7 @@ def timestamp() -> str:
 
 
 def main() -> None:
-    load_dotenv()
+    # load_dotenv()
     print(f"{timestamp()} - Starting harvesting")
     t, c = harvest()
     while t:

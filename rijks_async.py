@@ -1,10 +1,10 @@
 import asyncio
 import json
+import time
 from dotenv import load_dotenv
 import httpx
-from rijks_harvest import get_key
 import pandas as pd
-import time
+from rijks_harvest import get_key
 
 
 async def get_object(object_nr, client):
@@ -18,15 +18,15 @@ async def fetch():
 
         df = pd.read_csv("rijks_harvest_complete_dataset.csv", sep=",")
 
-        n = 1
-        # list_df = [df[i : i + n] for i in range(0, df.shape[0], n)]
-        list_df = [df[i : i + n] for i in range(0, 1000, n)]
+        n = 5
+        list_df = [df[i : i + n] for i in range(0, df.shape[0], n)]
+        # list_df = [df[i : i + n] for i in range(0, 1000, n)]
 
         for l in list_df:
             start = time.time()
             resps = await asyncio.gather(
                 *map(lambda x: get_object(x, client), l["identifier"]),
-                asyncio.sleep(1),
+                asyncio.sleep(10),
             )
             resps.pop()
             # data = [res.json() for res in resps if res.status_code == 200]
@@ -52,12 +52,16 @@ async def fetch():
                 # art_object.pop("colorsWithNormalization", None)
                 # art_object.pop("normalized32Colors", None)
 
-                with open(
-                    f"./json/rijks/{art_object['objectNumber']}.json",
-                    "w",
-                    encoding="utf-8",
-                ) as f:
-                    json.dump(art_object, f, indent=2)
+                write_to_file(art_object)
+
+
+def write_to_file(art_object):
+    with open(
+        f"./json/rijks/{art_object['objectNumber']}.json",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        json.dump(art_object, f, indent=2)
 
 
 async def main():
