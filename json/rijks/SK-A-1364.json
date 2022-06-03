@@ -163,10 +163,12 @@
   },
   "classification": {
     "iconClassIdentifier": [
-      "45H3(+32)"
+      "45H3(+32)",
+      "46C24"
     ],
     "iconClassDescription": [
-      "battle (+ sailing-ships)"
+      "battle (+ sailing-ships)",
+      "sailing-ship, sailing-boat"
     ],
     "motifs": [],
     "events": [
@@ -229,5 +231,5 @@
     "date": "2013-03-27"
   },
   "showImage": true,
-  "location": null
+  "location": "HG-2.15"
 }
