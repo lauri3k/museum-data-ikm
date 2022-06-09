@@ -44,19 +44,19 @@
   "dimensions": "Height 11-7/8 in.",
   "measurements": [
     {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.22,
+        "Width": 8.26
+      }
+    },
+    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
         "Depth": 9.22,
         "Height": 30.1625,
-        "Width": 8.26
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Depth": 9.22,
         "Width": 8.26
       }
     }

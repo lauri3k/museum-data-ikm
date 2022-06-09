@@ -63,13 +63,6 @@
   "dimensions": "Overall:\r\n           H. 264 7/16 in. (671.6 cm)\r\n           W. 200 1/2 in. (509.2 cm)\r\n           D. 316 5/8 in. (804.2 cm)\r\nFrom inside front entrance to back wall:\r\n           H. 316 5/8 in. (804.2 cm)\r\nFountain:\r\n           H. 4 15/16 in. (12.5 cm)",
   "measurements": [
     {
-      "elementName": "Other",
-      "elementDescription": "from inside front entrance to back wall",
-      "elementMeasurements": {
-        "Depth": 804.2
-      }
-    },
-    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
@@ -83,6 +76,13 @@
       "elementDescription": "Fountain",
       "elementMeasurements": {
         "Height": 12.5
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "from inside front entrance to back wall",
+      "elementMeasurements": {
+        "Depth": 804.2
       }
     }
   ],

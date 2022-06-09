@@ -58,14 +58,6 @@
   "dimensions": "Overall:\r\n            H. 15 3/8 in. (39 cm)\r\n            W. 10 3/16 in. (25.9 cm)\r\nMat:\r\n       H. 19 1/4 in. (48.9 cm)\r\n       W. 14 1/4 in. (36.2 cm)\r\nFrame:\r\n            H. 20 1/4 in. (51.4 cm)\r\n            W. 15 1/4 in. (38.7 cm)",
   "measurements": [
     {
-      "elementName": "Mat",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 48.8951,
-        "Width": 36.1951
-      }
-    },
-    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
@@ -79,6 +71,14 @@
       "elementMeasurements": {
         "Height": 51.4351,
         "Width": 38.7351
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.8951,
+        "Width": 36.1951
       }
     }
   ],

@@ -39,19 +39,19 @@
   "dimensions": "Textile: L. 5 in. (12.7 cm)\r\n            W. 25 in. (63.5 cm)\r\nMount: L. 9 in. (22.9 cm)\r\n            W. 29 1/2 in. (74.9 cm)",
   "measurements": [
     {
-      "elementName": "Overall",
-      "elementDescription": "Textile",
-      "elementMeasurements": {
-        "Height": 12.7,
-        "Width": 63.5
-      }
-    },
-    {
       "elementName": "Other",
       "elementDescription": "Mount",
       "elementMeasurements": {
         "Height": 22.86,
         "Width": 74.9301
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Textile",
+      "elementMeasurements": {
+        "Height": 12.7,
+        "Width": 63.5
       }
     }
   ],

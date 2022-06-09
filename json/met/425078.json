@@ -52,19 +52,19 @@
   "dimensions": "Image: 9 3/16 \u00d7 15 3/8 in. (23.4 \u00d7 39 cm)\r\nPlate: 11 1/8 \u00d7 16 1/8 in. (28.3 \u00d7 40.9 cm)",
   "measurements": [
     {
-      "elementName": "Plate",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 28.3,
-        "Width": 40.9
-      }
-    },
-    {
       "elementName": "Image",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 23.4,
         "Width": 39
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.3,
+        "Width": 40.9
       }
     }
   ],

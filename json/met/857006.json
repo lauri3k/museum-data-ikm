@@ -52,19 +52,19 @@
   "dimensions": "Sheet: 20 in. \u00d7 16 1/4 in. (50.8 \u00d7 41.3 cm)\r\nImage: 15 \u00d7 12 in. (38.1 \u00d7 30.5 cm)",
   "measurements": [
     {
-      "elementName": "Sheet",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 50.800102,
-        "Width": 41.27508
-      }
-    },
-    {
       "elementName": "Image",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 38.100075,
         "Width": 30.48006
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.800102,
+        "Width": 41.27508
       }
     }
   ],

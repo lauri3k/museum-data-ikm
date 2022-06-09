@@ -36,20 +36,6 @@
   "measurements": [
     {
       "elementName": "Width",
-      "elementDescription": "Painting",
-      "elementMeasurements": {
-        "Width": 12.192024
-      }
-    },
-    {
-      "elementName": "Height",
-      "elementDescription": "Painting",
-      "elementMeasurements": {
-        "Height": 21.082043
-      }
-    },
-    {
-      "elementName": "Width",
       "elementDescription": "Leaf",
       "elementMeasurements": {
         "Width": 22.098043
@@ -60,6 +46,20 @@
       "elementDescription": "Leaf",
       "elementMeasurements": {
         "Height": 38.608078
+      }
+    },
+    {
+      "elementName": "Width",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Width": 12.192024
+      }
+    },
+    {
+      "elementName": "Height",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 21.082043
       }
     }
   ],

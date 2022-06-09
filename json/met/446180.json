@@ -49,6 +49,22 @@
   "measurements": [
     {
       "elementName": "Other",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 34.60757,
+        "Width": 22.860046
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 24.765049,
+        "Width": 16.033783
+      }
+    },
+    {
+      "elementName": "Other",
       "elementDescription": "Frame",
       "elementMeasurements": {
         "Depth": 3,
@@ -62,22 +78,6 @@
       "elementMeasurements": {
         "Height": 48.8951,
         "Width": 36.195072
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": "Page",
-      "elementMeasurements": {
-        "Height": 34.60757,
-        "Width": 22.860046
-      }
-    },
-    {
-      "elementName": "Overall",
-      "elementDescription": "Painting",
-      "elementMeasurements": {
-        "Height": 24.765049,
-        "Width": 16.033783
       }
     }
   ],

@@ -40,19 +40,19 @@
   "dimensions": "H. 6 3/4 x W. 2 x  D. 2 1/4in. (17.1 x 5.1 x 5.7cm)",
   "measurements": [
     {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.72,
+        "Width": 5.08
+      }
+    },
+    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
         "Depth": 5.72,
         "Height": 17.145,
-        "Width": 5.08
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Depth": 5.72,
         "Width": 5.08
       }
     }

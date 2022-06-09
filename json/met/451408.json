@@ -40,14 +40,6 @@
   "measurements": [
     {
       "elementName": "Overall",
-      "elementDescription": "Page",
-      "elementMeasurements": {
-        "Height": 14.605,
-        "Width": 12.7
-      }
-    },
-    {
-      "elementName": "Overall",
       "elementDescription": "Painting",
       "elementMeasurements": {
         "Height": 14,
@@ -60,6 +52,14 @@
       "elementMeasurements": {
         "Height": 48.8951,
         "Width": 36.1951
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 14.605,
+        "Width": 12.7
       }
     }
   ],

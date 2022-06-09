@@ -44,14 +44,6 @@
   "dimensions": "Image: 14 5/8 \u00d7 20 1/4 in. (37.1 \u00d7 51.4 cm)\r\nImage with text: 16 in. \u00d7 20 1/4 in. (40.6 \u00d7 51.4 cm)\r\nSheet: 18 1/8 \u00d7 23 1/4 in. (46 \u00d7 59.1 cm)",
   "measurements": [
     {
-      "elementName": "Sheet",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 46.037594,
-        "Width": 59.05512
-      }
-    },
-    {
       "elementName": "Image",
       "elementDescription": null,
       "elementMeasurements": {
@@ -65,6 +57,14 @@
       "elementMeasurements": {
         "Height": 37.147575,
         "Width": 51.435104
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.037594,
+        "Width": 59.05512
       }
     }
   ],

@@ -44,19 +44,19 @@
   "dimensions": "Image: 11 \u00d7 16 1/8 in. (27.9 \u00d7 41 cm)\r\nSheet: 12 1/4 \u00d7 16 3/4 in. (31.1 \u00d7 42.5 cm)",
   "measurements": [
     {
-      "elementName": "Sheet",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 31.1,
-        "Width": 42.5
-      }
-    },
-    {
       "elementName": "Image",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 27.9,
         "Width": 41
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.1,
+        "Width": 42.5
       }
     }
   ],

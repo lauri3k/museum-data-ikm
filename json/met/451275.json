@@ -66,6 +66,14 @@
   "measurements": [
     {
       "elementName": "Other",
+      "elementDescription": "Portrait (top left)",
+      "elementMeasurements": {
+        "Height": 13.493777,
+        "Width": 6.350013
+      }
+    },
+    {
+      "elementName": "Other",
       "elementDescription": "All four portraits",
       "elementMeasurements": {
         "Height": 27.622555,
@@ -117,14 +125,6 @@
       "elementDescription": "Portrait (top right)",
       "elementMeasurements": {
         "Height": 14.287529,
-        "Width": 6.350013
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": "Portrait (top left)",
-      "elementMeasurements": {
-        "Height": 13.493777,
         "Width": 6.350013
       }
     }

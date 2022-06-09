@@ -46,14 +46,6 @@
   "dimensions": "Page: H. 13 1/8 in. (33.3 cm)\r\n           W. 8 9/16 in. (21.7 cm)\r\nPainting: H. 7 7/8 in. (20 cm)\r\n                 W. 6 1/4  in. (15.9 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n         W. 14 1/4 in. (36.2 cm)",
   "measurements": [
     {
-      "elementName": "Overall",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 33.3,
-        "Width": 21.748793
-      }
-    },
-    {
       "elementName": "Mat",
       "elementDescription": null,
       "elementMeasurements": {
@@ -67,6 +59,14 @@
       "elementMeasurements": {
         "Height": 20.00254,
         "Width": 15.875031
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.3,
+        "Width": 21.748793
       }
     }
   ],
