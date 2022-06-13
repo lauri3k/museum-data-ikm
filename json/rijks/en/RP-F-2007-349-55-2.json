@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2007-349-55-2",
+  "priref": "452245",
+  "objectNumber": "RP-F-2007-349-55-2",
+  "language": "en",
+  "title": "Het zeilschip Hertha bij het verlaten van de haven van Trondheim",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "85546942-f2e0-4a7f-b238-73181c1a8b53",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2784,
+    "height": 2026,
+    "url": "https://lh6.ggpht.com/369cNFoj4z2ljz_0v4o3ZwsXPGj4bjYMfqMCtUHUu9duHZna6hzgEVVHGM_tthpSgvUkhWsa6EAAT_RV_STwErJbXEI=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#F7F5EB"
+    },
+    {
+      "percentage": 37,
+      "hex": " #DAD6C7"
+    },
+    {
+      "percentage": 34,
+      "hex": " #BDB29A"
+    },
+    {
+      "percentage": 17,
+      "hex": " #948D7F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #716655"
+    },
+    {
+      "percentage": 2,
+      "hex": " #463E39"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F5EB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DAD6C7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BDB29A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #948D7F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #716655",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #463E39",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 34,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 34,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 22,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Het zeilschip Hertha bij het verlaten van de haven van Trondheim"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "E. Olsen",
+      "unFixedName": "Olsen, E.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object E. Olsen"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "E. Olsen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2008-12-11T00:00:00",
+    "creditLine": "Gift of the heirs of H. Pauw van Wieldrecht, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1900",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2007-349-55-2"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "E. Olsen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "228"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "241"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "326"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "photographic support",
+  "longTitle": "Het zeilschip Hertha bij het verlaten van de haven van Trondheim, E. Olsen, c. 1900",
+  "subTitle": "h 172mm \u00d7 w 228mm",
+  "scLabelLine": "E. Olsen, c. 1900, photographic support",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

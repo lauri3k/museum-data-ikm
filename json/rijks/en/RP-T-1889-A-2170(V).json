@@ -1,0 +1,271 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1889-A-2170(V)",
+  "priref": "65206",
+  "objectNumber": "RP-T-1889-A-2170(V)",
+  "language": "en",
+  "title": "Schetsen van H. Marcus die het leven van een slaafgemaakte man redt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "822b1de0-a420-4eb9-8526-4ebc3870d8c3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1778,
+    "url": "https://lh6.ggpht.com/1yS7iNHZBqqZIfyDw0gM83wHzbwj9G0Hhd7snDPl-V1CiZuQtYTD4qdEb0Eel3ugaHMXx-B_2alWORgaMY-UFrhq-w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#918B7C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C09772"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A57554"
+    },
+    {
+      "percentage": 30,
+      "hex": " #D1B99A"
+    },
+    {
+      "percentage": 60,
+      "hex": " #EBE0C9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FAF6E1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#918B7C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C09772",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #A57554",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #D1B99A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #EBE0C9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FAF6E1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 30,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 68,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 30,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F49B7A"
+    }
+  ],
+  "titles": [
+    "Schetsen van H. Marcus die het leven van een slaafgemaakte man redt",
+    "Schetsen van H. Marcus die het leven van een slaaf redt"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "Giovanni Bilivert",
+      "unFixedName": "Bilivert, Giovanni",
+      "placeOfBirth": "Florence",
+      "dateOfBirth": "1585",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1644",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Florence",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Giovanni Bilivert (1585 - 1644)"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giulio Carpioni (I)",
+      "unFixedName": "Carpioni, Giulio (I)",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Giulio Carpioni (I) (1613 - 1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giulio Carpioni (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1889-07-24T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1600 - 1699",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(MARK)832",
+      "46A18"
+    ],
+    "iconClassDescription": [
+      "St. Mark rescues a slave from martyrdom by coming down from heaven; the instruments of torture break",
+      "slavery; serfs and the enslaved"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1889-A-2170(V)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Giulio Carpioni (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "286"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Schetsen van H. Marcus die het leven van een slaafgemaakte man redt, Giulio Carpioni (I), 1600 - 1699",
+  "subTitle": "h 200mm \u00d7 w 286mm",
+  "scLabelLine": "Giulio Carpioni (I), 1600 - 1699, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

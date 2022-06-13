@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-7594",
+  "priref": "549771",
+  "objectNumber": "RP-F-00-7594",
+  "language": "en",
+  "title": "Portret van Bernhard van Lippe-Biesterfeld en Irene, prinses der Nederlanden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7e050bba-b351-4908-ad33-cc6419be0794",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1812,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/2d63xjNZ9mpztloqbeffRiatdK327PtWkFQYsDFxpxHPJKJr_p4DHm6LAmE5kysvNculy8O7BKhy_nJCfc4wlT47biw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Bernhard van Lippe-Biesterfeld en Irene, prinses der Nederlanden"
+  ],
+  "description": "Portret van Bernhard en Irene te Ottawa.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2014-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1941",
+    "sortingDate": 1941,
+    "period": 20,
+    "yearEarly": 1941,
+    "yearLate": 1941
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ottawa"
+    ],
+    "people": [
+      "Bernhard (prins der Nederlanden)",
+      "Irene (prinses der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "RP-F-00-7594"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Bernhard (prins der Nederlanden)",
+    "Irene (prinses der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "179"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "photographic support",
+  "longTitle": "Portret van Bernhard van Lippe-Biesterfeld en Irene, prinses der Nederlanden, anonymous, 1941",
+  "subTitle": "h 179mm \u00d7 w 130mm",
+  "scLabelLine": "anonymous, 1941, photographic support",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

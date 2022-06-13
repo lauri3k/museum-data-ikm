@@ -1,0 +1,301 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-20.944",
+  "priref": "40816",
+  "objectNumber": "RP-P-OB-20.944",
+  "language": "en",
+  "title": "Slavenmarkt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "acc20624-1faa-4de3-9fa9-5526a50d63ab",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2796,
+    "height": 1589,
+    "url": "https://lh3.ggpht.com/qJjA_YkUD8_Nbebj4MLPHKdV9MMO7a2kxbIDCV-3rmtHzPSbQcIFkrsWZ-mNpgOgS3EmFs4lEVV7537IiAtWVfFesoE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 53,
+      "hex": "#DED7C1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A29E8D"
+    },
+    {
+      "percentage": 11,
+      "hex": " #807F70"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FAF8ED"
+    },
+    {
+      "percentage": 6,
+      "hex": " #65655A"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C0BBA6"
+    },
+    {
+      "percentage": 3,
+      "hex": " #505049"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DED7C1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A29E8D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #807F70",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FAF8ED",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #65655A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C0BBA6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #505049",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 53,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 68,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Slavenmarkt"
+  ],
+  "description": "Op een plein zijn groepjes mensen bezig met slaven(handel). Rechts op de voorgrond staat een voorname heer bij een ronde toren (gevangenis) geld uit te tellen voor een andere heer, om de geboeide christenslaaf die achter hem staat (vrij?) te kopen. Midden op het plein lopen enkele gevangenen met ketens aan hun enkels achter een voornaam echtpaar aan. Links op de voorgrond wijst een man met oosters uiterlijk een ander echtpaar op de mensen bij de toren. Op de achtergrond een gezicht op de Pont Neuf over de Seine te Parijs.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly anonymous, France"
+    },
+    {
+      "name": "Isra\u00ebl Henriet",
+      "unFixedName": "Henriet, Isra\u00ebl",
+      "placeOfBirth": null,
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1661",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isra\u00ebl Henriet (c. 1590 - 1661), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacques Callot",
+      "unFixedName": "Callot, Jacques",
+      "placeOfBirth": "Nancy",
+      "dateOfBirth": "1592-08-21",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1635-03-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Nancy",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacques Callot (c. 21-aug-1592 - 24-mrt-1635), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacques Callot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "France",
+    "France",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1619 - 1635",
+    "sortingDate": 1619,
+    "period": 17,
+    "yearEarly": 1619,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I244",
+      "46A181",
+      "46A183",
+      "44G311",
+      "25I1"
+    ],
+    "iconClassDescription": [
+      "village square, place",
+      "slave-trade",
+      "freedom ~ slavery",
+      "prison, jail",
+      "city-view in general; 'veduta'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-20.944"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Meaume 712",
+    "712",
+    "Lieure 369",
+    "369"
+  ],
+  "principalOrFirstMaker": "Jacques Callot",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "218"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Slavenmarkt, Jacques Callot, 1619 - 1635",
+  "subTitle": "h 115mm \u00d7 w 218mm",
+  "scLabelLine": "Jacques Callot, 1619 - 1635, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

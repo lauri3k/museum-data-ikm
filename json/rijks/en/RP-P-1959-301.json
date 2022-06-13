@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1959-301",
+  "priref": "128382",
+  "objectNumber": "RP-P-1959-301",
+  "language": "en",
+  "title": "Marcus redt een slaafgemaakte man van zijn marteling",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "120c9c1e-760e-47a3-b58d-7a0bf07f0670",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1947,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/NcH2xPiRdFfOyAqvqmNFSyzyRrKK6vR5l6E-OagXx_QVHRiMk5iO1Slq5RVxmPSIpNQFeahZTU5u29c-biJ6ZFTczo55KZ6XtRJ6-DtYMw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Marcus redt een slaafgemaakte man van zijn marteling",
+    "Marcus redt een slaaf van zijn marteling",
+    "Kunstwerken van Venetiaanse meesters",
+    "Opera selectiora"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "John Baptist Jackson",
+      "unFixedName": "Jackson, John Baptist",
+      "placeOfBirth": null,
+      "dateOfBirth": "1701",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1780",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Newcastle upon Tyne",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "John Baptist Jackson (1701 - c. 1780)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Baptist Jackson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1745",
+    "sortingDate": 1745,
+    "period": 18,
+    "yearEarly": 1745,
+    "yearLate": 1745
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A18",
+      "11H(MARK)832"
+    ],
+    "iconClassDescription": [
+      "slavery; serfs and the enslaved",
+      "St. Mark rescues a slave from martyrdom by coming down from heaven; the instruments of torture break"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1959-301"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF 18e si\u00e8cle",
+    "LeBlanc 15",
+    "15"
+  ],
+  "principalOrFirstMaker": "John Baptist Jackson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "592"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "455"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Marcus redt een slaafgemaakte man van zijn marteling, John Baptist Jackson, 1745",
+  "subTitle": "h 592mm \u00d7 w 455mm",
+  "scLabelLine": "John Baptist Jackson, 1745, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-C-1997-2",
+  "priref": "350900",
+  "objectNumber": "BK-C-1997-2",
+  "language": "en",
+  "title": "Triton Blowing a Conch Shell",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5f0a4394-ee8a-4055-8d7f-0adb4fd5c9a1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 22,
+    "width": 1682,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/LyaI00pYgztv5bqnzZzjZm0CG2zGZV5j8xan3-HbgDiccvQsN0ADfRpq_-n8ahbW6OrMyRnceKPx3Hqy7bNDNmYETok=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Triton, Blowing on a Trumpet Shell"
+  ],
+  "description": "Triton, zittend, met het rechterbeen over het linkerbeen geslagen en blazend op een kinkhoorn.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen de Vries",
+      "unFixedName": "Vries, Adriaen de",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1556",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1626-05-15",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Praag",
+      "occupation": [
+        "sculptor",
+        "draughtsman"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adriaen de Vries (c. 1556 - c. 15-mei-1626)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen de Vries",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1977-01-01T00:00:00",
+    "creditLine": "On loan from the Nationalmuseum Stockholm"
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [
+    "casting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1615 - c. 1617",
+    "sortingDate": 1615,
+    "period": 17,
+    "yearEarly": 1615,
+    "yearLate": 1617
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92H391(+8)"
+    ],
+    "iconClassDescription": [
+      "triton(s) (+ attributes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Frederiksborg"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-C-1997-2"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen de Vries",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "80"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze",
+  "longTitle": "Triton Blowing a Conch Shell, Adriaen de Vries, c. 1615 - c. 1617",
+  "subTitle": "h 157cm \u00d7 w 88cm \u00d7 d 80cm",
+  "scLabelLine": "Adriaen de Vries (c. 1556\u20131626), bronze, c. 1615\u20131618",
+  "label": {
+    "title": "Triton Blowing a Conch Shell",
+    "makerLine": "Adriaen de Vries (c. 1556\u20131626), bronze, c. 1615\u20131618",
+    "description": "This triton, a sea creature in the retinue of the god Neptune, is one of sixteen sculptures that together once formed part of a monumental fountain. The huge complex stood in front of Frederiksborg Castle in Denmark, but in 1659 Swedish soldiers took the statues as war booty to Stockholm. The triton originally perched on the edge of a basin, and water spouted from the shell he is blowing.",
+    "notes": null,
+    "date": "2013-03-18"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

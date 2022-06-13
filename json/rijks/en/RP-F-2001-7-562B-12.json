@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-562B-12",
+  "priref": "648362",
+  "objectNumber": "RP-F-2001-7-562B-12",
+  "language": "en",
+  "title": "Parliament buildings, Ottawa, Canada",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4190f4ec-eb9b-432b-adf1-6a1b6dbfb63a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1797,
+    "url": "https://lh3.googleusercontent.com/ByiQTnfXme0FNSLFxwfI61Zr8Q3w48uny7H9eZ8D-SOXWgsn0dqvQqwVfNsY8zXQRG7atNNbxatWYlmHMhLrRIhnRQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Parliament buildings, Ottawa, Canada"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1890 - in or before 1900",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B512",
+      "41A31"
+    ],
+    "iconClassDescription": [
+      "Lower House, Parliament, Chamber",
+      "fa\u00e7ade (of house or building)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Centre Block"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-562B-12"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "79"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "145"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Parliament buildings, Ottawa, Canada, anonymous, c. 1890 - in or before 1900",
+  "subTitle": "h 79mm \u00d7 w 145mm",
+  "scLabelLine": "anonymous, c. 1890 - in or before 1900, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

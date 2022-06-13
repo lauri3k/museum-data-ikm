@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-507",
+  "priref": "295467",
+  "objectNumber": "NG-507",
+  "language": "en",
+  "title": "Wine glass with a view of the port of Willemstad, the principal slave market in Cura\u00e7ao",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d306e5b4-21d5-478a-aaea-a01dc41b15db",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2020,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/sejmjxwAmPpUr-zK0Gg4Oll8jW_3r8CmN_0cedfydqXWUdc7ulw_EZNWN7c45f3Oo02yQw9_OnpF-x-A2eoYTqqnM3o=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Gewelfde voet. Dubbele balusterstam met luchtbellen in spiraalvormige windingen. Conische kelk met afgeronde bodem. Op de kelk in radgravure een eiland, geheel volgebouwd met huizen, o. muren met kanonnen, r.b. een grote vlag, l. een schip half achter het eiland, verder nog twee schepen op zee. Opschrift; rand van de kelk b.: T' WELVAREN VAN CURACAO. Gesigneerd; m.: onder de gravure: Jacob, Sang, fc: Gedateerd; m.: onder de gravure: 1756.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Simon Jacob Sang",
+      "unFixedName": "Sang, Simon Jacob",
+      "placeOfBirth": "Erfurt",
+      "dateOfBirth": "1720",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1786",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Nigtevecht",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Simon Jacob Sang (c. 1720 - 1786), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Simon Jacob Sang",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1964-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1756",
+    "sortingDate": 1756,
+    "period": 18,
+    "yearEarly": 1756,
+    "yearLate": 1756
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H14",
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "island",
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17001800"
+    ],
+    "places": [
+      "Cura\u00e7ao",
+      "Willemstad"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-507"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "A. Lam\u00e9ris, Pur Sang, Een onderzoek naar kenmerken van de stijl van Jacob Sang aan de hand van zijn gesigneerde werken, typoscript Universiteit van Amsterdam, Amsterdam 1994, p. 13, 17, 20-22, 24-25, 27-28.",
+    "F.G.A.M. Smit, A concise Catalogue of Eighteenth-Century Wine-Glasses, Wheel-engraved and signed by Jacob Sang, Peterborough 1992, nr. 1756.1",
+    "Jaarverslag 86 (1965), p. 52."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Simon Jacob Sang",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "9.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Wine glass with a view of the port of Willemstad, the principal slave market in Cura\u00e7ao, Simon Jacob Sang, 1756",
+  "subTitle": "d 9.9cm",
+  "scLabelLine": "Simon Jacob Sang (active c. 1752-1785), The Netherlands, wheel engraving: 1756, glass",
+  "label": {
+    "title": "Wine glass with a view of the port of Willemstad, the principal slave market in Cura\u00e7ao",
+    "makerLine": "Simon Jacob Sang (active c. 1752-1785), The Netherlands, wheel engraving: 1756, glass",
+    "description": null,
+    "notes": null,
+    "date": "2016-08-08"
+  },
+  "showImage": true,
+  "location": "HG-1.5"
+}

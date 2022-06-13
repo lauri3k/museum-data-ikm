@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-73.754",
+  "priref": "342390",
+  "objectNumber": "RP-P-OB-73.754",
+  "language": "en",
+  "title": "Portret van Oliger Paulli",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "532752ef-d5f2-4c70-93de-c690d0565645",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3365,
+    "height": 5357,
+    "url": "https://lh5.ggpht.com/8zsayj7CvAy_9d-9TgrK2YV36vRKESruGDY2cnqAmlQcoL7c159r9jlkZgnfHi-Z6CFSSQ-3W1Vw4b6r07VfodVKwdA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Oliger Paulli"
+  ],
+  "description": "Portret van de Deense Jood, Oliger Paulli (ook wel Holger Paulli genoemd). Nadat hij fortuin had gemaakt als handelaar in tot slaaf gemaakte Afrikanen in West-Indi\u00eb, bekeerde hij zich tot het Jodendom en probeerde, eerst in Amsterdam en vervolgens in Kopenhagen, op fanatieke wijze anderen te bekeren, o.a. via pamfletten. Onder de afbeelding een vers met betrekking tot Paulli's geloofsovertuiging.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan de Ridder",
+      "unFixedName": "Ridder, Jan de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1665-10-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1735-11-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan de Ridder (12-okt-1665 - 16-nov-1735), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan de Ridder",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1871-01-01T00:00:00",
+    "creditLine": "Gift of D. Franken, Le V\u00e9sinet"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1694 - 1706",
+    "sortingDate": 1694,
+    "period": 17,
+    "yearEarly": 1694,
+    "yearLate": 1706
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A181",
+      "12A7",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "slave-trade",
+      "the Jews, Jewish life",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "West-Indi\u00eb"
+    ],
+    "people": [
+      "Paulli, Oliger"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-73.754"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Paulli, Oliger"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Jan de Ridder",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "164"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "102"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Oliger Paulli, Jan de Ridder, 1694 - 1706",
+  "subTitle": "h 164mm \u00d7 w 102mm",
+  "scLabelLine": "Jan de Ridder, 1694 - 1706, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

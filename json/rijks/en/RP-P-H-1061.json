@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-1061",
+  "priref": "31487",
+  "objectNumber": "RP-P-H-1061",
+  "language": "en",
+  "title": "Virginius doodt zijn dochter Virginia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7f79a0d7-5a6d-490a-8bfb-002cb50f7a9c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1811,
+    "height": 2742,
+    "url": "https://lh3.ggpht.com/jcIHe0QcYGDbwSwmSMKnyNhhDU1g-VJQCCeW4oRCnven1RLLW83PGGTJ0caSondBuHyZ3Yb2-JMsJgBket5Q3rZWz-A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 24,
+      "hex": "#504F48"
+    },
+    {
+      "percentage": 21,
+      "hex": " #32322E"
+    },
+    {
+      "percentage": 12,
+      "hex": " #706D62"
+    },
+    {
+      "percentage": 12,
+      "hex": " #D6D1BD"
+    },
+    {
+      "percentage": 12,
+      "hex": " #8E8A7D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B4AF9E"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F2EDD7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#504F48",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #32322E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #706D62",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D6D1BD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8E8A7D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B4AF9E",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F2EDD7",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 59,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Virginius doodt zijn dochter Virginia",
+    "Virginea"
+  ],
+  "description": "Virginius doodt zijn dochter Virginia met een zwaard om haar de begeerte van Appius Claudius te besparen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Georg Pencz",
+      "unFixedName": "Pencz, Georg",
+      "placeOfBirth": "Beieren",
+      "dateOfBirth": "1500",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1550-10-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Breslau",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Georg Pencz (c. 1500 - 11-okt-1550), Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Georg Pencz",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": null,
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1546 - 1547",
+    "sortingDate": 1546,
+    "period": 16,
+    "yearEarly": 1546,
+    "yearLate": 1547
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "98C(VIRGINIA)68"
+    ],
+    "iconClassDescription": [
+      "death of Virginia: she is stabbed to death by her father, the centurion Virginius, in order to save her from the lust of Appius Claudius, who had her falsely claimed as a slave and was giving judgement in her case"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-1061"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 84",
+    "84",
+    "Hollstein German 125",
+    "125"
+  ],
+  "principalOrFirstMaker": "Georg Pencz",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "114"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "75"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Virginius doodt zijn dochter Virginia, Georg Pencz, 1546 - 1547",
+  "subTitle": "h 114mm \u00d7 w 75mm",
+  "scLabelLine": "Georg Pencz, 1546 - 1547, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

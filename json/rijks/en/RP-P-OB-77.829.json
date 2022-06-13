@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-77.829",
+  "priref": "439065",
+  "objectNumber": "RP-P-OB-77.829",
+  "language": "en",
+  "title": "Slavenhandel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "84ac097f-3dd5-4319-8f81-a6de921a77ae",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1691,
+    "height": 2844,
+    "url": "https://lh5.ggpht.com/n7FX4t6PVSBZEsDXiGR16NLwdSYf36TUbsjfNYlGzKGiXaOLLtWqHyjqg8q6ruTuIdDcCH9AAkayf3sFvJYrSxgtYMo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#99988D"
+    },
+    {
+      "percentage": 5,
+      "hex": " #616055"
+    },
+    {
+      "percentage": 49,
+      "hex": " #EDECE2"
+    },
+    {
+      "percentage": 7,
+      "hex": " #78776C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #BFBFB3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #3B3A32"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#99988D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #616055",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EDECE2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #78776C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BFBFB3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3B3A32",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 25,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Slavenhandel",
+    "'t Verkoopen der Slaaven en hunne dienstbaarheid"
+  ],
+  "description": "Slavenhandel. Illustratie nr. 103 in een werk over de oude bewoners van Nederland en hun gewoonten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1712 - 1714",
+    "sortingDate": 1712,
+    "period": 18,
+    "yearEarly": 1712,
+    "yearLate": 1714
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32B2(GERMANIC TRIBES)",
+      "46A18",
+      "46A181",
+      "46A182"
+    ],
+    "iconClassDescription": [
+      "extinct, 'historical' peoples (with NAME)",
+      "slavery; serfs and the enslaved",
+      "slave-trade",
+      "slaveholder ~ enslaved person"
+    ],
+    "motifs": [],
+    "events": [
+      "Romeinse periode in Nederland"
+    ],
+    "periods": [],
+    "places": [
+      "Nederland"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-77.829"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 37",
+    "37"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Slavenhandel, anonymous, 1712 - 1714",
+  "subTitle": "h 144mm \u00d7 w 86mm",
+  "scLabelLine": "anonymous, 1712 - 1714, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

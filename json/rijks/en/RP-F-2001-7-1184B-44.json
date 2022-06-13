@@ -1,0 +1,154 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1184B-44",
+  "priref": "697355",
+  "objectNumber": "RP-F-2001-7-1184B-44",
+  "language": "en",
+  "title": "Reproductie van een geschilderd portret van Nicolaas Bruyningh door Rembrandt van Rijn",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8108fa87-6188-4a69-9808-d8d148b3b02d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1825,
+    "url": "https://lh3.googleusercontent.com/uJsimOsfnj0_BPk7TvjnLHVJO4p7f6jnG2xDJ3Q4wGmUqrlseBWIcpoWrfdvsz3Q7-tgVngURV4U-lAq6p39Os9RnCg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Reproductie van een geschilderd portret van Nicolaas Bruyningh door Rembrandt van Rijn",
+    "Rembrant van Rijn: Nicolaes Bruynink"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Franz Hanfstaengl",
+      "unFixedName": "Hanfstaengl, Franz",
+      "placeOfBirth": "Beieren",
+      "dateOfBirth": "1804-03-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1877-04-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "M\u00fcnchen",
+      "occupation": [
+        "printer",
+        "print maker",
+        "painter"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Franz Hanfstaengl (01-mrt-1804 - 18-apr-1877)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Franz Hanfstaengl",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1898 - in or before 1903",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1903
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Bruyningh, Nicolaas"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-1184B-44"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Bruyningh, Nicolaas"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Franz Hanfstaengl",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Reproductie van een geschilderd portret van Nicolaas Bruyningh door Rembrandt van Rijn, Franz Hanfstaengl, c. 1898 - in or before 1903",
+  "subTitle": "h 150mm \u00d7 w 130mm",
+  "scLabelLine": "Franz Hanfstaengl, c. 1898 - in or before 1903, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,181 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1889-A-2170(R)",
+  "priref": "65199",
+  "objectNumber": "RP-T-1889-A-2170(R)",
+  "language": "en",
+  "title": "H. Marcus redt een slaafgemaakte man van de dood",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d4def24e-30cd-45c7-a8e0-4691014b143b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1750,
+    "url": "https://lh5.ggpht.com/BCQG2tcRyZP0VraFjaxUr-Ue7aS025w8dcNEjCaM96AkFMrSVnde-mm-_otkJ-yNSUR27k4bRDgvJFhXaE5_sRdGdVIS=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. Marcus redt een slaafgemaakte man van de dood",
+    "H. Marcus redt een slaaf van de dood"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "Giovanni Bilivert",
+      "unFixedName": "Bilivert, Giovanni",
+      "placeOfBirth": "Florence",
+      "dateOfBirth": "1585",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1644",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Florence",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Giovanni Bilivert (1585 - 1644)"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giulio Carpioni (I)",
+      "unFixedName": "Carpioni, Giulio (I)",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Giulio Carpioni (I) (1613 - 1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giulio Carpioni (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1889-07-24T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1600 - 1699",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(MARK)832",
+      "46A18"
+    ],
+    "iconClassDescription": [
+      "St. Mark rescues a slave from martyrdom by coming down from heaven; the instruments of torture break",
+      "slavery; serfs and the enslaved"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1889-A-2170(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Giulio Carpioni (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "286"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "H. Marcus redt een slaafgemaakte man van de dood, Giulio Carpioni (I), 1600 - 1699",
+  "subTitle": "h 200mm \u00d7 w 286mm",
+  "scLabelLine": "Giulio Carpioni (I), 1600 - 1699, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

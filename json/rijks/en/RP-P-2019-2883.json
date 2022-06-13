@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2019-2883",
+  "priref": "733871",
+  "objectNumber": "RP-P-2019-2883",
+  "language": "en",
+  "title": "Gemeentehuis van Anderlecht",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ec3e5406-29a3-4c20-94dc-609012e9ac0e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1917,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/L-grCGWtOdXRVnqYBsQ_nvWXVEw9usWjBOWUCaczStuDrBJ0Q5Kv9dbawqz-V8Kx5XQi2Ohv0oq6Fd1Gg8yHskn_UALENhln8q1LqYwD4w=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gemeentehuis van Anderlecht",
+    "Hotel Communal d'Anderlecht. Province de Brabant. Perron de Gauche - Loge inf\u00e9rieure du Beffroi"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jules Jacques Ysendyck",
+      "unFixedName": "Ysendyck, Jules Jacques",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1836",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1901",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jules Jacques Ysendyck (1836 - 1901)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Joseph Maes",
+      "unFixedName": "Maes, Joseph",
+      "placeOfBirth": "Gent",
+      "dateOfBirth": "1838",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1908",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Maes (1838 - 1908), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joseph Maes",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2019-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1879 - 1908",
+    "sortingDate": 1879,
+    "period": 19,
+    "yearEarly": 1879,
+    "yearLate": 1908
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B233"
+    ],
+    "iconClassDescription": [
+      "townhall"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Anderlecht"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2019-2883"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joseph Maes",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "524"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "382"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Gemeentehuis van Anderlecht, Joseph Maes, 1879 - 1908",
+  "subTitle": "h 524mm \u00d7 w 382mm",
+  "scLabelLine": "Joseph Maes, 1879 - 1908, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

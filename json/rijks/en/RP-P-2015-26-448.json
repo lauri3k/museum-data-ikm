@@ -1,0 +1,155 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2015-26-448",
+  "priref": "601103",
+  "objectNumber": "RP-P-2015-26-448",
+  "language": "en",
+  "title": "Interieur van boekhandel Wasenius te Helsinki",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "05b12a6f-56fc-4f1e-b127-e2bda0cdfd1e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1811,
+    "url": "https://lh3.googleusercontent.com/bLftM75iuLylF3TLOPj1XMrXm4mbdD0y4Ex90ZXnOp-plgGuJKs_0w2CmcT4nY7d-PS6-SA5XcrPckN0Sej4ZPESR19l=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Interieur van boekhandel Wasenius te Helsinki"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "K.E. Holm's F\u00f6rlag",
+      "unFixedName": "Holm's F\u00f6rlag, K.E.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "K.E. Holm's F\u00f6rlag"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "unknown",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "S. Emmering Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1888",
+    "sortingDate": 1888,
+    "period": 19,
+    "yearEarly": 1888,
+    "yearLate": 1888
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49M7"
+    ],
+    "iconClassDescription": [
+      "book-shop, bookseller"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2015-26-448"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "unknown",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "159"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "225"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Interieur van boekhandel Wasenius te Helsinki, unknown, 1888",
+  "subTitle": "h 159mm \u00d7 w 225mm",
+  "scLabelLine": "unknown, 1888, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

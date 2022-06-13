@@ -1,0 +1,245 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1960-19",
+  "priref": "2808",
+  "objectNumber": "RP-T-1960-19",
+  "language": "en",
+  "title": "Deksel van een gouden doos met allegorie op de goudwinning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eaeb954e-ca30-4a50-a12d-1199a6f17fda",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1952,
+    "url": "https://lh3.ggpht.com/lbNjMc6dzCsVCP_LfT4twWuYBALHdhdIzaXsYOJIyjpDjvdYnDX9r94165xYr5huDxxOqgdALQ6o_AlakdnSGsRVbwE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FCF7E3"
+    },
+    {
+      "percentage": 64,
+      "hex": " #E0DAC9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C5BDA8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #7A635B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9FA59A"
+    },
+    {
+      "percentage": 8,
+      "hex": " #7E8882"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FCF7E3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E0DAC9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C5BDA8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7A635B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9FA59A",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #7E8882",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 15,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 80,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Deksel van een gouden doos met allegorie op de goudwinning"
+  ],
+  "description": "Allegorie op de goudwinning door de West Indische Compagnie, met Mercurius en het wapen van Willem IV, prins van Oranje en Nassau; in een ornamentale omlijsting met tropische vruchten en planten.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Fran\u00e7ois Thuret",
+      "unFixedName": "Thuret, Fran\u00e7ois",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1716",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1751",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman",
+        "jeweler"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Fran\u00e7ois Thuret (c. 1716 - after 1751)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Fran\u00e7ois Thuret",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)",
+    "watercolor (paint)",
+    "pencil"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1752",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1752
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A18",
+      "25F25(ELEPHANT)(+9)",
+      "25D35",
+      "25D13(GOLD)",
+      "46A181",
+      "25B3"
+    ],
+    "iconClassDescription": [
+      "slavery; serfs and the enslaved",
+      "trunked animals: elephant (+ products of animals)",
+      "smelting, extracting from ore; blast-furnace",
+      "minerals and metals: gold",
+      "slave-trade",
+      "Africa represented allegorically; 'Africa' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ghana",
+      "Nederland"
+    ],
+    "people": [
+      "West-Indische Compagnie",
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-T-1960-19"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "West-Indische Compagnie",
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Fran\u00e7ois Thuret",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "260"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Deksel van een gouden doos met allegorie op de goudwinning, Fran\u00e7ois Thuret, 1752",
+  "subTitle": "h 205mm \u00d7 w 260mm",
+  "scLabelLine": "Fran\u00e7ois Thuret, 1752, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

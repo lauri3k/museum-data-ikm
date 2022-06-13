@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F18149",
+  "priref": "259036",
+  "objectNumber": "RP-F-F18149",
+  "language": "en",
+  "title": "Gezicht op Oslo vanaf Ekeberg, Nordstrand",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3d99a85a-e7b5-4cda-9d27-935ca08652a6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 998,
+    "url": "https://lh3.googleusercontent.com/vQuFnjfrMYuH1OJxLWohAQWU7Mt2voBezxGBzDpfL_jv-LvGc_30w7cNsjqvVFkNlkcurhlckCJpgCxLfSK6J5WhkTG6vX_SpEyHB0gD=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Oslo vanaf Ekeberg, Nordstrand",
+    "Christiania fra Ekeberg"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Axel Lindahl",
+      "unFixedName": "Lindahl, Axel",
+      "placeOfBirth": "Mariestad",
+      "dateOfBirth": "1841",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1906",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Axel Lindahl (1841 - 1906)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Axel Lindahl",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1867 - c. 1900",
+    "sortingDate": 1867,
+    "period": 19,
+    "yearEarly": 1867,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Oslo"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F18149"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Axel Lindahl",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "165"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "437"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "346"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "455"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op Oslo vanaf Ekeberg, Nordstrand, Axel Lindahl, 1867 - c. 1900",
+  "subTitle": "h 165mm \u00d7 w 437mm",
+  "scLabelLine": "Axel Lindahl, 1867 - c. 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

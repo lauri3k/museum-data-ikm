@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1929-198",
+  "priref": "164583",
+  "objectNumber": "RP-P-1929-198",
+  "language": "en",
+  "title": "Dood van Virginia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eec79836-f035-4794-be9e-2056b7dd3ee2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1814,
+    "url": "https://lh3.googleusercontent.com/QTjkHsbKDhnd8ursriEGkWeOEMmjSrhemA3DDUTVfznm1nZQ53Os7xw3yYkXl1SOI7WgmVyEJVhiJs-0JWJt0fEN3ow=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dood van Virginia",
+    "La Morte di Virginia",
+    "Geschiedenis van het Romeinse Rijk",
+    "Frontespizio della Istoria Romana"
+  ],
+  "description": "Virginius doodt zijn dochter Virginia met een zwaard om haar de begeerte van Appius Claudius te besparen en haar van slavernij te vrijwaren. Laatstgenoemde had valselijk geclaimd dat hij haar bezat. Een menigte Romeinen kijkt toe.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bartolomeo Pinelli",
+      "unFixedName": "Pinelli, Bartolomeo",
+      "placeOfBirth": "Rome",
+      "dateOfBirth": "1781-11-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1835-04-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "sculptor"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bartolomeo Pinelli (20-nov-1781 - 01-apr-1835), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bartolomeo Pinelli",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1929-01-01T00:00:00",
+    "creditLine": "Gift of J.J. de Man, Ede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Rome",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1817",
+    "sortingDate": 1817,
+    "period": 19,
+    "yearEarly": 1817,
+    "yearLate": 1817
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "98C(VIRGINIA)68",
+      "46A18"
+    ],
+    "iconClassDescription": [
+      "death of Virginia: she is stabbed to death by her father, the centurion Virginius, in order to save her from the lust of Appius Claudius, who had her falsely claimed as a slave and was giving judgement in her case",
+      "slavery; serfs and the enslaved"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1929-198"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Marini&Fagiolo 31",
+    "31"
+  ],
+  "principalOrFirstMaker": "Bartolomeo Pinelli",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "425"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Dood van Virginia, Bartolomeo Pinelli, 1817",
+  "subTitle": "h 315mm \u00d7 w 425mm",
+  "scLabelLine": "Bartolomeo Pinelli, 1817, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

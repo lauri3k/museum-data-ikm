@@ -1,0 +1,185 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-11430-19",
+  "priref": "351135",
+  "objectNumber": "BK-NM-11430-19",
+  "language": "en",
+  "title": "Harpsichord",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d457ba63-7114-43be-ae99-7ea5e4ad5016",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2462,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/aJwpRJJAnecHhStz5xoHALHDRu2yjjXRR0y8xXm6ktxdM7pduBt56GgodbEGKPelkkvfvriz4ZOh5ybe1QCj5KQLwJY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Harpsichord"
+  ],
+  "description": "Klavecimbel met een gekleurd klankbord beschilderd met bloemen, vruchten en vogels. De rosette draagt de initialen J.C. en stelt een vrouw voor in een zittende houding die een harp bespeelt. De clavecimbel heeft twee clavieren boven elkaar met witte en zwarte toetsen. Links twee registers, een voor het unison en een voor de luit. Rechts twee registers, een voor het unison en een voor de octaaf. Aan de binnenkant van het dekblad staat tussen bloemenguirlandes: Omnis spiritus laudet Dominum. Vergroting rond 1775.",
+  "labelText": null,
+  "objectTypes": [
+    "musical instrument",
+    "stringed instrument",
+    "keyboard instrument",
+    "harpsichord"
+  ],
+  "objectCollection": [
+    "musical instruments"
+  ],
+  "makers": [
+    {
+      "name": "Petrus Johannes Couchet",
+      "unFixedName": "Couchet, Petrus Johannes",
+      "placeOfBirth": null,
+      "dateOfBirth": "1615-02-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1655",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "musical instrument maker"
+      ],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Petrus Johannes Couchet (02-feb-1615 - c. 1655), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Petrus Johannes Couchet",
+      "unFixedName": "Couchet, Petrus Johannes",
+      "placeOfBirth": null,
+      "dateOfBirth": "1615-02-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1655",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "musical instrument maker"
+      ],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Petrus Johannes Couchet (02-feb-1615 - c. 1655), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Petrus Johannes Couchet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1899-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the State of the Netherlands and the Vereeniging van Noord-Nederlandsche Muziekgeschiedenis"
+  },
+  "exhibitions": [],
+  "materials": [
+    "poplar (wood)",
+    "spruce (wood)",
+    "ivory",
+    "ebony (wood)",
+    "brass (alloy)",
+    "iron (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1669",
+    "sortingDate": 1669,
+    "period": 17,
+    "yearEarly": 1669,
+    "yearLate": 1669
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-11430-19"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "'A Playlist for Rembrandt: Music from the Netherlands from Rembrant's time. Bob van Asperen. Original Couchet harpsichord, Rijksmuseum Amsterdam', cd AE-10164, 2019",
+    "G. Grant O'Brien, 'Couchet', The Grove Dictionary of Musical Instruments, Second Edition edited by Laurence Libin, dl. 1, Oxford: Oxford University Press, 2014, p. 702-703",
+    "Gerard Tuinman, 'Het klavecimbel van Petrus Ioannes Couchet, 1669', Het Clavecimbel, tijdschrift van de Stichting Clavecimbel Genootschap Nederland SCGN 18, nr. 2 (Nov., 2011), p. 17-19",
+    "Edward L. Kottick, George H. Lucktenberg, 'Early Keyboard Instruments in European Museums', Bloomington: Indiana University Press, 1997, p. 162",
+    "Sheridan Germann, 'Mrs Crawley's Couchet Reconsidered', Early Music 7, nr. 4, (Oct., 1979), p. 473-481: 479",
+    "Laurence Libin, 'A Dutch Harpsichord in the United States', The Galpin Society Journal 28 (Apr., 1975), p. 43-49: 48",
+    "John Henry van der Meer, 'More about Flemish two-manual harpsichords', Keyboard instruments: Studies in keyboard organology, ed. by Edward M. Ripin, Edinburgh: Edinburgh University Press, 1971, p. 47-56: 50",
+    "Edwin M. Ripin, 'The Couchet Harpsichord in the Crosby Brown Collection', Metropolitan Museum Journal 2 (1969), p. 169-178: 173",
+    "L.G. Langwill, 'Musikinstrumenten-Sammlung des Rijksmuseum, Amsterdam ausgestellt im Gemeente Museum, Den Haag 9. Oktober - 24. November 1952', Glareana: Nachrichten der Gesellschaft der Freunde alter Musikinstrumente 2, nr. 2 (1953), p. 1-3: 2",
+    "S. van Milligen, 'Wat moet er met de oude muziek-instrumenten in ons Rijksmuseum geschieden?', Caecilia en de muziek 62 (1905), p. 486",
+    "'Aanwinsten', Bulletin van de Nederlandse Oudheidkundige Bond 1, nr. 2 (1899-1900), p. 48-49: 48"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Petrus Johannes Couchet",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "211.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "86.0"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "92.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "poplar (wood)",
+  "longTitle": "Harpsichord, Petrus Johannes Couchet, 1669",
+  "subTitle": "l 211.0cm \u00d7 w 86.0cm \u00d7 h 92.0cm",
+  "scLabelLine": "Petrus Ioannes Couchet (1648\u2013after 1673), various woods, brass, iron and ivory, Antwerp, 1669, enlarged Amsterdam?, c. 1775",
+  "label": {
+    "title": "Harpsichord",
+    "makerLine": "Petrus Ioannes Couchet (1648\u2013after 1673), various woods, brass, iron and ivory, Antwerp, 1669, enlarged Amsterdam?, c. 1775",
+    "description": "Petrus Couchet belonged to the famous Ruckers family of harpsichord makers in Antwerp. This instrument, originally with one keyboard and two sets of strings (plucked using raven quills), was enlarged in the 18th century with a second keyboard, more keys, and a third set of strings to offer more tone colour.",
+    "notes": null,
+    "date": "2019-06-24"
+  },
+  "showImage": true,
+  "location": null
+}

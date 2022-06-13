@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-379",
+  "priref": "231900",
+  "objectNumber": "NG-379",
+  "language": "en",
+  "title": "View of Colombo from Slave Island",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "213aac4d-0e00-4637-8f09-44d447b9617f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 411,
+    "url": "https://lh3.googleusercontent.com/FmMdO67PDswSJ1nxDEScyshZqSUcbn0RgDypFeQQ-Ofo-lTKBuk114sSQhKiOYiX2gjjJq4-aeZSd54UQ2Y0gAybHmQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "View of Colombo from Slave Island"
+  ],
+  "description": "Kleurtekening van groene kuststrook met spaarzame bebouwing. Met opschrift.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Brandes",
+      "unFixedName": "Brandes, Jan",
+      "placeOfBirth": "Bodegraven",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1808",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Sk\u00e4lsebo",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Brandes (1743 - 1808)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Brandes",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1956-04-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1785",
+    "sortingDate": 1785,
+    "period": 18,
+    "yearEarly": 1785,
+    "yearLate": 1785
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A18"
+    ],
+    "iconClassDescription": [
+      "slavery; serfs and the enslaved"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17851786"
+    ],
+    "places": [
+      "Colombo"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-379"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "R. van Luttervelt, 'Jan Brandes : predikant, landeigenaar en tekenaar', Bulletin KNOB 11 (1958), p. 29-38.",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Brandes",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "750"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "View of Colombo from Slave Island, Jan Brandes, 1785",
+  "subTitle": "h 100mm \u00d7 w 750mm",
+  "scLabelLine": "Jan Brandes, 1785, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

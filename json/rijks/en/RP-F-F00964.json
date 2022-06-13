@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00964",
+  "priref": "252235",
+  "objectNumber": "RP-F-F00964",
+  "language": "en",
+  "title": "Map voor tien topografische foto's van Oslo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "990fdc34-b89c-4009-80e1-dba84fe45367",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1719,
+    "height": 2317,
+    "url": "https://lh3.googleusercontent.com/hcTLjdIlJdryIwfkDH3nTkgHegQlKlW_f4btnclY1vXcSI963lnwUkW2fbtnKDOHabV7I0ZV_0VA1Lmd31F9zrbF_HzLJB-5IOvxQZBb=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Map voor tien topografische foto's van Oslo",
+    "Photographicum Christiania og Omegn"
+  ],
+  "description": "Map voor tien gezichten op de stad Oslo, toen nog onder de naam Christiania. Afgebeeld zijn onder andere Karl Johans Gate en St. Hanshaugen.",
+  "labelText": null,
+  "objectTypes": [
+    "folder (container)"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Cammermeyers",
+      "unFixedName": "Cammermeyers",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cammermeyers"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cammermeyers",
+      "unFixedName": "Cammermeyers",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Cammermeyers"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cammermeyers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support",
+    "paper"
+  ],
+  "techniques": [
+    "gelatin silver print",
+    "decorated paper",
+    "printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1900",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I12",
+      "25I144"
+    ],
+    "iconClassDescription": [
+      "prospect of city, town panorama, silhouette of city",
+      "square, place, circus, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Christiania"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F00964"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cammermeyers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "159"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "111"
+    },
+    {
+      "unit": "mm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "15"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "222"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Map voor tien topografische foto's van Oslo, Cammermeyers (possibly), 1900",
+  "subTitle": "h 159mm \u00d7 w 111mm \u00d7 t 15mm",
+  "scLabelLine": "Cammermeyers, 1900, gelatin silver print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

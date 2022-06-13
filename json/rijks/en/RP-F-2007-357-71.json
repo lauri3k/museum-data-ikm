@@ -1,0 +1,181 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2007-357-71",
+  "priref": "453040",
+  "objectNumber": "RP-F-2007-357-71",
+  "language": "en",
+  "title": "Fins landschap met een meer en naaldbomen.",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "74f51fd8-6d72-4b68-a227-ccedd702ea8f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2045,
+    "height": 2826,
+    "url": "https://lh4.ggpht.com/TYGfPPvwfoUII-vDdTjIqegFwb_qH7_r0z-A8GXbFLTYdbO-_tyXCVAhJ9tuS9elMPKnATwXWA06Caj2qY1G__d_gsY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Fins landschap met een meer en naaldbomen.",
+    "Finsch landschap",
+    "F.N.O. Herajarvi. No 734 Stahlberg, Helsinki."
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Stahlberg",
+      "unFixedName": "Stahlberg",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Stahlberg"
+    },
+    {
+      "name": "Henry Pauw van Wieldrecht",
+      "unFixedName": "Pauw van Wieldrecht, Henry",
+      "placeOfBirth": "Zeist",
+      "dateOfBirth": "1863-10-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Henry Pauw van Wieldrecht (24-okt-1863 - 02-jun-1912), Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "I.K. Inha",
+      "unFixedName": "Inha, I.K.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly I.K. Inha"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "I.K. Inha",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2008-12-11T00:00:00",
+    "creditLine": "Gift of the heirs of H. Pauw van Wieldrecht, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1898",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2007-357-71"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "I.K. Inha",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "227"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "259"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "365"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Fins landschap met een meer en naaldbomen., I.K. Inha (possibly), 1898",
+  "subTitle": "h 227mm \u00d7 w 172mm",
+  "scLabelLine": "I.K. Inha, 1898, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

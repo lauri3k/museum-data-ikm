@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1648-25",
+  "priref": "717057",
+  "objectNumber": "RP-F-2001-7-1648-25",
+  "language": "en",
+  "title": "Gezicht op Helsinki, Finland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "079bb143-1951-4b15-8cc9-df2f040ce3bd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2117,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/yqufOlFBUzDmO6fXMMlu7rDliHhigpW7bwKaatHYLP3YDB8vThjSB2CLEqhM8NCxLvkd6-08xlmY-z-pw3ZzoZ5ACc7MT5MjuPMP_wXN=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Helsinki, Finland",
+    "Vue d'ensemble de la ville",
+    "La Finlande - Helsingfors"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1890",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I12"
+    ],
+    "iconClassDescription": [
+      "prospect of city, town panorama, silhouette of city"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Helsinki"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1648-25"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op Helsinki, Finland, anonymous, 1890",
+  "subTitle": "h 144mm \u00d7 w 200mm",
+  "scLabelLine": "anonymous, 1890, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

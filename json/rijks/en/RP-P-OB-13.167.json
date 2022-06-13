@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-13.167",
+  "priref": "78834",
+  "objectNumber": "RP-P-OB-13.167",
+  "language": "en",
+  "title": "Slavenhandel",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Slavenhandel",
+    "Der Neger"
+  ],
+  "description": "Een slavenhandelaar verkoopt een tot slaaf gemaakte Afrikaanse man aan een Europese man. De koper houdt een zak geld in zijn hand. Op de achtergrond gaan meer tot slaaf gemaakte mannen aan boord van een schip. De mannen en vrouwen zijn om de nek geboeid met een haak. Rechtsboven genummerd: 10.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johann Georg Berenberg",
+      "unFixedName": "Berenberg, Johann Georg",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johann Georg Berenberg"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Daniel Berger",
+      "unFixedName": "Berger, Daniel",
+      "placeOfBirth": "Berlijn",
+      "dateOfBirth": "1744-10-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1824-11-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Berlin"
+      ],
+      "qualification": null,
+      "labelDesc": "Daniel Berger (25-okt-1744 - 17-nov-1824), Berlin"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Daniel Berger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2007-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Berlin"
+  ],
+  "dating": {
+    "presentingDate": "1775",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32B321",
+      "46A181",
+      "46A182",
+      "46A18"
+    ],
+    "iconClassDescription": [
+      "Africans",
+      "slave-trade",
+      "slaveholder ~ enslaved person",
+      "slavery; serfs and the enslaved"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Afrika"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-13.167"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Carl Christian Heinrich Rost, Anzeige s\u00e4mmtlicher Werke von Herrn Daniel Berger (...), Leipzig, Rostischen Kunsthandlung, 1792, p. 57, nr. 235."
+  ],
+  "catRefRPK": [
+    "Nagler/Meyer 95",
+    "95"
+  ],
+  "principalOrFirstMaker": "Daniel Berger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "92"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "52"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Slavenhandel, Daniel Berger, 1775",
+  "subTitle": "h 92mm \u00d7 w 52mm",
+  "scLabelLine": "Daniel Berger, 1775, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

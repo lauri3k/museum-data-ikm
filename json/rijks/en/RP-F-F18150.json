@@ -1,0 +1,147 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F18150",
+  "priref": "259265",
+  "objectNumber": "RP-F-F18150",
+  "language": "en",
+  "title": "Gezicht op Oscarshall op Bygd\u00f8y in Oslo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c71659fc-c72d-40dd-bf04-9d0638fb0d17",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1914,
+    "url": "https://lh3.googleusercontent.com/vx69dg4YQMwb85c7koG1T6SGYkbsfwo55t8zvR6IHnGxAFq7x0N-5arfU39mUjU1E7qSNnJbcDQcHR1TCTIZtTGwNcbdmYVZZmDp-hrO=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Oscarshall op Bygd\u00f8y in Oslo",
+    "Oscarshal"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1860 - 1900",
+    "sortingDate": 1860,
+    "period": 19,
+    "yearEarly": 1860,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A11"
+    ],
+    "iconClassDescription": [
+      "palace"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Oscarshall"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F18150"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "166"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "212"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "346"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "455"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op Oscarshall op Bygd\u00f8y in Oslo, anonymous, 1860 - 1900",
+  "subTitle": "h 166mm \u00d7 w 212mm",
+  "scLabelLine": "anonymous, 1860 - 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

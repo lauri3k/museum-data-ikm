@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import glob
 from pathlib import Path
 
 
@@ -13,3 +14,11 @@ def make_df(json_dir: str) -> pd.DataFrame:
         dfs.append(data)
 
     return pd.concat(dfs)
+
+
+def find_existing_files(prefix):
+    list_of_files = glob.glob(f"{prefix}*.json")
+    existing_object_nrs = [
+        file_name.split("/")[-1].strip(".json") for file_name in list_of_files
+    ]
+    return existing_object_nrs

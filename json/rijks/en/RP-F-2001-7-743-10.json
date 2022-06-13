@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-743-10",
+  "priref": "667273",
+  "objectNumber": "RP-F-2001-7-743-10",
+  "language": "en",
+  "title": "Gezicht op het restaurant Fossestuen bij de waterval Nedre Leirfoss bij Trondheim",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4df5b048-3fa6-4e11-bbc0-2dbd39b35b31",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1542,
+    "url": "https://lh3.googleusercontent.com/ygiz33GJBhOkysPY74DAzIIVG0mlPDduwax9FJLJGhrdICpEminOdhO2eOWczeY-C-O6OrRg13ewtoU1R0TK-CzNJm0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op het restaurant Fossestuen bij de waterval Nedre Leirfoss bij Trondheim",
+    "Fossestuen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "A. Holb\u00e6k-Eriksen",
+      "unFixedName": "Holb\u00e6k-Eriksen, A.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object A. Holb\u00e6k-Eriksen"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Wilhelm Dreesen",
+      "unFixedName": "Dreesen, Wilhelm",
+      "placeOfBirth": "Rendsburg",
+      "dateOfBirth": "1840-03-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1926-12-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Flensburg",
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Wilhelm Dreesen (31-mrt-1840 - 18-dec-1926)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wilhelm Dreesen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1896 - in or before 1897",
+    "sortingDate": 1896,
+    "period": 19,
+    "yearEarly": 1896,
+    "yearLate": 1897
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43B311",
+      "43B313"
+    ],
+    "iconClassDescription": [
+      "restaurant",
+      "pavement, terrace in front of inn or restaurant"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "S\u00f8r-Tr\u00f8ndelag"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-743-10"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Wilhelm Dreesen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "161"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "219"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Gezicht op het restaurant Fossestuen bij de waterval Nedre Leirfoss bij Trondheim, Wilhelm Dreesen, c. 1896 - in or before 1897",
+  "subTitle": "h 161mm \u00d7 w 219mm",
+  "scLabelLine": "Wilhelm Dreesen, c. 1896 - in or before 1897, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

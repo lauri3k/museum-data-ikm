@@ -1,0 +1,146 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2004-285-18",
+  "priref": "425645",
+  "objectNumber": "RP-F-2004-285-18",
+  "language": "en",
+  "title": "Parliament Library, Ottawa, Canada",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7461946a-0e46-4b1c-976b-3132485dd5e7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1984,
+    "height": 2760,
+    "url": "https://lh4.ggpht.com/VEp03USsXyQAfDyaJ91rpaiVkCl-dYnV0PVLGg-SGFmoG-ZwLtbOdLVoyJkKQi3wynGtZDBGZy_kr0ygXO3KBHocUPM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Parliament Library, Ottawa, Canada",
+    "Bibliotheek achter regeeringsgebouw te Ottawa Canada"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Wouter Cool",
+      "unFixedName": "Cool, Wouter",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1877-04-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1947-01-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "United States of America"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Wouter Cool (02-apr-1877 - 30-jan-1947), United States of America"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wouter Cool",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2004-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "United States of America"
+  ],
+  "dating": {
+    "presentingDate": "1936",
+    "sortingDate": 1936,
+    "period": 20,
+    "yearEarly": 1936,
+    "yearLate": 1936
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2004-285-18"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Wouter Cool",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "219"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "272"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Parliament Library, Ottawa, Canada, Wouter Cool (attributed to), 1936",
+  "subTitle": "h 219mm \u00d7 w 147mm",
+  "scLabelLine": "Wouter Cool, 1936, gelatin silver print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

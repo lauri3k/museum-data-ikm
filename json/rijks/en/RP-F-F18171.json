@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F18171",
+  "priref": "259055",
+  "objectNumber": "RP-F-F18171",
+  "language": "en",
+  "title": "Gezicht op Trondheim en de Nidelva",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4962cbd1-b33e-438a-abf6-5560f431ad00",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1890,
+    "url": "https://lh3.googleusercontent.com/kkTg8GpkScshKhvP0t_lUBi90zwVRfarJFHcO8Mb5FG0CVC4gZXkgmu-VKD4tcEOw7VZkWPCjlvyp16rEaTZ9Jhe-ah2JgrhmfLrUhVj=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Trondheim en de Nidelva",
+    "Trondhiem"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Rich. Andvord",
+      "unFixedName": "Andvord, Rich.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rich. Andvord"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1892",
+    "sortingDate": 1892,
+    "period": 19,
+    "yearEarly": 1892,
+    "yearLate": 1892
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1",
+      "25H213"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'",
+      "river"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Trondheim",
+      "Nidelva"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F18171"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "168"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "224"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "348"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "455"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op Trondheim en de Nidelva, anonymous, 1892",
+  "subTitle": "h 168mm \u00d7 w 224mm",
+  "scLabelLine": "anonymous, 1892, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

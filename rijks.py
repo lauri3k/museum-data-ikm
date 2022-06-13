@@ -1,4 +1,4 @@
-from typing import Optional, Tuple
+from typing import Optional, Tuple, overload
 import math
 import requests
 import asyncio
@@ -8,6 +8,7 @@ import httpx
 import pandas as pd
 from xml.etree import ElementTree as ET
 from datetime import datetime
+from utils import find_existing_files
 
 
 def get_key() -> str:
@@ -18,7 +19,7 @@ def get_key() -> str:
     # return os.getenv("RIJKSMUSEUM_API")
 
 
-def get(url: str, page_nr: Optional[int] = None):
+def get_page(url: str, page_nr: Optional[int] = None):
     if page_nr is not None:
         url += f"&p={page_nr}"
     res = requests.get(url)
@@ -30,55 +31,101 @@ def rijks_find_results(query: str, lang: str = "en"):
     key = get_key()
     n_results = 100
     url = f"https://www.rijksmuseum.nl/api/{lang}/collection?key={key}&ps={n_results}&q={query}"
-    first_page = get(url)
+    first_page = get_page(url)
     print(f"Found {first_page['count']} results.")
     n_pages = math.ceil(int(first_page["count"]) / n_results)
     art_objects = first_page["artObjects"]
     for n in range(2, n_pages + 1):
-        page = get(url, n)
+        page = get_page(url, n)
         art_objects.extend(page["artObjects"])
     return art_objects
 
 
-def rijks_find_object(id: str, lang="en"):
-    pass
+def rijks_find_results_full(query, lang="en", overwrite=False):
+    art_objects = rijks_find_results(query, lang)
+    # print(json.dumps(art_objects, indent=2))
+    object_nrs = [o["objectNumber"] for o in art_objects]
+    asyncio.run(fetch(object_nrs, overwrite=overwrite))
+
+
+def rijks_find_object(object_nr: str, lang="en"):
+    res = asyncio.run(find_object(object_nr, lang))
+    if res is not None:
+        art_object = res["artObject"]
+        write_to_file(art_object, lang)
+    return res
+
+
+async def find_object(object_nr, lang="en"):
+    async with httpx.AsyncClient(timeout=None) as client:
+        res = await get_object(object_nr, client, lang)[0]
+    if res.status_code == 200:
+        return res.json()
+    print(f"Could not find object with id: {object_nr}")
+    return None
 
 
 async def get_object(object_nr, client, lang="en"):
     url = f"https://www.rijksmuseum.nl/api/{lang}/collection/{object_nr}"
     key = get_key()
-    return await client.get(f"{url}?key={key}")
+    return (await client.get(f"{url}?key={key}"), object_nr)
 
 
-async def fetch():
+async def fetch_all():
+    df = pd.read_csv("rijks_harvest_complete_dataset.zip", sep=";")
+    object_nrs = df["identifier"].tolist()
+    await fetch(object_nrs)
+
+
+async def fetch(object_nrs, lang="en", overwrite=False):
+    out = []
+
+    if not overwrite:
+        prefix = f"./json/rijks/{lang}/"
+        existing_object_nrs = find_existing_files(prefix)
+        object_nrs = [x for x in object_nrs if x not in existing_object_nrs]
+
     async with httpx.AsyncClient(timeout=None) as client:
-        df = pd.read_csv("rijks_harvest_complete_dataset.csv", sep=",")
-        n = 5
-        list_df = [df[i : i + n] for i in range(0, df.shape[0], n)]
-        # list_df = [df[i : i + n] for i in range(0, 1, n)]
+        n = 10
+        wait_for_s = 30
 
-        for l in list_df:
-            start = time.time()
+        list_of_lists = [object_nrs[i : i + n] for i in range(0, len(object_nrs), n)]
+        # list_of_lists = [object_nrs[i : i + n] for i in range(0, 1000, n)]
+
+        failures = []
+
+        for count, list_of_ids in enumerate(list_of_lists):
             resps = await asyncio.gather(
-                *map(lambda x: get_object(x, client), l["identifier"]),
-                asyncio.sleep(10),
+                *map(lambda x: get_object(x, client), list_of_ids),
+                asyncio.sleep(1),
             )
             resps.pop()
             data = []
-            for res in resps:
+            limiter = False
+            for t in resps:
+                res, object_nr = t
                 if res is None:
                     print("This isn't supposed to happen.")
                 elif res.status_code == 200:
                     data.append(res.json())
                 else:
-                    print(res)
-                    print(res.content)
-
-            print(time.time() - start)
+                    failures.append(object_nr)
+                    if not limiter:
+                        print(f"Oops, hit rate limiter. Waiting {wait_for_s} seconds.")
+                        limiter = True
+                        time.sleep(wait_for_s)
 
             for res in data:
                 art_object = res["artObject"]
-                write_to_file(art_object)
+                write_to_file(art_object, lang)
+
+            print(f"Progress: {count + 1} / {len(list_of_lists)}")
+
+        if len(failures) > 0:
+            print(
+                f"Hit rate limiter with {len(failures)} objects! Fetching the skipped objects."
+            )
+            await fetch(failures, lang, overwrite)
 
 
 def write_to_file(art_object, lang="en"):
@@ -143,11 +190,8 @@ def run_harvest() -> None:
     print(f"{timestamp()} - All done!")
 
 
-async def main():
-    async with httpx.AsyncClient(timeout=None) as client:
-        await get_object("SK-C-5", client)
-
-
 if __name__ == "__main__":
     # asyncio.run(main())
-    pass
+    # rijks_find_object("SK-C-5", "en")
+    rijks_find_results_full("slave")
+    # asyncio.run(fetch_all())

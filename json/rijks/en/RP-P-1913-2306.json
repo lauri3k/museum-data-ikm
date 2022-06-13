@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1913-2306",
+  "priref": "159238",
+  "objectNumber": "RP-P-1913-2306",
+  "language": "en",
+  "title": "Sint-Franciscus Xavier verricht wonderen bij slaafgemaakten in een kustlandschap",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "482c38cb-209a-4f48-9b22-8116a2748d6a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1881,
+    "url": "https://lh3.googleusercontent.com/ILjgwNTNfzffM8xiAjAJhCAVd0hosZi9JXAmboDMF4i2U24JgdCAsja9M14PfyIQgI0qQH9gsmM1BRfpkovixQWubzcyPTzC6baJwlAr=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Sint-Franciscus Xavier verricht wonderen bij slaafgemaakten in een kustlandschap",
+    "St. Franciscus slaven bevrijdend"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Joseph Franck",
+      "unFixedName": "Franck, Joseph",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1825",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1883-01-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Joseph Franck (1825 - 31-jan-1883)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Auguste Numans",
+      "unFixedName": "Numans, Auguste",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1823-04-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1883",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Auguste Numans (22-apr-1823 - 1883)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Auguste Numans",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1913-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1833 - 1883",
+    "sortingDate": 1833,
+    "period": 19,
+    "yearEarly": 1833,
+    "yearLate": 1883
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A18",
+      "11H(FRANCIS XAVIER)51",
+      "25H13"
+    ],
+    "iconClassDescription": [
+      "slavery; serfs and the enslaved",
+      "St. Francis Xavier as missionary in the East Indies performing miracles",
+      "coast"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1913-2306"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Auguste Numans",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "430"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "571"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Sint-Franciscus Xavier verricht wonderen bij slaafgemaakten in een kustlandschap, Auguste Numans (attributed to), 1833 - 1883",
+  "subTitle": "h 430mm \u00d7 w 571mm",
+  "scLabelLine": "Auguste Numans, 1833 - 1883, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

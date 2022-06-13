@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2010-221-1824",
+  "priref": "538847",
+  "objectNumber": "RP-P-2010-221-1824",
+  "language": "en",
+  "title": "Straat in Oslo",
+  "copyrightHolder": "Auke de Vries",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Straat in Oslo"
+  ],
+  "description": "Straatgezicht bij nacht met meerdere figuren.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Auke de Vries",
+      "unFixedName": "Vries, Auke de",
+      "placeOfBirth": "Bergum",
+      "dateOfBirth": "1937-10-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Auke de Vries (27-okt-1937 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Auke de Vries",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "2008-12-01T00:00:00",
+    "creditLine": "Transfer Instituut Collectie Nederland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "printing ink"
+  ],
+  "techniques": [
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1963",
+    "sortingDate": 1963,
+    "period": 20,
+    "yearEarly": 1963,
+    "yearLate": 1963
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Oslo"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2010-221-1824"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Zie document ICN 'Overdracht Rijksprentenkabinet'"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Auke de Vries",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "258"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "331"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "278"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "380"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drypoint",
+  "longTitle": "Straat in Oslo, Auke de Vries, 1963",
+  "subTitle": "h 258mm \u00d7 w 331mm",
+  "scLabelLine": "Auke de Vries, 1963, drypoint",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

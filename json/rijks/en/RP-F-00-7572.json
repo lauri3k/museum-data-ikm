@@ -1,0 +1,128 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-7572",
+  "priref": "549334",
+  "objectNumber": "RP-F-00-7572",
+  "language": "en",
+  "title": "Portret van Irene, prinses der Nederlanden",
+  "copyrightHolder": "erven Bernhard (prins der Nederlanden)",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Irene, prinses der Nederlanden"
+  ],
+  "description": "Portret van Irene te Ottawa.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bernhard (prins der Nederlanden)",
+      "unFixedName": "Bernhard (prins der Nederlanden)",
+      "placeOfBirth": "Jena",
+      "dateOfBirth": "1911-06-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2004-12-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bernhard (prins der Nederlanden) (28-jun-1911 - 01-dec-2004), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bernhard (prins der Nederlanden)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2014-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1940",
+    "sortingDate": 1940,
+    "period": 20,
+    "yearEarly": 1940,
+    "yearLate": 1940
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ottawa"
+    ],
+    "people": [
+      "Irene (prinses der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "RP-F-00-7572"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Irene (prinses der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bernhard (prins der Nederlanden)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "photographic support",
+  "longTitle": "Portret van Irene, prinses der Nederlanden, Bernhard (prins der Nederlanden), 1940",
+  "subTitle": "h 105mm \u00d7 w 151mm",
+  "scLabelLine": "Bernhard (prins der Nederlanden), 1940, photographic support",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}
