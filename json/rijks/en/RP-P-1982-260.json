@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1982-260",
+  "priref": "161449",
+  "objectNumber": "RP-P-1982-260",
+  "language": "en",
+  "title": "De koning van Nineve doet boete",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d0f574c5-ee6b-42ab-8d0e-1e3e99a5e7dd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2328,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/U5en_bxxkEVegdW-Ycpn8pexPHViC_NLkXFBIkOYG03TKrBBKVi6C3reOkiDUrNfcBaekLTe3L7HpqSEEXndpnP2BAI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De koning van Nineve doet boete",
+    "Geschiedenis van Jona"
+  ],
+  "description": "De voorspelling van Jona heeft de koning van Nineve bereikt die, gehuld in een boetekleed, op de grond knielt. Hij roept zijn onderdanen op hun leven te beteren. De voorstelling is gevat in een cirkelvormige omlijsting met een Bijbelcitaat uit Jona in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philips Galle (1537 - 29-mrt-1612)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Crispijn van de Passe (I) (1564 - 1637), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1982-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1580 - 1588",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1588
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71V32"
+    ],
+    "iconClassDescription": [
+      "when the king of Nineveh hears about the destruction of the city in forty days, he rises from his throne and decrees a general repentance for man and animal: all men, cattle and sheep must fast, people must wear sackcloth and pray to God"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1982-260"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 29",
+    "29",
+    "Hollstein Dutch 152",
+    "152"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "101"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De koning van Nineve doet boete, Crispijn van de Passe (I), 1580 - 1588",
+  "subTitle": "h 101mm \u00d7 w 94mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1580 - 1588, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

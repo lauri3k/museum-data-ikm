@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2020-116",
+  "priref": "772421",
+  "objectNumber": "RP-P-2020-116",
+  "language": "en",
+  "title": "Allegorie op de vluchtigheid van de tijd",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7dfb30d7-314a-4955-b9e6-58f40b5678e6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1755,
+    "height": 2463,
+    "url": "https://lh3.googleusercontent.com/u7KVroHktp9si1Kq4lahRtcgayOjjjqUMT4zxPw6JJsXLOpb6hFSLCTmGSrIpfi0-t7qgI4jVPghNkQ1Fz2qSj__p2I_n0pTAbADbmFs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Allegorie op de vluchtigheid van de tijd",
+    "Fast immer auf diese Weise"
+  ],
+  "description": "De gevleugelde personificatie van de Tijd rent achter vlinders aan en probeert deze te vangen. Een vlinder draagt het jaartal 1812 op haar vleugel. Boven de Tijd in een boom zit een putto met een sikkel en een zandloper.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Joseph Bergler (II)",
+      "unFixedName": "Bergler, Joseph (II)",
+      "placeOfBirth": "Drievuldigheidskerk",
+      "dateOfBirth": "1753-05-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1829-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Praag",
+      "occupation": [
+        "painter",
+        "draughtsman",
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Bergler (II) (01-mei-1753 - 29-jun-1829)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joseph Bergler (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2020-07-09T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1812",
+    "sortingDate": 1812,
+    "period": 19,
+    "yearEarly": 1812,
+    "yearLate": 1812
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "23A1",
+      "23A44",
+      "23U22",
+      "11R51",
+      "43B151",
+      "25F711(BUTTERFLY)"
+    ],
+    "iconClassDescription": [
+      "Father Time, man with wings and scythe",
+      "fugacity of Time",
+      "hourglass",
+      "scenes symbolizing 'Vanitas'",
+      "hunting butterflies",
+      "insects: butterfly"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2020-116"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Heller-Andresen"
+  ],
+  "principalOrFirstMaker": "Joseph Bergler (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "255"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Allegorie op de vluchtigheid van de tijd, Joseph Bergler (II), 1812",
+  "subTitle": "h 255mm \u00d7 w 178mm",
+  "scLabelLine": "Joseph Bergler (II), 1812, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

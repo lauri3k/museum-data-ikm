@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-202",
+  "priref": "36140",
+  "objectNumber": "RP-P-OB-202",
+  "language": "en",
+  "title": "The Small Lion Hunt, with One Lion",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dd47709a-d97c-4bb1-8120-7d4e6d58a331",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2282,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/knLZexq7svm0mjledeOZRMU-ar4TaoFUuo84jMS7YV9ebT8l1XlF0lIAXkNnihcOwo8y2CzPL702FP8o_WH3gfquZA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 59,
+      "hex": "#DCD7CA"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B5AE9D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #413F34"
+    },
+    {
+      "percentage": 9,
+      "hex": " #686254"
+    },
+    {
+      "percentage": 7,
+      "hex": " #9A9386"
+    },
+    {
+      "percentage": 4,
+      "hex": " #857D6C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEFE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DCD7CA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B5AE9D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #413F34",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #686254",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A9386",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #857D6C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FEFEFE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 59,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 18,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "The small lion hunt (with one lion)"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1629",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43C111232"
+    ],
+    "iconClassDescription": [
+      "lion hunt"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-202"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 29",
+    "29",
+    "Bartsch 116",
+    "116",
+    "Hollstein Dutch 116",
+    "116"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "158"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "118"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "The Small Lion Hunt, with One Lion, Rembrandt van Rijn, c. 1629",
+  "subTitle": "h 158mm \u00d7 w 118mm",
+  "scLabelLine": "etching, c. 1629",
+  "label": {
+    "title": "The Small Lion Hunt, with One Lion",
+    "makerLine": "etching, c. 1629",
+    "description": "Hunting scenes are a popular theme in art. They feature not only in tapestries and paintings, but also in series of prints. Rembrandt, too, was fascinated by them. In these three etchings, he attempts to capture the excitement and chaos of such violent encounters between men and animals. He further intensifies the drama by means of stark contrasts of light and dark.",
+    "notes": "Geldt voor: RP-P-OB-200, RP-P-1962-56 en RP-P-OB-202",
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

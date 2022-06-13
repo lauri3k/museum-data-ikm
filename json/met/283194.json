@@ -44,19 +44,19 @@
   "dimensions": "Image: 13.2 x 18.3cm (5 3/16 x 7 3/16in.), oblong oval\r\nMat: 19.9 x 25.2 cm (7 13/16 x 9 15/16 in.)",
   "measurements": [
     {
-      "elementName": "Overall",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 13.2,
-        "Width": 18.3
-      }
-    },
-    {
       "elementName": "Mat",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 19.9,
         "Width": 25.2
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.2,
+        "Width": 18.3
       }
     }
   ],

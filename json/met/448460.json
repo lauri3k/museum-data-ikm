@@ -46,19 +46,19 @@
   "dimensions": "Page: H. 13 1/8 in. (33.3 cm)\r\n           W.  8 1/4 in. (21 cm)\r\nMat:  H. 19 1/4 in. (48.9 cm)\r\n         W. 14 1/4 in. (36.2 cm)",
   "measurements": [
     {
-      "elementName": "Mat",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 48.8951,
-        "Width": 36.195072
-      }
-    },
-    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 33.3,
         "Width": 21
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.8951,
+        "Width": 36.195072
       }
     }
   ],

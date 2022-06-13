@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4700",
+  "priref": "5435",
+  "objectNumber": "SK-A-4700",
+  "language": "en",
+  "title": "Portrait of Lizzy Ansingh",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cd9cfcb4-aa21-41db-b984-de6604eedb26",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 39,
+    "width": 2123,
+    "height": 2598,
+    "url": "https://lh3.googleusercontent.com/tFoBcdFIz54nsIWg9XSZCLtAI4bp5icVuW51W6LJ5Rb54gEYthp6EE8FaLeiI9bf_Wjd6OtRIPJythUdoUSj0Sfh6RQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#0D0C06"
+    },
+    {
+      "percentage": 26,
+      "hex": " #2D220D"
+    },
+    {
+      "percentage": 14,
+      "hex": " #5B3F20"
+    },
+    {
+      "percentage": 2,
+      "hex": " #AD8F6D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #7D6141"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8F7555"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0B08D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0D0C06",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #2D220D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5B3F20",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #AD8F6D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7D6141",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8F7555",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C0B08D",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 77,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Portrait of Lizzy Ansingh"
+  ],
+  "description": "Portret van de schilderes Lizzy (Maria Elisabeth Georgina) Ansingh (1875-1959). Ten halven lijve, met een zwarte hoed op het hoofd, zittend met de rechterelleboog geleund op de rug of arm van een stoel.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Th\u00e9r\u00e8se Schwartze",
+      "unFixedName": "Schwartze, Th\u00e9r\u00e8se",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1851-12-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1918-12-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Th\u00e9r\u00e8se Schwartze (20-dec-1851 - 23-dec-1918), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Th\u00e9r\u00e8se Schwartze",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1977-10-31T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1902",
+    "sortingDate": 1902,
+    "period": 20,
+    "yearEarly": 1902,
+    "yearLate": 1902
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2",
+      "48C513"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman",
+      "portrait, self-portrait of painter"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Ansingh, Lizzy"
+    ],
+    "objectNumbers": [
+      "SK-A-4700"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Ansingh, Lizzy"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Th\u00e9r\u00e8se Schwartze",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "78"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Lizzy Ansingh, Th\u00e9r\u00e8se Schwartze, 1902",
+  "subTitle": "h 78cm \u00d7 w 62cm \u00d7 d 9.5cm",
+  "scLabelLine": "Th\u00e9r\u00e8se Schwartze (1851\u20131918), oil on canvas, 1902",
+  "label": {
+    "title": "Portrait of Lizzy Ansingh",
+    "makerLine": "Th\u00e9r\u00e8se Schwartze (1851\u20131918), oil on canvas, 1902",
+    "description": "Lizzy Ansingh and Th\u00e9r\u00e8se Schwartze belonged to the Amsterdamse Joffers, a group of women painters active around 1900. Schwartze was the undisputed star and enjoyed great success with her fashionable society portraits. This informal likeness of her niece Lizzy Ansingh is one of her best. The contrast between light and dark convey intimacy, and the swift, vigorous brushstrokes and red accent on the bright green dress radiate power.",
+    "notes": null,
+    "date": "2013-02-04"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

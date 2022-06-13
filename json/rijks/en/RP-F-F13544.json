@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F13544",
+  "priref": "280694",
+  "objectNumber": "RP-F-F13544",
+  "language": "en",
+  "title": "Gezicht op de oostkant van Bad Reichenhall",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6c362a40-4e9c-4ba3-bf49-aeca47c8633b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1293,
+    "url": "https://lh5.ggpht.com/k0HrJfJtdrPvLDiMQk5CStZ9LyZEVj4y-nxr3h4hsREFxaLlaoUuTFUQkMxP1MCA_QbTzFXLFuCXY94Pa9B1dWl1iiA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de oostkant van Bad Reichenhall",
+    "Reichenhall (Ostseite)"
+  ],
+  "description": "Links is een mobiele donkere kamer te zien, hoogstwaarschijnlijk van de fotograaf die deze foto heeft genomen.",
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "E. Linde & Co. (Sophus Williams)",
+      "unFixedName": "E. Linde & Co. (Sophus Williams)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Berlin"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object E. Linde & Co. (Sophus Williams), Berlin"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "? Berlin"
+  ],
+  "dating": {
+    "presentingDate": "1868 - 1890",
+    "sortingDate": 1868,
+    "period": 19,
+    "yearEarly": 1868,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1",
+      "48CC6113"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'",
+      "dark room - CC - out of doors\n"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Bad Reichenhall"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F13544"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op de oostkant van Bad Reichenhall, anonymous, 1868 - 1890",
+  "subTitle": "h 87mm \u00d7 w 176mm",
+  "scLabelLine": "anonymous, 1868 - 1890, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

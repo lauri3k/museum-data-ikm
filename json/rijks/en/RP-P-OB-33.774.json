@@ -1,0 +1,196 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-33.774",
+  "priref": "197875",
+  "objectNumber": "RP-P-OB-33.774",
+  "language": "en",
+  "title": "Prediking van Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9ee90a93-50a5-4825-9471-eee1b136075d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1959,
+    "url": "https://lh3.googleusercontent.com/MGNgMcviQ492Y7Kp9iiuLnNgaYVzZ0zsTO_8ASROa7nth-UUUATAkYUZpa-Fu-Ub-LO4JGJ5IadYUtS9vdf2PyOCMi-CL6QtbWqTM58BZg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Prediking van Johannes de Doper",
+    "St. John Preaching in the Wilderness"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Wright",
+      "unFixedName": "Wright, John",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1745",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1820",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Wright (c. 1745 - 1820), London"
+    },
+    {
+      "name": "John Wright",
+      "unFixedName": "Wright, John",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1745",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1820",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Wright (c. 1745 - 1820)"
+    },
+    {
+      "name": "Marmaduke Tunstall",
+      "unFixedName": "Tunstall, Marmaduke",
+      "placeOfBirth": null,
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1790-10-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Marmaduke Tunstall (1743 - 11-okt-1790)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Wright",
+      "unFixedName": "Wright, John",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1745",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1820",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Wright (c. 1745 - 1820)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Wright",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1770",
+    "sortingDate": 1770,
+    "period": 18,
+    "yearEarly": 1770,
+    "yearLate": 1770
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C11"
+    ],
+    "iconClassDescription": [
+      "John the Baptist preaching (perhaps Christ among the bystanders)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-33.774"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Wright",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "430"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "503"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Prediking van Johannes de Doper, John Wright, 1770",
+  "subTitle": "h 430mm \u00d7 w 503mm",
+  "scLabelLine": "John Wright, 1770, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

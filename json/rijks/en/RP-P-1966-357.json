@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1966-357",
+  "priref": "137054",
+  "objectNumber": "RP-P-1966-357",
+  "language": "en",
+  "title": "Amelia verrast haar man William Booth en mevrouw Matthews",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "613e4cca-a678-40a1-a5b9-fb1cc667ed62",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1884,
+    "url": "https://lh3.googleusercontent.com/QxkhM5Q2_o-MSoI6HQqf3vp2GcScf2h_Y2kYE22MoGfbdJYMkQ2vx4zlT3EakkiaP_HGjbujUuUYBxuckaljREeJwjkzZs5zjNONjKpl8A=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Amelia verrast haar man William Booth en mevrouw Matthews",
+    "Amelia, Surprising her Husband and Miss Matthews as they are leaving the prison"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Robert Sayer",
+      "unFixedName": "Sayer, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1725",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1794-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Sayer (c. 1725 - feb-1794), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Laurie",
+      "unFixedName": "Laurie, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1755",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1836-05-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Broxbourne",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Laurie (1755 - 19-mei-1836)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Laurie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1966-01-01T00:00:00",
+    "creditLine": "Gift of M.D. Haga, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1790",
+    "sortingDate": 1790,
+    "period": 18,
+    "yearEarly": 1790,
+    "yearLate": 1790
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42D30",
+      "42D351",
+      "44G311"
+    ],
+    "iconClassDescription": [
+      "'Castit\u00c3\u00a0 matrimoniale', 'Fede maritale', 'Matrimonio' (Ripa)",
+      "man and wife quarrelling, 'Marriage \u00c3\u00a0 la mode'",
+      "prison, jail"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1966-357"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Laurie",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "414"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "516"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Amelia verrast haar man William Booth en mevrouw Matthews, Robert Laurie, 1790",
+  "subTitle": "h 414mm \u00d7 w 516mm",
+  "scLabelLine": "Robert Laurie, 1790, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

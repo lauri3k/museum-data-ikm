@@ -45,18 +45,18 @@
   "dimensions": "Necklace:\r\n  Circ. 15 3/4 in. (40 cm)\r\n  Wt. 3.5 oz. (100 g)\r\nEach bead:\r\n  Diam. 1/2 in. (1.3 cm)",
   "measurements": [
     {
+      "elementName": "Other",
+      "elementDescription": "Each bead",
+      "elementMeasurements": {
+        "Diameter": 1.2700025
+      }
+    },
+    {
       "elementName": "Overall",
       "elementDescription": "Necklace",
       "elementMeasurements": {
         "Circumference": 40,
         "Weight": 0.1
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": "Each bead",
-      "elementMeasurements": {
-        "Diameter": 1.2700025
       }
     }
   ],

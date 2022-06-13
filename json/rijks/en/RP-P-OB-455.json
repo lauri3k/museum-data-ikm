@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-455",
+  "priref": "36494",
+  "objectNumber": "RP-P-OB-455",
+  "language": "en",
+  "title": "Clump of Trees with a Vista",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4d29ea3e-5d2d-48d4-abc8-7936994c5f3f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1815,
+    "url": "https://lh6.ggpht.com/WVZ6dn78eay8EyJN36yxzERjY7WtYsicnxIhT4QmpbGUGWUcpOMTnoJxy9Y7uOFu6RYdO3I0-YqWJmzS9IWVG8B0rJ5O=s0"
+  },
+  "colors": [
+    {
+      "percentage": 56,
+      "hex": "#CFCBBA"
+    },
+    {
+      "percentage": 9,
+      "hex": " #3D3C35"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F3F3EF"
+    },
+    {
+      "percentage": 7,
+      "hex": " #706E60"
+    },
+    {
+      "percentage": 6,
+      "hex": " #55554A"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8F8C7E"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B0AC9B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CFCBBA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3D3C35",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F3F3EF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #706E60",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #55554A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8F8C7E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B0AC9B",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 56,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Clump of trees with a vista"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1652",
+    "sortingDate": 1652,
+    "period": 17,
+    "yearEarly": 1652,
+    "yearLate": 1652
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-455"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 272",
+    "272",
+    "Bartsch 222",
+    "222",
+    "Hollstein Dutch 222",
+    "222"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drypoint",
+  "longTitle": "Clump of Trees with a Vista, Rembrandt van Rijn, 1652",
+  "subTitle": "h 124mm \u00d7 w 210mm",
+  "scLabelLine": "drypoint, 1652",
+  "label": {
+    "title": "Clump of Trees with a Vista",
+    "makerLine": "drypoint, 1652",
+    "description": "To date, the location of this cottage remains unknown. Rembrandt came here regularly to draw or etch the house hidden in the wood. Here he used drypoint, scratching directly into the etching plate. This creates a burr, a raised ridge that yields a velvety line when the print is pulled. It mirrors the effect of a sketchy drawing with a subtle interplay of light and dark.",
+    "notes": null,
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

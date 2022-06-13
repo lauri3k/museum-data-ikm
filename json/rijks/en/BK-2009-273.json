@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2009-273",
+  "priref": "482247",
+  "objectNumber": "BK-2009-273",
+  "language": "en",
+  "title": "Rebecca at the Well and the Meeting of Rebecca and Isaac",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "36ef7769-9c5d-4850-a3a4-af93ab58bd5b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1024,
+    "height": 952,
+    "url": "https://lh3.ggpht.com/AmWVBoosBRsnDIFCRWd7jMqUkefRG0haxTCjHhXMv0ttI_g8v8Mk5U8eioJ0jM3xRmVsaFjyVErf9Ajo4XS8hd1OwQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#535049"
+    },
+    {
+      "percentage": 36,
+      "hex": " #78756E"
+    },
+    {
+      "percentage": 18,
+      "hex": " #9A9892"
+    },
+    {
+      "percentage": 35,
+      "hex": " #B7B7B4"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D6D5D3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F1F1EE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#535049",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #78756E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A9892",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B7B7B4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #D6D5D3",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #F1F1EE",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 35,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 18,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 35,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Rebecca en Eli\u00ebzer bij de bron van Nachor, met randschrift. Keerzijde: het huwelijk van Rebecca en Isa\u00e4c, met randschrift. Op beide zijden het monogram IOAL F.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Lutma (1624-1689)",
+      "unFixedName": "Lutma, Johannes (1624-1689)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1624-09-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1689-11-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Lutma (1624-1689) (01-sep-1624 - 11-nov-1689), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Lutma (1624-1689)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2009-11-24T00:00:00",
+    "creditLine": "Gift of H.B. van der Ven, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [
+    "casting"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1654",
+    "sortingDate": 1654,
+    "period": 17,
+    "yearEarly": 1654,
+    "yearLate": 1654
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71C217",
+      "71C213"
+    ],
+    "iconClassDescription": [
+      "marriage of Isaac and Rebekah",
+      "the meeting at the well: Eliezer sees Rebekah coming with a pitcher"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2009-273"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Lutma (1624-1689)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    },
+    {
+      "unit": null,
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "93.28"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "casting",
+  "longTitle": "Rebecca at the Well and the Meeting of Rebecca and Isaac, Johannes Lutma (1624-1689), c. 1654",
+  "subTitle": "d 7.5cm \u00d7 w 93.28",
+  "scLabelLine": "Johannes Lutma II (1624\u20131689), Amsterdam, c. 1654, silver",
+  "label": {
+    "title": "Rebecca at the Well and the Meeting of Rebecca and Isaac",
+    "makerLine": "Johannes Lutma II (1624\u20131689), Amsterdam, c. 1654, silver",
+    "description": "Lutma was famous for his history scenes in silver, which could rival painted images. He suggested figures emerging out of the dark by partially roughening the surface. The scenes represented here are metaphors for marriage. The image of Rebecca at the well stood for a wife\u2019s obedience to her husband. In the meeting of Rebecca and Isaac, she symbolizes conjugal bliss.",
+    "notes": null,
+    "date": "2019-02-13"
+  },
+  "showImage": true,
+  "location": "HG-2.8"
+}

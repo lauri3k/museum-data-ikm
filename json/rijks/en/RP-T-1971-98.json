@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1971-98",
+  "priref": "243532",
+  "objectNumber": "RP-T-1971-98",
+  "language": "en",
+  "title": "Three Flamingos near a Basin",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8d374f11-c5e3-41d6-9ddf-a4962b63a271",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 5249,
+    "height": 7361,
+    "url": "https://lh3.googleusercontent.com/GfvdTZb_e8ND3LiPIdx0RVpzrptIuc8uKhYKrD_pPvjKRPDLpRZQFJZaO0zI5iQwckj1191mjzAHgj9XpaZiSw9FS5o=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Three Flamingos near a Basin"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "August Alleb\u00e9",
+      "unFixedName": "Alleb\u00e9, August",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1838-04-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1927-01-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "August Alleb\u00e9 (19-apr-1838 - 10-jan-1927)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "August Alleb\u00e9",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1971-11-23T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1872",
+    "sortingDate": 1872,
+    "period": 19,
+    "yearEarly": 1872,
+    "yearLate": 1872
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F37(FLAMINGO)"
+    ],
+    "iconClassDescription": [
+      "shore-birds and wading-birds: flamingo"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1971-98"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "August Alleb\u00e9",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "495"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "343"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Three Flamingos near a Basin, August Alleb\u00e9, 1872",
+  "subTitle": "h 495mm \u00d7 w 343mm",
+  "scLabelLine": "August Alleb\u00e9 (1838-1927), watercolour, 1872",
+  "label": {
+    "title": "Three Flamingos near a Basin",
+    "makerLine": "August Alleb\u00e9 (1838-1927), watercolour, 1872",
+    "description": "August Alleb\u00e9 produced this worked-up drawing on the basis of sketches he had made on the spot in the zoo. He used a surprising palette of bright and natural colours. In his early work he favoured dark brown and red tints. Perhaps this change was brought about by all of the drawing he did out of doors.",
+    "notes": null,
+    "date": "2016-10-12"
+  },
+  "showImage": true,
+  "location": null
+}

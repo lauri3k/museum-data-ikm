@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-55",
+  "priref": "650235",
+  "objectNumber": "RP-P-2017-55",
+  "language": "en",
+  "title": "Franse open haarden en kachels",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "403b2599-cb57-40cc-8766-d8586d1d1c9a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1839,
+    "url": "https://lh3.googleusercontent.com/dbRkB2m474KoMpz6OoL-HWcSvsAuIHrQV0MhT_qQXKr2mvun1t723hjPdUiIl2OasDkxGIcPg7qUS-tbAcnLLZCSWDID_v5mqp2OX6g=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Franse open haarden en kachels"
+  ],
+  "description": "Afgebeeld zijn complete open haarden en kachels, onderdelen daarvan en decoratieve elementen van de Franse fabrikant Laury. De delen zijn genummerd.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gebroeders van Lier",
+      "unFixedName": "Lier, Gebroeders van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gebroeders van Lier, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Henry (prentmaker)",
+      "unFixedName": "Henry (prentmaker)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "Henry (prentmaker), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Henry (prentmaker)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2017-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris",
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1844",
+    "sortingDate": 1844,
+    "period": 19,
+    "yearEarly": 1844,
+    "yearLate": 1844
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41B21",
+      "41B241"
+    ],
+    "iconClassDescription": [
+      "open hearth, fire-place",
+      "radiator (central heating)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2017-55"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Henry (prentmaker)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "485"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "670"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Franse open haarden en kachels, Henry (prentmaker), 1844",
+  "subTitle": "h 485mm \u00d7 w 670mm",
+  "scLabelLine": "Henry (prentmaker), 1844, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-1955",
+  "priref": "127458",
+  "objectNumber": "RP-P-1908-1955",
+  "language": "en",
+  "title": "Grafmonument van Remigius du Laury",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a6f1a155-6751-4ea0-8546-7b4ad7b8672f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1738,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/BjpFptepRCsyB_N6FlIa_5nL4LeHPmdPdpr1zCAWccf5WBgCjxFi1fudgsXT33EfBvI77-IM1p-CJ_8Z80RVDDXPXxhE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Grafmonument van Remigius du Laury"
+  ],
+  "description": "Het grafmonument van Remigius du Laury. Op een verhoging staat een tombe voor twee geornamenteerde deuren met acanthusbladeren en putti. Aan weerszijden balusters en twee personificaties met een kruis en de pauselijke tiara. Daarboven flankeren twee rookvaten een buste van de overledene. Putti met lauwerkransen, palmtakken en een kruis omringen de buste. Aan de onderzijde een bovenaanzicht van het monument met een negenregelige Latijnse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Franz Ertinger",
+      "unFixedName": "Ertinger, Franz",
+      "placeOfBirth": "Weil of Colmar",
+      "dateOfBirth": "1640",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Franz Ertinger (1640 - c. ....), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Franz Ertinger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1679",
+    "sortingDate": 1679,
+    "period": 17,
+    "yearEarly": 1679,
+    "yearLate": 1679
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E35",
+      "61"
+    ],
+    "iconClassDescription": [
+      "grave-building, monumental tomb",
+      "historische gebeurtenissen en situaties; historische personen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1908-1955"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Franz Ertinger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "391"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "262"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Grafmonument van Remigius du Laury, Franz Ertinger, 1679",
+  "subTitle": "h 391mm \u00d7 w 262mm",
+  "scLabelLine": "Franz Ertinger, 1679, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

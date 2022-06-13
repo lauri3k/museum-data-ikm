@@ -1,0 +1,281 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-H-1234",
+  "priref": "167777",
+  "objectNumber": "RP-P-H-H-1234",
+  "language": "en",
+  "title": "Natan voorspelt de dood van Davids zoon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5e737a93-1f55-4a72-9d81-d6c2ce012060",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 6191,
+    "height": 4864,
+    "url": "https://lh5.ggpht.com/RxfA6X0z9lmBMhGntapJYpAzezyYlKUYg54N9tyVpDkpKmqM-_2yIvQtTqAJsK448yxC5IhkF97gOK1b47CWh-HnkK4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#EDE9DC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #BAB5A3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #94917F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #6F6E5C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #1E2014"
+    },
+    {
+      "percentage": 21,
+      "hex": " #464638"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDE9DC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BAB5A3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #94917F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6F6E5C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #1E2014",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #464638",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 33,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 25,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 21,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Natan voorspelt de dood van Davids zoon",
+    "Geschiedenis van David"
+  ],
+  "description": "Natan vertelt koning David dat hij gestraft zal worden voor zijn zonden: God zal zijn eerstgeboren zoon doden. Uit verdriet en berouw knielt David neer op de grond. De prent heeft een Latijns onderschrift met uitleg en rechts in de hoek een vers uit psalm 50.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johann Sadeler (I)",
+      "unFixedName": "Sadeler, Johann (I)",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1600-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Sadeler (I) (1550 - aug-1600)"
+    },
+    {
+      "name": "Johann Sadeler (I)",
+      "unFixedName": "Sadeler, Johann (I)",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1600-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "unknown"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Sadeler (I) (1550 - aug-1600), unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Aegidius Sadeler (II)",
+      "unFixedName": "Sadeler, Aegidius (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1568-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1629",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Praag",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "unknown"
+      ],
+      "qualification": null,
+      "labelDesc": "Aegidius Sadeler (II) (jul-1568 - 1629), unknown"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aegidius Sadeler (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "unknown",
+    "Antwerp",
+    "unknown"
+  ],
+  "dating": {
+    "presentingDate": "1580 - 1596",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1596
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71H77",
+      "71H772"
+    ],
+    "iconClassDescription": [
+      "David punished",
+      "David repentant; he lies on the ground praying and fasting for his child to recover"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-H-1234"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 9",
+    "9",
+    "Hollstein Dutch 105",
+    "105"
+  ],
+  "principalOrFirstMaker": "Aegidius Sadeler (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "202"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "255"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Natan voorspelt de dood van Davids zoon, Aegidius Sadeler (II), 1580 - 1596",
+  "subTitle": "h 202mm \u00d7 w 255mm",
+  "scLabelLine": "Aegidius Sadeler (II), 1580 - 1596, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

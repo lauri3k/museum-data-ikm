@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-234",
+  "priref": "36257",
+  "objectNumber": "RP-P-OB-234",
+  "language": "en",
+  "title": "Student at a Table by the Light of an Oil Lamp",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f8a007b3-5e3c-474c-af17-2dc9290c5298",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2702,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/DnCAzgcG9scAEKZHUQ4tU2Rq5caAjRYO_R3H3PqYSP9pd_7O3O1-J7l0rpZtWoFgUJ_6gWECgQo2OR4QMyPQ3hS1vKY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FEFEFE"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E5E5DF"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C6C4B3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #9D9C8C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #767667"
+    },
+    {
+      "percentage": 84,
+      "hex": " #494A42"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FEFEFE",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #E5E5DF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C6C4B3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9D9C8C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #767667",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #494A42",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 84,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Student at a table by candlelight"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1642",
+    "sortingDate": 1642,
+    "period": 17,
+    "yearEarly": 1642,
+    "yearLate": 1642
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-234"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 213",
+    "213",
+    "Bartsch 148",
+    "148",
+    "Hollstein Dutch 148",
+    "148"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "146"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Student at a Table by the Light of an Oil Lamp, Rembrandt van Rijn, c. 1642",
+  "subTitle": "h 146mm \u00d7 w 133mm",
+  "scLabelLine": "etching, c. 1642",
+  "label": {
+    "title": "Student at a Table by the Light of an Oil Lamp",
+    "makerLine": "etching, c. 1642",
+    "description": "The man in the dark room is barely visible. He is studying by the light of an oil lamp. Resting his forehead on his hand, he seems to be reflecting on what he has just read. Rembrandt achieved this powerful contrast of light and dark by scratching crosshatched lines in the copperplate. He never again made such a dark print.",
+    "notes": null,
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

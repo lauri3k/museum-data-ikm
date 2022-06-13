@@ -1,0 +1,223 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2637",
+  "priref": "7893",
+  "objectNumber": "SK-A-2637",
+  "language": "en",
+  "title": "Portraits of Surinamese Girls",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "707958d6-0cef-4c3e-a5a5-97435a5be358",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1889,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/TxtIj75QVlnfaiAM7UVeNkQOYNpRoznt6DF2E1D87TLryBr3U2-LSjkitYFvkOwLzFM_fgAQHZrYGTR2W_Tn6QJAFg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#C8C1B2"
+    },
+    {
+      "percentage": 24,
+      "hex": " #9F937D"
+    },
+    {
+      "percentage": 14,
+      "hex": " #6F6860"
+    },
+    {
+      "percentage": 9,
+      "hex": " #594F40"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0DCD4"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2B2418"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F9F8F3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C8C1B2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9F937D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6F6860",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #594F40",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E0DCD4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #2B2418",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F9F8F3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 24,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Portret van een Surinaams meisje. Buste, naar links, de beschouwer aanziend. Onderdeel van de collectie portretminiaturen.",
+  "labelText": null,
+  "objectTypes": [
+    "miniature (painting)"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1912-09-13T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "ivory",
+    "paint (coating)",
+    "wood (plant material)",
+    "metal",
+    "gilding (material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1805",
+    "sortingDate": 1805,
+    "period": 19,
+    "yearEarly": 1805,
+    "yearLate": 1805
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Suriname"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2637"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "5.9"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "4.8"
+    },
+    {
+      "unit": "cm",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "24.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "ivory",
+  "longTitle": "Portraits of Surinamese Girls, anonymous, c. 1805",
+  "subTitle": "h 5.9cm \u00d7 w 4.8cm \u00d7 w 24.9cm",
+  "scLabelLine": "ivory, paint, giltwood, metal, c. 1805",
+  "label": {
+    "title": "Portraits of Surinamese Girls",
+    "makerLine": "ivory, paint, giltwood, metal, c. 1805",
+    "description": "These girls were most likely the daughters of a white man and a black woman. Cohabitation between white men and black domestic slaves was a frequent occurrence in Suriname. Their children were called \u2018mulattos\u2019. There were specific appellations for every shade of skin colour, and people were labelled as mulattos, mestizos, castizos, and poesties. In Surinamese society, a lighter skin colour conferred a higher status.",
+    "notes": null,
+    "date": "2017-08-31"
+  },
+  "showImage": true,
+  "location": "HG-1.17"
+}

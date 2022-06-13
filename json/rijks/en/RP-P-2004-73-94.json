@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2004-73-94",
+  "priref": "425490",
+  "objectNumber": "RP-P-2004-73-94",
+  "language": "en",
+  "title": "Portret van Filippo Lauri",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Filippo Lauri",
+    "Philippe Lauri"
+  ],
+  "description": "Prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "De Bure l'a\u00een\u00e9",
+      "unFixedName": "De Bure l'a\u00een\u00e9",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "De Bure l'a\u00een\u00e9, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2004-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1745",
+    "sortingDate": 1745,
+    "period": 18,
+    "yearEarly": 1745,
+    "yearLate": 1745
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "48C513"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "portrait, self-portrait of painter"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Lauri, Filippo"
+    ],
+    "objectNumbers": [
+      "RP-P-2004-73-94"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Lauri, Filippo"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Portret van Filippo Lauri, anonymous, 1745",
+  "subTitle": "h 115mm \u00d7 w 85mm",
+  "scLabelLine": "anonymous, 1745, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

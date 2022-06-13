@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1931-185(R)",
+  "priref": "29564",
+  "objectNumber": "RP-T-1931-185(R)",
+  "language": "en",
+  "title": "Sunken Path through an Evergreen Forest",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5e03e1ba-25c1-4a09-82c6-f47ac701114d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1888,
+    "url": "https://lh3.googleusercontent.com/mfqy1bK4AthJBoYpTdLxpxAzY12sqOd_6y7vwNpZZHrIpC9zfkLwTSWESDk8O72WWb1nKZKCLRt7CqRAwngorPypl-M=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Paulus Willemsz. van Vianen",
+      "unFixedName": "Vianen, Paulus Willemsz. van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1570",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1614",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Praag",
+      "occupation": [
+        "draughtsman",
+        "jeweler"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Paulus Willemsz. van Vianen (c. 1570 - c. 1614)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Paulus Willemsz. van Vianen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1931-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1603",
+    "sortingDate": 1603,
+    "period": 17,
+    "yearEarly": 1603,
+    "yearLate": 1603
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H15"
+    ],
+    "iconClassDescription": [
+      "forest, wood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1931-185(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Paulus Willemsz. van Vianen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "148"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "198"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Sunken Path through an Evergreen Forest, Paulus Willemsz. van Vianen, 1603",
+  "subTitle": "h 148mm \u00d7 w 198mm",
+  "scLabelLine": "Paulus Willemsz van Vianen (c. 1570-1613), pen and grey ink, brush and grey wash, c. 1603",
+  "label": {
+    "title": "Sunken Path through an Evergreen Forest",
+    "makerLine": "Paulus Willemsz van Vianen (c. 1570-1613), pen and grey ink, brush and grey wash, c. 1603",
+    "description": "During the years 1601-1603 Paulus van Vianen worked as Hofgoldschmied (court goldsmith) for the Archbishop of Salzburg. Nothing is known about his metalwork in this period. However, several drawings that were probably made in the vicinity of Salzburg have been preserved. By silhouetting the dark tree trunks in the foreground in contre-jour (against the light), Van Vianen lent this small woodland view a great sense of depth.",
+    "notes": null,
+    "date": "2014-02-03"
+  },
+  "showImage": true,
+  "location": null
+}

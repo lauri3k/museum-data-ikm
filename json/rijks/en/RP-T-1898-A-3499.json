@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1898-A-3499",
+  "priref": "52152",
+  "objectNumber": "RP-T-1898-A-3499",
+  "language": "en",
+  "title": "Bouquet of Flowers",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4a965b1a-f317-4561-b9a8-3d696b01a7e6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1702,
+    "height": 2201,
+    "url": "https://lh3.googleusercontent.com/LPQrzWZo7hSkWI4slhH_WbqB1MdlK0xqT3_K2f5_aZ8wpxVz5hbrAu7lDOfQcawMc-chpt36q2O2LU3OBccmEULmlQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bouquet of Flowers"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1898-04-01T00:00:00",
+    "creditLine": "Gift of A.H. Beels van Heemstede-van Loon"
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)",
+    "deck paint",
+    "watercolor (paint)",
+    "gouache (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1680",
+    "sortingDate": 1680,
+    "period": 17,
+    "yearEarly": 1680,
+    "yearLate": 1680
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G411",
+      "41A671"
+    ],
+    "iconClassDescription": [
+      "cut flowers; nosegay, bunch of flowers",
+      "still life of plants, flowers and fruit"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1898-A-3499"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "300"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "230"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "parchment (animal material)",
+  "longTitle": "Bouquet of Flowers, anonymous, 1680",
+  "subTitle": "h 300mm \u00d7 w 230mm",
+  "scLabelLine": "Northern Netherlands, 1680, gouache and body colour on parchment",
+  "label": {
+    "title": "Bouquet of Flowers",
+    "makerLine": "Northern Netherlands, 1680, gouache and body colour on parchment",
+    "description": "This exquisitely rendered ensemble looks like a just picked field bouquet, but it combines flowers found in the wild, like the violet and the cornflower, with cultivated exotic species, like the red woolflower (Celosia) at the upper right. They do not all bloom at the same time. The blue and white morning glory blossoms in the spring, and the dark purple field scabious only from August.",
+    "notes": null,
+    "date": "2015-05-16"
+  },
+  "showImage": true,
+  "location": null
+}

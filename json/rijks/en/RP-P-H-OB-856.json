@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-OB-856",
+  "priref": "37293",
+  "objectNumber": "RP-P-H-OB-856",
+  "language": "en",
+  "title": "The Entrance Gate of the Ruins of Brederode Castle",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "150307ca-84be-4aaa-bd52-21e9abe5c6b8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1094,
+    "height": 1500,
+    "url": "https://lh3.ggpht.com/-kGZAyACZGa_TdhYiFZIQeFgyJMp3oGN6yD0MPdf-afoX0AFimYKg9nXHxuzmlkewDvyzI9zLWy4bEJQsz3dYtbUDVk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#4F4F45"
+    },
+    {
+      "percentage": 26,
+      "hex": " #6C6B5D"
+    },
+    {
+      "percentage": 19,
+      "hex": " #838171"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F4F1DC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #9A9883"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D0CAB5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B5AF98"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4F4F45",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6C6B5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #838171",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F4F1DC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9A9883",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D0CAB5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B5AF98",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "The Entrance Gate of the Ruins of Brederode Castle from the East"
+  ],
+  "description": "Doorkijk door de half ingestorte poort van de ru\u00efne van kasteel Brederode bij Haarlem.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hercules Segers",
+      "unFixedName": "Segers, Hercules",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1640",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hercules Segers (c. 1590 - c. 1640), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hercules Segers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "linen (material)",
+    "paint (coating)"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "? Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1618 - c. 1622",
+    "sortingDate": 1618,
+    "period": 17,
+    "yearEarly": 1618,
+    "yearLate": 1622
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A12",
+      "41A542",
+      "48C149"
+    ],
+    "iconClassDescription": [
+      "castle",
+      "gate, entrance",
+      "ruin of a building ~ architecture"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ru\u00efne van Kasteel Brederode"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-OB-856"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 40",
+    "40",
+    "Leeflang 40",
+    "40",
+    "Haverkamp-Begemann 40",
+    "40"
+  ],
+  "principalOrFirstMaker": "Hercules Segers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "185"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "123"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "line etching, counterproof (probably), printed in black on linen prepared with a grey, lead-based ground, highlighted with yellowish-white oil paint, coloured with transparent paint in light and dark grey",
+  "longTitle": "The Entrance Gate of the Ruins of Brederode Castle, Hercules Segers, c. 1618 - c. 1622",
+  "subTitle": "h c.185mm \u00d7 w c.123mm",
+  "scLabelLine": "counterproof (?) of a line etching, on linen with a grey ground, coloured with the brush, unique impression, c. 1618\u20131622",
+  "label": {
+    "title": "The Entrance Gate of the Ruins of Brederode Castle",
+    "makerLine": "counterproof (?) of a line etching, on linen with a grey ground, coloured with the brush, unique impression, c. 1618\u20131622",
+    "description": "Segers depicted Brederode Castle\u2019s east gate meticulously and close-up. He accentuated various architectural elements with light and dark grey paint and the highlights with yellowish white oil paint.",
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

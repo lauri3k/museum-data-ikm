@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1962-28",
+  "priref": "35851",
+  "objectNumber": "RP-P-1962-28",
+  "language": "en",
+  "title": "The presentation in the temple in the dark manner",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "956164ab-84ab-4bd5-a3bf-e3bbcc667ad7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2323,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/Eaw2htzBVgztMeEIKRNbGDQ1feKGfcuX8zrkyIn4XQpLta53fco08QBMe9vKAtZCer9AzPuN_pSzIe4vcxeMVFp_S80=s0"
+  },
+  "colors": [
+    {
+      "percentage": 57,
+      "hex": "#4A4942"
+    },
+    {
+      "percentage": 13,
+      "hex": " #303029"
+    },
+    {
+      "percentage": 11,
+      "hex": " #706D63"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F3F3F1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #979489"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D1CEC3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B2AEA2"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4A4942",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #303029",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #706D63",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F3F3F1",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #979489",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D1CEC3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B2AEA2",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 69,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "The presentation in the temple in the dark manner"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1962-01-01T00:00:00",
+    "creditLine": "Mr and Mrs De Bruijn-van der Leeuw Bequest, Muri, Switzerland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1654",
+    "sortingDate": 1654,
+    "period": 17,
+    "yearEarly": 1654,
+    "yearLate": 1654
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73B42"
+    ],
+    "iconClassDescription": [
+      "Simeon, holding the Christ-child, sings his canticle: 'Nunc dimittis'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1962-28"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 285",
+    "285",
+    "Bartsch 50",
+    "50",
+    "Hollstein Dutch 50",
+    "50"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "161"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "The presentation in the temple in the dark manner, Rembrandt van Rijn, c. 1654",
+  "subTitle": "h 210mm \u00d7 w 161mm",
+  "scLabelLine": "Rembrandt van Rijn, c. 1654, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

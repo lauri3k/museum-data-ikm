@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-861",
+  "priref": "1486",
+  "objectNumber": "AK-MAK-861",
+  "language": "en",
+  "title": "Tea bowl",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c751e56b-85ec-4b82-98d0-360c86a7e3e4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/PlceTo-XjUH9ScQcBqzt3_6LxkxxTXypPKQmml8I6Fvcr9h8aqATjRcD33lfZMo0NESjQVZoDBb--D2jyDCksYSdKa0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Tea bowl with flames"
+  ],
+  "description": "Theekom van steengoed, gedeeltelijk bedekt met een zwart glazuur. Op de buitenwand zijn drie vlammotieven uitgespaard in het glazuur. Het onderste deel van de kom is ongeglazuurd. Gemerkt op de onderzijde: \u697d 'raku'. Raku (zwart).",
+  "labelText": null,
+  "objectTypes": [
+    "bowl"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Kyoto"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Kyoto"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan",
+    "Kyoto"
+  ],
+  "dating": {
+    "presentingDate": "c. 1775 - c. 1825",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1825
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-861"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "9.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Tea bowl, anonymous, anonymous, c. 1775 - c. 1825",
+  "subTitle": "h 10.2cm \u00d7 d 9.1cm",
+  "scLabelLine": "Japan, Kyoto, c. 1775\u20131825, Raku ware",
+  "label": {
+    "title": "Tea bowl",
+    "makerLine": "Japan, Kyoto, c. 1775\u20131825, Raku ware",
+    "description": "Most Raku ware is glazed in a single colour. The pleasure of these bowls lies in unforeseen details and in the tactile quality of their thick, irregular glaze. Some bowls have contrasting decorations (where the dark glaze was scraped off). Here, for instance, the ornament takes the form of flaming pearls, a symbol of wisdom and insight",
+    "notes": null,
+    "date": "2013-03-28"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,148 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-31.274",
+  "priref": "51245",
+  "objectNumber": "RP-P-OB-31.274",
+  "language": "en",
+  "title": "The Descent from the Cross",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2ce0aa80-0d6b-4700-a9a6-e71ed433dbd0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1925,
+    "height": 2471,
+    "url": "https://lh3.googleusercontent.com/CXb7cNQRaqizbca8u1xlga2ZG20s0_7Tf-6w08MO5bcoC1N6SNFnFk-u2ShX35VZy0UccvPGv-Ioistiaw05-VClfdT4oBsQOvpdFmk5=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Het lichaam van Christus wordt van het kruis gehaald. Onderaan het kruis is Maria flauwgevallen. Op de achtergrond een landschap.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ugo da Carpi",
+      "unFixedName": "Carpi, Ugo da",
+      "placeOfBirth": "Carpi",
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "painter",
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ugo da Carpi, Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ugo da Carpi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "c. 1518",
+    "sortingDate": 1518,
+    "period": 16,
+    "yearEarly": 1518,
+    "yearLate": 1518
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D711",
+      "25I"
+    ],
+    "iconClassDescription": [
+      "Christ is taken down from the cross (one arm of Christ still nailed to the cross)",
+      "stadsgezichten en landschappen met bouwsels van mensen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-31.274"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Johnson 9",
+    "9",
+    "The Illustrated Bartsch 22",
+    "22",
+    "Bartsch 22",
+    "22"
+  ],
+  "principalOrFirstMaker": "Ugo da Carpi",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "337"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "282"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "The Descent from the Cross, Ugo da Carpi, c. 1518",
+  "subTitle": "h 337mm \u00d7 w 282mm",
+  "scLabelLine": "The Descent from the Cross, Ugo da Carpi (1450-1525), after Raphael (1483-1520), chiaroscuro woodcut printed in black and two shades of blue, c. 1517\u20131518",
+  "label": {
+    "title": "The Descent from the Cross",
+    "makerLine": "The Descent from the Cross, Ugo da Carpi (1450-1525), after Raphael (1483-1520), chiaroscuro woodcut printed in black and two shades of blue, c. 1517\u20131518",
+    "description": "The German invention of the colour woodcut caught on in Italy. Ugo da Carpi was the first to use this technique there. The Descent from the Cross after a design by Raphael is one of his earliest prints. The printmaker used two rather than one tone block: one for the light blue sections, and the other for the dark blue shadows.",
+    "notes": null,
+    "date": "2014-01-31"
+  },
+  "showImage": true,
+  "location": null
+}

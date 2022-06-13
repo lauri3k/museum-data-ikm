@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-2602",
+  "priref": "84597",
+  "objectNumber": "RP-P-BI-2602",
+  "language": "en",
+  "title": "Strijd tussen vastenavond en vasten",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0edc022a-3591-43fe-b8ff-78671f4d9411",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2166,
+    "url": "https://lh3.ggpht.com/bN2N1SFE_JnQN44GaPC_PiWYh6XPQn2xhi80dqnygOrgHk_ezxdGBZMMDU3_6sl9kL4d6W7gsvw2p1qX98zSJYbK_Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FDF9E5"
+    },
+    {
+      "percentage": 20,
+      "hex": " #DFDBCB"
+    },
+    {
+      "percentage": 19,
+      "hex": " #9B9888"
+    },
+    {
+      "percentage": 23,
+      "hex": " #C1BDAE"
+    },
+    {
+      "percentage": 17,
+      "hex": " #717060"
+    },
+    {
+      "percentage": 18,
+      "hex": " #48483D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FDF9E5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DFDBCB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9B9888",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C1BDAE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #717060",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #48483D",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 36,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 18,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Strijd tussen vastenavond en vasten"
+  ],
+  "description": "Twee groepen mensen vertegenwoordigen vastenavond en vasten die tegen elkaar strijden. Aan de zijde van vastenavond tonen de weldoorvoede deelnemers hun zondige gewoonten van gulzig eten en drinken, ze zijn behangen met etenswaren zoals worsten, wafels, pannekoeken, jachtbuit en drinkkannen. Als wapens worden onder andere een wafelijzer en allerlei huisraad. Een spit met op de punt een roemer wordt gehanteerd door een dikke figuur, zwaaiend met een drinkbeker en zittend op een bierton. Hun tegenstanders die hun deugd zoeken in het vasten moeten het stellen met een kariger maal van vis en krakelingen. Zij zwaaien dreigend met een visnet en rooster. Onder de voorstelling staat een vers in Latijn en de nederlandse vertaling die wijzen op de strijd tussen deugd en zonde.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Bo\u00ebtius Adamsz. Bolswert",
+      "unFixedName": "Bolswert, Bo\u00ebtius Adamsz.",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1580",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633-03-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bo\u00ebtius Adamsz. Bolswert (c. 1580 - 25-mrt-1633)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Schelte Adamsz. Bolswert",
+      "unFixedName": "Bolswert, Schelte Adamsz.",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1659-12-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Schelte Adamsz. Bolswert (c. 1586 - 12-dec-1659)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Schelte Adamsz. Bolswert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1596 - 1659",
+    "sortingDate": 1596,
+    "period": 16,
+    "yearEarly": 1596,
+    "yearLate": 1659
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32A2",
+      "43A1224",
+      "12F231",
+      "33B3"
+    ],
+    "iconClassDescription": [
+      "fat and thin (human types)",
+      "Shrove Tuesday, 'Mardi gras' ~ non-liturgical celebrations of carnival",
+      "fasting ~ Roman religion",
+      "fighting"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-2602"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "C. Gaignebet et al., Les Triomphes de Carnaval, tent.cat. Gravelines (Mus\u00e9e de Gravelines) 2004, nr. 49"
+  ],
+  "catRefRPK": [
+    "Hollstein Dutch 296",
+    "296"
+  ],
+  "principalOrFirstMaker": "Schelte Adamsz. Bolswert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "293"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "407"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Strijd tussen vastenavond en vasten, Schelte Adamsz. Bolswert, 1596 - 1659",
+  "subTitle": "h 293mm \u00d7 w 407mm",
+  "scLabelLine": "Schelte Adamsz. Bolswert, 1596 - 1659, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,221 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1907-434",
+  "priref": "134389",
+  "objectNumber": "RP-P-1907-434",
+  "language": "en",
+  "title": "Portret van Filippo Lauri",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "388b8bf4-0ba7-4a72-8a8c-ab0957ee10f1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3765,
+    "height": 5357,
+    "url": "https://lh4.ggpht.com/4SSJlO9gR8MxiB20Y54qlcQ3aarP6cEhPm9T9qIMFBRamnzEuI099WUZIiTm_RcvenzfadBPxUZIui7eHaGCzczS4hY0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 54,
+      "hex": "#D2C8B1"
+    },
+    {
+      "percentage": 29,
+      "hex": " #F8EDD0"
+    },
+    {
+      "percentage": 5,
+      "hex": " #4E483B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #AFA693"
+    },
+    {
+      "percentage": 3,
+      "hex": " #786F5F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #99907E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2D281F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D2C8B1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F8EDD0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4E483B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #AFA693",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #786F5F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #99907E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2D281F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 29,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Filippo Lauri",
+    "Portretten van Italiaanse kunstenaars"
+  ],
+  "description": "Portret van de Italiaanse kunstenaar Filippo Lauri.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Isaac Lodewijk la Fargue van Nieuwland",
+      "unFixedName": "Fargue van Nieuwland, Isaac Lodewijk la",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1726-10-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1805-01-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isaac Lodewijk la Fargue van Nieuwland (27-okt-1726 - 20-jan-1805)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Isaac Lodewijk la Fargue van Nieuwland",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1752",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1752
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Lauri, Filippo"
+    ],
+    "objectNumbers": [
+      "RP-P-1907-434"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Lauri, Filippo"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Isaac Lodewijk la Fargue van Nieuwland",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "56"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Filippo Lauri, Isaac Lodewijk la Fargue van Nieuwland, 1752",
+  "subTitle": "h 86mm \u00d7 w 56mm",
+  "scLabelLine": "Isaac Lodewijk la Fargue van Nieuwland, 1752, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

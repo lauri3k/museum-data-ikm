@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-185",
+  "priref": "36108",
+  "objectNumber": "RP-P-OB-185",
+  "language": "en",
+  "title": "St Jerome in a dark chamber",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f7c279f5-6316-4d4c-91c0-547c7500dc2c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2557,
+    "url": "https://lh3.googleusercontent.com/nDf61L9OQGAy7O2klBEtOPk9YGHd6J6U7Uz6JqmM4pR3VwwT6RCUDtkHTFCzj_FHw-NQ8-1_MyDuYVBkBWjMyC55kes=s0"
+  },
+  "colors": [
+    {
+      "percentage": 74,
+      "hex": "#48473F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #625F51"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F5F5F2"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DFD6C0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #857E6A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BEB299"
+    },
+    {
+      "percentage": 0,
+      "hex": " #9F9785"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#48473F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #625F51",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F5F5F2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DFD6C0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #857E6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BEB299",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9F9785",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 85,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 74,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 11,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "St Jerome in a dark chamber"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "Japanese paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1642",
+    "sortingDate": 1642,
+    "period": 17,
+    "yearEarly": 1642,
+    "yearLate": 1642
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JEROME)"
+    ],
+    "iconClassDescription": [
+      "the monk and hermit Jerome (Hieronymus); possible attributes: book, cardinal's hat, crucifix, hour-glass, lion, skull, stone"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-185"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 212",
+    "212",
+    "Bartsch 105",
+    "105",
+    "Hollstein Dutch 105",
+    "105"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "173"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "St Jerome in a dark chamber, Rembrandt van Rijn, 1642",
+  "subTitle": "h 150mm \u00d7 w 173mm",
+  "scLabelLine": "Rembrandt van Rijn, 1642, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

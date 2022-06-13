@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-9",
+  "priref": "37061",
+  "objectNumber": "RP-P-OB-9",
+  "language": "en",
+  "title": "Self-portrait in a cap and dark cloak: bust",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d0a09682-99ec-4bbf-a577-49dcfcf0a139",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1992,
+    "height": 2170,
+    "url": "https://lh3.ggpht.com/cm7kZKxT_TOzxchSJj0c0FrnbkKfDjV-bM6x9693MCnGwDB4niy3Mhjeq9-1VfMadkr2jV2silWecGsFUT2Jy3uVcg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 49,
+      "hex": "#E5E1D1"
+    },
+    {
+      "percentage": 27,
+      "hex": " #3F3F39"
+    },
+    {
+      "percentage": 8,
+      "hex": " #626056"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C3BDAB"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A19D90"
+    },
+    {
+      "percentage": 2,
+      "hex": " #848175"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E5E1D1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3F3F39",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #626056",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C3BDAB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A19D90",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #848175",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FFFFFE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 35,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 27,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Self-portrait in a cap and dark cloak: bust"
+  ],
+  "description": "Zelfportret van Rembrandt met muts op en donkere mantel om.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1631",
+    "sortingDate": 1631,
+    "period": 17,
+    "yearEarly": 1631,
+    "yearLate": 1631
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48B3"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of artist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rijn, Rembrandt van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-9"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rijn, Rembrandt van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 95W",
+    "95W",
+    "Bartsch 6",
+    "6"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "66"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Self-portrait in a cap and dark cloak: bust, Rembrandt van Rijn, c. 1631",
+  "subTitle": "h 66mm \u00d7 w 60mm",
+  "scLabelLine": "Rembrandt van Rijn, c. 1631, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

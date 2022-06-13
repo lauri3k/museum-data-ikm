@@ -39,19 +39,19 @@
   "measurements": [
     {
       "elementName": "Overall",
-      "elementDescription": "Textiles",
-      "elementMeasurements": {
-        "Height": 15.9,
-        "Width": 44.8
-      }
-    },
-    {
-      "elementName": "Overall",
       "elementDescription": "Mount",
       "elementMeasurements": {
         "Depth": 3.81,
         "Height": 26.0351,
         "Width": 57.1501
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Textiles",
+      "elementMeasurements": {
+        "Height": 15.9,
+        "Width": 44.8
       }
     }
   ],

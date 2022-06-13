@@ -1,0 +1,147 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1761",
+  "priref": "585051",
+  "objectNumber": "SK-C-1761",
+  "language": "en",
+  "title": "Shells on a Stone Plinth",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8cda6359-3ae2-43da-8ce2-51ea45c0224f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2333,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/0AdwFt7_abP8Y_kbM-i-IP56PsKFfiUQZU7T4qHDzmWRFE0VwAbxbIHXFsgml4OFS0w8CJKw5W6XWlUY0aH4gFKxX5Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Shells on a Stone Plinth"
+  ],
+  "description": "Schelpen op een stenen plint; Euspira nitida, Chicoreus saulii, Cittarium pica, Terebra subulata en Tonna tessellata.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaen Coorte",
+      "unFixedName": "Coorte, Adriaen",
+      "placeOfBirth": null,
+      "dateOfBirth": "1665",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1710",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adriaen Coorte (c. 1665 - c. 1710)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen Coorte",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2015-06-24T00:00:00",
+    "creditLine": "On loan from a private collector"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "paper",
+    "panel"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1698",
+    "sortingDate": 1698,
+    "period": 17,
+    "yearEarly": 1698,
+    "yearLate": 1698
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-1761"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaen Coorte",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "29"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "22.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": null
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on paper on panel",
+  "longTitle": "Shells on a Stone Plinth, Adriaen Coorte, 1698",
+  "subTitle": "h 29cm \u00d7 w 22.5cm",
+  "scLabelLine": "Adriaen Coorte (1659/64-1707), oil on paper on panel, 1698",
+  "label": {
+    "title": "Shells on a Stone Plinth",
+    "makerLine": "Adriaen Coorte (1659/64-1707), oil on paper on panel, 1698",
+    "description": "Coorte arranged the shells on a stone plinth against a dark background in such a way that each one receives attention, displaying its own form, colour, and structure. Coorte, moreover, painted them life size. These kinds of exotic shells were brought to the Netherlands in the ships of the Dutch East and West India Companies and were highly prized by collectors, who paid enormous amounts for them.",
+    "notes": null,
+    "date": "2015-07-24"
+  },
+  "showImage": true,
+  "location": "HG-2.24"
+}

@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-774",
+  "priref": "640325",
+  "objectNumber": "RP-F-2001-7-774",
+  "language": "en",
+  "title": "Bericht \u00fcber ein fast vollst\u00e4ndiges Skelet von palapteryx ingens",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fd0d8b75-200f-48cf-8978-e9a649f97109",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1629,
+    "url": "https://lh3.googleusercontent.com/gPxyWDnKfapqIky3ILAr5nOtVIqg39p15hLIIZOlm172epYb7sv0gbOr7M_Pjki7WOpbAQs7G-0RjMAzhql8q_A1By8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bericht \u00fcber ein fast vollst\u00e4ndiges Skelet von palapteryx ingens"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "book"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Wilhelm Braum\u00fcller",
+      "unFixedName": "Braum\u00fcller, Wilhelm",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Vienna"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Wilhelm Braum\u00fcller, Vienna"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gustav J\u00e4ger",
+      "unFixedName": "J\u00e4ger, Gustav",
+      "placeOfBirth": null,
+      "dateOfBirth": "1832-06-23",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1917-05-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gustav J\u00e4ger (23-jun-1832 - 13-mei-1917)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gustav J\u00e4ger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Vienna"
+  ],
+  "dating": {
+    "presentingDate": "1863",
+    "sortingDate": 1863,
+    "period": 19,
+    "yearEarly": 1863,
+    "yearLate": 1863
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-774"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gustav J\u00e4ger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "325"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "250"
+    },
+    {
+      "unit": "mm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Bericht \u00fcber ein fast vollst\u00e4ndiges Skelet von palapteryx ingens, Gustav J\u00e4ger, 1863",
+  "subTitle": "h 325mm \u00d7 w 250mm \u00d7 t 5mm",
+  "scLabelLine": "Gustav J\u00e4ger, 1863, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

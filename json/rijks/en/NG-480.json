@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-480",
+  "priref": "262979",
+  "objectNumber": "NG-480",
+  "language": "en",
+  "title": "Decorative Dish",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ee0ecd5b-da68-41b8-9269-42017a1b083f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2868,
+    "height": 2820,
+    "url": "https://lh3.googleusercontent.com/qhLlias-VWd7hEqTdmboqrZ946CC685aX-JmpIde_Ff5rYPcGEGuZ1InNT4OS4FIJZqz1-KisIW63aQHy6vywOGvcMeI=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#EDEDED"
+    },
+    {
+      "percentage": 10,
+      "hex": " #5B5145"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2C6AA"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8C7C5F"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A8A296"
+    },
+    {
+      "percentage": 23,
+      "hex": " #302924"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDEDED",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #5B5145",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D2C6AA",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8C7C5F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A8A296",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #302924",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 23,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 13,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 27,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 23,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 19,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [],
+  "description": "Bord met verguld lakwerk en gekleurd lakwerk op zwarte fond. De vlakke rand is versierd met bloemen en bladranken in goudlak. In het midden het wapen van Huydecoper met helm en boogschutter als helmteken. Het figuurtje, naar rechts gewend, is rose, pijl en boog vertonen resten van rood. Om het schild en de helm arcanthusbladeren in goud, donkergrijs en vuil wit. De keerzijde van het bord is oranje.",
+  "labelText": null,
+  "objectTypes": [
+    "plate (dishes)"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1963-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "lacquer (coating)",
+    "gilding (material)"
+  ],
+  "techniques": [
+    "lacquering",
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1650 - c. 1660",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "15991661"
+    ],
+    "places": [],
+    "people": [
+      "Huydecoper van Maarseveen, Joan (I)"
+    ],
+    "objectNumbers": [
+      "NG-480"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Huydecoper van Maarseveen, Joan (I)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Christiaan Jan Adriaan J\u00f6rg, 'Japanese Lacquerwork decorated after European prints', in: Collections of essays in commemoration of the 30th anniversary of the institute of oriental and occidental studies, Kansai University, Osaka 1981, p. 57-80, afb. 18. [in documentatiemap Geschiedenis NM-6287-6311]"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3.0"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "34.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "20.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "lacquering",
+  "longTitle": "Decorative Dish, anonymous, c. 1650 - c. 1660",
+  "subTitle": "h 3.0cm \u00d7 d 34.4cm",
+  "scLabelLine": "Japan, c. 1650-1660, wood, lacquer",
+  "label": {
+    "title": "Decorative Dish",
+    "makerLine": "Japan, c. 1650-1660, wood, lacquer",
+    "description": "Lacquerware was a prized luxury product, with its rich gold decorations on a dark black background. This decorative dish was a special order as it bears the coat-of-arms of Joan van Huydecoper van Maarsseveen. In addition to being burgomaster of Amsterdam, he was director of the\nVOC, and so had the right connections to order lacquerware in Japan.",
+    "notes": null,
+    "date": "2016-01-12"
+  },
+  "showImage": true,
+  "location": null
+}

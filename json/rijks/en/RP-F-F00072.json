@@ -1,0 +1,212 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00072",
+  "priref": "248881",
+  "objectNumber": "RP-F-F00072",
+  "language": "en",
+  "title": "Female Nude",
+  "copyrightHolder": "Rob Sannes",
+  "webImage": null,
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#BBBBBB"
+    },
+    {
+      "percentage": 31,
+      "hex": " #E7E7E3"
+    },
+    {
+      "percentage": 4,
+      "hex": " #898989"
+    },
+    {
+      "percentage": 4,
+      "hex": " #605F60"
+    },
+    {
+      "percentage": 6,
+      "hex": " #3B3838"
+    },
+    {
+      "percentage": 50,
+      "hex": " #1A1818"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BBBBBB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #E7E7E3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #898989",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #605F60",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3B3838",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #1A1818",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 50,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 31,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 31,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Sanne Sannes",
+      "unFixedName": "Sannes, Sanne",
+      "placeOfBirth": "Groningen",
+      "dateOfBirth": "1937-03-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1967-03-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Bergen (Noord-Holland)",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Sanne Sannes (19-mrt-1937 - 23-mrt-1967), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Sanne Sannes",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1962 - c. 1964",
+    "sortingDate": 1962,
+    "period": 20,
+    "yearEarly": 1962,
+    "yearLate": 1964
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48B1242"
+    ],
+    "iconClassDescription": [
+      "artist (in general) working from nude model"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F00072"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Sanne Sannes",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "250"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "202"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Female Nude, Sanne Sannes, c. 1962 - c. 1964",
+  "subTitle": "h 250mm \u00d7 w 202mm",
+  "scLabelLine": "Sanne Sannes (1937-1967), gelatin silver print, c. 1962-1964",
+  "label": {
+    "title": "Female Nude",
+    "makerLine": "Sanne Sannes (1937-1967), gelatin silver print, c. 1962-1964",
+    "description": "Sannes deliberately intensified the contrast in this print. The white of the skin is \u2018bleached out\u2019, the dark passages virtually \u2018run together\u2019, whereby little, if any, detail can be made out. This was one of the ways in which Sannes manipulated his photographs. A cropped version of\nthis photograph was used for the cover of Oog om oog (Eye for Eye) in 1964, the only photo book by Sannes that was published before his untimely death.",
+    "notes": null,
+    "date": "2014-11-12"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -44,20 +44,20 @@
   "dimensions": "23 1/4 x 16 3/4 in. (59.1 x 42.5 cm)",
   "measurements": [
     {
-      "elementName": "Overall",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 59.05512,
-        "Width": 42.545086
-      }
-    },
-    {
       "elementName": "Frame",
       "elementDescription": null,
       "elementMeasurements": {
         "Depth": 3.8100076,
         "Height": 83.82017,
         "Width": 66.04013
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 59.05512,
+        "Width": 42.545086
       }
     }
   ],

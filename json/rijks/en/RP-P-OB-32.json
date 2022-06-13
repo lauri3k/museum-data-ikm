@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-32",
+  "priref": "35665",
+  "objectNumber": "RP-P-OB-32",
+  "language": "en",
+  "title": "Self-portrait in a Cap and Scarf",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "10781d2e-049b-4abe-b2a2-1f665aa71b09",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2021,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/t2UOzukK4MUPSVMdcRvw_0W8_bAY6hg2rfQ8KSextBEA1l-A1M2L7ESOyx35HqHiPBUYT1NjFD-qGX0Cmla5fdO1jg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#C8BFB0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #9B9487"
+    },
+    {
+      "percentage": 12,
+      "hex": " #4D4A42"
+    },
+    {
+      "percentage": 7,
+      "hex": " #726D61"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2B2923"
+    },
+    {
+      "percentage": 54,
+      "hex": " #EEE9E1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C8BFB0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9B9487",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4D4A42",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #726D61",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2B2923",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #EEE9E1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#FAF0E6"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 12,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Self-portrait in a cap and scarf with the face dark: bust"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1633",
+    "sortingDate": 1633,
+    "period": 17,
+    "yearEarly": 1633,
+    "yearLate": 1633
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rijn, Rembrandt van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-32"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rijn, Rembrandt van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 120",
+    "120",
+    "Bartsch 17",
+    "17",
+    "Hollstein Dutch 17",
+    "17"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Self-portrait in a Cap and Scarf, Rembrandt van Rijn, 1633",
+  "subTitle": "h 133mm \u00d7 w 104mm",
+  "scLabelLine": "etching, 1633",
+  "label": {
+    "title": "Self-portrait in a Cap and Scarf",
+    "makerLine": "etching, 1633",
+    "description": "After Rembrandt painted a highly unusual self-portrait with his face in shadow around 1628 (elsewhere in this gallery), he tried out the same approach in his etchings. This proved to be no easy task. Initially the details in shadow could hardly be recognized. He succeeded only with a renewed attempt in 1633 (middle).",
+    "notes": null,
+    "date": "2019-02-22"
+  },
+  "showImage": true,
+  "location": null
+}

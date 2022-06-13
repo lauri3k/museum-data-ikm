@@ -1,0 +1,253 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1215",
+  "priref": "4675",
+  "objectNumber": "SK-C-1215",
+  "language": "en",
+  "title": "Thomas Hees and his Servant Thomas and Nephews Jan and Andries Hees",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c7b2ad08-e4b8-4f0e-b2cd-d2ab1299e5bb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2381,
+    "height": 2508,
+    "url": "https://lh3.googleusercontent.com/X8tT_loOn8tCbfcQZ2YlcjJKn5aDFIhITj6LhVvZlbiY7lsctlNeXVXTZo_wkQJf_RzK4C0Ge003LC9dN-PoIJfL673i=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#22160D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #704C16"
+    },
+    {
+      "percentage": 0,
+      "hex": " #916D4D"
+    },
+    {
+      "percentage": 5,
+      "hex": " #6C593E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A8835E"
+    },
+    {
+      "percentage": 26,
+      "hex": " #4E341E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#22160D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #704C16",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #916D4D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #6C593E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A8835E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #4E341E",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 26,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CD853F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 32,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Thomas Hees and his Servant Thomas and Nephews Jan and Andries Hees",
+    "Thomas Hees with his Nephews Jan and Andries Hees and a Servant",
+    "Portrait of Thomas Hees (b. 1634/35), resident and commissioner of the states general to the governments of Algiers, Tunis and Tripoli, with his nephews Jan (b. 1670/71) and Andries (b. 1662/63) Hees and a servant"
+  ],
+  "description": "Portretten van Thomas Hees, resident en commissaris der Staten Generaal bij de regeringen te Algiers, Tunis en Tripolis, bemiddelaar\ninzake de vrijkoop van christenslaven te Algiers in 1683 met zijn neven Jan en Andries Hees, en Thomas, de tot slaaf gemaakte bediende van\nAfrikaanse oorsprong. Ten voeten uit zittend aan een tafel, een pijp in de linkerhand. Op tafel liggen een opengeslagen atlas, boeken, inktstel en een globe. Aan de achterwand hangen enkele geweren, zwaarden, jachthoorns, takken koraal en een wapen met de Hollandse Leeuw.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michiel van Musscher",
+      "unFixedName": "Musscher, Michiel van",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1645-01-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1705-06-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Michiel van Musscher (27-jan-1645 - 20-jun-1705)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michiel van Musscher",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1932-02-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Kabinet van Schilderijen Mauritshuis"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1687",
+    "sortingDate": 1687,
+    "period": 17,
+    "yearEarly": 1687,
+    "yearLate": 1687
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31A511",
+      "25A",
+      "49L5",
+      "41A431",
+      "32B321",
+      "46A18"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "mirror",
+      "kaarten, atlassen",
+      "writing tools",
+      "carpet, rug",
+      "Africans",
+      "slavery; serfs and the enslaved"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Algiers",
+      "Tunis",
+      "Tripoli"
+    ],
+    "people": [
+      "Staten-Generaal",
+      "Hees, Thomas",
+      "Hees, Jan",
+      "Hees, Andries"
+    ],
+    "objectNumbers": [
+      "SK-C-1215"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Staten-Generaal",
+    "Hees, Thomas",
+    "Hees, Jan",
+    "Hees, Andries"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "http://www.hees1.humanities.uva.nl/ (Website gemaakt door Anna Lakmaker en Anna de Wilde, in het kader van de werkgroep 'Tussen moslims en christenslaven: de Nederlandse ambassadeur Thomas Hees in zeventiende-eeuws Algiers', onderdeel van de Master Geschiedenis aan de Universiteit van Amsterdam.)",
+    "Bulletin van het Rijksmuseum (1999) nr. 2/3, p. 157-158, afb.",
+    "Spiegel Historiael 24 (1989) nr. 2, p. 69, 72.",
+    "W.H. Vroom, 'Amsterdam in het Rijksmuseum', Ons Amsterdam 24 (1972), p. 179.",
+    "B. Naderzad. 'Louis XIV, la Boullaye et l'exotisme Persan', Gazette des Beaux Arts 79 (1972), p. 37, afb. 11.",
+    "Bronnen voor de geschiedenis van de levantsche handel XXXIV, 1917 (rijksgeschiedenispublicati\u00ebn), deel 34 V 0186.",
+    "Bulletin Nederlands Oudheidkundig Bond 1914, p. 246",
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963), beschrijving historisch kader een aan artikel uit het Bulletin van den Nederlandsche Oudheidkundigen Bond: aanwinsten van het Mauritshuis."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michiel van Musscher",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Thomas Hees and his Servant Thomas and Nephews Jan and Andries Hees, Michiel van Musscher, 1687",
+  "subTitle": "h 76cm \u00d7 w 63cm",
+  "scLabelLine": "Michiel van Musscher (1645\u20131705), oil on canvas, 1687",
+  "label": {
+    "title": "Thomas Hees and his Servant Thomas and Nephews Jan and Andries Hees",
+    "makerLine": "Michiel van Musscher (1645\u20131705), oil on canvas, 1687",
+    "description": "Thomas Hees served as a diplomat in Algiers, Tunis and Tripoli, negotiating the ransoming of Dutch galley slaves and combatting the privateering of Dutch ships, among other missions. The name and age of his African servant is indicated on the back of the canvas: \u2018Thomas the Negro, 17 years old.",
+    "notes": null,
+    "date": "2021-02-04"
+  },
+  "showImage": true,
+  "location": "HG-2.9"
+}

@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-200",
+  "priref": "36136",
+  "objectNumber": "RP-P-OB-200",
+  "language": "en",
+  "title": "The Large Lion Hunt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fe05f6a2-ef32-4a70-b71f-403ad01b0037",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2298,
+    "url": "https://lh3.ggpht.com/IHBy7_bFg4w-4lxuCmprqxysZCzmbuSgrDM2DOrttQ8jDEjZncPl6eApp95JSmUkOSTJLKdCcpQEcyitB4bOkX5liCia=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FEFEFA"
+    },
+    {
+      "percentage": 65,
+      "hex": " #E5E0D3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #CCC5B5"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B0A999"
+    },
+    {
+      "percentage": 5,
+      "hex": " #888375"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5D5A4D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FEFEFA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E5E0D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CCC5B5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B0A999",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #888375",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5D5A4D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 65,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "The large lion hunt"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1641",
+    "sortingDate": 1641,
+    "period": 17,
+    "yearEarly": 1641,
+    "yearLate": 1641
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43C111232"
+    ],
+    "iconClassDescription": [
+      "lion hunt"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-200"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 187",
+    "187",
+    "Bartsch 114",
+    "114",
+    "Hollstein Dutch 114",
+    "114"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "225"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "301"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "The Large Lion Hunt, Rembrandt van Rijn, 1641",
+  "subTitle": "h 225mm \u00d7 w 301mm",
+  "scLabelLine": "etching and drypoint, 1641",
+  "label": {
+    "title": "The Large Lion Hunt",
+    "makerLine": "etching and drypoint, 1641",
+    "description": "Hunting scenes are a popular theme in art. They feature not only in tapestries and paintings, but also in series of prints. Rembrandt, too, was fascinated by them. In these three etchings, he attempts to capture the excitement and chaos of such violent encounters between men and animals. He further intensifies the drama by means of stark contrasts of light and dark.",
+    "notes": "Geldt voor: RP-P-OB-200, RP-P-1962-56 en RP-P-OB-202",
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,246 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-980",
+  "priref": "1523",
+  "objectNumber": "AK-MAK-980",
+  "language": "en",
+  "title": "Netsuke",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a6d4982c-d124-4bd2-8dfa-290aae962b9c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/gqi2SI1F9Qbf-yFgRcrzTmvatZpiqsztW-2eFvTytdKBQreT4tikgaMkdhdWs-PEtujTvNqfTLfjG4WPmsUTm9V_2NY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 74,
+      "hex": "#D7CFCA"
+    },
+    {
+      "percentage": 8,
+      "hex": " #785C45"
+    },
+    {
+      "percentage": 5,
+      "hex": " #998B81"
+    },
+    {
+      "percentage": 3,
+      "hex": " #493930"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BCAFA6"
+    },
+    {
+      "percentage": 3,
+      "hex": " #272422"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C59F7F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D7CFCA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #785C45",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #998B81",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #493930",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #BCAFA6",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #272422",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #C59F7F",
+      "normalizedHex": "#F49B7A"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 74,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 74,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F49B7A"
+    }
+  ],
+  "titles": [
+    "Netsuke"
+  ],
+  "description": "Masker van de heks Hannya.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1800 - c. 1900",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-980"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Aziatische Kunst uit het legaat Westendorp (cat.). Bulletin van de Vereeniging van Vrienden der Aziatische Kunst. Derde Serie 17-18 (1968), nr. 31."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "3.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "2.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Netsuke, anonymous, c. 1800 - c. 1900",
+  "subTitle": "h 5cm \u00d7 w 3.3cm \u00d7 d 2.5cm",
+  "scLabelLine": "Deme Mitsuyasu (?-1652) Japan, c. 1600-1652, wood",
+  "label": {
+    "title": null,
+    "makerLine": "Deme Mitsuyasu (?-1652) Japan, c. 1600-1652, wood",
+    "description": "Three Carved Toggles (Netsuke).\nNetsuke, or toggles, were used to fasten personal items to the obi, or sash, of a man\u2019s kimono. Often they are inventively decorated and take on the most diverse shapes, by means of which the wearer could display his own taste. With these three mask netsuke, the owner was obviously showing his love for No.",
+    "notes": "Goes for: AK-MAK-980, AK-MAK-982, AK-MAK-983.",
+    "date": "2016-10-05"
+  },
+  "showImage": true,
+  "location": null
+}

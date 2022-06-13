@@ -1,0 +1,180 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-208.180",
+  "priref": "597037",
+  "objectNumber": "RP-P-OB-208.180",
+  "language": "en",
+  "title": "Gezicht op het Admiraliteitsmagazijn te Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1a984d50-ae81-4079-87a4-bceeb9bf21fe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1654,
+    "url": "https://lh3.googleusercontent.com/L_iC0I_BnYBCn5mpns_652jBY5eYBWdvEq2LyD5Zp7da1k5C_J9IJvKA3a40SHQdd4G7t2Yjn9l5Wg2Vb_g28mSCqas7mqlCyQXQfqSB=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op het Admiraliteitsmagazijn te Amsterdam",
+    "A view of the Admiralty at Amsterdam, of the store houses, wharfes and docks, belonging to it, and to the East India Company of Holland"
+  ],
+  "description": "Op de achtergrond rechts de Utrechtsepoort.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Laurie & James Whittle",
+      "unFixedName": "Whittle, Robert Laurie & James",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Laurie & James Whittle (c. .... - ....), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Laurie & James Whittle",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2015-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "etching",
+    "brush"
+  ],
+  "productionPlaces": [
+    "London",
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1794",
+    "sortingDate": 1794,
+    "period": 18,
+    "yearEarly": 1794,
+    "yearLate": 1794
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47F31",
+      "25I1451(+1)",
+      "25I145(+1)",
+      "46C24",
+      "46C232",
+      "41A542"
+    ],
+    "iconClassDescription": [
+      "large-scale structure for storage, e.g.: warehouse, depot, silo",
+      "bridge in city across river, canal, etc. (+ city(-scape) with figures, staffage)",
+      "canals, waters (in city) (+ city(-scape) with figures, staffage)",
+      "sailing-ship, sailing-boat",
+      "rowing-boat, canoe, etc.",
+      "gate, entrance"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Admiraliteitsmagazijn",
+      "Utrechtsepoort"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-208.180"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Robert Laurie & James Whittle",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "262"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "402"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op het Admiraliteitsmagazijn te Amsterdam, Robert Laurie & James Whittle, 1794",
+  "subTitle": "h 262mm \u00d7 w 402mm",
+  "scLabelLine": "Robert Laurie & James Whittle, 1794, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

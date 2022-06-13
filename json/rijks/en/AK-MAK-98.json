@@ -1,0 +1,276 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-98",
+  "priref": "2262",
+  "objectNumber": "AK-MAK-98",
+  "language": "en",
+  "title": "Bamboo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2549daed-3260-4787-aa78-b15a8c8cc611",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1204,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/iowvcOPjWoN5uPR057Z4Y5Y0HQYcVFEuePLWlMR4-OIMcb_cydnQGvhH_UntfAzUFFdouEXt5HlnAOHA77BGfcErDu8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 56,
+      "hex": "#D2CABC"
+    },
+    {
+      "percentage": 25,
+      "hex": " #9A917C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #BAAE95"
+    },
+    {
+      "percentage": 2,
+      "hex": " #515357"
+    },
+    {
+      "percentage": 2,
+      "hex": " #6F6551"
+    },
+    {
+      "percentage": 1,
+      "hex": " #807F7E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #ECEBEE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D2CABC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9A917C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BAAE95",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #515357",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6F6551",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #807F7E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ECEBEE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 56,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 27,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 36,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "Schildering voorstellende bamboe. Gesigneerd Shaoxiang (volgeling van Cheng Pan-chiao). In houten doos.",
+  "labelText": null,
+  "objectTypes": [
+    "hanging scroll"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Chen Jiecan",
+      "unFixedName": "Chen Jiecan",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "Chen Jiecan, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Chen Jiecan",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of Baron Kitagaki Shinichi, 1930)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "ink",
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1800 - 1825",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1825
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-98"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Menno Fitski en Ellen Uitzinger, 'De schenking van twee Chinese schilderingen in 1930 en 1954', Aziatische Kunst 38 (2008), nr. 3, p. 103-108.",
+    "Maandblad voor beeldende kunsten, 1931 (maart) p. 93, afb. p. 94."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Chen Jiecan",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "123"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "58"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "67.4"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "685"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "46"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "30"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "72"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "ink",
+  "longTitle": "Bamboo, Chen Jiecan, c. 1800 - 1825",
+  "subTitle": "h 123cm \u00d7 w 58cm",
+  "scLabelLine": "Chen Jiecan (1789-1861), China, c. 1800, ink on paper",
+  "label": {
+    "title": "Bamboo",
+    "makerLine": "Chen Jiecan (1789-1861), China, c. 1800, ink on paper",
+    "description": "Bamboo is among the favourite motifs of so-called literati painting, which was done for China\u2019s cultural elite. It also symbolizes the humility of a true gentleman. The painter could demonstrate his mastery of the brush by playing with the contrast between dark and light ink. Here the artist used wet ink wash to depict bamboo in the rain.",
+    "notes": null,
+    "date": "2018-06-01"
+  },
+  "showImage": true,
+  "location": null
+}

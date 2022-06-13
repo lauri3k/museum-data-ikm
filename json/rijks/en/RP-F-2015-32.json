@@ -1,0 +1,129 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2015-32",
+  "priref": "582742",
+  "objectNumber": "RP-F-2015-32",
+  "language": "en",
+  "title": "Portrait of a Man",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "da6f4635-af31-45a2-a545-873317746762",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1920,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/AkJ3Qf-e1Y4TpvqKVmY7eRbarowC8afhSU0TWN1UsgYdKwkUAqC54Ll4eyNFIwpcG54NcPPq0YQGLMMEMqQcRWqb8Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Daguerreotypie in cassette.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2015-07-17T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "c. 1845 - c. 1855",
+    "sortingDate": 1845,
+    "period": 19,
+    "yearEarly": 1845,
+    "yearLate": 1855
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B1",
+      "49N"
+    ],
+    "iconClassDescription": [
+      "historical persons not known by name",
+      "lezen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2015-32"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "60"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "42"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "photograph",
+  "longTitle": "Portrait of a Man, anonymous, c. 1845 - c. 1855",
+  "subTitle": "h 60mm \u00d7 w 42mm",
+  "scLabelLine": "England, c. 1845-1855, daguerreotype",
+  "label": {
+    "title": "Portrait of a Man",
+    "makerLine": "England, c. 1845-1855, daguerreotype",
+    "description": "The daguerreotype was not for lazy photographers. First a silvered copper plate had to be polished to a mirror finish and then specially treated to make it light sensitive. It was subsequently slid into the camera and exposed to light for 30 to 90 seconds. Next it was removed from the camera in the dark, placed in a mercury box, and heated above a burner. While the mercury fumes reacted with the plate surface the image would appear as if by magic, and was then fixed and sealed.",
+    "notes": null,
+    "date": "2017-08-28"
+  },
+  "showImage": true,
+  "location": null
+}

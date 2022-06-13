@@ -52,19 +52,19 @@
   "dimensions": "Plate: 4 \u00d7 2 15/16 in. (10.1 \u00d7 7.5 cm)\r\nSheet: 4 in. \u00d7 3 1/16 in. (10.2 \u00d7 7.7 cm)",
   "measurements": [
     {
-      "elementName": "Plate",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 10.1,
-        "Width": 7.5
-      }
-    },
-    {
       "elementName": "Sheet",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 10.2,
         "Width": 7.7
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10.1,
+        "Width": 7.5
       }
     }
   ],

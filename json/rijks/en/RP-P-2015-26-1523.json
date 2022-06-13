@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2015-26-1523",
+  "priref": "622295",
+  "objectNumber": "RP-P-2015-26-1523",
+  "language": "en",
+  "title": "Bibliotheek van de voormalige abdij van Sainte-Genevi\u00e8ve te Parijs",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b02cdbed-be93-4d6f-b88a-d039d57df00f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1772,
+    "url": "https://lh3.googleusercontent.com/N5r8dMxqHUfT7_9Yd9LRk0DTDwooj0JX7L62cmeV0P4jpzjXbcux10yUUKph51y8MwUygUtIyxFI2cb_x-9NtQJsOA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bibliotheek van de voormalige abdij van Sainte-Genevi\u00e8ve te Parijs",
+    "Library of the Pantheon; in Paris"
+  ],
+  "description": "Interieur van de bibliotheek met tussen de boekenkasten bustes op zuilen. In het plafond bevindt zich een lichtkoepel, ondersteund door gedecoreerde pilaren met putti. Er bevinden zich zeven mannen in de bibliotheek. Aan het eind van de zaal staan twee globes. Rechtsboven genummerd: 167.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Richard Holmes Laurie",
+      "unFixedName": "Laurie, Richard Holmes",
+      "placeOfBirth": null,
+      "dateOfBirth": "1777",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1835",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Richard Holmes Laurie (1777 - 1835), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "S. Emmering Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1826",
+    "sortingDate": 1826,
+    "period": 19,
+    "yearEarly": 1826,
+    "yearLate": 1826
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49M9"
+    ],
+    "iconClassDescription": [
+      "public library"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Abdij van Sainte-Genevi\u00e8ve"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2015-26-1523"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "288"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "442"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Bibliotheek van de voormalige abdij van Sainte-Genevi\u00e8ve te Parijs, anonymous, 1826",
+  "subTitle": "h 288mm \u00d7 w 442mm",
+  "scLabelLine": "anonymous, 1826, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

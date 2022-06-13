@@ -60,14 +60,6 @@
   "dimensions": "Sheet: 10 11/16 \u00d7 14 11/16 in. (27.2 \u00d7 37.3 cm)\r\nMount: 16 11/16 \u00d7 22 15/16 in. (42.4 \u00d7 58.3 cm)",
   "measurements": [
     {
-      "elementName": "Mount",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 42.4,
-        "Width": 58.3
-      }
-    },
-    {
       "elementName": "Sheet",
       "elementDescription": null,
       "elementMeasurements": {
@@ -81,6 +73,14 @@
       "elementMeasurements": {
         "Height": 62.230125,
         "Width": 77.47015
+      }
+    },
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.4,
+        "Width": 58.3
       }
     }
   ],

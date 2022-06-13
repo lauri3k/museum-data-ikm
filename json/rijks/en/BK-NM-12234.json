@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12234",
+  "priref": "16028",
+  "objectNumber": "BK-NM-12234",
+  "language": "en",
+  "title": "Plaque",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eac29223-08b9-464d-95b5-3313593c3cdd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2415,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/XsGI152NAgOSOEdmVgbVvBkP4DmNjQQWvLEZW7ZJzRZR-i4Z92KMGUethKVrAMkjQiKT3Qh2x9xvyU4oJpY8I8PHPA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 76,
+      "hex": "#C3C6C8"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A89356"
+    },
+    {
+      "percentage": 5,
+      "hex": " #9095A1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #434A53"
+    },
+    {
+      "percentage": 0,
+      "hex": " #84562C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #636D84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #171C31"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C3C6C8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A89356",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9095A1",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #434A53",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #84562C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #636D84",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #171C31",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 76,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 76,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Plaat van faience. Veelkleurig beschilderd met vier bloemen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1911-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1750 - c. 1775",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G41(TULIP)",
+      "25G411"
+    ],
+    "iconClassDescription": [
+      "flowers: tulip",
+      "cut flowers; nosegay, bunch of flowers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-12234"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "32.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "24.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": null,
+  "longTitle": "Plaque, anonymous, c. 1750 - c. 1775",
+  "subTitle": "h 32.0cm \u00d7 w 24.0cm",
+  "scLabelLine": "Delft, c. 1750\u20131775, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Plaque",
+    "makerLine": "Delft, c. 1750\u20131775, tin-glazed earthenware (faience)",
+    "description": "This bouquet with two tulips has been exceptionally rendered. The quality of the depiction of the flowers on the white glaze equals that of the work of painters or draughtsmen on canvas or paper. Originally the plaque would have been framed, like a painting, in a dark wooden frame.",
+    "notes": null,
+    "date": "2013-04-10"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

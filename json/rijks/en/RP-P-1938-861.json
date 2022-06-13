@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1938-861",
+  "priref": "224556",
+  "objectNumber": "RP-P-1938-861",
+  "language": "en",
+  "title": "Gevecht op straat tussen schoorsteenveger en molenaar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "47b98b65-b895-461b-a503-096c161e98e3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1958,
+    "height": 2420,
+    "url": "https://lh3.googleusercontent.com/yQRzOSqKuNddtTN5qe1cE7F1190vR7RrVw75SKO1JQzQK3mQ_sq-d7OHm3O-DwvToUSuSKoQUDJxOe209zdV-NX7De-9ab6cme8q4XeW=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gevecht op straat tussen schoorsteenveger en molenaar",
+    "A contest between soot & flour"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Laurie & Whittle",
+      "unFixedName": "Laurie & Whittle",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Laurie & Whittle, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1938-01-01T00:00:00",
+    "creditLine": "Gift of D.H. Cevat, Guernsey"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "England",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1794",
+    "sortingDate": 1794,
+    "period": 18,
+    "yearEarly": 1794,
+    "yearLate": 1794
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C313",
+      "41B151",
+      "33B31",
+      "25I141"
+    ],
+    "iconClassDescription": [
+      "spoon",
+      "soot",
+      "fist-fight",
+      "street"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1938-861"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Gevecht op straat tussen schoorsteenveger en molenaar, anonymous, 1794",
+  "subTitle": "h 152mm \u00d7 w 113mm",
+  "scLabelLine": "anonymous, 1794, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

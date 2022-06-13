@@ -35,13 +35,6 @@
   "dimensions": "Painting:\r\n             H. 8 5/16 in. (21.1 cm)\r\n             W. 4 13/16 in. (12.2 cm)\r\nLeaf: \r\n            H. 15 3/16 in. (38.6 cm)\r\n            W. 8 11/16 in. (22.1 cm)",
   "measurements": [
     {
-      "elementName": "Width",
-      "elementDescription": "Leaf",
-      "elementMeasurements": {
-        "Width": 22.098043
-      }
-    },
-    {
       "elementName": "Height",
       "elementDescription": "Leaf",
       "elementMeasurements": {
@@ -60,6 +53,13 @@
       "elementDescription": "Painting",
       "elementMeasurements": {
         "Height": 21.082043
+      }
+    },
+    {
+      "elementName": "Width",
+      "elementDescription": "Leaf",
+      "elementMeasurements": {
+        "Width": 22.098043
       }
     }
   ],

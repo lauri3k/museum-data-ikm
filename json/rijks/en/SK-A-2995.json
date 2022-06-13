@@ -1,0 +1,221 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2995",
+  "priref": "9003",
+  "objectNumber": "SK-A-2995",
+  "language": "en",
+  "title": "White Cow",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3212e101-a8cc-4ccf-a110-a7ca243f6675",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2846,
+    "height": 2015,
+    "url": "https://lh3.googleusercontent.com/VTTf-v08i6kyu5e8g7liYN9CScMt0qle4Q6seMh0RyD9VjWmmLN9ONOqnwqZWaYu6VAejDrGfHQnjA3r2cAlpR1wTTai=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#8A7F5D"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B1A37C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #7A6946"
+    },
+    {
+      "percentage": 38,
+      "hex": " #2B2318"
+    },
+    {
+      "percentage": 11,
+      "hex": " #665535"
+    },
+    {
+      "percentage": 23,
+      "hex": " #4C4421"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#8A7F5D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B1A37C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7A6946",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #2B2318",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #665535",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #4C4421",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 38,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "White Cow"
+  ],
+  "description": "Een witte koe staande aan de kant van een sloot, met de voorpoten in het water. Rechts riet of struiken. Links op de achtergrond meer koeien in de wei.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Maris",
+      "unFixedName": "Maris, Willem",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1844-02-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1910-10-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Maris (18-feb-1844 - 10-okt-1910)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Maris",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1923-08-01T00:00:00",
+    "creditLine": "C.D. Reich Bequest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1880 - c. 1910",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1910
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I2112",
+      "25H17"
+    ],
+    "iconClassDescription": [
+      "cow",
+      "meadow, pasture"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2995"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Maris",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "27"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "37"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "White Cow, Willem Maris, c. 1880 - c. 1910",
+  "subTitle": "h 27cm \u00d7 w 37cm",
+  "scLabelLine": "Willem Maris (1844\u20131910), oil on panel, c. 1880\u20131910",
+  "label": {
+    "title": "White Cow",
+    "makerLine": "Willem Maris (1844\u20131910), oil on panel, c. 1880\u20131910",
+    "description": "Willem Maris may have used this small painting as a preparatory study for several of his large compositions with a cow. From the cow\u2019s contours, it is clear that it was painted in light colours over a dark brown ground. Willem Maris was the only artist in his group who consistently worked in this way. Most Hague School painters used a light ground.",
+    "notes": null,
+    "date": "2013-02-04"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

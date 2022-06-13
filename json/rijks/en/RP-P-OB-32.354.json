@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-32.354",
+  "priref": "137052",
+  "objectNumber": "RP-P-OB-32.354",
+  "language": "en",
+  "title": "Groentekraam en bedelaar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c26acff4-afb3-480f-b79a-676b49bf8d98",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1986,
+    "url": "https://lh3.googleusercontent.com/E0HHXdkiVRJT6u45KxZcwf1DzWCNPfZY-vF-x2NHH27U68gJPcgvfOaYMFWwA7uYVO4sRQR7oOHKKXTabFCBn5cVcL7bMKAUStLNjhE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Groentekraam en bedelaar"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Robert Sayer",
+      "unFixedName": "Sayer, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1725",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1794-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Sayer (c. 1725 - feb-1794), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Laurie",
+      "unFixedName": "Laurie, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1755",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1836-05-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Broxbourne",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Laurie (1755 - 19-mei-1836)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Laurie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1788",
+    "sortingDate": 1788,
+    "period": 18,
+    "yearEarly": 1788,
+    "yearLate": 1788
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46B111",
+      "46A151",
+      "25I24"
+    ],
+    "iconClassDescription": [
+      "stall, booth (~ market)",
+      "beggar",
+      "public road in village"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-32.354"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Laurie",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "353"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "452"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Groentekraam en bedelaar, Robert Laurie, 1788",
+  "subTitle": "h 353mm \u00d7 w 452mm",
+  "scLabelLine": "Robert Laurie, 1788, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-32.355",
+  "priref": "137053",
+  "objectNumber": "RP-P-OB-32.355",
+  "language": "en",
+  "title": "Liedzanger en rattenvanger",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c089b9fa-6b07-4adb-b593-02a56ada62d7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1780,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/CIH5__QG6SM9bfdqsDN0HStZCvzyYgJc_InIv_aDXGtb1ywfUPMoBDr6kotMl3tWkH4SBzPaoH-bffRThilb2xF4t2OWppCH4fXsRNlqhw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Liedzanger en rattenvanger",
+    "The Flemish Ratt Catcher"
+  ],
+  "description": "Op een plein staat een liedzanger voor een verzameling prenten die op een rol tussen stokken is geplakt. Voor hem staat een groep mannen, vrouwen en kinderen. Een kind heeft een hoepel in zijn hand. Naast de zanger staat een rattenvanger die een stok met daarop een kooi waaraan dode ratten hangen vasthoudt.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Robert Sayer",
+      "unFixedName": "Sayer, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1725",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1794-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Sayer (c. 1725 - feb-1794), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Laurie",
+      "unFixedName": "Laurie, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1755",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1836-05-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Broxbourne",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Laurie (1755 - 19-mei-1836)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Laurie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1772",
+    "sortingDate": 1772,
+    "period": 18,
+    "yearEarly": 1772,
+    "yearLate": 1772
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A3",
+      "43A35",
+      "48CC75621",
+      "34D122"
+    ],
+    "iconClassDescription": [
+      "pleasure fair and circus",
+      "performance in the open air (pleasure fair)",
+      "ballad singer, ballad seller - CC - out of doors",
+      "rat exterminator"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-32.355"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Robert Laurie",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "507"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "355"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Liedzanger en rattenvanger, Robert Laurie, 1772",
+  "subTitle": "h 507mm \u00d7 w 355mm",
+  "scLabelLine": "Robert Laurie, 1772, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

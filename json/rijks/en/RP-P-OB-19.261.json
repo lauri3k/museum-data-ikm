@@ -1,0 +1,205 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-19.261",
+  "priref": "325171",
+  "objectNumber": "RP-P-OB-19.261",
+  "language": "en",
+  "title": "Jacobs vertrek",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a455b19b-3a2e-4ae3-a6c6-48d23bbe2c55",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1983,
+    "url": "https://lh3.googleusercontent.com/yRQoI324--U2IvtZC0CuYTfSAibby630M1C4W8l1FHq60qNWvKp9XadHPzVF1cgzcAOG8QLENmvjFUc5W8FOA0zMFhVfxlQ9fu4ItQj3bg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Jacobs vertrek",
+    "Jacob's Departure"
+  ],
+  "description": "Tekst in het Engels in de ondermarge.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Thomas Major",
+      "unFixedName": "Major, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1714",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1799-12-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Major (1714 - 30-dec-1799), London"
+    },
+    {
+      "name": "Thomas Major",
+      "unFixedName": "Major, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1714",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1799-12-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Major (1714 - 30-dec-1799)"
+    },
+    {
+      "name": "Augusta van Saksen-Gotha",
+      "unFixedName": "Saksen-Gotha, Augusta van",
+      "placeOfBirth": "Gotha",
+      "dateOfBirth": "1719-11-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1772-02-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Augusta van Saksen-Gotha (30-nov-1719 - 08-feb-1772)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Thomas Major",
+      "unFixedName": "Major, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1714",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1799-12-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Major (1714 - 30-dec-1799)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas Major",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1754",
+    "sortingDate": 1754,
+    "period": 18,
+    "yearEarly": 1754,
+    "yearLate": 1754
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71D1253"
+    ],
+    "iconClassDescription": [
+      "Joseph's departure (after being sold by his brothers)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-19.261"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "Thomas Major",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "505"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "622"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Jacobs vertrek, Thomas Major, 1754",
+  "subTitle": "h 505mm \u00d7 w 622mm",
+  "scLabelLine": "Thomas Major, 1754, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

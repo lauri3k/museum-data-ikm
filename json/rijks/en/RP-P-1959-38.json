@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1959-38",
+  "priref": "214414",
+  "objectNumber": "RP-P-1959-38",
+  "language": "en",
+  "title": "Dark Horizon",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dark Horizon"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gabor Peterdi",
+      "unFixedName": "Peterdi, Gabor",
+      "placeOfBirth": "Boedapest",
+      "dateOfBirth": "1915",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2001-08-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Stamford",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "United States of America"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Gabor Peterdi (1915 - 13-aug-2001), United States of America"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gabor Peterdi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "United States of America"
+  ],
+  "dating": {
+    "presentingDate": "1954",
+    "sortingDate": 1954,
+    "period": 20,
+    "yearEarly": 1954,
+    "yearLate": 1954
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "0"
+    ],
+    "iconClassDescription": [
+      "Abstracte, niet-figuratieve kunst"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1959-38"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gabor Peterdi",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "605"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "445"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Dark Horizon, Gabor Peterdi, 1954",
+  "subTitle": "h 605mm \u00d7 w 445mm",
+  "scLabelLine": "Gabor Peterdi, 1954, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

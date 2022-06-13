@@ -1,0 +1,263 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1975-79",
+  "priref": "17181",
+  "objectNumber": "BK-1975-79",
+  "language": "en",
+  "title": "Wedding knife and fork",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4516b617-b1e7-4695-8291-41390762a1b2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1872,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/P-NYXQrJ7hpZ3ETE66Ul2jpq0uhhNnfMPEjg_JA6O7BZ5UHbumdK0ixbl98cPyIpvLrI9LnWHRclfs4E0z6Gx6GJgQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#F6F5F4"
+    },
+    {
+      "percentage": 79,
+      "hex": " #DED0A8"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A498"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8A7E66"
+    },
+    {
+      "percentage": 4,
+      "hex": " #63553F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #282422"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F5F4",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #DED0A8",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A9A498",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8A7E66",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #63553F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #282422",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 79,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 79,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "Bruidsbestek van goud met ni\u00ebllo in schede van leer en goud met ni\u00ebllo. Bestaande uit een vork, mes en schede.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "goldsmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Southern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "goldsmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1975-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)",
+    "leather",
+    "iron (metal)"
+  ],
+  "techniques": [
+    "niello (technique)"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Southern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1597",
+    "sortingDate": 1597,
+    "period": 16,
+    "yearEarly": 1597,
+    "yearLate": 1597
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11M33",
+      "11M44",
+      "48A98"
+    ],
+    "iconClassDescription": [
+      "Charity, 'Caritas'; 'Carit\u00c3\u00a0' (Ripa) ~ one of the Three Theological Virtues",
+      "Justice, 'Justitia'; 'Giustitia divina' (Ripa) ~ one of the Four Cardinal Virtues",
+      "ornaments ~ art"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1975-79"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "16.5"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "16.6"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "15.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "niello (technique)",
+  "longTitle": "Wedding knife and fork, anonymous, 1597",
+  "subTitle": "l 16.5cm",
+  "scLabelLine": "Northern or southern Netherlands, 1597, gold, niello, iron; case: leather, gold",
+  "label": {
+    "title": "Wedding knife and fork",
+    "makerLine": "Northern or southern Netherlands, 1597, gold, niello, iron; case: leather, gold",
+    "description": "In the 16th century a groom would give his bride a set of wedding cutlery bearing their names or initials. This gold set is distinguished by its refined engraving, the designs of which were inspired by contemporary prints by Theodor de Bry. In the cutlery, the dark passages of the prints are executed in niello (a black mixture of silver, lead and sulphur).",
+    "notes": null,
+    "date": "2013-04-03"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

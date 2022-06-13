@@ -1,0 +1,148 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-282",
+  "priref": "35668",
+  "objectNumber": "RP-P-OB-282",
+  "language": "en",
+  "title": "Self-portrait in a cap and scarf with the face dark: bust",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "07209343-6987-4c72-a566-34202fbdacc6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2447,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/QXw19CTxMOq8E2yiItJqyY39YhSO7RFRp5x0PoXLd2Cv3fSalVNZu4ot-Nf1z91bpWmAu7KCp2tvFZlyVrEnFgz-2AH-=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Self-portrait in a cap and scarf with the face dark: bust"
+  ],
+  "description": "Het geheel samengesteld uit twee uitgeknipte fragmenten: het portret uit de eerste en de signatuur met achtergrond en kader uit de twee.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1633",
+    "sortingDate": 1633,
+    "period": 17,
+    "yearEarly": 1633,
+    "yearLate": 1633
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rijn, Rembrandt van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-282"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rijn, Rembrandt van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 120",
+    "120",
+    "Bartsch 17",
+    "17",
+    "Bartsch 17",
+    "17",
+    "Hollstein Dutch 17",
+    "17",
+    "Hollstein Dutch 17",
+    "17"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "132"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Self-portrait in a cap and scarf with the face dark: bust, Rembrandt van Rijn, 1633",
+  "subTitle": "h 132mm \u00d7 w 103mm",
+  "scLabelLine": "Rembrandt van Rijn, 1633, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

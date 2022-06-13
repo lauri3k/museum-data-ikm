@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1968-362",
+  "priref": "66922",
+  "objectNumber": "RP-T-1968-362",
+  "language": "en",
+  "title": "Colma Lamenting the Death of Salgar and her Brother",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4a8e17f6-25c3-4040-bcbb-9d35ca1ea962",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1881,
+    "url": "https://lh3.googleusercontent.com/65_n7Y6QRNlfwwL_7mFtXTqW9JOscL2K-ZaFPJhiRscfmGtg9oKHnzTl0-ZnaKctkHRfj6fWn4nBdOQGfFoIRUZy9Jcp=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Colma Lamenting the Death of Salgar and her Brother"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bartolomeo Pinelli",
+      "unFixedName": "Pinelli, Bartolomeo",
+      "placeOfBirth": "Rome",
+      "dateOfBirth": "1781-11-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1835-04-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "sculptor"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Bartolomeo Pinelli (20-nov-1781 - 01-apr-1835)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bartolomeo Pinelli",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1968-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "chalk"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1809",
+    "sortingDate": 1809,
+    "period": 19,
+    "yearEarly": 1809,
+    "yearLate": 1809
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "81G",
+      "81GG",
+      "83(MACPHERSON, Poems of Ossian)"
+    ],
+    "iconClassDescription": [
+      "'De gedichten van Ossian' : Gebruik 83 (MACPHERSON, Gedichten van Ossian)",
+      "(scenes from) specific works of literature (with AUTHOR, title)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1968-362"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bartolomeo Pinelli",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "345"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "468"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Colma Lamenting the Death of Salgar and her Brother, Bartolomeo Pinelli, 1809",
+  "subTitle": "h 345mm \u00d7 w 468mm",
+  "scLabelLine": "Bartolomeo Pinelli (1781-1835), pen and grey ink, with light brown and grey wash, over a sketch in black chalk, 1809",
+  "label": {
+    "title": "Colma Lamenting the Death of Salgar and her Brother",
+    "makerLine": "Bartolomeo Pinelli (1781-1835), pen and grey ink, with light brown and grey wash, over a sketch in black chalk, 1809",
+    "description": "This Lamentation reflects the tempered classicist style of its pendant with the discovery of the corpses of the two duellists. Dressed in a fantasy Roman-medieval costume, the grieving Colma stands out in a dramatic pose against the dark vegetation. The fairly two-dimensional composition is reminiscent of sculpted friezes and vase paintings from antiquity.",
+    "notes": null,
+    "date": "2019-11-12"
+  },
+  "showImage": true,
+  "location": null
+}

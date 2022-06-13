@@ -1,0 +1,281 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-H-1241",
+  "priref": "167778",
+  "objectNumber": "RP-P-H-H-1241",
+  "language": "en",
+  "title": "Davids berouw en straf",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8746e5a1-6bdf-4b2e-96a6-e625d55dcad3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 6383,
+    "height": 4864,
+    "url": "https://lh5.ggpht.com/7zSfSf3wtUOReEBuKK3kiIBkj0rS626EEMGAUsRK0iyh5rb0plE35WURzDeicniGX9Lc3IkLBWvExERE_3P0jAwV3A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 2,
+      "hex": "#FCFAF6"
+    },
+    {
+      "percentage": 31,
+      "hex": " #E4DFCB"
+    },
+    {
+      "percentage": 18,
+      "hex": " #BBB7A6"
+    },
+    {
+      "percentage": 14,
+      "hex": " #8C8A79"
+    },
+    {
+      "percentage": 15,
+      "hex": " #686957"
+    },
+    {
+      "percentage": 16,
+      "hex": " #383A2D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FCFAF6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E4DFCB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BBB7A6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8C8A79",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #686957",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #383A2D",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 16,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 30,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 16,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Davids berouw en straf",
+    "Geschiedenis van David"
+  ],
+  "description": "Op de voorgrond knielt David voor Natan, nadat hij Gods straf heeft gehoord. Op de achtergrond de dood van Davids eerstgeboren zoon. Op de achtergrond rechts zit David uit berouw op de grond en weigert hij te eten. Zijn dienaren komen hem vertellen dat zijn zoon gestorven is. De prent heeft een Latijns onderschrift met uitleg.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johann Sadeler (I)",
+      "unFixedName": "Sadeler, Johann (I)",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1600-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Sadeler (I) (1550 - aug-1600)"
+    },
+    {
+      "name": "Johann Sadeler (I)",
+      "unFixedName": "Sadeler, Johann (I)",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1600-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "unknown"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Sadeler (I) (1550 - aug-1600), unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Aegidius Sadeler (II)",
+      "unFixedName": "Sadeler, Aegidius (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1568-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1629",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Praag",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "unknown"
+      ],
+      "qualification": null,
+      "labelDesc": "Aegidius Sadeler (II) (jul-1568 - 1629), unknown"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aegidius Sadeler (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "unknown",
+    "Antwerp",
+    "unknown"
+  ],
+  "dating": {
+    "presentingDate": "1580 - 1596",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1596
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71H772",
+      "71H773"
+    ],
+    "iconClassDescription": [
+      "David repentant; he lies on the ground praying and fasting for his child to recover",
+      "David's child dies; David's servants hesitate to bring him the news"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-H-1241"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 10",
+    "10",
+    "Hollstein Dutch 106",
+    "106"
+  ],
+  "principalOrFirstMaker": "Aegidius Sadeler (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "202"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "265"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Davids berouw en straf, Aegidius Sadeler (II), 1580 - 1596",
+  "subTitle": "h 202mm \u00d7 w 265mm",
+  "scLabelLine": "Aegidius Sadeler (II), 1580 - 1596, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

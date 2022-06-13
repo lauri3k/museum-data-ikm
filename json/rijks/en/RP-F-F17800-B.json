@@ -1,0 +1,210 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F17800-B",
+  "priref": "434779",
+  "objectNumber": "RP-F-F17800-B",
+  "language": "en",
+  "title": "Portrait of a Man and a Portrait of a Woman",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5a8240ae-2750-4d1c-84aa-7dcc58f2731b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2666,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/u13v0PfYFUsHeXIcDU-RDsuT8y7mhWszxBuyOnvxOSAgp-OZ6HYvFHpSbaq3mK2If6o9LzrIZg0Z3guqpBiPGkvPN7ws=s0"
+  },
+  "colors": [
+    {
+      "percentage": 22,
+      "hex": "#3C3520"
+    },
+    {
+      "percentage": 7,
+      "hex": " #130E06"
+    },
+    {
+      "percentage": 8,
+      "hex": " #EBE5BF"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A29670"
+    },
+    {
+      "percentage": 10,
+      "hex": " #BBB59C"
+    },
+    {
+      "percentage": 32,
+      "hex": " #746645"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3C3520",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #130E06",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #EBE5BF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A29670",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BBB59C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #746645",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFFACD"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1850 - c. 1859",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1859
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F17800-B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "167"
+    },
+    {
+      "unit": "mm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "10"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "photograph",
+  "longTitle": "Portrait of a Man and a Portrait of a Woman, anonymous, c. 1850 - c. 1859",
+  "subTitle": "h 94mm \u00d7 w 167mm \u00d7 d 10mm",
+  "scLabelLine": "anonymous American daguerreotypes, c. 1850\u20131859",
+  "label": {
+    "title": "Portrait of a Man and a Portrait of a Woman",
+    "makerLine": "anonymous American daguerreotypes, c. 1850\u20131859",
+    "description": "To make a daguerreotype, a copperplate, coated with silver, was polished and sensitized to light with iodine vapour. The plate was placed in the camera and exposed for 30\u201390 seconds. It was then removed from the camera in the dark and placed above a heated mercury bath. As the mercury vapour reacted with the plate\u2019s surface, an image appeared, which was subsequently\nfixed.",
+    "notes": null,
+    "date": "2014-06-17"
+  },
+  "showImage": true,
+  "location": null
+}

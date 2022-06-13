@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-187",
+  "priref": "36109",
+  "objectNumber": "RP-P-OB-187",
+  "language": "en",
+  "title": "St Jerome in a dark chamber",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6baf2aab-04ef-40ad-8739-63ba50fd3ffa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2598,
+    "url": "https://lh3.googleusercontent.com/JfozYenFjkhzOjE8ZoNsjTTt91ImSehn1JKnwRLxURXS4aw4eBheJHvGpseeIvb3rS1EQFbOCKsD0sAQItrnQ6MOiHw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "St Jerome in a dark chamber"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jean de Bary",
+      "unFixedName": "Bary, Jean de",
+      "placeOfBirth": null,
+      "dateOfBirth": "1675",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1759",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jean de Bary (1675 - 1759)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1642",
+    "sortingDate": 1642,
+    "period": 17,
+    "yearEarly": 1642,
+    "yearLate": 1642
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JEROME)"
+    ],
+    "iconClassDescription": [
+      "the monk and hermit Jerome (Hieronymus); possible attributes: book, cardinal's hat, crucifix, hour-glass, lion, skull, stone"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-187"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 212",
+    "212",
+    "Bartsch 105",
+    "105",
+    "Hollstein Dutch 105",
+    "105"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "174"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "St Jerome in a dark chamber, Rembrandt van Rijn, 1642",
+  "subTitle": "h 152mm \u00d7 w 174mm",
+  "scLabelLine": "Rembrandt van Rijn, 1642, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

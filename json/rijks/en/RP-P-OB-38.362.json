@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-38.362",
+  "priref": "191710",
+  "objectNumber": "RP-P-OB-38.362",
+  "language": "en",
+  "title": "Lente",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a2e8d838-af51-4ecb-99f7-1aaeea4ec625",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2003,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/NrFCPmQ3eSCgRN7DfBWLcMsagHgkLYg1-8IYln6GcLIzAHc7ApzrjzvAKFgEy3WRLQE1GIwhC4DMJz_8S8lfKQH1w8xv=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Lente",
+    "Spring"
+  ],
+  "description": "Figuren in een landschap in de lente. Tekst in het Engels in ondermarge. Genummerd linksonder: Vol. II. No. 1.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Boydell",
+      "unFixedName": "Boydell, John",
+      "placeOfBirth": "Dorrington",
+      "dateOfBirth": "1719-01-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-12-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Boydell (19-jan-1719 - 21-dec-1804), England"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giovanni Vitalba",
+      "unFixedName": "Vitalba, Giovanni",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1738",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1792",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Vitalba (1738 - 1792)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giovanni Vitalba",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1766",
+    "sortingDate": 1766,
+    "period": 18,
+    "yearEarly": 1766,
+    "yearLate": 1766
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "23E"
+    ],
+    "iconClassDescription": [
+      "seizoenen van het jaar weergegeven door taferelen met menselijke activiteiten, meestal in een landschap"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-38.362"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 3",
+    "3"
+  ],
+  "principalOrFirstMaker": "Giovanni Vitalba",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "239"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Lente, Giovanni Vitalba, 1766",
+  "subTitle": "h 315mm \u00d7 w 239mm",
+  "scLabelLine": "Giovanni Vitalba, 1766, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

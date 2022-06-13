@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-OB-816",
+  "priref": "37259",
+  "objectNumber": "RP-P-H-OB-816",
+  "language": "en",
+  "title": "Mountain Landscape with a Crest, Second Version",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c9b0ebcf-058a-48df-ad5c-544b75aaf265",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1500,
+    "height": 895,
+    "url": "https://lh5.ggpht.com/6Fx6WY2RC74WdxybcXX3bzShgbclO79YF_GeS6kej3IsaR0FnSieaX2QqE0a2wnpTA6k3Sm6QB52i3cAZmjJbVfKDoU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Mountain Landscape with a Crest and a Forked Tree: Second Version"
+  ],
+  "description": "Negatieve druk, tweede versie van het landschap met puntige rots en gevorkte boom.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hercules Segers",
+      "unFixedName": "Segers, Hercules",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1640",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hercules Segers (c. 1590 - c. 1640), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hercules Segers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "? Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1622 - c. 1625",
+    "sortingDate": 1622,
+    "period": 17,
+    "yearEarly": 1622,
+    "yearLate": 1625
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I2",
+      "25H112"
+    ],
+    "iconClassDescription": [
+      "village",
+      "rocks"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-OB-816"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 16",
+    "16",
+    "Leeflang 16",
+    "16",
+    "Haverkamp-Begemann 16",
+    "16"
+  ],
+  "principalOrFirstMaker": "Hercules Segers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "102"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "180"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "line etching with lines left blank intended specifically for printing in light-coloured ink on a darker surface, printed in light blue on paper prepared with a dark greyish-brown, lead-based ground, coloured with yellowish-green paint",
+  "longTitle": "Mountain Landscape with a Crest, Second Version, Hercules Segers, c. 1622 - c. 1625",
+  "subTitle": "h c.102mm \u00d7 w c.180mm",
+  "scLabelLine": "line etching in light blue, on a grey-brown ground, coloured with the brush, unique impression, c. 1622-1625",
+  "label": {
+    "title": "Mountain Landscape with a Crest, Second Version",
+    "makerLine": "line etching in light blue, on a grey-brown ground, coloured with the brush, unique impression, c. 1622-1625",
+    "description": "This etching is a variant of the adjacent ones (RP-P-H-OB-817, RP-P-H-OB-815). Segers used this plate only for impressions in light ink on a dark ground. The lighter passages, namely, are printed. The dark lines are reserved and show the dark underground.",
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

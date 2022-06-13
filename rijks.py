@@ -1,4 +1,5 @@
-from typing import Optional, Tuple, overload
+from typing import Optional, Tuple
+import os
 import math
 import requests
 import asyncio
@@ -19,10 +20,10 @@ def get_key() -> str:
     # return os.getenv("RIJKSMUSEUM_API")
 
 
-def get_page(url: str, page_nr: Optional[int] = None):
+def get_page(session, url: str, page_nr: Optional[int] = None):
     if page_nr is not None:
         url += f"&p={page_nr}"
-    res = requests.get(url)
+    res = session.get(url)
     data = res.json()
     return data
 
@@ -31,13 +32,15 @@ def rijks_find_results(query: str, lang: str = "en"):
     key = get_key()
     n_results = 100
     url = f"https://www.rijksmuseum.nl/api/{lang}/collection?key={key}&ps={n_results}&q={query}"
-    first_page = get_page(url)
-    print(f"Found {first_page['count']} results.")
-    n_pages = math.ceil(int(first_page["count"]) / n_results)
-    art_objects = first_page["artObjects"]
-    for n in range(2, n_pages + 1):
-        page = get_page(url, n)
-        art_objects.extend(page["artObjects"])
+    with requests.Session() as session:
+        session.headers = {"Accept": "*/*"}
+        first_page = get_page(session, url)
+        print(f"Found {first_page['count']} results.")
+        n_pages = math.ceil(int(first_page["count"]) / n_results)
+        art_objects = first_page["artObjects"]
+        for n in range(2, n_pages + 1):
+            page = get_page(session, url, n)
+            art_objects.extend(page["artObjects"])
     return art_objects
 
 
@@ -45,7 +48,7 @@ def rijks_find_results_full(query, lang="en", overwrite=False):
     art_objects = rijks_find_results(query, lang)
     # print(json.dumps(art_objects, indent=2))
     object_nrs = [o["objectNumber"] for o in art_objects]
-    asyncio.run(fetch(object_nrs, overwrite=overwrite))
+    return asyncio.run(fetch(object_nrs, overwrite=overwrite))
 
 
 def rijks_find_object(object_nr: str, lang="en"):
@@ -79,11 +82,16 @@ async def fetch_all():
 
 async def fetch(object_nrs, lang="en", overwrite=False):
     out = []
-
     if not overwrite:
-        prefix = f"./json/rijks/{lang}/"
-        existing_object_nrs = find_existing_files(prefix)
+        file_path = os.path.join(os.path.dirname(__file__), "json", "rijks", lang)
+        existing_object_nrs = find_existing_files(file_path)
+        cached_objects = [x for x in object_nrs if x in existing_object_nrs]
         object_nrs = [x for x in object_nrs if x not in existing_object_nrs]
+        for object_nr in cached_objects:
+            p = os.path.join(file_path, f"{object_nr}.json")
+            with open(p) as f:
+                out.append(json.load(f))
+        print(f"{len(cached_objects)} objects in cache.")
 
     async with httpx.AsyncClient(timeout=None) as client:
         n = 10
@@ -117,6 +125,7 @@ async def fetch(object_nrs, lang="en", overwrite=False):
 
             for res in data:
                 art_object = res["artObject"]
+                out.append(art_object)
                 write_to_file(art_object, lang)
 
             print(f"Progress: {count + 1} / {len(list_of_lists)}")
@@ -126,11 +135,19 @@ async def fetch(object_nrs, lang="en", overwrite=False):
                 f"Hit rate limiter with {len(failures)} objects! Fetching the skipped objects."
             )
             await fetch(failures, lang, overwrite)
+    return out
 
 
 def write_to_file(art_object, lang="en"):
+    file_path = os.path.join(
+        os.path.dirname(__file__),
+        "json",
+        "rijks",
+        lang,
+        f"{art_object['objectNumber']}.json",
+    )
     with open(
-        f"./json/rijks/{lang}/{art_object['objectNumber']}.json",
+        file_path,
         "w",
         encoding="utf-8",
     ) as f:
@@ -193,5 +210,6 @@ def run_harvest() -> None:
 if __name__ == "__main__":
     # asyncio.run(main())
     # rijks_find_object("SK-C-5", "en")
-    rijks_find_results_full("slave")
+    # asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    rijks_find_results_full("dark")
     # asyncio.run(fetch_all())

@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-201.543",
+  "priref": "537981",
+  "objectNumber": "RP-P-OB-201.543",
+  "language": "en",
+  "title": "St Nicholas Game",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e398c4bd-50ac-4984-bd37-35be742ecb2c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1944,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/MKFjOcxmDESMrOJ5Ao6bdWHQfV5hVQqFCuD_mAVvCobvVZeem7QdoSVDqURkXxYx-z9AHxuURJjC3ZvHJnNzlvSBiy2w=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "St Nicholas Game"
+  ],
+  "description": "Bordspel met spiraal met vakjes genummerd van 1 tot en met 63. Bij nummer 63: Sint Nicolaas die snoepgoed strooit in een kamer vol kinderen. Onder een voorstelling van Sint Nicolaas te paard die samen met zijn knecht appels uitdeelt aan kinderen op straat. Rechtsboven de spelregels, midden boven de titel.",
+  "labelText": null,
+  "objectTypes": [
+    "print",
+    "gameboard"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Amand",
+      "unFixedName": "Amand",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Amand, Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Amand",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1890",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43C52",
+      "43C53",
+      "43A1451",
+      "11H(NICHOLAS)"
+    ],
+    "iconClassDescription": [
+      "board-games",
+      "board-games of chance",
+      "festivities on St. Nicholas (Eve) (December 5)",
+      "the bishop Nicholas of Myra (or Bari); possible attributes: anchor, boat, three golden balls (on a book), three purses, three children in a tub, three maidens"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-201.543"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Amand",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "565"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "437"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "St Nicholas Game, Amand, c. 1890",
+  "subTitle": "h 565mm \u00d7 w 437mm",
+  "scLabelLine": "printed by: Amand, Amsterdam, c. 1890, colour lithograph",
+  "label": {
+    "title": "St Nicholas Game",
+    "makerLine": "printed by: Amand, Amsterdam, c. 1890, colour lithograph",
+    "description": "Here the servant of Saint Nicholas appears each time in a different guise. At upper left is a capital letter \u2018S\u2019 with a Pete as we know him now: black and wearing a Renaissance-style costume. \u2018The servant\u2019 in box 6 has a pale complexion; the one in box 52 seems to be of Mediterranean origin, with a beautiful moustache and goatee. In box 58 a dark, menacing tough-guy puts some miscreants in his sack.",
+    "notes": null,
+    "date": "2015-06-05"
+  },
+  "showImage": true,
+  "location": null
+}
