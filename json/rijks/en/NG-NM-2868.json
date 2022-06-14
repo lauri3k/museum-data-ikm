@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-2868",
+  "priref": "433114",
+  "objectNumber": "NG-NM-2868",
+  "language": "en",
+  "title": "Model of a Cora-Cora",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "031a10ad-28cd-4cd6-bd0a-6232dec140e4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1955,
+    "url": "https://lh3.googleusercontent.com/McFWJqnLo00EevmnScFKa15qynromy-HSgneQwswYMlzrQoUoYziglcVFX5NJ6Dodazaj2PwUcQpUVcKEApB-63IW-c=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Model of a Cora-Cora"
+  ],
+  "description": "Gepolychromeerd uitgehold blokmodel van een roeivaartuig. Het is een gladboordige spitsgatter met rechte stevens. Het heeft een scherp onderwaterschip op een kiel gebouwd, wat zou kunnen wijzen op een vlerkprauw: dit zou tevens de twee gereconstrueerde dwarsbalken kunnen verklaren op achterschip en boeg, die uithouders voor drijvers zouden kunnen zijn. Het heeft een voordek, een kajuit midscheeps die in drie gedeelten doorloopt tot het overhangend hek. Het model is versierd met twee ogen bij de boeg, roostervensters, en op de schotten vergulde reli\u00ebfs van vogels. Op overhangende loopgangen zijn veertien roeiplaatsen aangegeven, en achter heeft het schip roersteunen voor twee zijroeren, waar de kajuit twee openingen heeft voor de roergangers. Een beschadigde stut in het voordek suggereert een soort tuigsteun, terwijl een gat bij de boeg een mastgat zou kunnen zijn, mogelijk voor een driebenige mast, deze is op het model gereconstrueerd op basis van literatuur.",
+  "labelText": null,
+  "objectTypes": [
+    "ship model",
+    "fully rigged model"
+  ],
+  "objectCollection": [
+    "ship models"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "model maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Indonesian Archipelago"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Indonesian Archipelago"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1867-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "brass (alloy)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Indonesian Archipelago"
+  ],
+  "dating": {
+    "presentingDate": "c. 1800 - c. 1875",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "NG-NM-2868"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Nick Burningham, 'Indonesian quarter-rudder mountings', The International Journal of Nautical Archeology Society, Vol. 29:1 (2009), p. 100-119",
+    "A.C. Haddon, 'The Outriggers of Indonesian Canoes', The Journal of the Anthropological Institute of Great Britain and Ireland, Vol. 50 (1920), p. 69-134"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "15.3"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "75.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "28.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood, brass",
+  "longTitle": "Model of a Cora-Cora, anonymous, c. 1800 - c. 1875",
+  "subTitle": "h 15.3cm \u00d7 l 75.5cm \u00d7 w 28.8cm",
+  "scLabelLine": "Indonesian Archipelago, c. 1800-1875, wood, brass",
+  "label": {
+    "title": "Model of a Cora-Cora",
+    "makerLine": "Indonesian Archipelago, c. 1800-1875, wood, brass",
+    "description": "The Cora-Cora is a Moluccan prahu. Eyes have been painted on either side of the prow. The cabin is finely decorated with gilded reliefs of birds. The red-white-andblue stripe adorning the front and back of the hull suggests that the vessel may have been used as a state ship by the colonial government in the Dutch East Indies.",
+    "notes": null,
+    "date": "2016-03-18"
+  },
+  "showImage": true,
+  "location": "HG-0.13"
+}

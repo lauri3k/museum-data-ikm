@@ -1,0 +1,293 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-6676",
+  "priref": "467566",
+  "objectNumber": "RP-P-OB-6676",
+  "language": "en",
+  "title": "Vertrek van de prinses van Oranje naar Engeland, 1689",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1ae11662-00d9-43e5-8577-510130877fd9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2355,
+    "url": "https://lh5.ggpht.com/7kJNPzlVFg5_nBPuEejnhv79rK0gPc54J_B4A7Qwaxq8wkSt829sMgE044WlJuFhy24I7BQvBZKoLKhvCMkQ_6QfHzU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#F6F4E8"
+    },
+    {
+      "percentage": 29,
+      "hex": " #DBD8C7"
+    },
+    {
+      "percentage": 19,
+      "hex": " #B4AF9F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #938E81"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5E5B4D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #3B3930"
+    },
+    {
+      "percentage": 3,
+      "hex": " #787466"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F4E8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DBD8C7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B4AF9F",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #938E81",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5E5B4D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3B3930",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #787466",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 29,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Vertrek van de prinses van Oranje naar Engeland, 1689",
+    "Vertrek van H.H. Mevrouwe de Princesse van Oranje na Engeland / Depart de S.A. Madame le Princesse d'Orange pour se transporter en Angleterre / Departure of her R.H. My Lady Princess of Orange for te go in England"
+  ],
+  "description": "Vertrek van prinses Maria Stuart uit Brielle op 20 februari 1689 om zich te voegen bij haar echtgenoot in Londen. De prinses stapt over van het Statenjacht naar het schip dat haar naar Engeland zal brengen. Onder de plaat drie teksten met de legenda's A-L in het Nederlands, Frans en Engels.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Tangena (17e eeuw)",
+      "unFixedName": "Tangena, Johannes (17e eeuw)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1692",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Leiden"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Tangena (17e eeuw) (.... - 1692), Leiden"
+    },
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johannes Jacobsz van den Aveele",
+      "unFixedName": "Aveele, Johannes Jacobsz van den",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1655",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1727-05-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zweden",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Jacobsz van den Aveele (1655 - 18-mei-1727), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Jacobsz van den Aveele",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Northern Netherlands",
+    "Leiden"
+  ],
+  "dating": {
+    "presentingDate": "1689",
+    "sortingDate": 1689,
+    "period": 17,
+    "yearEarly": 1689,
+    "yearLate": 1689
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C514"
+    ],
+    "iconClassDescription": [
+      "arrival and return ~ travelling"
+    ],
+    "motifs": [],
+    "events": [
+      "Glorious Revolution"
+    ],
+    "periods": [
+      "1689-02-201689-02-20"
+    ],
+    "places": [
+      "Brielle"
+    ],
+    "people": [
+      "Maria II Stuart (koningin van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-6676"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maria II Stuart (koningin van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 415, nr. 2728."
+  ],
+  "catRefRPK": [
+    "FMH 2728",
+    "2728",
+    "Atlas van Stolk 2772",
+    "2772"
+  ],
+  "principalOrFirstMaker": "Johannes Jacobsz van den Aveele",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "512"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "568"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Vertrek van de prinses van Oranje naar Engeland, 1689, Johannes Jacobsz van den Aveele, 1689",
+  "subTitle": "h 512mm \u00d7 w 568mm",
+  "scLabelLine": "Johannes Jacobsz van den Aveele, 1689, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

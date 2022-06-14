@@ -1,0 +1,129 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1326",
+  "priref": "2117",
+  "objectNumber": "AK-MAK-1326",
+  "language": "en",
+  "title": "Box",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "843ae096-801c-4d97-9c98-d0cbb3550a8c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2605,
+    "url": "https://lh6.ggpht.com/4OyZdIKqr6MWkVLVpo7fEixsEVYOPAb9ktgELawwvaHKkLTKU55dUD5msRQx8BlX-fhw_C_YwbIQWHzZ6KIg2Cb6CJY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Ronde lakdoos met deksel voor kostbaarheden met de voorstellig van de elegie van de Rode Muur. Rode lak om een loden kern.",
+  "labelText": null,
+  "objectTypes": [
+    "box"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1981-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of Maartje Draak, 1981)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "lacquer (coating)",
+    "lead (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "1736 - 1795",
+    "sortingDate": 1736,
+    "period": 18,
+    "yearEarly": 1736,
+    "yearLate": 1795
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1326"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Klaas Ruitenbeek, 'Schenkingen van Maartje Draak', Aziatische Kunst 23/1 (1993), pp. 11-16 (afb. 2).",
+    "Edward F. Strange, Chinese lacquer, New York 1926, p. 44, pl. XXII."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "5.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "9.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "lacquer (coating)",
+  "longTitle": "Box, anonymous, 1736 - 1795",
+  "subTitle": "h 5.7cm \u00d7 d 9.9cm",
+  "scLabelLine": "China, 1736-1795, lacquer",
+  "label": {
+    "title": "Box",
+    "makerLine": "China, 1736-1795, lacquer",
+    "description": "This carved red lacquer box is called Chibi baohe (Precious box of the Red Cliffs) and was made in the imperial workshop during the reign of Emperor Qianlong. Depicted on the lid is a scene from the famous Second Red Cliff Rhapsody written by Su Shi. The poet and his friend carry wine and fish and will soon embark on a boat trip to the Red Cliff.",
+    "notes": null,
+    "date": "2019-07-22"
+  },
+  "showImage": true,
+  "location": null
+}

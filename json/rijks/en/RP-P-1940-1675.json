@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1940-1675",
+  "priref": "405894",
+  "objectNumber": "RP-P-1940-1675",
+  "language": "en",
+  "title": "Schilder Hermanus Koekkoek komt aan bij de grens van het verwoeste Lombok",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Schilder Hermanus Koekkoek komt aan bij de grens van het verwoeste Lombok",
+    "Een schilder in verlegenheid"
+  ],
+  "description": "De schilder Hermanus Koekkoek met zijn schetsboek gearriveerd bij de grens van het verwoeste 'Insulinde', hier verwijzend naar Lombok. Achter hem houdt een Lombokse man een parasol boven zijn hoofd. Kaal landschap bezaaid met skeletten en rokende puinhopen, aasgieren in de lucht, bewaakt door een soldaat staande bij zijn wachthuisje. Aanklacht tegen het bloedig optreden van Vetter bij het neerslaan van de opstand op Lombok in 1894. Onderaan twee teksten van vier regels.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Samuel Lankhout & Co",
+      "unFixedName": "Lankhout & Co, Samuel",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Samuel Lankhout & Co, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1940-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1895",
+    "sortingDate": 1895,
+    "period": 19,
+    "yearEarly": 1895,
+    "yearLate": 1895
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "25H",
+      "48CC511",
+      "44C312"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "landschappen",
+      "painter at work, in his studio - CC - out of doors",
+      "political caricatures and satires"
+    ],
+    "motifs": [],
+    "events": [
+      "Lombok-oorlog"
+    ],
+    "periods": [
+      "18941895"
+    ],
+    "places": [
+      "Lombok"
+    ],
+    "people": [
+      "Koekkoek, Hermanus (I)",
+      "Vetter, Jacobus Augustinus"
+    ],
+    "objectNumbers": [
+      "RP-P-1940-1675"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Koekkoek, Hermanus (I)",
+    "Vetter, Jacobus Augustinus"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "301"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "403"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Schilder Hermanus Koekkoek komt aan bij de grens van het verwoeste Lombok, anonymous, 1895",
+  "subTitle": "h 301mm \u00d7 w 403mm",
+  "scLabelLine": "anonymous, 1895, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

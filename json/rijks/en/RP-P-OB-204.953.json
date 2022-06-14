@@ -1,0 +1,182 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-204.953",
+  "priref": "552634",
+  "objectNumber": "RP-P-OB-204.953",
+  "language": "en",
+  "title": "Roodkapje, kind'ren! u bekend, / Wordt bij vernieuwing, thans / U voorgesteld in deze prent, / Naar 't spreukje van de gans",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4aa68072-2f46-4211-83e7-4983dd98ee6c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2015,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/IGpa8LwTLLhMGIuKnItxyc2QhOUZKbPKH5jMC2igrilYG_krjzQ1cZvcph3wmTQHgrjZqrSRU3fjE_Xw5EcV81pQfL2F=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Roodkapje, kind'ren! u bekend, / Wordt bij vernieuwing, thans / U voorgesteld in deze prent, / Naar 't spreukje van de gans"
+  ],
+  "description": "Blad met 12 voorstellingen uit het sprookje van Roodkapje. Onder elke afbeelding een vierregelig vers. Genummerd rechtsboven: No. 41.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johan Noman & Zoon",
+      "unFixedName": "Noman & Zoon, Johan",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johan Noman & Zoon"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Joseph Zender",
+      "unFixedName": "Zender, Joseph",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Dordrecht"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Zender, Dordrecht"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joseph Zender",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Dordrecht",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1830 - 1892",
+    "sortingDate": 1830,
+    "period": 19,
+    "yearEarly": 1830,
+    "yearLate": 1892
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-204.953"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joseph Zender",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "415"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "335"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Roodkapje, kind'ren! u bekend, / Wordt bij vernieuwing, thans / U voorgesteld in deze prent, / Naar 't spreukje van de gans, Joseph Zender, 1830 - 1892",
+  "subTitle": "h 415mm \u00d7 w 335mm",
+  "scLabelLine": "Joseph Zender, 1830 - 1892, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

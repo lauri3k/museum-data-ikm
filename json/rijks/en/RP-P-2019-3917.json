@@ -1,0 +1,134 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2019-3917",
+  "priref": "745625",
+  "objectNumber": "RP-P-2019-3917",
+  "language": "en",
+  "title": "Penning met portret van Godard, baron van Reede-Ginckel, graaf van Athlone",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Penning met portret van Godard, baron van Reede-Ginckel, graaf van Athlone"
+  ],
+  "description": "Met op de keerzijde een obelisk met vaandels, schilden en opschrift, waaraan naakte gevangenen zijn geketend.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2019-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1731",
+    "sortingDate": 1731,
+    "period": 18,
+    "yearEarly": 1731,
+    "yearLate": 1731
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "42E213",
+      "25I153"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "memorial medal",
+      "obelisk, needle"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-2019-3917"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "55"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Penning met portret van Godard, baron van Reede-Ginckel, graaf van Athlone, anonymous, c. 1731",
+  "subTitle": "h 55mm \u00d7 w 103mm",
+  "scLabelLine": "anonymous, c. 1731, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,245 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-85.031",
+  "priref": "495183",
+  "objectNumber": "RP-P-OB-85.031",
+  "language": "en",
+  "title": "Gebroeders Naerebout redden de opvarenden van de Woestduin, 1779",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7a2b8bd1-0b2e-4a20-b6f0-952fb557a337",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1638,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/k6LbMKs5l4gk_-IEC0n6RkvvoNw3q3QTK1gSetNQBB-6HDGxgRx2VmP-dTgH5dkyVkNaXqWEIKP4YWlSZUkXYs7R-Xpu=s0"
+  },
+  "colors": [
+    {
+      "percentage": 25,
+      "hex": "#E2DDCD"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FAF8F1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A29E90"
+    },
+    {
+      "percentage": 16,
+      "hex": " #6E6B5D"
+    },
+    {
+      "percentage": 16,
+      "hex": " #888476"
+    },
+    {
+      "percentage": 3,
+      "hex": " #4B483C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C4C0B1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E2DDCD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FAF8F1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A29E90",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6E6B5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #888476",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4B483C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #C4C0B1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 25,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 16,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Gebroeders Naerebout redden de opvarenden van de Woestduin, 1779",
+    "De Gebroeders Narrebout, redden de Schipbreukelingen van het verongelukt O.I.Comp. Schip Woestduin"
+  ],
+  "description": "De gebroeders Frans en Jacob Naerebout redden de 87 opvarenden uit het wrak van het VOC-schip Woestduin dat op 24 juli 1779 strandde en verging bij de Noorderrassen (voor de kust van Westkapelle).",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Reinier Vinkeles (I)",
+      "unFixedName": "Vinkeles, Reinier (I)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1741-06-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-01-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Reinier Vinkeles (I) (19-jun-1741 - 30-jan-1816), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Reinier Vinkeles (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1787",
+    "sortingDate": 1787,
+    "period": 18,
+    "yearEarly": 1787,
+    "yearLate": 1787
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C291(+91)"
+    ],
+    "iconClassDescription": [
+      "shipwreck (+ saving the victims ~ traffic accident)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1779-07-251779-07-25"
+    ],
+    "places": [
+      "Westkapelle"
+    ],
+    "people": [
+      "Naerebout, Frans",
+      "Naerebout, Jakob"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-85.031"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Naerebout, Frans",
+    "Naerebout, Jakob"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 223, nr. 4346a.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 6, nr. 14C."
+  ],
+  "catRefRPK": [
+    "FMH 4346",
+    "4346",
+    "FMH 14",
+    "14",
+    "Atlas van Stolk 4296",
+    "4296"
+  ],
+  "principalOrFirstMaker": "Reinier Vinkeles (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "180"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "116"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gebroeders Naerebout redden de opvarenden van de Woestduin, 1779, Reinier Vinkeles (I), 1787",
+  "subTitle": "h 180mm \u00d7 w 116mm",
+  "scLabelLine": "Reinier Vinkeles (I), 1787, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

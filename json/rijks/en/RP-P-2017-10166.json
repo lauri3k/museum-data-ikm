@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-10166",
+  "priref": "692998",
+  "objectNumber": "RP-P-2017-10166",
+  "language": "en",
+  "title": "Ex libris van Douglas M. Black",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van Douglas M. Black"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2017-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "printing block"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1905 - 1977",
+    "sortingDate": 1905,
+    "period": 20,
+    "yearEarly": 1905,
+    "yearLate": 1977
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(THISTLE)",
+      "49M32"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: thistle",
+      "book"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Black, Douglas McCrae"
+    ],
+    "objectNumbers": [
+      "RP-P-2017-10166"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Black, Douglas McCrae"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "48"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing block",
+  "longTitle": "Ex libris van Douglas M. Black, anonymous, 1905 - 1977",
+  "subTitle": "h 50mm \u00d7 w 48mm",
+  "scLabelLine": "anonymous, 1905 - 1977, printing block",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

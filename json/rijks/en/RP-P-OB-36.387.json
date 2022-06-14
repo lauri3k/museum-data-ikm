@@ -1,0 +1,147 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-36.387",
+  "priref": "141602",
+  "objectNumber": "RP-P-OB-36.387",
+  "language": "en",
+  "title": "Perseus en Andromeda",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dcb17164-9d08-4819-b902-bec85dce6081",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1729,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/bBT93DQWeIE2Q8MHzo77ak5Fr83s4ogM3RvyZ1wX1zFqAF7tCn9J_Fz4JiZOiSI8jkuRvbGvaaRb4t4omsDCOilYoQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Perseus en Andromeda"
+  ],
+  "description": "Perseus komt aanvliegen op Pegasus om de vastgeketende Andromeda te redden van een zeemonster.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lorenzo Loli",
+      "unFixedName": "Loli, Lorenzo",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": "1612",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1691-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Bologna",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lorenzo Loli (1612 - 05-apr-1691), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lorenzo Loli",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1622 - 1691",
+    "sortingDate": 1622,
+    "period": 17,
+    "yearEarly": 1622,
+    "yearLate": 1691
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94P21",
+      "93D1"
+    ],
+    "iconClassDescription": [
+      "Perseus and Andromeda",
+      "Pegasus, the winged horse"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-36.387"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 17",
+    "17",
+    "Bartsch 17",
+    "17"
+  ],
+  "principalOrFirstMaker": "Lorenzo Loli",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "258"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Perseus en Andromeda, Lorenzo Loli, 1622 - 1691",
+  "subTitle": "h 258mm \u00d7 w 175mm",
+  "scLabelLine": "Lorenzo Loli, 1622 - 1691, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

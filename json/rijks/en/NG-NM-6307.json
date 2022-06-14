@@ -1,0 +1,178 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-6307",
+  "priref": "241196",
+  "objectNumber": "NG-NM-6307",
+  "language": "en",
+  "title": "William V, Prince of Orange, on Horseback",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a396ceca-d1c4-437b-ba29-e9ce3b9a0b97",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2025,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/EaI0EM-mrS1MoHh4cse7ozVfzRcYylhWpzAoSrkCAShEmbjgpZosDp3oUqluJIolltqtQYJz4zEzbbptI30-MEwX_wo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "William V, Prince of Orange, on Horseback"
+  ],
+  "description": "Ruiter met steek op en getrokken sabel naar rechts. Op sabel, hoofd en handen na, geheel in goud. Ondergrond zwart met goud. Het paard heeft stukjes glas als ogen. Op de achtergrond links een groep ruiters frontaal gezien, rechts drie ruiters op de rug gezien. Heuvelig landschap onder hoge wolkenlucht. Keerzijde wapen met leeuwen en trophee\u00ebn met opschrift. Goudgelakte lijst.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Reinier Vinkeles (I)",
+      "unFixedName": "Vinkeles, Reinier (I)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1741-06-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-01-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "after print by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Reinier Vinkeles (I) (19-jun-1741 - 30-jan-1816)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "manufacturer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "lacquer (coating)",
+    "metal",
+    "wood (plant material)",
+    "mother of pearl",
+    "gilding (material)",
+    "glass"
+  ],
+  "techniques": [
+    "cutting",
+    "lacquering",
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1775 - c. 1800",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1312"
+    ],
+    "iconClassDescription": [
+      "equestrian state-portrait"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17481806"
+    ],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "NG-NM-6307"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap: aantekeningen R. van Luttervelt voor 1963."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "38"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "31.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "35.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cutting",
+  "longTitle": "William V, Prince of Orange, on Horseback, anonymous, c. 1775 - c. 1800",
+  "subTitle": "h 38cm \u00d7 w 31.5cm",
+  "scLabelLine": "anonymous, c. 1775 - c. 1800, cutting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

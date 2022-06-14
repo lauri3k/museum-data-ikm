@@ -61,7 +61,8 @@ def rijks_find_object(object_nr: str, lang="en"):
 
 async def find_object(object_nr, lang="en"):
     async with httpx.AsyncClient(timeout=None) as client:
-        res = await get_object(object_nr, client, lang)[0]
+        res = await get_object(object_nr, client, lang)
+    res = res[0]
     if res.status_code == 200:
         return res.json()
     print(f"Could not find object with id: {object_nr}")
@@ -81,61 +82,69 @@ async def fetch_all():
 
 
 async def fetch(object_nrs, lang="en", overwrite=False):
-    out = []
-    if not overwrite:
-        file_path = os.path.join(os.path.dirname(__file__), "json", "rijks", lang)
-        existing_object_nrs = find_existing_files(file_path)
-        cached_objects = [x for x in object_nrs if x in existing_object_nrs]
-        object_nrs = [x for x in object_nrs if x not in existing_object_nrs]
-        for object_nr in cached_objects:
-            p = os.path.join(file_path, f"{object_nr}.json")
-            with open(p) as f:
-                out.append(json.load(f))
-        print(f"{len(cached_objects)} objects in cache.")
+    try:
+        out = []
+        if not overwrite:
+            file_path = os.path.join(os.path.dirname(__file__), "json", "rijks", lang)
+            existing_object_nrs = find_existing_files(file_path)
+            cached_objects = [x for x in object_nrs if x in existing_object_nrs]
+            object_nrs = [x for x in object_nrs if x not in existing_object_nrs]
+            for object_nr in cached_objects:
+                p = os.path.join(file_path, f"{object_nr}.json")
+                with open(p) as f:
+                    out.append(json.load(f))
+            print(f"{len(cached_objects)} objects in cache.")
 
-    async with httpx.AsyncClient(timeout=None) as client:
-        n = 10
-        wait_for_s = 30
+        async with httpx.AsyncClient(timeout=None) as client:
+            n = 10
+            wait_for_s = 30
 
-        list_of_lists = [object_nrs[i : i + n] for i in range(0, len(object_nrs), n)]
-        # list_of_lists = [object_nrs[i : i + n] for i in range(0, 1000, n)]
+            list_of_lists = [
+                object_nrs[i : i + n] for i in range(0, len(object_nrs), n)
+            ]
+            # list_of_lists = [object_nrs[i : i + n] for i in range(0, 1000, n)]
 
-        failures = []
+            failures = []
 
-        for count, list_of_ids in enumerate(list_of_lists):
-            resps = await asyncio.gather(
-                *map(lambda x: get_object(x, client), list_of_ids),
-                asyncio.sleep(1),
-            )
-            resps.pop()
-            data = []
-            limiter = False
-            for t in resps:
-                res, object_nr = t
-                if res is None:
-                    print("This isn't supposed to happen.")
-                elif res.status_code == 200:
-                    data.append(res.json())
-                else:
-                    failures.append(object_nr)
-                    if not limiter:
-                        print(f"Oops, hit rate limiter. Waiting {wait_for_s} seconds.")
-                        limiter = True
-                        time.sleep(wait_for_s)
+            for count, list_of_ids in enumerate(list_of_lists):
+                resps = await asyncio.gather(
+                    *map(lambda x: get_object(x, client), list_of_ids),
+                    asyncio.sleep(1),
+                )
+                resps.pop()
+                data = []
+                limiter = False
+                for t in resps:
+                    res, object_nr = t
+                    if res is None:
+                        print("This isn't supposed to happen.")
+                    elif res.status_code == 200:
+                        data.append(res.json())
+                    else:
+                        failures.append(object_nr)
+                        if not limiter:
+                            print(
+                                f"Oops, hit rate limiter. Waiting {wait_for_s} seconds."
+                            )
+                            limiter = True
+                            time.sleep(wait_for_s)
 
-            for res in data:
-                art_object = res["artObject"]
-                out.append(art_object)
-                write_to_file(art_object, lang)
+                for res in data:
+                    art_object = res["artObject"]
+                    out.append(art_object)
+                    write_to_file(art_object, lang)
 
-            print(f"Progress: {count + 1} / {len(list_of_lists)}")
+                print(f"Progress: {count + 1} / {len(list_of_lists)}")
 
-        if len(failures) > 0:
-            print(
-                f"Hit rate limiter with {len(failures)} objects! Fetching the skipped objects."
-            )
-            await fetch(failures, lang, overwrite)
-    return out
+            if len(failures) > 0:
+                print(
+                    f"Hit rate limiter with {len(failures)} objects! Fetching the skipped objects."
+                )
+                await fetch(failures, lang, overwrite)
+        return out
+    except RuntimeError:
+        print("The server broke connection, please try again")
+        return []
 
 
 def write_to_file(art_object, lang="en"):
@@ -209,7 +218,7 @@ def run_harvest() -> None:
 
 if __name__ == "__main__":
     # asyncio.run(main())
-    # rijks_find_object("SK-C-5", "en")
+    rijks_find_object("SK-C-5", "en")
     # asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-    rijks_find_results_full("dark")
+    # rijks_find_results_full("green")
     # asyncio.run(fetch_all())

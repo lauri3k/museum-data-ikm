@@ -1,0 +1,302 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-85.340",
+  "priref": "499172",
+  "objectNumber": "RP-P-OB-85.340",
+  "language": "en",
+  "title": "Nederlandse oorlogsvloot op de rede van Vlissingen, 1784",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "46d3890b-6f71-4277-9747-4217d4aa4084",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1708,
+    "url": "https://lh4.ggpht.com/B9fCcsh-l1nAB7Sz40lQ7bM81xAHNAH6WINtssjwbGg2PgNCD_auMev4aHFk-FUwgqDEtipR6C12Tw61j6qdkiTy2w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#E4DFCE"
+    },
+    {
+      "percentage": 25,
+      "hex": " #C6C1B0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #9E9989"
+    },
+    {
+      "percentage": 6,
+      "hex": " #5B5648"
+    },
+    {
+      "percentage": 6,
+      "hex": " #7C7868"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F9F7EF"
+    },
+    {
+      "percentage": 0,
+      "hex": " #383529"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E4DFCE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C6C1B0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9E9989",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5B5648",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7C7868",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F9F7EF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #383529",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 25,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 27,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Nederlandse oorlogsvloot op de rede van Vlissingen, 1784",
+    "Gesicht van 's lands scheepen van oorlog, onder 't commando, van vice admiraal Reynst, op de reede van Vlissingen, in de jaare 1784"
+  ],
+  "description": "Gezicht op de Nederlandse oorlogsvloot onder commando van vice-admiraal Pieter Hendrik Reynst op de rede van Vlissingen, 1784. In het onderschrift het wapen van Vlissingen in een wapentrofee en de legenda A-H met de namen van de schepen en hun kapiteins en aantallen stukken.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Engel Hoogerheyden",
+      "unFixedName": "Hoogerheyden, Engel",
+      "placeOfBirth": "Middelburg",
+      "dateOfBirth": "1740-10-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1809",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Middelburg",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Middelburg"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Engel Hoogerheyden (13-okt-1740 - 1809), Middelburg"
+    },
+    {
+      "name": "Frederik Willem Greebe",
+      "unFixedName": "Greebe, Frederik Willem",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1788",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Frederik Willem Greebe (.... - 1788), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Mathias de Sallieth",
+      "unFixedName": "Sallieth, Mathias de",
+      "placeOfBirth": "Praag",
+      "dateOfBirth": "1749",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1791-11-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rotterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Mathias de Sallieth (1749 - 29-nov-1791), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Mathias de Sallieth",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Middelburg",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1784",
+    "sortingDate": 1784,
+    "period": 18,
+    "yearEarly": 1784,
+    "yearLate": 1784
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C21(+33)"
+    ],
+    "iconClassDescription": [
+      "ships (in general) (+ propulsion of vehicle, ship, etc. by wind)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17841784"
+    ],
+    "places": [
+      "Vlissingen",
+      "Schelde"
+    ],
+    "people": [
+      "Reynst, Pieter Hendrik"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-85.340"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reynst, Pieter Hendrik"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 255, nr. 4583a."
+  ],
+  "catRefRPK": [
+    "FMH 4583",
+    "4583",
+    "Atlas van Stolk 4514",
+    "4514"
+  ],
+  "principalOrFirstMaker": "Mathias de Sallieth",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "306"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "503"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Nederlandse oorlogsvloot op de rede van Vlissingen, 1784, Mathias de Sallieth, 1784",
+  "subTitle": "h 306mm \u00d7 w 503mm",
+  "scLabelLine": "Mathias de Sallieth, 1784, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

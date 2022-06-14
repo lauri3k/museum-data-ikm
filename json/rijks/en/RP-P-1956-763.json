@@ -1,0 +1,267 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1956-763",
+  "priref": "46001",
+  "objectNumber": "RP-P-1956-763",
+  "language": "en",
+  "title": "Eenden bij riet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "07f5aca6-ec7e-4b01-9881-59d5268a1c67",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1211,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/vkq3VSn7LZMMF4wkuHj6PKFu1Nq6z7NuBVhQGoABzg2p1nepmQBMcqfPxTFCpzgAWUG2RZ4fIjClQQEQFAAxan_vwczA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#C8C1A8"
+    },
+    {
+      "percentage": 28,
+      "hex": " #F2EFDF"
+    },
+    {
+      "percentage": 8,
+      "hex": " #3B3F4D"
+    },
+    {
+      "percentage": 8,
+      "hex": " #6D6A64"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A79277"
+    },
+    {
+      "percentage": 2,
+      "hex": " #768190"
+    },
+    {
+      "percentage": 1,
+      "hex": " #98A2A4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C8C1A8",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F2EFDF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3B3F4D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6D6A64",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A79277",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #768190",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #98A2A4",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 28,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 50,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 28,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 19,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Eenden bij riet"
+  ],
+  "description": "Twee eenden zwemmend bij rietstengels; linksboven een gedicht.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Kawaguchiya Shozo",
+      "unFixedName": "Kawaguchiya Shozo",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Kawaguchiya Shozo"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hiroshige (I) , Utagawa",
+      "unFixedName": "Hiroshige (I), Utagawa",
+      "placeOfBirth": null,
+      "dateOfBirth": "1797",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1858",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hiroshige (I) , Utagawa (1797 - 1858), Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hiroshige (I) , Utagawa",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1956-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt and the Ministerie van Onderwijs, Kunsten en Wetenschappen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "color woodcut"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1833 - 1838",
+    "sortingDate": 1833,
+    "period": 19,
+    "yearEarly": 1833,
+    "yearLate": 1838
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F36(DUCK)",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "water-birds: duck",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1956-763"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Jap Cat V 31",
+    "31"
+  ],
+  "principalOrFirstMaker": "Hiroshige (I) , Utagawa",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "381"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "127"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "color woodcut",
+  "longTitle": "Eenden bij riet, Hiroshige (I) , Utagawa, 1833 - 1838",
+  "subTitle": "h 381mm \u00d7 w 127mm",
+  "scLabelLine": "Hiroshige (I) , Utagawa, 1833 - 1838, color woodcut",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

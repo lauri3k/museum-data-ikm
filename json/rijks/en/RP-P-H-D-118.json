@@ -1,0 +1,190 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-D-118",
+  "priref": "90810",
+  "objectNumber": "RP-P-H-D-118",
+  "language": "en",
+  "title": "Johannes de Doper, Christus en Maria",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f828a604-88e4-41f5-a090-e307b1f9f52a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1413,
+    "url": "https://lh3.googleusercontent.com/31oxco-hquSFYlZ7RRL7CDfNkW_1-hc6m3HCQwaWGR_79BykDrcqX_l4bYTt8PZVT0QOLnPqbmCfPj5TZzQLW-828Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper, Christus en Maria",
+    "Christus, Maria, Johannes de Doper en de apostelen"
+  ],
+  "description": "Blad met drie voorstellingen van Johannes de Doper met staf en lam, van Christus als Salvator Mundi en van Maria met een krans van sterren.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Orazio Bertelli",
+      "unFixedName": "Bertelli, Orazio",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Venice"
+      ],
+      "qualification": null,
+      "labelDesc": "Orazio Bertelli, Venice"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Agostino Carracci",
+      "unFixedName": "Carracci, Agostino",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": "1557",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1602-03-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parma",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Agostino Carracci (1557 - 22-mrt-1602), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Agostino Carracci",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Venice"
+  ],
+  "dating": {
+    "presentingDate": "1583",
+    "sortingDate": 1583,
+    "period": 16,
+    "yearEarly": 1583,
+    "yearLate": 1583
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11D324",
+      "11H(JOHN THE BAPTIST)",
+      "11F26"
+    ],
+    "iconClassDescription": [
+      "'Salvator Mundi', making a blessing gesture; an orb in his hand or at his feet",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "other types of Mary (alone)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-D-118"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "DeGrazia Bohlin 109*",
+    "109*",
+    "DeGrazia Bohlin 110*",
+    "110*",
+    "DeGrazia Bohlin 111*",
+    "111*",
+    "The Illustrated Bartsch 106",
+    "106",
+    "The Illustrated Bartsch 107",
+    "107",
+    "The Illustrated Bartsch 108",
+    "108",
+    "Bartsch 48",
+    "48",
+    "Bartsch 49",
+    "49",
+    "Bartsch 50",
+    "50"
+  ],
+  "principalOrFirstMaker": "Agostino Carracci",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "107"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "194"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, Christus en Maria, Agostino Carracci, 1583",
+  "subTitle": "h 107mm \u00d7 w 194mm",
+  "scLabelLine": "Agostino Carracci, 1583, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

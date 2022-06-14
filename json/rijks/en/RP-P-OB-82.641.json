@@ -1,0 +1,181 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-82.641",
+  "priref": "467501",
+  "objectNumber": "RP-P-OB-82.641",
+  "language": "en",
+  "title": "Allegorie op redding van Engeland door Willem III en Maria II Stuart, 1688",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0014db76-2eb5-4be9-848e-971eb9ee6436",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2036,
+    "height": 2964,
+    "url": "https://lh5.ggpht.com/1p6CQf189KeNuivL2El0MTOAsBX9PqSzz3T-U4CAZTv3VoYC04H8D9jpx16LaD9DSGFrXhcEi2aY3le1s452zm7SRI-a=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Allegorie op redding van Engeland door Willem III en Maria II Stuart, 1688"
+  ],
+  "description": "Allegorie op redding van Engeland door prins Willem III en prinses Maria II Stuart, november 1688. Embleem met links Willem III als de Hollandse Hercules, rechts doodt een Engelse eenhoorn (prinses Maria II Stuart) de slang die om een Engelse roos is gewikkeld. Boven steekt een ridder (de heilige Joris) met een lans naar een draak die een zwaard en weegschalen in zijn klauwen heeft. Vastgeplakt onder de prent is een tekstblad met verzen in 2 kolommen,",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Aart Dircksz. Oossaan",
+      "unFixedName": "Oossaan, Aart Dircksz.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1693-06-26",
+      "dateOfDeathPrecision": "in or before",
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Aart Dircksz. Oossaan (.... - in or before 26-jun-1693), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1689",
+    "sortingDate": 1689,
+    "period": 17,
+    "yearEarly": 1689,
+    "yearLate": 1689
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25FF241",
+      "94L74",
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "unicorn",
+      "Hercules as personification of some other abstract notion",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [
+      "Glorious Revolution"
+    ],
+    "periods": [
+      "16891689"
+    ],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)",
+      "Maria II Stuart (koningin van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-82.641"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)",
+    "Maria II Stuart (koningin van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 2705",
+    "2705"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "452"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "312"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Allegorie op redding van Engeland door Willem III en Maria II Stuart, 1688, anonymous, 1689",
+  "subTitle": "h 452mm \u00d7 w 312mm",
+  "scLabelLine": "anonymous, 1689, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

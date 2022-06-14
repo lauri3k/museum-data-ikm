@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1906-3920",
+  "priref": "85308",
+  "objectNumber": "RP-P-1906-3920",
+  "language": "en",
+  "title": "Christus gekroond en geslagen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f43068be-8f0b-4dbe-bb6f-f99f385a44b9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2647,
+    "height": 2496,
+    "url": "https://lh4.ggpht.com/cEWt8jSW_M8yvtsG8l2VapRt7SDn37vrjIaj8EEwSkqagTTVx3wVe_rYiC19e0TBeYuCmGxmnMgYYuUHpZVQtFP549ZE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Christus gekroond en geslagen",
+    "Bijbelse taferelen"
+  ],
+  "description": "Christus wordt door de soldaten van Pilatus gekroond met een doornenkroon. Ze geven hem een rietstok in de handen en bespotten hem door hem koning van de Joden te noemen. Daarna slaan ze hem (Matte\u00fcs 21:27-30).",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter van der Borcht (I)",
+      "unFixedName": "Borcht, Pieter van der (I)",
+      "placeOfBirth": "Mechelen",
+      "dateOfBirth": "1545",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1608",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter van der Borcht (I) (1545 - 1608), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter van der Borcht (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1906-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "? Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1639 - 1717",
+    "sortingDate": 1639,
+    "period": 17,
+    "yearEarly": 1639,
+    "yearLate": 1717
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1906-3920"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 381",
+    "381"
+  ],
+  "principalOrFirstMaker": "Pieter van der Borcht (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "119"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Christus gekroond en geslagen, Pieter van der Borcht (I), 1639 - 1717",
+  "subTitle": "h 104mm \u00d7 w 119mm",
+  "scLabelLine": "Pieter van der Borcht (I), 1639 - 1717, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,206 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-20-78",
+  "priref": "233556",
+  "objectNumber": "RP-P-AO-20-78",
+  "language": "en",
+  "title": "Plattegrond van Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4b42d733-613a-40bd-98d5-a75a49afb1a8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1862,
+    "url": "https://lh3.googleusercontent.com/xJ7ZBog5ooXJVGOu6q8FxRJ0pnrHO_Q0MLsngDbs396CKXKOFNHwfeiopzB5zGyVcDVKw63HEDiu5-k_XYwfXIfTUL8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Plattegrond van Amsterdam",
+    "Amsterdam Ville Capitale du Comt\u00e9 de Hollande fameux Port de Mer sur le Zuider Z\u00e9e, a l'Embouchure de l'Amstel. a 52. Degr. 24. Min. de Latit. et 22. D. 53. M. de Long."
+  ],
+  "description": "Links de legenda van de bolwerken 1-26, rechts de legenda van de gebouwen in de stad 1-17. Onder in het midden de titel met daarboven de Amsterdamse Stedenmaagd met het wapen van de stad. Links van de titel Mercurius en, van links naar rechts, personificaties van de werelddelen Amerika, Afrika en Azi\u00eb. Rechts van de titel twee riviergoden als personificaties van de Amstel en het IJ. Linksonder een schaalstok: 2000 Pieds. Ori\u00ebntatie: zuidzuidwest boven.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Nicolas de Fer",
+      "unFixedName": "Fer, Nicolas de",
+      "placeOfBirth": null,
+      "dateOfBirth": "1647",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1720-10-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Nicolas de Fer (1647 - 25-okt-1720), Paris"
+    },
+    {
+      "name": "George Gallet",
+      "unFixedName": "Gallet, George",
+      "placeOfBirth": "Frankrijk",
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly George Gallet (.... - 1724), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1696 - 1700",
+    "sortingDate": 1696,
+    "period": 17,
+    "yearEarly": 1696,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A4",
+      "44A1(+4)",
+      "92B5",
+      "25B",
+      "25B2",
+      "25B3",
+      "25B4",
+      "92K1",
+      "25HH2130"
+    ],
+    "iconClassDescription": [
+      "maps of cities",
+      "coat of arms (as symbol of the state, etc.) (+ city; municipal)",
+      "(story of) Mercury (Hermes)",
+      "allegorisch weergegeven werelddelen",
+      "Asia represented allegorically; 'Asia' (Ripa)",
+      "Africa represented allegorically; 'Africa' (Ripa)",
+      "America represented allegorically; 'America' (Ripa)",
+      "river-gods",
+      "river personified, 'Fiumi' (Ripa) - HH - ideal landscapes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-AO-20-78"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "D'Ailly 198",
+    "198"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "188"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Plattegrond van Amsterdam, anonymous, 1696 - 1700",
+  "subTitle": "h 188mm \u00d7 w 270mm",
+  "scLabelLine": "anonymous, 1696 - 1700, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

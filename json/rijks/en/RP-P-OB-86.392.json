@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-86.392",
+  "priref": "509627",
+  "objectNumber": "RP-P-OB-86.392",
+  "language": "en",
+  "title": "Portret van Willem V, prins van Oranje-Nassau",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6cf33f77-5a1f-479f-a594-f2503600fcbe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1728,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/qH6-hEDjSnFmJ-QgmG-ir2kWryjhExv5OQ3eN4ymQsOOt9prNcW5rzUZBscboF0vef4l0qXO7D_4xf9Im96pQRt0upc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Willem V, prins van Oranje-Nassau",
+    "Titelpagina voor: Geschiedenis van Willem den Vyfden, prinse van Orange en Nassau, 1802",
+    "Geschiedenis van Willem den Vyfden, prinse van Orange en Nassau, geboren Erf Stadhouder van het Gemeenebest der Vereenigde Nederlanden, enz. enz. enz. Eerste Deel."
+  ],
+  "description": "Historia overhandigt een manuscript aan Vader Tijd, rechts een putto met het portret van Willem V in een ovaal.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Hofhout en Zoon",
+      "unFixedName": "Hofhout en Zoon, Johannes",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rotterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Hofhout en Zoon, Rotterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Govert Kitsen",
+      "unFixedName": "Kitsen, Govert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1766-01-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Govert Kitsen (05-jan-1766 - ....), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Govert Kitsen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Rotterdam"
+  ],
+  "dating": {
+    "presentingDate": "1802",
+    "sortingDate": 1802,
+    "period": 19,
+    "yearEarly": 1802,
+    "yearLate": 1802
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "23A1",
+      "49K10"
+    ],
+    "iconClassDescription": [
+      "Father Time, man with wings and scythe",
+      "'Historia'; 'Historia' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-86.392"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 345, bij nr. 5303."
+  ],
+  "catRefRPK": [
+    "FMH 5302",
+    "5302"
+  ],
+  "principalOrFirstMaker": "Govert Kitsen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "226"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "149"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Willem V, prins van Oranje-Nassau, Govert Kitsen, 1802",
+  "subTitle": "h 226mm \u00d7 w 149mm",
+  "scLabelLine": "Govert Kitsen, 1802, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

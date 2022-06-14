@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-KOG-314",
+  "priref": "3433",
+  "objectNumber": "NG-KOG-314",
+  "language": "en",
+  "title": "Saucer-dish with a portrait of theologist Willem Deurhof",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "29b80caf-a997-4a8f-955e-81304bca9e18",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/7Babh-koqxNIPPCY7W2c39A4E0Rondvl4f8Y6wdjdOCOiyJpaOMfECij_JHInto0xq_WyOPbNm-JA55qAPWIJ_Co53R3TlHsc1Ul3kA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Saucer-dish with a portrait of theologist Willem Deurhof"
+  ],
+  "description": "Schaal van porselein, beschilderd in emailkleuren, zwart en goud. Op het plat een ovaal medaillon met gouden rand waarin het portret van Willem Deurhoff (1650-1717). Op de rand vier bijbelse taferelen: het laatste oordeel, de ondergang van Sodom en Gomorra, de zondvloed en Hebreeuwse letters in lucht (JAWEH) tegen een achtergrond van bloemtakken en vogels. Een inscriptie op de onderzijde: 'Dit 's Deurhoff, die 't beleed van Cartes heeft hervormt; De Ongodist met kragt van reeden bestormt; Het hijlig kruysgeloof verdedigt; 't gode-leeven; Met mond, in pen en daad op 't kragtigst voortgeschreeven: Dit is een flaauwe schets van 't weesen; maar zijn geest wort best bekend, van die zijn 'gulde'schriften leest.' Europese voorstelling in encre de Chine met emailkleuren.",
+  "labelText": null,
+  "objectTypes": [
+    "dish"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "gold (metal)"
+  ],
+  "techniques": [
+    "painting",
+    "gilding",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700 - c. 1724",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1724
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "11L53"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "theologian"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16501717"
+    ],
+    "places": [
+      "China",
+      "Noordelijke Nederlanden"
+    ],
+    "people": [
+      "Deurhoff, Willem"
+    ],
+    "objectNumbers": [
+      "NG-KOG-314"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Deurhoff, Willem"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "28"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Saucer-dish with a portrait of theologist Willem Deurhof, anonymous, c. 1700 - c. 1724",
+  "subTitle": "h 4cm \u00d7 d 28cm",
+  "scLabelLine": "anonymous, c. 1700 - c. 1724, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

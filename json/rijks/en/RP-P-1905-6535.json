@@ -1,0 +1,207 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-6535",
+  "priref": "45034",
+  "objectNumber": "RP-P-1905-6535",
+  "language": "en",
+  "title": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "843f1070-95db-45b9-b09e-b66155fe8933",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1901,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/4Kc-totvZN5QQzWHM5INmuPFvqqVvVdyKFBsMq7U-sps11rAZcWzhxtwKtlA9LGb3GBln4Z59DZBUwmpWcZAVP3W6lA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Ludolph Smids",
+      "unFixedName": "Smids, Ludolph",
+      "placeOfBirth": "Groningen",
+      "dateOfBirth": "1649-06-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1720-03-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ludolph Smids (13-jun-1649 - 07-mrt-1720)"
+    },
+    {
+      "name": "Pieter Schenk (I)",
+      "unFixedName": "Schenk, Pieter (I)",
+      "placeOfBirth": "Elberfeld",
+      "dateOfBirth": "1660-12-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Leipzig",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Schenk (I) (26-dec-1660 - c. 1711), Amsterdam"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter Schenk (I)",
+      "unFixedName": "Schenk, Pieter (I)",
+      "placeOfBirth": "Elberfeld",
+      "dateOfBirth": "1660-12-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Leipzig",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Schenk (I) (26-dec-1660 - c. 1711), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Schenk (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1670 - 1713",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1713
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45C22",
+      "31A5331"
+    ],
+    "iconClassDescription": [
+      "armour",
+      "wig"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-1905-6535"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 855",
+    "855"
+  ],
+  "principalOrFirstMaker": "Pieter Schenk (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "183"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "139"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone, Pieter Schenk (I), 1670 - 1713",
+  "subTitle": "h 183mm \u00d7 w 139mm",
+  "scLabelLine": "Pieter Schenk (I), 1670 - 1713, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

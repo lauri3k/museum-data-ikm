@@ -1,0 +1,194 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-127",
+  "priref": "208173",
+  "objectNumber": "RP-P-1914-127",
+  "language": "en",
+  "title": "Kalenderblad september met konijnen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "66dd8a42-2d49-4a78-ad47-3cd9e83d5a8d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1275,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/TAIoNV9fhcLmV1-i_MEvi3ZEOSrghWF3H53-HylO0iPeIC63v1ClNGNbLXK4biUro5CCifPLzvPy8vED4zKGIWzr35C3rzN2ldI0Kn8W1w=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Kalenderblad september met konijnen",
+    "Kalender 1912 12 lithografien door Th. v. Hoytema",
+    "Konijnen"
+  ],
+  "description": "Rondom het calendarium water, riet en vogels. Bovenaan het blad een scheurlijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Tresling & Comp.",
+      "unFixedName": "Tresling & Comp.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Tresling & Comp., Amsterdam"
+    },
+    {
+      "name": "Firma Ferwerda en Tieman",
+      "unFixedName": "Ferwerda en Tieman, Firma",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Firma Ferwerda en Tieman, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Theo van Hoytema",
+      "unFixedName": "Hoytema, Theo van",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1863-12-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1917-08-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Theo van Hoytema (18-dec-1863 - 28-aug-1917), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Theo van Hoytema",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Gift of the Firma Ferwerda en Tieman"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1911",
+    "sortingDate": 1911,
+    "period": 20,
+    "yearEarly": 1911,
+    "yearLate": 1911
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "23N33",
+      "25F26(RABBIT)",
+      "25G4(REED)",
+      "25F36"
+    ],
+    "iconClassDescription": [
+      "September ~ other concepts",
+      "rodents: rabbit",
+      "plants and herbs: reed",
+      "water-birds"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1914-127"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Theo van Hoytema",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "440"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Kalenderblad september met konijnen, Theo van Hoytema, 1911",
+  "subTitle": "h 440mm \u00d7 w 210mm",
+  "scLabelLine": "Theo van Hoytema, 1911, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

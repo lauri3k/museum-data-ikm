@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2009-46",
+  "priref": "468225",
+  "objectNumber": "RP-P-2009-46",
+  "language": "en",
+  "title": "Portret van de prentmaker en uitgever John Boydell",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4771edb0-7cd3-4cf5-b18d-2a280453816b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1822,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/KizC7Krhab51ebTJbspDvCUfeMrH8Qrds0QNMQ4cH61D-jCUMv85WzCz8MaQHG4MLffPxaoDYvgzinqGVLJBnep-EvK8YOyd-fAQhWKw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van de prentmaker en uitgever John Boydell"
+  ],
+  "description": "John Boydell is zittend geportretteerd met in zijn hand de door hem gemaakte prent getiteld 'Jason en de draak' naar Salvador Rosa. Links van hem op tafel ligt een burijn en de fondscatalogus van Boydells uitgeverij. Op de achtergrond een boekenkast waarin drie prentalbums met respectievelijk de opschriften op de rug: 'Boydell collected prints Vol. I'; 'Boydell collected prints Vol. II' en 'Boydell collected prints Vol.'.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Josiah Boydell",
+      "unFixedName": "Boydell, Josiah",
+      "placeOfBirth": "Hawarden",
+      "dateOfBirth": "1752-01-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1817-03-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Halliford",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Josiah Boydell (18-jan-1752 - 27-mrt-1817), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2008-11-27T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1792",
+    "sortingDate": 1792,
+    "period": 18,
+    "yearEarly": 1792,
+    "yearLate": 1792
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C532",
+      "48B3",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of graphic artist",
+      "portrait, self-portrait of artist",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Boydell, John"
+    ],
+    "objectNumbers": [
+      "RP-P-2009-46"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Boydell, John"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 69",
+    "69"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "456"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "327"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van de prentmaker en uitgever John Boydell, Valentine Green, 1792",
+  "subTitle": "h 456mm \u00d7 w 327mm",
+  "scLabelLine": "Valentine Green, 1792, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

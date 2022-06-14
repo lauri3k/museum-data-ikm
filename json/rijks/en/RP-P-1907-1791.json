@@ -1,0 +1,282 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1907-1791",
+  "priref": "81914",
+  "objectNumber": "RP-P-1907-1791",
+  "language": "en",
+  "title": "Allegorie op het Nieuwe Testament met Christus en Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a7401688-8ae5-453e-bcd2-8023128f6484",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1840,
+    "height": 2766,
+    "url": "https://lh3.ggpht.com/B1TBDBG5KWuzSMTeRu1k2ld9aJnSBtliOIxcJMNZOx5LXGKYHoCDlpdl8O_hDCHMDby38z-thENt0zGrKmCzDiBHXRr6=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#F7F5E9"
+    },
+    {
+      "percentage": 27,
+      "hex": " #E5DDC4"
+    },
+    {
+      "percentage": 8,
+      "hex": " #CAC2A6"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A49D86"
+    },
+    {
+      "percentage": 18,
+      "hex": " #736E5B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #3C3A31"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F5E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E5DDC4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CAC2A6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A49D86",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #736E5B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3C3A31",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#FFEFD5"
+    },
+    {
+      "percentage": 27,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 54,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 22,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Allegorie op het Nieuwe Testament met Christus en Johannes de Doper",
+    "Titelpagina voor: De Heylige historien van het Nieuwe Testament, Amsterdam",
+    "De Heylige historien van het Nieuwe Testament"
+  ],
+  "description": "Allegorie op het Nieuwe Testament met verheerlijking van het lam en het boek met zeven zegels op een medaillon vastgehouden door twee kleine engelen. Christus en Johannes de Doper staan aan weerszijden van het voetstuk met de titel. Twee kleine sc\u00e8nes tonen episoden uit het Nieuwe Testament: het laatste avondmaal en de doop van Christus in de Jordaan door Johannes de Doper.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Nicolaes Visscher (I)",
+      "unFixedName": "Visscher, Nicolaes (I)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1618-01-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolaes Visscher (I) (25-jan-1618 - 1679), Amsterdam"
+    },
+    {
+      "name": "Staten-Generaal der Verenigde Nederlanden",
+      "unFixedName": "Staten-Generaal der Verenigde Nederlanden",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Staten-Generaal der Verenigde Nederlanden"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Abraham de Blois",
+      "unFixedName": "Blois, Abraham de",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1679",
+      "dateOfBirthPrecision": "in or before",
+      "dateOfDeath": "1717-10-06",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Abraham de Blois (in or before 1679 - before 06-okt-1717), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham de Blois",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1906-11-19T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1651 - 1679",
+    "sortingDate": 1651,
+    "period": 17,
+    "yearEarly": 1651,
+    "yearLate": 1679
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11D",
+      "11H(JOHN THE BAPTIST)",
+      "73C121",
+      "73D2",
+      "73G22"
+    ],
+    "iconClassDescription": [
+      "Christus",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "baptism of Christ in the river Jordan: John the Baptist pouring out water on Christ's head: the Holy Ghost descends",
+      "the episode of the Last Supper",
+      "the vision of the Lamb and the book with the seven seals"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1907-1791"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Abraham de Blois",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "106"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Allegorie op het Nieuwe Testament met Christus en Johannes de Doper, Abraham de Blois, 1651 - 1679",
+  "subTitle": "h 157mm \u00d7 w 106mm",
+  "scLabelLine": "Abraham de Blois, 1651 - 1679, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

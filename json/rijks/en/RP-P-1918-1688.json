@@ -1,0 +1,273 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1918-1688",
+  "priref": "336390",
+  "objectNumber": "RP-P-1918-1688",
+  "language": "en",
+  "title": "Boisot omhelst burgemeester van der Werff tijdens het ontzet van Leiden, 1574",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e658c5fb-12da-40ca-b6d0-d14bcd11c8b6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2134,
+    "url": "https://lh4.ggpht.com/n8t_rvF2Er5raIwWqdsguqieIK0Su81GhEe6Vo4FnInnq9Q97xW5fh6wwzZV4d89GV4KKmnQcbycSsBYjoweaOWyBj5D=s0"
+  },
+  "colors": [
+    {
+      "percentage": 49,
+      "hex": "#F5ECDB"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C8C0AF"
+    },
+    {
+      "percentage": 9,
+      "hex": " #80776D"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A0988B"
+    },
+    {
+      "percentage": 9,
+      "hex": " #615952"
+    },
+    {
+      "percentage": 5,
+      "hex": " #3D3834"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5ECDB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C8C0AF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #80776D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A0988B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #615952",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3D3834",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 31,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Boisot omhelst burgemeester van der Werff tijdens het ontzet van Leiden, 1574",
+    "Geschiedkundig Tafereel; Voorstellende het ontzet van Leijden in den jare 1574, op het oogenblik dat zich de admiraal Boijsot in de armen werpt van den burgemeester van de Werff, die God dankt voor de redding van stad en burgerij"
+  ],
+  "description": "Louis de Boisot omhelst burgemeester Pieter van der Werff op de kade tijdens het ontzet van Leiden, 3 oktober 1574. Op de achtergrond delen de geuzen vanuit bootjes brood uit aan de uitgehongerde bevolking van de stad.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Stad Leiden",
+      "unFixedName": "Stad Leiden",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Stad Leiden"
+    },
+    {
+      "name": "D.A.M. Sluyter",
+      "unFixedName": "Sluyter, D.A.M.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object D.A.M. Sluyter"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Willem Hendrik Hoogkamer",
+      "unFixedName": "Hoogkamer, Willem Hendrik",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1790-09-21",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1864-01-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Arnhem",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem Hendrik Hoogkamer (21-sep-1790 - 22-jan-1864), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Hendrik Hoogkamer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1918-01-01T00:00:00",
+    "creditLine": "Gift of C.P.D. Pape"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1825",
+    "sortingDate": 1825,
+    "period": 19,
+    "yearEarly": 1825,
+    "yearLate": 1825
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Ontzet van Leiden"
+    ],
+    "periods": [],
+    "places": [
+      "Leiden"
+    ],
+    "people": [
+      "Werff, Pieter Adriaansz. van der",
+      "Boisot, Louis de"
+    ],
+    "objectNumbers": [
+      "RP-P-1918-1688"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Werff, Pieter Adriaansz. van der",
+    "Boisot, Louis de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 74, nr. 692A."
+  ],
+  "catRefRPK": [
+    "FMH 692",
+    "692"
+  ],
+  "principalOrFirstMaker": "Willem Hendrik Hoogkamer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "448"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "535"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Boisot omhelst burgemeester van der Werff tijdens het ontzet van Leiden, 1574, Willem Hendrik Hoogkamer, 1825",
+  "subTitle": "h 448mm \u00d7 w 535mm",
+  "scLabelLine": "Willem Hendrik Hoogkamer, 1825, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

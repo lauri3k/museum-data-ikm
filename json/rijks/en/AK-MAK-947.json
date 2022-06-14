@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-947",
+  "priref": "1503",
+  "objectNumber": "AK-MAK-947",
+  "language": "en",
+  "title": "Ovoid bottle vase with a green glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5695efdd-71dc-4b68-8950-54b0fdc1e154",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2228,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/SIy7b6tkXv7Fh2Y9p6_Y2e2aTdMQ_nwrnddtn_oSHyUQuUjeiNOExT6O4toipv3djHZGkCJsNZjenfSRy34GK_JeMg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#ECEBEB"
+    },
+    {
+      "percentage": 5,
+      "hex": " #94928C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #706A55"
+    },
+    {
+      "percentage": 64,
+      "hex": " #C6C4C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #554C36"
+    },
+    {
+      "percentage": 6,
+      "hex": " #2E281B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECEBEB",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #94928C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #706A55",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C6C4C0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #554C36",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2E281B",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 18,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 64,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Ovoid bottle vase with a green glaze"
+  ],
+  "description": "Floesvormige vaas van steengoed met een eivormig lichaam en korte, smalle nek met een uitstulpende ring, bedekt met een gecraqueleerd donkergroen glazuur. Op de schouder en buik banden met ingegrifte, horizontale lijnen.",
+  "labelText": null,
+  "objectTypes": [
+    "vase"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "engraving",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1300 - c. 1400",
+    "sortingDate": 1300,
+    "period": 13,
+    "yearEarly": 1300,
+    "yearLate": 1400
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-947"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "23.3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "16.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Ovoid bottle vase with a green glaze, anonymous, c. 1300 - c. 1400",
+  "subTitle": "h 23.3cm \u00d7 d 4cm",
+  "scLabelLine": "anonymous, c. 1300 - c. 1400, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

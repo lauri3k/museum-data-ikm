@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-31.121",
+  "priref": "51607",
+  "objectNumber": "RP-P-OB-31.121",
+  "language": "en",
+  "title": "Johannes de Doper in de wildernis",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d672b048-b419-43b1-84ad-ca0245977162",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1993,
+    "height": 2120,
+    "url": "https://lh3.googleusercontent.com/lzlLPw-t5arr-F94etvKZ7O3bqwHp4SUgyBe09-N5u40BSk6uAfnNLf_QOf3B3jBUiRbh01deZ63EkYKamDzR8jfwHro=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper in de wildernis"
+  ],
+  "description": "Johannes de Doper met lam en rieten kruis.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Antonio da Trento",
+      "unFixedName": "Trento, Antonio da",
+      "placeOfBirth": null,
+      "dateOfBirth": "1510",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1550",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter",
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antonio da Trento (c. 1510 - c. 1550), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antonio da Trento",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "c. 1520 - c. 1550",
+    "sortingDate": 1520,
+    "period": 16,
+    "yearEarly": 1520,
+    "yearLate": 1550
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-31.121"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 17",
+    "17",
+    "Bartsch 17",
+    "17"
+  ],
+  "principalOrFirstMaker": "Antonio da Trento",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "139"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "138"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Johannes de Doper in de wildernis, Antonio da Trento, c. 1520 - c. 1550",
+  "subTitle": "h 139mm \u00d7 w 138mm",
+  "scLabelLine": "Antonio da Trento, c. 1520 - c. 1550, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2004-104",
+  "priref": "423056",
+  "objectNumber": "RP-T-2004-104",
+  "language": "en",
+  "title": "A Red Bergamot in a Landscape",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0774c2fd-e0b7-477d-8712-bf38c2de5c1e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1648,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/s3rDqxfsXfRzTuHQO2ZdMCiM-G2v8Y0maVq4AXxbE4hWu8_ByoMD_CelcHKCtxml8XXQ-KQzV3mrdbnibRG3uMh0gsab=s0"
+  },
+  "colors": [
+    {
+      "percentage": 71,
+      "hex": "#F3F1E7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #513B34"
+    },
+    {
+      "percentage": 0,
+      "hex": " #893039"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B18278"
+    },
+    {
+      "percentage": 4,
+      "hex": " #885E54"
+    },
+    {
+      "percentage": 13,
+      "hex": " #CAB5AA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F3F1E7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #513B34",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #893039",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #B18278",
+      "normalizedHex": "#DDA5AA"
+    },
+    {
+      "originalHex": " #885E54",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #CAB5AA",
+      "normalizedHex": "#DDA5AA"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 71,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #BC8F8F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A52A2A"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 71,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 22,
+      "hex": " #DDA5AA"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #981313"
+    }
+  ],
+  "titles": [
+    "A Red Bergamot in a Landscape"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Aert Schouman",
+      "unFixedName": "Schouman, Aert",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1710-03-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1792-07-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Aert Schouman (04-mrt-1710 - 05-jul-1792)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aert Schouman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2004-05-19T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "gouache (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1753",
+    "sortingDate": 1753,
+    "period": 18,
+    "yearEarly": 1753,
+    "yearLate": 1753
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2004-104"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Aert Schouman",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "433"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "279"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "A Red Bergamot in a Landscape, Aert Schouman, 1753",
+  "subTitle": "h 433mm \u00d7 w 279mm",
+  "scLabelLine": "Aert Schouman (1710-1792), watercolour, gouache, 1753",
+  "label": {
+    "title": "A Red Bergamot in a Landscape",
+    "makerLine": "Aert Schouman (1710-1792), watercolour, gouache, 1753",
+    "description": "The bright red watercolour and gouache Aert Schouman used to deftly record this bergamot plant on paper is astonishingly intense. It is also the most striking of all his colours, which were greatly admired in his own time. In the 18th century paints were not yet produced in factories. Artists mixed them by hand following their own, sometimes secret, formulas.",
+    "notes": null,
+    "date": "2015-06-05"
+  },
+  "showImage": true,
+  "location": null
+}

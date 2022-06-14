@@ -1,0 +1,178 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1980-11",
+  "priref": "329419",
+  "objectNumber": "NG-1980-11",
+  "language": "en",
+  "title": "Plate with an allegory on the Dutch East India Company",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9e71279c-6ba2-4467-b939-d21606075c89",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2706,
+    "height": 2712,
+    "url": "https://lh6.ggpht.com/kS6QuefCYaVZNNK3oIcV9qa6YmHowiLrjylwA_LsEHUxHgFC8cpPPb9VkAhKecSASZeGLPmMWx7pHKMJqOesdx-axvg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Plate with an allegory on the Dutch East India Company"
+  ],
+  "description": "Bord van porselein met gelobde wand, beschilderd op het glazuur in roze (en cama\u00efeu) en goud. Op het plat een groep mensen: een vrouw met een vlag waarop de initialen van de Verenigde Oost-Indische Compagnie zijn aangebracht, omgeven door jonge vrouwen, de god Mercurius en Aziatische bedienden die de vrouw geschenken aanbieden. Aan de voeten van de vrouw een leeuw, een kroon en juwelen.\nOp de achtergrond de Rede van Batavia. Op de wand een band met bloemranken; de rand met vier bloemtakken in de Duitse stijl. De voorstelling is gebaseerd op een prent van Jan Punt (1711-1779). Europese voorstelling in emailkleuren.",
+  "labelText": null,
+  "objectTypes": [
+    "plate (dishes)"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Punt",
+      "unFixedName": "Punt, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1711-04-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1779-12-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "copy after",
+      "labelDesc": "copy after Jan Punt (02-apr-1711 - 18-dec-1779), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Punt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1980-03-23T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "gold (metal)"
+  ],
+  "techniques": [
+    "painting",
+    "gilding",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1740 - c. 1750",
+    "sortingDate": 1740,
+    "period": 18,
+    "yearEarly": 1740,
+    "yearLate": 1750
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17501750"
+    ],
+    "places": [
+      "Oost-Indi\u00eb",
+      "Batavia"
+    ],
+    "people": [
+      "Verenigde Oostindische Compagnie"
+    ],
+    "objectNumbers": [
+      "NG-1980-11"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Verenigde Oostindische Compagnie"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Punt",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "2.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "22.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "13"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Plate with an allegory on the Dutch East India Company, Jan Punt (copy after), c. 1740 - c. 1750",
+  "subTitle": "h 2.2cm \u00d7 d 22.6cm",
+  "scLabelLine": "Jan Punt, c. 1740 - c. 1750, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

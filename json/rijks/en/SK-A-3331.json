@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3331",
+  "priref": "4721",
+  "objectNumber": "SK-A-3331",
+  "language": "en",
+  "title": "Portrait of Willem III (1650-1702), Prince of Orange and since 1689, King of England",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5c4a1876-1ff5-41a3-9ccf-eb7f65ab4ea9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2102,
+    "height": 2591,
+    "url": "https://lh5.ggpht.com/8Dn-TDGr78XeKTeH1v7652DIykbpm3V-EtGTS49l_thvD_cTXsVVi5aB0rbACjSD5cW5xqmWFAeU4gUKpiuK30YEnw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#34250F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #82754D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E7DFB5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D0C294"
+    },
+    {
+      "percentage": 28,
+      "hex": " #7B5726"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AD9867"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#34250F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #82754D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E7DFB5",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D0C294",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7B5726",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #AD9867",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 28,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EEE8AA"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 28,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Portrait of Willem III (1650-1702), Prince of Orange and since 1689, King of England"
+  ],
+  "description": "Portret van Willem III, prins van Oranje en sinds 1689 koning van Engeland. Kniestuk, staand in wapenrusting, met commandostaf in de rechterhand, de linkerhand in de zij. Rechts op een tafel ligt zijn helm met pluimen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Caspar Netscher",
+      "unFixedName": "Netscher, Caspar",
+      "placeOfBirth": "Heidelberg",
+      "dateOfBirth": "1639",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1684-01-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Caspar Netscher (1639 - 15-jan-1684)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Caspar Netscher",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1940-03-01T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Kessler-H\u00fclsmann, Kapelle op den Bosch"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1670 - 1684",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1684
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B113",
+      "45C22"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "king",
+      "armour"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "SK-A-3331"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Caspar Netscher",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "49"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "39.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Willem III (1650-1702), Prince of Orange and since 1689, King of England, Caspar Netscher, 1670 - 1684",
+  "subTitle": "h 49cm \u00d7 w 39.5cm",
+  "scLabelLine": "Caspar Netscher, 1670 - 1684, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

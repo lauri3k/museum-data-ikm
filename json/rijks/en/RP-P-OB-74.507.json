@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-74.507",
+  "priref": "185393",
+  "objectNumber": "RP-P-OB-74.507",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "aa3e3e7e-c667-40d6-ae20-b5e7a0c9573e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1954,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/AtCXBuQWm_mwZBRnSi2Sci3gdjcFhxXVpEnR8XAFPbbyz1mERrAIw8VGbuo4NAhOzRUvy3SODlFnymWDrsUiIRDry1CC0WWT4NMXXKM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Beno\u00eet Thiboust",
+      "unFixedName": "Thiboust, Beno\u00eet",
+      "placeOfBirth": "Chartres",
+      "dateOfBirth": "1619",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Beno\u00eet Thiboust (1619 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Beno\u00eet Thiboust",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1629 - 1729",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1729
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-74.507"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Beno\u00eet Thiboust",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "208"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "165"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning, Beno\u00eet Thiboust, 1629 - 1729",
+  "subTitle": "h 208mm \u00d7 w 165mm",
+  "scLabelLine": "Beno\u00eet Thiboust, 1629 - 1729, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

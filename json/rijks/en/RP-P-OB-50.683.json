@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-50.683",
+  "priref": "110106",
+  "objectNumber": "RP-P-OB-50.683",
+  "language": "en",
+  "title": "Landschap met vlaamse gaaien",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "39a7f808-289d-4aff-98ff-9e4d3979f534",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1304,
+    "url": "https://lh3.ggpht.com/KRAW2rziA7-NcAGXEILQLRiQY2aUrDwXghEym5KuwgMj9cCruEyHcuybAQSiB0ZqfYxupwNtyh3Mi3ZeOryEPo6b2Eqp=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#F4F0E1"
+    },
+    {
+      "percentage": 23,
+      "hex": " #D2CDBF"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B2AD9F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #959183"
+    },
+    {
+      "percentage": 11,
+      "hex": " #6E6B5E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #49473D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F0E1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D2CDBF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B2AD9F",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #959183",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6E6B5E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #49473D",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 23,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 76,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 21,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Landschap met vlaamse gaaien",
+    "Garrulus. Grey.",
+    "Vogelboek",
+    "Livre d'oyseavx"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Lodewijk XIV (koning van Frankrijk)",
+      "unFixedName": "Lodewijk XIV (koning van Frankrijk)",
+      "placeOfBirth": "Saint-Germain-en-Laye",
+      "dateOfBirth": "1638-09-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1715-09-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Versailles",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "Lodewijk XIV (koning van Frankrijk) (05-sep-1638 - 01-sep-1715), France"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Albert Flamen",
+      "unFixedName": "Flamen, Albert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1620",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1691",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albert Flamen (c. 1620 - after 1691), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albert Flamen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Paris",
+    "Paris",
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1648 - 1692",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1692
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F3"
+    ],
+    "iconClassDescription": [
+      "birds"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-50.683"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Robert-Dumesnil 412",
+    "412",
+    "The Illustrated Bartsch 91",
+    "91"
+  ],
+  "principalOrFirstMaker": "Albert Flamen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "97"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "201"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Landschap met vlaamse gaaien, Albert Flamen, 1648 - 1692",
+  "subTitle": "h 97mm \u00d7 w 201mm",
+  "scLabelLine": "Albert Flamen, 1648 - 1692, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

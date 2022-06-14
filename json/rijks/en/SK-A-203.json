@@ -1,0 +1,283 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-203",
+  "priref": "4797",
+  "objectNumber": "SK-A-203",
+  "language": "en",
+  "title": "Family Group with a black Man",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b95163df-153d-4b92-9ea2-671e9471e2b6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1920,
+    "url": "https://lh3.googleusercontent.com/kBfX6rYCWYdX-QyOeiEm3f62hN3OxjdSCSJ_sz2n8zt0RMnpVJcOYKccYXKCIuY_wPsMTXujYt6GiV5QBT-IdW1Jiudfe7F6ID0Icgeh=s0"
+  },
+  "colors": [
+    {
+      "percentage": 53,
+      "hex": "#653B21"
+    },
+    {
+      "percentage": 35,
+      "hex": " #1B1314"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8D6E41"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B29761"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D7BE82"
+    },
+    {
+      "percentage": 1,
+      "hex": " #5E5444"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EAD8A9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#653B21",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #1B1314",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8D6E41",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B29761",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D7BE82",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5E5444",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EAD8A9",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 53,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 35,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DEB887"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 58,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 35,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Family Group with a black Man",
+    "Family portrait, possibly the family of Joos Banckert (1599-1647)"
+  ],
+  "description": "Familiegroep met een zwarte man. Ouders met vijf kinderen, in het midden een zwarte man. Links zit de oudste dochter met een kind op schoot, daarnaast de zoon met een stok, een dochter met een mand en een vrucht. Rechts een dochter met een bloem in de hand.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Willem Cornelisz Duyster",
+      "unFixedName": "Duyster, Willem Cornelisz",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1599-08-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1635-01-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Cornelisz Duyster (30-aug-1599 - 31-jan-1635)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Cornelisz Duyster",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1866-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "panel"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1631 - c. 1650",
+    "sortingDate": 1631,
+    "period": 17,
+    "yearEarly": 1631,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001648"
+    ],
+    "places": [
+      "Zeeland"
+    ],
+    "people": [
+      "Trappen Banckers, Joost van",
+      "Admiraliteit van Zeeland"
+    ],
+    "objectNumbers": [
+      "SK-A-203"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Trappen Banckers, Joost van",
+    "Admiraliteit van Zeeland"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Cornelisz Duyster",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "56.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "73.4"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": "support",
+      "value": "1.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "6.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Family Group with a black Man, Willem Cornelisz Duyster, c. 1631 - c. 1650",
+  "subTitle": "h 56.5cm \u00d7 w 73.4cm \u00d7 t 1.5cm",
+  "scLabelLine": "Willem Cornelisz Duyster, c. 1631 - c. 1650, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

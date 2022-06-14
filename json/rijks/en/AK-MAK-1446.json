@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1446",
+  "priref": "293870",
+  "objectNumber": "AK-MAK-1446",
+  "language": "en",
+  "title": "Netsuke",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5f12f899-2b2e-42b9-bba4-92a6c7e94e24",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/DJnGtzDZSv7ZTUE9NdjOFblE-PThpCDO2-5nHE7PihwsOQAGuELcX6lmz9Hi0ayd0YuRygT7jQIlCscG77uPeVYDI2bU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 6,
+      "hex": "#B1ABA0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8C8883"
+    },
+    {
+      "percentage": 72,
+      "hex": " #E4E2DC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #786758"
+    },
+    {
+      "percentage": 5,
+      "hex": " #57483C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #34251C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B1ABA0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8C8883",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E4E2DC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #786758",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #57483C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #34251C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Netsuke"
+  ],
+  "description": "Uitbeelding van een gebogen man met een hoge muts. Inscriptie naast de linker voet.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1991-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of H.J. van der Tak, 1991)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "ivory",
+    "mother of pearl",
+    "red coral (material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1700 - 1900",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1446"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "5.9"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "3.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Netsuke, anonymous, 1700 - 1900",
+  "subTitle": "h 5.9cm \u00d7 w 3.4cm \u00d7 d 3cm",
+  "scLabelLine": "anonymous, 1700 - 1900, wood (plant material)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

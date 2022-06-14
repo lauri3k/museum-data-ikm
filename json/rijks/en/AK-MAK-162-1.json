@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-162-1",
+  "priref": "683176",
+  "objectNumber": "AK-MAK-162-1",
+  "language": "en",
+  "title": "Passe-partout van De bodhisattva Jizo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "567a4a58-e057-44f1-9362-1ce2897bda95",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1784,
+    "url": "https://lh3.googleusercontent.com/WVGiiLZHUb-dX6DNAOinXLgKkqLMUP0MkkLkRiu8CkU2WTGQFRmEziWE8HZA1LQVC0uB0f1CleuPpQwGwE0EVFN9xgIjEfqrYIZ-Y_NW=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Passe-partout van De bodhisattva Jizo"
+  ],
+  "description": "Passe-partout of oude montering van rolschildering met de bodhisattva Jizo.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silk",
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1300 - c. 1350",
+    "sortingDate": 1300,
+    "period": 13,
+    "yearEarly": 1300,
+    "yearLate": 1350
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H13"
+    ],
+    "iconClassDescription": [
+      "representations ~ gods, demi-gods, heroes, etc. (Hinduism, Buddhism, Jainism)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-162-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Cat. tent.. Chinesische Kunst, Berlijn 1925.",
+    "Veilingcat. Collectie Breuer, cat.nr. 326.",
+    "Ostasiatische Zeitschrift, 3 Jahrg., p. 192.",
+    "Herman van Gessel, 'Rolschilderingen gerestaureerd', Rijksmuseum Kunstkrant, 27 (2001) nr. 4, p.8-9."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "164"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "54"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silk",
+  "longTitle": "Passe-partout van De bodhisattva Jizo, anonymous, c. 1300 - c. 1350",
+  "subTitle": "h c.164cm \u00d7 w 54cm \u00d7 d 2.3cm",
+  "scLabelLine": "anonymous, c. 1300 - c. 1350, silk",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

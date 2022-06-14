@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3002",
+  "priref": "5067",
+  "objectNumber": "SK-A-3002",
+  "language": "en",
+  "title": "Calf, spotted black and white",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cb247de4-9e98-4009-b859-28541989384d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2385,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/XWCbUOIBnzHuokJ5a26uWQHRIhP-q99yQN5XeQD20_RX5NgpGtACDQ_deE6x0j68q9Yoayssm-QutEGdP1IFVOdHOGs=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#7B6832"
+    },
+    {
+      "percentage": 30,
+      "hex": " #50522E"
+    },
+    {
+      "percentage": 11,
+      "hex": " #37361D"
+    },
+    {
+      "percentage": 7,
+      "hex": " #17160F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #858558"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B2AC85"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DDD6AD"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#7B6832",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #50522E",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #37361D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #17160F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #858558",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B2AC85",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DDD6AD",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 36,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #EEE8AA"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 30,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 11,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Calf, spotted black and white"
+  ],
+  "description": "Een zwart en wit gevlekt kalfje, staande in een wei.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Geo Poggenbeek",
+      "unFixedName": "Poggenbeek, Geo",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1853-07-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1903-01-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Geo Poggenbeek (20-jul-1853 - 04-jan-1903), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Geo Poggenbeek",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1923-08-01T00:00:00",
+    "creditLine": "C.D. Reich Bequest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1873 - c. 1903",
+    "sortingDate": 1873,
+    "period": 19,
+    "yearEarly": 1873,
+    "yearLate": 1903
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I2113"
+    ],
+    "iconClassDescription": [
+      "calf"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3002"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Geo Poggenbeek",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "22"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "21"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cardboard",
+  "longTitle": "Calf, spotted black and white, Geo Poggenbeek, c. 1873 - c. 1903",
+  "subTitle": "h 22cm \u00d7 w 21cm \u00d7 d 8.2cm",
+  "scLabelLine": "Geo Poggenbeek, c. 1873 - c. 1903, cardboard",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

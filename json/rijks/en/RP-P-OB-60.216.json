@@ -1,0 +1,270 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-60.216",
+  "priref": "162511",
+  "objectNumber": "RP-P-OB-60.216",
+  "language": "en",
+  "title": "Allegorie op de rede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "708d89e9-356d-48ed-a5b5-ccde42efc6e9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1533,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/Vg9lf6QmvNatv_L5vkz9vSjYQNxIVzD6EnBCbM6ujYkH-oTGey972-3nlN6FUVkViBdnRIkFOwGEvBUWZT5W9mHEy9S-=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#A4A092"
+    },
+    {
+      "percentage": 24,
+      "hex": " #817D71"
+    },
+    {
+      "percentage": 20,
+      "hex": " #58574F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C6C0AD"
+    },
+    {
+      "percentage": 5,
+      "hex": " #DBD6C6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #373733"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F7F3EB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A4A092",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #817D71",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #58574F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C6C0AD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DBD6C6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #373733",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F7F3EB",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 24,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 5,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 78,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Allegorie op de rede",
+    "Titelpagina voor: C. Schrevelius, Lexicon manuale Gr\u00e6co-Latinum & Latino-Gr\u00e6cum, 1660"
+  ],
+  "description": "Een vrouw, in klassiek gewaad, zittend achter een schrijftafel, in de hand een spoor, als verwijzing naar de rede. Op de tafel een zandloper, als symbool voor vergankelijkheid  Aan haar voeten een haan, als symbool voor waakzaamheid. Op de zuil achter haar een zonnewijzer, die verwijst naar het verstrijken van de tijd. Twee engelen houden een banier vast waarop de titel in het Latijn. Onderaan in een cartouche een impressum in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Franciscus Hackius",
+      "unFixedName": "Hackius, Franciscus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Leiden"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Franciscus Hackius, Leiden"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Reinier van Persijn",
+      "unFixedName": "Persijn, Reinier van",
+      "placeOfBirth": "Alkmaar",
+      "dateOfBirth": "1614",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1668-11-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Gouda",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Gouda"
+      ],
+      "qualification": null,
+      "labelDesc": "Reinier van Persijn (c. 1614 - 23-nov-1668), Gouda"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Reinier van Persijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Gouda",
+    "Leiden"
+  ],
+  "dating": {
+    "presentingDate": "1661",
+    "sortingDate": 1661,
+    "period": 17,
+    "yearEarly": 1661,
+    "yearLate": 1661
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "52B51",
+      "23U22",
+      "23U21"
+    ],
+    "iconClassDescription": [
+      "Reason; 'Ragione' (Ripa)",
+      "hourglass",
+      "sundial"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-60.216"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 79",
+    "79"
+  ],
+  "principalOrFirstMaker": "Reinier van Persijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "162"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Allegorie op de rede, Reinier van Persijn, 1661",
+  "subTitle": "h 162mm \u00d7 w 100mm",
+  "scLabelLine": "Reinier van Persijn, 1661, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

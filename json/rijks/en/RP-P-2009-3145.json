@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2009-3145",
+  "priref": "490003",
+  "objectNumber": "RP-P-2009-3145",
+  "language": "en",
+  "title": "Le Narcisse, 1 avril 1834, No. 62: Modes de Long-Champs (...)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "73eee963-db7d-418b-8b4d-c3b2e04fde6c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1711,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/_iWTf_j5GiPtaxsNLQoEM6kKUT6qas2pRwccEujZUFAJdqQRZOplYKSirKbJRQqiaoIDlkezY_OkioTUCEPSv15jGEc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Le Narcisse, 1 avril 1834, No. 62: Modes de Long-Champs (...)"
+  ],
+  "description": "'Modes de Long-Champs.' Man gekleed in een jas met revers, vest en lange broek. Geknoopte halsdoek. Accessoires: hoge hoed met opstaande rand, horlogeketting(?), handschoenen, wandelstok, schoenen met hakken en vierkante neuzen. Prent uit het modetijdschrift Le Narcisse (mars 1830 - mars 1848).",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints",
+    "costume and fashion prints"
+  ],
+  "makers": [
+    {
+      "name": "Dobbs and Page",
+      "unFixedName": "Dobbs and Page",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dobbs and Page, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Benoit",
+      "unFixedName": "Benoit",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Benoit"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Benoit",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2009-01-01T00:00:00",
+    "creditLine": "Gift of the M.A. Ghering-van Ierlant Collection"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1834",
+    "sortingDate": 1834,
+    "period": 19,
+    "yearEarly": 1834,
+    "yearLate": 1834
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D2121(+81)",
+      "41D11",
+      "41D221(TOP HAT)(+81)",
+      "41D223(VEST)(+81)",
+      "41D231(PANTALON)(+81)",
+      "41D2332(+81)",
+      "46C1463",
+      "41D263(+81)",
+      "41D222(+81)"
+    ],
+    "iconClassDescription": [
+      "coat (+ men's clothes)",
+      "fashion plates",
+      "clothing for the upper part of the body (VEST) (+ men's clothes)",
+      "trousers, breeches, etc. (PANTALON) (+ men's clothes)",
+      "shoes, sandals (+ men's clothes)",
+      "whip",
+      "walking-stick, staff, cane (+ men's clothes)",
+      "neck-gear ~ clothing (+ men's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18341834"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2009-3145"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "M.A. Ghering-Van Ierlant, Het bijeenbrengen van een collectie kostuum- en modeprenten gedurende de jaren 1970-2009, Breda 2016."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Benoit",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "238"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "163"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Le Narcisse, 1 avril 1834, No. 62: Modes de Long-Champs (...), Benoit, 1834",
+  "subTitle": "h 238mm \u00d7 w 163mm",
+  "scLabelLine": "Benoit, 1834, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

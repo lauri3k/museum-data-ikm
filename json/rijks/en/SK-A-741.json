@@ -1,0 +1,127 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-741",
+  "priref": "7008",
+  "objectNumber": "SK-A-741",
+  "language": "en",
+  "title": "The Roads of Vlissingen",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The Roads of Vlissingen"
+  ],
+  "description": "Zeegezicht met enkele schepen op woelig water voor de rede van Vlissingen. Op de voorgrond links een oorlogsschip.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-12-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1690",
+    "sortingDate": 1690,
+    "period": 17,
+    "yearEarly": 1690,
+    "yearLate": 1690
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-741"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "96"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "146"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Roads of Vlissingen, anonymous, c. 1690",
+  "subTitle": "h 96cm \u00d7 w 146cm",
+  "scLabelLine": "anonymous, c. 1690, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-34.800",
+  "priref": "77081",
+  "objectNumber": "RP-P-OB-34.800",
+  "language": "en",
+  "title": "Perseus en Andromeda",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a377dec3-4a28-4fd7-9445-2bdb1f2377e9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2419,
+    "url": "https://lh3.googleusercontent.com/T00nOY__kYStt-KynJek9j_bk3Z_Vu87ZrfCvHFgK4yaDpfxe_QytMBOXLRllI3SjkGb05gsZZACqxzMjIxikrLjJtw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Perseus en Andromeda",
+    "Persee et Andromede",
+    "Kaartspel met mythologische voorstellingen",
+    "Jeu des fables (kopie)"
+  ],
+  "description": "Speelkaart met een voorstelling van Perseus die aan komt vliegen op Pegasus om de vastgeketende Andromeda te redden van een zeemonster.",
+  "labelText": null,
+  "objectTypes": [
+    "print",
+    "playing card"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Stefano della Bella",
+      "unFixedName": "Bella, Stefano della",
+      "placeOfBirth": "Florence",
+      "dateOfBirth": "1610-05-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1664-07-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Florence",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "after print by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Stefano della Bella (18-mei-1610 - 27-jul-1664)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1620 - 1664",
+    "sortingDate": 1620,
+    "period": 17,
+    "yearEarly": 1620,
+    "yearLate": 1664
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94P21"
+    ],
+    "iconClassDescription": [
+      "Perseus and Andromeda"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-34.800"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, Stefano della Bella",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "55"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "57"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Perseus en Andromeda, anonymous, Stefano della Bella, 1620 - 1664",
+  "subTitle": "h 55mm \u00d7 w 57mm",
+  "scLabelLine": "anonymous, 1620 - 1664, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

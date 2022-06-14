@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1964-485",
+  "priref": "411967",
+  "objectNumber": "RP-P-1964-485",
+  "language": "en",
+  "title": "De zondvloed",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "79439af9-5ebc-4862-bbc1-d0c9b9d98dbc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2162,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/AbUg5ZhZ2jkU6BqCU3M8Vxj7klBPA2JYfs75ydNJpiMP3bfPJyu1yJNq5b1d5BV2TL60g-oujEywSkR8ftA6VqgyIz4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De zondvloed",
+    "Geschiedenis van Noach"
+  ],
+  "description": "De zondvloed overstroomt het land. Mensen en dieren worden verzwolgen door het water. Een paar mannen en vrouwen proberen zich te redden door in een boom te klimmen. Op de achtergrond de ark die de opvarenden redt voor de zondvloed. De voorstelling is gevat in een cirkelvormige omlijsting met een randschrift in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philips Galle (1537 - 29-mrt-1612)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Crispijn van de Passe (I) (1564 - 1637), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1964-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1580 - 1588",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1588
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71B331"
+    ],
+    "iconClassDescription": [
+      "the ark is floating on the waters, while life on earth is destroyed ~ story of Noah"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1964-485"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Franken 15",
+    "15",
+    "Hollstein Dutch 10",
+    "10",
+    "Hollstein Dutch 57",
+    "57"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De zondvloed, Crispijn van de Passe (I), 1580 - 1588",
+  "subTitle": "h 103mm \u00d7 w 89mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1580 - 1588, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

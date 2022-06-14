@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-48.148",
+  "priref": "127761",
+  "objectNumber": "RP-P-OB-48.148",
+  "language": "en",
+  "title": "H. Ursula",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b9d059bd-3b9a-4b24-88ea-0135937e853e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1755,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/nqimgrkpItDYor8IwW5PbPfU9fVX3TaEvPV1kP-cfVZeJeEk0dQtfQfSuj0985Xm3AckU22YW_aPvdDSJKeqzo8xWilb=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. Ursula",
+    "S. Ursula Virgo et Martyr"
+  ],
+  "description": "De heilige Ursula met een pijl in haar borst wordt als martelaar vastgehouden door een engel. In de linkerbovenhoek wordt de Heilige Geest gesymboliseerd door de duif.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Franz Huybrechts",
+      "unFixedName": "Huybrechts, Franz",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1630",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1687-12-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Franz Huybrechts (1630 - 27-dec-1687), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Franz Huybrechts",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1656 - 1661",
+    "sortingDate": 1656,
+    "period": 17,
+    "yearEarly": 1656,
+    "yearLate": 1661
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(URSULA)8"
+    ],
+    "iconClassDescription": [
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship - post-mortem occurrences of female saint"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-48.148"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Franz Huybrechts",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "66"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "H. Ursula, Franz Huybrechts, 1656 - 1661",
+  "subTitle": "h 90mm \u00d7 w 66mm",
+  "scLabelLine": "Franz Huybrechts, 1656 - 1661, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

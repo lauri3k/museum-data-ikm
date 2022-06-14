@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-201.235",
+  "priref": "534811",
+  "objectNumber": "RP-P-OB-201.235",
+  "language": "en",
+  "title": "Nieuwe historie van Roodkapje",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "336bd4ee-93bf-4d00-a39a-029f4b0bedf9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1810,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/Cm_aVCrhceICh-IMCTaMlRM9nXqm11RZcHy2ZE3WKP66saSjhd0YrpY9VX7c4ZfdNQ6j35pIRbSBiWdWHEQ__v8iXT4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Nieuwe historie van Roodkapje"
+  ],
+  "description": "Blad met 12 voorstellingen uit het sprookje van Roodkapje. Onder elke afbeelding een tweeregelig vers in het Nederlands en in het Frans. Genummerd rechtsboven: 99.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Europe"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Europe"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Franciscus Antonius Beersmans",
+      "unFixedName": "Beersmans, Franciscus Antonius",
+      "placeOfBirth": "Turnhout",
+      "dateOfBirth": "1840-06-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1897-01-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Franciscus Antonius Beersmans (14-jun-1840 - 25-jan-1897)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Franciscus Antonius Beersmans",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2014-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Europe"
+  ],
+  "dating": {
+    "presentingDate": "1866 - 1902",
+    "sortingDate": 1866,
+    "period": 19,
+    "yearEarly": 1866,
+    "yearLate": 1902
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-201.235"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Franciscus Antonius Beersmans",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "426"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "305"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Nieuwe historie van Roodkapje, Franciscus Antonius Beersmans, 1866 - 1902",
+  "subTitle": "h 426mm \u00d7 w 305mm",
+  "scLabelLine": "Franciscus Antonius Beersmans, 1866 - 1902, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

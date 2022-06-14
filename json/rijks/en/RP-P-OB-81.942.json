@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.942",
+  "priref": "464939",
+  "objectNumber": "RP-P-OB-81.942",
+  "language": "en",
+  "title": "Kaart van het prinsdom Orange, 1639",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ed6e99b0-c257-47f7-977d-76456f794b7e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2424,
+    "height": 2117,
+    "url": "https://lh4.ggpht.com/ITCHrLkNNsc1p-_2yVsjBC0LX8kW39WtRm1B7K-9IsF2Ejy-kZ-maw32dzPjWCKGVkgtn7VlmFQv7WyHE87iDnE4hg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#F0EEE1"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D1CDC0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #89857B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A5A094"
+    },
+    {
+      "percentage": 7,
+      "hex": " #BAB6AA"
+    },
+    {
+      "percentage": 6,
+      "hex": " #6C695F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #504D44"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0EEE1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D1CDC0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #89857B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A5A094",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BAB6AA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6C695F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #504D44",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Kaart van het prinsdom Orange, 1639",
+    "La Principaute d'Orange et Comtat de Venaissin"
+  ],
+  "description": "Kaart van het prinsdom Orange. Onder een plattegrond en een profiel van de stad Orange. In het midden de legenda A-T en 1-10 in het Frans.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1637 - 1640",
+    "sortingDate": 1637,
+    "period": 17,
+    "yearEarly": 1637,
+    "yearLate": 1640
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A3",
+      "25A4"
+    ],
+    "iconClassDescription": [
+      "maps of separate countries or regions",
+      "maps of cities"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange",
+      "Orange, Prinsdom"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-81.942"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 2211",
+    "2211"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "325"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "378"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Kaart van het prinsdom Orange, 1639, anonymous, 1637 - 1640",
+  "subTitle": "h 325mm \u00d7 w 378mm",
+  "scLabelLine": "anonymous, 1637 - 1640, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

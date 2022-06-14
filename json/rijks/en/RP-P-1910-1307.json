@@ -1,0 +1,193 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-1307",
+  "priref": "151564",
+  "objectNumber": "RP-P-1910-1307",
+  "language": "en",
+  "title": "Portret van Lady Jane Grey",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1bfa7a5d-547f-4b39-b856-91bcbd77406b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1652,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/SJJ1FeXY4m0pxhOnejdyjHBrqRWP-LTShHLem54orm9UeiZCLefsM5AFYrA7lUmTUgcreRG8uThYir6sEFlvz8-woCmSQ4MHPljqMfcA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Lady Jane Grey",
+    "Lady Jeanne Grey"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Fran\u00e7ois Jean Villain",
+      "unFixedName": "Villain, Fran\u00e7ois Jean",
+      "placeOfBirth": null,
+      "dateOfBirth": "1790",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Fran\u00e7ois Jean Villain (1790 - ....), Paris"
+    },
+    {
+      "name": "Joseph Straszewicz",
+      "unFixedName": "Straszewicz, Joseph",
+      "placeOfBirth": null,
+      "dateOfBirth": "1801",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1838-05-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Vanves",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Straszewicz (1801 - 05-mei-1838), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Nicolas Maurin",
+      "unFixedName": "Maurin, Nicolas",
+      "placeOfBirth": "Perpignan",
+      "dateOfBirth": "1798-03-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1850",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "printer",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolas Maurin (05-mrt-1798 - 1850)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolas Maurin",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "c. 1826 - 1838",
+    "sortingDate": 1826,
+    "period": 19,
+    "yearEarly": 1826,
+    "yearLate": 1838
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44BB113"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "queen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Lady Jane"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-1307"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Grey, Lady Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolas Maurin",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "545"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "360"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Lady Jane Grey, Nicolas Maurin, c. 1826 - 1838",
+  "subTitle": "h 545mm \u00d7 w 360mm",
+  "scLabelLine": "Nicolas Maurin, c. 1826 - 1838, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

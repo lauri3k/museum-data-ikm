@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-14819-B-1",
+  "priref": "357077",
+  "objectNumber": "BK-14819-B-1",
+  "language": "en",
+  "title": "Cup with blue dots",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "71361e41-4771-41ee-bbdb-092d76216482",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2012,
+    "url": "https://lh3.googleusercontent.com/eWfBAXPLDDVJ8bTPVpvSp984m22UT05rqCjrj0zLxhtdsLkPeUmYhBbPJVRvlu5GCOpTSsyIPFsE5JuSbQ7ntGZN8wB8varKG9O_3Qg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Cup with blue dots"
+  ],
+  "description": "Kop van porselein, beschilderd in onderglazuur blauw. De buitenwand is versierd met drie horizontale banden met stippen. Op de bodem ook een stip. Gemerkt op de onderzijde met een teken en een 3.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "European ceramics",
+    "European porcelain"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "porcelain company"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Europe"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Europe"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1936-01-01T00:00:00",
+    "creditLine": "J. Spoor Bequest, Muiden"
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "cobalt (mineral)"
+  ],
+  "techniques": [
+    "painting",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Europe"
+  ],
+  "dating": {
+    "presentingDate": "c. 1775 - c. 1799",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-14819-B-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "4.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Cup with blue dots, anonymous, c. 1775 - c. 1799",
+  "subTitle": "h 4.5cm \u00d7 d 6.5cm",
+  "scLabelLine": "anonymous, c. 1775 - c. 1799, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

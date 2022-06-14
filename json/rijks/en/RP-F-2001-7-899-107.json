@@ -1,0 +1,154 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-899-107",
+  "priref": "693886",
+  "objectNumber": "RP-F-2001-7-899-107",
+  "language": "en",
+  "title": "Gezicht op Green Mountain Falls te Colorado",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1fe3a963-8452-4b5b-afe1-036e287c7a17",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1156,
+    "url": "https://lh3.googleusercontent.com/HaHAf3JYYFFWD7rlKJMNeEfjMaVsYxso1iqSWu4syNquA126T1fEv0cijGfNGh4RAxICQnIRMyvNAziXBrrHrY_-mQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Green Mountain Falls te Colorado",
+    "Green Mountain Falls"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "N.Y. Photogravure Co.",
+      "unFixedName": "N.Y. Photogravure Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object N.Y. Photogravure Co., New York (city)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "New York (city)"
+  ],
+  "dating": {
+    "presentingDate": "c. 1888 - in or before 1893",
+    "sortingDate": 1888,
+    "period": 19,
+    "yearEarly": 1888,
+    "yearLate": 1893
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1",
+      "25H12"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'",
+      "dale, valley"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Green Mountain Falls"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-899-107"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "99"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "125"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Gezicht op Green Mountain Falls te Colorado, anonymous, c. 1888 - in or before 1893",
+  "subTitle": "h 99mm \u00d7 w 125mm",
+  "scLabelLine": "anonymous, c. 1888 - in or before 1893, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

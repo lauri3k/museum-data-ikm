@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-RBK-14716-A",
+  "priref": "2608",
+  "objectNumber": "AK-RBK-14716-A",
+  "language": "en",
+  "title": "Dish with powder blue and panels in reserve with river landscapes",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8e17b44e-44e6-427c-8783-362edd96dbb2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/xVp8ZhKoKFQx30hYJMoEULFes2us7gEANoQASAmO92dVLG4xEKAYWxzZBx0ynRDDJ65xlPyCJ37vJMkIQGHZsy4jaL0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#DDDAD0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #B6AFA0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #3B4E41"
+    },
+    {
+      "percentage": 8,
+      "hex": " #7F7A62"
+    },
+    {
+      "percentage": 7,
+      "hex": " #546492"
+    },
+    {
+      "percentage": 6,
+      "hex": " #142761"
+    },
+    {
+      "percentage": 1,
+      "hex": " #7984A8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DDDAD0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B6AFA0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3B4E41",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7F7A62",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #546492",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #142761",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #7984A8",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 22,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #4169E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 1,
+      "hex": " #778899"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 6,
+      "hex": " #4019B1"
+    }
+  ],
+  "titles": [
+    "Dish with powder blue and panels in reserve with river landscapes"
+  ],
+  "description": "Schotel van porselein met opstaande wand en schuine rand, beschilderd in onderglazuur blauw en op het glazuur blauw, rood, groen, geel, aubergine, zwart en goud met bloemtakken en rivierlandschappen. De schotel is bedekt met bleu poudr\u00e9 (poederblauw) met hierop in goud bloemtakken op de wand, op de rand gelobde cartouches met bloeiende planten; op het plat een cartouche met accoladevormige rand gevuld met een rivierlandlandschap met personen, paviljoens, bergen en bomen; op de wand geschulpte cartouches met afwisselend een rivierlandschap en een bloemtak met rotsen; op de achterzijde driemaal een bloemrank. Gemerkt op de onderzijde met een ruit in een dubbele cirkel. Een chip in de rand; chip in de voetring. Bleu poudr\u00e9 met famille verte.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1936-01-01T00:00:00",
+    "creditLine": "J. Spoor Bequest, Muiden"
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "cobalt (mineral)",
+    "gold (metal)"
+  ],
+  "techniques": [
+    "painting",
+    "gilding",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700 - c. 1720",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1720
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-RBK-14716-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "41.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "23.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Dish with powder blue and panels in reserve with river landscapes, anonymous, c. 1700 - c. 1720",
+  "subTitle": "h 6cm \u00d7 d 41.4cm",
+  "scLabelLine": "anonymous, c. 1700 - c. 1720, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

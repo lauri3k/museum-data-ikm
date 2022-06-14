@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1886-A-10017",
+  "priref": "111040",
+  "objectNumber": "RP-P-1886-A-10017",
+  "language": "en",
+  "title": "Green Imperial-Pigeon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7240d534-5c5b-4921-a2f8-4baa714ee4f3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2063,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/TFl8Fm1x8EpK7u7saHinxNGJwfJh83ElPaIyZVdt98NdLUID8uyMPVkw4OPfGQ30deXtSO3YmM11m2bKCJej0ItSHlE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Green Imperial-Pigeon"
+  ],
+  "description": "Een groene muskaatduif (Ducula aenea). Vogel op een tak naar rechts gezeten. Prent rechtsboven genummerd: Tab. IX.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Simon Fokke",
+      "unFixedName": "Fokke, Simon",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1712-09-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1784-04-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Simon Fokke (01-sep-1712 - 10-apr-1784), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Simon Fokke",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1886-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1722 - 1784",
+    "sortingDate": 1722,
+    "period": 18,
+    "yearEarly": 1722,
+    "yearLate": 1784
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F39(DOVE)"
+    ],
+    "iconClassDescription": [
+      "other birds: dove"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1886-A-10017"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Simon Fokke",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Green Imperial-Pigeon, Simon Fokke, 1722 - 1784",
+  "subTitle": "h 200mm \u00d7 w 160mm",
+  "scLabelLine": "Simon Fokke, 1722 - 1784, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,156 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-995-1",
+  "priref": "677339",
+  "objectNumber": "RP-F-2001-7-995-1",
+  "language": "en",
+  "title": "Gezicht op een park in Woodbury, gezien vanuit het laboratorium van George Gill Green voor Green's August Flower en Dr. Boschee's German Syrup",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a9039d71-5eef-4c5c-a426-2ac6f458d600",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2078,
+    "url": "https://lh3.googleusercontent.com/LKaDpnYTTSdSyxAz2xDfDXxGoDLszSJEdJDuhGwBIKdWYOYyJfbcrkYR1WAu50rHvABw5qyPmm_IpVTfkqRMIdIK7Cazjg5UEGSOnjeD=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op een park in Woodbury, gezien vanuit het laboratorium van George Gill Green voor Green's August Flower en Dr. Boschee's German Syrup",
+    "Bird's eye view from Laboratory tower"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Wells & Hope Co.",
+      "unFixedName": "Wells & Hope Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Wells & Hope Co."
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1879 - in or before 1889",
+    "sortingDate": 1879,
+    "period": 19,
+    "yearEarly": 1879,
+    "yearLate": 1889
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I13",
+      "49E8"
+    ],
+    "iconClassDescription": [
+      "public gardens, park",
+      "laboratory"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Woodbury"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-995-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "191"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Gezicht op een park in Woodbury, gezien vanuit het laboratorium van George Gill Green voor Green's August Flower en Dr. Boschee's German Syrup, anonymous, c. 1879 - in or before 1889",
+  "subTitle": "h 150mm \u00d7 w 191mm",
+  "scLabelLine": "anonymous, c. 1879 - in or before 1889, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

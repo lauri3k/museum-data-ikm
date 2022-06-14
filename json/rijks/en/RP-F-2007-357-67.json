@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2007-357-67",
+  "priref": "453034",
+  "objectNumber": "RP-F-2007-357-67",
+  "language": "en",
+  "title": "Lappeenranta in Finland gezien van een hoger gelegen gedeelte.",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3b403cde-4ddf-456c-8170-0a1349637a7e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2664,
+    "height": 2110,
+    "url": "https://lh4.ggpht.com/v1XR_qv_64_Lx8oQJQDDeIF_hCEHRIYnr58cbgmliKX1U48BTll4rVouZVS7lRDbJmqVne58FOhnuAjgBskdZE95Fqo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#33291F"
+    },
+    {
+      "percentage": 16,
+      "hex": " #81745E"
+    },
+    {
+      "percentage": 67,
+      "hex": " #B0A58A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E8D6A3"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F6F0C7"
+    },
+    {
+      "percentage": 8,
+      "hex": " #534638"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#33291F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #81745E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B0A58A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E8D6A3",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F6F0C7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #534638",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 16,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FFFACD"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 25,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Lappeenranta in Finland gezien van een hoger gelegen gedeelte.",
+    "Vilmanstrand Finland, hotel Societeshus"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Henry Pauw van Wieldrecht",
+      "unFixedName": "Pauw van Wieldrecht, Henry",
+      "placeOfBirth": "Zeist",
+      "dateOfBirth": "1863-10-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Henry Pauw van Wieldrecht (24-okt-1863 - 02-jun-1912), Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Henry Pauw van Wieldrecht",
+      "unFixedName": "Pauw van Wieldrecht, Henry",
+      "placeOfBirth": "Zeist",
+      "dateOfBirth": "1863-10-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Henry Pauw van Wieldrecht (24-okt-1863 - 02-jun-1912)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Henry Pauw van Wieldrecht",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2008-12-11T00:00:00",
+    "creditLine": "Gift of the heirs of H. Pauw van Wieldrecht, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1898",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2007-357-67"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Henry Pauw van Wieldrecht",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "82"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "259"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "365"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Lappeenranta in Finland gezien van een hoger gelegen gedeelte., Henry Pauw van Wieldrecht (possibly), 1898",
+  "subTitle": "h 82mm \u00d7 w 120mm",
+  "scLabelLine": "Henry Pauw van Wieldrecht, 1898, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

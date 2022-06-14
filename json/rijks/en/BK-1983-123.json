@@ -1,0 +1,224 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1983-123",
+  "priref": "317390",
+  "objectNumber": "BK-1983-123",
+  "language": "en",
+  "title": "Bowl with five blue lines",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "45bdcd03-cdcf-42c3-9ce6-ae22a902bba3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2246,
+    "url": "https://lh6.ggpht.com/5X15Xz5eRhGOM5VSVLnSNab1oI94EfqAZp-rC_lmWWoxO1UXltwxsTxecVCCOQSmXclkZZJBo-fFoh0w3MoOSujnIGY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#423F37"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5C5C5D"
+    },
+    {
+      "percentage": 52,
+      "hex": " #ABA8A0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #CECCC2"
+    },
+    {
+      "percentage": 17,
+      "hex": " #F8F5E9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #89867C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#423F37",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #5C5C5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ABA8A0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CECCC2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F8F5E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #89867C",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 22,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 39,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Bowl with five blue lines"
+  ],
+  "description": "Kom van kwarts-fritgoed gedecoreerd in onderglazuur blauw met vijf verticaal uitlopende strepen onder een transparant, geiriseerd alkaliglazuur.",
+  "labelText": null,
+  "objectTypes": [
+    "bowl"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1983-01-01T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Oosterbaan-Lugt, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "glaze"
+  ],
+  "techniques": [
+    "painting",
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1175 - c. 1224",
+    "sortingDate": 1175,
+    "period": 12,
+    "yearEarly": 1175,
+    "yearLate": 1224
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1983-123"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "9.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": "c.",
+      "part": null,
+      "value": "17.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Bowl with five blue lines, anonymous, c. 1175 - c. 1224",
+  "subTitle": "h c.9.5cm \u00d7 d c.17.5cm",
+  "scLabelLine": "anonymous, c. 1175 - c. 1224, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

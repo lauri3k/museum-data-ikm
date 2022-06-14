@@ -1,0 +1,248 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-15",
+  "priref": "35637",
+  "objectNumber": "RP-P-OB-15",
+  "language": "en",
+  "title": "Self-portrait with Long, Bushy Hair",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eda23669-628d-4b7f-b9c2-b766b55180a9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2193,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/mn2FZOgpXq56n1RZ_UY-yI_u_LQLu9fCtGXwwtBqd_EVKex1ejH_mKs88bKNZcG9QAYQ3hjqVrPFbURbDa7CAOifRQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 48,
+      "hex": "#D1C8B8"
+    },
+    {
+      "percentage": 32,
+      "hex": " #EBE8E0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #AAA395"
+    },
+    {
+      "percentage": 3,
+      "hex": " #6C6556"
+    },
+    {
+      "percentage": 3,
+      "hex": " #857E6F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #413D31"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEFE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D1C8B8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EBE8E0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #AAA395",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6C6556",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #857E6F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #413D31",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #FEFEFE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 32,
+      "hex": " #FAF0E6"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 81,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Self-portrait with long bushy hair: head only"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1631",
+    "sortingDate": 1631,
+    "period": 17,
+    "yearEarly": 1631,
+    "yearLate": 1631
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rijn, Rembrandt van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-15"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rijn, Rembrandt van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 81",
+    "81",
+    "Bartsch 8",
+    "8",
+    "Hollstein Dutch 8",
+    "8"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Self-portrait with Long, Bushy Hair, Rembrandt van Rijn, c. 1631",
+  "subTitle": "h 90mm \u00d7 w 76mm",
+  "scLabelLine": "etching, with touches of drypoint, c. 1631",
+  "label": {
+    "title": "Self-portrait with Long, Bushy Hair",
+    "makerLine": "etching, with touches of drypoint, c. 1631",
+    "description": "Already in 1604 the artists\u2019 biographer Karel van Mander advised artists to look in the mirror and practise in the rendering of states of mind. This is what Rembrandt does here. He looks angry, horrified, smiling. Each of these emotions recur in his work. Each of these emotions would recur later in his work.",
+    "notes": null,
+    "date": "2019-02-22"
+  },
+  "showImage": true,
+  "location": null
+}

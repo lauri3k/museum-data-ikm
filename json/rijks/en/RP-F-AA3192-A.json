@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-AA3192-A",
+  "priref": "350244",
+  "objectNumber": "RP-F-AA3192-A",
+  "language": "en",
+  "title": "Gezicht op de Emmahaven, Padang",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de Emmahaven, Padang",
+    "Emma Haven. Reede van Padang"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Christiaan Benjamin Nieuwenhuis",
+      "unFixedName": "Nieuwenhuis, Christiaan Benjamin",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1863-07-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1922-04-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Padang",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Christiaan Benjamin Nieuwenhuis (04-jul-1863 - 20-apr-1922)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Christiaan Benjamin Nieuwenhuis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1891 - 1895",
+    "sortingDate": 1891,
+    "period": 19,
+    "yearEarly": 1891,
+    "yearLate": 1895
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C223",
+      "25H2323"
+    ],
+    "iconClassDescription": [
+      "harbour",
+      "gulf, bay"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Padang"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-AA3192-A"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Christiaan Benjamin Nieuwenhuis",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "203"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "279"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "318"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "408"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op de Emmahaven, Padang, Christiaan Benjamin Nieuwenhuis (attributed to), 1891 - 1895",
+  "subTitle": "h 203cm \u00d7 w 279cm",
+  "scLabelLine": "Christiaan Benjamin Nieuwenhuis, 1891 - 1895, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

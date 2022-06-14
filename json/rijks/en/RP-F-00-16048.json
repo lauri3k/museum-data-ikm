@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-16048",
+  "priref": "786066",
+  "objectNumber": "RP-F-00-16048",
+  "language": "en",
+  "title": "Statue of George III., Long Walk, Windsor",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Statue of George III., Long Walk, Windsor"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Great Britain"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown, Great Britain"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "James Valentine",
+      "unFixedName": "Valentine, James",
+      "placeOfBirth": "Schotland",
+      "dateOfBirth": "1815",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1880",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Schotland",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object James Valentine (1815 - 1880)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "James Valentine",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2021-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Great Britain"
+  ],
+  "dating": {
+    "presentingDate": "1902 - c. 1930",
+    "sortingDate": 1902,
+    "period": 20,
+    "yearEarly": 1902,
+    "yearLate": 1930
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I152"
+    ],
+    "iconClassDescription": [
+      "monument, statue"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Windsor Castle"
+    ],
+    "people": [
+      "George III (koning van het Verenigd Koninkrijk)"
+    ],
+    "objectNumbers": [
+      "RP-F-00-16048"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "George III (koning van het Verenigd Koninkrijk)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "James Valentine",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "140"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "90"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cardboard",
+  "longTitle": "Statue of George III., Long Walk, Windsor, James Valentine, 1902 - c. 1930",
+  "subTitle": "h c.140mm \u00d7 w c.90mm",
+  "scLabelLine": "James Valentine, 1902 - c. 1930, cardboard",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1906-2996",
+  "priref": "43225",
+  "objectNumber": "RP-P-1906-2996",
+  "language": "en",
+  "title": "Cephalus en Procris",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2134abb6-e9a8-4892-bb24-c69c1ea85bf5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1912,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/aLy6k0WDptp3FCwJRuwcPQEjbhVvGyTpcPEIPTIHqdiECVz9Iq6U-08Jm6SoRwQ9Dqqd7GMCbqIS7Fy6dIT1knY7lxE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Cephalus en Procris",
+    "Cephalus et Procris"
+  ],
+  "description": "In een landschap probeert Procris zijn geliefde Cephalus van de dood te redden, nadat hij haar per ongelukt doorboorde met een pijl tijdens de jacht. Ze sterft in zijn armen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Caspar Specht",
+      "unFixedName": "Specht, Caspar",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1654",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1710-09-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Utrecht"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Caspar Specht (1654 - 15-sep-1710), Utrecht"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Broedelet",
+      "unFixedName": "Broedelet, Jan",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Broedelet"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Broedelet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1906-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Utrecht"
+  ],
+  "dating": {
+    "presentingDate": "1670 - 1700",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "95A(CEPHALUS)21"
+    ],
+    "iconClassDescription": [
+      "Cephalus and Procris"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1906-2996"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Wurzbach 5",
+    "5"
+  ],
+  "principalOrFirstMaker": "Jan Broedelet",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "382"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "296"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Cephalus en Procris, Jan Broedelet, 1670 - 1700",
+  "subTitle": "h 382mm \u00d7 w 296mm",
+  "scLabelLine": "Jan Broedelet, 1670 - 1700, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

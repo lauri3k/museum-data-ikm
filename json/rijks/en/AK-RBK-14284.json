@@ -1,0 +1,251 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-RBK-14284",
+  "priref": "3127",
+  "objectNumber": "AK-RBK-14284",
+  "language": "en",
+  "title": "Drucker Vase",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3f84f750-fb59-41cd-845b-2d4478688708",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1786,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/iF4xC6JyuzJRUqKSBReTt-hPfyl6nXhM0N9gaKVE48xiMrtkWsH67GVxnyAlAVpplbs15HmVLdq2Jxe2Yb859WMsn_Y=s0"
+  },
+  "colors": [
+    {
+      "percentage": 77,
+      "hex": "#D9D4B7"
+    },
+    {
+      "percentage": 7,
+      "hex": " #121812"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B5A984"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7C7B63"
+    },
+    {
+      "percentage": 3,
+      "hex": " #3A5141"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EFEFEE"
+    },
+    {
+      "percentage": 0,
+      "hex": " #814628"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D9D4B7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #121812",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #B5A984",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7C7B63",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3A5141",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #EFEFEE",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #814628",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 77,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Square 'Drucker vase' with birds near flower sprays"
+  ],
+  "description": "Vierkante vaas van porselein met een wijde, spreidende nek, bedekt met een zwart glazuur en beschilderd in rood, groen, geel, aubergine en zwart. Op elke wand een staande bloemtak (prunus) met daarop \u00e9\u00e9n of meerdere vogels. Op de schouders prunustakken. De nek met prunustakken en vogels bij een rots. Hoort bij BK-NM-14283. Famille noire.",
+  "labelText": null,
+  "objectTypes": [
+    "vase"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1928-01-01T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Drucker-Fraser, Montreux"
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze"
+  ],
+  "techniques": [
+    "painting",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-RBK-14284"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jan van Campen, 'Londense aankopen van J.C.J. Drucker',  Aziatische Kunst 38 (2008), nr. 4, p. 28,30, afb. 7,"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "48.1"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "14.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "porcelain with enamel colours",
+  "longTitle": "Drucker Vase, anonymous, c. 1700",
+  "subTitle": "h 48.1cm \u00d7 w 14.2cm",
+  "scLabelLine": "China, c. 1700, porcelain",
+  "label": {
+    "title": "Drucker Vase",
+    "makerLine": "China, c. 1700, porcelain",
+    "description": "French 19th-century connoisseurs devised the system of 'familles', or families, to denote various kinds of porcelain. Pieces in which green predominates, for example, are called 'famille verte'. Around 1900 'famille noire', with a black background, was the most prized type and very expensive. The collector J.C.J. Drucker donated this pair of vases to the Rijksmuseum in 1928 to mark Queen Mother Emma's 70th birthday. They have since become known by his name.",
+    "notes": null,
+    "date": "2019-06-21"
+  },
+  "showImage": true,
+  "location": "HG-0.10"
+}

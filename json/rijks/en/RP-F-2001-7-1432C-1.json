@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1432C-1",
+  "priref": "640598",
+  "objectNumber": "RP-F-2001-7-1432C-1",
+  "language": "en",
+  "title": "Twee zittende mannen en een jongen met een waaier daarachter",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "074dfc75-b79a-423a-bcba-df2d8b7e15fe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1670,
+    "url": "https://lh3.googleusercontent.com/tg8LW5wd4ncQVv1dyO0OaEuofhq-gkj7oH7N1tgd4vZ0BNnwq_rbwxZQkVE2md8VuB5aSkl6V8RMhusHVuNQF2OreQI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Twee zittende mannen en een jongen met een waaier daarachter",
+    "The long, long Burmese day"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Michel Berthaud",
+      "unFixedName": "Berthaud, Michel",
+      "placeOfBirth": "Vienne",
+      "dateOfBirth": "1845-11-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Michel Berthaud (10-nov-1845 - 1912), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "A.G.E. Newland",
+      "unFixedName": "Newland, A.G.E.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object A.G.E. Newland"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "A.G.E. Newland",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "c. 1892",
+    "sortingDate": 1892,
+    "period": 19,
+    "yearEarly": 1892,
+    "yearLate": 1892
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49N",
+      "34B11",
+      "41D262"
+    ],
+    "iconClassDescription": [
+      "lezen",
+      "dog",
+      "fan"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Birma"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1432C-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "A.G.E. Newland",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "202"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Twee zittende mannen en een jongen met een waaier daarachter, A.G.E. Newland, c. 1892",
+  "subTitle": "h 157mm \u00d7 w 202mm",
+  "scLabelLine": "A.G.E. Newland, c. 1892, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

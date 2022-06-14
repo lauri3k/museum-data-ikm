@@ -1,0 +1,126 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2010-222-3326",
+  "priref": "694382",
+  "objectNumber": "RP-P-2010-222-3326",
+  "language": "en",
+  "title": "Rietstengels",
+  "copyrightHolder": "Eric de Nie/Pictoright",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Rietstengels"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Eric de Nie",
+      "unFixedName": "Nie, Eric de",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1944-01-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Eric de Nie (08-jan-1944 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Eric de Nie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2019-12-30T00:00:00",
+    "creditLine": "Piet Clement Collection"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1982",
+    "sortingDate": 1982,
+    "period": 20,
+    "yearEarly": 1982,
+    "yearLate": 1982
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2010-222-3326"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Eric de Nie",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "635"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "906"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Rietstengels, Eric de Nie, 1982",
+  "subTitle": "h 635mm \u00d7 w 906mm",
+  "scLabelLine": "Eric de Nie, 1982, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

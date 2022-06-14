@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1937-156",
+  "priref": "88865",
+  "objectNumber": "RP-P-1937-156",
+  "language": "en",
+  "title": "Anatomie van de longen en de maag",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0e7192e3-0855-424b-b0a6-a53453ec0d33",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1862,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/ygfCqIhrwOU1mm3xzuFnoZMV0-uwyazzJJUHonJtNcS-t5Au7FmBZmBs4GXriwKRPYggIpAUPL_KPKnb0UVK9IFwbcg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 66,
+      "hex": "#F6F2DD"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A7A79E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #554248"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D9D5C1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #9D5F50"
+    },
+    {
+      "percentage": 3,
+      "hex": " #687381"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F2DD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A7A79E",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #554248",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D9D5C1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9D5F50",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #687381",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 84,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Anatomie van de longen en de maag"
+  ],
+  "description": "Prent met anatomische gegevens van de longen en de maag.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Cornelis de Bruyn",
+      "unFixedName": "Bruyn, Johannes Cornelis de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johannes Cornelis de Bruyn"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Cornelis de Bruyn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1937-01-01T00:00:00",
+    "creditLine": "F.G. Waller Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1812 - 1844",
+    "sortingDate": 1812,
+    "period": 19,
+    "yearEarly": 1812,
+    "yearLate": 1844
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25FF(+25)",
+      "25FF(+22)"
+    ],
+    "iconClassDescription": [
+      "fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa) (+ certain anatomical details)",
+      "fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa) (+ chest)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1937-156"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Cornelis de Bruyn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Anatomie van de longen en de maag, Johannes Cornelis de Bruyn, 1812 - 1844",
+  "subTitle": "h 205mm \u00d7 w 151mm",
+  "scLabelLine": "Johannes Cornelis de Bruyn, 1812 - 1844, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

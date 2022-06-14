@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1701",
+  "priref": "358594",
+  "objectNumber": "AK-MAK-1701",
+  "language": "en",
+  "title": "Flower-shaped Dish",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "758231ce-d00a-46ab-a43a-e4fe08326e8e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1710,
+    "url": "https://lh4.ggpht.com/wPl2kw4nVNmk3qOE_r6OU6S74GFnQniPaTIanBy_rtIU9Io1Kj0L-R6El5f5n_HCpLFhMyvBR0mTuXSj4JwUZSwgFS0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Saucer-dish in the shape of a flower with incised foliate scrolls"
+  ],
+  "description": "Schaal van steengoed gemodelleerd in de vorm van een bloem met zes bladeren, bedekt met een transparant glazuur met een lichtblauwe tint. Op het plat een medaillon met daarin ingegrifte bladranken. Bakzand op de onderzijde. Qingbai.",
+  "labelText": null,
+  "objectTypes": [
+    "dish"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1999-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of R. Plomp, 1999)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "engraving",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1000 - c. 1099",
+    "sortingDate": 1000,
+    "period": 10,
+    "yearEarly": 1000,
+    "yearLate": 1099
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1701"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "2.9"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "12.3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Flower-shaped Dish, anonymous, c. 1000 - c. 1099",
+  "subTitle": "h 2.9cm \u00d7 d 12.3cm",
+  "scLabelLine": "China, c. 12th century, porcelain",
+  "label": {
+    "title": "Flower-shaped Dish",
+    "makerLine": "China, c. 12th century, porcelain",
+    "description": "The white porcelain is covered with a transparent glaze of a vivid blue-green hue. Chinese experts called this colour \u2018bluish-white\u2019 (qingbai) or \u2018shadow-blue\u2019 (yingqing). These are descriptive terms for a group of white porcelain with a transparent blue-tinged glaze made in southern\nChina.",
+    "notes": null,
+    "date": "2017-10-08"
+  },
+  "showImage": true,
+  "location": null
+}

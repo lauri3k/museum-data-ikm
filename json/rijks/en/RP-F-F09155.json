@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F09155",
+  "priref": "288314",
+  "objectNumber": "RP-F-F09155",
+  "language": "en",
+  "title": "Spoorbrug over de Oranjerivier, nabij Hopetown, Zuid-Afrika",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9b4089ed-ead0-40d0-b436-0ee0609c01d2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1261,
+    "url": "https://lh3.googleusercontent.com/n1QnkXC1O_kOD_YUoLX2W9XYkFDoF6V33JyYwnx4PWLmhYY2QHvEpwLl5wd9cF4KMDeL1C8pOh-AqL5__X7t3G0cRey-=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Spoorbrug over de Oranjerivier, nabij Hopetown, Zuid-Afrika",
+    "Great Orange River Bridge (450 yds.) which the Boers failed to destroy, near Hope Town, S. Africa"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Underwood and Underwood",
+      "unFixedName": "Underwood and Underwood",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Underwood and Underwood, New York (city)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "? New York (city)"
+  ],
+  "dating": {
+    "presentingDate": "1900",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1511",
+      "46C112"
+    ],
+    "iconClassDescription": [
+      "railway, train",
+      "bridge"
+    ],
+    "motifs": [],
+    "events": [
+      "Tweede Boerenoorlog (1899-1902)"
+    ],
+    "periods": [],
+    "places": [
+      "Hopetown"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F09155"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, Underwood and Underwood",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "177"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Spoorbrug over de Oranjerivier, nabij Hopetown, Zuid-Afrika, anonymous, Underwood and Underwood, 1900",
+  "subTitle": "h 88mm \u00d7 w 177mm",
+  "scLabelLine": "anonymous, 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

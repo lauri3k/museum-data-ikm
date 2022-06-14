@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2014-14-25",
+  "priref": "547011",
+  "objectNumber": "RP-T-2014-14-25",
+  "language": "en",
+  "title": "A Fountain at Grottaferrata",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "22875950-67d1-4804-aca6-0b83ed1e89e5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1646,
+    "url": "https://lh3.googleusercontent.com/QC3srcuTimUbxkEeQweHNSVUvH1jT89jWBqIzyl17DDGuxzOsKyqXD1H8fEOgQQDyP1g2NdVmEgNkFY8o-icI2UaF68=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "A Fountain at Grottaferrata"
+  ],
+  "description": "Tekening uit een groep van 46 tekeningen en studies van voornamelijk stadsgezichten en landschappen in en rond Rome.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Josephus Augustus Knip",
+      "unFixedName": "Knip, Josephus Augustus",
+      "placeOfBirth": "Tilburg",
+      "dateOfBirth": "1777-08-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1847-10-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlicum",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Josephus Augustus Knip (03-aug-1777 - 01-okt-1847), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Josephus Augustus Knip",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2013-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Gerhards Fonds/Rijksmuseum Fonds, the VSBfonds, the Mondriaan Fonds and the Vereniging Rembrandt with additional funding from the Hendrik de Jong Fonds and the Liente Dons Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "graphite (mineral)",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "c. 1809 - c. 1812",
+    "sortingDate": 1809,
+    "period": 19,
+    "yearEarly": 1809,
+    "yearLate": 1812
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44E14"
+    ],
+    "iconClassDescription": [
+      "utilitarian, public pump or water fountain"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Grottaferrata"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2014-14-25"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Josephus Augustus Knip",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "285"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "437"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "A Fountain at Grottaferrata, Josephus Augustus Knip, c. 1809 - c. 1812",
+  "subTitle": "h 285mm \u00d7 w 437mm",
+  "scLabelLine": "Josephus Augustus Knip (1777-1847), graphite, with grey wash and watercolour, c. 1810-1812",
+  "label": {
+    "title": "A Fountain at Grottaferrata",
+    "makerLine": "Josephus Augustus Knip (1777-1847), graphite, with grey wash and watercolour, c. 1810-1812",
+    "description": "Grottaferrata is located southeast of Rome, on the northern side of Lake Albano. Knip worked up only a small section of his crisply, carefully detailed graphite sketch with grey wash and a touch of watercolour. It is precisely this \u2018unfinished\u2019 character that often lends his drawings their exceptional appeal.",
+    "notes": null,
+    "date": "2015-06-02"
+  },
+  "showImage": true,
+  "location": null
+}

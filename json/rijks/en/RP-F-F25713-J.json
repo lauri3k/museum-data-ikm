@@ -1,0 +1,294 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F25713-J",
+  "priref": "284453",
+  "objectNumber": "RP-F-F25713-J",
+  "language": "en",
+  "title": "Versteende lava op Tenerife",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2aea7e70-af58-4f91-b677-4440a2caf529",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1784,
+    "url": "https://lh3.googleusercontent.com/8h7CTg4Xxon5BG4uCo60uMYaZu87xX9REDn6i2v8U-09IFBbQAoCMrO5oahoAMP0l7w4B__F-VSAzfoHbzHkyCMU4b2Ok4vPClhAuEfd=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#C8C0A0"
+    },
+    {
+      "percentage": 25,
+      "hex": " #E2DEC8"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A29878"
+    },
+    {
+      "percentage": 12,
+      "hex": " #594A33"
+    },
+    {
+      "percentage": 9,
+      "hex": " #7A6E4F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #3C2F20"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F8F5E3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C8C0A0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E2DEC8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A29878",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #594A33",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7A6E4F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3C2F20",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F8F5E3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 28,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 28,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 54,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 26,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Versteende lava op Tenerife",
+    "Specimen of the malpays of black lava near Alta Vista"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Arthur James Melhuish",
+      "unFixedName": "Melhuish, Arthur James",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1829",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1895-11-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Greater London",
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Arthur James Melhuish (1829 - 02-nov-1895)"
+    },
+    {
+      "name": "Lovell Augustus Reeve",
+      "unFixedName": "Reeve, Lovell Augustus",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1814-04-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1865-11-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lovell Augustus Reeve (19-apr-1814 - 18-nov-1865), London"
+    },
+    {
+      "name": "James Glaisher",
+      "unFixedName": "Glaisher, James",
+      "placeOfBirth": null,
+      "dateOfBirth": "1809-04-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1903-02-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object James Glaisher (07-apr-1809 - 07-feb-1903)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Charles Piazzi Smyth",
+      "unFixedName": "Smyth, Charles Piazzi",
+      "placeOfBirth": null,
+      "dateOfBirth": "1819-01-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1900-02-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Charles Piazzi Smyth (03-jan-1819 - 21-feb-1900)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Charles Piazzi Smyth",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1856 - 1858",
+    "sortingDate": 1856,
+    "period": 19,
+    "yearEarly": 1856,
+    "yearLate": 1858
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H1123",
+      "25C192"
+    ],
+    "iconClassDescription": [
+      "rock-formations",
+      "cold lava"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Tenerife"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F25713-J"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Charles Piazzi Smyth",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "119"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Versteende lava op Tenerife, Charles Piazzi Smyth, 1856 - 1858",
+  "subTitle": "h 67mm \u00d7 w 119mm",
+  "scLabelLine": "Charles Piazzi Smyth, 1856 - 1858, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

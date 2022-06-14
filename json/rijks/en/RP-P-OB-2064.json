@@ -1,0 +1,268 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-2064",
+  "priref": "35508",
+  "objectNumber": "RP-P-OB-2064",
+  "language": "en",
+  "title": "De doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a9b7e494-1d21-41a9-921e-4462b383e44d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3960,
+    "height": 5261,
+    "url": "https://lh6.ggpht.com/mrO7JL4jmj9j10Wv9-lMtWjB5oh1cYylRGRMZdLnluxt_-gag6p2qprLN7kXii3nukiHosKIzpH5-wajpOHRjBUW2SIU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#A4A48F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #656453"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7F7E6A"
+    },
+    {
+      "percentage": 19,
+      "hex": " #CCCCB6"
+    },
+    {
+      "percentage": 22,
+      "hex": " #ECEDDC"
+    },
+    {
+      "percentage": 42,
+      "hex": " #424237"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A4A48F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #656453",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7F7E6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CCCCB6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ECEDDC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #424237",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 42,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 42,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "De doornenkroning"
+  ],
+  "description": "Christus gekroond met doornkrans door drie mannen en krijgt staf aangereikt.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Master of Delft",
+      "unFixedName": "Master of Delft",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "unknown"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Master of Delft, Low Countries"
+    },
+    {
+      "name": "Master of the Virgo inter Virgines",
+      "unFixedName": "Master of the Virgo inter Virgines",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "unknown"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Master of the Virgo inter Virgines, Low Countries"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Meester van de Delbecq-Schreiber-Passie",
+      "unFixedName": "Meester van de Delbecq-Schreiber-Passie",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "unknown"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Meester van de Delbecq-Schreiber-Passie, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Meester van de Delbecq-Schreiber-Passie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Low Countries",
+    "Low Countries",
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "1503",
+    "sortingDate": 1503,
+    "period": 16,
+    "yearEarly": 1503,
+    "yearLate": 1503
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-2064"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Meester van de Delbecq-Schreiber-Passie",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "68"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "De doornenkroning, Meester van de Delbecq-Schreiber-Passie (attributed to), 1503",
+  "subTitle": "h 90mm \u00d7 w 68mm",
+  "scLabelLine": "Meester van de Delbecq-Schreiber-Passie, 1503, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

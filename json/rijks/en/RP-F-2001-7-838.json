@@ -1,0 +1,176 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-838",
+  "priref": "692365",
+  "objectNumber": "RP-F-2001-7-838",
+  "language": "en",
+  "title": "Rede auf Wilhelm Grimm und Rede \u00fcber das Alter",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ad517220-b888-4a71-8212-945351608e4b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1847,
+    "url": "https://lh3.googleusercontent.com/iryzidh2kKxGojDjAhYT6BgSuKmmzJx4tkDx0E94E_YY9cN1oZRYJ5L_6zQ2CmgxpmoBMcTwptfyXII4XKIL1VN_K0hMAYLAdKJJKYE0kA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Rede auf Wilhelm Grimm und Rede \u00fcber das Alter"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "book"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Ferd. D\u00fcmmler's Verlags-Buchhandlung",
+      "unFixedName": "Ferd. D\u00fcmmler's Verlags-Buchhandlung",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Berlin"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ferd. D\u00fcmmler's Verlags-Buchhandlung, Berlin"
+    },
+    {
+      "name": "Herman Grimm",
+      "unFixedName": "Grimm, Herman",
+      "placeOfBirth": "Kassel",
+      "dateOfBirth": "1828-01-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1901-06-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Herman Grimm (06-jan-1828 - 16-jun-1901)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Ludwig Karl Grimm",
+      "unFixedName": "Grimm, Jacob Ludwig Karl",
+      "placeOfBirth": "Hanau",
+      "dateOfBirth": "1785-01-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1863-09-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Ludwig Karl Grimm (04-jan-1785 - 20-sep-1863)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Ludwig Karl Grimm",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "printing",
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Berlin"
+  ],
+  "dating": {
+    "presentingDate": "1864",
+    "sortingDate": 1864,
+    "period": 19,
+    "yearEarly": 1864,
+    "yearLate": 1864
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-838"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Ludwig Karl Grimm",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "211"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "132"
+    },
+    {
+      "unit": "mm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing",
+  "longTitle": "Rede auf Wilhelm Grimm und Rede \u00fcber das Alter, Jacob Ludwig Karl Grimm, 1864",
+  "subTitle": "h 211mm \u00d7 w 132mm \u00d7 t 4mm",
+  "scLabelLine": "Jacob Ludwig Karl Grimm, 1864, printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

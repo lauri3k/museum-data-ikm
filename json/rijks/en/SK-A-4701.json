@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4701",
+  "priref": "5417",
+  "objectNumber": "SK-A-4701",
+  "language": "en",
+  "title": "The Princess of Orange Visiting the Work-shop of Bartholomeus van der Helst",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a4edbc66-5af1-4d27-94f7-84f9e282d577",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2874,
+    "height": 2231,
+    "url": "https://lh3.googleusercontent.com/p8idTgJnKBlyr_beMElJAGWwtSgplxZUbh2_rTT2s-m68wK6m-mGLYOLtAUNq9bfaa9XIelrt8XUhWCLoIL7PhcqfnE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 59,
+      "hex": "#412E20"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3CFBB"
+    },
+    {
+      "percentage": 5,
+      "hex": " #979481"
+    },
+    {
+      "percentage": 19,
+      "hex": " #716751"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B2B2A1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #794327"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#412E20",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D3CFBB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #979481",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #716751",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B2B2A1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #794327",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 78,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 24,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 12,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "The Princess of Orange Visiting the Work-shop of Bartholomeus van der Helst"
+  ],
+  "description": "De prinses van Oranje, Maria Henri\u00ebtta Stuart, de weduwe van prins Willem II, bezoekt het atelier van Bartholomeus van der Helst. Op de achtergrond de 'Schuttersmaaltijd' van 1648 (SK-C-2). De prinses heeft een waaier in de hand, zij wordt vergezeld door twee heren en een vrouw.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrik Jacobus Scholten",
+      "unFixedName": "Scholten, Hendrik Jacobus",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1824-07-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1907-05-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Heemstede",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Hendrik Jacobus Scholten (11-jul-1824 - 29-mei-1907), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrik Jacobus Scholten",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1977-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1850 - c. 1870",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C5111",
+      "33A3"
+    ],
+    "iconClassDescription": [
+      "workshop, studio ~ painter",
+      "visiting; receiving guests; elegant company"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Stuart, Maria Henrietta",
+      "Helst, Bartholomeus van der"
+    ],
+    "objectNumbers": [
+      "SK-A-4701"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Stuart, Maria Henrietta",
+    "Helst, Bartholomeus van der"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrik Jacobus Scholten",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "46"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "59"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Princess of Orange Visiting the Work-shop of Bartholomeus van der Helst, Hendrik Jacobus Scholten, c. 1850 - c. 1870",
+  "subTitle": "h 46cm \u00d7 w 59cm",
+  "scLabelLine": "Hendrik Jacobus Scholten (1824\u20131907), oil on panel, c. 1850\u20131870",
+  "label": {
+    "title": "The Princess of Orange Visiting the Work-shop of Bartholomeus van der Helst",
+    "makerLine": "Hendrik Jacobus Scholten (1824\u20131907), oil on panel, c. 1850\u20131870",
+    "description": "Mary Stuart, the widow of Stadtholder William II, looks at her portrait in the workshop of the 17th-century painter Van der Helst. In the background is his unfinished monumental painting Banquet of the Civic Guard, in which the militiamen celebrate the end of the Eighty Years\u2019 War. For his likeness of the princess, Scholten relied on an existing portrait, also by Van der Helst. Scholten thus demonstrated his knowledge of both 17th-century Dutch painting and national history.",
+    "notes": null,
+    "date": "2013-01-08"
+  },
+  "showImage": true,
+  "location": "HG-1.14"
+}

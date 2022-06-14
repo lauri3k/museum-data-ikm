@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-401-1",
+  "priref": "599774",
+  "objectNumber": "RP-F-2001-7-401-1",
+  "language": "en",
+  "title": "Ransuil",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "18c68182-1096-4ef9-9458-308b1dd66427",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1897,
+    "url": "https://lh3.googleusercontent.com/KNH_2Uxwm9pnOeNngUtyLhQjDbt6eqY-pBFtqWGmRl78x6DZDekJxGDXBDNoS07GXU9iChXNsWwLBaCU4rLUtVppsOI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ransuil",
+    "The long-eared owl. Strix otus."
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1860 - in or before 1868",
+    "sortingDate": 1860,
+    "period": 19,
+    "yearEarly": 1860,
+    "yearLate": 1868
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F34"
+    ],
+    "iconClassDescription": [
+      "owls"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Engeland"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-401-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "55"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Ransuil, anonymous, 1860 - in or before 1868",
+  "subTitle": "h 85mm \u00d7 w 55mm",
+  "scLabelLine": "anonymous, 1860 - in or before 1868, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

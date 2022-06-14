@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1966-207",
+  "priref": "417322",
+  "objectNumber": "RP-P-1966-207",
+  "language": "en",
+  "title": "Rede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "90697fda-7ab4-4765-b87b-0cb1cbfd884c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1913,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Coslh57Tmlb_q9MZD932wyvBXe0XtfCIzqJmT9-U7CtXDcqNPJXnD-8AP1Bfi31t6BIOWsx2ButZ2ZhjOb5ID5jszb4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#F8F5DD"
+    },
+    {
+      "percentage": 22,
+      "hex": " #918E77"
+    },
+    {
+      "percentage": 36,
+      "hex": " #BFBBA2"
+    },
+    {
+      "percentage": 10,
+      "hex": " #676751"
+    },
+    {
+      "percentage": 19,
+      "hex": " #DFDBC4"
+    },
+    {
+      "percentage": 5,
+      "hex": " #414633"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F8F5DD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #918E77",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFBBA2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #676751",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #DFDBC4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #414633",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 22,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 23,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Rede",
+    "Ratio",
+    "Prosopographia, sive virtutum, animi, corporis, bonorum externorum, vitiorum, et affectuum variorum delineatio"
+  ],
+  "description": "Een staande vrouw met in haar rechterhand een roede en in haar linkerhand het hoofdstel van een paard. De Rede houdt de gevoelens van de mens in bedwang, zoals de roede de kinderen en het hoofdstel het paard. Onder de voorstelling twee regels tekst in het Latijn. De prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Kiliaan",
+      "unFixedName": "Kiliaan, Cornelis",
+      "placeOfBirth": "Duffel",
+      "dateOfBirth": "1530",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1607-04-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Kiliaan (c. 1530 - 15-apr-1607), Southern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Philips Galle (1537 - 29-mrt-1612), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philips Galle",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1966-02-14T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Southern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1585 - c. 1590",
+    "sortingDate": 1585,
+    "period": 16,
+    "yearEarly": 1585,
+    "yearLate": 1590
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "52B5"
+    ],
+    "iconClassDescription": [
+      "Rationality, Reasoning; 'Ratiocinatione o Discorso' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1966-207"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 342",
+    "342"
+  ],
+  "principalOrFirstMaker": "Philips Galle",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Rede, Philips Galle, c. 1585 - c. 1590",
+  "subTitle": "h 152mm \u00d7 w 89mm",
+  "scLabelLine": "Philips Galle, c. 1585 - c. 1590, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

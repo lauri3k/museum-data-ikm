@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-817",
+  "priref": "332134",
+  "objectNumber": "RP-P-1904-817",
+  "language": "en",
+  "title": "Landschap met Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Landschap met Johannes de Doper"
+  ],
+  "description": "Johannes de Doper op een pad in het bos, in zijn hand een kruisstaf. Hij wijst naar het lam dat aan zijn voeten staat. In de marge een onderschrift in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Julius Goltzius",
+      "unFixedName": "Goltzius, Julius",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1595-09",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Julius Goltzius (.... - after sep-1595), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Antonie Wierix (II)",
+      "unFixedName": "Wierix, Antonie (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1559",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1604-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antonie Wierix (II) (c. 1559 - mrt-1604), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antonie Wierix (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-01-25T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1586",
+    "sortingDate": 1586,
+    "period": 16,
+    "yearEarly": 1586,
+    "yearLate": 1586
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1904-817"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 1544",
+    "1544"
+  ],
+  "principalOrFirstMaker": "Antonie Wierix (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "166"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Landschap met Johannes de Doper, Antonie Wierix (II), 1586",
+  "subTitle": "h 210mm \u00d7 w 166mm",
+  "scLabelLine": "Antonie Wierix (II), 1586, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

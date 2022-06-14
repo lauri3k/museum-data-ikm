@@ -1,0 +1,155 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1937-200",
+  "priref": "87572",
+  "objectNumber": "RP-P-1937-200",
+  "language": "en",
+  "title": "Voorstellingen uit het Nieuwe Testament",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "db9e56b5-043f-4b4c-afcf-ea3826cf0f76",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2052,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/v63zILJwT6rMH12RoRAQKfAqsgqtvAj6KwzTL8KD72bpp982f1BWU5qZT-whYnVlMdRAabFlo_Mj_AG08r7tw9vBZw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Voorstellingen uit het Nieuwe Testament",
+    "Reede, van klagten, troost en bemoediging: en / Zeegenbeede voor Zaanlands volk"
+  ],
+  "description": "Zestien voorstellingen van verhalen uit het Nieuwe Testament, waaronder de vlucht naar Egypte, Pilatus wast zijn handen in onschuld en de opstanding van Christus. In het midden twee kolommen met Nederlandse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirck de Bray",
+      "unFixedName": "Bray, Dirck de",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1645",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1694-05-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Goch",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dirck de Bray (1645 - 09-mei-1694), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck de Bray",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1937-01-01T00:00:00",
+    "creditLine": "F.G. Waller Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1796",
+    "sortingDate": 1796,
+    "period": 18,
+    "yearEarly": 1796,
+    "yearLate": 1796
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73",
+      "73B641",
+      "73D3233",
+      "73E12"
+    ],
+    "iconClassDescription": [
+      "Nieuwe Testament",
+      "the flight into Egypt: Mary, Joseph, the child (and sometimes others) on their way; Mary usually riding on an ass",
+      "Pilate washing his hands (in innocence)",
+      "Christ, usually holding a banner, arises from the grave; often combined with sleeping and/or frightened soldiers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1937-200"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "H. Leeflang, 'De verfijnde prentkunst van Dirck de Bray', Kunstschrift 1 (2007), p. 42-46."
+  ],
+  "catRefRPK": [
+    "Hollstein Dutch 7, 9-16, 18-24",
+    "7, 9-16, 18-24",
+    "Vis Blokhuyzen 7, 9-16, 18-24",
+    "7, 9-16, 18-24"
+  ],
+  "principalOrFirstMaker": "Dirck de Bray",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "389"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "321"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Voorstellingen uit het Nieuwe Testament, Dirck de Bray, 1796",
+  "subTitle": "h 389mm \u00d7 w 321mm",
+  "scLabelLine": "Dirck de Bray, 1796, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

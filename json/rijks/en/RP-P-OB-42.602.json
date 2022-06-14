@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-42.602",
+  "priref": "92215",
+  "objectNumber": "RP-P-OB-42.602",
+  "language": "en",
+  "title": "Doortocht door de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "56b6636d-b3b5-48be-8b16-76170c0052c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1857,
+    "url": "https://lh3.googleusercontent.com/HFCwhE5jZvcBrxA0pbSATqYKrtIzvjD5MQD7EY_xV76zBZDxA3QPZ47zZhWh9CjZtHg28mg39tj_Wun4jOTxwJd3J_is_G9iF9CHOB8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doortocht door de Rode Zee",
+    "Rafa\u00ebl Bijbel",
+    "Sacrae Historiae Acta a Raphael Urbin in Vaticanis xystis ad picturae miraculum expressa"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolas Chaperon",
+      "unFixedName": "Chaperon, Nicolas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1612-10-19",
+      "dateOfBirthPrecision": "before",
+      "dateOfDeath": "1652",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Lyon",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolas Chaperon (before 19-okt-1612 - c. 1652), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolas Chaperon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1649",
+    "sortingDate": 1649,
+    "period": 17,
+    "yearEarly": 1649,
+    "yearLate": 1649
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E122",
+      "71E12231"
+    ],
+    "iconClassDescription": [
+      "passage through the Red Sea",
+      "Pharaoh and his army engulfed in the Red Sea (Israelites not or barely visible)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-42.602"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF 17e si\u00e8cle 31",
+    "31",
+    "Robert-Dumesnil 33",
+    "33"
+  ],
+  "principalOrFirstMaker": "Nicolas Chaperon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "243"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "324"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Doortocht door de Rode Zee, Nicolas Chaperon, 1649",
+  "subTitle": "h 243mm \u00d7 w 324mm",
+  "scLabelLine": "Nicolas Chaperon, 1649, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

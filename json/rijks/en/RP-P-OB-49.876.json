@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-49.876",
+  "priref": "156104",
+  "objectNumber": "RP-P-OB-49.876",
+  "language": "en",
+  "title": "Christus met doornenkroon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ce487a2f-74ea-428e-ad67-9c1018f31beb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1775,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/mOxu15zSIna4vCSs9yjetwRHAodDg5w_T-g9EPefKOeTPDPhYRs7L5HVMpTEBbfKmZ6DdiDdCGIDK8ysW5J_YRwQLuQPuehBbBXjnuTY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Christus met doornenkroon"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nikolay Semyonovich Mosolov",
+      "unFixedName": "Mosolov, Nikolay Semyonovich",
+      "placeOfBirth": "Moskou",
+      "dateOfBirth": "1847-11-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1914-07-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Moskou",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Nikolay Semyonovich Mosolov (09-nov-1847 - 16-jul-1914)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nikolay Semyonovich Mosolov",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2019-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1857 - 1914",
+    "sortingDate": 1857,
+    "period": 19,
+    "yearEarly": 1857,
+    "yearLate": 1914
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-49.876"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nikolay Semyonovich Mosolov",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "232"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "166"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Christus met doornenkroon, Nikolay Semyonovich Mosolov, 1857 - 1914",
+  "subTitle": "h 232mm \u00d7 w 166mm",
+  "scLabelLine": "Nikolay Semyonovich Mosolov, 1857 - 1914, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

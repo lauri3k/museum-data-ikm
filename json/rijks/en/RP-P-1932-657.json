@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1932-657",
+  "priref": "225923",
+  "objectNumber": "RP-P-1932-657",
+  "language": "en",
+  "title": "Lago di Lugano",
+  "copyrightHolder": "erven Dirk Filarski",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Lago di Lugano"
+  ],
+  "description": "Bergen rondom het Meer van Lugano, op de grens tussen Zwitserland en Itali\u00eb.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirk Filarski",
+      "unFixedName": "Filarski, Dirk",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1885",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1964-02-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Dirk Filarski (1885 - 28-feb-1964)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirk Filarski",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1932-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1895 - 1932",
+    "sortingDate": 1895,
+    "period": 19,
+    "yearEarly": 1895,
+    "yearLate": 1932
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H214",
+      "25H11"
+    ],
+    "iconClassDescription": [
+      "lake",
+      "mountains"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Lugano, Meer van"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1932-657"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirk Filarski",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "319"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "427"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Lago di Lugano, Dirk Filarski, 1895 - 1932",
+  "subTitle": "h 319mm \u00d7 w 427mm",
+  "scLabelLine": "Dirk Filarski, 1895 - 1932, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

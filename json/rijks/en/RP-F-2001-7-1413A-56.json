@@ -1,0 +1,175 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1413A-56",
+  "priref": "706451",
+  "objectNumber": "RP-F-2001-7-1413A-56",
+  "language": "en",
+  "title": "Winterlandschap met de Rothay te Grasmere",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b8560425-71b4-46d7-a967-3e857928e4ef",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1657,
+    "url": "https://lh3.googleusercontent.com/qLn4bAQyoO1T7H0HR86rDamuCqKqwRjTnHOrG0TfF7Drle8naYNk62L1OtTA_JAsxF558oHVJeEBtGcQ1AUo_nSqJNnTg760-6-pVs2G=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Winterlandschap met de Rothay te Grasmere",
+    "Hoar frost on the Rothay"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "F. Godfrey Cole",
+      "unFixedName": "Cole, F. Godfrey",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object F. Godfrey Cole"
+    },
+    {
+      "name": "The Country Press Bradford",
+      "unFixedName": "The Country Press Bradford",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The Country Press Bradford"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Green Bros.",
+      "unFixedName": "Green Bros.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Green Bros."
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Green Bros.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1893 - in or before 1898",
+    "sortingDate": 1893,
+    "period": 19,
+    "yearEarly": 1893,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H2",
+      "23F41",
+      "25H213"
+    ],
+    "iconClassDescription": [
+      "landscapes with waters, waterscapes, seascapes (in the temperate zone)",
+      "winter landscape; landscape symbolizing winter (the four seasons of the year)",
+      "river"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Grasmere"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1413A-56"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Green Bros.",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "166"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Winterlandschap met de Rothay te Grasmere, Green Bros., c. 1893 - in or before 1898",
+  "subTitle": "h 166mm \u00d7 w 113mm",
+  "scLabelLine": "Green Bros., c. 1893 - in or before 1898, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

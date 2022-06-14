@@ -1,0 +1,124 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2021-37",
+  "priref": "811758",
+  "objectNumber": "RP-F-2021-37",
+  "language": "en",
+  "title": "Kensal Green Cemetery, Londen",
+  "copyrightHolder": "erven Jan van Male",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Kensal Green Cemetery, Londen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan van Male",
+      "unFixedName": "Male, Jan van",
+      "placeOfBirth": null,
+      "dateOfBirth": "1919-03-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1995-09-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan van Male (31-mrt-1919 - 13-sep-1995), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan van Male",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2022-03-21T00:00:00",
+    "creditLine": "Gift of S. Kuiper, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "baryta paper"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1960 - c. 1975",
+    "sortingDate": 1960,
+    "period": 20,
+    "yearEarly": 1960,
+    "yearLate": 1975
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kensal Green Cemetery"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2021-37"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan van Male",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": null
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Kensal Green Cemetery, Londen, Jan van Male, c. 1960 - c. 1975",
+  "subTitle": "h mm \u00d7 w mm",
+  "scLabelLine": "Jan van Male, c. 1960 - c. 1975, gelatin silver print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

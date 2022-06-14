@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-24.762",
+  "priref": "198286",
+  "objectNumber": "RP-P-OB-24.762",
+  "language": "en",
+  "title": "Portret van Balthasar Bekker",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6eecea11-0b3c-434d-8ac2-6209b2d55bfa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1872,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/KZbGIDmx3Z7AK9SsuHwKf7f8_mVx1aIxqWxIG91JN5b3e3RGbIe5wN3RbnfaTjQbPKzavj21yeWUCUKWvY138On95A=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Balthasar Bekker"
+  ],
+  "description": "Portret van Balthasar Bekker, predikant en bestrijder van bijgeloof, in een boogvormige nis met ornamentale omlijsting. Midden boven een cartouche met voorstelling: de Rede, met zon op de borst als symbool voor de waarheid, boek onder de arm en vlam van inspiratie op het hoofd, en de Eeuwigheid, met passer in de hand, slang in een cirkel om de arm en staande op een kubus met de letters van alfa en omega, verjagen samen Bijgeloof. Links een medaillon met de personificatie van de Rede. Rechts een medaillon met Hercules, die de hydra van Lerna doodt.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "L. Rutgersz.",
+      "unFixedName": "Rutgersz., L.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object L. Rutgersz."
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Anthony van Zijlvelt",
+      "unFixedName": "Zijlvelt, Anthony van",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1643",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1715",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anthony van Zijlvelt (c. 1643 - after 1715), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anthony van Zijlvelt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1650 - 1695",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1695
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11L53",
+      "11P341"
+    ],
+    "iconClassDescription": [
+      "theologian",
+      "functionaries and dignitaries ~ Protestant churches"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Bekker, Balthasar"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-24.762"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Bekker, Balthasar"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 21",
+    "21"
+  ],
+  "principalOrFirstMaker": "Anthony van Zijlvelt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "334"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "250"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Balthasar Bekker, Anthony van Zijlvelt, 1650 - 1695",
+  "subTitle": "h 334mm \u00d7 w 250mm",
+  "scLabelLine": "Anthony van Zijlvelt, 1650 - 1695, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

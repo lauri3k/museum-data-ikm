@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1906-2732",
+  "priref": "160648",
+  "objectNumber": "RP-P-1906-2732",
+  "language": "en",
+  "title": "Landschap met drie heiligen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6ef6a504-7bd1-49a8-851a-ae7bfe8f9db4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1920,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/5-vVESyJoDSf9iN2eHN7zhLfSSWwrpSLrMMSzWaoFxMc5B6vk36HBhN4QIIjBABoREpQPT3Q36Qz1rO1GltUbBMacVg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Landschap met drie heiligen"
+  ],
+  "description": "Landschap met de H. Antonius van Egypte met zijn varken, Johannes de Doper en de H. Elisabet. Op de wolken boven hen Maria met het Christuskind op schoot, omringd door cherubijnen. In de marge de namen van de drie heiligen in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hans van Luyck",
+      "unFixedName": "Luyck, Hans van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hans van Luyck"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Crispijn van de Passe (I) (1564 - 1637), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1906-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1574 - 1637",
+    "sortingDate": 1574,
+    "period": 16,
+    "yearEarly": 1574,
+    "yearLate": 1637
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(ANTHONY)",
+      "11H(JOHN THE BAPTIST)",
+      "11HH(ELISABETH)"
+    ],
+    "iconClassDescription": [
+      "male saints (with NAME)",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "Elisabeth, mother of John the Baptist; possible attributes: John the Baptist as child"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1906-2732"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Franken 86",
+    "86",
+    "Hollstein Dutch 254",
+    "254"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "190"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Landschap met drie heiligen, Crispijn van de Passe (I), 1574 - 1637",
+  "subTitle": "h 249mm \u00d7 w 190mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1574 - 1637, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

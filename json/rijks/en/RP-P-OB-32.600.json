@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-32.600",
+  "priref": "148161",
+  "objectNumber": "RP-P-OB-32.600",
+  "language": "en",
+  "title": "Johannes de Doper als kind met lam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7a2068d0-917e-48ae-ac9e-f7674d4773a3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1720,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/jDskvWQ61qACAPxOvdLVn42oMC0IXohuGD0Jin8IL0QWwt93ncPaooH5rfvnFEScMW-wMI1OhfQ6C68dcuINPcAwkUPNf0yqUdhu9Ik=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper als kind met lam"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "James McArdell",
+      "unFixedName": "McArdell, James",
+      "placeOfBirth": "Dublin",
+      "dateOfBirth": "1728",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1765-06-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "James McArdell (c. 1728 - 01-jun-1765)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "James McArdell",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1745 - 1765",
+    "sortingDate": 1745,
+    "period": 18,
+    "yearEarly": 1745,
+    "yearLate": 1765
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73A18",
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist in the wilderness, usually accompanied by a lamb",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-32.600"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "James McArdell",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "349"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "250"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Johannes de Doper als kind met lam, James McArdell, c. 1745 - 1765",
+  "subTitle": "h 349mm \u00d7 w 250mm",
+  "scLabelLine": "James McArdell, c. 1745 - 1765, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

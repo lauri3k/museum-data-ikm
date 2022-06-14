@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2009-249",
+  "priref": "473011",
+  "objectNumber": "RP-F-2009-249",
+  "language": "en",
+  "title": "Interior",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6cffdaff-b50a-4971-b05b-3bd71fcd03e9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1895,
+    "url": "https://lh3.googleusercontent.com/rMOvYVeGZ43mhx1NFGBy0GPwvtNiqjN6yjw5WFHctpbgqXCZ22HvlKtEcPL0QUoJmJKRV6bl4GQjfV5go0k4DZGJtX9VJuo8Hv2oEsb5qA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Interior, Nashville, Tennessee"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Peter Sekaer",
+      "unFixedName": "Sekaer, Peter",
+      "placeOfBirth": null,
+      "dateOfBirth": "1901",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1950",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Peter Sekaer (1901 - 1950)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Peter Sekaer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2009-06-29T00:00:00",
+    "creditLine": "Purchased with the support of Baker McKenzie"
+  },
+  "exhibitions": [],
+  "materials": [
+    "baryta paper",
+    "paper"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1938 - 1940",
+    "sortingDate": 1938,
+    "period": 20,
+    "yearEarly": 1938,
+    "yearLate": 1940
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B112",
+      "32B3211",
+      "41A2"
+    ],
+    "iconClassDescription": [
+      "anonymous historical persons portrayed in a double portrait",
+      "African Americans",
+      "interior of the house"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Nashville"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2009-249"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Peter Sekaer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "182"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "241"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "343"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "267"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Interior, Peter Sekaer, 1938 - 1940",
+  "subTitle": "h 182mm \u00d7 w 241mm",
+  "scLabelLine": "Peter Sekaer (1901-1950), gelatin silver print, Nashville, Tennessee, 1939",
+  "label": {
+    "title": "Interior",
+    "makerLine": "Peter Sekaer (1901-1950), gelatin silver print, Nashville, Tennessee, 1939",
+    "description": "Sekaer here presents a precise and businesslike portrait of two men in their squalid little room in Nashville. The details speak volumes: before the peeling wall is a gramophone on which the blues will have sounded wonderful, even there. The Dane Sekaer was the assistant of Walker Evans, one of the truly great American photographers. He always remained in the master\u2019s shadow, unjustly so judging from this powerful portrait.",
+    "notes": null,
+    "date": "2014-11-24"
+  },
+  "showImage": true,
+  "location": null
+}

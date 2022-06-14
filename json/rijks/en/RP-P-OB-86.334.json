@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-86.334",
+  "priref": "509387",
+  "objectNumber": "RP-P-OB-86.334",
+  "language": "en",
+  "title": "Gevecht bij Ginneken, 1793",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a764ba0e-3399-4839-9709-7ae0b25ba463",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2161,
+    "url": "https://lh6.ggpht.com/yKs4H4K_I7Xk9bP7ZJW2hCWABxmKCW6DLwiETrYQm3UbMFj1RONsMVb-6z9vK7Wx57TDvHWzZhrmcIALX_tiwO8X9P0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gevecht bij Ginneken, 1793",
+    "Schermutzeling tusschen eenige Hollandsche Militairen, aan welkers hoofd Prins Frederik van Orange, en een Corps Franschen, op de Bredasche Heide, bij Ginneken"
+  ],
+  "description": "Prins Willem George Frederik leidt een groep Hollandse militairen in een schermutseling met een corps Fransen, op de Bredase Heide bij Ginneken, 29 maart 1793.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Carel Jacob de Huyser",
+      "unFixedName": "Huyser, Carel Jacob de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1743-03-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-09-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Carel Jacob de Huyser (24-mrt-1743 - 15-sep-1804), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Carel Jacob de Huyser",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1802",
+    "sortingDate": 1802,
+    "period": 19,
+    "yearEarly": 1802,
+    "yearLate": 1802
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3(+2)"
+    ],
+    "iconClassDescription": [
+      "battle (+ land forces)"
+    ],
+    "motifs": [],
+    "events": [
+      "Eerste Coalitie-oorlog"
+    ],
+    "periods": [
+      "1793-03-291793-03-29"
+    ],
+    "places": [
+      "Ginneken"
+    ],
+    "people": [
+      "Willem George Frederik (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-86.334"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem George Frederik (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 341, nr. 5261.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. III (jaren 1795 tot 1879), p. 31-32, nr. 5512/I.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 338, nr. 5202A."
+  ],
+  "catRefRPK": [
+    "FMH 5261",
+    "5261",
+    "FMH 5512",
+    "5512",
+    "FMH 5202",
+    "5202",
+    "Atlas van Stolk 5418",
+    "5418"
+  ],
+  "principalOrFirstMaker": "Carel Jacob de Huyser",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "213"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "245"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gevecht bij Ginneken, 1793, Carel Jacob de Huyser, 1802",
+  "subTitle": "h 213mm \u00d7 w 245mm",
+  "scLabelLine": "Carel Jacob de Huyser, 1802, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

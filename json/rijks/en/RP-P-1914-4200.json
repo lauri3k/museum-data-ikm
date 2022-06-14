@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-4200",
+  "priref": "325201",
+  "objectNumber": "RP-P-1914-4200",
+  "language": "en",
+  "title": "De terechtstelling van Lady Jane Grey",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e0263b10-59f2-417c-b2fc-83c90d6d83d1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1825,
+    "url": "https://lh3.googleusercontent.com/6Ye_CG_4PoPInaBV8PLiSGMg_CQvrAOQfzCNPdop9G4l9-jaB4OlQXFTwGwy09ExKbFd0unxz0RkxemO69vhEHZlbdRP=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De terechtstelling van Lady Jane Grey"
+  ],
+  "description": "Lady Jane Grey zit op haar knie\u00ebn op een kussen. Zij is geblinddoekt en tast met haar handen naar voren. Voor haar staat een hakblok. Een man met een rijke, met bont afgezette mantel buigt zich over haar heen. Ernaast staat de beul met een bijl klaar. Op de achtergrond twee huilende vrouwen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Christiaan Lodewijk van Kesteren",
+      "unFixedName": "Kesteren, Christiaan Lodewijk van",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1832-08-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1897-06-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Christiaan Lodewijk van Kesteren (09-aug-1832 - 25-jun-1897)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Dirk Jurriaan Sluyter",
+      "unFixedName": "Sluyter, Dirk Jurriaan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1811-11-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1886-05-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Dirk Jurriaan Sluyter (14-nov-1811 - 29-mei-1886), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirk Jurriaan Sluyter",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Gift of Kunsthandel/Veiling R.W.P. de Vries"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1833 - 1886",
+    "sortingDate": 1833,
+    "period": 19,
+    "yearEarly": 1833,
+    "yearLate": 1886
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44G342"
+    ],
+    "iconClassDescription": [
+      "on the scaffold or place of execution"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Lady Jane"
+    ],
+    "objectNumbers": [
+      "RP-P-1914-4200"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Grey, Lady Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirk Jurriaan Sluyter",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "126"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "177"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "De terechtstelling van Lady Jane Grey, Dirk Jurriaan Sluyter (possibly), 1833 - 1886",
+  "subTitle": "h 126mm \u00d7 w 177mm",
+  "scLabelLine": "Dirk Jurriaan Sluyter, 1833 - 1886, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

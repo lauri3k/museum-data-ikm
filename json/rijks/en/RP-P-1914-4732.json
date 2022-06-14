@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-4732",
+  "priref": "207832",
+  "objectNumber": "RP-P-1914-4732",
+  "language": "en",
+  "title": "Vogel in het riet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0ec6be0f-f056-44e3-943a-b9affa38495a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1920,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/i8emMq9733Dr0DXQ6mD2F3HMLFlUiL-toXDt0eXgrPrMkOMfeVyZHMI-N1RulC7JU5EghFqSewWgg-sJT0G5HXdSNCc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Vogel in het riet"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Theo van Hoytema",
+      "unFixedName": "Hoytema, Theo van",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1863-12-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1917-08-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Theo van Hoytema (18-dec-1863 - 28-aug-1917)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Theo van Hoytema",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Gift of the Firma Ferwerda en Tieman"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1878 - 1907",
+    "sortingDate": 1878,
+    "period": 19,
+    "yearEarly": 1878,
+    "yearLate": 1907
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F3",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "birds",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1914-4732"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Theo van Hoytema",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "221"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "169"
+    },
+    {
+      "unit": null,
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "420"
+    },
+    {
+      "unit": null,
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "294"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Vogel in het riet, Theo van Hoytema, 1878 - 1907",
+  "subTitle": "h 221mm \u00d7 w 169mm",
+  "scLabelLine": "Theo van Hoytema, 1878 - 1907, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

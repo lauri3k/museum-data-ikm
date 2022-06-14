@@ -1,0 +1,128 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1944-1509",
+  "priref": "407260",
+  "objectNumber": "RP-P-1944-1509",
+  "language": "en",
+  "title": "Portret van Friedrich Wilhelm von Reden",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Friedrich Wilhelm von Reden"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "H. Meyer",
+      "unFixedName": "Meyer, H.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object H. Meyer"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "H. Meyer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1944-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1815",
+    "sortingDate": 1815,
+    "period": 19,
+    "yearEarly": 1815,
+    "yearLate": 1815
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reden, Friedrich Wilhelm von"
+    ],
+    "objectNumbers": [
+      "RP-P-1944-1509"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Reden, Friedrich Wilhelm von"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "H. Meyer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "317"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "254"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Friedrich Wilhelm von Reden, H. Meyer, 1815",
+  "subTitle": "h 317mm \u00d7 w 254mm",
+  "scLabelLine": "H. Meyer, 1815, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,277 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-674",
+  "priref": "1408",
+  "objectNumber": "AK-MAK-674",
+  "language": "en",
+  "title": "Teabowl with a red green glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cfa3671e-858d-4ae1-9009-3d4f9cb4aa02",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/HwMnFhgkvHrT-nQvol78_OFlK6iY3Ux4-pTO96BwanVDf75TvjugOxzlraUjRaUdlCDf5oBn2uHb3ZyEB9vIySkNezRZ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 52,
+      "hex": "#BAB7B6"
+    },
+    {
+      "percentage": 17,
+      "hex": " #5A422E"
+    },
+    {
+      "percentage": 15,
+      "hex": " #DDDAD9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A3947C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #776350"
+    },
+    {
+      "percentage": 0,
+      "hex": " #7C7976"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2A1F14"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BAB7B6",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #5A422E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #DDDAD9",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #A3947C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #776350",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7C7976",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2A1F14",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 15,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 22,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Teabowl with a red green glaze"
+  ],
+  "description": "Theekom van steengoed, gedeeltelijk bedekt met een roodgroen glazuur. Het onderste deel van de kom is ongeglazuurd. Goudlakreparatie in de rand en wand. Raku.",
+  "labelText": null,
+  "objectTypes": [
+    "bowl"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Kyoto"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to anonymous, Kyoto"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan",
+    "Kyoto"
+  ],
+  "dating": {
+    "presentingDate": "c. 1650 - c. 1749",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1749
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-674"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Menno Fitski, 'Ceramics for the Japanese tea ceremony in the Rijksmuseum', Andon (2009) nr. 86, p. 27-34, afb. 4.",
+    "Menno Fitski, 'Japanese art in the Westendorp-Osieck collection', Arts of Asia 38 (2008), nr. 4, p. 52, afb. 9.",
+    "Menno Fitski, 'H.K. Westendorp en zijn verzameling Aziatische kunst', Aziatische Kunst 31/2 (2001), pp. 30-39.",
+    "Aziatische Kunst uit het legaat Westendorp (cat.). Bulletin van de Vereeniging van Vrienden der Aziatische Kunst. Derde Serie 17-18 (1968), nr. 1.",
+    "J. Fontein in Nederlandse Kunsthistorisch Jaarboek 1957, p. 241 e.v."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "14.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "4.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Teabowl with a red green glaze, anonymous, anonymous (attributed to), c. 1650 - c. 1749",
+  "subTitle": "h 7.4cm \u00d7 d 14.1cm",
+  "scLabelLine": "anonymous, c. 1650 - c. 1749, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-21.845",
+  "priref": "48429",
+  "objectNumber": "RP-P-OB-21.845",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "efb78ade-376d-4778-93c5-a188464f9f02",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1018,
+    "height": 1148,
+    "url": "https://lh3.googleusercontent.com/ao90OykOAHBUT3RRD-8wSPGMYomOQHhvaYnM1bYxV9AMndrQOgkFiSX2_3nGesuY_OjFRhnL7idfxBNo0GKtQk4i5L351TBp7ssWCbk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper",
+    "Illustraties uit de Lof der Zotheid"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johann Rudolf Genath",
+      "unFixedName": "Genath, Johann Rudolf",
+      "placeOfBirth": "Bazel",
+      "dateOfBirth": "1638",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1708",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Bazel",
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johann Rudolf Genath (1638 - 1708)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Caspar Merian",
+      "unFixedName": "Merian, Caspar",
+      "placeOfBirth": "Frankfurt am Main",
+      "dateOfBirth": "1627-02-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1689-04-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Holland",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Caspar Merian (18-feb-1627 - 12-apr-1689)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Caspar Merian",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1676",
+    "sortingDate": 1676,
+    "period": 17,
+    "yearEarly": 1676,
+    "yearLate": 1676
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "52AA51"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "Folly, Foolishness; 'Pazzia', 'Sciocchezza', 'Stoltitia' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Erasmus, Desiderius"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-21.845"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Erasmus, Desiderius"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein German 43",
+    "43"
+  ],
+  "principalOrFirstMaker": "Caspar Merian",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "77"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "61"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Johannes de Doper, Caspar Merian, 1676",
+  "subTitle": "h 77mm \u00d7 w 61mm",
+  "scLabelLine": "Caspar Merian, 1676, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

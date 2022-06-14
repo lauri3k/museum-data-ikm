@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2003-12",
+  "priref": "376936",
+  "objectNumber": "RP-P-2003-12",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fef35175-d7fc-440b-afbf-9507ff01a434",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1430,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/j5arMcoZyOovJY8J2WMT2YEj91YF-ZDPFgaOnsChIOkA7Us7ZvgSOwrAeFNLeN9KwMUWXk5hvQOp9otQtZQnlvvGrWizBvhLwWxF9jcP=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper",
+    "Christelijk Heiligdom",
+    "Sanctuarium Christianorum"
+  ],
+  "description": "Tekst uit Bijbelpassages Marc. 6 en Joh. 1 in het Latijn in de bogen van de nis.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "G. K\u00fcmmelman",
+      "unFixedName": "K\u00fcmmelman, G.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "G. K\u00fcmmelman"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Lucas Kilian",
+      "unFixedName": "Kilian, Lucas",
+      "placeOfBirth": "Augsburg",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lucas Kilian (1579 - 1637)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas Kilian",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2003-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1623",
+    "sortingDate": 1623,
+    "period": 17,
+    "yearEarly": 1623,
+    "yearLate": 1623
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "73C113"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "John the Baptist identifies Christ as the Lamb of God ('Ecce Agnus Dei') (John 1:29, 1:36)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2003-12"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein German 57",
+    "57",
+    "LeBlanc 31",
+    "31"
+  ],
+  "principalOrFirstMaker": "Lucas Kilian",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "300"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "153"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, Lucas Kilian, 1623",
+  "subTitle": "h 300mm \u00d7 w 153mm",
+  "scLabelLine": "Lucas Kilian, 1623, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-B-FM-002-5",
+  "priref": "446646",
+  "objectNumber": "BI-B-FM-002-5",
+  "language": "en",
+  "title": "Toneel met personificatie van Reden, 1578",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4856eefb-b943-4bba-a36f-4c46b91e3008",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1846,
+    "height": 2790,
+    "url": "https://lh5.ggpht.com/-zxDVPdBzhhRfblPu5tpOZEJEhBhtyzHgCV9J01IjgqBoY89fOtmfpdm4bt7K5m6C4aLwkvkGs6-nPLQz6hdOYsCXdw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Toneel met personificatie van Reden, 1578"
+  ],
+  "description": "Toneel met personificatie van Reden. Op de tegenoverliggende bladzijde een cartouche met het vers dat boven het toneel stond. Toneelvoorstelling tijdens de intocht van Matthias te Brussel, 18 januari 1578.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Antoni van Leest",
+      "unFixedName": "Leest, Antoni van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1545",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1592",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Antoni van Leest (c. 1545 - c. 1592), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antoni van Leest",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1578 - 1579",
+    "sortingDate": 1578,
+    "period": 16,
+    "yearEarly": 1578,
+    "yearLate": 1579
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A42",
+      "48C852",
+      "52B51"
+    ],
+    "iconClassDescription": [
+      "triumphal entry and public reception, pageant, 'entr\u00e9e solennelle', 'joyeuse entr\u00e9e'",
+      "group of actors, troupe; actors on the stage",
+      "Reason; 'Ragione' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [
+      "Intocht en benoeming van Matthias van Oostenrijk te Brussel"
+    ],
+    "periods": [
+      "1578-01-181578-01-18"
+    ],
+    "places": [
+      "Brussel (stad)"
+    ],
+    "people": [
+      "Matthias van Oostenrijk (Rooms-Duits keizer)"
+    ],
+    "objectNumbers": [
+      "BI-B-FM-002-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Matthias van Oostenrijk (Rooms-Duits keizer)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 81, nr. 764B/III."
+  ],
+  "catRefRPK": [
+    "FMH 764",
+    "764",
+    "Atlas van Stolk 652",
+    "652",
+    "Hollstein Dutch 10",
+    "10"
+  ],
+  "principalOrFirstMaker": "Antoni van Leest",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "155"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "115"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Toneel met personificatie van Reden, 1578, Antoni van Leest, 1578 - 1579",
+  "subTitle": "h c.155mm \u00d7 w c.115mm",
+  "scLabelLine": "Antoni van Leest, 1578 - 1579, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

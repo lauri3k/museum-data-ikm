@@ -1,0 +1,266 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-60.868",
+  "priref": "181800",
+  "objectNumber": "RP-P-OB-60.868",
+  "language": "en",
+  "title": "Pan en Syrinx",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "58eb146d-1cd8-4f3e-964d-c5dd35f5c418",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1899,
+    "url": "https://lh4.ggpht.com/XrIVf7CY2Hmi3z3SmNRJ9aozKq8zEtv6y6vL5jUbLGqh4aFyY_HAhrTDrkLq_UgP8eZOJNmuZmqRkcDKKNpsAI59jI8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#D8CCB8"
+    },
+    {
+      "percentage": 20,
+      "hex": " #60584E"
+    },
+    {
+      "percentage": 10,
+      "hex": " #7C7267"
+    },
+    {
+      "percentage": 9,
+      "hex": " #3E3831"
+    },
+    {
+      "percentage": 9,
+      "hex": " #94897C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B2A697"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEF9DD"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D8CCB8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #60584E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7C7267",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3E3831",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #94897C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B2A697",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #FEF9DD",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 40,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 40,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Pan en Syrinx"
+  ],
+  "description": "Pan omarmt een bos riethalmen, de nimf Syrinx, terwijl een nimf in het riet voor hem wegvlucht in de richting van de rivier.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Giovanni Battista de'Rossi",
+      "unFixedName": "Rossi, Giovanni Battista de'",
+      "placeOfBirth": null,
+      "dateOfBirth": "1601",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1678",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Battista de'Rossi (c. 1601 - 1678), Rome"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Herman van Swanevelt",
+      "unFixedName": "Swanevelt, Herman van",
+      "placeOfBirth": "Woerden",
+      "dateOfBirth": "1604",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1655",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Herman van Swanevelt (1604 - 1655), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Herman van Swanevelt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Rome",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1629 - 1641",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1641
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "97BB5"
+    ],
+    "iconClassDescription": [
+      "Syrinx changed into a reed: while fleeing from Pan, the nymph Syrinx is changed into reed by her sisters, the Naiads (Ovid, Metamorphoses I 705)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-60.868"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 24",
+    "24"
+  ],
+  "principalOrFirstMaker": "Herman van Swanevelt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "158"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "209"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Pan en Syrinx, Herman van Swanevelt, 1629 - 1641",
+  "subTitle": "h 158mm \u00d7 w 209mm",
+  "scLabelLine": "Herman van Swanevelt, 1629 - 1641, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,281 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6502",
+  "priref": "98930",
+  "objectNumber": "RP-P-BI-6502",
+  "language": "en",
+  "title": "De doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ae60703a-04d1-4876-8b8e-d05921ac3c01",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1822,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/QxUT0SjHY8ebK_0m3rzpt73fTpMZE7b8VXpuqEMhrnqsGJOlCIxLLIhPTjxwxbHMWAG5Jkw_yB4gqiM8ivwKKTYHVj6l=s0"
+  },
+  "colors": [
+    {
+      "percentage": 18,
+      "hex": "#F2EBD7"
+    },
+    {
+      "percentage": 19,
+      "hex": " #CEC4B0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B4AC9A"
+    },
+    {
+      "percentage": 25,
+      "hex": " #716A5D"
+    },
+    {
+      "percentage": 18,
+      "hex": " #978F80"
+    },
+    {
+      "percentage": 3,
+      "hex": " #4B473C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2EBD7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CEC4B0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B4AC9A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #716A5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #978F80",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4B473C",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 18,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 38,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "De doornenkroning"
+  ],
+  "description": "In een vertrek met romaans venster zit Christus met gebonden handen. Twee mannen slaan hem de doornenkroon op het hoofd, een man zit geknield voor hem. Drie andere mannen kijken naar het geheel. Op de grond een tak met doornen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Giovanni Orlandi",
+      "unFixedName": "Orlandi, Giovanni",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Orlandi, Rome"
+    },
+    {
+      "name": "Antonio Lafreri",
+      "unFixedName": "Lafreri, Antonio",
+      "placeOfBirth": "Orgelet",
+      "dateOfBirth": "1512",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1577",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antonio Lafreri (1512 - 1577), Rome"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Cort",
+      "unFixedName": "Cort, Cornelis",
+      "placeOfBirth": "Edam",
+      "dateOfBirth": "1533",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1578",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Cort (c. 1533 - 1578), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Cort",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Rome",
+    "Rome",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1602",
+    "sortingDate": 1602,
+    "period": 17,
+    "yearEarly": 1602,
+    "yearLate": 1602
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6502"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 59",
+    "59"
+  ],
+  "principalOrFirstMaker": "Cornelis Cort",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "282"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "201"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De doornenkroning, Cornelis Cort, 1602",
+  "subTitle": "h 282mm \u00d7 w 201mm",
+  "scLabelLine": "Cornelis Cort, 1602, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,173 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1963-27-B",
+  "priref": "630068",
+  "objectNumber": "BK-1963-27-B",
+  "language": "en",
+  "title": "Saucer with the coat of arms of the House of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b445d800-02f3-427a-b860-a460ee5be38f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/XEMSWw2t-Hlqgh49x1mtcig0g8MYua0JWK3sQONhQ7gQLHDm6688FfHZHxlP28YPsP7u3JApH_6qnL3-ApFVDS5qsewnRr_BhxK_a_sz=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Saucer with the coat of arms of the House of Orange"
+  ],
+  "description": "Schotel van porselein, beschilderd op het glazuur in goud. Op het plat een medaillon met daarin het wapen van Oranje. Gouden band op de binnenrand.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "European ceramics",
+    "European porcelain"
+  ],
+  "makers": [
+    {
+      "name": "Adrianus Johannes Bik",
+      "unFixedName": "Bik, Adrianus Johannes",
+      "placeOfBirth": "Duinkerke",
+      "dateOfBirth": "1790-01-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1872-10-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Adrianus Johannes Bik (13-jan-1790 - 01-okt-1872), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "porcelain company"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Europe"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Europe"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1963-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "gold (metal)"
+  ],
+  "techniques": [
+    "painting",
+    "gilding",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Europe",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1808 - c. 1815",
+    "sortingDate": 1808,
+    "period": 19,
+    "yearEarly": 1808,
+    "yearLate": 1815
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17721843"
+    ],
+    "places": [],
+    "people": [
+      "Willem I (koning der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "BK-1963-27-B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (koning der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "12.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Saucer with the coat of arms of the House of Orange, anonymous, c. 1808 - c. 1815",
+  "subTitle": "h 3cm \u00d7 d 12.8cm",
+  "scLabelLine": "anonymous, c. 1808 - c. 1815, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

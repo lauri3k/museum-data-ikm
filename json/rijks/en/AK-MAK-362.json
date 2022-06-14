@@ -1,0 +1,178 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-362",
+  "priref": "1911",
+  "objectNumber": "AK-MAK-362",
+  "language": "en",
+  "title": "Landscape",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cbd2e6fa-8ff7-45e2-a66a-3ef029a08a54",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 950,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Uz4X3pmPDq-z5w7sBrBRcw1mck7K30smWpPboGSLZvGpwca6FP_A2UHCngFTLfQOFE_Ew4fz_APC05SDDbl-iK6zqpBYdPHZs6MmU0Hrew=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Schildering van landschap met architectuur op zijde. In houten doos.",
+  "labelText": null,
+  "objectTypes": [
+    "hanging scroll"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase Jacques Aalderink, Amsterdam, 1932)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silk",
+    "ink",
+    "dye"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1699",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-362"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "118.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "77.2"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "840"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "48"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "30"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silk",
+  "longTitle": "Landscape, anonymous, c. 1600 - c. 1699",
+  "subTitle": "h 118.5cm \u00d7 w 63.5cm",
+  "scLabelLine": "China, c. 1600-1699, ink and colour on silk",
+  "label": {
+    "title": "Landscape",
+    "makerLine": "China, c. 1600-1699, ink and colour on silk",
+    "description": "This 17th-century painting is in fact a forgery. At that time there was a veritable craze in China for antiquities from previous centuries. That is why painters began imitating or even forging old masters; in turn, their work became trendy and sold in large quantities. The pink blossom refers to spring, as well as to one of the popular themes in 17th-century imitations, namely a spring morning in the Han Palace.",
+    "notes": null,
+    "date": "2019-10-10"
+  },
+  "showImage": true,
+  "location": null
+}

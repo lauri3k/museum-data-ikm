@@ -1,0 +1,247 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4114",
+  "priref": "5272",
+  "objectNumber": "SK-A-4114",
+  "language": "en",
+  "title": "Meadow Landscape with Cattle",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d55ad919-6439-42ec-a521-dd5ac4a464fd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2928,
+    "height": 1769,
+    "url": "https://lh3.googleusercontent.com/fKTMF9CfkvxWdys0l6otZfZrhxUph_zE6u8Z203BVTf_yL8R1t8VeJU7f-U0zWT6laZbAIYwquofSJgHtVUwbe4fQA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#CEC1A2"
+    },
+    {
+      "percentage": 28,
+      "hex": " #A59D7E"
+    },
+    {
+      "percentage": 13,
+      "hex": " #51401D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8A8056"
+    },
+    {
+      "percentage": 10,
+      "hex": " #6C6027"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2C2714"
+    },
+    {
+      "percentage": 0,
+      "hex": " #070604"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CEC1A2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A59D7E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #51401D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8A8056",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6C6027",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #2C2714",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #070604",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 24,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Weidelandschap met koeien. Links melkt een boer een koe, naast hem liggen een juk en een emmer. Een vrouw met een juk op de schouders en twee kinderen lopen langs een hek.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Roelofs (I)",
+      "unFixedName": "Roelofs, Willem (I)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1822-03-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1897-05-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berchem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Roelofs (I) (10-mrt-1822 - 12-mei-1897)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Roelofs (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1965-01-01T00:00:00",
+    "creditLine": "Gift of T.L. Laue-Drucker, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1880",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I2112"
+    ],
+    "iconClassDescription": [
+      "cow"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-4114"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Roelofs (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "49.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "77.3"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "83"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "13"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Meadow Landscape with Cattle, Willem Roelofs (I), c. 1880",
+  "subTitle": "h 49.2cm \u00d7 w 77.3cm",
+  "scLabelLine": "Willem Roelofs (1822\u20131897), oil on panel, c. 1880",
+  "label": {
+    "title": "Meadow Landscape with Cattle",
+    "makerLine": "Willem Roelofs (1822\u20131897), oil on panel, c. 1880",
+    "description": "Unlike Romantic painters, Hague School artists had an eye for the beauty of the polder landscape. Instead of the dramatic and varied landscapes of the Romantic tradition, they painted cows ruminating tranquilly in verdant meadows with a panoramic horizon. These works were greatly appreciated and gave rise to the image of the Netherlands as a green, flat polder landscape under a greyish blue sky.",
+    "notes": null,
+    "date": "2013-02-04"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

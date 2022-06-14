@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-17083",
+  "priref": "17472",
+  "objectNumber": "BK-17083",
+  "language": "en",
+  "title": "Harlequin",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2dfef01f-48f8-4b95-94a4-15ece1b71997",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2398,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/Wu9DZHDaRDzSQrhfYdD7IakM4-WJtaua57OdRUMhBHlBRoCFR6tNLpXTNcsTw-Br8FIFN1V3T789m0uqiD--m9jbVDU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 90,
+      "hex": "#B2BBB8"
+    },
+    {
+      "percentage": 3,
+      "hex": " #4D6E77"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9C5E73"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F333C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EEEDE5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5BABA2"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B84EA4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B2BBB8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #4D6E77",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #9C5E73",
+      "normalizedHex": "#DF4C93"
+    },
+    {
+      "originalHex": " #2F333C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #EEEDE5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5BABA2",
+      "normalizedHex": "#2CAAA7"
+    },
+    {
+      "originalHex": " #B84EA4",
+      "normalizedHex": "#DF4C93"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 90,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DB7093"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #20B2AA"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DA70D6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 90,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DF4C93"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2CAAA7"
+    }
+  ],
+  "titles": [
+    "Harlequin"
+  ],
+  "description": "Beeld van goud met email, barok-parels en edelstenen, voorstellende een harlekijn met een beweegbaar hoofd. In zijn rechterhand heeft hij een hoed, in de linker een spiegel.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "jeweler"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)",
+    "precious stone (material)",
+    "pearl"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "before 1725",
+    "sortingDate": 1725,
+    "period": 18,
+    "yearEarly": 1725,
+    "yearLate": 1725
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32B3311",
+      "41D221(HAT)(+81)"
+    ],
+    "iconClassDescription": [
+      "Chinese",
+      "head-gear: hat (+ men's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-17083"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "K. Posner en Robert van Langh [red.], Supporting Conservation : Four projects funded by Gieskes-Strijbis Fonds, Amsterdam 2015, p. 38, afb. 27."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "5.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gold (metal)",
+  "longTitle": "Harlequin, anonymous, before 1725",
+  "subTitle": "h 5.0cm",
+  "scLabelLine": "anonymous, before 1725, gold (metal)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "HG-0.9"
+}

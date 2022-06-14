@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-23.297",
+  "priref": "151180",
+  "objectNumber": "RP-P-OB-23.297",
+  "language": "en",
+  "title": "H. Thomas Becket",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bbe95db7-1bee-4bf6-9e65-01df464475c8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1409,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/n7K4Sq4k_rcJ1p05TVnFHU9YdInuhj7ZSEOQ68zGARx_PIGG0qnJVQ2-8Qcb9fzROn7t28WN7juR2Cw1lnZ2KVLAvA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. Thomas Becket",
+    "Heiligen"
+  ],
+  "description": "De heilige Thomas Becket, met een zwaard in zijn schedel. In zijn hand de kathedraal van Canterbury. Een engel naast hem houdt bisschopmijter en -staf vast. In de lucht een engel met een lauwerkrans. Prent uit een serie van acht prenten met heiligen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Theodor Matham",
+      "unFixedName": "Matham, Theodor",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1606",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1676-03-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Theodor Matham (c. 1606 - 26-mrt-1676)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Theodor Matham",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1615 - 1676",
+    "sortingDate": 1615,
+    "period": 17,
+    "yearEarly": 1615,
+    "yearLate": 1676
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(THOMAS BECKET)",
+      "11P31131",
+      "43A433"
+    ],
+    "iconClassDescription": [
+      "the martyr Thomas Becket, archbishop of Canterbury; possible attributes: (red) chasuble, sword in skull",
+      "insignia of bishop, e.g. mitre, crozier",
+      "crowning with laurel"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-23.297"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 12-19",
+    "12-19"
+  ],
+  "principalOrFirstMaker": "Theodor Matham",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "260"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "143"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "H. Thomas Becket, Theodor Matham, 1615 - 1676",
+  "subTitle": "h 260mm \u00d7 w 143mm",
+  "scLabelLine": "Theodor Matham, 1615 - 1676, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

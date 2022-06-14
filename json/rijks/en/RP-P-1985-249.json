@@ -1,0 +1,265 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1985-249",
+  "priref": "114613",
+  "objectNumber": "RP-P-1985-249",
+  "language": "en",
+  "title": "Christus wordt gekroond met de doornenkroon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8cbb24ec-71ef-48d7-aa31-61747cc7b6fd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1769,
+    "url": "https://lh5.ggpht.com/XzjMKwMtxvrrsbz0-6Ygc_cxgQ6yTROcp3p0lYXNKddeTD8W2hTlVh45iyY-2T4BXsVjNBOp5TB2N5MLk5oatLJ63mo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#FAF9EE"
+    },
+    {
+      "percentage": 40,
+      "hex": " #D4D0C3"
+    },
+    {
+      "percentage": 22,
+      "hex": " #4D4D41"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A3A095"
+    },
+    {
+      "percentage": 2,
+      "hex": " #303027"
+    },
+    {
+      "percentage": 18,
+      "hex": " #847A65"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FAF9EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D4D0C3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4D4D41",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #A3A095",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #303027",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #847A65",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 45,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 29,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 22,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Christus wordt gekroond met de doornenkroon",
+    "Passie, dood en wederopstanding van Christus",
+    "Passio, mors et resurrection dn. Nostri Iesu Christ"
+  ],
+  "description": "Christus wordt door de soldaten bespot. Hij krijgt een doornenkroon op zijn hoofd en een grasspriet als scepter (Matt. 27:27-29). De prent heeft een Latijns onderschrift en maakt deel uit van een serie over de passie, dood en wederopstanding van Christus.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philips Galle (1537 - 29-mrt-1612), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Adriaen Collaert",
+      "unFixedName": "Collaert, Adriaen",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1618-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adriaen Collaert (c. 1560 - 29-jun-1618), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen Collaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1985-06-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1585 - 1586",
+    "sortingDate": 1585,
+    "period": 16,
+    "yearEarly": 1585,
+    "yearLate": 1586
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1985-249"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 340",
+    "340",
+    "New Hollstein Dutch 67",
+    "67"
+  ],
+  "principalOrFirstMaker": "Adriaen Collaert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "194"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "264"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Christus wordt gekroond met de doornenkroon, Adriaen Collaert, 1585 - 1586",
+  "subTitle": "h c.194mm \u00d7 w c.264mm",
+  "scLabelLine": "Adriaen Collaert, 1585 - 1586, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

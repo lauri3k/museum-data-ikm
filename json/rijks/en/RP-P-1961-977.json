@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1961-977",
+  "priref": "35641",
+  "objectNumber": "RP-P-1961-977",
+  "language": "en",
+  "title": "Self-portrait with long bushy hair: head only",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "134ced48-731e-4623-bf75-9e939cb7ec87",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2820,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/vlqeCnU2wyug-76YMgmlcnxHV-4_QEy-IGeawl1V35py87qLBzjkwBAfztmGZDFb2cMDki1d5FoOib2UNfeWI6Al13DM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#F4F4F3"
+    },
+    {
+      "percentage": 47,
+      "hex": " #DBD7CA"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C3BDA9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9F9B8B"
+    },
+    {
+      "percentage": 12,
+      "hex": " #747160"
+    },
+    {
+      "percentage": 8,
+      "hex": " #444339"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F4F3",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #DBD7CA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C3BDA9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9F9B8B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #747160",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #444339",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 58,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 22,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Self-portrait with long bushy hair: head only"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1961-01-01T00:00:00",
+    "creditLine": "Mr and Mrs De Bruijn-van der Leeuw Bequest, Muri, Switzerland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1631",
+    "sortingDate": 1631,
+    "period": 17,
+    "yearEarly": 1631,
+    "yearLate": 1631
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rijn, Rembrandt van"
+    ],
+    "objectNumbers": [
+      "RP-P-1961-977"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rijn, Rembrandt van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 81",
+    "81",
+    "Bartsch 8",
+    "8",
+    "Hollstein Dutch 8",
+    "8"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "64"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Self-portrait with long bushy hair: head only, Rembrandt van Rijn, c. 1631",
+  "subTitle": "h 64mm \u00d7 w 60mm",
+  "scLabelLine": "Rembrandt van Rijn, c. 1631, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

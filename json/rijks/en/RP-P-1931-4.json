@@ -1,0 +1,199 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1931-4",
+  "priref": "186199",
+  "objectNumber": "RP-P-1931-4",
+  "language": "en",
+  "title": "Portret van Willem II, koning der Nederlanden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "87c6c3cc-7bd6-4b18-b0f2-04b44709d027",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1739,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/kRejpF9eIggoiMokiUmMWx-6wPM6s9y73EB6qDXFLlPdCqRRprQ3dsnKGmGdW11AY6rVvXwCyhloNXCgG7WkADiYWgkmRrDtwlj_q2UX=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Willem II, koning der Nederlanden",
+    "His Serene Highness the Hereditary Prince of Orange"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Charles Turner",
+      "unFixedName": "Turner, Charles",
+      "placeOfBirth": "Woodstock",
+      "dateOfBirth": "1773",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1857-08-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Charles Turner (1773 - 01-aug-1857), London"
+    },
+    {
+      "name": "Colnaghi & Co",
+      "unFixedName": "Colnaghi & Co",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Colnaghi & Co, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Charles Turner",
+      "unFixedName": "Turner, Charles",
+      "placeOfBirth": "Woodstock",
+      "dateOfBirth": "1773",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1857-08-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Charles Turner (1773 - 01-aug-1857), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Charles Turner",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1931-01-01T00:00:00",
+    "creditLine": "Gift of the heirs of F. de Bas"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London",
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1813",
+    "sortingDate": 1813,
+    "period": 19,
+    "yearEarly": 1813,
+    "yearLate": 1813
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B113"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "king"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem II (koning der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "RP-P-1931-4"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem II (koning der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Van Someren 647",
+    "647",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Charles Turner",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "352"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "234"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Willem II, koning der Nederlanden, Charles Turner, 1813",
+  "subTitle": "h 352mm \u00d7 w 234mm",
+  "scLabelLine": "Charles Turner, 1813, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

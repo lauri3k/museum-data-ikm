@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-520",
+  "priref": "6842",
+  "objectNumber": "SK-A-520",
+  "language": "en",
+  "title": "Portrait of William II, Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9cfd5622-1e5a-4d75-893a-e65d51d055df",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2100,
+    "height": 2610,
+    "url": "https://lh3.googleusercontent.com/X5x37mjdSgtK6Rt4svlG0akwr-RckZl_aKARjZybrJLmYHHjMWvF5vROQKn43Qa8pzjuB8jDmQREAdszFPuLMXARx2jNh6w_8nsGiCJ7=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of William II, Prince of Orange"
+  ],
+  "description": "Portret van Willem II (1626-50), prins van Oranje. Buste naar links, in wapenrusting. Kopie naar het portret door Gerard van Honthorst uit 1647 (SK-A-871). Onderdeel van de reeks portretten afkomstig uit het Stadhouderlijk Hof te Leeuwarden.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Gerard van Honthorst",
+      "unFixedName": "Honthorst, Gerard van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1592-11-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1656-04-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Gerard van Honthorst (04-nov-1592 - 27-apr-1656)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gerard van Honthorst",
+      "unFixedName": "Honthorst, Gerard van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1592-11-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1656-04-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Gerard van Honthorst (04-nov-1592 - 27-apr-1656)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard van Honthorst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "nationalization 1795",
+    "date": "1795-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1653",
+    "sortingDate": 1653,
+    "period": 17,
+    "yearEarly": 1653,
+    "yearLate": 1653
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-520"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard van Honthorst",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "30"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "24.1"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "5.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of William II, Prince of Orange, Gerard van Honthorst (workshop of), c. 1653",
+  "subTitle": "h 30cm \u00d7 w 24.1cm",
+  "scLabelLine": "Gerard van Honthorst, c. 1653, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

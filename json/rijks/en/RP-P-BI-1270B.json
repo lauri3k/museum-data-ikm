@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-1270B",
+  "priref": "81357",
+  "objectNumber": "RP-P-BI-1270B",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6044e2c9-b0c1-4ad5-ad18-666d5bf2b343",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2308,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/ocTJvjIAoiBAhJ9JtQzwmZS8s0mijjMQLnyxVS3a3ROTXVQiXEHcEK501RLzKV1YQ7ALh-dNdVSfprUQq8pZWJvHLQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 9,
+      "hex": "#FAF8F2"
+    },
+    {
+      "percentage": 23,
+      "hex": " #E9E2CC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C6BEA7"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A49D89"
+    },
+    {
+      "percentage": 15,
+      "hex": " #817B69"
+    },
+    {
+      "percentage": 26,
+      "hex": " #514D42"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FAF8F2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E9E2CC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C6BEA7",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A49D89",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #817B69",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #514D42",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 26,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 15,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 33,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 26,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 15,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper"
+  ],
+  "description": "Johannes de Doper, afgebeeld als een herdersjongen, naar rechts kijkend, houdt een lam vast en een kruis met banier. Met een onderschrift in het Nederlands.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Salomon Savery",
+      "unFixedName": "Savery, Salomon",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1594",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1683-10-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Salomon Savery (1594 - 16-okt-1683), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1625 - 1678",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1678
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-1270B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Roethlisberger 289",
+    "289"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "143"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, anonymous, 1625 - 1678",
+  "subTitle": "h 143mm \u00d7 w 130mm",
+  "scLabelLine": "anonymous, 1625 - 1678, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

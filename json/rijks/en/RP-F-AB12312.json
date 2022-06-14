@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-AB12312",
+  "priref": "453448",
+  "objectNumber": "RP-F-AB12312",
+  "language": "en",
+  "title": "Portret van een onbekende man",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f7345cc9-1b6b-4588-9a94-958bc6566415",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1569,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/9AfwU4Rppsbj10PHQzC0TaJKqgRBARjO1j0vhxntzQu9vQ-m34MdOPXWjrv4BEqoVi60p5nj3i7q_nTz7zvezO9jLi0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 6,
+      "hex": "#F2F2EF"
+    },
+    {
+      "percentage": 52,
+      "hex": " #E5DFC3"
+    },
+    {
+      "percentage": 27,
+      "hex": " #CBBC9D"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C69978"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BD7057"
+    },
+    {
+      "percentage": 4,
+      "hex": " #928C7D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2F2EF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E5DFC3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CBBC9D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C69978",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #BD7057",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #928C7D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 34,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E9967A"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 27,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F49B7A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Portret van een onbekende man"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Leopold Haase & Co.",
+      "unFixedName": "Leopold Haase & Co.",
+      "placeOfBirth": "Mecklenburg-Voor-Pommeren",
+      "dateOfBirth": "1831",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1901",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Leopold Haase & Co. (1831 - 1901), Cologne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Leopold Haase & Co.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Cologne"
+  ],
+  "dating": {
+    "presentingDate": "1850 - 1900",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B1"
+    ],
+    "iconClassDescription": [
+      "historical persons not known by name"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-AB12312"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Leopold Haase & Co.",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "106"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "107"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van een onbekende man, Leopold Haase & Co., 1850 - 1900",
+  "subTitle": "h 106mm \u00d7 w 62mm",
+  "scLabelLine": "Leopold Haase & Co., 1850 - 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F25531-Q",
+  "priref": "282271",
+  "objectNumber": "RP-F-F25531-Q",
+  "language": "en",
+  "title": "Pijlriet bij Nice",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6d5c5f5b-6bb7-448f-a6b4-082b768539f0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2021,
+    "url": "https://lh3.googleusercontent.com/PKcGiyk5qY4QbhtQGzTIxnGeOgkiL6KGrjsdWkv-J3CxNyvIcxuXAJhWAniew4FPMY95SjfvBxJhYoYg8XwYJix3ThV-gYI5qTWF0Oo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Pijlriet bij Nice",
+    "Arundo Donax. A Nice (Alps-Maritimes)"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean Walburg de Bray",
+      "unFixedName": "Bray, Jean Walburg de",
+      "placeOfBirth": "Orl\u00e9ans",
+      "dateOfBirth": "1839-01-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1901-01-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Nice",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Jean Walburg de Bray (19-jan-1839 - 28-jan-1901)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Walburg de Bray",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1866 - in or before 1871",
+    "sortingDate": 1866,
+    "period": 19,
+    "yearEarly": 1866,
+    "yearLate": 1871
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Nice"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F25531-Q"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean Walburg de Bray",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Pijlriet bij Nice, Jean Walburg de Bray (attributed to), c. 1866 - in or before 1871",
+  "subTitle": "h 157mm \u00d7 w 100mm",
+  "scLabelLine": "Jean Walburg de Bray, c. 1866 - in or before 1871, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

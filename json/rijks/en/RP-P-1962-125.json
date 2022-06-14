@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1962-125",
+  "priref": "37711",
+  "objectNumber": "RP-P-1962-125",
+  "language": "en",
+  "title": "Saint George Slaying the Dragon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "10780ac2-9414-4ada-bfff-56ec66ce8803",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2049,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/oDzzUKrIFC2UWShpYjuuM5OgtIjuOle0J-BpeCwuPbu_nd5Bb5rO2I0eoW3Av4BmIGkct2bVuJxP5X1vqcJcmxIvBA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#C8BEA6"
+    },
+    {
+      "percentage": 16,
+      "hex": " #DED7BE"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B0A692"
+    },
+    {
+      "percentage": 12,
+      "hex": " #8F8877"
+    },
+    {
+      "percentage": 8,
+      "hex": " #6B6759"
+    },
+    {
+      "percentage": 7,
+      "hex": " #45423B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F7F1DA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C8BEA6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DED7BE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B0A692",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8F8877",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6B6759",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #45423B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F7F1DA",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 20,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [],
+  "description": "Joris in harnas te paard steekt vliegende draak met lans door bek. Prinses met lammetje aan touw kijkt toe vanaf rots. Klein draakje en menselijke botten onderaan rots.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Meester IAM van Zwoll",
+      "unFixedName": "Meester IAM van Zwoll",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Meester IAM van Zwoll, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Meester IAM van Zwoll",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1962-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "1470 - 1480",
+    "sortingDate": 1470,
+    "period": 15,
+    "yearEarly": 1470,
+    "yearLate": 1480
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1962-125"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 17",
+    "17"
+  ],
+  "principalOrFirstMaker": "Meester IAM van Zwoll",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "191"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "131"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Saint George Slaying the Dragon, Meester IAM van Zwoll, 1470 - 1480",
+  "subTitle": "h 191mm \u00d7 w 131mm",
+  "scLabelLine": "Master I.A.M. of Zwolle (Johan van de Mijnnesten?) (active 1462-1504), engraving, c. 1470-1480",
+  "label": {
+    "title": "Saint George Slaying the Dragon",
+    "makerLine": "Master I.A.M. of Zwolle (Johan van de Mijnnesten?) (active 1462-1504), engraving, c. 1470-1480",
+    "description": "The central moment in the legend of Saint George is when he slays the dragon with a lance. The princess, rescued through the knight\u2019s intervention, can be seen in the background. The first civic guards in the Netherlands often chose this saint as their patron. He embodied their mission as defender of the faith more than anybody else.",
+    "notes": null,
+    "date": "2015-07-24"
+  },
+  "showImage": true,
+  "location": null
+}

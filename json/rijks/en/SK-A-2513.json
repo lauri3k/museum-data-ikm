@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2513",
+  "priref": "8333",
+  "objectNumber": "SK-A-2513",
+  "language": "en",
+  "title": "View of Batavia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "58e38829-1597-42a9-bac7-84f7b716d054",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2868,
+    "height": 2216,
+    "url": "https://lh3.googleusercontent.com/G79Xnn6ZC60QzI6fuqkjjRz_Oklem-DSNv4CfwUAhiO5Z4lYjawN5tfRs9FMiMcSFY-QfMMdXaLXBbF8DhHz2Rodhig=s0"
+  },
+  "colors": [
+    {
+      "percentage": 31,
+      "hex": "#BDB59A"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A19A81"
+    },
+    {
+      "percentage": 15,
+      "hex": " #8A7958"
+    },
+    {
+      "percentage": 14,
+      "hex": " #685B41"
+    },
+    {
+      "percentage": 7,
+      "hex": " #4C4636"
+    },
+    {
+      "percentage": 7,
+      "hex": " #29251A"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DBD1B6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BDB59A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A19A81",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8A7958",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #685B41",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4C4636",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #29251A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DBD1B6",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "View of Batavia"
+  ],
+  "description": "Gezicht op Batavia met de bergketen van de Salak, Pangerango en Gede. Gezien vanaf het water, met schepen van de Nederlandse vloot op de rede.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick Jacobsz. Dubbels",
+      "unFixedName": "Dubbels, Hendrick Jacobsz.",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1621-05-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1707-10-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Hendrick Jacobsz. Dubbels (02-mei-1621 - 20-okt-1707)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick Jacobsz. Dubbels",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1910-11-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1640 - 1676",
+    "sortingDate": 1640,
+    "period": 17,
+    "yearEarly": 1640,
+    "yearLate": 1676
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I12(+1)",
+      "46C24",
+      "46C222"
+    ],
+    "iconClassDescription": [
+      "prospect of city, town panorama, silhouette of city (+ city(-scape) with figures, staffage)",
+      "sailing-ship, sailing-boat",
+      "ship in the roads, roadstead"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Batavia",
+      "Kasteel Batavia"
+    ],
+    "people": [
+      "Verenigde Oostindische Compagnie"
+    ],
+    "objectNumbers": [
+      "SK-A-2513"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Verenigde Oostindische Compagnie"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "C. Scott, Cultural diplomacy and the heritage of empire. Negotiating post-colonial returns, Londen en New York 2020, p. 4, fig. 1.1.",
+    "L. Panhuysen, 'Ontziet uw vijanden niet, God is met ons', Historisch Nieuwsblad (2010) nr. 10, p. 36",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick Jacobsz. Dubbels",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "65.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "14.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "View of Batavia, Hendrick Jacobsz. Dubbels, 1640 - 1676",
+  "subTitle": "h 65.5cm \u00d7 w 84cm \u00d7 d 9cm \u00d7 w 14.8kg",
+  "scLabelLine": "Hendrick Jacobsz. Dubbels, 1640 - 1676, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

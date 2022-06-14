@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-H-1064",
+  "priref": "125334",
+  "objectNumber": "RP-P-H-H-1064",
+  "language": "en",
+  "title": "Portret van Maximiliaan I als de heilige Joris",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Maximiliaan I als de heilige Joris"
+  ],
+  "description": "Portret van Romeinse keizer Maximiliaan I en profil naar rechts, door kenmerkende attributen en nimbus afgebeeld als de heilige Joris.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Daniel Hopfer (I)",
+      "unFixedName": "Hopfer, Daniel (I)",
+      "placeOfBirth": "Kaufbeuren",
+      "dateOfBirth": "1470",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1536",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Daniel Hopfer (I) (1470 - 1536)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Daniel Hopfer (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1493 - 1536",
+    "sortingDate": 1493,
+    "period": 15,
+    "yearEarly": 1493,
+    "yearLate": 1536
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "11H(GEORGE)",
+      "11P3111"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "pope"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Maximianus (keizer van het Romeinse Rijk)"
+    ],
+    "objectNumbers": [
+      "RP-P-H-H-1064"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Maximianus (keizer van het Romeinse Rijk)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Metzger 55",
+    "55",
+    "Hollstein German 88",
+    "88"
+  ],
+  "principalOrFirstMaker": "Daniel Hopfer (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "225"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "156"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Maximiliaan I als de heilige Joris, Daniel Hopfer (I), 1493 - 1536",
+  "subTitle": "h 225mm \u00d7 w 156mm",
+  "scLabelLine": "Daniel Hopfer (I), 1493 - 1536, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

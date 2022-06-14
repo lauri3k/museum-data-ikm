@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1971-259-C",
+  "priref": "355582",
+  "objectNumber": "BK-1971-259-C",
+  "language": "en",
+  "title": "Beeldhouwwerkmodel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "388937a9-a8c5-4c6e-9eb9-b91b0162a011",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1922,
+    "url": "https://lh3.googleusercontent.com/BR1PCI_0e-RaV7bsGxVGIFE-wnGHGpW564wVgD4ugKrkwjqpUhPXpJ4NVx_4jitu4zcQc5SfcCQhyzFULtPZXbDPD0mkjVzdZZA94N9Y=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Beeldhouwwerkmodel"
+  ],
+  "description": "Beeldhouwwerkmodel: snijwerk, proefmodel of voorbeeld van een gestrikt lint dat enkele takken bijeenhoudt. Snijwerk van lindenhout, op grenen plank.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1971-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "linden",
+    "pine (wood)"
+  ],
+  "techniques": [
+    "cutting",
+    "gluing"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1800 - 1900",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1971-259-C"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "37"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "57.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cutting",
+  "longTitle": "Beeldhouwwerkmodel, anonymous, 1800 - 1900",
+  "subTitle": "h 37cm \u00d7 w 57.5cm \u00d7 d 4cm",
+  "scLabelLine": "anonymous, 1800 - 1900, cutting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

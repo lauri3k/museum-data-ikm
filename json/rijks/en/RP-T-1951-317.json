@@ -1,0 +1,220 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1951-317",
+  "priref": "50053",
+  "objectNumber": "RP-T-1951-317",
+  "language": "en",
+  "title": "Johannes de Doper met het lam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "56e3090d-f74f-451b-8480-94bebfd8fbd4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2022,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/x5e53hWEUh9-hW7sNRki3a3D_8VEw2ghcN9bW9qQBNQaaDFGrM7vfnOho6rgoRz5hx0WzD46Wp0TDYQSc3WBzIvJZjw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#FAF9EF"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EEE8D3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #D9CEB7"
+    },
+    {
+      "percentage": 66,
+      "hex": " #C0AB92"
+    },
+    {
+      "percentage": 12,
+      "hex": " #9D9383"
+    },
+    {
+      "percentage": 3,
+      "hex": " #95795C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FAF9EF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EEE8D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D9CEB7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C0AB92",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9D9383",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #95795C",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 69,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 66,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper met het lam"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1951-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1500 - 1549",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1549
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1951-317"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "180"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "146"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Johannes de Doper met het lam, anonymous, 1500 - 1549",
+  "subTitle": "h 180mm \u00d7 w 146mm",
+  "scLabelLine": "anonymous, 1500 - 1549, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

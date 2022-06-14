@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-00-2069",
+  "priref": "242605",
+  "objectNumber": "RP-T-00-2069",
+  "language": "en",
+  "title": "Seated Female Nude, Resting her Head in her Hand",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "794d74dd-cb2a-4ca4-a40d-229dfc827a0f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1641,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/ZLrl3UWr-GLnmtnlEvm9VBW2YXbWc9ll9TjrJDINuDu8EVSLIzsb_eiY5Yge2JdSqYju86Lcmja7Re_CuVD6VGyORMU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#858982"
+    },
+    {
+      "percentage": 28,
+      "hex": " #A0A192"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B6B9AE"
+    },
+    {
+      "percentage": 14,
+      "hex": " #6F6F67"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D4CBAB"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4F504B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #ECE4C2"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#858982",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A0A192",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B6B9AE",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #6F6F67",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D4CBAB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4F504B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #ECE4C2",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 28,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean Grandjean",
+      "unFixedName": "Grandjean, Jean",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1752",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1781",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jean Grandjean (1752 - 1781)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Grandjean",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1776",
+    "sortingDate": 1776,
+    "period": 18,
+    "yearEarly": 1776,
+    "yearLate": 1776
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-00-2069"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean Grandjean",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "474"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "307"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Seated Female Nude, Resting her Head in her Hand, Jean Grandjean, 1776",
+  "subTitle": "h 474mm \u00d7 w 307mm",
+  "scLabelLine": "Jean Grandjean (1752-1781), black and white chalk, on blue paper, 1776",
+  "label": {
+    "title": "Seated Female Nude, Resting her Head in her Hand",
+    "makerLine": "Jean Grandjean (1752-1781), black and white chalk, on blue paper, 1776",
+    "description": "In these studies Grandjean strictly followed the prevailing guidelines for drawing a model. For instance, he used black and white chalk on blue paper to achieve finer tonal nuances. And, he situated his models in an imaginary setting. With their athletic build and theatrical bearing, these two nude models resemble ancient sculptures.",
+    "notes": null,
+    "date": "2018-10-31"
+  },
+  "showImage": true,
+  "location": null
+}

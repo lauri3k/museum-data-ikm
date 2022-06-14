@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1936-503",
+  "priref": "141531",
+  "objectNumber": "RP-P-1936-503",
+  "language": "en",
+  "title": "Christus met de doornenkroon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5644ad2f-ae42-4217-b44f-d39ab9213b99",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3512,
+    "height": 4864,
+    "url": "https://lh5.ggpht.com/VdIQx6D2meD5A7vOrd-6ZBHe6zvMVTquyoPyPBjParyv5B37pwSzFAXSgg2qRNYwoDCBJiWnowU73neX7lmJEE2yDug=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#F2EDDF"
+    },
+    {
+      "percentage": 20,
+      "hex": " #DCD4BD"
+    },
+    {
+      "percentage": 9,
+      "hex": " #BDB6A2"
+    },
+    {
+      "percentage": 13,
+      "hex": " #938F7F"
+    },
+    {
+      "percentage": 18,
+      "hex": " #666456"
+    },
+    {
+      "percentage": 29,
+      "hex": " #37382F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2EDDF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DCD4BD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BDB6A2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #938F7F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #666456",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #37382F",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 29,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 28,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Christus met de doornenkroon"
+  ],
+  "description": "Christus met de doornenkroon, gedeeltelijk gehuld in de purperen mantel van een soldaat. In zijn hand houdt hij een rietstengel. Naast Christus staat een man met een afgebroken rietstengel, op de achtergrond kijkt een groep soldaten toe.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Lois",
+      "unFixedName": "Lois, Jacob",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1676-08-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rotterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Lois (.... - 31-aug-1676)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Lois",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1936-01-01T00:00:00",
+    "creditLine": "F.G. Waller Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1643",
+    "sortingDate": 1643,
+    "period": 17,
+    "yearEarly": 1643,
+    "yearLate": 1643
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1936-503"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 5",
+    "5",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Jacob Lois",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "74"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Christus met de doornenkroon, Jacob Lois, 1643",
+  "subTitle": "h 103mm \u00d7 w 74mm",
+  "scLabelLine": "Jacob Lois, 1643, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

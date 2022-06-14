@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-744",
+  "priref": "1345",
+  "objectNumber": "AK-MAK-744",
+  "language": "en",
+  "title": "Tea caddy with a green brown glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f8542e95-a094-4e32-8f99-d3063601fe55",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/Cj2osze927WxYfe-AY9LnCdit7Z8640d6lV4-ooyjZRKaJ45nFmdCm-QvP-atH8uvdIC3LiUCum8Fck3KC8uWQ7C_vs=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#EDE7D9"
+    },
+    {
+      "percentage": 71,
+      "hex": " #D0CCC4"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B1ABA1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #8B8072"
+    },
+    {
+      "percentage": 3,
+      "hex": " #201B16"
+    },
+    {
+      "percentage": 11,
+      "hex": " #54493D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDE7D9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D0CCC4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B1ABA1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8B8072",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #201B16",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #54493D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 71,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 71,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Tea caddy with a green brown glaze"
+  ],
+  "description": "Stoftheebus of chaire van steengoed met een ivoren deksel, gedeeltelijk bedekt met een groenbruin glazuur. Het onderste deel van de bus is ongeglazuurd. Oud label aan de binnenzijde met 'Karatsu/ 18e'; oud label op de onderzijde met 'W587'. Karatsu.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze",
+    "ivory"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1700 - c. 1799",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-744"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.8"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3.7"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "1.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Tea caddy with a green brown glaze, anonymous, c. 1700 - c. 1799",
+  "subTitle": "h 7.8cm",
+  "scLabelLine": "anonymous, c. 1700 - c. 1799, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

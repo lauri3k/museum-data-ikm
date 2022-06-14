@@ -1,0 +1,231 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-882",
+  "priref": "6613",
+  "objectNumber": "SK-A-882",
+  "language": "en",
+  "title": "Portrait of William V, Prince of Orange-Nassau",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e9c52aa0-96ad-49fa-8044-954ab6a84c8f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2097,
+    "height": 2634,
+    "url": "https://lh3.googleusercontent.com/N9hI4IzBDCM0tj_PC1lZkw0I1llKuEskE_AO-BvMMg-_niZRtfuolxhkpQ2aEVsgPTKSl7q_mjKsKyQHLlC5lGUbeQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#212117"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C6A565"
+    },
+    {
+      "percentage": 72,
+      "hex": " #423D26"
+    },
+    {
+      "percentage": 6,
+      "hex": " #786439"
+    },
+    {
+      "percentage": 2,
+      "hex": " #854428"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A3884C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#212117",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #C6A565",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #423D26",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #786439",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #854428",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A3884C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DEB887"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Portrait of William V, Prince of Orange-Nassau"
+  ],
+  "description": "Portret van Willem V (1748-1806), prins van Oranje-Nassau. Ten halven lijve, staand, de rechterhand op een staf.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Georg Ziesenis",
+      "unFixedName": "Ziesenis, Johann Georg",
+      "placeOfBirth": "Kopenhagen",
+      "dateOfBirth": "1716",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1776-03-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Hannover",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johann Georg Ziesenis (1716 - 04-mrt-1776)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Georg Ziesenis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1763 - 1776",
+    "sortingDate": 1763,
+    "period": 18,
+    "yearEarly": 1763,
+    "yearLate": 1776
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-882"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Georg Ziesenis",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "92"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "71"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "5.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of William V, Prince of Orange-Nassau, Johann Georg Ziesenis, 1763 - 1776",
+  "subTitle": "h 92cm \u00d7 w 71cm \u00d7 d 5.3cm",
+  "scLabelLine": "Johann Georg Ziesenis, 1763 - 1776, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

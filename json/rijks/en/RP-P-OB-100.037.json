@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-100.037",
+  "priref": "118365",
+  "objectNumber": "RP-P-OB-100.037",
+  "language": "en",
+  "title": "Drie rokende mannen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "39af26a0-c9cf-42e2-a04c-68c573e52ef3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1848,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Pu0g-3BVuEkwWN3Ib298jDToESA2AP5Bdiojov-guqsgjulpBpsV9tCj0tjLLtJKb-oNNPE-89cT-12j64qRjPdRYO5UY3l6lRiwomHtQw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Drie rokende mannen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Ryland & Bryer",
+      "unFixedName": "Ryland & Bryer",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ryland & Bryer, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1749 - 1783",
+    "sortingDate": 1749,
+    "period": 18,
+    "yearEarly": 1749,
+    "yearLate": 1783
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "41C741",
+      "43B31"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "pipe ~ tobacco",
+      "inn, coffee-house, public house, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-100.037"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "153"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Drie rokende mannen, Valentine Green, 1749 - 1783",
+  "subTitle": "h 153mm \u00d7 w 113mm",
+  "scLabelLine": "Valentine Green, 1749 - 1783, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

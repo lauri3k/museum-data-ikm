@@ -1,0 +1,303 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1991-648",
+  "priref": "446784",
+  "objectNumber": "RP-P-1991-648",
+  "language": "en",
+  "title": "Standing Lord in Blue Over-Kimono",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d27bd789-b905-4cbb-a415-f8b0bb8e9628",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2345,
+    "height": 2640,
+    "url": "https://lh4.ggpht.com/5sZYSIRvffVZ9JVpTNwy8yc14Dznlibce6N2QAt-0j2eStVZDrqBOoWJv0woqeUROo_lSQBXpcKEBCtXr8W1eCHSWno=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#DFD5C0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A8A495"
+    },
+    {
+      "percentage": 10,
+      "hex": " #AA876F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #82715E"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C8BEA9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF4DD"
+    },
+    {
+      "percentage": 0,
+      "hex": " #595348"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DFD5C0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A8A495",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AA876F",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #82715E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C8BEA9",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #FDF4DD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #595348",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 25,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F49B7A"
+    }
+  ],
+  "titles": [
+    "Standing Lord in Blue Over-Kimono"
+  ],
+  "description": "Ichikawa Danj\u00fbr\u00f4 (1791-1859) in een onbekende rol, gekleed in formele hofkleding, leunt op een zwaard. Met drie gedichten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Bunritsuen Bikkokoto",
+      "unFixedName": "Bikkokoto, Bunritsuen",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bunritsuen Bikkokoto, Japan"
+    },
+    {
+      "name": "Bunsaisha Fudemaru",
+      "unFixedName": "Fudemaru, Bunsaisha",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bunsaisha Fudemaru, Japan"
+    },
+    {
+      "name": "Sh\u00f4f\u00fbdai",
+      "unFixedName": "Sh\u00f4f\u00fbdai",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Sh\u00f4f\u00fbdai, Japan"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Utagawa Kunisada (I)",
+      "unFixedName": "Kunisada, Utagawa (I)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1786",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1865",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Utagawa Kunisada (I) (1786 - 1865), Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Utagawa Kunisada (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1991-01-01T00:00:00",
+    "creditLine": "Gift of J.H.W. Goslings, Epse"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "color woodcut"
+  ],
+  "productionPlaces": [
+    "Japan",
+    "Japan",
+    "Japan",
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1825 - c. 1830",
+    "sortingDate": 1825,
+    "period": 19,
+    "yearEarly": 1825,
+    "yearLate": 1830
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C8312",
+      "45C13(SWORD)"
+    ],
+    "iconClassDescription": [
+      "portrait of actor, actress",
+      "hacking and thrusting weapons: sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1991-648"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Forrer 555",
+    "555",
+    "Goslings 58",
+    "58"
+  ],
+  "principalOrFirstMaker": "Utagawa Kunisada (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "206"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "183"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "nishikie, with metallic pigments",
+  "longTitle": "Standing Lord in Blue Over-Kimono, Utagawa Kunisada (I), c. 1825 - c. 1830",
+  "subTitle": "h 206mm \u00d7 w 183mm",
+  "scLabelLine": "Utagawa Kunisada (I), c. 1825 - c. 1830, nishikie, with metallic pigments",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

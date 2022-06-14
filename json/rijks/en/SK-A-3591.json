@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3591",
+  "priref": "8801",
+  "objectNumber": "SK-A-3591",
+  "language": "en",
+  "title": "Two Young Women in the Snow",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cb984a39-fa8f-432e-956e-b49943082c2e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1406,
+    "height": 2670,
+    "url": "https://lh3.googleusercontent.com/7o4HgpVo9NRRjttFeFBM_2cmJh6Y2lwrHQ3kOgsCc7ecgwynB5omfQwLvOHPv_dAhJqzBrPgob7rlf6j9_f6nUgNFSNe=s0"
+  },
+  "colors": [
+    {
+      "percentage": 34,
+      "hex": "#937657"
+    },
+    {
+      "percentage": 25,
+      "hex": " #725F46"
+    },
+    {
+      "percentage": 19,
+      "hex": " #5A402E"
+    },
+    {
+      "percentage": 8,
+      "hex": " #AF9F81"
+    },
+    {
+      "percentage": 6,
+      "hex": " #DDCCAE"
+    },
+    {
+      "percentage": 5,
+      "hex": " #322F24"
+    },
+    {
+      "percentage": 0,
+      "hex": " #994D34"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#937657",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #725F46",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #5A402E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #AF9F81",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DDCCAE",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #322F24",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #994D34",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 79,
+      "hex": "#B35A1F"
+    },
+    {
+      "percentage": 14,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Two Girls in the Snow"
+  ],
+  "description": "Twee meisjes in de sneeuw. Staande, ten voeten uit, met lange schorten en sjaals om het hoofd.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Isaac Israels",
+      "unFixedName": "Israels, Isaac",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1865-02-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1934-10-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isaac Israels (03-feb-1865 - 07-okt-1934)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Isaac Israels",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1944-01-01T00:00:00",
+    "creditLine": "Mr and Mrs Drucker-Fraser Bequest, Montreux"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1890 - c. 1894",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1894
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D13",
+      "26D1"
+    ],
+    "iconClassDescription": [
+      "adolescent, young woman, maiden",
+      "snow"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3591"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Isaac Israels",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "65"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "36"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Two Young Women in the Snow, Isaac Israels, c. 1890 - c. 1894",
+  "subTitle": "h 65cm \u00d7 w 36cm",
+  "scLabelLine": "Isaac Israels (1865\u20131934), oil on panel, c. 1890\u20131894",
+  "label": {
+    "title": "Two Young Women in the Snow",
+    "makerLine": "Isaac Israels (1865\u20131934), oil on panel, c. 1890\u20131894",
+    "description": "An everday scene in Amsterdam in the winter: two warmly dressed factory workers or studio models. Israels painted them as if, during their break, they had briefly, hesitatingly, stopped before him. However, appearances can be deceptive. The pose of both women is carefully considered, and the black and red passages of their shawls and coats are contrasted to create a well-balanced composition, despite looking like the record of a fleeting moment.",
+    "notes": null,
+    "date": "2013-02-04"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

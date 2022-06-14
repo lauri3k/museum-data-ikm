@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-3269",
+  "priref": "229417",
+  "objectNumber": "RP-P-1914-3269",
+  "language": "en",
+  "title": "Portret van Maximilian Johann Franz Graf von Preysing",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4a7350d7-d881-4329-8857-83a9790270e3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1745,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/YcfvyYBRCydRM5gPibjoz4W8DIw5BLtB5OguDsNoEpKKRu3JmxWIc0UJlBUEyKuVCzev-j31wqK5x30jfc1uYvMYXMVNU4x89jrovxjp=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Maximilian Johann Franz Graf von Preysing"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Joseph Peter Paul Rauschmayr",
+      "unFixedName": "Rauschmayr, Joseph Peter Paul",
+      "placeOfBirth": "M\u00fcnchen",
+      "dateOfBirth": "1758",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1815",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Peter Paul Rauschmayr (1758 - 1815)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joseph Peter Paul Rauschmayr",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1768 - 1815",
+    "sortingDate": 1768,
+    "period": 18,
+    "yearEarly": 1768,
+    "yearLate": 1815
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "49M32",
+      "46A1241(RED EAGLE ORDER)",
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "book",
+      "knighthood order (RED EAGLE ORDER)",
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Preysing, Maximilian Johann Franz Graf von"
+    ],
+    "objectNumbers": [
+      "RP-P-1914-3269"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Preysing, Maximilian Johann Franz Graf von"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joseph Peter Paul Rauschmayr",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "363"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Maximilian Johann Franz Graf von Preysing, Joseph Peter Paul Rauschmayr, 1768 - 1815",
+  "subTitle": "h 363mm \u00d7 w 249mm",
+  "scLabelLine": "Joseph Peter Paul Rauschmayr, 1768 - 1815, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

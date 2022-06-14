@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2019-3913",
+  "priref": "745609",
+  "objectNumber": "RP-P-2019-3913",
+  "language": "en",
+  "title": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Stadsbestuur Amsterdam",
+      "unFixedName": "Stadsbestuur Amsterdam",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Stadsbestuur Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter Schenk (I)",
+      "unFixedName": "Schenk, Pieter (I)",
+      "placeOfBirth": "Elberfeld",
+      "dateOfBirth": "1660-12-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Leipzig",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Schenk (I) (26-dec-1660 - c. 1711)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Schenk (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2019-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1670 - 1711",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1711
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45C22",
+      "45C212",
+      "25I"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "armour",
+      "baton of general",
+      "stadsgezichten en landschappen met bouwsels van mensen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-2019-3913"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Van Someren 4402",
+    "4402",
+    "Hollstein Dutch 853",
+    "853",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Pieter Schenk (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "248"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "182"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone, Pieter Schenk (I), 1670 - 1711",
+  "subTitle": "h 248mm \u00d7 w 182mm",
+  "scLabelLine": "Pieter Schenk (I), 1670 - 1711, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

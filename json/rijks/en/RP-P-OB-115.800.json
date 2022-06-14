@@ -1,0 +1,175 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-115.800",
+  "priref": "100316",
+  "objectNumber": "RP-P-OB-115.800",
+  "language": "en",
+  "title": "Doornenkroon en rietstok, gedragen door een engel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e811051f-5d29-4ae0-8170-4e35f49d377c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1569,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/RGWOgg9PRdB9wRBzMc9oP-iSwhKm-OdJU-iX58xGSiz_4uRZo99nJA4s34ufYIFkX30iNVPDVq98eMrdkqKfVBHauXp4nFTaCtf5l0rE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroon en rietstok, gedragen door een engel",
+    "De passiewerktuigen",
+    "Emblemata Sacra Passionis Salvatoris nostri Jesu Christi"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Lencker",
+      "unFixedName": "Lencker, Johannes",
+      "placeOfBirth": null,
+      "dateOfBirth": "1573",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "jeweler"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Johannes Lencker (c. 1573 - 1637), Augsburg"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Raphael Custos",
+      "unFixedName": "Custos, Raphael",
+      "placeOfBirth": "Augsburg",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1664-05-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Raphael Custos (c. 1590 - 11-mei-1664), Augsburg"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Raphael Custos",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Augsburg",
+    "Augsburg",
+    "? Augsburg"
+  ],
+  "dating": {
+    "presentingDate": "1620",
+    "sortingDate": 1620,
+    "period": 17,
+    "yearEarly": 1620,
+    "yearLate": 1620
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D81",
+      "73D82(CROWN OF THORNS)",
+      "73D82(REED)"
+    ],
+    "iconClassDescription": [
+      "'Arma Christi'",
+      "crown of thorns ~ instruments of the Passion",
+      "reed ~ instruments of the Passion"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-115.800"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein German 4",
+    "4",
+    "LeBlanc 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "Raphael Custos",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "106"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroon en rietstok, gedragen door een engel, Raphael Custos, 1620",
+  "subTitle": "h 170mm \u00d7 w 106mm",
+  "scLabelLine": "Raphael Custos, 1620, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

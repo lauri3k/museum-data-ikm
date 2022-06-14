@@ -1,0 +1,286 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-77.338A",
+  "priref": "359229",
+  "objectNumber": "RP-P-OB-77.338A",
+  "language": "en",
+  "title": "Gezicht op het beleg van Namen (linkerhelft), 1695",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5808d683-9a26-4a01-ad29-321c3a04002b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2057,
+    "url": "https://lh3.ggpht.com/Je583pF2PJqPAfgzy805UO-4GV4UDVBhi32vrtEC354Q_M6wdWSYIuAlbUgNwp2ALOfiosa0KWbVMJEW64BnqZbT-xE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#090F0A"
+    },
+    {
+      "percentage": 6,
+      "hex": " #252C26"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8A8D82"
+    },
+    {
+      "percentage": 9,
+      "hex": " #555C53"
+    },
+    {
+      "percentage": 21,
+      "hex": " #BFBDAC"
+    },
+    {
+      "percentage": 51,
+      "hex": " #EFEAD1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#090F0A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #252C26",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8A8D82",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #555C53",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #BFBDAC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EFEAD1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 21,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 15,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Gezicht op het beleg van Namen (linkerhelft), 1695",
+    "Veue en Perspective de la Ville et Citadelle de Namur avecq tous les forts Circonvoisins de la maniere qu'ils ont este' assiegez et emportes le pr. de Septembre 1695 par l'arme\u00eb des Alliez Commande\u00eb par les Tres Ser.mes. Princes Guillaume III (...) et Maximilian Emanuel Ducq et Electeur de Baviere"
+  ],
+  "description": "Linkerhelft van een grote voorstelling in twee delen van het beleg van Namen in 1695 door de Geallieerden onder koning Willem III en de keurvorst van Beieren. Op de voorgrond links de bevelhebbers voor een legertent. In het onderschrift de opdracht en de legenda A-Z en 1-23 in het Frans. Zie voor het rechterdeel met Engelse titel de prent met objectnummer RP-P-OB-77.338B.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Godard baron van Reede-Ginckel (graaf van Athlone)",
+      "unFixedName": "Reede-Ginckel, Godard baron van (graaf van Athlone)",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1630",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1703-02-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Godard baron van Reede-Ginckel (graaf van Athlone) (1630 - 11-feb-1703)"
+    },
+    {
+      "name": "Constantin Francken",
+      "unFixedName": "Francken, Constantin",
+      "placeOfBirth": null,
+      "dateOfBirth": "1661",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1717",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Constantin Francken (1661 - 1717)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bernard Picart",
+      "unFixedName": "Picart, Bernard",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1673-06-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1733-05-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bernard Picart (11-jun-1673 - 08-mei-1733), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bernard Picart",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1697",
+    "sortingDate": 1697,
+    "period": 17,
+    "yearEarly": 1697,
+    "yearLate": 1697
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45K"
+    ],
+    "iconClassDescription": [
+      "beleg, stellingoorlog"
+    ],
+    "motifs": [],
+    "events": [
+      "Beleg en verovering van Namen (1695)"
+    ],
+    "periods": [
+      "16951695"
+    ],
+    "places": [
+      "Namen (stad)"
+    ],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)",
+      "Maximiliaan II Emanuel (keurvorst van Beieren)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-77.338A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)",
+    "Maximiliaan II Emanuel (keurvorst van Beieren)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 446, nr. 2922."
+  ],
+  "catRefRPK": [
+    "FMH 2922",
+    "2922"
+  ],
+  "principalOrFirstMaker": "Bernard Picart",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "528"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "788"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op het beleg van Namen (linkerhelft), 1695, Bernard Picart, 1697",
+  "subTitle": "h 528mm \u00d7 w 788mm",
+  "scLabelLine": "Bernard Picart, 1697, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

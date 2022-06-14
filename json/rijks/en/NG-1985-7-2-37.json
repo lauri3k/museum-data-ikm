@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1985-7-2-37",
+  "priref": "170641",
+  "objectNumber": "NG-1985-7-2-37",
+  "language": "en",
+  "title": "Schepen voor anker",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "365b3115-0327-4b2c-9d1b-3a39f00cd1a5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2489,
+    "height": 2898,
+    "url": "https://lh3.googleusercontent.com/hNgexuEdzKv47Gb6U86n93PYllgpekThOXHCTkO8nZs-8SsMlvmkWM-Sr2LIi6SokjIE5v_4L2rLt-wEQUSCMdhwT-I=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#F6F6EA"
+    },
+    {
+      "percentage": 2,
+      "hex": " #705E3E"
+    },
+    {
+      "percentage": 11,
+      "hex": " #968C6C"
+    },
+    {
+      "percentage": 19,
+      "hex": " #DEDEC8"
+    },
+    {
+      "percentage": 1,
+      "hex": " #45321E"
+    },
+    {
+      "percentage": 63,
+      "hex": " #C7C0A0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F6EA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #705E3E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #968C6C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DEDEC8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #45321E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #C7C0A0",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 19,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 75,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Schepen voor anker"
+  ],
+  "description": "Zwartwittekening van een aantal grotere schepen voor anker en twee varende schuiten, wellicht op de rede van Texel. Onderdeel uit het schetsboek van Jan Brandes, dl. 2 (1808), p. 54.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Brandes",
+      "unFixedName": "Brandes, Jan",
+      "placeOfBirth": "Bodegraven",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1808",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Sk\u00e4lsebo",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Brandes (1743 - 1808)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Brandes",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1985-05-02T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil",
+    "ink"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1779 - 1787",
+    "sortingDate": 1779,
+    "period": 18,
+    "yearEarly": 1779,
+    "yearLate": 1787
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "NG-1985-7-2-37"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Brandes",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "195"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Schepen voor anker, Jan Brandes, 1779 - 1787",
+  "subTitle": "h 195mm \u00d7 w 155mm",
+  "scLabelLine": "Jan Brandes, 1779 - 1787, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

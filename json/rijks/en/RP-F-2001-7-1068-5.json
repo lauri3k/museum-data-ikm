@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1068-5",
+  "priref": "663629",
+  "objectNumber": "RP-F-2001-7-1068-5",
+  "language": "en",
+  "title": "Gezicht op Red Farm in Wrentham",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4d0e2a27-e961-4d2f-9947-9b898ca2fa12",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1629,
+    "url": "https://lh3.googleusercontent.com/DFGPP9pF0Up0D8UV9s78lzyvfEn9uqEo6q7n7VzMyJGNZETaEYT1o7ES_N9BT_cEqm3VbCMNN0NT1jpfjyF5dipPJQ4qI8raHx5PrKw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Red Farm in Wrentham",
+    "Red Farm, Wrentham"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1888 - in or before 1899",
+    "sortingDate": 1888,
+    "period": 19,
+    "yearEarly": 1888,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A17"
+    ],
+    "iconClassDescription": [
+      "farm (building)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1068-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "35"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Gezicht op Red Farm in Wrentham, anonymous, c. 1888 - in or before 1899",
+  "subTitle": "h 35mm \u00d7 w 60mm",
+  "scLabelLine": "anonymous, c. 1888 - in or before 1899, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

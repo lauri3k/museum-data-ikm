@@ -1,0 +1,174 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-2009",
+  "priref": "108083",
+  "objectNumber": "RP-P-1904-2009",
+  "language": "en",
+  "title": "De heldhaftige dood van Jan van Schaffelaar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b4ae12e0-182b-4807-85d1-e31855482e15",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1716,
+    "url": "https://lh3.googleusercontent.com/fnYV0LMTgqS_XuxKJ_DJvKruprmUUn8SxQeT_cW473q2O1h27rmZ79wUlgxlM8ZhODVQKHdnga_hTKGz0Vm64gWhq40=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De heldhaftige dood van Jan van Schaffelaar",
+    "Jan van Schaffelaar",
+    "La mort h\u00e9ro\u00efque de J. van Schaffelaar"
+  ],
+  "description": "Jan van Schaffelaar staat op het punt om uit het raam te springen van een toren, de huidige Oude Kerk in Barneveld. Hij was de aanvoerder van de Kabeljauwen die de toren hadden ingenomen. Toen de Hoeken de toren omsingelden eisten zij dat Van Schaffelaar naar buiten zou worden gegooid. Toen zijn mannen weigerden hem op te offeren besloot Van Schaffelaar zelf te springen om zo de levens van zijn mannen te redden. Rechtsboven: Pantheon Pl. XXIIII.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Soetens & Fils",
+      "unFixedName": "Soetens & Fils",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Soetens & Fils, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Isaac Cornelis Elink Sterk",
+      "unFixedName": "Elink Sterk, Isaac Cornelis",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1808",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1871-06-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isaac Cornelis Elink Sterk (1808 - 15-jun-1871), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Isaac Cornelis Elink Sterk",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-05-10T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague",
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1818 - 1871",
+    "sortingDate": 1818,
+    "period": 19,
+    "yearEarly": 1818,
+    "yearLate": 1871
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31E2381"
+    ],
+    "iconClassDescription": [
+      "self-sacrifice, death in the service of a higher purpose"
+    ],
+    "motifs": [],
+    "events": [
+      "Hoekse en Kabeljauwse twisten"
+    ],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Schaffelaar, Jan van"
+    ],
+    "objectNumbers": [
+      "RP-P-1904-2009"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Schaffelaar, Jan van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 332",
+    "332"
+  ],
+  "principalOrFirstMaker": "Isaac Cornelis Elink Sterk",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": null
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "De heldhaftige dood van Jan van Schaffelaar, Isaac Cornelis Elink Sterk, 1818 - 1871",
+  "subTitle": "h mm \u00d7 w mm",
+  "scLabelLine": "Isaac Cornelis Elink Sterk, 1818 - 1871, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

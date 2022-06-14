@@ -1,0 +1,276 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1909-4463",
+  "priref": "115061",
+  "objectNumber": "RP-P-1909-4463",
+  "language": "en",
+  "title": "Portret van Cesare Baronio",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b0578830-b6a1-49ad-8665-bb5d7794a584",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1559,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/8jOtflGeGP-dnJlzof2dWvYrSqUEs3jLByWAnVIAeZ6lwo440trtnVZtYHFEOtYB7jbC9CzD3C0O2qm4KvyU9VA4CA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 23,
+      "hex": "#DED5BF"
+    },
+    {
+      "percentage": 21,
+      "hex": " #5C5850"
+    },
+    {
+      "percentage": 14,
+      "hex": " #938E80"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B9B2A0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #757065"
+    },
+    {
+      "percentage": 8,
+      "hex": " #413F39"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F9F6ED"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DED5BF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5C5850",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #938E80",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B9B2A0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #757065",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #413F39",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F9F6ED",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Cesare Baronio"
+  ],
+  "description": "Kardinaal Baronius zit aan een tafel en schrijft met zijn rechterhand in een openliggend boek. Op zijn schrijftafel verscheidene religieuze voorwerpen. Een open raam geeft uitzicht op de SS Nereo ed Achillio te Rome",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Moretus (II)",
+      "unFixedName": "Moretus, Johannes (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1618",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Johannes Moretus (II) (.... - 1618), Antwerp"
+    },
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Philips Galle (1537 - 29-mrt-1612), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "attributed to workshop of",
+      "labelDesc": "attributed to workshop of Philips Galle (1537 - 29-mrt-1612), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philips Galle",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1610",
+    "sortingDate": 1610,
+    "period": 17,
+    "yearEarly": 1610,
+    "yearLate": 1610
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Rome"
+    ],
+    "people": [
+      "Baronio, Cesare"
+    ],
+    "objectNumbers": [
+      "RP-P-1909-4463"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Baronio, Cesare"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "J. De Landtsheer, e.a. (red.), Justus Lipsius (1547-1606): een geleerde en zijn europese netwerk,Leuven, 2006, p. 480"
+  ],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Philips Galle",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "193"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Cesare Baronio, Philips Galle (attributed to workshop of), 1610",
+  "subTitle": "h 193mm \u00d7 w 315mm",
+  "scLabelLine": "Philips Galle, 1610, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

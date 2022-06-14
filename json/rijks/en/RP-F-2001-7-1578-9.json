@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1578-9",
+  "priref": "711030",
+  "objectNumber": "RP-F-2001-7-1578-9",
+  "language": "en",
+  "title": "Twee gezichten op de universiteitsgebouwen van de universiteit van Glasgow",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "76b41c08-dc4a-4875-be4f-430d95a56e76",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1808,
+    "url": "https://lh3.googleusercontent.com/K211RpQq_C99ayeBzgzByObGY-zb0_RZ_Eo2mMlwJuRUnE64KlXgdN77Z_4Hi5F3pN1HiWaRxnm0DaUGHOkdCcW9E91oZo3w5ibsMMsX=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Twee gezichten op de universiteitsgebouwen van de universiteit van Glasgow",
+    "View from College Green, looking North East",
+    "View from College Green, looking South West"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "T. & R. Annan & Sons",
+      "unFixedName": "T. & R. Annan & Sons",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Glasgow"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object T. & R. Annan & Sons, Glasgow"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Glasgow"
+  ],
+  "dating": {
+    "presentingDate": "c. 1886 - in or before 1891",
+    "sortingDate": 1886,
+    "period": 19,
+    "yearEarly": 1886,
+    "yearLate": 1891
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49B4(+1)",
+      "41A51"
+    ],
+    "iconClassDescription": [
+      "university (+ building ~ education, tuition)",
+      "courtyard"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Glasgow"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1578-9"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "392"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "295"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Twee gezichten op de universiteitsgebouwen van de universiteit van Glasgow, anonymous, c. 1886 - in or before 1891",
+  "subTitle": "h 392mm \u00d7 w 295mm",
+  "scLabelLine": "anonymous, c. 1886 - in or before 1891, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

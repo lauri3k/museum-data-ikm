@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-VG-1-3969",
+  "priref": "63456",
+  "objectNumber": "NG-VG-1-3969",
+  "language": "en",
+  "title": "Erection of a statue for William of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d53c7c3d-859e-4087-946d-21814de60ae9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/jkDw8R7ZtgJ9PmrIzHtgvwqofUxitoTAVTInkedtV3vETn4uilxpY5lKl931X6NWz8UYW3-ko3Zy95AAbpfZ7A_q0A=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Zilveren penning. Voorzijde: standbeeld binnen omschrift. Keerzijde: opschrift binnen sierrand",
+  "labelText": null,
+  "objectTypes": [
+    "history medal"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Petrus Schouberg",
+      "unFixedName": "Schouberg, Johannes Petrus",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1798-01-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1864-01-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johannes Petrus Schouberg (10-jan-1798 - 06-jan-1864)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Petrus Schouberg",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "Gift of J.M. van Gelder-Nijhoff"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [
+    "striking (metalworking)"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1848",
+    "sortingDate": 1848,
+    "period": 19,
+    "yearEarly": 1848,
+    "yearLate": 1848
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18481848"
+    ],
+    "places": [
+      "Plein"
+    ],
+    "people": [
+      "Willem I (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "NG-VG-1-3969"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Petrus Schouberg",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "105.61"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "striking (metalworking)",
+  "longTitle": "Erection of a statue for William of Orange, Johannes Petrus Schouberg, 1848",
+  "subTitle": "d 6.5cm \u00d7 w 105.61gr",
+  "scLabelLine": "Johannes Petrus Schouberg (1798-1864), silver, 1848",
+  "label": {
+    "title": "Erection of a statue for William of Orange",
+    "makerLine": "Johannes Petrus Schouberg (1798-1864), silver, 1848",
+    "description": null,
+    "notes": null,
+    "date": "2018-05-04"
+  },
+  "showImage": true,
+  "location": "HG-1.14"
+}

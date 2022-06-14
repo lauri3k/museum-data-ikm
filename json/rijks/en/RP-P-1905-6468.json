@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-6468",
+  "priref": "175591",
+  "objectNumber": "RP-P-1905-6468",
+  "language": "en",
+  "title": "Heilige Johannes de Doper als kluizenaar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "29fae56e-544a-4ce8-a35e-53374d501b56",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1754,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/P66S167L2C6sN6xOz7VuM1G7UNuWg5Y8NFDnnvFP7z2UXOitSj8j1LU7NwsyWqDrV-RlnuBGHvcNESzJE1-KbNv3oISm=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Johannes de Doper als kluizenaar",
+    "S. Ioannes Baptista"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Jacobsz. Paets",
+      "unFixedName": "Paets, Pieter Jacobsz.",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1587",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1667",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Jacobsz. Paets (1587 - 1667), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Christoffel van Sichem (II)",
+      "unFixedName": "Sichem, Christoffel van (II)",
+      "placeOfBirth": "Bazel",
+      "dateOfBirth": "1581",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1658-07-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Christoffel van Sichem (II) (c. 1581 - 02-jul-1658), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Christoffel van Sichem (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1644",
+    "sortingDate": 1644,
+    "period": 17,
+    "yearEarly": 1644,
+    "yearLate": 1644
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "11Q331"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "anchorite, hermit"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1905-6468"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 39",
+    "39"
+  ],
+  "principalOrFirstMaker": "Christoffel van Sichem (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Heilige Johannes de Doper als kluizenaar, Christoffel van Sichem (II), 1644",
+  "subTitle": "h 152mm \u00d7 w 104mm",
+  "scLabelLine": "Christoffel van Sichem (II), 1644, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

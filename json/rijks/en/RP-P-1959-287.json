@@ -1,0 +1,155 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1959-287",
+  "priref": "188126",
+  "objectNumber": "RP-P-1959-287",
+  "language": "en",
+  "title": "Portret van Elizabeth I van Engeland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c09517e9-b060-4255-aac7-faf9f5f4f3d5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1978,
+    "url": "https://lh3.googleusercontent.com/I3qDABma-MQja3DAYaZ4D8sVa3-fhAbuZwpgl8lj4hz_rxvwJFuqwB1bk851rBij7kSHBS_KtHxuvMprKxKkrG4b2eWtxkp8fWnSvIUZWQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Elizabeth I van Engeland",
+    "The Lady Jane Grey",
+    "Portretten van de Tudors",
+    "Historical Portraitures"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "George Vertue",
+      "unFixedName": "Vertue, George",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1684",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1756-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Vertue (1684 - 24-jul-1756), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Vertue",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1748",
+    "sortingDate": 1748,
+    "period": 18,
+    "yearEarly": 1748,
+    "yearLate": 1748
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2",
+      "44B191",
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman",
+      "crown (symbol of sovereignty)",
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Elizabeth I Tudor (koningin van Engeland)",
+      "Grey, Lady Jane"
+    ],
+    "objectNumbers": [
+      "RP-P-1959-287"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Elizabeth I Tudor (koningin van Engeland)",
+    "Grey, Lady Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "David Alexander, George Vertue as an Engraver, Walpole Society 2008, cat. nr. 924."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Vertue",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "473"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "567"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Elizabeth I van Engeland, George Vertue, 1748",
+  "subTitle": "h 473mm \u00d7 w 567mm",
+  "scLabelLine": "George Vertue, 1748, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

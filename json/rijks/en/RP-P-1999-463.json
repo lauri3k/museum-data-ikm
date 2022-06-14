@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1999-463",
+  "priref": "359411",
+  "objectNumber": "RP-P-1999-463",
+  "language": "en",
+  "title": "Twee zilverreigers in vlucht",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a7503eb1-a4c0-4687-83d0-4ef79e33fa03",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1590,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/bob37JwOt17lfJKeMxzRKUqxC5f7RT8O4Q84LelwM513n2JeJxpliEHoQ4UzulRobRpW9ZMvlCRtolcP73AXLYG8z1iN=s0"
+  },
+  "colors": [
+    {
+      "percentage": 14,
+      "hex": "#F6F1D8"
+    },
+    {
+      "percentage": 5,
+      "hex": " #797567"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D8CFB5"
+    },
+    {
+      "percentage": 34,
+      "hex": " #9F9987"
+    },
+    {
+      "percentage": 2,
+      "hex": " #59564B"
+    },
+    {
+      "percentage": 37,
+      "hex": " #BAB4A0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F1D8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #797567",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D8CFB5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9F9987",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #59564B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BAB4A0",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Twee zilverreigers in vlucht"
+  ],
+  "description": "Twee witte reigers, vliegend naar links, boven water, bij riet.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Ohara Koson",
+      "unFixedName": "Koson, Ohara",
+      "placeOfBirth": "Kanazawa",
+      "dateOfBirth": "1877",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1945",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Tokyo",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ohara Koson (1877 - 1945), Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ohara Koson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1999-01-01T00:00:00",
+    "creditLine": "Gift of J. Perr\u00e9e, Eindhoven"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "color woodcut"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1900 - 1936",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1936
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F37(HERON)",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "shore-birds and wading-birds: heron",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1999-463"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ohara Koson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "345"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "187"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "color woodcut",
+  "longTitle": "Twee zilverreigers in vlucht, Ohara Koson, 1900 - 1936",
+  "subTitle": "h 345mm \u00d7 w 187mm",
+  "scLabelLine": "Ohara Koson, 1900 - 1936, color woodcut",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

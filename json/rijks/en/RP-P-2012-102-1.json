@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2012-102-1",
+  "priref": "515504",
+  "objectNumber": "RP-P-2012-102-1",
+  "language": "en",
+  "title": "Sam",
+  "copyrightHolder": "Stichting Erik Andriesse",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Sam"
+  ],
+  "description": "Met potloodlijnen getekende kop van een orang-oetan gecombineerd met een opeenvolging van getekende handen langs alle vier randen van het blad.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Marcel Kalksma",
+      "unFixedName": "Kalksma, Marcel",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Marcel Kalksma, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Erik Andriesse",
+      "unFixedName": "Andriesse, Erik",
+      "placeOfBirth": "Bussum",
+      "dateOfBirth": "1957-06-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1993-03-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Erik Andriesse (17-jun-1957 - 23-mrt-1993), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Erik Andriesse",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2012-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "printing ink"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1992",
+    "sortingDate": 1992,
+    "period": 20,
+    "yearEarly": 1992,
+    "yearLate": 1992
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F22(ORANG-UTAN)"
+    ],
+    "iconClassDescription": [
+      "monkeys, apes: orang-utan"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2012-102-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "A. Staartjes, 'De onzichtbare man', in: kM Grafische toepassingen, 1994.\nE. Hagoort, 'Op zoek naar de perfecte imperfectie', De Volkskrant, 10 dec. 1997.\nzie ook: www.handmadeprints.nl"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Erik Andriesse",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "650"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "500"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Sam, Erik Andriesse, 1992",
+  "subTitle": "h 650mm \u00d7 w 500mm",
+  "scLabelLine": "Erik Andriesse, 1992, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

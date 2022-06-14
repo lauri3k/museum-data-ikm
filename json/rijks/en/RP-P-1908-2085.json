@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-2085",
+  "priref": "387229",
+  "objectNumber": "RP-P-1908-2085",
+  "language": "en",
+  "title": "Gezicht op Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2f64ad09-4f1b-4699-9a55-6230da7d8657",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2154,
+    "url": "https://lh3.googleusercontent.com/-igUdtmigmFVttExnp7D7ONYfRS5zrooXec81owc4U-48_fcIol1cjfwgVNP-25v9AtGV7fl4gCExDK_URqmVxqdTTp4LRQrbdLxx3Iz=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Orange",
+    "Oranges"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650 - 1700",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45K14",
+      "25I"
+    ],
+    "iconClassDescription": [
+      "fortified city",
+      "stadsgezichten en landschappen met bouwsels van mensen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1908-2085"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "196"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "293"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Orange, anonymous, 1650 - 1700",
+  "subTitle": "h 196mm \u00d7 w 293mm",
+  "scLabelLine": "anonymous, 1650 - 1700, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

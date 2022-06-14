@@ -1,0 +1,259 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-BR-558",
+  "priref": "18483",
+  "objectNumber": "BK-BR-558",
+  "language": "en",
+  "title": "Pectoral cross",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ade63809-5a04-46ea-a35a-c9a0b39fd29d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2993,
+    "url": "https://lh6.ggpht.com/1upm29bBJjZdfCUOl-5H5Z90M7FeM_rfGcoRTSyuj30Xme7TmXxBZiIcF-ubAr_JMuvn2M7kprS7x_UJbhFrQSRtzGA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 71,
+      "hex": "#A9A698"
+    },
+    {
+      "percentage": 14,
+      "hex": " #5F5640"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E7DDB7"
+    },
+    {
+      "percentage": 3,
+      "hex": " #797876"
+    },
+    {
+      "percentage": 2,
+      "hex": " #9D8E5C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #281D0C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FCF9E4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A9A698",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #5F5640",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E7DDB7",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #797876",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9D8E5C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #281D0C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #FCF9E4",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 71,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 71,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Borstkruis van goud, bestaande uit een losse voor- en achterzijde met gegraveerde voorstellingen, respectievelijk met het leven van Maria en het lijden van Christus. De helften, gevormd als een doos en deksel zijn door middel van pinnen te verbinden. Aan de doos-helft zijn, in de inspringende hoeken, parels bevestigd. Langs de rand de inscriptie: ave m(a)r(i)a s(an)cte b(er)n(a)rde ora p(ro) nob(is) p(ate)r n(o)s(te)r bern(ar)d(us) schaph MCCCLXI.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Westphalia"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Westphalia"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1960-05-21T00:00:00",
+    "creditLine": "On loan from the Backer Stichting"
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)",
+    "pearl"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "? Westphalia"
+  ],
+  "dating": {
+    "presentingDate": "c. 1480",
+    "sortingDate": 1480,
+    "period": 15,
+    "yearEarly": 1480,
+    "yearLate": 1480
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D351",
+      "73D352",
+      "73D641",
+      "73D721",
+      "73D76",
+      "73E12"
+    ],
+    "iconClassDescription": [
+      "flagellation by soldiers, Christ usually tied to a column (Matthew 27:26; Mark 15:15; John 19:1)",
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)",
+      "crucified Christ with Mary and John on either side of the cross; Holy Rood",
+      "lamentation over the dead Christ by his relatives and friends (Christ usually without crown of thorns)",
+      "Christ's entombment (possibly by angels)",
+      "Christ, usually holding a banner, arises from the grave; often combined with sleeping and/or frightened soldiers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-BR-558"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "5.6"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "1.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Pectoral cross, anonymous, c. 1480",
+  "subTitle": "h 8.0cm \u00d7 w 5.6cm \u00d7 t 1.1cm",
+  "scLabelLine": "Westphalia?, c. 1480, gold, pearls",
+  "label": {
+    "title": "Pectoral cross",
+    "makerLine": "Westphalia?, c. 1480, gold, pearls",
+    "description": "This small precious cross probably belonged to a German priest. Later, in the 17th century, it became the property of an Amsterdam mayor, Gerard Schaep. On the basis of the name \u2018Bernd Schaph\u2019 inscribed on it, he mistakenly believed that it had something to do with a valuable\nobject inherited from one of his ancestors.",
+    "notes": null,
+    "date": "2013-07-24"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-860",
+  "priref": "230395",
+  "objectNumber": "RP-P-1910-860",
+  "language": "en",
+  "title": "Portret van Thomas de Grey",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Thomas de Grey"
+  ],
+  "description": "Een facsimile signatuur in de ondermarge. Geportretteerde ook bekend onder de naam: Thomas Philip Weddell Robinson, Lord Grantham.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Son & Co. Fisher",
+      "unFixedName": "Fisher, Son & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Son & Co. Fisher, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Henry Robinson",
+      "unFixedName": "Robinson, John Henry",
+      "placeOfBirth": "Bolton",
+      "dateOfBirth": "1796",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1871-10-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Petworth",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Henry Robinson (1796 - 21-okt-1871)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Henry Robinson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1832",
+    "sortingDate": 1832,
+    "period": 19,
+    "yearEarly": 1832,
+    "yearLate": 1832
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44C34"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "politician, e.g. party leader"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Thomas de (hertog)"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-860"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Grey, Thomas de (hertog)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Henry Robinson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "226"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Thomas de Grey, John Henry Robinson, 1832",
+  "subTitle": "h 226mm \u00d7 w 144mm",
+  "scLabelLine": "John Henry Robinson, 1832, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,215 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2012-24-26",
+  "priref": "514111",
+  "objectNumber": "RP-P-2012-24-26",
+  "language": "en",
+  "title": "Maarts viooltje en sinaasappel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b72cd787-abc8-4878-a634-3c5c0b9652de",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1598,
+    "url": "https://lh3.ggpht.com/R6HBcNfo5sCEF3aMZjnEpQFmfmYbaAyR5CgnWbLS_XeyYGCKgpGbXjF3QFxbP2MSdm6ir99JimAjsHTqNPn64E771uI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Maarts viooltje en sinaasappel",
+    "Cognoscite lilia"
+  ],
+  "description": "Maarts viooltje (Viola odorata) en sinaasappel (Citrus aurantiaca), genummerd 51 en 52.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": null,
+      "labelDesc": "Crispijn van de Passe (I) (1564 - 1637), Cologne"
+    },
+    {
+      "name": "Hans Woutneel",
+      "unFixedName": "Woutneel, Hans",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1608",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Hans Woutneel (.... - 1608), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Crispijn van de Passe (I) (1564 - 1637), Cologne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2011-01-01T00:00:00",
+    "creditLine": "Gift of H.B. van der Ven, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Cologne",
+    "Cologne",
+    "Cologne",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1600 - 1604",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1604
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G41(VIOLET)",
+      "49F1",
+      "25G21(ORANGE)"
+    ],
+    "iconClassDescription": [
+      "flowers: violet",
+      "botany",
+      "fruits: orange"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2012-24-26"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Robert A. Grand, 'Woutneel, De Passe, and the Anglo-Netherlandish Print Trade', Print Quarterly 13, nr 4 (1996), p. 363-376",
+    "Robert A. Grand, 'De Passe and Early English Natural History Printmaking', Print Quarterly 14, nr 2 (1997), p. 174-179"
+  ],
+  "catRefRPK": [
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "127"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "272"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Maarts viooltje en sinaasappel, Crispijn van de Passe (I) (attributed to), 1600 - 1604",
+  "subTitle": "h c.127mm \u00d7 w c.205mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1600 - 1604, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

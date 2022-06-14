@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1892-A-17101",
+  "priref": "340246",
+  "objectNumber": "RP-P-1892-A-17101",
+  "language": "en",
+  "title": "Sc\u00e8ne uit ballet Roodkapje en de wolf",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "16717873-2a73-4dad-bf17-8f6efac98162",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1969,
+    "url": "https://lh3.googleusercontent.com/l1A_hMmtkTDFsFWCu5tHUa6W2iJzKhkTeiahsiNJpFmSFMqwBwDfKozWbg1P1WZIMgwb5lEVnEDiDY-mUXpFkLk-I7mgKVDInEzo4ALu=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Sc\u00e8ne uit ballet Roodkapje en de wolf",
+    "Aankondigingsbiljetten van balletten en toneelstukken opgevoerd in de Amsterdamse Stadsschouwburg"
+  ],
+  "description": "In het bos bespringt de wolf Roodkapje. In de achtergrond rent een man weg.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Dieperink & Co.",
+      "unFixedName": "Dieperink & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dieperink & Co., Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Charles Rochussen",
+      "unFixedName": "Rochussen, Charles",
+      "placeOfBirth": "Kralingen",
+      "dateOfBirth": "1814-08-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1894-09-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rotterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Charles Rochussen (01-aug-1814 - 22-sep-1894), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Charles Rochussen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1892-05-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1865 - 1868",
+    "sortingDate": 1865,
+    "period": 19,
+    "yearEarly": 1865,
+    "yearLate": 1868
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)",
+      "48C84"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood",
+      "the ballet, ballet performance"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Stadsschouwburg"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1892-A-17101"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Charles Rochussen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "556"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "718"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Sc\u00e8ne uit ballet Roodkapje en de wolf, Charles Rochussen, 1865 - 1868",
+  "subTitle": "h 556mm \u00d7 w 718mm",
+  "scLabelLine": "Charles Rochussen, 1865 - 1868, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

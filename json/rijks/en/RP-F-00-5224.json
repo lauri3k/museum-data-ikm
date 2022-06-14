@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-5224",
+  "priref": "453339",
+  "objectNumber": "RP-F-00-5224",
+  "language": "en",
+  "title": "Portret van een Aziatische vrouw met hoed",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bba2d5d7-e380-41d7-b23d-ea1720726c69",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1624,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/lZS7k9lQmfqghOvaNQ44YUSwV0Ra_NHGNjYF54hTP9c8r-79_6oxZX0cvNHzuH2of9oeQ5cGYflViWiBlNVMqzOiNg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een Aziatische vrouw met hoed",
+    "China meid Saigon"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "A Sachtler",
+      "unFixedName": "Sachtler, A",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Singapore"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object A Sachtler, Singapore"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "A Sachtler",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Singapore"
+  ],
+  "dating": {
+    "presentingDate": "1870 - 1900",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB1"
+    ],
+    "iconClassDescription": [
+      "historical persons not known by name - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-5224"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "A Sachtler",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van een Aziatische vrouw met hoed, A Sachtler, 1870 - 1900",
+  "subTitle": "h 104mm \u00d7 w 63mm",
+  "scLabelLine": "A Sachtler, 1870 - 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

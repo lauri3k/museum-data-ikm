@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-RBK-15848",
+  "priref": "2607",
+  "objectNumber": "AK-RBK-15848",
+  "language": "en",
+  "title": "Saucer-dish with a woman on a powder blue ground",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "211b7f51-96d6-4173-99c8-211f7f7d528d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2989,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/pw16u9PKwfvg3qgv6fQbewrs6KRSiB_YALWsTdA7XY3IedDSeSrdu3c8XAc12ZtCEgsE-ljjp60gy72sqkuKZYNI2Xas=s0"
+  },
+  "colors": [
+    {
+      "percentage": 34,
+      "hex": "#EFF0F1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #5A5475"
+    },
+    {
+      "percentage": 43,
+      "hex": " #202C7C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #20193C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7C7B9A"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B5B6C5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EFF0F1",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #5A5475",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #202C7C",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #20193C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7C7B9A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B5B6C5",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#191970"
+    },
+    {
+      "percentage": 34,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 9,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#4019B1"
+    },
+    {
+      "percentage": 34,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Saucer-dish with a woman on a powder blue ground"
+  ],
+  "description": "Schaal van porselein met ronde wand, beschilderd in onderglazuur blauw en rood. De voorzijde is bedekt met bleu poudr\u00e9 (poederblauw) met hierin uitgespaard een vrouw (lange lijs) kijkend naar de orchidee in haar hand en staande bij een tafel met een dekselkom en vaas met lotus; op de buitenzijde twee onluikende takken. Gemerkt op de onderzijde met een driepoot in een dubbele cirkel. Onderglazuur blauw met koperrood.",
+  "labelText": null,
+  "objectTypes": [
+    "dish"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1946-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "cobalt (mineral)",
+    "copper (metal)"
+  ],
+  "techniques": [
+    "painting",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-RBK-15848"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "26.3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "16"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Saucer-dish with a woman on a powder blue ground, anonymous, c. 1700",
+  "subTitle": "h 3.5cm \u00d7 d 26.3cm",
+  "scLabelLine": "anonymous, c. 1700, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "AK-2-08"
+}

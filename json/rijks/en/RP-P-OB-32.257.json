@@ -1,0 +1,155 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-32.257",
+  "priref": "118327",
+  "objectNumber": "RP-P-OB-32.257",
+  "language": "en",
+  "title": "Portret van een onbekend meisje",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "21b17b1b-fe05-4c7a-90ee-380eca903a02",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1811,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/t8xLuQhjleU8uxzXmASL_Urh7-IJhZURrRPo1LADnEnnHfeC4j9WF9smq-faepnw3GoKHdRYF3BQsT17Ctr38ye3qsqxUbHCQ5kW0tRejw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een onbekend meisje"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Benjamin Green",
+      "unFixedName": "Green, Benjamin",
+      "placeOfBirth": "Halesowen",
+      "dateOfBirth": "1739",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1800-09-01",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Benjamin Green (c. 1739 - c. 01-sep-1800)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Benjamin Green",
+      "unFixedName": "Green, Benjamin",
+      "placeOfBirth": "Halesowen",
+      "dateOfBirth": "1739",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1800-09-01",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Benjamin Green (c. 1739 - c. 01-sep-1800)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Benjamin Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1768",
+    "sortingDate": 1768,
+    "period": 18,
+    "yearEarly": 1768,
+    "yearLate": 1768
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-32.257"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Benjamin Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "505"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "354"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van een onbekend meisje, Benjamin Green, 1768",
+  "subTitle": "h 505mm \u00d7 w 354mm",
+  "scLabelLine": "Benjamin Green, 1768, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

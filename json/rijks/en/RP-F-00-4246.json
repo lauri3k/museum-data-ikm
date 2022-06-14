@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-4246",
+  "priref": "595679",
+  "objectNumber": "RP-F-00-4246",
+  "language": "en",
+  "title": "Schildering op de Ursulaschrijn door Hans Memling, voorstellende de aankomst van de heilige Ursula te Basel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "93cca2ad-c388-4308-9469-83fc9ac11f2d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1761,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/t2ryKDm0-I_Z2jchKDP1r6o2oroug6CVqYjmqy7CwAA2fxrbQj_ia6_5-O_LyEU_LdhAKcZAq2BMr2TMV3xl-4_TpKw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Schildering op de Ursulaschrijn door Hans Memling, voorstellende de aankomst van de heilige Ursula te Basel"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Bruges"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Bruges"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Bruges"
+  ],
+  "dating": {
+    "presentingDate": "c. 1875 - c. 1900",
+    "sortingDate": 1875,
+    "period": 19,
+    "yearEarly": 1875,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C514",
+      "11Q652",
+      "11HH(URSULA)"
+    ],
+    "iconClassDescription": [
+      "picture, painting",
+      "relics (and reliquaries)",
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Brugge"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-4246"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "268"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "197"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Schildering op de Ursulaschrijn door Hans Memling, voorstellende de aankomst van de heilige Ursula te Basel, anonymous, c. 1875 - c. 1900",
+  "subTitle": "h 268mm \u00d7 w 197mm",
+  "scLabelLine": "anonymous, c. 1875 - c. 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

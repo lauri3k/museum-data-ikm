@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2018-12",
+  "priref": "703227",
+  "objectNumber": "BK-2018-12",
+  "language": "en",
+  "title": "Oboe",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a1c25e73-13b6-4ddd-a46f-f622a12efee5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1210,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/kRlW76Alv92AQR2atyYfm0FJKwnmuK1l3AJhXPCrvpG5s4MBGslLa-qV1zZAUqnKSJJ5cvV3A-Zhu0NvHtaTzJeSQtjxZlZYnsMEvXY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oboe"
+  ],
+  "description": "Hobo van palmhout met drie ronde messing kleppen. Het derde en vierde gat zijn dubbel. Er is een gelijkenis met Stanesy's hobo's. Gemarkeerd: [ster] / [onleesbaar] / MA / [ster].",
+  "labelText": null,
+  "objectTypes": [
+    "musical instrument",
+    "wind instrument",
+    "oboe"
+  ],
+  "objectCollection": [
+    "musical instruments"
+  ],
+  "makers": [
+    {
+      "name": "MA",
+      "unFixedName": "MA",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution MA, England"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "MA",
+      "unFixedName": "MA",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object MA, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "MA",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-03-12T00:00:00",
+    "creditLine": "Gift Han de Vries Collection, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "boxwood",
+    "brass (alloy)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "France",
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700 - c. 1749",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1749
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2018-12"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Giovanni Paolo Di Stefano, \u2018The Rijksmuseum\u2019s Remarkable Collection of Oboes\u2019, The Double Reed 49, 2021, no. 2, p. 92-127: 124",
+    "Giovanni Paolo Di Stefano, 'The Rijksmuseum to acquire and display the Han De Vries collection of oboes', CIMCIM Bulletin, Jan. 2019, p. 22-24"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "MA",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "59"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "5.9"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "boxwood",
+  "longTitle": "Oboe, MA, c. 1700 - c. 1749",
+  "subTitle": "l 59cm \u00d7 d 5.9cm",
+  "scLabelLine": "MA, c. 1700 - c. 1749, boxwood",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

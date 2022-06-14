@@ -1,0 +1,156 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1935-154(R)",
+  "priref": "199638",
+  "objectNumber": "RP-P-1935-154(R)",
+  "language": "en",
+  "title": "Sint Joris en de draak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "79774e29-f860-4dc9-b8b5-cd526b7b983b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1795,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/RdnWUJ6qf2MPeA2MmyvbRT6PtsBr4HO8SN02LmqKZbqM1YzVVGu7r2s5kdOHHHNwZaTWKrsDcCaYcrK_I4_Dv-vD4OY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Sint Joris en de draak"
+  ],
+  "description": "Joris, in harnas gezeten op een stijgerend paard. In zijn handen een lans en een schild. Onder het paard de draak, liggend op zijn rug. Rechtsonder de inscriptie: FIN: COR: OP: RA 4 BK.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "'t Kasteel van Aemstel",
+      "unFixedName": "Kasteel van Aemstel, 't",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object 't Kasteel van Aemstel"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johannes Josephus Aarts",
+      "unFixedName": "Aarts, Johannes Josephus",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1871-08-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1934-10-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Josephus Aarts (18-aug-1871 - 19-okt-1934)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Josephus Aarts",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1935-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1924 - 1925",
+    "sortingDate": 1924,
+    "period": 20,
+    "yearEarly": 1924,
+    "yearLate": 1925
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1935-154(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Josephus Aarts",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "295"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "240"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Sint Joris en de draak, Johannes Josephus Aarts, 1924 - 1925",
+  "subTitle": "h 295mm \u00d7 w 240mm",
+  "scLabelLine": "Johannes Josephus Aarts, 1924 - 1925, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

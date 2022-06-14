@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1944-991",
+  "priref": "110682",
+  "objectNumber": "RP-P-1944-991",
+  "language": "en",
+  "title": "Rustende man in bos",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3e0c9b13-376d-4d2a-92c6-8de58981210d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1684,
+    "url": "https://lh4.ggpht.com/B48XNDaLA9jZdc1nJL4DfiBNM8z85d97wdQDS0Uzd7CxBOqr0x_qy5OTIrfub11CoXBjlWRtt7HcfxG4NEAIf3o2FD1Z=s0"
+  },
+  "colors": [
+    {
+      "percentage": 18,
+      "hex": "#A09A85"
+    },
+    {
+      "percentage": 24,
+      "hex": " #EFE6CD"
+    },
+    {
+      "percentage": 14,
+      "hex": " #7A7562"
+    },
+    {
+      "percentage": 12,
+      "hex": " #CAC3AC"
+    },
+    {
+      "percentage": 25,
+      "hex": " #585446"
+    },
+    {
+      "percentage": 4,
+      "hex": " #38352C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A09A85",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #EFE6CD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7A7562",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CAC3AC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #585446",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #38352C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #FFEFD5"
+    },
+    {
+      "percentage": 18,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 39,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 37,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Rustende man in bos"
+  ],
+  "description": "Een man zit in het gras onder een boom op de grens van een bos en een weide.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hermanus Fock",
+      "unFixedName": "Fock, Hermanus",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1766-11-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1822-09-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Franeker",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hermanus Fock (01-nov-1766 - 27-sep-1822), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hermanus Fock",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": null,
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1781 - 1822",
+    "sortingDate": 1781,
+    "period": 18,
+    "yearEarly": 1781,
+    "yearLate": 1822
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31BB19",
+      "25H15(+1)"
+    ],
+    "iconClassDescription": [
+      "resting - BB - out of doors",
+      "forest, wood (+ landscape with figures, staffage)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1944-991"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hippert&Linnig 27",
+    "27",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Hermanus Fock",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "127"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "192"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Rustende man in bos, Hermanus Fock, 1781 - 1822",
+  "subTitle": "h 127mm \u00d7 w 192mm",
+  "scLabelLine": "Hermanus Fock, 1781 - 1822, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

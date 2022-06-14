@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F01176-M",
+  "priref": "264865",
+  "objectNumber": "RP-F-F01176-M",
+  "language": "en",
+  "title": "Zeegezicht naar een schilderij van F. Rohde",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4cc7b1d4-4a39-4433-8b5d-73cba66bf6ad",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2018,
+    "url": "https://lh5.ggpht.com/XJ0SohsT6RYXc7vWdUmZTeVGDXuRWYt8VS9X22NT0AWh_NqsW25CmiJM-P4wbCU1xDVnR2nFKMtI3G6V7ypU-eSzHDYY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zeegezicht naar een schilderij van F. Rohde",
+    "Broen red Petersvoerft. Sommeraften."
+  ],
+  "description": "Onderdeel van Reisalbum met foto's en tekeningen van Manuel Mayo 1876.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1867 - 1876",
+    "sortingDate": 1867,
+    "period": 19,
+    "yearEarly": 1867,
+    "yearLate": 1876
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C5",
+      "25H2"
+    ],
+    "iconClassDescription": [
+      "travelling; tourism",
+      "landscapes with waters, waterscapes, seascapes (in the temperate zone)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F01176-M"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "179"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "257"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Zeegezicht naar een schilderij van F. Rohde, anonymous, 1867 - 1876",
+  "subTitle": "h 179mm \u00d7 w 257mm",
+  "scLabelLine": "anonymous, 1867 - 1876, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

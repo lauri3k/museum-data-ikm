@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-15703",
+  "priref": "784673",
+  "objectNumber": "RP-F-00-15703",
+  "language": "en",
+  "title": "First Green Court, Hampton Court Palace",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "First Green Court, Hampton Court Palace",
+    "The G&P Series"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Gale & Polden",
+      "unFixedName": "Gale & Polden",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gale & Polden, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2021-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1915 - c. 1930",
+    "sortingDate": 1915,
+    "period": 20,
+    "yearEarly": 1915,
+    "yearLate": 1930
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A11",
+      "41A542"
+    ],
+    "iconClassDescription": [
+      "palace",
+      "gate, entrance"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Hampton Court Palace"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-15703"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "140"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cardboard",
+  "longTitle": "First Green Court, Hampton Court Palace, anonymous, c. 1915 - c. 1930",
+  "subTitle": "h c.90mm \u00d7 w c.140mm",
+  "scLabelLine": "anonymous, c. 1915 - c. 1930, cardboard",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

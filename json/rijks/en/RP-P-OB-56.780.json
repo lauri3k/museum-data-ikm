@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-56.780",
+  "priref": "76306",
+  "objectNumber": "RP-P-OB-56.780",
+  "language": "en",
+  "title": "Maria met Kind en Johannes de Doper, H. Geminianus, H. Petrus Martyr en H. Joris",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3f2d520f-7a6d-41ac-b231-d9d4c19ab309",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1762,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/FIKp7MVq4pF8QdesICY32UKAeKY_dDZCowrl1sawHOzKU7er88GwMOHnIf0GeAiTtqnnIOfjhKdpZQUjSQYOvfAVSW-iLZ5aIYGxKw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Maria met Kind en Johannes de Doper, H. Geminianus, H. Petrus Martyr en H. Joris",
+    "Prenten naar schilderijen uit de Nationale Galerij in Dresden",
+    "Recueil d'estampes d'apr\u00e8s les plus c\u00e9l\u00e8bres tableaux de la Galerie Royale de Dresde"
+  ],
+  "description": "Rechtsonder genummerd: 2.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolas de Beauvais",
+      "unFixedName": "Beauvais, Nicolas de",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1687",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1763",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolas de Beauvais (1687 - 1763)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolas de Beauvais",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1750 - c. 1753",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1753
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)",
+      "11F421",
+      "73A(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "Mary sitting or enthroned, the Christ-child in front of her in her lap (or in front of her bosom)",
+      "series of scenes from the life of John the Baptist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-56.780"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF 18e si\u00e8cle 9",
+    "9"
+  ],
+  "principalOrFirstMaker": "Nicolas de Beauvais",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "603"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "403"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Maria met Kind en Johannes de Doper, H. Geminianus, H. Petrus Martyr en H. Joris, Nicolas de Beauvais, c. 1750 - c. 1753",
+  "subTitle": "h 603mm \u00d7 w 403mm",
+  "scLabelLine": "Nicolas de Beauvais, c. 1750 - c. 1753, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

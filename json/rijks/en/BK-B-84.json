@@ -1,0 +1,276 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-B-84",
+  "priref": "25218",
+  "objectNumber": "BK-B-84",
+  "language": "en",
+  "title": "David",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b802756c-70f7-49be-9c3e-2ba1c970cb69",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1875,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/hUxiTsqSTlL1wjTRN4rfZkuvxPUMkapLel7FlgB_6w_Hb_t2LZ1zxyg3dPKn2cpyG-7HfZmllLUMKrXxyrXxWbG4n0Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 54,
+      "hex": "#1F1C0D"
+    },
+    {
+      "percentage": 16,
+      "hex": " #413E2C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #7D766A"
+    },
+    {
+      "percentage": 7,
+      "hex": " #969084"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B7B4A7"
+    },
+    {
+      "percentage": 5,
+      "hex": " #5F574C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E4E3D8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1F1C0D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #413E2C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7D766A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #969084",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B7B4A7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5F574C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E4E3D8",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Hij staat met de slinger in de rechterhand gereed om de steen te werpen.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pietro Magni",
+      "unFixedName": "Magni, Pietro",
+      "placeOfBirth": null,
+      "dateOfBirth": "1817",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1877-01-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Milaan",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pietro Magni (1817 - 10-jan-1877)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pietro Magni",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1901-01-01T00:00:00",
+    "creditLine": "Gift of A.M. Verschuer-Brants, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "marble (rock)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1851",
+    "sortingDate": 1851,
+    "period": 19,
+    "yearEarly": 1851,
+    "yearLate": 1851
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71H1442(+0)"
+    ],
+    "iconClassDescription": [
+      "David slings a stone at Goliath's forehead (+ variant)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-B-84"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "R. Ferrari (red.), \"Vado a Brera\" : artisti, opere, generi, acquirenti nelle Esposizioni dell'800 dell'Accademia di Brera, Brescia 2008.",
+    "Jaarverslag Rijksmuseum (1901), p. 3."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pietro Magni",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "182"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "85.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "134"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "183"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "63"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "63"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "725"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "976"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "marble (rock)",
+  "longTitle": "David, Pietro Magni, 1851",
+  "subTitle": "h c.182cm",
+  "scLabelLine": "Pietro Magni (1817-1877), Milan, 1851, marble",
+  "label": {
+    "title": "David",
+    "makerLine": "Pietro Magni (1817-1877), Milan, 1851, marble",
+    "description": "David is about to sling a stone at the giant Goliath. The sculpture is a political statement, for the biblical figure of David symbolizes the Italian general and patriot Giuseppe Garibaldi, who freed the city of Milan from the might of the Habsburg Empire (\u2018Goliath\u2019). The innovative, realistic style of this David won Pietro Magni the prestigious Canonica prize. He proudly recorded this on the tree trunk.",
+    "notes": null,
+    "date": "2013-02-06"
+  },
+  "showImage": true,
+  "location": "HG-1.12"
+}

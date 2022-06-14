@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-655",
+  "priref": "159412",
+  "objectNumber": "RP-P-1914-655",
+  "language": "en",
+  "title": "Portret van Christian Karl Ludwig von Pfeil",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "56aee952-ae28-4606-909b-34c2091cfbd2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1873,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/BWj43tb2B0NlLT5rOwHD-ixx9ebLm9K-Z7gT6NFHOGPVIlZ5WRSo9b607KEu-mnq5k9m5RSAdh0j_jXR_4lcBeRYyQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Christian Karl Ludwig von Pfeil"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Nusbiegel",
+      "unFixedName": "Nusbiegel, Johann",
+      "placeOfBirth": null,
+      "dateOfBirth": "1750",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1829",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Nusbiegel (1750 - after 1829)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Nusbiegel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1760 - 1829",
+    "sortingDate": 1760,
+    "period": 18,
+    "yearEarly": 1760,
+    "yearLate": 1829
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "46A122",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "armorial bearing, heraldry",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Pfeil, Christian Karl Ludwig von"
+    ],
+    "objectNumbers": [
+      "RP-P-1914-655"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Pfeil, Christian Karl Ludwig von"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Nusbiegel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "117"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Christian Karl Ludwig von Pfeil, Johann Nusbiegel, 1760 - 1829",
+  "subTitle": "h 176mm \u00d7 w 117mm",
+  "scLabelLine": "Johann Nusbiegel, 1760 - 1829, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

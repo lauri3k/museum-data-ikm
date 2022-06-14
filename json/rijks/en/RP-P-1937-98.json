@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1937-98",
+  "priref": "403756",
+  "objectNumber": "RP-P-1937-98",
+  "language": "en",
+  "title": "Portret van Jane Grey",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Jane Grey"
+  ],
+  "description": "Tekst in het Latijn in de ondermarge en in de omlijsting. Genummerd: Tweede Deel Fol 444.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1937-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1680 - 1750",
+    "sortingDate": 1680,
+    "period": 17,
+    "yearEarly": 1680,
+    "yearLate": 1750
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44BB113",
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "queen",
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Lady Jane",
+      "Gray, Jane"
+    ],
+    "objectNumbers": [
+      "RP-P-1937-98"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Grey, Lady Jane",
+    "Gray, Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "196"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Jane Grey, anonymous, 1680 - 1750",
+  "subTitle": "h 196mm \u00d7 w 151mm",
+  "scLabelLine": "anonymous, 1680 - 1750, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

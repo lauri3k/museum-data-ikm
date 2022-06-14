@@ -1,0 +1,190 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1950-320",
+  "priref": "87006",
+  "objectNumber": "RP-P-1950-320",
+  "language": "en",
+  "title": "Gezicht op Londen vanaf New River Head, Islington",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Londen vanaf New River Head, Islington",
+    "The North Prospect of London taken from the Bowling Green at Islington / V\u00fce de Nord de la Ville de Londre"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Bowles",
+      "unFixedName": "Bowles, John",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Bowles, London"
+    },
+    {
+      "name": "Carington Bowles",
+      "unFixedName": "Bowles, Carington",
+      "placeOfBirth": null,
+      "dateOfBirth": "1724",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1793",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Carington Bowles (1724 - 1793), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Thomas Bowles (II)",
+      "unFixedName": "Bowles, Thomas (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1695",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1767",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Bowles (II) (1695 - 1767), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas Bowles (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1950-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London",
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1752 - 1766",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1766
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I"
+    ],
+    "iconClassDescription": [
+      "stadsgezichten en landschappen met bouwsels van mensen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Islington",
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1950-320"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Thomas Bowles (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "292"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "427"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Londen vanaf New River Head, Islington, Thomas Bowles (II), 1752 - 1766",
+  "subTitle": "h 292mm \u00d7 w 427mm",
+  "scLabelLine": "Thomas Bowles (II), 1752 - 1766, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

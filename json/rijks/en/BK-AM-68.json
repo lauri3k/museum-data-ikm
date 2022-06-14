@@ -1,0 +1,291 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-AM-68",
+  "priref": "24835",
+  "objectNumber": "BK-AM-68",
+  "language": "en",
+  "title": "Philip William, Prince of Orange (1554-1618)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "02add564-b5fe-4efe-80f8-cab09c10d210",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2419,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/6xH3qo17_Z5Haw_K1cOZAPXZlXYQ09SU1h95Fize51W1fvCK7UGbI1xkRIdO8oSj6jfBbTxI7Jl0Fa-6RaLJ7syAGl0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#868685"
+    },
+    {
+      "percentage": 21,
+      "hex": " #C2C5C6"
+    },
+    {
+      "percentage": 15,
+      "hex": " #566771"
+    },
+    {
+      "percentage": 12,
+      "hex": " #3A3D3B"
+    },
+    {
+      "percentage": 9,
+      "hex": " #725B4A"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F0F3F5"
+    },
+    {
+      "percentage": 2,
+      "hex": " #15150D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#868685",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2C5C6",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #566771",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3A3D3B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #725B4A",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #F0F3F5",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #15150D",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 15,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 21,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 12,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Philip William, Prince of Orange (1554-1618)"
+  ],
+  "description": "Prins Philips Willem, oudste zoon van Willem de Zwijger, met hoofd driekwart naar rechts, heeft een baardje en grote knevel. De hals gaat schuil in de openstaande gesteven kanten kraag, die gesloten is met een koordje, waaraan akertjes. Over het met patronen versierde wambuis met opstaand kraagje, dat op de borst met knoopjes wordt gesloten, hangt een vele malen om de hals gewonden ketting met Gulden Vlies; op de schouders schouderkleppen. Het borstbeeld, dat even onder schouders en borst eindigt, heeft een gedraaid voetstuk. Tegen de holle achterzijde in schrijfletters signatuur en datum.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Claudius de Cock",
+      "unFixedName": "Cock, Jan Claudius de",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1668",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1736",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Claudius de Cock (1668 - 1736), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Claudius de Cock",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1692 - c. 1697",
+    "sortingDate": 1692,
+    "period": 17,
+    "yearEarly": 1692,
+    "yearLate": 1697
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "15541618"
+    ],
+    "places": [],
+    "people": [
+      "Filips Willem (prins van Oranje)",
+      "Orde van het Gulden Vlies"
+    ],
+    "objectNumbers": [
+      "BK-AM-68"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Filips Willem (prins van Oranje)",
+    "Orde van het Gulden Vlies"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap: aantekeningen R. van Luttervelt."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Claudius de Cock",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "64"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "43"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "21"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "22.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta (bust) and plaster (pedestal)",
+  "longTitle": "Philip William, Prince of Orange (1554-1618), Jan Claudius de Cock, c. 1692 - c. 1697",
+  "subTitle": "h 50cm",
+  "scLabelLine": "Jan Claudius de Cock, c. 1692 - c. 1697, terracotta (bust) and plaster (pedestal)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

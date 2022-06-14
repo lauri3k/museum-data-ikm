@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-11430-80",
+  "priref": "351204",
+  "objectNumber": "BK-NM-11430-80",
+  "language": "en",
+  "title": "Oboe",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "568bf76e-1cb7-4df2-8d54-6808004ef288",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 934,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/bVTGXCLosBPxn1KQvbCiE_cW3Xc9ek3jAV68a-pRqI1vl9tWlwKeJvrbyXIUDgg2KgHKjuwb8OK9ja1YL3smNU2-JgoZ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oboe"
+  ],
+  "description": "Hobo, donkerbruin met drie kleppen en zes gaten waarvan twee dubbel en twee in den beker.",
+  "labelText": null,
+  "objectTypes": [
+    "musical instrument",
+    "wind instrument",
+    "oboe"
+  ],
+  "objectCollection": [
+    "musical instruments"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Thomas Coenrat Boekhout",
+      "unFixedName": "Boekhout, Thomas Coenrat",
+      "placeOfBirth": "Kampen",
+      "dateOfBirth": "1666",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1715",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "musical instrument maker"
+      ],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Thomas Coenrat Boekhout (1666 - 1715), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas Coenrat Boekhout",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1899-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "boxwood (hardwood)",
+    "brass (alloy)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-11430-80"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Giovanni Paolo Di Stefano, \u2018The Rijksmuseum\u2019s Remarkable Collection of Oboes\u2019, The Double Reed 49, 2021, no. 2, p. 92-127: 102, 121, fig. 7a",
+    "Rob van Acht, 'Dutch Makers of Double Reed Instruments in the Seventeenth and Eighteenth Centuries', The Journal of the International Double Reed Society 24 (1996), p. 77-88: 83, 86",
+    "Jan Bouterse, 'Three boxwood oboes by Hendrik Richters', FoMRHI Quarterly 75 (Apr., 1994), Comm. 1259, p. 48-57: 50",
+    "Rob van Acht, 'Niederl\u00e4ndische Blasinstrumente, 1670-1820', Tibia: Magazin f\u00fcr freunde alter und neuer bl\u00e4sermusik 15, nr. 3 (1990), p. 169-185: 182",
+    "Rob van Acht, 'Dutch Wind-Instruments, 1670-1820', Tijdschrift van de Vereniging voor Nederlandse Muziekgeschiedenis 38 (1988), p. 99-122: 117",
+    "Nora Post, 'The 17th-Century Oboe Reed', The Galpin Society Journal 35 (Mar., 1982), p. 54-67: 60",
+    "L.G. Langwill, 'Musikinstrumenten-Sammlung des Rijksmuseum, Amsterdam ausgestellt im Gemeente Museum, Den Haag 9. Oktober - 24. November 1952', Glareana: Nachrichten der Gesellschaft der Freunde alter Musikinstrumente 2, nr. 2 (1953), p. 1-3: 2",
+    "'Aanwinsten', Bulletin van de Nederlandse Oudheidkundige Bond 1, nr. 2 (1899-1900), p. 48-49: 48"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Thomas Coenrat Boekhout",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "581.2"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "boxwood (hardwood)",
+  "longTitle": "Oboe, Thomas Coenrat Boekhout, c. 1700",
+  "subTitle": "l 581.2mm \u00d7 d 90mm",
+  "scLabelLine": "Thomas Coenrat Boekhout (1666\u20131715), boxwood, brass, Amsterdam, c. 1700",
+  "label": {
+    "title": "Oboe",
+    "makerLine": "Thomas Coenrat Boekhout (1666\u20131715), boxwood, brass, Amsterdam, c. 1700",
+    "description": null,
+    "notes": null,
+    "date": "2019-06-21"
+  },
+  "showImage": true,
+  "location": null
+}

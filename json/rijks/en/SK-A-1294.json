@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1294",
+  "priref": "8434",
+  "objectNumber": "SK-A-1294",
+  "language": "en",
+  "title": "Virgin and Child Enthroned with Four Saints, Saints John the Baptist, Antony Abbot, Elizabeth of Hungary, a female saint",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "423402fc-8e5c-44a1-81f2-384186638f13",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1216,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/9LdfX5S8WtiIjz0z3VK1d3elGLofvhEhe7K7plt-7_JMkBhYfOhligIlw5Zgt3FzEdX9DZYbNRX8qaRiP0l7yJ35p-Xa=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#5F5236"
+    },
+    {
+      "percentage": 25,
+      "hex": " #9D7851"
+    },
+    {
+      "percentage": 18,
+      "hex": " #BFAD7B"
+    },
+    {
+      "percentage": 15,
+      "hex": " #2F2A18"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E1D6A8"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FCF9E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #0C0A02"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#5F5236",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9D7851",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #BFAD7B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #2F2A18",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #E1D6A8",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #FCF9E1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #0C0A02",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 18,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 16,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 29,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 16,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Virgin and Child Enthroned with Four Saints, Saints John the Baptist, Antony Abbot, Elizabeth of Hungary, a female saint"
+  ],
+  "description": "Maria met kind en vier heiligen. Maria gezeten op een troon met het Christuskind op schoot. Op de voorgrond vier heiligen: Johannes de Doper, Antonius abt, Elisabeth van Hongarije en een vrouwelijk martelaar. In gotische gesneden houten lijst met opschrift.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1886-01-11T00:00:00",
+    "creditLine": "Gift of A. Bredius, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "pear (wood)",
+    "tempera"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1350 - c. 1399",
+    "sortingDate": 1350,
+    "period": 14,
+    "yearEarly": 1350,
+    "yearLate": 1399
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F42",
+      "11H(JOHN THE BAPTIST)",
+      "11H(ANTONY ABBOT)",
+      "11HH(ELISABETH OF HUNGARY)",
+      "11HH"
+    ],
+    "iconClassDescription": [
+      "Madonna: Mary sitting or enthroned, the Christ-child in her lap (or in front of her bosom) (Mary sometimes represented half-length)",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "the hermit Antony Abbot (Antonius Abbas) of Egypt, also called the Great; possible attributes: bell, book, T-shaped staff, flames, pig",
+      "the wife and widow of the Landgrave of Thuringia, and Franciscan Tertiary, Elisabeth of Hungary; possible attributes: beggar, cripple, fish, loaves, leper, model of church, pitcher, roses in lap, scald-head, three crowns",
+      "female saints"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1294"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Charlotte Wiethoff, 'De kunshandelaar Jacques Goudstikker (1897-1940) en zijn betekenis voor het verzamelen van vroege Italiaanse kunst in Nederland', Nederlands Kunsthistorisch Jaarboek 32 (1981), p. 257."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "tempera on panel",
+  "longTitle": "Virgin and Child Enthroned with Four Saints, Saints John the Baptist, Antony Abbot, Elizabeth of Hungary, a female saint, anonymous, c. 1350 - c. 1399",
+  "subTitle": "h 105cm \u00d7 w 50cm \u00d7 d 7.8cm",
+  "scLabelLine": "anonymous, c. 1350 - c. 1399, tempera on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

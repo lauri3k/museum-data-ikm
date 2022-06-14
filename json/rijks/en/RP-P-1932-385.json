@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1932-385",
+  "priref": "401997",
+  "objectNumber": "RP-P-1932-385",
+  "language": "en",
+  "title": "Gezicht op de sinaasappelbomen voor de Orangerie van het Paleis van Versailles",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "941e569e-14fc-4e78-adbd-fa804fb29b56",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1499,
+    "url": "https://lh3.googleusercontent.com/v-MmnF0tI9sQK57N0wvLbLrruRajVfUiojusxKQ2Xlaixk_aSKoNCpN3p7ADGoiRt93K_g4wviwl32C_7kVPtDl325U=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de sinaasappelbomen voor de Orangerie van het Paleis van Versailles",
+    "A view of the orange-tree garden at Versailles"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Tinney",
+      "unFixedName": "Tinney, John",
+      "placeOfBirth": null,
+      "dateOfBirth": "1706",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1761",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Tinney (1706 - 1761), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Tinney",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1932-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "etching",
+    "brush"
+  ],
+  "productionPlaces": [
+    "London",
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1700 - 1761",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1761
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G3(ORANGE-TREE)",
+      "41A6",
+      "41A651",
+      "41A67",
+      "47I53"
+    ],
+    "iconClassDescription": [
+      "trees: orange-tree",
+      "garden",
+      "garden fountain",
+      "ornamental plants",
+      "greenhouse, orangery"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Tuin van Versailles",
+      "Orangerie"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1932-385"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Tinney",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "241"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "421"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de sinaasappelbomen voor de Orangerie van het Paleis van Versailles, John Tinney, 1700 - 1761",
+  "subTitle": "h 241mm \u00d7 w 421mm",
+  "scLabelLine": "John Tinney, 1700 - 1761, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

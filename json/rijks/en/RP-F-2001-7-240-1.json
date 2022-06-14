@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-240-1",
+  "priref": "624611",
+  "objectNumber": "RP-F-2001-7-240-1",
+  "language": "en",
+  "title": "Mr. Henry Irving as Hamlet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0a9a43a8-c205-4f1c-9ffe-51bf186dd16b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1646,
+    "url": "https://lh3.googleusercontent.com/fAv32Kf3pZCj8_f2O6o0FFCCO8ik28zKLicwrW9Gdr9ceZz1gryBP67xNQoQ_1hFOoTkc4popyXA1Cuc-B85F3eJDA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Mr. Henry Irving as Hamlet"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "William & Daniel Downey",
+      "unFixedName": "Downey, William & Daniel",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "William & Daniel Downey"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "William & Daniel Downey",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1883 - in or before 1893",
+    "sortingDate": 1883,
+    "period": 19,
+    "yearEarly": 1883,
+    "yearLate": 1893
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C8312"
+    ],
+    "iconClassDescription": [
+      "portrait of actor, actress"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Irving, Henry"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-240-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Irving, Henry"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "William & Daniel Downey",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "216"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Mr. Henry Irving as Hamlet, William & Daniel Downey, c. 1883 - in or before 1893",
+  "subTitle": "h 216mm \u00d7 w 147mm",
+  "scLabelLine": "William & Daniel Downey, c. 1883 - in or before 1893, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

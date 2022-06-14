@@ -1,0 +1,182 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1909-6007",
+  "priref": "117560",
+  "objectNumber": "RP-P-1909-6007",
+  "language": "en",
+  "title": "Portret van Gioacchino Besozzi in allegorische omlijsting",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1d225a71-00b6-4c67-bf67-12ad844f984b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1928,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/QsyE_splE69pLgTSSA4gVz36Cg766OyR8jMYD8g_WJ9vIv7682pTdq5H4pEIfGE0ZaG0pK4QptOKxXtDrIRxNS73vypgmKz00G3BlKaX=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Gioacchino Besozzi in allegorische omlijsting"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gottfried Bernhard G\u00f6tz",
+      "unFixedName": "G\u00f6tz, Gottfried Bernhard",
+      "placeOfBirth": "Wehlerad",
+      "dateOfBirth": "1708",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1774",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gottfried Bernhard G\u00f6tz (1708 - 1774), Augsburg"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gottfried Bernhard G\u00f6tz",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Augsburg",
+    "Augsburg",
+    "Augsburg"
+  ],
+  "dating": {
+    "presentingDate": "1718 - 1774",
+    "sortingDate": 1718,
+    "period": 18,
+    "yearEarly": 1718,
+    "yearLate": 1774
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "11P3112",
+      "11P31131",
+      "46A122",
+      "92D1916",
+      "25FF23(LION)",
+      "11H(JOHN THE BAPTIST)",
+      "11D121",
+      "5(+4)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "cardinal",
+      "insignia of bishop, e.g. mitre, crozier",
+      "armorial bearing, heraldry",
+      "cupids: 'amores', 'amoretti', 'putti'",
+      "beasts of prey, predatory animals: lion - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa)",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "cross as symbol of Christ",
+      "Abstract Ideas and Concepts (+ emblematical representation of concept)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Besozzi, Gioacchino"
+    ],
+    "objectNumbers": [
+      "RP-P-1909-6007"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Besozzi, Gioacchino"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gottfried Bernhard G\u00f6tz",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "411"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Gioacchino Besozzi in allegorische omlijsting, Gottfried Bernhard G\u00f6tz, 1718 - 1774",
+  "subTitle": "h 411mm \u00d7 w 315mm",
+  "scLabelLine": "Gottfried Bernhard G\u00f6tz, 1718 - 1774, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

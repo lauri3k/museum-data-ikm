@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F80128",
+  "priref": "349867",
+  "objectNumber": "RP-F-F80128",
+  "language": "en",
+  "title": "Tempel van Medinet Haboe in Thebe",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d0d970c7-f6c4-4e19-a241-66d00636cce2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2282,
+    "url": "https://lh4.ggpht.com/kA3gY2aMrRDw9BfPZnlszKuP4l1v2cQFUqwNIKQjOC0fjUO3H80MUIH3oe4dU4bDgQr570y3rdOq2ckDEl865z78LSs=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#F6F5E3"
+    },
+    {
+      "percentage": 32,
+      "hex": " #D3CCB3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #766854"
+    },
+    {
+      "percentage": 9,
+      "hex": " #8E826C"
+    },
+    {
+      "percentage": 26,
+      "hex": " #AFA68A"
+    },
+    {
+      "percentage": 19,
+      "hex": " #4F4032"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F5E3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D3CCB3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #766854",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8E826C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AFA68A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4F4032",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 26,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 37,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 35,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 26,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Tempel van Medinet Haboe in Thebe"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Louis-D\u00e9sir\u00e9 Blanquart-Evrard",
+      "unFixedName": "Blanquart-Evrard, Louis-D\u00e9sir\u00e9",
+      "placeOfBirth": "Lille",
+      "dateOfBirth": "1802-08-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1872-04-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Lille",
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Louis-D\u00e9sir\u00e9 Blanquart-Evrard (02-aug-1802 - 28-apr-1872)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Beasly Greene",
+      "unFixedName": "Greene, John Beasly",
+      "placeOfBirth": null,
+      "dateOfBirth": "1832",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1856",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Beasly Greene (1832 - 1856)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Beasly Greene",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "salted paper print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1854 - 1855",
+    "sortingDate": 1854,
+    "period": 19,
+    "yearEarly": 1854,
+    "yearLate": 1855
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C149",
+      "12C61"
+    ],
+    "iconClassDescription": [
+      "ruin of a building ~ architecture",
+      "temple, shrine ~ Egyptian religion"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Medinet Haboe"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F80128"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Beasly Greene",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "233"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "305"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "396"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "562"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "salted paper print",
+  "longTitle": "Tempel van Medinet Haboe in Thebe, John Beasly Greene, 1854 - 1855",
+  "subTitle": "h 233mm \u00d7 w 305mm",
+  "scLabelLine": "John Beasly Greene, 1854 - 1855, salted paper print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

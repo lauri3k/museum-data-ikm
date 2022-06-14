@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-39.948",
+  "priref": "75995",
+  "objectNumber": "RP-P-OB-39.948",
+  "language": "en",
+  "title": "Portret van Paul Delaroche",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Paul Delaroche",
+    "Paul Delaroche"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Antoine Dewasme-Pl\u00e9tinckx",
+      "unFixedName": "Dewasme-Pl\u00e9tinckx, Antoine",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Antoine Dewasme-Pl\u00e9tinckx"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Charles Baugniet",
+      "unFixedName": "Baugniet, Charles",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1814",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1886-07-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "S\u00e8vres",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Charles Baugniet (1814 - 05-jul-1886), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Charles Baugniet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1837",
+    "sortingDate": 1837,
+    "period": 19,
+    "yearEarly": 1837,
+    "yearLate": 1837
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31D14",
+      "11H(GEORGE)",
+      "48C515",
+      "48C513"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "adult man",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "tools, implements of painter",
+      "portrait, self-portrait of painter"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Delaroche, Paul"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-39.948"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Delaroche, Paul"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Charles Baugniet",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "567"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "432"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Paul Delaroche, Charles Baugniet, 1837",
+  "subTitle": "h 567mm \u00d7 w 432mm",
+  "scLabelLine": "Charles Baugniet, 1837, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

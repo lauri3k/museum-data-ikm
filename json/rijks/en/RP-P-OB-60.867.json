@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-60.867",
+  "priref": "181799",
+  "objectNumber": "RP-P-OB-60.867",
+  "language": "en",
+  "title": "Pan en Syrinx",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "70e27424-b1cb-440f-bd12-6be2cdf4f146",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1847,
+    "url": "https://lh5.ggpht.com/IUjQhnRJiDNgpiWpiF569HzAiBjduLb7d7BxU7RDqhusjeSXa3V0QzqzAks6NSkQ2DxjFDGmnb7bT7fae3Isq45AeiI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Pan en Syrinx"
+  ],
+  "description": "Pan omarmt een bos riethalmen, de nimf Syrinx, terwijl een nimf in het riet voor hem wegvlucht in de richting van de rivier.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Herman van Swanevelt",
+      "unFixedName": "Swanevelt, Herman van",
+      "placeOfBirth": "Woerden",
+      "dateOfBirth": "1604",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1655",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Herman van Swanevelt (1604 - 1655), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Herman van Swanevelt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1629 - 1641",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1641
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "97BB5"
+    ],
+    "iconClassDescription": [
+      "Syrinx changed into a reed: while fleeing from Pan, the nymph Syrinx is changed into reed by her sisters, the Naiads (Ovid, Metamorphoses I 705)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-60.867"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 24",
+    "24"
+  ],
+  "principalOrFirstMaker": "Herman van Swanevelt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "158"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "212"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Pan en Syrinx, Herman van Swanevelt, 1629 - 1641",
+  "subTitle": "h 158mm \u00d7 w 212mm",
+  "scLabelLine": "Herman van Swanevelt, 1629 - 1641, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

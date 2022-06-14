@@ -1,0 +1,256 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1960-10A-6",
+  "priref": "467875",
+  "objectNumber": "RP-P-1960-10A-6",
+  "language": "en",
+  "title": "Earthworm and black cricket on creeping saxifrage",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "87de4c88-03ff-4e39-9219-49d4308abdc1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1793,
+    "url": "https://lh3.googleusercontent.com/19RaWItczEeSqnFGKf5z9QiHa4Ufz8SuUHdXMQs4zkcWlBUES3HuoFsp4jTJkqIliJFCxoQAOEmZ-9HGBs90F62PQKDDQs0QQV9t2nv6Zg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#D7CEB6"
+    },
+    {
+      "percentage": 34,
+      "hex": " #F6F3E7"
+    },
+    {
+      "percentage": 8,
+      "hex": " #75735F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9977A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C9B090"
+    },
+    {
+      "percentage": 1,
+      "hex": " #464337"
+    },
+    {
+      "percentage": 0,
+      "hex": " #231B0D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D7CEB6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F6F3E7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #75735F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A9977A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C9B090",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #464337",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #231B0D",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 34,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 78,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Earthworm and black cricket on creeping saxifrage"
+  ],
+  "description": "Pagina 16b en 17a in deel twee van het Insectenboek van Utamaro.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Tsutaya Juzaburo (Koshodo)",
+      "unFixedName": "Tsutaya Juzaburo (Koshodo)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Tsutaya Juzaburo (Koshodo)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Kitagawa Utamaro",
+      "unFixedName": "Utamaro, Kitagawa",
+      "placeOfBirth": null,
+      "dateOfBirth": "1753",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1806",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Kitagawa Utamaro (1753 - 1806)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Kitagawa Utamaro",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "color woodcut"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1788",
+    "sortingDate": 1788,
+    "period": 18,
+    "yearEarly": 1788,
+    "yearLate": 1788
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1960-10A-6"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Forrer 36",
+    "36",
+    "Jap Cat II 85",
+    "85"
+  ],
+  "principalOrFirstMaker": "Kitagawa Utamaro",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "250"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "180"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "nishikie",
+  "longTitle": "Earthworm and black cricket on creeping saxifrage, Kitagawa Utamaro, 1788",
+  "subTitle": "h 250mm \u00d7 w 180mm",
+  "scLabelLine": "Kitagawa Utamaro, 1788, nishikie",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

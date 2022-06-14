@@ -1,0 +1,134 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-5499",
+  "priref": "351471",
+  "objectNumber": "BK-NM-5499",
+  "language": "en",
+  "title": "Bugle",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2c693d80-ac11-4b63-8eaf-cf1a8f354d90",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1874,
+    "url": "https://lh3.googleusercontent.com/rUZPVxkZkhbiCL8iXMd39n0_9TnSpE1uH5JXIFxbbEcm-wlRuTw1Yn-I0xJ4D2u5B5rdVzOtnOAycUuxAebXOPryTT4Gr90SUOXtDig=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bugle"
+  ],
+  "description": "Bugel in B. Drie P\u00e9rinet-ventielen, genummerd 1, 2 en 3, die de grondtoon verlagen met respectievelijk 1, 1/2 en 1 en 1/2 toon. Met houdertje voor muziekstandaard en steunhaak voor de pink van de rechterhand. Op de beker een ovaal brandstempel: 'E. P. van Osch / Brevete / Maastricht'. Vlak bij de bekerrand is ingeslagen: '4.R.I.1868' (4e REGIMENT INFANTERIE 1868). Het instrument werd in 1868 door het 4e Regiment Infanterie van het Nederlandse leger in gebruik genomen.",
+  "labelText": null,
+  "objectTypes": [
+    "musical instrument",
+    "wind instrument",
+    "flugelhorn"
+  ],
+  "objectCollection": [
+    "musical instruments"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Egidius Petrus van Osch",
+      "unFixedName": "Osch, Egidius Petrus van",
+      "placeOfBirth": "Arnhem",
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Maastricht",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Egidius Petrus van Osch"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Egidius Petrus van Osch",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1882-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "after 1855 - before 1868",
+    "sortingDate": 1855,
+    "period": 19,
+    "yearEarly": 1855,
+    "yearLate": 1868
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-5499"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Egidius Petrus van Osch",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "49.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "20.0"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "15.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "copper (metal)",
+  "longTitle": "Bugle, Egidius Petrus van Osch, after 1855 - before 1868",
+  "subTitle": "h 49.7cm \u00d7 w c.20.0cm \u00d7 d 15.0cm",
+  "scLabelLine": "Egidius Petrus van Osch, after 1855 - before 1868, copper (metal)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

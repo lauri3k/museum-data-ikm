@@ -1,0 +1,209 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-11798",
+  "priref": "375347",
+  "objectNumber": "BK-NM-11798",
+  "language": "en",
+  "title": "Tile with a blue glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2f337380-7d04-4baf-a5ae-711c2fd99380",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2505,
+    "url": "https://lh4.ggpht.com/-sRmP3RMWYNJLle1EOv9sjDN3mp6vDnC3cdpKcnEtmGWTaCMl8AcEoaoOzCvvCjt7kuxt_2b0w9M8uidtpKqVq9GRs6N=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#928B7E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #5C564C"
+    },
+    {
+      "percentage": 58,
+      "hex": " #D1E0EA"
+    },
+    {
+      "percentage": 15,
+      "hex": " #CDC2AE"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3E6C7F"
+    },
+    {
+      "percentage": 16,
+      "hex": " #6690AB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#928B7E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5C564C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D1E0EA",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CDC2AE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3E6C7F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6690AB",
+      "normalizedHex": "#4279DB"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#F0F8FF"
+    },
+    {
+      "percentage": 16,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 15,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 58,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 15,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Tile with a blue glaze"
+  ],
+  "description": "Tichelsteen met een boterhamvormige doorsnede. Poreuze, grauwgele aardsoort. De vlakke zijde ondoorzichtig turkoois-blauw geglazuurd. Afkomstig van het graf van een juwelier van Akbar te Deli.",
+  "labelText": null,
+  "objectTypes": [
+    "brick (clay product)"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anoniem",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1904-01-01T00:00:00",
+    "creditLine": "Gift of M. Bauer"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1550 - c. 1599",
+    "sortingDate": 1550,
+    "period": 16,
+    "yearEarly": 1550,
+    "yearLate": 1599
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-11798"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "14.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Tile with a blue glaze, c. 1550 - c. 1599",
+  "subTitle": "h 6cm \u00d7 w 14.5cm \u00d7 d 7cm",
+  "scLabelLine": "c. 1550 - c. 1599, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

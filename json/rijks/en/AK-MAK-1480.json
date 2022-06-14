@@ -1,0 +1,245 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1480",
+  "priref": "336490",
+  "objectNumber": "AK-MAK-1480",
+  "language": "en",
+  "title": "Double gourd-shaped ewer with iron red spots and a handle in the shape of a dragon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ca0f7d56-6868-4b97-8eba-a85b74e5eb86",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2230,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/jyXZt3OHXjswF9KGOinuREmkDZ6lECat7TBWCGeV7PdDDUE4V_swD_VLG8DOcHbaTzNuRB_FhWGW68wKfONqW8k1_yeU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 65,
+      "hex": "#BEC0BF"
+    },
+    {
+      "percentage": 20,
+      "hex": " #999890"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DFE0DF"
+    },
+    {
+      "percentage": 8,
+      "hex": " #777368"
+    },
+    {
+      "percentage": 3,
+      "hex": " #4A473E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2B261F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BEC0BF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #999890",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #DFE0DF",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #777368",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A473E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2B261F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 65,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 29,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Double gourd-shaped ewer with iron red spots and a handle in the shape of a dragon"
+  ],
+  "description": "Kalebasvormige kan van steengoed, bedekt met een licht blauwwit glazuur en ijzerrood. Het oor is gemodelleerd in de vorm van een hoornloze draak (chilong) en een gebogen tuit. Oor en tuit gebroken geweest. Qingbai[?].",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1996-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Maartje Draak bequest, 1996)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1279 - c. 1368",
+    "sortingDate": 1279,
+    "period": 13,
+    "yearEarly": 1279,
+    "yearLate": 1368
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1480"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Pauline Lunsingh Scheurleer e.a., 'Maartje Draak en de Aziatische Kunst', Aziatische Kunst 27/4 (1997), pp. 6-72 (afb. 24)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "5"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "10"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Double gourd-shaped ewer with iron red spots and a handle in the shape of a dragon, anonymous, c. 1279 - c. 1368",
+  "subTitle": "h 10.5cm \u00d7 d 2cm",
+  "scLabelLine": "anonymous, c. 1279 - c. 1368, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

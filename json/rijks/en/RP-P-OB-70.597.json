@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-70.597",
+  "priref": "339317",
+  "objectNumber": "RP-P-OB-70.597",
+  "language": "en",
+  "title": "Doortocht door de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "22ed7288-ec59-4b72-8310-7b4c002dc755",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1848,
+    "url": "https://lh3.googleusercontent.com/nUKv1Jq1P7KrtT5fPqGZOy9vueZW0AqRLIB7RCyr3VxzsZCzo6BsvwM6DYug0JV_wQjl7xMGVkS-K_dCiak55341rIY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doortocht door de Rode Zee"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jean Fran\u00e7ois Cars",
+      "unFixedName": "Cars, Jean Fran\u00e7ois",
+      "placeOfBirth": "Lyon",
+      "dateOfBirth": "1661-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1730-08-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Fran\u00e7ois Cars (16-okt-1661 - 30-aug-1730), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "\u00c9tienne Gantrel",
+      "unFixedName": "Gantrel, \u00c9tienne",
+      "placeOfBirth": "Metz",
+      "dateOfBirth": "1646",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1706-11-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "\u00c9tienne Gantrel (1646 - 01-nov-1706), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "\u00c9tienne Gantrel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1656 - 1706",
+    "sortingDate": 1656,
+    "period": 17,
+    "yearEarly": 1656,
+    "yearLate": 1706
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E122"
+    ],
+    "iconClassDescription": [
+      "passage through the Red Sea"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-70.597"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 2",
+    "2",
+    "IFF 17e si\u00e8cle 185",
+    "185",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "\u00c9tienne Gantrel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "570"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "750"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doortocht door de Rode Zee, \u00c9tienne Gantrel, 1656 - 1706",
+  "subTitle": "h 570mm \u00d7 w 750mm",
+  "scLabelLine": "\u00c9tienne Gantrel, 1656 - 1706, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

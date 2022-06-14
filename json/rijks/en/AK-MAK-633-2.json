@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-633-2",
+  "priref": "711770",
+  "objectNumber": "AK-MAK-633-2",
+  "language": "en",
+  "title": "Lid of teapot of red stoneware",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "765eb1e7-a374-46f3-a092-5b20f069bbac",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/C6sSVquhiqDAzFVu2itYeiUe5_nY3krT1ebwV9m-msx_GMlt-TGEqTdREz9eROD1PiIiFJJCd0iC9yZq3MdKDHUy7nyMozpqt5-CGjHQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Lid of teapot of red stoneware"
+  ],
+  "description": "Deksel van theepot van rood steengoed met ronde knop.",
+  "labelText": null,
+  "objectTypes": [
+    "lid"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1800 - c. 1899",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-633-2"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "porcelain",
+  "longTitle": "Lid of teapot of red stoneware, anonymous, c. 1800 - c. 1899",
+  "subTitle": "h 3cm \u00d7 d 4cm",
+  "scLabelLine": "anonymous, c. 1800 - c. 1899, porcelain",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

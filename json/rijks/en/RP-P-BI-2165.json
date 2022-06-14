@@ -1,0 +1,269 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-2165",
+  "priref": "84145",
+  "objectNumber": "RP-P-BI-2165",
+  "language": "en",
+  "title": "Doornenkroning van Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d2be64b0-8a79-41ad-95c4-e12aab86ff03",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1431,
+    "height": 2340,
+    "url": "https://lh3.ggpht.com/uN5UkG1jtRWhpygdi0_crhw_Ybumj17C0uWFKzr9SU_X5zUj3HGA22hTUNSex3ZUz9TvPUfwMIkUTNDOND3CAr4VFK0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#E7E2D1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #817D70"
+    },
+    {
+      "percentage": 17,
+      "hex": " #5F5C51"
+    },
+    {
+      "percentage": 9,
+      "hex": " #413F37"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A7A395"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C5C0B0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FEFEF7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E7E2D1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #817D70",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5F5C51",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #413F37",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #A7A395",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C5C0B0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FEFEF7",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 27,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 37,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Doornenkroning van Christus",
+    "De Coronatione spinea",
+    "Vitae passionis et mortis Jesu Christ"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hendrik Aertssens (II)",
+      "unFixedName": "Aertssens, Hendrik (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1622",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1663",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Hendrik Aertssens (II) (1622 - 1663), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bo\u00ebtius Adamsz. Bolswert",
+      "unFixedName": "Bolswert, Bo\u00ebtius Adamsz.",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1580",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633-03-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Bo\u00ebtius Adamsz. Bolswert (c. 1580 - 25-mrt-1633), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bo\u00ebtius Adamsz. Bolswert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1622",
+    "sortingDate": 1622,
+    "period": 17,
+    "yearEarly": 1622,
+    "yearLate": 1622
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-2165"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 69",
+    "69"
+  ],
+  "principalOrFirstMaker": "Bo\u00ebtius Adamsz. Bolswert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "75"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning van Christus, Bo\u00ebtius Adamsz. Bolswert, 1622",
+  "subTitle": "h 133mm \u00d7 w 75mm",
+  "scLabelLine": "Bo\u00ebtius Adamsz. Bolswert, 1622, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

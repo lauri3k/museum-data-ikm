@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2000-83",
+  "priref": "361080",
+  "objectNumber": "RP-T-2000-83",
+  "language": "en",
+  "title": "Gezicht op New Utrecht, Long Island, Amerika",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "508ca489-d2dd-48c9-8274-b8e168563776",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2934,
+    "height": 2076,
+    "url": "https://lh3.ggpht.com/rSqEhcJC0Qx4PeIDxc1xW8qWxMsD5Lhx1Iqocqrm-7hKgy6iQlO1eFJI1ba2kMUiYaVw4o7J48l908KxBVkWFXMLdvDY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op New Utrecht, Long Island, Amerika"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Apostool",
+      "unFixedName": "Apostool, Cornelis",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1762-08-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1844-02-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Apostool (06-aug-1762 - 10-feb-1844)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Apostool",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "Gift of the heirs A.F.E. van Schendel jr."
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1806",
+    "sortingDate": 1806,
+    "period": 19,
+    "yearEarly": 1806,
+    "yearLate": 1806
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Long Island"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2000-83"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Apostool",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Gezicht op New Utrecht, Long Island, Amerika, Cornelis Apostool, 1806",
+  "subTitle": "h 150mm \u00d7 w 210mm",
+  "scLabelLine": "Cornelis Apostool, 1806, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

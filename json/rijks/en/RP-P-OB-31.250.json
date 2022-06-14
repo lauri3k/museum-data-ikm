@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-31.250",
+  "priref": "52312",
+  "objectNumber": "RP-P-OB-31.250",
+  "language": "en",
+  "title": "Triomf van Christus (vierde deel)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8e3bf5e3-8e6d-453f-a99c-3e57ac38c898",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1891,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/RG9WMg6PB_c9-uImJYPPC9L2WFgHXam2ViKetF8Z9TnDlDmY2qvpqTIlfqDIX3LfTYQEQB5A18ytiuLyOwia-E7YlYs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Triomf van Christus (vierde deel)"
+  ],
+  "description": "Gedeelte van de Triomf van Christus met verscheidene heiligen met martelwerktuigen. Bovenaan Franse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "in or after 1510 - in or after 1511",
+    "sortingDate": 1510,
+    "period": 16,
+    "yearEarly": 1510,
+    "yearLate": 1511
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(PETER)",
+      "11H(JOHN THE BAPTIST)",
+      "11D123(TAU-CROSS)"
+    ],
+    "iconClassDescription": [
+      "the apostle Peter, first bishop of Rome; possible attributes: book, cock, (upturned) cross, (triple) crozier, fish, key, scroll, ship, tiara",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "specific forms of the cross: Tau-cross"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-31.250"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "373"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "274"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Triomf van Christus (vierde deel), anonymous, in or after 1510 - in or after 1511",
+  "subTitle": "h 373mm \u00d7 w 274mm",
+  "scLabelLine": "anonymous, in or after 1510 - in or after 1511, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

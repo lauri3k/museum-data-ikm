@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-1504",
+  "priref": "33407",
+  "objectNumber": "RP-P-OB-1504",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "358a6ab9-8fbe-4e45-a7f1-71f96d8c6da0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2210,
+    "height": 780,
+    "url": "https://lh3.googleusercontent.com/mTYXJnYDnHhKutbN0fpllU8t1CvJAjVcrC--_NLF1peyyHayLOlQva1tgCjGPMRwYLsbwNQ3SEx8DGn1Tb3ET4eIvolcsWO7X6D8Ld8i=s0"
+  },
+  "colors": [
+    {
+      "percentage": 58,
+      "hex": "#FAF7EE"
+    },
+    {
+      "percentage": 28,
+      "hex": " #DAD2BF"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B8B1A0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #959083"
+    },
+    {
+      "percentage": 1,
+      "hex": " #767061"
+    },
+    {
+      "percentage": 1,
+      "hex": " #5E5A4C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3E3A30"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FAF7EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DAD2BF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B8B1A0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #959083",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #767061",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5E5A4C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3E3A30",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 28,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 91,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Doornenkroning",
+    "Albertina Passie"
+  ],
+  "description": "Christus, zittend op een verhoging, krijgt een doornenkroon op het hoofd geduwd. Deze prent is onderdeel van de zogenoemde 'Albertina Passie', een onvoltooide passiereeks (4 prenten).",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Albrecht D\u00fcrer",
+      "unFixedName": "D\u00fcrer, Albrecht",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1471-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1528-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "school of",
+      "labelDesc": "school of Albrecht D\u00fcrer (24-mei-1471 - 05-apr-1528)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albrecht D\u00fcrer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1625 - 1700",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-1504"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 4",
+    "4",
+    "Meder 110",
+    "110"
+  ],
+  "principalOrFirstMaker": "Albrecht D\u00fcrer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Doornenkroning, Albrecht D\u00fcrer (school of), 1625 - 1700",
+  "subTitle": "h 249mm \u00d7 w 176mm",
+  "scLabelLine": "Albrecht D\u00fcrer, 1625 - 1700, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

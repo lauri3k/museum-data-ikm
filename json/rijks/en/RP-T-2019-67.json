@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2019-67",
+  "priref": "726360",
+  "objectNumber": "RP-T-2019-67",
+  "language": "en",
+  "title": "Unknown Title (Fantasy in RED)",
+  "copyrightHolder": "erven Herman Hana",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Herman Hana",
+      "unFixedName": "Hana, Herman",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1874-03-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1952-12-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Ermelo",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Herman Hana (17-mrt-1874 - 11-dec-1952), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Herman Hana",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2018-11-22T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard",
+    "ink"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1915 - 1925",
+    "sortingDate": 1915,
+    "period": 20,
+    "yearEarly": 1915,
+    "yearLate": 1925
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "5"
+    ],
+    "iconClassDescription": [
+      "Abstracte idee\u00c3\u00abn en concepten"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2019-67"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Herman Hana",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "495"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "324"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Unknown Title (Fantasy in RED), Herman Hana, 1915 - 1925",
+  "subTitle": "h 495mm \u00d7 w 324mm",
+  "scLabelLine": "Herman Hana (1874-1952), ink, paper, cardboard, c. 1915-1925",
+  "label": {
+    "title": "Unknown Title (Fantasy in RED)",
+    "makerLine": "Herman Hana (1874-1952), ink, paper, cardboard, c. 1915-1925",
+    "description": "Herman Hana wrote about modern art from 1910 on. He was one of the first to understand the intentions of his friend Piet Mondrian (1872-1944). As an artist, Hana himself also turned away from the depiction of existing things. He developed a machine for making abstract compositions and experimented with \u2018crystallisations\u2019 in which reactions of various substances determined the final image, out of the artist\u2019s control.",
+    "notes": null,
+    "date": "2019-10-22"
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2007-708",
+  "priref": "452727",
+  "objectNumber": "RP-P-2007-708",
+  "language": "en",
+  "title": "Gildebrief (bewijs van betaling) van het Amsterdamse Boekverkopers, Boekdrukkers en Kunstverkopers gilde voor Herman Veelwaard",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3faa43da-3fb5-4aa0-a3e3-44753b8d7603",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1968,
+    "url": "https://lh6.ggpht.com/qgrtwbxXnsOjtXgqfjKVIvZ_3fCL-jmEYnxWBDNmUUUlbq4fzG1hGcQjDaJIasfiK2n9rKeeqvPzcBaAG_mAV1ZUG5M=s0"
+  },
+  "colors": [
+    {
+      "percentage": 76,
+      "hex": "#B7A68A"
+    },
+    {
+      "percentage": 6,
+      "hex": " #978D78"
+    },
+    {
+      "percentage": 4,
+      "hex": " #605540"
+    },
+    {
+      "percentage": 4,
+      "hex": " #807155"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F6F6EB"
+    },
+    {
+      "percentage": 2,
+      "hex": " #373125"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D1CCBA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B7A68A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #978D78",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #605540",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #807155",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F6F6EB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #373125",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D1CCBA",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 76,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Gildebrief (bewijs van betaling) van het Amsterdamse Boekverkopers, Boekdrukkers en Kunstverkopers gilde voor Herman Veelwaard"
+  ],
+  "description": "In een cartouche, geflankeerd door putti en versierd met drukkersgereedschap, staat Mercurius met een boek in de hand. Boven de cartouche het wapen van Amsterdam waarboven een banderol met: Boekverkopers, Boekdruckers en Kunstverkopers Gilt. Onder de cartouche de tekst: Wy ondergeschreeven Overluyden (...) Actum Amsteldam. Met pen is de naam: Harmanus Veelwaart, plaatdrucker ingevuld, en zijn geboortedatum: 2 juni 1758. Gedateerd 15 Octob. 1764 en ondertekend door Petrus Schouten en Reinier Ottens.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2007-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1764",
+    "sortingDate": 1764,
+    "period": 18,
+    "yearEarly": 1764,
+    "yearLate": 1764
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92B5",
+      "49M"
+    ],
+    "iconClassDescription": [
+      "(story of) Mercury (Hermes)",
+      "gedrukt materiaal, boekdrukkunst"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [
+      "Schouten, Petrus",
+      "Ottens, Reinier (I)"
+    ],
+    "objectNumbers": [
+      "RP-P-2007-708"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Schouten, Petrus",
+    "Ottens, Reinier (I)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "154"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "196"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Gildebrief (bewijs van betaling) van het Amsterdamse Boekverkopers, Boekdrukkers en Kunstverkopers gilde voor Herman Veelwaard, anonymous, c. 1764",
+  "subTitle": "h 154mm \u00d7 w 196mm",
+  "scLabelLine": "anonymous, c. 1764, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

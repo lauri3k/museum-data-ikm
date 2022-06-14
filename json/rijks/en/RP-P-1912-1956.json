@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1912-1956",
+  "priref": "130222",
+  "objectNumber": "RP-P-1912-1956",
+  "language": "en",
+  "title": "Portret van Karl Ludwig von Cocceji",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Karl Ludwig von Cocceji"
+  ],
+  "description": "Portret en profil naar links in een ovale medaillon met tekst in het Duits onderaan.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Friedrich J\u00fcgel",
+      "unFixedName": "J\u00fcgel, Friedrich",
+      "placeOfBirth": "Remagen",
+      "dateOfBirth": "1772-07-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1833",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Berlin"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Friedrich J\u00fcgel (22-jul-1772 - 1833), Berlin"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Friedrich J\u00fcgel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Berlin"
+  ],
+  "dating": {
+    "presentingDate": "1782 - 1833",
+    "sortingDate": 1782,
+    "period": 18,
+    "yearEarly": 1782,
+    "yearLate": 1833
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44G16",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "lawyer, attorney at law",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Cocceji, Karl Ludwig von"
+    ],
+    "objectNumbers": [
+      "RP-P-1912-1956"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Cocceji, Karl Ludwig von"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Friedrich J\u00fcgel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "202"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Karl Ludwig von Cocceji, Friedrich J\u00fcgel, 1782 - 1833",
+  "subTitle": "h 202mm \u00d7 w 155mm",
+  "scLabelLine": "Friedrich J\u00fcgel, 1782 - 1833, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

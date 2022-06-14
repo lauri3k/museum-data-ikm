@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1957-22",
+  "priref": "16281",
+  "objectNumber": "BK-1957-22",
+  "language": "en",
+  "title": "Jug",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fd490dde-58c8-44b6-956c-0a1945065604",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1875,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/EJMdg__djUpbE5f_HZ9K_lVugoDr0kQbGKCzRV9qWP81yLKIv1CS9fDdEV9wexQyoylFlOycFJwyQ5kfCmN9UFVCvg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 74,
+      "hex": "#BDC4CF"
+    },
+    {
+      "percentage": 10,
+      "hex": " #292D56"
+    },
+    {
+      "percentage": 4,
+      "hex": " #83858D"
+    },
+    {
+      "percentage": 4,
+      "hex": " #565B77"
+    },
+    {
+      "percentage": 3,
+      "hex": " #989EAC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #0A0C24"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F2F3F4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BDC4CF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #292D56",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #83858D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #565B77",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #989EAC",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #0A0C24",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F2F3F4",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 74,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 3,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Kan van faience met een zilveren deksel. Veelkleurig beschilderd met bloemtakken en insekten.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1695 - c. 1715",
+    "sortingDate": 1695,
+    "period": 17,
+    "yearEarly": 1695,
+    "yearLate": 1715
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A9833"
+    ],
+    "iconClassDescription": [
+      "flowers ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1957-22"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "vergelijking: J.H. Snijders, \"zilveren monturen op ceramiek\" Vormen uit Vuur, vol. 176 (2001/3), pp. 12-25"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "16.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "13.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Jug, anonymous, c. 1695 - c. 1715",
+  "subTitle": "h 16.5cm \u00d7 w 13.0cm \u00d7 d 9.0cm",
+  "scLabelLine": "Delft, c. 1695\u20131715, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Jug",
+    "makerLine": "Delft, c. 1695\u20131715, tin-glazed earthenware (faience)",
+    "description": "The colour pattern of this jug resembles that found on late 17th-century crockery from Nevers in central France. The technique of white decorations on a blue ground is known as \u2018Persian Blue\u2019. The shape of this vessel is derived from metal ewers from the Middle East.",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

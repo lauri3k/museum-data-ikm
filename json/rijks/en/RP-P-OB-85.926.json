@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-85.926",
+  "priref": "505988",
+  "objectNumber": "RP-P-OB-85.926",
+  "language": "en",
+  "title": "De Oranjetuin, 1787",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "876997c5-07af-44b8-9eb9-3189b855a44c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1875,
+    "url": "https://lh4.ggpht.com/0ju3ML-IFvfKzpHWHJZrfKFOpudgZLJKR13RtJRO0-IYNlFAzBni0oOQDI0WGVhx4jQsYfqlnajKQaQW418wVAcQnQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De Oranjetuin, 1787",
+    "De Orange Tuyn / Les jardin d'Orange"
+  ],
+  "description": "Allegorie op het herstel van stadhouder Willem V in 1787. In een tuin met geschoren hagen en fonteinen staan op voetstukken borstbeelden van prins Willem V, zijn vrouw en kinderen. Achterin een standbeeld van de Faam met bazuin Vivat Willem, in de lucht de Pruisische adelaar. Op de voorgrond Vader Tijd, figuur met mercuriusstaf, de wapens van Oranje en Pruisen, de vrijheid en Minerva. Links komt de zon op, rechts onweert het.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Joseph Gleich",
+      "unFixedName": "Gleich, Joseph",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Gleich, Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joseph Gleich",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1787 - 1788",
+    "sortingDate": 1787,
+    "period": 18,
+    "yearEarly": 1787,
+    "yearLate": 1788
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F33(EAGLE)",
+      "23A1"
+    ],
+    "iconClassDescription": [
+      "predatory birds: eagle",
+      "Father Time, man with wings and scythe"
+    ],
+    "motifs": [],
+    "events": [
+      "Herstel van stadhouder Willem V (1787)"
+    ],
+    "periods": [
+      "17871787"
+    ],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)",
+      "Wilhelmina van Pruisen (1751-1820)",
+      "Louise (prinses van Oranje-Nassau)",
+      "Willem George Frederik (prins van Oranje-Nassau)",
+      "Willem I (koning der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-85.926"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)",
+    "Wilhelmina van Pruisen (1751-1820)",
+    "Louise (prinses van Oranje-Nassau)",
+    "Willem George Frederik (prins van Oranje-Nassau)",
+    "Willem I (koning der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 306, nr. 4987."
+  ],
+  "catRefRPK": [
+    "FMH 4987",
+    "4987",
+    "Atlas van Stolk 4910",
+    "4910"
+  ],
+  "principalOrFirstMaker": "Joseph Gleich",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "320"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "425"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "De Oranjetuin, 1787, Joseph Gleich, 1787 - 1788",
+  "subTitle": "h 320mm \u00d7 w 425mm",
+  "scLabelLine": "Joseph Gleich, 1787 - 1788, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

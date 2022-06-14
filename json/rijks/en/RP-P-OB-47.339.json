@@ -1,0 +1,190 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-47.339",
+  "priref": "722747",
+  "objectNumber": "RP-P-OB-47.339",
+  "language": "en",
+  "title": "Gezicht op de rede van Kaap de Goede Hoop",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0c706930-269e-407e-89de-99aa93fa6f41",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1645,
+    "url": "https://lh3.googleusercontent.com/PB66--UEeBFjzqyvL6VqmJDWldlNr-1C3uXGMQYmYujbkJz7siA0-fboLEPg5mDq2z6fa3LsnVk5U5ogXWFhKC_J2kYpSbHRGxgIUcTl=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de rede van Kaap de Goede Hoop"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Petrus Conradi",
+      "unFixedName": "Conradi, Petrus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Petrus Conradi"
+    },
+    {
+      "name": "Volkert van der Plaats",
+      "unFixedName": "Plaats, Volkert van der",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Harlingen"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Volkert van der Plaats, Harlingen"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Simon Fokke",
+      "unFixedName": "Fokke, Simon",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1712-09-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1784-04-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Simon Fokke (01-sep-1712 - 10-apr-1784), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Simon Fokke",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1975-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Harlingen"
+  ],
+  "dating": {
+    "presentingDate": "1768 - 1784",
+    "sortingDate": 1768,
+    "period": 18,
+    "yearEarly": 1768,
+    "yearLate": 1784
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C222",
+      "25H1313"
+    ],
+    "iconClassDescription": [
+      "ship in the roads, roadstead",
+      "cape (coast)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kaap de Goede Hoop"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-47.339"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Simon Fokke",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "177"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "276"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de rede van Kaap de Goede Hoop, Simon Fokke, 1768 - 1784",
+  "subTitle": "h 177mm \u00d7 w 276mm",
+  "scLabelLine": "Simon Fokke, 1768 - 1784, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

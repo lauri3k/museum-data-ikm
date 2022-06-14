@@ -1,0 +1,343 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.634-13",
+  "priref": "463670",
+  "objectNumber": "RP-P-OB-81.634-13",
+  "language": "en",
+  "title": "De begrafenisstoet van Frederik Hendrik (plaat nr. 13), 1647",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "55cef0c9-637f-4b1e-a284-536ae4cc367b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2940,
+    "height": 1846,
+    "url": "https://lh6.ggpht.com/1SP17dzcDBEEjY_uruIGuEE3JUIJOPYJ9l7zT9NJ7NdoDHTR8TYhNx5ItCwieDnLgkyaTJp-1E6FSZwMlQhy8auTM2Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 68,
+      "hex": "#F6F1DA"
+    },
+    {
+      "percentage": 7,
+      "hex": " #AAA394"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7F796C"
+    },
+    {
+      "percentage": 16,
+      "hex": " #D9D1BB"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5C574B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #3D3931"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F1DA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #AAA394",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7F796C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D9D1BB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5C574B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3D3931",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 68,
+      "hex": "#FFF8DC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "De begrafenisstoet van Frederik Hendrik (plaat nr. 13), 1647",
+    "De begrafenisstoet van stadhouder Frederik Hendrik te 's-Gravenhage in 1647",
+    "Begraeffenisse van Syne Hoogheyt Frederick Henrick, by der Gratien Gods Prince van Orange, Grave van Nassau &c"
+  ],
+  "description": "De begrafenisstoet van stadhouder Frederik Hendrik te 's-Gravenhage op 10 mei 1647. Plaat nr. 13 met een deel van de stoet met vaandeldragers en drie paarden, boven de personen staan hun naam en functie. Onderdeel van een serie van 30 platen en 20 tekstbladen, bedoeld om aan elkaar geplakt te worden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Jansz. Post",
+      "unFixedName": "Post, Pieter Jansz.",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1608",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-05-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Jansz. Post (1608 - 02-mei-1669), The Hague"
+    },
+    {
+      "name": "Pieter Nolpe",
+      "unFixedName": "Nolpe, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1614",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1653",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Nolpe (c. 1614 - c. 1653), Amsterdam"
+    },
+    {
+      "name": "Nicolaes van Ravesteyn",
+      "unFixedName": "Ravesteyn, Nicolaes van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Nicolaes van Ravesteyn, Amsterdam"
+    },
+    {
+      "name": "Staten van Holland en West-Friesland",
+      "unFixedName": "Staten van Holland en West-Friesland",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Staten van Holland en West-Friesland"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter Nolpe",
+      "unFixedName": "Nolpe, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1614",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1653",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Nolpe (c. 1614 - c. 1653), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Nolpe",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2008-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "The Hague",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1647 - 1651",
+    "sortingDate": 1647,
+    "period": 17,
+    "yearEarly": 1647,
+    "yearLate": 1651
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E22"
+    ],
+    "iconClassDescription": [
+      "cortege, funeral procession"
+    ],
+    "motifs": [],
+    "events": [
+      "Begrafenis van Frederik Hendrik"
+    ],
+    "periods": [
+      "1647-05-101647-05-10"
+    ],
+    "places": [
+      "Den Haag"
+    ],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-81.634-13"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 272, nr. 1924/13."
+  ],
+  "catRefRPK": [
+    "FMH 1924",
+    "1924",
+    "Hollstein Dutch 186",
+    "186",
+    "Atlas van Stolk 1929",
+    "1929",
+    "Orn Cat II 9800",
+    "9800"
+  ],
+  "principalOrFirstMaker": "Pieter Nolpe",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "212"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "552"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "De begrafenisstoet van Frederik Hendrik (plaat nr. 13), 1647, Pieter Nolpe, 1647 - 1651",
+  "subTitle": "h 212mm \u00d7 w 552mm",
+  "scLabelLine": "Pieter Nolpe, 1647 - 1651, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

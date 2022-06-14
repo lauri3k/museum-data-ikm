@@ -1,0 +1,259 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-895",
+  "priref": "1494",
+  "objectNumber": "AK-MAK-895",
+  "language": "en",
+  "title": "Teabowl with an orange red glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "af35cf03-1ce9-42ee-9535-db96c700be5f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/J8-WP0sMz7HMn31A1eHFMHYio9iLcpoDR98yxOgVFQLQ6ep1aRyfPJ65gZckT2sk3IdSEqJ-xDLt5YY4f-BMtefC5w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 9,
+      "hex": "#998674"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F8F3EE"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B6A494"
+    },
+    {
+      "percentage": 14,
+      "hex": " #6D5A4A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #46301E"
+    },
+    {
+      "percentage": 60,
+      "hex": " #DAC4B0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#998674",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F8F3EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B6A494",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6D5A4A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #46301E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DAC4B0",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#FFDAB9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF5EE"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 74,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 24,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Teabowl with an orange red glaze"
+  ],
+  "description": "Theekom van steengoed, bedekt met een gecraqueleerd oranjerood glazuur. Op de onderzijde buiten de voetring opschriften in rood: \u53e4\u697d 'koraku' 'oud raku' en een gegeven naam voor de kom, \u51ac\u7c60 'fuyugomori' 'overwinteren/winterse afzondering' en gecursiveerde signatuur (ka\u014d). Fuyugomori verwijst naar het 's winters binnenshuis ge\u00efsoleerd zijn als gevolg van koude of hevige sneeuwval; het wordt gebruikt als seizoenswoord in Japanse poezie. Raku (rood).",
+  "labelText": null,
+  "objectTypes": [
+    "bowl"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Kyoto"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Kyoto"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "painting",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan",
+    "Kyoto"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700 - c. 1899",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-895"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "9.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Teabowl with an orange red glaze, anonymous, anonymous, c. 1700 - c. 1899",
+  "subTitle": "h 9.1cm \u00d7 d 10cm",
+  "scLabelLine": "anonymous, c. 1700 - c. 1899, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

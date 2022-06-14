@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-1630",
+  "priref": "138403",
+  "objectNumber": "RP-P-1904-1630",
+  "language": "en",
+  "title": "Ruiter ontdekt twee badende vrouwen tussen het riet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b7260ee2-ab33-400a-b77a-1011e82388f4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1832,
+    "url": "https://lh3.googleusercontent.com/vg8TjKissKtDsBwb4KBvu5Z8uDfxN1wTMSJsXzwW1G7h_rOIKIpYocKCSRBJtT-Rdm_odUcOYL9qqVv-_Af1Ba0itZZ2UIbdi4hpdwLy=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ruiter ontdekt twee badende vrouwen tussen het riet"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Victor Jacques Bertauts",
+      "unFixedName": "Bertauts, Victor Jacques",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1810-05-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1881",
+      "dateOfDeathPrecision": "in or before",
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Victor Jacques Bertauts (07-mei-1810 - in or before 1881), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Eug\u00e8ne Leroux",
+      "unFixedName": "Leroux, Eug\u00e8ne",
+      "placeOfBirth": "Caen",
+      "dateOfBirth": "1807",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1863-08-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Eug\u00e8ne Leroux (1807 - 28-aug-1863)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Eug\u00e8ne Leroux",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-05-10T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1827 - 1863",
+    "sortingDate": 1827,
+    "period": 19,
+    "yearEarly": 1827,
+    "yearLate": 1863
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C131",
+      "25G4(REED)",
+      "31AA545"
+    ],
+    "iconClassDescription": [
+      "riding a horse, ass, or mule; rider, horseman",
+      "plants and herbs: reed",
+      "taking a bath - AA - in the open air"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1904-1630"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Eug\u00e8ne Leroux",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "308"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "434"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Ruiter ontdekt twee badende vrouwen tussen het riet, Eug\u00e8ne Leroux, 1827 - 1863",
+  "subTitle": "h 308mm \u00d7 w 434mm",
+  "scLabelLine": "Eug\u00e8ne Leroux, 1827 - 1863, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

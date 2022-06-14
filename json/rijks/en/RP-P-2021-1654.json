@@ -1,0 +1,146 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2021-1654",
+  "priref": "785930",
+  "objectNumber": "RP-P-2021-1654",
+  "language": "en",
+  "title": "Portret van Izaak le Long op 49-jarige leeftijd",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Izaak le Long op 49-jarige leeftijd"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Houbraken",
+      "unFixedName": "Houbraken, Jacob",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1698-12-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1780-11-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Houbraken (25-dec-1698 - 14-nov-1780), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Houbraken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2021-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1732",
+    "sortingDate": 1732,
+    "period": 18,
+    "yearEarly": 1732,
+    "yearLate": 1732
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "49K1(+3)",
+      "48A9877"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "history and archaeology (+ portrait of scholar, scientist)",
+      "ornament ~ medallion"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Long, Izaak le"
+    ],
+    "objectNumbers": [
+      "RP-P-2021-1654"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Long, Izaak le"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMP 3280a",
+    "3280a",
+    "Ver Huell 272",
+    "272"
+  ],
+  "principalOrFirstMaker": "Jacob Houbraken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "169"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "131"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Izaak le Long op 49-jarige leeftijd, Jacob Houbraken, 1732",
+  "subTitle": "h 169mm \u00d7 w 131mm",
+  "scLabelLine": "Jacob Houbraken, 1732, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

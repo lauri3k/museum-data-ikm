@@ -1,0 +1,285 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-10.344",
+  "priref": "367518",
+  "objectNumber": "RP-P-OB-10.344",
+  "language": "en",
+  "title": "Calpurnius",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ff94e072-2d3f-49ca-a316-b770ac7bb16f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1628,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/tKlzivmzShvMq7dRHDbuz5A4T8Hu0-6GvWVaJgGL5ElXJJlEYUw1YqXPL63K1RnrVXgV-0kwdUJw_k7oAjsuL5as8Uk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#E5E5E5"
+    },
+    {
+      "percentage": 16,
+      "hex": " #AFAFAF"
+    },
+    {
+      "percentage": 12,
+      "hex": " #898989"
+    },
+    {
+      "percentage": 15,
+      "hex": " #5A5A5A"
+    },
+    {
+      "percentage": 11,
+      "hex": " #363636"
+    },
+    {
+      "percentage": 0,
+      "hex": " #171717"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E5E5E5",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #AFAFAF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #898989",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5A5A5A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #363636",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #171717",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 27,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 28,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Calpurnius",
+    "De Romeinse helden"
+  ],
+  "description": "De held Marcus Calpurnius Flama ten voeten uit, op de linkerzijde gezien. Op de achtergrond is te zien hoe hij met een klein leger consul Attilius Calatinus redde uit een hinderlaag. Onder de voorstelling twee maal twee versregels in Latijn. Deze prent is onderdeel van een serie van tien prenten, bestaand uit een ongenummerde titelprent, acht genummerde voorstellingen van helden en een ongenummerde afsluitende prent.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Franco Estius",
+      "unFixedName": "Estius, Franco",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Franco Estius"
+    },
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": null,
+      "labelDesc": "Hendrick Goltzius (jan-1558 - 01-jan-1617), Haarlem"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick Goltzius (jan-1558 - 01-jan-1617), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick Goltzius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1586",
+    "sortingDate": 1586,
+    "period": 16,
+    "yearEarly": 1586,
+    "yearLate": 1586
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "98B(CALPURNIUS, M.)"
+    ],
+    "iconClassDescription": [
+      "male persons from classical history (CALPURNIUS, M.)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-10.344"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 103",
+    "103",
+    "Hollstein Dutch 169",
+    "169",
+    "New Hollstein Dutch 171",
+    "171"
+  ],
+  "principalOrFirstMaker": "Hendrick Goltzius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "370"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "236"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Calpurnius, Hendrick Goltzius, 1586",
+  "subTitle": "h 370mm \u00d7 w 236mm",
+  "scLabelLine": "Hendrick Goltzius, 1586, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

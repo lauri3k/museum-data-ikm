@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1983-45-50",
+  "priref": "420497",
+  "objectNumber": "RP-P-1983-45-50",
+  "language": "en",
+  "title": "Landschap met Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a6e825e9-7bec-4b42-9564-08803e4b8be2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1690,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/NxxiZ9iIN0d_LwiXYUTsl3RWjNccmSMSixE-yrV-fZdyM_Izj0oeYtNDvZhUIU97OLSRT6FyikP6iI5KR4ml4qcZQyI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Landschap met Johannes de Doper",
+    "Landschappen met heiligen"
+  ],
+  "description": "Glooiend rivierlandschap met biddende Johannes de Doper. Naast de knielende figuur ligt een lam. Onder de voorstelling een verwijzing in het Latijn naar de Bijbeltekst in Mat. 3. Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johann Sadeler (I)",
+      "unFixedName": "Sadeler, Johann (I)",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1600-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Sadeler (I) (1550 - aug-1600)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1983-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1560 - 1600",
+    "sortingDate": 1560,
+    "period": 16,
+    "yearEarly": 1560,
+    "yearLate": 1600
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1983-45-50"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 123",
+    "123"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "262"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "192"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Landschap met Johannes de Doper, anonymous, 1560 - 1600",
+  "subTitle": "h 262mm \u00d7 w 192mm",
+  "scLabelLine": "anonymous, 1560 - 1600, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

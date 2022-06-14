@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1958",
+  "priref": "5545",
+  "objectNumber": "SK-A-1958",
+  "language": "en",
+  "title": "The Card Players",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b30f6799-7c6c-432e-9153-525d28110d91",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2394,
+    "url": "https://lh3.googleusercontent.com/zzXLmeYWormtv1tsurgXs2V7sV0antm86aNMAHRl0x63wCpjrka66-kjz7SRFuJdnfLWUrXHs3aCojRMvUuvCQBaUf0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 72,
+      "hex": "#252018"
+    },
+    {
+      "percentage": 16,
+      "hex": " #514636"
+    },
+    {
+      "percentage": 6,
+      "hex": " #5A6466"
+    },
+    {
+      "percentage": 3,
+      "hex": " #84816D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #6D5E44"
+    },
+    {
+      "percentage": 0,
+      "hex": " #AEA689"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CEC4A3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#252018",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #514636",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5A6466",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #84816D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6D5E44",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AEA689",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CEC4A3",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "The Card Players"
+  ],
+  "description": "De kaartspelers. Een groep mannen zit rond een ton te kaarten. Terwijl hun aandacht wordt afgeleid door een vechtpartij  wordt de man links door een jongetje bestolen. Een hond ligt op de grond te slapen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michael Sweerts",
+      "unFixedName": "Sweerts, Michael",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1618-09-29",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1664",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Goa",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Michael Sweerts (29-sep-1618 - 1664)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michael Sweerts",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1901-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1646 - c. 1652",
+    "sortingDate": 1646,
+    "period": 17,
+    "yearEarly": 1646,
+    "yearLate": 1652
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1958"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michael Sweerts",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "71"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "74"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Card Players, Michael Sweerts, c. 1646 - c. 1652",
+  "subTitle": "h 71cm \u00d7 w 74cm \u00d7 d 6.1cm",
+  "scLabelLine": "Michael Sweerts (1618-1664), oil on canvas, c. 1646-1652",
+  "label": {
+    "title": "The Card Players",
+    "makerLine": "Michael Sweerts (1618-1664), oil on canvas, c. 1646-1652",
+    "description": "This card game is interrupted by a brawl that has erupted. The players\u2019 gazes and the outstretched arm of the man in front direct our attention to the right. The painting may symbolize idleness as a counterpart to Sweerts\u2019 genre scenes of industrious artists from the same period. One person, however, is hard at \u2018work\u2019: a sly young pickpocket takes advantage of the chaos to rob the man in blue.",
+    "notes": null,
+    "date": "2019-07-12"
+  },
+  "showImage": true,
+  "location": null
+}

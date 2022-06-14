@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1944-56",
+  "priref": "201366",
+  "objectNumber": "RP-T-1944-56",
+  "language": "en",
+  "title": "Ontwerp voor een titelpagina met een vrouw met een monstrans",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "35844f9e-5947-408e-9374-af42db2e4e3e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1412,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/qiFvphL9zvqESeNxkSgN_DEzo84K7-6-yRZpvsBk4dwSXHOdJAphEAFgWjcoLZI2BD3u8SSrTAscyclAjjGiNfNbxPQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 38,
+      "hex": "#DFDBA7"
+    },
+    {
+      "percentage": 25,
+      "hex": " #B5B28A"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A38663"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FAF8F2"
+    },
+    {
+      "percentage": 4,
+      "hex": " #666556"
+    },
+    {
+      "percentage": 3,
+      "hex": " #484640"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D06A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DFDBA7",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B5B28A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A38663",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #FAF8F2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #666556",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #484640",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #D3D06A",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#EEE8AA"
+    },
+    {
+      "percentage": 25,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F0E68C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Ontwerp voor een titelpagina met een vrouw met een monstrans"
+  ],
+  "description": "Vrouw met monstrans, gezeten bij de tafelen der wet voor een oranjeboom. Banderol met opschrift: vici-mooge-offenzi (?).",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Abraham van Strij (I)",
+      "unFixedName": "Strij, Abraham van (I)",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1753-12-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1826-03-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Dordrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham van Strij (I) (31-dec-1753 - 07-mrt-1826)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham van Strij (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1944-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "brush",
+    "pen"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1763 - 1826",
+    "sortingDate": 1763,
+    "period": 18,
+    "yearEarly": 1763,
+    "yearLate": 1826
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11Q71444",
+      "11L211",
+      "25G3(ORANGE-TREE)"
+    ],
+    "iconClassDescription": [
+      "ostensorium, monstrance",
+      "the ten commandments represented together on stone tablets",
+      "trees: orange-tree"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1944-56"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Abraham van Strij (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "185"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "98"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Ontwerp voor een titelpagina met een vrouw met een monstrans, Abraham van Strij (I), 1763 - 1826",
+  "subTitle": "h 185mm \u00d7 w 98mm",
+  "scLabelLine": "Abraham van Strij (I), 1763 - 1826, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

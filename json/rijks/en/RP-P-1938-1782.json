@@ -1,0 +1,193 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1938-1782",
+  "priref": "297305",
+  "objectNumber": "RP-P-1938-1782",
+  "language": "en",
+  "title": "Kalenderblad oktober met eenden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f6d2675b-5159-4c20-8194-b3c006ada1da",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1269,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/oVfgF8OuGzjrg1WiYIsiFpaegdEa83ooz_bqplBSauDmttFiTusi0iSTPKDky8JoZw39ppog4vh9ywYcxPJSSQbAVlBzePU5faswg-BI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Kalenderblad oktober met eenden",
+    "Kalender 1916 12 lithografien door Th. v. Hoytema"
+  ],
+  "description": "Bovenin drijven eenden in het water bij een boom. Onderin vliegen eenden op uit het riet. In de hoeken de standen van de maan op vier dagen. Bovenaan het blad een scheurlijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Tresling & Comp.",
+      "unFixedName": "Tresling & Comp.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Tresling & Comp., Amsterdam"
+    },
+    {
+      "name": "Firma Ferwerda en Tieman",
+      "unFixedName": "Ferwerda en Tieman, Firma",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Firma Ferwerda en Tieman, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Theo van Hoytema",
+      "unFixedName": "Hoytema, Theo van",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1863-12-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1917-08-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Theo van Hoytema (18-dec-1863 - 28-aug-1917), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Theo van Hoytema",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1938-01-01T00:00:00",
+    "creditLine": "Gift of J.E. van Nierop"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1915",
+    "sortingDate": 1915,
+    "period": 20,
+    "yearEarly": 1915,
+    "yearLate": 1915
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "23C2",
+      "23N41",
+      "25F36(DUCK)",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "lunar year",
+      "October ~ other concepts",
+      "water-birds: duck",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1938-1782"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Theo van Hoytema",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "420"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Kalenderblad oktober met eenden, Theo van Hoytema, 1915",
+  "subTitle": "h 420mm \u00d7 w 210mm",
+  "scLabelLine": "Theo van Hoytema, 1915, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

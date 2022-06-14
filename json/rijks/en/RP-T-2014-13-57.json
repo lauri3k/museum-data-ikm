@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2014-13-57",
+  "priref": "546936",
+  "objectNumber": "RP-T-2014-13-57",
+  "language": "en",
+  "title": "The Roman beggar Bajocco",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d149eabc-8853-4d23-a16b-27711976a5fc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1997,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/J8_8Z_yjp2tb8YXODKVXRhRjSqEcHBEGjBG8u54sQrXA9CUiy5hIw06_uL_XzQIB8_tMTli2pTJpTpIrcE-aR8lY0os=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Tekening uit een groep tekeningen van landschappen en stadsgezichten in Itali\u00eb (Rome, Tivoli, Civita Castellana en Pozzuoli).",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean Grandjean",
+      "unFixedName": "Grandjean, Jean",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1752",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1781",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": null,
+      "labelDesc": "Jean Grandjean (1752 - 1781), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Grandjean",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2013-01-01T00:00:00",
+    "creditLine": "Private gift"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1762 - 1781",
+    "sortingDate": 1762,
+    "period": 18,
+    "yearEarly": 1762,
+    "yearLate": 1781
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "46A151",
+      "31A422"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "beggar",
+      "little people"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Rome"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2014-13-57"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean Grandjean",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "292"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "218"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "The Roman beggar Bajocco, Jean Grandjean, 1762 - 1781",
+  "subTitle": "h 292mm \u00d7 w 218mm",
+  "scLabelLine": "Jean Grandjean (1755\u20131781), black and white chalk on blue paper, c. 1780",
+  "label": {
+    "title": "The Roman beggar Bajocco",
+    "makerLine": "Jean Grandjean (1755\u20131781), black and white chalk on blue paper, c. 1780",
+    "description": "The beggar dwarf Francesco Ravai, nicknamed Bajocco (after a small Roman coin worth only a few pence) must have been a sight to behold in late 18th-century Rome. Various artists immortalized his striking appearance, characterized by his thick head of hair and full beard. As a reminder Grandjean noted that Bajocco was wearing red pants when he drew him.",
+    "notes": null,
+    "date": "2014-10-07"
+  },
+  "showImage": true,
+  "location": null
+}

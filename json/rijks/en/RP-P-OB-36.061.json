@@ -1,0 +1,173 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-36.061",
+  "priref": "109163",
+  "objectNumber": "RP-P-OB-36.061",
+  "language": "en",
+  "title": "Doortocht door de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1cada793-ff6e-4fb6-991c-4baf1de0a6da",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1636,
+    "url": "https://lh3.googleusercontent.com/T_nrpb__8DZnOgkKgLasdxU3zRicwYAa_BCv2-oooAXxZvzM-V-kqgB1BHJAVuRh7t7igDQk1caTiqFxJGFLqubycjM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doortocht door de Rode Zee"
+  ],
+  "description": "De Farao en zijn soldaten verdrinken in de Rode Zee. Mozes en de Isra\u00eblieten staan veilig aan wal.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gaspare dall'Olio",
+      "unFixedName": "Olio, Gaspare dall'",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman",
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gaspare dall'Olio, Italy"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Orazio Farinati",
+      "unFixedName": "Farinati, Orazio",
+      "placeOfBirth": null,
+      "dateOfBirth": "1559",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1616",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter",
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Orazio Farinati (1559 - after 1616), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Orazio Farinati",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1593 - 1595",
+    "sortingDate": 1593,
+    "period": 16,
+    "yearEarly": 1593,
+    "yearLate": 1595
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E122"
+    ],
+    "iconClassDescription": [
+      "passage through the Red Sea"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-36.061"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 1",
+    "1",
+    "Bartsch 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "Orazio Farinati",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "354"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "556"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Doortocht door de Rode Zee, Orazio Farinati, 1593 - 1595",
+  "subTitle": "h 354mm \u00d7 w 556mm",
+  "scLabelLine": "Orazio Farinati, 1593 - 1595, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

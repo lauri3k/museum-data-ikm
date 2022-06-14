@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4399",
+  "priref": "10298",
+  "objectNumber": "SK-A-4399",
+  "language": "en",
+  "title": "George III (1738-1820), koning van Engeland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "841b00ed-350a-4d68-aaf2-a0b1ffb651a0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2428,
+    "height": 2568,
+    "url": "https://lh4.ggpht.com/hS-FmtLfCYShIlTm-IcGLG30GL6eUVjTgX8sj5Eym9uebjVWSuWQx-49icSl733vihNJQD64saZcWRoDJ4UjgPs6MVLp=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "George III (1738-1820), koning van Engeland"
+  ],
+  "description": "Portret van George III (1738-1820), koning van Engeland. Buste, in profiel naar links. In een omlijsting met de spreuk 'Long Live The King'. Onderdeel van de collectie portretminiaturen.",
+  "labelText": null,
+  "objectTypes": [
+    "miniature (painting)"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "ivory",
+    "metal",
+    "glass"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1760 - 1780",
+    "sortingDate": 1760,
+    "period": 18,
+    "yearEarly": 1760,
+    "yearLate": 1780
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "George III (koning van het Verenigd Koninkrijk)"
+    ],
+    "objectNumbers": [
+      "SK-A-4399"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "George III (koning van het Verenigd Koninkrijk)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "5.2"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "0.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "ivory",
+  "longTitle": "George III (1738-1820), koning van Engeland, anonymous, 1760 - 1780",
+  "subTitle": "h 6cm \u00d7 w 5.2cm \u00d7 d 0.5cm",
+  "scLabelLine": "anonymous, 1760 - 1780, ivory",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

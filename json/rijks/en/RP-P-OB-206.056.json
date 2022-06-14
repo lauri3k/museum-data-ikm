@@ -1,0 +1,192 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-206.056",
+  "priref": "557240",
+  "objectNumber": "RP-P-OB-206.056",
+  "language": "en",
+  "title": "De roode kleur",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5942951c-4e01-455f-9901-95277af9f074",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1839,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/IFOF8s8koqi7dD1M4ZKrsNDPiIgMoNhfoXSVMh_kot1bPP3rUUlDXm4NS5iscewQ5Ly1yj-k7J-A1YKJCMzxZDAJAoo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De roode kleur",
+    "Imagerie Artistique / S\u00e9rie 13"
+  ],
+  "description": "Blad met 4 rijen met voorstellingen van Anton die alles in huis rood verft als zijn ouders van huis zijn. Onder elke afbeelding een onderschrift in een tekstblok. Genummerd linksboven: S\u00e9rie 13. - No. 17.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "R. De la Nezi\u00e8re",
+      "unFixedName": "De la Nezi\u00e8re, R.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "designer"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object R. De la Nezi\u00e8re"
+    },
+    {
+      "name": "Albert Quantin",
+      "unFixedName": "Quantin, Albert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1850",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1933",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albert Quantin (1850 - 1933), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Ducourtioux & Huillard",
+      "unFixedName": "Ducourtioux & Huillard",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ducourtioux & Huillard"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ducourtioux & Huillard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1895",
+    "sortingDate": 1895,
+    "period": 19,
+    "yearEarly": 1895,
+    "yearLate": 1895
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84",
+      "22C4(RED)",
+      "48C51",
+      "42B8",
+      "57AA1"
+    ],
+    "iconClassDescription": [
+      "verhalen en sprookjes",
+      "colours, pigments, and paints: red",
+      "painting (including book-illumination, miniature-painting)",
+      "correction of naughty children",
+      "Bad Behaviour"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-206.056"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ducourtioux & Huillard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "363"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "265"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "De roode kleur, Ducourtioux & Huillard, 1895",
+  "subTitle": "h 363mm \u00d7 w 265mm",
+  "scLabelLine": "Ducourtioux & Huillard, 1895, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-00-493-61B",
+  "priref": "474232",
+  "objectNumber": "RP-T-00-493-61B",
+  "language": "en",
+  "title": "Oponthoud bij de Grotte delle Capre aan de grens bij Nemorosa en Fredda",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "539d523a-36cf-4e2c-a08c-4bfa171669a6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1818,
+    "url": "https://lh3.googleusercontent.com/5YVrudx4aafAnliDX2UNuD2WnTs4-ij7aMFoLW0hG2_FbK2xBiEOvPxL-GNfMPLUXKBjvpxHVcZDPBY-v8Fjalvb3Bx8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#EEEEE3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #5D5649"
+    },
+    {
+      "percentage": 17,
+      "hex": " #8F8167"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B3B5AA"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C4CAC2"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A19F93"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EEEEE3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5D5649",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8F8167",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B3B5AA",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C4CAC2",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A19F93",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#FFFFF0"
+    },
+    {
+      "percentage": 29,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 17,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 26,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 24,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Oponthoud bij de Grotte delle Capre aan de grens bij Nemorosa en Fredda",
+    "Halte \u00e0 la grotte delle Capre aux confins des deux R\u00e9gions Nemorosa & Fredda",
+    "Voyage en Italie, en Sicile et \u00e0 Malte - 1778"
+  ],
+  "description": "Tekening uit het album 'Voyage en Italie, en Sicile et \u00e0 Malte', 1778.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Louis Ducros",
+      "unFixedName": "Ducros, Louis",
+      "placeOfBirth": "Yverdon",
+      "dateOfBirth": "1748",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1810-02-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Lausanne",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Louis Ducros (1748 - 10-feb-1810)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Louis Ducros",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1948-01-01T00:00:00",
+    "creditLine": "Gift of Mrs Hansen-van den Brugghen, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1778",
+    "sortingDate": 1778,
+    "period": 18,
+    "yearEarly": 1778,
+    "yearLate": 1778
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-00-493-61B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Niemeijer&De Booy 217",
+    "217"
+  ],
+  "principalOrFirstMaker": "Louis Ducros",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "253"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "378"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Oponthoud bij de Grotte delle Capre aan de grens bij Nemorosa en Fredda, Louis Ducros, 1778",
+  "subTitle": "h 253mm \u00d7 w 378mm",
+  "scLabelLine": "Louis Ducros, 1778, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

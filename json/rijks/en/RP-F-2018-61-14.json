@@ -1,0 +1,125 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2018-61-14",
+  "priref": "709049",
+  "objectNumber": "RP-F-2018-61-14",
+  "language": "en",
+  "title": "Portret van een jong paar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fa4b97e2-2c69-414b-aa86-736d41d18f14",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1655,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/aXws0od2mukqh21IlAxs7F3ZALBvfNUpOhGMJnRkRsOpi3wXl2z-xSYWd-ddKNtjuGod-WBMnxzAjFaRDzEfRwR-FBtwNIuzMNm1Lo8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een jong paar"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "cabinet photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Mrs. Maynard",
+      "unFixedName": "Mrs. Maynard",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Mrs. Maynard"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Mrs. Maynard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-05-31T00:00:00",
+    "creditLine": "Gift of J. Krijff and K. Green, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1885 - c. 1895",
+    "sortingDate": 1885,
+    "period": 19,
+    "yearEarly": 1885,
+    "yearLate": 1895
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2018-61-14"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Mrs. Maynard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "110"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van een jong paar, Mrs. Maynard, c. 1885 - c. 1895",
+  "subTitle": "h 160mm \u00d7 w 110mm",
+  "scLabelLine": "Mrs. Maynard, c. 1885 - c. 1895, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

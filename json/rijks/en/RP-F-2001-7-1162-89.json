@@ -1,0 +1,154 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1162-89",
+  "priref": "696069",
+  "objectNumber": "RP-F-2001-7-1162-89",
+  "language": "en",
+  "title": "Landschap nabij Barton Broad",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "183a9032-314e-4af3-934d-87dd5c80d210",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1663,
+    "url": "https://lh3.googleusercontent.com/kISMPTPPuZx2CM81bEjg57qqAvxvDOi-myYmZso4zlCFTFL-QNuTfOaecDKhnGG4Ov2qujmbApw6zxf4McAO0Pas3CZz4DwpevQIRwTC=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Landschap nabij Barton Broad",
+    "Dyke on Barton Broad"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Ashtead Permanent Photo Printing Works",
+      "unFixedName": "Permanent Photo Printing Works, Ashtead",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Ashtead Permanent Photo Printing Works"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Payne Jennings",
+      "unFixedName": "Payne Jennings, John",
+      "placeOfBirth": null,
+      "dateOfBirth": "1843",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1926-03-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "John Payne Jennings (1843 - 25-mrt-1926)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Payne Jennings",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1886 - in or before 1891",
+    "sortingDate": 1886,
+    "period": 19,
+    "yearEarly": 1886,
+    "yearLate": 1891
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H213",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "river",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Norfolk"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1162-89"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Payne Jennings",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "79"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Landschap nabij Barton Broad, John Payne Jennings, c. 1886 - in or before 1891",
+  "subTitle": "h 79mm \u00d7 w 115mm",
+  "scLabelLine": "John Payne Jennings, c. 1886 - in or before 1891, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

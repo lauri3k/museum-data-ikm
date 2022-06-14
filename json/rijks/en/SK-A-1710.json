@@ -1,0 +1,246 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1710",
+  "priref": "12129",
+  "objectNumber": "SK-A-1710",
+  "language": "en",
+  "title": "Still Life with Black Rooster and two Rabbits",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d886e36b-0cf9-444a-a0e3-ade15d2e8aa9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2220,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/jPwAbt4LWjghm9esZR9vV45-z4aZfZiIdyrenl9OHiLgITL0NKMK2vuXmCEYOK88CBGF3EWXNuPZj8fhjHn7vagX1Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#ABA48F"
+    },
+    {
+      "percentage": 16,
+      "hex": " #141311"
+    },
+    {
+      "percentage": 14,
+      "hex": " #614832"
+    },
+    {
+      "percentage": 12,
+      "hex": " #342F26"
+    },
+    {
+      "percentage": 12,
+      "hex": " #877A5A"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C9C1A8"
+    },
+    {
+      "percentage": 4,
+      "hex": " #968E7A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ABA48F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #141311",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #614832",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #342F26",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #877A5A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C9C1A8",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #968E7A",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 28,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 23,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 14,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Still Life with Black Rooster and two Rabbits"
+  ],
+  "description": "Stilleven met zwarte haan en twee konijnen. De haan hangt met de poten gebonden aan de muur, de twee konijnen liggen in een nis.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Lelienbergh",
+      "unFixedName": "Lelienbergh, Cornelis",
+      "placeOfBirth": null,
+      "dateOfBirth": "1630",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1696",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Lelienbergh (c. 1630 - after 1696)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Lelienbergh",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1898-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1659",
+    "sortingDate": 1659,
+    "period": 17,
+    "yearEarly": 1659,
+    "yearLate": 1659
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41E1",
+      "43C113"
+    ],
+    "iconClassDescription": [
+      "still life of related objects",
+      "spoils of the hunt, game, venison"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1710"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Lelienbergh",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "93.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "3.8"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Still Life with Black Rooster and two Rabbits, Cornelis Lelienbergh, 1659",
+  "subTitle": "h 93.8cm \u00d7 w 84cm \u00d7 t 3.8cm \u00d7 d 7.8cm",
+  "scLabelLine": "Cornelis Lelienbergh, 1659, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

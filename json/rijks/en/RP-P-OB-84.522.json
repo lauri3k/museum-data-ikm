@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-84.522",
+  "priref": "489154",
+  "objectNumber": "RP-P-OB-84.522",
+  "language": "en",
+  "title": "Lijkstatie van prinses Anna, 1759",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "19e9e1d6-e272-498d-adf2-3c447aa328b5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1614,
+    "url": "https://lh6.ggpht.com/UHGaRp342kFxx1zMQlD5IN1aa6DpM7Tn-HGVDS4-CyupPQdH-je3blWMD0TU8MpeRf5zNCdeIGSIFWEhhdEwEgOVupHG=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Lijkstatie van prinses Anna, 1759",
+    "Afbeelding der Lykstatie van Wylen H.K.H. Anna, Princesse Douariere van Orange en Nassau, Gouvernante der Nederlanden, den 23 February 1759"
+  ],
+  "description": "De lijkstatie van de op 23 februari 1759 te Delft begraven prinses Anna van Hannover. De stoet afgebeeld in zeven rijen onder elkaar. Details in de voorstelling genummerd 1-64. Gemerkt rechtsboven: In de Mercuur Maart 1759. Pag. 76.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "satin"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1759",
+    "sortingDate": 1759,
+    "period": 18,
+    "yearEarly": 1759,
+    "yearLate": 1759
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E22"
+    ],
+    "iconClassDescription": [
+      "cortege, funeral procession"
+    ],
+    "motifs": [],
+    "events": [
+      "Begrafenis van Anna van Hannover (1759)"
+    ],
+    "periods": [
+      "1759-02-231759-02-23"
+    ],
+    "places": [],
+    "people": [
+      "Anna van Hannover"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-84.522"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Anna van Hannover"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 198, nr. 4098[a]."
+  ],
+  "catRefRPK": [
+    "FMH 4098",
+    "4098",
+    "Atlas van Stolk 4082",
+    "4082"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "184"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "307"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Lijkstatie van prinses Anna, 1759, anonymous, 1759",
+  "subTitle": "h 184mm \u00d7 w 307mm",
+  "scLabelLine": "anonymous, 1759, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

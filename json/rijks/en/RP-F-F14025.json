@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F14025",
+  "priref": "280886",
+  "objectNumber": "RP-F-F14025",
+  "language": "en",
+  "title": "Augustusbr\u00fccke over de Elbe en de Katholische Hofkirche in Dresden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "84c6194a-a423-446f-85b7-0950ad9572a2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1273,
+    "url": "https://lh4.ggpht.com/eA22yl-ixocupMCxT9fF0qcW3V6bWCLhEt8kWClhUFk2M4QW1GSx99NKzDuPBSywpb9oQzP1-eQ216oiJ-iBdltS_g=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Augustusbr\u00fccke over de Elbe en de Katholische Hofkirche in Dresden",
+    "Long Bridge over the Elbe, Dresden, Germany"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "The Great Western View Co.",
+      "unFixedName": "Great Western View Co., The",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The Great Western View Co."
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "R.Y. Young",
+      "unFixedName": "Young, R.Y.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object R.Y. Young"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "R.Y. Young",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1898",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1451",
+      "11Q712"
+    ],
+    "iconClassDescription": [
+      "bridge in city across river, canal, etc.",
+      "church (exterior)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Dresden"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F14025"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "R.Y. Young",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "179"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Augustusbr\u00fccke over de Elbe en de Katholische Hofkirche in Dresden, R.Y. Young, 1898",
+  "subTitle": "h 89mm \u00d7 w 179mm",
+  "scLabelLine": "R.Y. Young, 1898, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

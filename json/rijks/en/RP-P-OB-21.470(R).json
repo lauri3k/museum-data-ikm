@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-21.470(R)",
+  "priref": "47950",
+  "objectNumber": "RP-P-OB-21.470(R)",
+  "language": "en",
+  "title": "Doortocht door de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "410685ef-d144-4ff4-90d4-14e3f383cf75",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1536,
+    "height": 1146,
+    "url": "https://lh3.googleusercontent.com/JVTo_jdOlG-MuYEJogXjUUJrrqrKtz_7R6Ma8tcyaACdFM6PE-BTx7u_kLF9wkNexiAh9P8MY-hsiaBCW0kWEaT5bUQ3XOrE3QWjkCeMqQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doortocht door de Rode Zee",
+    "Transitus populi per mare rubrum"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Christian Egenollf",
+      "unFixedName": "Egenollf, Christian",
+      "placeOfBirth": "Hadamar",
+      "dateOfBirth": "1502-07-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1555-02-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Frankfurt am Main",
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Christian Egenollf (26-jul-1502 - 09-feb-1555)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1530 - 1533",
+    "sortingDate": 1530,
+    "period": 16,
+    "yearEarly": 1530,
+    "yearLate": 1533
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E122"
+    ],
+    "iconClassDescription": [
+      "passage through the Red Sea"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Rode Zee"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-21.470(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Pauli (Hans Sebald Beham) 295",
+    "295",
+    "Hollstein German"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Doortocht door de Rode Zee, anonymous, 1530 - 1533",
+  "subTitle": "h 50mm \u00d7 w 70mm",
+  "scLabelLine": "anonymous, 1530 - 1533, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,182 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-H-1134",
+  "priref": "98972",
+  "objectNumber": "RP-P-H-H-1134",
+  "language": "en",
+  "title": "Landschap met Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bb658071-c95c-4ccf-8a66-1ca0c356e2af",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1846,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/2fbAB8SG80QKOo8PXftHDul5-V5A6mfFmQDEmCFbLBjITrgQmNJJnyqyAazUm5nGgouwNfrmlppjRWwxxVPzftfOfT8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Landschap met Johannes de Doper"
+  ],
+  "description": "Glooiend rivierlandschap met biddende Johannes de Doper. Naast de knielende figuur ligt een lam.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Bonefatio Breggi",
+      "unFixedName": "Breggi, Bonefatio",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bonefatio Breggi, Rome"
+    },
+    {
+      "name": "Gregorius XIII",
+      "unFixedName": "Gregorius XIII",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": "1502-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1585-04-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gregorius XIII (jan-1502 - 10-apr-1585)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Cort",
+      "unFixedName": "Cort, Cornelis",
+      "placeOfBirth": "Edam",
+      "dateOfBirth": "1533",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1578",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Cort (c. 1533 - 1578), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Cort",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Rome",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "c. 1573",
+    "sortingDate": 1573,
+    "period": 16,
+    "yearEarly": 1573,
+    "yearLate": 1573
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-H-1134"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 123",
+    "123"
+  ],
+  "principalOrFirstMaker": "Cornelis Cort",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "537"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "381"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Landschap met Johannes de Doper, Cornelis Cort, c. 1573",
+  "subTitle": "h 537mm \u00d7 w 381mm",
+  "scLabelLine": "Cornelis Cort, c. 1573, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

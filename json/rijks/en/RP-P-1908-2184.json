@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-2184",
+  "priref": "201886",
+  "objectNumber": "RP-P-1908-2184",
+  "language": "en",
+  "title": "Zicht op de Triomfboog van Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5e83c53c-46aa-40a2-aa32-a02cd47bed2b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1756,
+    "url": "https://lh3.googleusercontent.com/BA-Mo8Soclxs6kYkCgbtLoB34MlvRVnrXldhldevNOrTawyL_2n2ADyojl44eGMPu0czWze3n2vRaUUXnBdBqYzp-LUfRYpysD97wxnP=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zicht op de Triomfboog van Orange",
+    "Arc de Triomphe Romain \u00e0 Orange",
+    "Pittoreske gezichten in Frankrijk",
+    "Recueil de vues pittoresques de la France"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Fran\u00e7ois S\u00e9raphin Delpech",
+      "unFixedName": "Delpech, Fran\u00e7ois S\u00e9raphin",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1778",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1825-04-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Fran\u00e7ois S\u00e9raphin Delpech (1778 - 25-apr-1825), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Constant Bourgeois",
+      "unFixedName": "Bourgeois, Constant",
+      "placeOfBirth": "Guiscard",
+      "dateOfBirth": "1767",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1841-07-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Constant Bourgeois (1767 - 11-jul-1841), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Constant Bourgeois",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1820",
+    "sortingDate": 1820,
+    "period": 19,
+    "yearEarly": 1820,
+    "yearLate": 1820
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A422"
+    ],
+    "iconClassDescription": [
+      "triumphal arch"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Triomfboog van Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1908-2184"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF 12",
+    "12"
+  ],
+  "principalOrFirstMaker": "Constant Bourgeois",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "318"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "487"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Zicht op de Triomfboog van Orange, Constant Bourgeois, 1820",
+  "subTitle": "h 318mm \u00d7 w 487mm",
+  "scLabelLine": "Constant Bourgeois, 1820, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

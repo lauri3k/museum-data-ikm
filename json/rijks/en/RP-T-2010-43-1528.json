@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2010-43-1528",
+  "priref": "541506",
+  "objectNumber": "RP-T-2010-43-1528",
+  "language": "en",
+  "title": "The famous black and white mirror",
+  "copyrightHolder": "Jeroen Henneman",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The famous black and white mirror"
+  ],
+  "description": "Spiegel met daarin een zwart-witte reflectie van een rood-wit gestreepte rechthoek.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing",
+    "collage"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jeroen Henneman",
+      "unFixedName": "Henneman, Jeroen",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1942-10-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Jeroen Henneman (17-okt-1942 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jeroen Henneman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "2008-12-01T00:00:00",
+    "creditLine": "Transfer Instituut Collectie Nederland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil"
+  ],
+  "techniques": [
+    "collage"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1970",
+    "sortingDate": 1970,
+    "period": 20,
+    "yearEarly": 1970,
+    "yearLate": 1970
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A511"
+    ],
+    "iconClassDescription": [
+      "mirror"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2010-43-1528"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Zie document ICN 'Overdracht Rijksprentenkabinet'"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jeroen Henneman",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "694"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "495"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collage",
+  "longTitle": "The famous black and white mirror, Jeroen Henneman, 1970",
+  "subTitle": "h 694mm \u00d7 w 495mm",
+  "scLabelLine": "Jeroen Henneman, 1970, collage",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

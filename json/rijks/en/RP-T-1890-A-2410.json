@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1890-A-2410",
+  "priref": "28550",
+  "objectNumber": "RP-T-1890-A-2410",
+  "language": "en",
+  "title": "View of the Amstel from the Blauwbrug",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "734ae533-3e5c-444c-9611-ec87724babcc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1938,
+    "url": "https://lh6.ggpht.com/YnxqQaXK1p4oCbECiYqtXWc6KT6H3InX-Wbo1Mt0de68ybzXTwEhVuGW4ENLAGqyiLfZuKHXZpjTYacyxAI8tPpSWg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#9E9683"
+    },
+    {
+      "percentage": 1,
+      "hex": " #897E68"
+    },
+    {
+      "percentage": 1,
+      "hex": " #5B5445"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B9AF96"
+    },
+    {
+      "percentage": 37,
+      "hex": " #DDD6BE"
+    },
+    {
+      "percentage": 52,
+      "hex": " #F8F6EB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#9E9683",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #897E68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5B5445",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B9AF96",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DDD6BE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F8F6EB",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 37,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 90,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "View of the Amstel from the Blauwbrug"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1890-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)",
+    "ink"
+  ],
+  "techniques": [
+    "pen"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1645 - c. 1650",
+    "sortingDate": 1645,
+    "period": 17,
+    "yearEarly": 1645,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I14"
+    ],
+    "iconClassDescription": [
+      "public road"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Amstel",
+      "Amsterdam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1890-A-2410"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Schatborn 32",
+    "32"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "132"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "231"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen and brown ink, with brown wash, on vellum; framing line in brown ink",
+  "longTitle": "View of the Amstel from the Blauwbrug, Rembrandt van Rijn, c. 1645 - c. 1650",
+  "subTitle": "h 132mm \u00d7 w 231mm",
+  "scLabelLine": "pen and brown ink, with brown wash, on vellum, c. 1645-1650",
+  "label": {
+    "title": "View of the Amstel from the Blauwbrug",
+    "makerLine": "pen and brown ink, with brown wash, on vellum, c. 1645-1650",
+    "description": "Rembrandt ventured not far from his house on the Jodenbreestraat and stood on the middle of the Blauwbrug (Blue Bridge). Facing south, he drew the expansive view of the River Amstel with great economy, while nevertheless conveying a profound sense of space and atmosphere. On the left bank is the yacht harbour, and on the right the tollhouse, where the overseer of the palisades marking the edge of town lived.",
+    "notes": "Multimediatour Alle Rembrandts, 2119",
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

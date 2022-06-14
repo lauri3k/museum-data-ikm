@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-72.399",
+  "priref": "229300",
+  "objectNumber": "RP-P-OB-72.399",
+  "language": "en",
+  "title": "Heilige Joris en de draak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d1970994-17e3-41e8-8a35-ea88e9975b20",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1787,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/CLTZvhnQsA6CeDaXS6Fcu7z8WD6GADDiWVkkMc0791okD-Pw5p9mOcjdisDnyEAXaJX0jC9kLQCTnzDVJGnychVCy_wk0RVHksMLdT_cKQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Joris en de draak"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Fran\u00e7ois Ragot",
+      "unFixedName": "Ragot, Fran\u00e7ois",
+      "placeOfBirth": "Bagnolet",
+      "dateOfBirth": "1638-06-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1670-06-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Fran\u00e7ois Ragot (22-jun-1638 - 13-jun-1670)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Fran\u00e7ois Ragot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1648 - 1670",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1670
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-72.399"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Fran\u00e7ois Ragot",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "307"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "220"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Joris en de draak, Fran\u00e7ois Ragot, 1648 - 1670",
+  "subTitle": "h 307mm \u00d7 w 220mm",
+  "scLabelLine": "Fran\u00e7ois Ragot, 1648 - 1670, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

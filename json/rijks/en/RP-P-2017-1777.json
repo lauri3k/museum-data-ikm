@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-1777",
+  "priref": "658980",
+  "objectNumber": "RP-P-2017-1777",
+  "language": "en",
+  "title": "Ex libris van Giorgio Balbi di Angelo",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van Giorgio Balbi di Angelo"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2017-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "printing block"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1942",
+    "sortingDate": 1942,
+    "period": 20,
+    "yearEarly": 1942,
+    "yearLate": 1942
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D92",
+      "11H(GEORGE)",
+      "46C24",
+      "31AA236"
+    ],
+    "iconClassDescription": [
+      "woman (showing herself) undressed, quasi-nude",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "sailing-ship, sailing-boat",
+      "lying figure - AA - female human figure"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Balbi, Giorgio"
+    ],
+    "objectNumbers": [
+      "RP-P-2017-1777"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Balbi, Giorgio"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing block",
+  "longTitle": "Ex libris van Giorgio Balbi di Angelo, anonymous, 1942",
+  "subTitle": "h 100mm \u00d7 w 85mm",
+  "scLabelLine": "anonymous, 1942, printing block",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

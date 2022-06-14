@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1889-A-15208",
+  "priref": "105972",
+  "objectNumber": "RP-P-1889-A-15208",
+  "language": "en",
+  "title": "Gezicht op haven van Arakan",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cb5cf7fd-dc26-4d95-a74f-f3c97d392124",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2031,
+    "url": "https://lh6.ggpht.com/Pj_bHMHRM1nO8EUtgMhnKaM3d8xSOS2DbBH60GPzyrozHlEBRto70DcSuHmfSAqzz_nrMZ48j8UkIm5MiqocPK0vCQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op haven van Arakan",
+    "Bandel ofte Reede Voorde Stadt Arakan",
+    "Orbis habitabilis oppida et vestitus",
+    "Des bewoonden waerelds steden en dragten"
+  ],
+  "description": "Gezicht op de stad Arakan, gelegen aan een riviermonding met schepen van de V.O.C. maar ook pleziervaartuigen van de plaatselijke bevolking. Buffeldrijvers steken met hun dieren het water over waarbij ze rechtop staand op de rug van het dier balanceren.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Covens & Mortier",
+      "unFixedName": "Covens & Mortier",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Covens & Mortier"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Thomas Doesburgh",
+      "unFixedName": "Doesburgh, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Thomas Doesburgh, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas Doesburgh",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1889-07-02T00:00:00",
+    "creditLine": "Gift of K. de Boer Hz"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1685 - 1714",
+    "sortingDate": 1685,
+    "period": 17,
+    "yearEarly": 1685,
+    "yearLate": 1714
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C223"
+    ],
+    "iconClassDescription": [
+      "harbour"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1889-A-15208"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Thomas Doesburgh",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "224"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "283"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op haven van Arakan, Thomas Doesburgh, 1685 - 1714",
+  "subTitle": "h 224mm \u00d7 w 283mm",
+  "scLabelLine": "Thomas Doesburgh, 1685 - 1714, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

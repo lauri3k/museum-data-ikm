@@ -1,0 +1,231 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-00-566",
+  "priref": "29556",
+  "objectNumber": "RP-T-00-566",
+  "language": "en",
+  "title": "Redding van Petrus door Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3625ee0d-97b5-4fd0-93ed-029fbd8e24c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1906,
+    "height": 2526,
+    "url": "https://lh3.ggpht.com/2hNcmGRbfKzN7iinYgjzsgC0CubMnzriaT6TfFv_8YmddepSNdeq_1e29zF5ahXKwJ1TkMt2SkfAHDSGUByDN2DUKKs=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#4B463C"
+    },
+    {
+      "percentage": 39,
+      "hex": " #6A6456"
+    },
+    {
+      "percentage": 7,
+      "hex": " #837F71"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F2EFE9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #9D998D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B7B2A5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2CDC3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4B463C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6A6456",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #837F71",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F2EFE9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9D998D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B7B2A5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D2CDC3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 83,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 43,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Redding van Petrus door Christus"
+  ],
+  "description": "Ontwerp voor een prent.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirck Vellert",
+      "unFixedName": "Vellert, Dirck",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1485",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1547",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Dirck Vellert (c. 1485 - c. 1547)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck Vellert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "prepared paper",
+    "paint (coating)",
+    "ink"
+  ],
+  "techniques": [
+    "pen"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1525",
+    "sortingDate": 1525,
+    "period": 16,
+    "yearEarly": 1525,
+    "yearLate": 1525
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C324"
+    ],
+    "iconClassDescription": [
+      "Christ saves Peter from drowning"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-00-566"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck Vellert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Redding van Petrus door Christus, Dirck Vellert, 1525",
+  "subTitle": "h 155mm \u00d7 w 115mm",
+  "scLabelLine": "Dirck Vellert, 1525, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1888-A-13565",
+  "priref": "84886",
+  "objectNumber": "RP-P-1888-A-13565",
+  "language": "en",
+  "title": "Verzorgster",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "33d55fd4-fcb6-4159-a48d-6768f80ffbd6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2592,
+    "height": 1840,
+    "url": "https://lh5.ggpht.com/adhwCqu2eaaFeNIwNhEbSelPDs17VBp_cJF9vx6vtjYzgJWXRmiJlb5rksmfKqTGWhoINi1BvKYswJTQ5N1Cr-veUJY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FEFEFE"
+    },
+    {
+      "percentage": 5,
+      "hex": " #AEAB9E"
+    },
+    {
+      "percentage": 90,
+      "hex": " #D9D6C9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #88867A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #666457"
+    },
+    {
+      "percentage": 0,
+      "hex": " #47463C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FEFEFE",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #AEAB9E",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #D9D6C9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #88867A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #666457",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #47463C",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 90,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 90,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Verzorgster"
+  ],
+  "description": "Achterin de kamer zit een oude man in een stoel te slapen. Rechts op de voorgrond kijkt zijn verzorgster verveeld het raam uit. Haar borduurwerk ligt onberoerd naast haar op tafel. Door het raam kan men de contouren van een jongeling herkennen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Karel Frederik Bombled",
+      "unFixedName": "Bombled, Karel Frederik",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1822",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1902-01-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Chantilly",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Karel Frederik Bombled (1822 - 04-jan-1902), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Karel Frederik Bombled",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1888-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1832 - 1902",
+    "sortingDate": 1832,
+    "period": 19,
+    "yearEarly": 1832,
+    "yearLate": 1902
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A(+813)",
+      "49G22",
+      "41D443",
+      "33C2162",
+      "31B12"
+    ],
+    "iconClassDescription": [
+      "the (nude) human figure; 'Corpo humano' (Ripa) (+ old male (human being))",
+      "nursing, tending the sick",
+      "(other forms of) needlework, e.g.: crocheting, knitting, embroidering",
+      "lover (woman) alone (e.g. longing for the beloved)",
+      "sleeping in chair"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1888-A-13565"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hippert&Linnig 2",
+    "2"
+  ],
+  "principalOrFirstMaker": "Karel Frederik Bombled",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "162"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Verzorgster, Karel Frederik Bombled, 1832 - 1902",
+  "subTitle": "h 223mm \u00d7 w 162mm",
+  "scLabelLine": "Karel Frederik Bombled, 1832 - 1902, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

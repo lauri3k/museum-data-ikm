@@ -1,0 +1,175 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-1468",
+  "priref": "87378",
+  "objectNumber": "RP-P-1910-1468",
+  "language": "en",
+  "title": "Portret van Charles Grey",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Charles Grey"
+  ],
+  "description": "Midden onder een facsimile van zijn handtekening.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Wright",
+      "unFixedName": "Wright",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Wright"
+    },
+    {
+      "name": "Allen Robert Branston",
+      "unFixedName": "Branston, Allen Robert",
+      "placeOfBirth": "King's Lynn",
+      "dateOfBirth": "1778",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1827",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Allen Robert Branston (1778 - 1827), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Allen Robert Branston",
+      "unFixedName": "Branston, Allen Robert",
+      "placeOfBirth": "King's Lynn",
+      "dateOfBirth": "1778",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1827",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Allen Robert Branston (1778 - 1827)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Allen Robert Branston",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1788 - 1827",
+    "sortingDate": 1788,
+    "period": 18,
+    "yearEarly": 1788,
+    "yearLate": 1827
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Charles"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-1468"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Grey, Charles"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Allen Robert Branston",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "290"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "206"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Charles Grey, Allen Robert Branston, 1788 - 1827",
+  "subTitle": "h 290mm \u00d7 w 206mm",
+  "scLabelLine": "Allen Robert Branston, 1788 - 1827, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-517",
+  "priref": "6839",
+  "objectNumber": "SK-A-517",
+  "language": "en",
+  "title": "Portrait of Prince Philip William of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "52ecf357-42d3-4981-a26a-cd0db4feb19a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2106,
+    "height": 2634,
+    "url": "https://lh3.googleusercontent.com/7kiXsXUCCH1aZafCjq6676WrPisJp9K68jg9hzH5NdXAbYNMsnrkLg5ciP-oeJz66Iy5gpEHVhVI3RkG8VUAi6TB_tmAqRXbyDzYB6zb=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Prince Philip William of Orange"
+  ],
+  "description": "Portret van Philips Willem (1554-1618), prins van Oranje. Buste naar rechts. Onderdeel van de reeks portretten afkomstig uit het Stadhouderlijk Hof te Leeuwarden.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michiel Jansz van Mierevelt",
+      "unFixedName": "Mierevelt, Michiel Jansz van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1567-05-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-06-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Michiel Jansz van Mierevelt (01-mei-1567 - 27-jun-1641)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michiel Jansz van Mierevelt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "nationalization 1795",
+    "date": "1795-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1609 - c. 1633",
+    "sortingDate": 1609,
+    "period": 17,
+    "yearEarly": 1609,
+    "yearLate": 1633
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001618"
+    ],
+    "places": [],
+    "people": [
+      "Filips Willem (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-517"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Filips Willem (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michiel Jansz van Mierevelt",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "29.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "24.1"
+    },
+    {
+      "unit": null,
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "0.9"
+    },
+    {
+      "unit": null,
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "3.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of Prince Philip William of Orange, Michiel Jansz van Mierevelt (workshop of), c. 1609 - c. 1633",
+  "subTitle": "h 29.8cm \u00d7 w 24.1cm",
+  "scLabelLine": "Michiel Jansz van Mierevelt, c. 1609 - c. 1633, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

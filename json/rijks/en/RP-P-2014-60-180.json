@@ -1,0 +1,187 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2014-60-180",
+  "priref": "567878",
+  "objectNumber": "RP-P-2014-60-180",
+  "language": "en",
+  "title": "Perseus en Andromeda",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "11f3025a-fa43-402c-9f09-367ab803ded4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1657,
+    "url": "https://lh3.googleusercontent.com/2__MJt6N1Ov0QWrKgKRRnl91SrVHLwJRrSt4VhtcA-C4J4taCSG1zRwzOv1yP_i84CqBtdxccjJftIaRBpUMXSBo6k4g1iMLAtcP7QA5zw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Perseus en Andromeda"
+  ],
+  "description": "Andromeda, de dochter van een Ethiopische koning, is vastgeketend aan een rots. Op de achtergrond verslaat Perseus het zeemonster om Andromeda te kunnen komen redden. Links toeschouwers, onder wie de ouders van Andromeda. Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "David Teniers (II)",
+      "unFixedName": "Teniers, David (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1610",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1690-04-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Brussels"
+      ],
+      "qualification": null,
+      "labelDesc": "David Teniers (II) (1610 - 25-apr-1690), Brussels"
+    },
+    {
+      "name": "Spaanse kroon",
+      "unFixedName": "Spaanse kroon",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Spaanse kroon"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Quirin Boel",
+      "unFixedName": "Boel, Quirin",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1620-01-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1688",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Quirin Boel (25-jan-1620 - 1688), Southern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Quirin Boel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Southern Netherlands",
+    "Italy",
+    "Brussels"
+  ],
+  "dating": {
+    "presentingDate": "1660",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94P211"
+    ],
+    "iconClassDescription": [
+      "Perseus kills the sea monster (or turns it into stone by showing it the Gorgon's head) to release Andromeda; sometimes her parents Cepheus and Cassiopea watch the scene"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2014-60-180"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 27",
+    "27"
+  ],
+  "principalOrFirstMaker": "Quirin Boel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "199"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "304"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Perseus en Andromeda, Quirin Boel, 1660",
+  "subTitle": "h 199mm \u00d7 w 304mm",
+  "scLabelLine": "Quirin Boel, 1660, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

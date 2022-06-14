@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-75.378",
+  "priref": "450041",
+  "objectNumber": "RP-P-OB-75.378",
+  "language": "en",
+  "title": "Kaart van de rede van Mauritius, 1598",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "32db3fed-0f72-470a-9527-45fe246e273f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1888,
+    "url": "https://lh3.googleusercontent.com/sZQJ9aj6-ivC-4mq79iKMnquHy2VxjZC3Sl8hiNZAzL6VOtIt6msxH8cFj2mDw8dZvrF1CTir_UNAdoz4jiuaCy2NJjX1BlBrpPeJmg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Kaart van de rede van Mauritius, 1598",
+    "Insula do Cirne ofte t'eylant Mauritius / Insula cygnata sive Ins. Maurity"
+  ],
+  "description": "Kaart van de rede van het eiland Mauritius met schepen van de expeditie voor anker in de baai, september 1598. Linksonder een cartouche met tekst in het Latijn. Onderdeel van de illustraties in het reisverslag van de Tweede Schipvaart naar Oost-Indi\u00eb onder Jacob Cornelisz. van Nes en Wijbrant van Warwyck in 1598-1600. No. 2.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1619",
+    "sortingDate": 1619,
+    "period": 17,
+    "yearEarly": 1619,
+    "yearLate": 1619
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49I1",
+      "25K1",
+      "25A3"
+    ],
+    "iconClassDescription": [
+      "exploration, expedition, voyage of discovery",
+      "landscapes in tropical and sub-tropical regions",
+      "maps of separate countries or regions"
+    ],
+    "motifs": [],
+    "events": [
+      "Tweede Schipvaart naar Indi\u00eb (1598-1600)"
+    ],
+    "periods": [
+      "15981598"
+    ],
+    "places": [
+      "Mauritius"
+    ],
+    "people": [
+      "Banjaert, Jacob Cornelisz",
+      "Warwyck, Wijbrant van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-75.378"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Banjaert, Jacob Cornelisz",
+    "Warwyck, Wijbrant van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 96, nr. 1055AI(3)/2."
+  ],
+  "catRefRPK": [
+    "FMH 1055",
+    "1055",
+    "Atlas van Stolk 982",
+    "982"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "145"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "215"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Kaart van de rede van Mauritius, 1598, anonymous, 1619",
+  "subTitle": "h c.145mm \u00d7 w c.215mm",
+  "scLabelLine": "anonymous, 1619, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

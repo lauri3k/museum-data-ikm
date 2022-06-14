@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6264X",
+  "priref": "37504",
+  "objectNumber": "RP-P-BI-6264X",
+  "language": "en",
+  "title": "De doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dfc2442f-408c-48c5-8e30-2c8fc75a1e91",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2339,
+    "height": 2778,
+    "url": "https://lh4.ggpht.com/6c9-IG8T5h6o6D4jJamI8FLnsgZnNe_EtjKnv2OiyIRtNhdcTkZ7GyF5x9LKxbDsGuStjPMKcbbZfSc3cqxLYBD4J_M=s0"
+  },
+  "colors": [
+    {
+      "percentage": 20,
+      "hex": "#F0E8D3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #4C473F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #6F675C"
+    },
+    {
+      "percentage": 24,
+      "hex": " #8A8272"
+    },
+    {
+      "percentage": 12,
+      "hex": " #ADA290"
+    },
+    {
+      "percentage": 13,
+      "hex": " #CEC2AB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0E8D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4C473F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6F675C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8A8272",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ADA290",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CEC2AB",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 13,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 26,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "De doornenkroning",
+    "De Ronde Passie"
+  ],
+  "description": "Uit serie van twaalf prenten. Mannen duwen met stokken doornkroon op hoofd Christus. Rond voorstelling ornamentele omlijsting. Onderaan kader met tekst in het Latijn. Gedrukt van meerdere blokken.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Cornelisz van Oostsanen",
+      "unFixedName": "Cornelisz van Oostsanen, Jacob",
+      "placeOfBirth": "Oostzaan",
+      "dateOfBirth": "1475",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Cornelisz van Oostsanen (c. 1475 - c. 1533), Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Cornelisz van Oostsanen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "1517",
+    "sortingDate": 1517,
+    "period": 16,
+    "yearEarly": 1517,
+    "yearLate": 1517
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6264X"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 73",
+    "73",
+    "Steinbart 26",
+    "26"
+  ],
+  "principalOrFirstMaker": "Jacob Cornelisz van Oostsanen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "350"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "282"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "De doornenkroning, Jacob Cornelisz van Oostsanen, 1517",
+  "subTitle": "h 350mm \u00d7 w 282mm",
+  "scLabelLine": "Jacob Cornelisz van Oostsanen, 1517, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-33.692",
+  "priref": "118379",
+  "objectNumber": "RP-P-OB-33.692",
+  "language": "en",
+  "title": "Leda en de zwaan",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e4a2ea61-5019-430f-b730-ee9cdb209bb4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1876,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/yVMzcMZfqAYzS2qhpxUK665N8oe4HW4jUahi9xEgAkKeguQm8buVoJpIQUa45NQMJfsdNNHu383PXPJLtiNR3Y4FzGQZ-7OqF043vxY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Leda en de zwaan"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Robert Sayer",
+      "unFixedName": "Sayer, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1725",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1794-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Sayer (c. 1725 - feb-1794), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1771",
+    "sortingDate": 1771,
+    "period": 18,
+    "yearEarly": 1771,
+    "yearLate": 1771
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92B1222"
+    ],
+    "iconClassDescription": [
+      "Jupiter, in the shape of a swan, and Leda"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-33.692"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 161a",
+    "161a",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "617"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "384"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Leda en de zwaan, Valentine Green, 1771",
+  "subTitle": "h 617mm \u00d7 w 384mm",
+  "scLabelLine": "Valentine Green, 1771, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

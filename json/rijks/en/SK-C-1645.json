@@ -1,0 +1,154 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1645",
+  "priref": "328431",
+  "objectNumber": "SK-C-1645",
+  "language": "en",
+  "title": "July (\u2018Summer Luxuriance\u2019)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ee29b9a2-9eb5-4fdb-b301-062417b06f03",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 6525,
+    "height": 4964,
+    "url": "https://lh3.googleusercontent.com/D9LCHO9eYEP-oBFl6BkfxOWB7z7mz0hnGTPTMGiYiOyQE0oRamsQegmZgbVhGVv4-r-1nZQCcLPz3Ow4cL2M_NMkTw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "July ('Summer Luxuriance')"
+  ],
+  "description": "Gezicht op een veld of tuin met blauwpaarse bloemen. Op de achtergrond een hoger gelegen weg waarachter links enkele huizen en rechts drie door paarden getrokken hooiwagens met berijders te zien zijn.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jac van Looij",
+      "unFixedName": "Looij, Jac van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1855-09-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1930-02-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jac van Looij (12-sep-1855 - 24-feb-1930)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jac van Looij",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2013-04-01T00:00:00",
+    "creditLine": "On loan from the Stedelijk Museum Amsterdam, gift friends of the artist"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "canvas"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1890 - c. 1910",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1910
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I5",
+      "47I1451"
+    ],
+    "iconClassDescription": [
+      "flower culture",
+      "hay-wagon"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-1645"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jac van Looij",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "July (\u2018Summer Luxuriance\u2019), Jac van Looij, c. 1890 - c. 1910",
+  "subTitle": "h 120cm \u00d7 w 170cm",
+  "scLabelLine": "Jacobus van Looy (1855-1930), oil on canvas, c. 1900",
+  "label": {
+    "title": "July (\u2018Summer Luxuriance\u2019)",
+    "makerLine": "Jacobus van Looy (1855-1930), oil on canvas, c. 1900",
+    "description": "It seems as if Van Looy has lavishly strewn blue flowers all over this large canvas. Looking a bit longer, however, one notices the artist\u2019s house in Soest and the hay wagons behind the tall hedge, and in the right foreground an overturned pot among the flowers. The painter was clearly inspired by the landscapes of Van Gogh, but his representation of nature and the fall of light are more realistic.",
+    "notes": null,
+    "date": "2019-02-13"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

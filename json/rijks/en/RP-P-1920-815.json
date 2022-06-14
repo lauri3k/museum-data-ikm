@@ -1,0 +1,180 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1920-815",
+  "priref": "79046",
+  "objectNumber": "RP-P-1920-815",
+  "language": "en",
+  "title": "Jan Swammerdam in zijn werkkamer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eeb0b948-c1e6-44f1-ae62-c7805a1bf219",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1867,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/J7f0Z38jey_QfE6CWY2KMTAa5rLID4MEePjnrN-2N5Wu_l-j72ZurwHZn6JF2tRaf-LX7h1wmTLq6WU4gG7PrI1Tx9Y=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Jan Swammerdam in zijn werkkamer"
+  ],
+  "description": "De geportretteerde zit aan een tafel met daarop een boek, papieren en schrijfgerei. Aan de muur hangt een anatomische tekening van de longen. Hij heeft zijn linker handschoen uitgetrokken en houdt deze met zijn rechterhand vast. In zijn linkerhand houdt een document vast. De prent is gebaseerd op een portret van Swammerdam in het schilderij De anatomische les van Dr. Nicolaes Tulp, door Rembrandt. Onder het portret de naam, woonplaats, geboorte- en sterfdatum van Swammerdam.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johann Peter Berghaus",
+      "unFixedName": "Berghaus, Johann Peter",
+      "placeOfBirth": "L\u00fcdenscheid",
+      "dateOfBirth": "1810-04-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1870-10-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Leiden"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Peter Berghaus (18-apr-1810 - 23-okt-1870), Leiden"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johann Peter Berghaus",
+      "unFixedName": "Berghaus, Johann Peter",
+      "placeOfBirth": "L\u00fcdenscheid",
+      "dateOfBirth": "1810-04-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1870-10-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Leiden"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Peter Berghaus (18-apr-1810 - 23-okt-1870), Leiden"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Peter Berghaus",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Leiden",
+    "Netherlands",
+    "Netherlands",
+    "Leiden"
+  ],
+  "dating": {
+    "presentingDate": "1820 - 1870",
+    "sortingDate": 1820,
+    "period": 19,
+    "yearEarly": 1820,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49G6213(+3)",
+      "31A2222",
+      "49L511",
+      "49L6",
+      "49L7",
+      "49M32"
+    ],
+    "iconClassDescription": [
+      "anatomical specimen (+ portrait of scholar, scientist)",
+      "lungs, bronchia",
+      "quill",
+      "writing accessories",
+      "handwriting, written text",
+      "book"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Swammerdam, Jan"
+    ],
+    "objectNumbers": [
+      "RP-P-1920-815"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Swammerdam, Jan"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Peter Berghaus",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "390"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "290"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Jan Swammerdam in zijn werkkamer, Johann Peter Berghaus, 1820 - 1870",
+  "subTitle": "h 390mm \u00d7 w 290mm",
+  "scLabelLine": "Johann Peter Berghaus, 1820 - 1870, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

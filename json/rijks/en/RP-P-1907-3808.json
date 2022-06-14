@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1907-3808",
+  "priref": "160680",
+  "objectNumber": "RP-P-1907-3808",
+  "language": "en",
+  "title": "Doornenkroning van Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f47bb8b-1f5a-4d96-a279-146d9a84d7e8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1919,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/4i_WAJXPpci5O8u2yi9Ysppxqlf8S5NsAYB9Gxj6FdK5iv-q3B4l-wyLJ_JkIzB82UzFnm7GEhNumL1au2j78cZeYeo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#F0EBDE"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D5C6AC"
+    },
+    {
+      "percentage": 28,
+      "hex": " #848073"
+    },
+    {
+      "percentage": 10,
+      "hex": " #5D5A4E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #3F3C34"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C0AB8D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0EBDE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D5C6AC",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #848073",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5D5A4E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3F3C34",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #C0AB8D",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 28,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 39,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 36,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Doornenkroning van Christus",
+    "Passie van Christus",
+    "Passio Domini nostri Jesu Christi"
+  ],
+  "description": "Twee soldaten duwen met stokken de doornenkroon op het hoofd van Christus. Een derde soldaat staat op het punt om Christus in het gezicht te slaan. De voorstelling is gevat in een ovale omlijsting met een randschrift in het Latijn. Prent uit een serie met de passie van Christus.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Crispijn van de Passe (I) (1564 - 1637)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": null,
+      "labelDesc": "Crispijn van de Passe (I) (1564 - 1637), Cologne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1907-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Cologne"
+  ],
+  "dating": {
+    "presentingDate": "1601",
+    "sortingDate": 1601,
+    "period": 17,
+    "yearEarly": 1601,
+    "yearLate": 1601
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1907-3808"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Franken 143",
+    "143",
+    "Hollstein Dutch 142",
+    "142"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "148"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "109"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning van Christus, Crispijn van de Passe (I), 1601",
+  "subTitle": "h 148mm \u00d7 w 109mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1601, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

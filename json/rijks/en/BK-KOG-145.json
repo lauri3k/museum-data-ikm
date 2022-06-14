@@ -1,0 +1,270 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-145",
+  "priref": "325553",
+  "objectNumber": "BK-KOG-145",
+  "language": "en",
+  "title": "Kelkglas met een vrouw achter een spinet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1644017f-1692-4c9e-95e7-7f63e6acba00",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1954,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/wYFa17AGE1MlJ4Qa8njNyM7ihQkFQUNoo9dH6MX40pGOK1bm_mhkPnqQgYjyRa_eRjrjEZkKhyZH7RbsDkFHTyNS5Jo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#4C4C4B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #6A6A69"
+    },
+    {
+      "percentage": 53,
+      "hex": " #AAAAA8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EBEAEA"
+    },
+    {
+      "percentage": 42,
+      "hex": " #C5C4C4"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8D8D8A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4C4C4B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6A6A69",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AAAAA8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #EBEAEA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #C5C4C4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8D8D8A",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 53,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 42,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 96,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Kelkglas met een vrouw achter een spinet"
+  ],
+  "description": "Conische voet. Balustervormige stam met een krans luchtbellen, drie knopen. Conische, aan de onderzijde afgeronde kelk. Op de kelk, in een cartouche van rococo-ornament en bloemen, een vrouw spelend op een spinet. Een man kijkt over haar schouder mee. Ter weerszijden muziekinstrumenten. Onder de voorstelling gesigneerd Willem Fortuyn Me fecit 1757.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    },
+    {
+      "name": "Willem Fortuyn",
+      "unFixedName": "Fortuyn, Willem",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Willem Fortuyn, Northern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Southern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Southern Netherlands",
+    "England",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1757",
+    "sortingDate": 1757,
+    "period": 18,
+    "yearEarly": 1757,
+    "yearLate": 1757
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C7331",
+      "48C7523",
+      "48A9876"
+    ],
+    "iconClassDescription": [
+      "spinet, virginal",
+      "one person playing keyboard instrument",
+      "ornament ~ cartouche"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-KOG-145"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "F. Hudig, 'Het glas van Willem Fortuyn', Oud Holland 47 (1930), p. 28-30."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "23.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "9.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Kelkglas met een vrouw achter een spinet, anonymous, 1757",
+  "subTitle": "h 23.2cm \u00d7 d 9.6cm",
+  "scLabelLine": "anonymous, 1757, glassblowing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

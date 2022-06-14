@@ -1,0 +1,173 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-RAK-1990-17-1",
+  "priref": "645106",
+  "objectNumber": "AK-RAK-1990-17-1",
+  "language": "en",
+  "title": "Passe-partout van de Kluizenaar in de bergen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2b9e7c33-86ee-46c2-91a5-bd61ce047174",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1119,
+    "url": "https://lh3.googleusercontent.com/YbL0qqPakXKH_IsVJVPKUGa9U84ZPGIbHMBf0zvMebr6B6d8ubDA2BrHSwXj6bhZE77CNg22SMiNKTjceGpH4X46iuJ0Pe0GuNKBF4zo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Passe-partout van de Kluizenaar in de bergen"
+  ],
+  "description": "Passe-partout voor de hangrol met een kluizenaar in de bergen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    },
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Zhu Henian",
+      "unFixedName": "Zhu Henian",
+      "placeOfBirth": null,
+      "dateOfBirth": "1760",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1834",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "Zhu Henian (1760 - 1834), China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Zhu Henian",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1990-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "1775 - 1834",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1834
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H11",
+      "11Q331"
+    ],
+    "iconClassDescription": [
+      "mountains",
+      "anchorite, hermit"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-RAK-1990-17-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Herman van Gessel, 'Rolschilderingen gerestaureerd', Rijksmuseum Kunstkrant, 27 (2001) nr. 4, p.8-9."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Zhu Henian",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "102.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "41.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Passe-partout van de Kluizenaar in de bergen, Zhu Henian, 1775 - 1834",
+  "subTitle": "h 102.2cm \u00d7 w 41.9cm",
+  "scLabelLine": "Zhu Henian, 1775 - 1834, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

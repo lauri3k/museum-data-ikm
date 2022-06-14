@@ -1,0 +1,175 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1982-134",
+  "priref": "420293",
+  "objectNumber": "RP-P-1982-134",
+  "language": "en",
+  "title": "Bordeelsc\u00e8ne, 1807",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3212e28b-50ef-48a3-b3b0-4572da8cbc09",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1961,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/XhUSR1PGJrYzQs0Vv9KWdsZL6VIL8jtuPdOYAOQ7eY3asvVOvbuIgUzdKKJ7tGEa4jRMWT3U0ig7XrACgksRAde37rM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bordeelsc\u00e8ne, 1807",
+    "Black, brown & fair"
+  ],
+  "description": "Bordeelsc\u00e8ne in de haven van Wapping in Londen, 1807. Vier prostituees in de etalage lonken naar voorbijgangers. De vrouwen zijn een zwarte vrouw, een vrouw met blond haar en een vrouw met bruin haar. Voor het raam staan een Chinees, een Nederlander en een Fransman te kijken. Links gaat een zwarte man met een vrouw naar binnen. In het onderschrift drie achtregelige verzen in het Engels.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Thomas Tegg",
+      "unFixedName": "Tegg, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1776-03-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1845-04-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer",
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Tegg (04-mrt-1776 - 21-apr-1845), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Thomas Rowlandson",
+      "unFixedName": "Rowlandson, Thomas",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1756-07-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1827-04-22",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Rowlandson (14-jul-1756 - c. 22-apr-1827), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas Rowlandson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1982-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1807",
+    "sortingDate": 1807,
+    "period": 19,
+    "yearEarly": 1807,
+    "yearLate": 1807
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "33C51"
+    ],
+    "iconClassDescription": [
+      "brothel"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18071807"
+    ],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1982-134"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 5739",
+    "5739"
+  ],
+  "principalOrFirstMaker": "Thomas Rowlandson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "266"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Bordeelsc\u00e8ne, 1807, Thomas Rowlandson, 1807",
+  "subTitle": "h 266mm \u00d7 w 210mm",
+  "scLabelLine": "Thomas Rowlandson, 1807, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

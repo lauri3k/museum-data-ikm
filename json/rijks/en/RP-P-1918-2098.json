@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1918-2098",
+  "priref": "118376",
+  "objectNumber": "RP-P-1918-2098",
+  "language": "en",
+  "title": "Chistus onderwijst schriftgeleerden in de Tempel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f151b58c-fe0c-4a1d-91df-b1d661bcbbce",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1821,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/IW3UfAUbRkDP8k6g-MvYnNffV4GARY20wjLgmgS2tDspmRhE0GUyYUb4WGDSjGZlUR9O-LPW6YpVYvCZTOaPJyIH0miYD_XAMICoyi0Y=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Chistus onderwijst schriftgeleerden in de Tempel",
+    "Christ among the Doctors / Jesus au milieu des Docteurs"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Valentine & Rupert Green",
+      "unFixedName": "Green, Valentine & Rupert",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine & Rupert Green, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1918-01-01T00:00:00",
+    "creditLine": "Gift of C.P.D. Pape"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1791",
+    "sortingDate": 1791,
+    "period": 18,
+    "yearEarly": 1791,
+    "yearLate": 1791
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73B93"
+    ],
+    "iconClassDescription": [
+      "Christ's dispute with the doctors in the temple; he counts his arguments on his fingers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1918-2098"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "655"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "430"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Chistus onderwijst schriftgeleerden in de Tempel, Valentine Green, 1791",
+  "subTitle": "h 655mm \u00d7 w 430mm",
+  "scLabelLine": "Valentine Green, 1791, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

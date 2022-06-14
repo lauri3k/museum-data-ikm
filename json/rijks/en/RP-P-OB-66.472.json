@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-66.472",
+  "priref": "187032",
+  "objectNumber": "RP-P-OB-66.472",
+  "language": "en",
+  "title": "Portret van Frans Naerebout",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f5846a6-dc7a-403f-9600-2bfeb2a0307c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3394,
+    "height": 5357,
+    "url": "https://lh4.ggpht.com/Qbf3DrIY47YLW35xc6i-w3BtXjAK-5S-QRGsRvHzP3wO6eiZb9QyRSYIqMCw0aRwN8MRaB_zCNbEb2QYgSZ6vH07Rmg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 83,
+      "hex": "#EEE8D9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D0C5AE"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A09A8E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #726E65"
+    },
+    {
+      "percentage": 4,
+      "hex": " #494740"
+    },
+    {
+      "percentage": 0,
+      "hex": " #201F1A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EEE8D9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D0C5AE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A09A8E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #726E65",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #494740",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #201F1A",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 83,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 87,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Portret van Frans Naerebout"
+  ],
+  "description": "Portret van Frans Naerebout, ten halven lijve, met de opgespelde medaille van verdienste voor zijn redding van de 87 opvarenden van het VOC-schip Woestduin (Woestduyn), dat op 24 juli 1779 strandde bij de Noorderrassen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Philippus Velijn",
+      "unFixedName": "Velijn, Philippus",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1787-01-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1836-05-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Philippus Velijn (31-jan-1787 - 04-mei-1836), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philippus Velijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1797 - 1836",
+    "sortingDate": 1797,
+    "period": 18,
+    "yearEarly": 1797,
+    "yearLate": 1836
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1779-07-241779-07-24"
+    ],
+    "places": [],
+    "people": [
+      "Naerebout, Frans"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-66.472"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Naerebout, Frans"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 223, nr. 4349."
+  ],
+  "catRefRPK": [
+    "FMH 4349",
+    "4349",
+    "Van Someren 3839",
+    "3839",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Philippus Velijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "244"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Frans Naerebout, Philippus Velijn, 1797 - 1836",
+  "subTitle": "h 244mm \u00d7 w 151mm",
+  "scLabelLine": "Philippus Velijn, 1797 - 1836, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

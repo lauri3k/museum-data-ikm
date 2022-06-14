@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1919-1977",
+  "priref": "33423",
+  "objectNumber": "RP-P-1919-1977",
+  "language": "en",
+  "title": "Christus in de rozenkrans",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a941af90-4fed-4635-ba27-92a71fdf72d4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1958,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/OOZuhjtgRAxMjbn8d_AQkNjC-cqcMTVc8OWMeh386AbG2hCLPgMm4b8MLS_QkPjVFdJdqkAcHW8CtgIS3Z2_YpcKRA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#A19D92"
+    },
+    {
+      "percentage": 6,
+      "hex": " #656259"
+    },
+    {
+      "percentage": 12,
+      "hex": " #868278"
+    },
+    {
+      "percentage": 43,
+      "hex": " #F2EEE3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #434039"
+    },
+    {
+      "percentage": 24,
+      "hex": " #C9BDA4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A19D92",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #656259",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #868278",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F2EEE3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #434039",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #C9BDA4",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 24,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 30,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Christus in de rozenkrans"
+  ],
+  "description": "Christus aan het kruis, omringd door God, de Heilige Geest, heiligen en bijbelse figuren, allen binnen een rozenkrans. Buiten deze krans een Gregoriusmis, de zweetdoek van Veronica, de stigmatisatie van Franciscus en engelen die zielen uit de hel redden. Onder de voorstelling tien regels gedrukte Latijnse tekst en het jaartal 1515 in Romeinse cijfers.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Albrecht D\u00fcrer",
+      "unFixedName": "D\u00fcrer, Albrecht",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1471-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1528-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "school of",
+      "labelDesc": "school of Albrecht D\u00fcrer (24-mei-1471 - 05-apr-1528)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albrecht D\u00fcrer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1919-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1515",
+    "sortingDate": 1515,
+    "period": 16,
+    "yearEarly": 1515,
+    "yearLate": 1515
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11D36",
+      "11H(GREGORY)51",
+      "11Q22",
+      "11B3",
+      "11H(FRANCIS)59",
+      "11D3122"
+    ],
+    "iconClassDescription": [
+      "other types of crucified Christ in non-narrative context",
+      "the mass of St. Gregory the Great: Christ appears above the altar with the instruments of the Passion; maybe blood spouts from Christ's side",
+      "aids for prayer, e.g. rosary",
+      "Holy Trinity in which one, two or all figures are represented in human shape",
+      "stigmatization of St. Francis of Assisi: in retreat on Mount Alverna, he beholds a vision of Christ on the cross enveloped by wings (like a seraph with six wings); rays passing down to the body of the kneeling saint form the marks of the five wounds of Christ",
+      "'Vera Icon', held up by angels"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1919-1977"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 29",
+    "29"
+  ],
+  "principalOrFirstMaker": "Albrecht D\u00fcrer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "227"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "143"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "171"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "143"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Christus in de rozenkrans, Albrecht D\u00fcrer (school of), 1515",
+  "subTitle": "h 227mm \u00d7 w 143mm",
+  "scLabelLine": "Albrecht D\u00fcrer, 1515, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

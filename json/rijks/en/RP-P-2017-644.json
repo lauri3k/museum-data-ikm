@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-644",
+  "priref": "651870",
+  "objectNumber": "RP-P-2017-644",
+  "language": "en",
+  "title": "Ex libris van J. Vers\u00e9e",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van J. Vers\u00e9e",
+    "L'homme n'est qu'un roseau, le plus faible de la nature, mais c'est un roseau pensant"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jac Nuiver",
+      "unFixedName": "Nuiver, Jac",
+      "placeOfBirth": "Groningen",
+      "dateOfBirth": "1892-10-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1953-06-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jac Nuiver (01-okt-1892 - 27-jun-1953), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jac Nuiver",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2017-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "printing block"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1946",
+    "sortingDate": 1946,
+    "period": 20,
+    "yearEarly": 1946,
+    "yearLate": 1946
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Vers\u00e9e, J."
+    ],
+    "objectNumbers": [
+      "RP-P-2017-644"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Vers\u00e9e, J."
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jac Nuiver",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing block",
+  "longTitle": "Ex libris van J. Vers\u00e9e, Jac Nuiver, 1946",
+  "subTitle": "h 85mm \u00d7 w 60mm",
+  "scLabelLine": "Jac Nuiver, 1946, printing block",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

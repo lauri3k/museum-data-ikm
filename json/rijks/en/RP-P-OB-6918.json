@@ -1,0 +1,247 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-6918",
+  "priref": "114187",
+  "objectNumber": "RP-P-OB-6918",
+  "language": "en",
+  "title": "Engel verdedigt de mens voor het kwaad",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e20e0bc2-96e8-4b74-96e5-7a08876f74bf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1796,
+    "url": "https://lh5.ggpht.com/SeOI62rDyRPr_o0k8yU2EzjtDT4O9xXqwISMdmzO1aIPwB5Ecu8OHADe7benjrK9OrwR-Q9XbRizZkuyf21sOG5olQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 26,
+      "hex": "#F4EFDF"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D6D1C3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B5B0A1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #736E5F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #989383"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4A453A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F2C23"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4EFDF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D6D1C3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B5B0A1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #736E5F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #989383",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A453A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2F2C23",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 26,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Engel verdedigt de mens voor het kwaad"
+  ],
+  "description": "Uitbeelding van Mat. 6,13: En breng ons niet in beproeving, maar red ons uit de greep van het kwaad. Een aartsengel verdedigt de mens tegen een groepje duivels. Op de achtergrond een schip in stormachtig weer.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Galle (III)",
+      "unFixedName": "Galle, Cornelis (III)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1642",
+      "dateOfBirthPrecision": "before",
+      "dateOfDeath": "1679",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (III) (before 1642 - c. 1679), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Galle (II)",
+      "unFixedName": "Galle, Cornelis (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1615",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-10-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (II) (1615 - 18-okt-1678), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Galle (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1638 - 1678",
+    "sortingDate": 1638,
+    "period": 17,
+    "yearEarly": 1638,
+    "yearLate": 1678
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C938"
+    ],
+    "iconClassDescription": [
+      "'but deliver us from evil' ~ the Lord's prayer"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-6918"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Galle (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "93"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Engel verdedigt de mens voor het kwaad, Cornelis Galle (II), 1638 - 1678",
+  "subTitle": "h 67mm \u00d7 w 93mm",
+  "scLabelLine": "Cornelis Galle (II), 1638 - 1678, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

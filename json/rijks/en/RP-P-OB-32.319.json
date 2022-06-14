@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-32.319",
+  "priref": "139404",
+  "objectNumber": "RP-P-OB-32.319",
+  "language": "en",
+  "title": "H. Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "86a5b124-fe0f-4e7f-8317-c0e389afe226",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1743,
+    "height": 2371,
+    "url": "https://lh3.googleusercontent.com/tbtEfWO9KngTvV-DKgyDlovgtmX8vbNrYoZ261dP0UN8xE1VhGMzjjwByH0rcjhFCL_-mr4cbADe8637AszGg9S-gwNl5qO6Mpw9b7E3=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. Johannes de Doper"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Edward Cooper",
+      "unFixedName": "Cooper, Edward",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Edward Cooper, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bernard Lens (II)",
+      "unFixedName": "Lens, Bernard (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1659",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1725-04-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bernard Lens (II) (1659 - 28-apr-1725)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bernard Lens (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1682 - 1725",
+    "sortingDate": 1682,
+    "period": 17,
+    "yearEarly": 1682,
+    "yearLate": 1725
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "31D11221"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "boy (child between toddler and youth)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-32.319"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bernard Lens (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "142"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "95"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "H. Johannes de Doper, Bernard Lens (II), 1682 - 1725",
+  "subTitle": "h 142mm \u00d7 w 95mm",
+  "scLabelLine": "Bernard Lens (II), 1682 - 1725, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

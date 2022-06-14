@@ -1,0 +1,247 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-79.947",
+  "priref": "447755",
+  "objectNumber": "RP-P-OB-79.947",
+  "language": "en",
+  "title": "De graftombe van Willem van Oranje, 1623",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "17802260-e445-4506-8c56-494261f097bd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2120,
+    "url": "https://lh3.googleusercontent.com/j16pzJOoCXXGNUtg8JCQ04bAXRT4LZQ2v_cjvdIPH5laJmVWJU-r7tJD3t1SXbELwYIDWMa9-uJMaqtUBSqAtv53QYU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 50,
+      "hex": "#EAE3CE"
+    },
+    {
+      "percentage": 11,
+      "hex": " #8D8773"
+    },
+    {
+      "percentage": 11,
+      "hex": " #D2CDB9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #625D4B"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B4AE9A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FBF9F0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #3B382D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EAE3CE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8D8773",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D2CDB9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #625D4B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B4AE9A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #FBF9F0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3B382D",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 66,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 21,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "De graftombe van Willem van Oranje, 1623",
+    "Tombe ofte Begraaf Plaats der Princen van Orange"
+  ],
+  "description": "De graftombe of praalgraf van Willem van Oranje in de Nieuwe Kerk te Delft, voltooid in 1623.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1700 - 1799",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E35"
+    ],
+    "iconClassDescription": [
+      "grave-building, monumental tomb"
+    ],
+    "motifs": [],
+    "events": [
+      "Begrafenis van Willem van Oranje"
+    ],
+    "periods": [
+      "1584-08-231584-08-23"
+    ],
+    "places": [
+      "Nieuwe Kerk"
+    ],
+    "people": [
+      "Willem I (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-79.947"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 897",
+    "897"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "180"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "De graftombe van Willem van Oranje, 1623, anonymous, 1700 - 1799",
+  "subTitle": "h 155mm \u00d7 w 180mm",
+  "scLabelLine": "anonymous, 1700 - 1799, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

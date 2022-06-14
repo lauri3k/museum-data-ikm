@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-173",
+  "priref": "8744",
+  "objectNumber": "SK-A-173",
+  "language": "en",
+  "title": "The Menagerie",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c87284f7-9d1b-4789-a126-e9aba705e9a3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2185,
+    "height": 2670,
+    "url": "https://lh3.googleusercontent.com/xmhk49CL8eRTKuUyI6XpZB36_T8JclAo4_GkRk8GLGlMWaNqkpsiu1nCyRD0XQi8_IEj2T52L4hvPorD_o70ChTey3c=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#1B1108"
+    },
+    {
+      "percentage": 31,
+      "hex": " #614F38"
+    },
+    {
+      "percentage": 9,
+      "hex": " #512415"
+    },
+    {
+      "percentage": 2,
+      "hex": " #867A60"
+    },
+    {
+      "percentage": 2,
+      "hex": " #6A6C67"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A59878"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C8C5B5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1B1108",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #614F38",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #512415",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #867A60",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6A6C67",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A59878",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C8C5B5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 34,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #800000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 31,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "The Managerie"
+  ],
+  "description": "De menagerie. Allerlei vogels op de hoek van een balustrade waarop een siervaas staat. Onder de vogels bevinden zich kaketoes, papegaaien en parkieten. Rechts twee aapjes op een Oosters tapijt dat over de balustrade is gedrapeerd. Rechts een boom tegen de achtergrond.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Melchior d'Hondecoeter",
+      "unFixedName": "Hondecoeter, Melchior d'",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1636",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1695-04-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Melchior d'Hondecoeter (1636 - 03-apr-1695)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Melchior d'Hondecoeter",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "nationalization 1795",
+    "date": "1799-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1690",
+    "sortingDate": 1690,
+    "period": 17,
+    "yearEarly": 1690,
+    "yearLate": 1690
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A646",
+      "25F35(PARROT)",
+      "25F22"
+    ],
+    "iconClassDescription": [
+      "garden vase",
+      "ornamental birds: parrot",
+      "monkeys, apes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-173"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Rijksmuseum Amsterdam Jaarverslag 2006, afb. detail p. 56",
+    "E. Vlieger, 'Melchior d'Hondecoeter', Kunstschrift (1995) 4, p. 23 met afb.",
+    "P.J.J. van Thiel, '...', Oud Holland (1981) 95, p. 204, nr. 148 met afb."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Melchior d'Hondecoeter",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "135"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "116.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Menagerie, Melchior d'Hondecoeter, c. 1690",
+  "subTitle": "h 135cm \u00d7 w 116.5cm",
+  "scLabelLine": "Melchior d\u2019Hondecoeter (1636\u20131695), oil on canvas, c. 1690",
+  "label": {
+    "title": "The Menagerie",
+    "makerLine": "Melchior d\u2019Hondecoeter (1636\u20131695), oil on canvas, c. 1690",
+    "description": "Presented here are two squirrel monkeys from Central America, two white sulphur-crested cockatoos from Australia, a grey parrot from Africa and a purple-naped lory \u2013 on a chain at the lower left \u2013 from Indonesia. Hondecoeter combined these creatures and several other splendid birds in this painting, which was destined for Het Loo, the palace of William III. It hung above the door of the king\u2019s private apartment.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

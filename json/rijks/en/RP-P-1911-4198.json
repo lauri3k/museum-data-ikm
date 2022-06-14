@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1911-4198",
+  "priref": "139152",
+  "objectNumber": "RP-P-1911-4198",
+  "language": "en",
+  "title": "Portret van Karel Frederik van Baden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3e7b4298-41fb-42db-8bb4-adcd205d262e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1340,
+    "height": 1608,
+    "url": "https://lh3.googleusercontent.com/3q8Qtq7zUwIHEMFuwN6p4-hgJHB-OL6Vjh3yNoRadlxsanqzCHU7Op6kZ2_nAyqkyNLoxqrXIkAQcBzSq8L3wYj3MuGXQ7PShPsMi2c=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Karel Frederik van Baden"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Friedrich Leonhard Lehmann",
+      "unFixedName": "Lehmann, Friedrich Leonhard",
+      "placeOfBirth": "Darmstadt",
+      "dateOfBirth": "1787",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Friedrich Leonhard Lehmann (1787 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Friedrich Leonhard Lehmann",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1797 - 1886",
+    "sortingDate": 1797,
+    "period": 18,
+    "yearEarly": 1797,
+    "yearLate": 1886
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Baden, Karel Frederik van"
+    ],
+    "objectNumbers": [
+      "RP-P-1911-4198"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Baden, Karel Frederik van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Friedrich Leonhard Lehmann",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Karel Frederik van Baden, Friedrich Leonhard Lehmann, 1797 - 1886",
+  "subTitle": "h 105mm \u00d7 w 62mm",
+  "scLabelLine": "Friedrich Leonhard Lehmann, 1797 - 1886, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

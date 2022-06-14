@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-OB-858",
+  "priref": "37295",
+  "objectNumber": "RP-P-H-OB-858",
+  "language": "en",
+  "title": "Roman Ruins, a City in the Distance",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8ad29452-0d63-45a4-a1c8-416731d0fcad",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1500,
+    "height": 918,
+    "url": "https://lh6.ggpht.com/IX6mmHS-gSpACUTzzW7MpSxlx2-e8wECN6LFll11hmHdl0guBiYaqOz7bhbmUST65jIRi2pMFX0a8sT5uJxUKgpmDczu=s0"
+  },
+  "colors": [
+    {
+      "percentage": 50,
+      "hex": "#666153"
+    },
+    {
+      "percentage": 36,
+      "hex": " #857F6F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #EDEBE3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9A9687"
+    },
+    {
+      "percentage": 1,
+      "hex": " #49483F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B4AFA0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CECBBE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#666153",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #857F6F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EDEBE3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9A9687",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #49483F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #B4AFA0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CECBBE",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 36,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Roman Ruins, a City in the Distance"
+  ],
+  "description": "Romeinse ru\u00efnes in een landschap met rechts een stad.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hercules Segers",
+      "unFixedName": "Segers, Hercules",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1640",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hercules Segers (c. 1590 - c. 1640), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hercules Segers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "? Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1615 - c. 1630",
+    "sortingDate": 1615,
+    "period": 17,
+    "yearEarly": 1615,
+    "yearLate": 1630
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C149",
+      "25I9"
+    ],
+    "iconClassDescription": [
+      "ruin of a building ~ architecture",
+      "landscape with ruins"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-OB-858"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 42",
+    "42",
+    "Leeflang 42",
+    "42",
+    "Haverkamp-Begemann 42",
+    "42"
+  ],
+  "principalOrFirstMaker": "Hercules Segers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "120"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "203"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printed from two plates: one tone plate entirely covered with fine crosshatching in line etching printed in bluish grey and a second plate with tone and highlights using stopping-out and direct biting and a second biting with line etching, etching trials, printed in black; framing line in brown ink",
+  "longTitle": "Roman Ruins, a City in the Distance, Hercules Segers, c. 1615 - c. 1630",
+  "subTitle": "h c.120mm \u00d7 w c.203mm",
+  "scLabelLine": "line etching with tone and highlights, printed in blue-grey and black from two plates, unique impression, c. 1625\u20131630",
+  "label": {
+    "title": "Roman Ruins, a City in the Distance",
+    "makerLine": "line etching with tone and highlights, printed in blue-grey and black from two plates, unique impression, c. 1625\u20131630",
+    "description": "Segers etched two plates for this print. One was a tone plate with fine crosshatching, which he printed in a greyish blue. The other had the depiction of the ruins and the city, which he printed in black over the tone.",
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

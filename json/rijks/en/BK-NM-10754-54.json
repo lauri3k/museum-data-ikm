@@ -1,0 +1,253 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10754-54",
+  "priref": "325509",
+  "objectNumber": "BK-NM-10754-54",
+  "language": "en",
+  "title": "Wine glass",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f221e003-f953-493b-9613-651fc825d9b2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1674,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/Xf-RoCfF19RC4oevBHWlzRk1yqRB3AuQURECf97MWdJLdbaK30I3ssjA2aGhkTj3H7hz0IqzeSFJ-EglvUCVo3iRv3o=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#9E9D9A"
+    },
+    {
+      "percentage": 28,
+      "hex": " #80807D"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B9B9B8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #545453"
+    },
+    {
+      "percentage": 7,
+      "hex": " #EFEFEF"
+    },
+    {
+      "percentage": 33,
+      "hex": " #D2D1D1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#9E9D9A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #80807D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B9B9B8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #545453",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EFEFEF",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #D2D1D1",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 28,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 50,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 42,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "Platte voet met omgeslagen rand. Balustervormige stam met twee schijven. Conische kelk met afgeronde bodem. Op de kelk het gekroonde wapen van Koning-Stadhouder Willem III, gedragen door twee eenhoorns. Op de andere zijde het opschrift 'God bles the kingh'. Op de voet bloemtakken.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "A.J. Ensched\u00e9 Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Low Countries",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "in or after 1690 - c. 1700",
+    "sortingDate": 1690,
+    "period": 17,
+    "yearEarly": 1690,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B194"
+    ],
+    "iconClassDescription": [
+      "coat of arms (symbol of sovereignty)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "BK-NM-10754-54"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "22.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.0"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Wine glass, anonymous, in or after 1690 - c. 1700",
+  "subTitle": "h 22.2cm \u00d7 d 10.0cm",
+  "scLabelLine": "The Netherlands, c. 1690\u20131700",
+  "label": {
+    "title": "Wine glass",
+    "makerLine": "The Netherlands, c. 1690\u20131700",
+    "description": "The crowned arms of William III of Orange are enclosed by a garter bearing the text: \u2018Honi so[it qu]i [mal y] pense\u2019 (Shame on him who thinks evil of it). The Order of the Garter is the highest order of chivalry in England. The poorly spelt English inscription on the glass reads: \u2018God bles the Kingh.\u2019",
+    "notes": null,
+    "date": "2019-07-16"
+  },
+  "showImage": true,
+  "location": "HG-2.20"
+}

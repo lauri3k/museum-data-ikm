@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-17221",
+  "priref": "50396",
+  "objectNumber": "BK-17221",
+  "language": "en",
+  "title": "Plaque with Salome with the Head of John the Baptist",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f5ecd0d4-eede-46d1-968e-bd153c4fe894",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2237,
+    "url": "https://lh4.ggpht.com/MQ977Jbs_Bxl7eVBpfNF1PP7JHmiIowkZaT8WaLh0jvCm7kl8RPHKPW4dXjFM4lSyWT59a4RMvMW1dtH7BiMSo9XM8Wo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Plaquette van koper, gedecoreerd met voorstelling van gekleurd email. In een blauw interieur is links een man te zien met getrokken zwaard. Hij overhandigd het hoofd van Johannes de Doper aan Salom\u00e9, die rechts staat met een schotel in haar handen, waarop het hoofd kan worden gelegd. Onder het tafereel is het monogram P.C te lezen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pierre Courteys (I)",
+      "unFixedName": "Courteys, Pierre (I)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1520",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1591",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Pierre Courteys (I) (c. 1520 - before 1591)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pierre Courteys (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)",
+    "gold (metal)"
+  ],
+  "techniques": [
+    "gilding"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1550 - before 1591",
+    "sortingDate": 1550,
+    "period": 16,
+    "yearEarly": 1550,
+    "yearLate": 1591
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C1334"
+    ],
+    "iconClassDescription": [
+      "Salome is given the head of John the Baptist by the executioner"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-17221"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "K. Posner en Robert van Langh [red.], Supporting Conservation : Four projects funded by Gieskes-Strijbis Fonds, Amsterdam 2015, p. 34, 43, 45, afb. 24, 30-31."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pierre Courteys (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "18.4"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "17.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "24.8"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "1.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Plaque with Salome with the Head of John the Baptist, Pierre Courteys (I) (attributed to), c. 1550 - before 1591",
+  "subTitle": "h 18.4cm",
+  "scLabelLine": "Pierre Courteys (c. 1520\u2013before 1591), Limoges, before 1591, enamel on copper",
+  "label": {
+    "title": "Plaque with Salome with the Head of John the Baptist",
+    "makerLine": "Pierre Courteys (c. 1520\u2013before 1591), Limoges, before 1591, enamel on copper",
+    "description": "As a reward for her sensual dance, Salome asked her stepfather, King Herod, to give her the head of John the Baptist. The executioner\u2019s tense posture and distorted hand emphasizes the grizzly nature of his deed, as he hands over of the saint\u2019s head.",
+    "notes": null,
+    "date": "2013-03-28"
+  },
+  "showImage": true,
+  "location": null
+}

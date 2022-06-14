@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1957-14",
+  "priref": "47593",
+  "objectNumber": "RP-P-1957-14",
+  "language": "en",
+  "title": "Anecdotes of the Red-Haired Barbarians",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5a8a533f-1a84-464f-98d4-eb0485ec7245",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1793,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/FrjUJccjJsN9TzaUw6mSBSd-Rk4kdgdwSDi4QVVIV2IB7YYjVL4egngIp1Q_Cyicr0flsfI9A1NsqRCTVM8yJauH9h8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 74,
+      "hex": "#5E4341"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A19885"
+    },
+    {
+      "percentage": 8,
+      "hex": " #7A6F61"
+    },
+    {
+      "percentage": 2,
+      "hex": " #37302B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D7D2C0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F9F8F2"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB59E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#5E4341",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #A19885",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7A6F61",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #37302B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #D7D2C0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F9F8F2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BDB59E",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 84,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Deel drie (van vijf); roodbruine kaft met in blinddruk 'algemeen waereld kaart'; linksboven titelstrook; 21 bladen, genummerd: 1-21, wetenschappelijke notities. Illustraties van een microscoop en verschillende insecten.",
+  "labelText": null,
+  "objectTypes": [
+    "book"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Morishima Churyo",
+      "unFixedName": "Churyo, Morishima",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Morishima Churyo"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1787",
+    "sortingDate": 1787,
+    "period": 18,
+    "yearEarly": 1787,
+    "yearLate": 1787
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1957-14"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Jap Cat V 175",
+    "175"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "222"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "156"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Anecdotes of the Red-Haired Barbarians, anonymous, 1787",
+  "subTitle": "h 222mm \u00d7 w 156mm",
+  "scLabelLine": "Morishima Churyo, Japan, 1787, woodcut",
+  "label": {
+    "title": "Anecdotes of the Red-Haired Barbarians",
+    "makerLine": "Morishima Churyo, Japan, 1787, woodcut",
+    "description": "In Japan there was a small circle of scholars and interested individuals who were abreast of developments in Europe. In the 18th century, broad layers of the population could become acquainted with them through popular books, like this one by Morishima Churyo. He collected a wealth of information about Europe and presented it in an accessible manner to a general audience, for instance these details of insects under the microscope.",
+    "notes": null,
+    "date": "2016-01-12"
+  },
+  "showImage": true,
+  "location": null
+}

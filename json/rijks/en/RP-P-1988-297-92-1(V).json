@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1988-297-92-1(V)",
+  "priref": "544054",
+  "objectNumber": "RP-P-1988-297-92-1(V)",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "89ea2765-45c5-428d-aacd-9c13da258c91",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1771,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/nvuiIFCLcGIZ5b0Cl8Sjim3yr1FSTqYG5U3rfqNlVlKaEKEEycrnDATaNA8n4ULQuy9P7GKXU0lIKDCa44z-X59SkFk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning",
+    "Passie van Christus",
+    "Mnimata Dominicae Passionis Historiam Necisque Nostrae Mortem Complexa"
+  ],
+  "description": "Beulen zetten Christus een doornenkroon op het hoofd en geven hem een rietstok in de hand. Onder de voorstelling een zesregelige tekst in het Latijn. Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gerard de Jode",
+      "unFixedName": "Jode, Gerard de",
+      "placeOfBirth": "Nijmegen",
+      "dateOfBirth": "1516",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1591-02-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Gerard de Jode (c. 1516 - 05-feb-1591), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johannes Wierix",
+      "unFixedName": "Wierix, Johannes",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1549",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1618",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johannes Wierix (c. 1549 - 1618)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Wierix",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1988-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1572",
+    "sortingDate": 1572,
+    "period": 16,
+    "yearEarly": 1572,
+    "yearLate": 1572
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1988-297-92-1(V)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 303",
+    "303",
+    "New Hollstein Dutch 116",
+    "116"
+  ],
+  "principalOrFirstMaker": "Johannes Wierix",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "168"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "129"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning, Johannes Wierix, 1572",
+  "subTitle": "h 168mm \u00d7 w 129mm",
+  "scLabelLine": "Johannes Wierix, 1572, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

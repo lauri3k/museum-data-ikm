@@ -1,0 +1,262 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2101",
+  "priref": "7620",
+  "objectNumber": "SK-A-2101",
+  "language": "en",
+  "title": "Portrait of Frederik Hendrik (1584-1647), Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7b74147a-76cc-4d91-8ce1-458bcb9efbb5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1826,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/oLcQJ6YVKbmOZGLjWhmxeiYkjvaaEAF4vHWhwoY5cTOeO1lOARuMHG8L4lzfzvBiPErFhylwVwcgkXttOEIzrGsYCYy36Ntgsrotmpk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#110F0A"
+    },
+    {
+      "percentage": 32,
+      "hex": " #3F2A1B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #524A36"
+    },
+    {
+      "percentage": 6,
+      "hex": " #6A3A1E"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8B653D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A08C69"
+    },
+    {
+      "percentage": 2,
+      "hex": " #74715F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#110F0A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3F2A1B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #524A36",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6A3A1E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8B653D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A08C69",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #74715F",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 43,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Frederik Hendrik (1584-1647), Prince of Orange"
+  ],
+  "description": "Portret van Frederik Hendrik, prins van Oranje. Buste naar rechts. Pendant van SK-A-2100.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Michiel Jansz van Mierevelt",
+      "unFixedName": "Mierevelt, Michiel Jansz van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1567-05-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-06-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "copy after",
+      "labelDesc": "copy after Michiel Jansz van Mierevelt (01-mei-1567 - 27-jun-1641)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Lyon",
+      "unFixedName": "Lyon, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1587",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1659",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Lyon (1587 - 1659)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Lyon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1903-01-01T00:00:00",
+    "creditLine": "A.A. des Tombe Bequest, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "copper (metal)",
+    "oil paint (paint)",
+    "wood (plant material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "after c. 1612",
+    "sortingDate": 1612,
+    "period": 17,
+    "yearEarly": 1612,
+    "yearLate": 1612
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B15121"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "prince"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16101647"
+    ],
+    "places": [],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-2101"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Lyon",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "11.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "8.6"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "frame",
+      "value": "16"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "frame",
+      "value": "12.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "2.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on copper",
+  "longTitle": "Portrait of Frederik Hendrik (1584-1647), Prince of Orange, Jacob Lyon, after c. 1612",
+  "subTitle": "h 11.5cm \u00d7 w 8.6cm",
+  "scLabelLine": "Jacob Lyon, after c. 1612, oil on copper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-1723-7",
+  "priref": "673423",
+  "objectNumber": "BK-KOG-1723-7",
+  "language": "en",
+  "title": "Centrale houten stok van bloempiramide van Delfts aardewerk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "20a09d3c-b3e4-4917-850e-cb561c27bdfd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1275,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/_njOZXrDdr8kijHoPtl924CpbMf-B-AVvNmuZYWktSBE1GzGXXbRQKEYKo-lH8ylTEvuR7SKYTowir2JsjL5b4V2ZrMNSoLH2XF_jAeP=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Centrale houten stok van bloempiramide van Delfts aardewerk"
+  ],
+  "description": "Centrale houten stok van bloempiramide van faience.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1936-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I6",
+      "25I153",
+      "25G41"
+    ],
+    "iconClassDescription": [
+      "landscape with bridge, viaduct or aqueduct",
+      "obelisk, needle",
+      "flowers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-KOG-1723-7"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "71.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Centrale houten stok van bloempiramide van Delfts aardewerk, anonymous, c. 1700",
+  "subTitle": "h 71.5cm \u00d7 d 2.5cm",
+  "scLabelLine": "anonymous, c. 1700, wood (plant material)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

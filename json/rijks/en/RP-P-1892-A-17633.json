@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1892-A-17633",
+  "priref": "70421",
+  "objectNumber": "RP-P-1892-A-17633",
+  "language": "en",
+  "title": "Still Life of Fruit and Flowers",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b7c3511b-6d89-4f9a-820d-e1b95a080832",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1981,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/11HHZb1HEErMsurHBJVx0SDPpbdfNfKGNFxuz-CvIIL4zeTZSjEhFUYpHwlYLhGim9zTaD3Bc-ddpLyMp8aGYGbxhw7_CtTr96Ez285erw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Still Life of Fruit and Flowers"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Boydell",
+      "unFixedName": "Boydell, John",
+      "placeOfBirth": "Dorrington",
+      "dateOfBirth": "1719-01-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-12-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Boydell (19-jan-1719 - 21-dec-1804), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Richard Earlom",
+      "unFixedName": "Earlom, Richard",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1822-10-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Richard Earlom (c. 1743 - 09-okt-1822)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Richard Earlom",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1892-01-01T00:00:00",
+    "creditLine": "Jonkheer P.A. van den Velden Bequest, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1781",
+    "sortingDate": 1781,
+    "period": 18,
+    "yearEarly": 1781,
+    "yearLate": 1781
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A671",
+      "41A772"
+    ],
+    "iconClassDescription": [
+      "still life of plants, flowers and fruit",
+      "container of stone: stone vase"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1892-A-17633"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 54",
+    "54",
+    "Wessely (Earlom) 145",
+    "145",
+    "Andresen 42",
+    "42"
+  ],
+  "principalOrFirstMaker": "Richard Earlom",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "556"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "420"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Still Life of Fruit and Flowers, Richard Earlom, 1781",
+  "subTitle": "h 556mm \u00d7 w 420mm",
+  "scLabelLine": "Richard Earlom (1743-1822), after Jan van Huysum (1682-1749), mezzotint, 1781",
+  "label": {
+    "title": "Still Life of Fruit and Flowers",
+    "makerLine": "Richard Earlom (1743-1822), after Jan van Huysum (1682-1749), mezzotint, 1781",
+    "description": "Right before Empress Catherine the Great of Russia bought Sir Robert Walpole\u2019s entire art collection, Richard Earlom made large prints of several of the famous paintings in it as mementos. Among them was this 1723 still life by Jan van Huysum. Earlom worked in mezzotint, a technique also called the \u2018black manner\u2019. This method made it possible to produce soft, subtle transitions between a wealth of grey tones, creating a velvety black surface.",
+    "notes": null,
+    "date": "2015-06-05"
+  },
+  "showImage": true,
+  "location": null
+}

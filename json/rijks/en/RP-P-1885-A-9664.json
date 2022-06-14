@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1885-A-9664",
+  "priref": "96780",
+  "objectNumber": "RP-P-1885-A-9664",
+  "language": "en",
+  "title": "Christus wordt gekroond met de doornenkroon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f12d798d-c3df-4c82-94ec-7ea552158c0b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2046,
+    "url": "https://lh5.ggpht.com/p23KD2YgW4Lz5yVZpf9uK9tBth0sSikBlCTei0OFut7agphWGSXbhTDLeSwVNQCYof8U70AaDH67LMaManmzMWYykA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#F7F5E6"
+    },
+    {
+      "percentage": 20,
+      "hex": " #DBD8C3"
+    },
+    {
+      "percentage": 14,
+      "hex": " #BAB7A4"
+    },
+    {
+      "percentage": 8,
+      "hex": " #989686"
+    },
+    {
+      "percentage": 23,
+      "hex": " #737161"
+    },
+    {
+      "percentage": 25,
+      "hex": " #444439"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F5E6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DBD8C3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BAB7A4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #989686",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #737161",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #444439",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 31,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 25,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Christus wordt gekroond met de doornenkroon",
+    "Vita, passio et Resvrrectio Iesv Christi",
+    "Leven, passie en wederopstanding van Christus"
+  ],
+  "description": "Christus wordt door de soldaten bespot. Hij krijgt een doornenkroon op zijn hoofd en een grasspriet als scepter (Matte\u00fcs 27:27-29). De prent heeft een Latijns onderschrift. De prent maakt deel uit van een serie over het leven van Christus.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Adriaen Collaert",
+      "unFixedName": "Collaert, Adriaen",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1618-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adriaen Collaert (c. 1560 - 29-jun-1618), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Collaert (II)",
+      "unFixedName": "Collaert, Jan (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1566",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1628-05-26",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Collaert (II) (1566 - c. 26-mei-1628), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Collaert (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1598 - 1618",
+    "sortingDate": 1598,
+    "period": 16,
+    "yearEarly": 1598,
+    "yearLate": 1618
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1885-A-9664"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 215",
+    "215"
+  ],
+  "principalOrFirstMaker": "Jan Collaert (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "179"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "220"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Christus wordt gekroond met de doornenkroon, Jan Collaert (II), 1598 - 1618",
+  "subTitle": "h c.179mm \u00d7 w c.220mm",
+  "scLabelLine": "Jan Collaert (II), 1598 - 1618, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

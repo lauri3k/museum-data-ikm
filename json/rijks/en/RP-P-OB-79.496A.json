@@ -1,0 +1,377 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-79.496A",
+  "priref": "453442",
+  "objectNumber": "RP-P-OB-79.496A",
+  "language": "en",
+  "title": "Aankomst en ontvangst van de paltsgraaf Frederik met zijn vrouw Elisabeth te Vlissingen (plaat 1), 1613",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "708e0c77-1c02-4cd2-8255-8fbbe23d88b4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2688,
+    "height": 2050,
+    "url": "https://lh5.ggpht.com/PIEeKE5zRClCEsvcZJcyNy8oIA-SbGBX00VgE8L5Ar7vbTus8589BuoOM_YVQtZSL0of80_eSeW2N0ronAuL3s5shg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#CFCBC0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #8B8781"
+    },
+    {
+      "percentage": 19,
+      "hex": " #EDEADF"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696660"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B0ACA4"
+    },
+    {
+      "percentage": 3,
+      "hex": " #494842"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEFE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CFCBC0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8B8781",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EDEADF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #696660",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B0ACA4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #494842",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #FEFEFE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 22,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 19,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 36,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Aankomst en ontvangst van de paltsgraaf Frederik met zijn vrouw Elisabeth te Vlissingen (plaat 1), 1613"
+  ],
+  "description": "Grote voorstellingen bestaande uit 4 bladen van de aankomst en ontvangst van de paltsgraaf Frederik (de Winterkoning) met zijn vrouw Elisabeth te Vlissingen (plaat 1), 28 april 1613. Schepen op het water in de haven van Vlissingen. Op de voorgrond het Statenjacht van prins Maurits. Linksboven een grote cartouche met een Latijns vers van 12 regels, versierd met de wapens van Staten-Generaal en prins Maurits, kanonnen, vaandels en kruitmaatjes. In de wolken de Faam met bazuinen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Claes Jansz. Visscher (II)",
+      "unFixedName": "Visscher, Claes Jansz. (II)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1652-06-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Claes Jansz. Visscher (II) (1586 - 19-jun-1652), Amsterdam"
+    },
+    {
+      "name": "Jacob Cats (1577-1660)",
+      "unFixedName": "Cats, Jacob (1577-1660)",
+      "placeOfBirth": "Brouwershaven",
+      "dateOfBirth": "1577-11-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1660-09-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Cats (1577-1660) (10-nov-1577 - 12-sep-1660)"
+    },
+    {
+      "name": "Staten van Zeeland",
+      "unFixedName": "Staten van Zeeland",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Staten van Zeeland"
+    },
+    {
+      "name": "Stadsbestuur Vlissingen",
+      "unFixedName": "Stadsbestuur Vlissingen",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Stadsbestuur Vlissingen"
+    },
+    {
+      "name": "Claes Jansz. Visscher (II)",
+      "unFixedName": "Visscher, Claes Jansz. (II)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1652-06-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Claes Jansz. Visscher (II) (1586 - 19-jun-1652), Amsterdam"
+    },
+    {
+      "name": "Staten-Generaal",
+      "unFixedName": "Staten-Generaal",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Staten-Generaal"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1650",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C21(+33)"
+    ],
+    "iconClassDescription": [
+      "ships (in general) (+ propulsion of vehicle, ship, etc. by wind)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1613-04-281613-04-28"
+    ],
+    "places": [
+      "Vlissingen"
+    ],
+    "people": [
+      "Frederik V (keurvorst van de Palts, koning van Bohemen)",
+      "Elisabeth Stuart (keurvorstin van de Palts, koningin van Bohemen)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-79.496A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik V (keurvorst van de Palts, koning van Bohemen)",
+    "Elisabeth Stuart (keurvorstin van de Palts, koningin van Bohemen)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 140, nr. 1291Aa."
+  ],
+  "catRefRPK": [
+    "FMH 1291",
+    "1291",
+    "Hollstein Dutch 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "426"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "558"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Aankomst en ontvangst van de paltsgraaf Frederik met zijn vrouw Elisabeth te Vlissingen (plaat 1), 1613, anonymous, 1650",
+  "subTitle": "h 426mm \u00d7 w 558mm",
+  "scLabelLine": "anonymous, 1650, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

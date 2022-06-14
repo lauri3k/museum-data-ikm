@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1954-627",
+  "priref": "118356",
+  "objectNumber": "RP-P-1954-627",
+  "language": "en",
+  "title": "Portret van een onbekende monnik",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1ec4c66d-fd52-40bd-b31d-8ad970f2698b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1701,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/ru4POszFxcWgkHb8Cr3mjHFcd4bR_7g08pnqoD0jX3h9YnWRsKfi3F7kP9H8wYxfQbnejWewIPq9dEEQkx-nXQUQaomG3XiMKqZJuW4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een onbekende monnik"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Peter Paul Rubens",
+      "unFixedName": "Rubens, Peter Paul",
+      "placeOfBirth": "Siegen",
+      "dateOfBirth": "1577-06-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1640-05-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "after design by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Peter Paul Rubens (28-jun-1577 - 30-mei-1640)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1954-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1749 - 1813",
+    "sortingDate": 1749,
+    "period": 18,
+    "yearEarly": 1749,
+    "yearLate": 1813
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11P31521",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "monk(s), friar(s)",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1954-627"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 134",
+    "134"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van een onbekende monnik, Valentine Green, 1749 - 1813",
+  "subTitle": "h 151mm \u00d7 w 100mm",
+  "scLabelLine": "Valentine Green, 1749 - 1813, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1711",
+  "priref": "358612",
+  "objectNumber": "AK-MAK-1711",
+  "language": "en",
+  "title": "Langoustines",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5366fe35-ebaa-4245-8857-104a85a84975",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 847,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/UH9mB6hZImMBQKWmWU4Ulw5iraaPwqgiysH06FjsSR99dtFYQxM6c820FciaUZ2B0gA1bGel_B4QcCE6LW3DMewuBd4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#C0C1CB"
+    },
+    {
+      "percentage": 12,
+      "hex": " #746C5F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8B8780"
+    },
+    {
+      "percentage": 34,
+      "hex": " #4B4945"
+    },
+    {
+      "percentage": 22,
+      "hex": " #A4A3A5"
+    },
+    {
+      "percentage": 10,
+      "hex": " #282427"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C0C1CB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #746C5F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8B8780",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4B4945",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A4A3A5",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #282427",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 46,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 34,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Drie kleine langoustines met daarboven een volwassen langoustine, de rug gekromd en de voelsprieten naar boven uitstekend.",
+  "labelText": null,
+  "objectTypes": [
+    "hanging scroll"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Mori Sosen",
+      "unFixedName": "Sosen, Mori",
+      "placeOfBirth": null,
+      "dateOfBirth": "1747",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1821",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "Mori Sosen (1747 - 1821), Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Mori Sosen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1999-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase Richard Kruml, 1999)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "ink",
+    "paper",
+    "silk"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1800 - 1825",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1825
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1711"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Menno Fitski, 'Japanse schilderkunst uit bezit van de Vereniging van Vrienden der Aziatische Kunst', Aziatische Kunst 30/1 (2000), pp. 1-42 (no. 10)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Mori Sosen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "82.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "27.7"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "47"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "ink",
+  "longTitle": "Langoustines, Mori Sosen, 1800 - 1825",
+  "subTitle": "h 82.4cm \u00d7 w 27.7cm",
+  "scLabelLine": "Mori Sosen (1747-1821), Japan, c. 1800-1820, ink and colour on paper",
+  "label": {
+    "title": "Langoustines",
+    "makerLine": "Mori Sosen (1747-1821), Japan, c. 1800-1820, ink and colour on paper",
+    "description": "Working from nature came first for Sosen. He made countless sketches to perfect his skills in rendering the animals as naturalistically as possible, both their appearance and their character. He depicted the langoustines with virtuoso strokes of ink, using subtle grey and black tones to beautifuly evoke the sheen and texture of the shells.",
+    "notes": null,
+    "date": "2017-04-07"
+  },
+  "showImage": true,
+  "location": null
+}

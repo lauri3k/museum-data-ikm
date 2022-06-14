@@ -1,0 +1,180 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-203.095",
+  "priref": "543631",
+  "objectNumber": "RP-P-OB-203.095",
+  "language": "en",
+  "title": "Histoire du petit Chaperon Rouge / Historie van het kleyn Rood Kapje / Histoire du b\u00fbcheron enchant\u00e9 / Historie van den houthakker",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2d552319-4136-44d3-a426-288c4c20d9c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2110,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/8zoEG5Fnr5UOPBE20lE3fzTyATHgc-R5hgl7ls32Snud7Zs1-BcVFX3AcQzEMUQbWVX7o9PudjMlCJAv3oBQgaheIcF3=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Histoire du petit Chaperon Rouge / Historie van het kleyn Rood Kapje / Histoire du b\u00fbcheron enchant\u00e9 / Historie van den houthakker"
+  ],
+  "description": "Blad met 4 voorstellingen uit het sprookje van Roodkapje en 4 voorstellingen uit het sprookje van de houthakker. Onder elke afbeelding een onderschrift in het Nederlands en in het Frans. Genummerd midden boven: n. 34.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Glenisson & Van Genechten",
+      "unFixedName": "Glenisson & Van Genechten",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Glenisson & Van Genechten"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Job van Houtum",
+      "unFixedName": "Houtum, Job van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Arnhem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Job van Houtum, Arnhem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Job van Houtum",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Arnhem"
+  ],
+  "dating": {
+    "presentingDate": "1833 - 1856",
+    "sortingDate": 1833,
+    "period": 19,
+    "yearEarly": 1833,
+    "yearLate": 1856
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)",
+      "84"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood",
+      "verhalen en sprookjes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-203.095"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Job van Houtum",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "380"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "325"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Histoire du petit Chaperon Rouge / Historie van het kleyn Rood Kapje / Histoire du b\u00fbcheron enchant\u00e9 / Historie van den houthakker, Job van Houtum, 1833 - 1856",
+  "subTitle": "h 380mm \u00d7 w 325mm",
+  "scLabelLine": "Job van Houtum, 1833 - 1856, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

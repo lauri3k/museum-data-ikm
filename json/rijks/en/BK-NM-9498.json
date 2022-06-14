@@ -1,0 +1,152 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-9498",
+  "priref": "356753",
+  "objectNumber": "BK-NM-9498",
+  "language": "en",
+  "title": "Jewellery Casket",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d47e1523-f617-4979-a027-01bb61d3a93d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2206,
+    "url": "https://lh3.googleusercontent.com/iOnFAR2eXY0KKS6kz9f7Oz4U-S8K010hjESv0pJ6fdInqFf13nSIieyVZow6bJBOVBjmXl7oqRi3BbbEXCyw7_dJBHw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Juwelenkist met gebombeerd deksel en bekleed met groen en geel perkament waarin vergulde geperste ornamenten. Van binnen bekleed met fluweel en zijde. Op het deksel het jaartal 1740.",
+  "labelText": null,
+  "objectTypes": [
+    "chest"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1892-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "parchment (animal material)",
+    "leather",
+    "velvet (fabric weave)",
+    "silk"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "? Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1740",
+    "sortingDate": 1740,
+    "period": 18,
+    "yearEarly": 1740,
+    "yearLate": 1740
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-9498"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "12.5"
+    },
+    {
+      "unit": "mm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "22.8"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood, parchment, leather, velvet, and silk",
+  "longTitle": "Jewellery Casket, anonymous, 1740",
+  "subTitle": "h 8.0cm \u00d7 w 12.5cm \u00d7 d 6.5mm \u00d7 l 22.8cm",
+  "scLabelLine": "The Netherlands?, 1740, wood, parchment, leather, velvet, and silk",
+  "label": {
+    "title": "Jewellery Casket",
+    "makerLine": "The Netherlands?, 1740, wood, parchment, leather, velvet, and silk",
+    "description": "Lined with green and yellow parchment and decorated with gilded ornaments, this wooden jewellery casket is dated 1740. Inside are various compartments, including recesses especially for rings. On the side of the casket are two \u2018secret\u2019 drawers. The box\u2019s format made it particularly\nsuitable for travel.",
+    "notes": null,
+    "date": "2017-08-18"
+  },
+  "showImage": true,
+  "location": null
+}

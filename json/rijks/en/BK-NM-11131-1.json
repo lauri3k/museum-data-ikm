@@ -1,0 +1,176 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-11131-1",
+  "priref": "612438",
+  "objectNumber": "BK-NM-11131-1",
+  "language": "en",
+  "title": "Schoorsteenmantel West-Indische Compagnie",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "28bdef22-d434-4441-9fc0-f26f1a4d3642",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2377,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/9Dckn7zvhMT9SQ1LG6VLVPx3JYbi62hPRsduD9Cew7blVO6Me763w3HgBHsQRngy_k9VsyM_pibADc8ql5ccC5Hem-fD_iZLZCUSxRzh=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Schoorsteenmantel West-Indische Compagnie"
+  ],
+  "description": "De mantel heeft de vorm van een hoofdgestel met een fries en kroonlijst. In het midden van het fries een medaillon met het monogram van de Geunificeerde Westindische Compagnie en aan weerszijden gestoken bladranken met festoenen. Bij de schoorsteenmantel horend marmeren kolommen (BK-NM-11131-2) en een groep van 128 tegels (BK-NM-11131-3 en -4). Afkomstig uit het gebouw der voormalige West-Indische Compagnie te Amsterdam.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1898-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "oak (wood)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1650 - 1675",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1675
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A9875",
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "ornament ~ festoon, garland",
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16501700"
+    ],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [
+      "West-Indische Compagnie"
+    ],
+    "objectNumbers": [
+      "BK-NM-11131-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "West-Indische Compagnie"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "93.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "293"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "109"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "59"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "277"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "80"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": "c.",
+      "part": null,
+      "value": "250"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oak (wood)",
+  "longTitle": "Schoorsteenmantel West-Indische Compagnie, anonymous, 1650 - 1675",
+  "subTitle": "h 93.5cm \u00d7 w 293cm \u00d7 d 109cm",
+  "scLabelLine": "anonymous, 1650 - 1675, oak (wood)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

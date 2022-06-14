@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00710-EM",
+  "priref": "291360",
+  "objectNumber": "RP-F-F00710-EM",
+  "language": "en",
+  "title": "Fotoreproductie van een schilderij van de onthoofding van Lady Jane Grey",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c3e65bed-78e7-4628-b5e5-bee12c19e9ba",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1646,
+    "height": 947,
+    "url": "https://lh3.googleusercontent.com/GIMFxSJIdz1dbYMZukPPQxSK5EN86ikNP5fCb66qettG_Se0_zZJCnMcFCnXXOkpMp3mq-oGuVl7ZOnKI6m-GDCmvtHJux9oxFJ6YsK5=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Fotoreproductie van een schilderij van de onthoofding van Lady Jane Grey"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1870 - 1900",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C5",
+      "31E23621",
+      "31D14",
+      "31D15"
+    ],
+    "iconClassDescription": [
+      "painting, drawing and the graphic arts",
+      "violent death by beheading",
+      "adult man",
+      "adult woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Lady Jane"
+    ],
+    "objectNumbers": [
+      "RP-F-F00710-EM"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Grey, Lady Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "101"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Fotoreproductie van een schilderij van de onthoofding van Lady Jane Grey, anonymous, 1870 - 1900",
+  "subTitle": "h 101mm \u00d7 w 62mm",
+  "scLabelLine": "anonymous, 1870 - 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

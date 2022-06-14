@@ -1,0 +1,217 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2001-109",
+  "priref": "364507",
+  "objectNumber": "RP-T-2001-109",
+  "language": "en",
+  "title": "Orang-oetan met jong",
+  "copyrightHolder": "erven Sonja Dwinger",
+  "webImage": null,
+  "colors": [
+    {
+      "percentage": 58,
+      "hex": "#FBFAF1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E9E0CC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D4C3A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B0987A"
+    },
+    {
+      "percentage": 20,
+      "hex": " #986E44"
+    },
+    {
+      "percentage": 10,
+      "hex": " #4B3B28"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FBFAF1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E9E0CC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D4C3A9",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B0987A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #986E44",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #4B3B28",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 20,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 59,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Orang-oetan met jong"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Sonja Dwinger",
+      "unFixedName": "Dwinger, Sonja",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1925-04-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2012-05-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Sonja Dwinger (12-apr-1925 - 07-mei-2012)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Sonja Dwinger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1989",
+    "sortingDate": 1989,
+    "period": 20,
+    "yearEarly": 1989,
+    "yearLate": 1989
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F22"
+    ],
+    "iconClassDescription": [
+      "monkeys, apes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2001-109"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Sonja Dwinger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "364"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "529"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Orang-oetan met jong, Sonja Dwinger, 1989",
+  "subTitle": "h 364mm \u00d7 w 529mm",
+  "scLabelLine": "Sonja Dwinger, 1989, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-5884",
+  "priref": "453390",
+  "objectNumber": "RP-F-00-5884",
+  "language": "en",
+  "title": "Portret van de heer N.M. Feringa",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "af97b289-0456-4cb2-9672-97303d8efb4c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1673,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/k3Q63PFKnmMb6pEXNWUih04mCuYlLDJ-1l7BQyv-muhuJfj39sjYJvC2CAuvDFqul8tvXwnzconIZ_WZvw97VEjACY0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 45,
+      "hex": "#A49171"
+    },
+    {
+      "percentage": 25,
+      "hex": " #DED6C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #806E55"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F2F2EF"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C4B595"
+    },
+    {
+      "percentage": 3,
+      "hex": " #604D3A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #939392"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A49171",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DED6C0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #806E55",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #F2F2EF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C4B595",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #604D3A",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #939392",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 25,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 35,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Portret van de heer N.M. Feringa",
+    "Den heer A.J. Nijland, aangeboden door N.M. Feringa"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Albert Greiner",
+      "unFixedName": "Greiner, Albert",
+      "placeOfBirth": "Titisee-Neustadt",
+      "dateOfBirth": "1833-08-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1890-03-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albert Greiner (06-aug-1833 - 28-mrt-1890), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albert Greiner",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2008-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1870 - 1879",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1879
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-5884"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Albert Greiner",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van de heer N.M. Feringa, Albert Greiner, 1870 - 1879",
+  "subTitle": "h 104mm \u00d7 w 67mm",
+  "scLabelLine": "Albert Greiner, 1870 - 1879, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

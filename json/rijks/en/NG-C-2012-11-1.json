@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-C-2012-11-1",
+  "priref": "515403",
+  "objectNumber": "NG-C-2012-11-1",
+  "language": "en",
+  "title": "Signage system for Schiphol Airport",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Informatiebord gebruikt op Schiphol. Binnenbak van staal met hamerslag met groen screen: toiletten/ toilets. NB: Het gele screen is oorspronkelijk afkomstig uit de bak NG-C-2012-11-2.",
+  "labelText": null,
+  "objectTypes": [
+    "information sign"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Liang Ie Kho",
+      "unFixedName": "Kho, Liang Ie",
+      "placeOfBirth": null,
+      "dateOfBirth": "1927",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1975",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "designer"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Liang Ie Kho (1927 - 1975), Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Benno Wissing",
+      "unFixedName": "Wissing, Benno",
+      "placeOfBirth": "Oosterbeek",
+      "dateOfBirth": "1923-05-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2008-01-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Bristol (Rhode Island)",
+      "occupation": [
+        "designer"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Benno Wissing (26-mei-1923 - 07-jan-2008), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Benno Wissing",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2013-04-13T00:00:00",
+    "creditLine": "On loan from Schiphol Nederland BV"
+  },
+  "exhibitions": [],
+  "materials": [
+    "steel (alloy)",
+    "paint (coating)",
+    "acrylic (plastic)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1967",
+    "sortingDate": 1967,
+    "period": 20,
+    "yearEarly": 1967,
+    "yearLate": 1967
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Schiphol"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-C-2012-11-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Benno Wissing",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "25.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "125"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "21.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel (alloy)",
+  "longTitle": "Signage system for Schiphol Airport, Benno Wissing, 1967",
+  "subTitle": "h c.25.5cm \u00d7 w c.125cm \u00d7 d c.21.5cm",
+  "scLabelLine": "Benno Wissing (1923\u20132008), design: 1967, metal casing: Kho Liang Ie (1927\u20131975), painted metal, light fitting, screen printing and foil on acrylic plate, 1967\u20131990",
+  "label": {
+    "title": "Signage system for Schiphol Airport",
+    "makerLine": "Benno Wissing (1923\u20132008), design: 1967, metal casing: Kho Liang Ie (1927\u20131975), painted metal, light fitting, screen printing and foil on acrylic plate, 1967\u20131990",
+    "description": "Signs at Schiphol serve as calming beacons for nervous air passengers. In 1967 Benno Wissing developed a clear sign system for the new terminal that stood out for its simplicity. The text stated the destination, arrows indicated the directions, yellow stood for arrivals and departures, while everything else was green. The colours formed bright accents in the neutral interior designed by Kho Liang Ie.",
+    "notes": null,
+    "date": "2013-05-07"
+  },
+  "showImage": false,
+  "location": "HG-3.4"
+}

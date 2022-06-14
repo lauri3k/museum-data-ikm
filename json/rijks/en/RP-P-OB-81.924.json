@@ -1,0 +1,284 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.924",
+  "priref": "464920",
+  "objectNumber": "RP-P-OB-81.924",
+  "language": "en",
+  "title": "Teksten bij de voorstelling van de redding van graaf Johan Maurits op de brug van Franeker, 1665",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b94d6029-d892-4ad2-b721-65673651d3b6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2790,
+    "height": 1559,
+    "url": "https://lh3.ggpht.com/WkceQ_brwwgKqhR-qPHcouEbyQFcRZYgvYDE9NDfxYC09m6takzAJXD7c0CNLDojkmX_2NDA2wJPJLRxqPfzf8YQEqM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 65,
+      "hex": "#E5E1D0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #AFAA99"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FAF9F4"
+    },
+    {
+      "percentage": 6,
+      "hex": " #6B6658"
+    },
+    {
+      "percentage": 5,
+      "hex": " #8D897B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #CFCAB9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #423F34"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E5E1D0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #AFAA99",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #FAF9F4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6B6658",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8D897B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CFCAB9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #423F34",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 65,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Teksten bij de voorstelling van de redding van graaf Johan Maurits op de brug van Franeker, 1665",
+    "II Sol in aquario"
+  ],
+  "description": "Blad met een cartouche met twee teksten behorend bij de tweede plaat met de voorstelling van de redding van graaf Johan Maurits op de brug van Franeker, 6 januari 1665. Cartouche gevormd door putti en ranken. Links een vers van zeven regels in het Latijn, rechts een vers van 8 regels in het Nederlands. In het middelste deel van de cartouche heeft een tekst gestaan maar die is weggepolijst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Petrus Francius",
+      "unFixedName": "Francius, Petrus",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1645-08-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1704-08-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Petrus Francius (19-aug-1645 - 19-aug-1704)"
+    },
+    {
+      "name": "Joost van den Vondel",
+      "unFixedName": "Vondel, Joost van den",
+      "placeOfBirth": "Keulen",
+      "dateOfBirth": "1587-11-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679-02-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Joost van den Vondel (17-nov-1587 - 05-feb-1679)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1665",
+    "sortingDate": 1665,
+    "period": 17,
+    "yearEarly": 1665,
+    "yearLate": 1665
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Ongeluk van graaf Johan Maurits te Franeker"
+    ],
+    "periods": [
+      "1665-01-061665-01-06"
+    ],
+    "places": [
+      "Franeker"
+    ],
+    "people": [
+      "Nassau-Siegen, Johan Maurits graaf van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-81.924"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Nassau-Siegen, Johan Maurits graaf van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 320, nr. 2200."
+  ],
+  "catRefRPK": [
+    "FMH 2200",
+    "2200"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "173"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "390"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Teksten bij de voorstelling van de redding van graaf Johan Maurits op de brug van Franeker, 1665, anonymous, 1665",
+  "subTitle": "h 173mm \u00d7 w 390mm",
+  "scLabelLine": "anonymous, 1665, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

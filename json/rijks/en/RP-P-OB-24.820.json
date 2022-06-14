@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-24.820",
+  "priref": "198114",
+  "objectNumber": "RP-P-OB-24.820",
+  "language": "en",
+  "title": "Doortocht door de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7a2a6d72-20e5-4206-a491-cc100dfc14cc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1090,
+    "url": "https://lh5.ggpht.com/n6D110IeFm8Zg9STRyCLTdIkoPPKhtIMcBMMGbWyDK0XH1ieIYEOUszoFAmhF4rmwD5Y5qWoHpJUAYr2dDJ1I-dSzDQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doortocht door de Rode Zee"
+  ],
+  "description": "Het volk van Isra\u00ebl staat veilig aan de overkant, nadat het door de Rode Zee is getrokken. Mozes heft zijn staf om het water terug te laten vloeien. Farao en zijn leger worden verzwolgen in de golven.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Yver",
+      "unFixedName": "Yver, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1712",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1787-06-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Yver (1712 - 06-jun-1787), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Yver",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1743",
+    "sortingDate": 1743,
+    "period": 18,
+    "yearEarly": 1743,
+    "yearLate": 1743
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E1223"
+    ],
+    "iconClassDescription": [
+      "with his people safe on the shore, Moses raises his hands and causes the water to return; Pharaoh's army perishes in the water (Red Sea)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-24.820"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Yver",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "56"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "141"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Doortocht door de Rode Zee, Pieter Yver, 1743",
+  "subTitle": "h 56mm \u00d7 w 141mm",
+  "scLabelLine": "Pieter Yver, 1743, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

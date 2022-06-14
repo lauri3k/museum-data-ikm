@@ -1,0 +1,254 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-B-FM-003-25",
+  "priref": "453143",
+  "objectNumber": "BI-B-FM-003-25",
+  "language": "en",
+  "title": "De exercitie met de targe en rapier: de soldaat houdt de getrokken rapier niet hoger dan zijn gezicht (nr. 5), 1618",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "03a857a0-083b-4d82-bc56-dcac6195d649",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2074,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/rwfJ5Zl4LrPbD-6Q-rA_4oyZZe2Y7B8NnBxztXxyW_COosSi5CjzN5SG5KUAlnP18F3QDoK1PvayMWyiYyYMV0Em8w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#D0C5AF"
+    },
+    {
+      "percentage": 67,
+      "hex": " #F5F1E2"
+    },
+    {
+      "percentage": 5,
+      "hex": " #4C443A"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A29882"
+    },
+    {
+      "percentage": 7,
+      "hex": " #676B6B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #68859C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D0C5AF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F5F1E2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4C443A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A29882",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #676B6B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #68859C",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #778899"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 78,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "De exercitie met de targe en rapier: de soldaat houdt de getrokken rapier niet hoger dan zijn gezicht (nr. 5), 1618"
+  ],
+  "description": "De exercitie met de targe en rapier: de soldaat houdt de getrokken rapier niet hoger dan zijn gezicht, 1618. Onderdeel van de illustraties in: Adam van Breen, Nassauische Waffenhandelung / Kurtzer Bericht unnd Ahnzeigungh auff die Ab-bildungh der Figuren / den rechten brauch alles des jenigen betreffend / so einem Soldaten von n\u00f6ten / in der handlung der Targa, met dem Degen, 1618, plaat nr. 5. Krijgswezen rond 1600.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Adam van Breen",
+      "unFixedName": "Breen, Adam van",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1642",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Kristiania",
+      "occupation": [],
+      "roles": [
+        "after design by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adam van Breen (c. 1586 - after 1642)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adam van Breen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1616 - 1618",
+    "sortingDate": 1616,
+    "period": 17,
+    "yearEarly": 1616,
+    "yearLate": 1618
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45B212",
+      "45C1"
+    ],
+    "iconClassDescription": [
+      "handling of weapons ~ military training",
+      "weapons"
+    ],
+    "motifs": [],
+    "events": [
+      "Tachtigjarige Oorlog"
+    ],
+    "periods": [
+      "16001618"
+    ],
+    "places": [],
+    "people": [
+      "Maurits (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BI-B-FM-003-25"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 103, nr. 1116b/37."
+  ],
+  "catRefRPK": [
+    "FMH 1116",
+    "1116"
+  ],
+  "principalOrFirstMaker": "Adam van Breen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "255"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "187"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De exercitie met de targe en rapier: de soldaat houdt de getrokken rapier niet hoger dan zijn gezicht (nr. 5), 1618, Adam van Breen, 1616 - 1618",
+  "subTitle": "h c.255mm \u00d7 w c.187mm",
+  "scLabelLine": "Adam van Breen, 1616 - 1618, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,216 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1954-628",
+  "priref": "118333",
+  "objectNumber": "RP-P-1954-628",
+  "language": "en",
+  "title": "Portret van Inigo Jones",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "70284621-547f-4c9d-9f20-5dc6734d84ff",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1839,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/PvOokNLf40RiE6SZt5o1ffw5nC45nRCqj5jxWOivjJn6q5PXQ-bzr2eYXVeAfBZI_T0ergCo0SfRJDl0AYrkgQiJLaDuR51IghrY5Ts=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Inigo Jones"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "George Farington",
+      "unFixedName": "Farington, George",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "after drawing by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Farington"
+    },
+    {
+      "name": "Anthony van Dyck",
+      "unFixedName": "Dyck, Anthony van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1599-03-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-12-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "after painting by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anthony van Dyck (22-mrt-1599 - 09-dec-1641)"
+    },
+    {
+      "name": "John Boydell",
+      "unFixedName": "Boydell, John",
+      "placeOfBirth": "Dorrington",
+      "dateOfBirth": "1719-01-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-12-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Boydell (19-jan-1719 - 21-dec-1804), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1954-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1775",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "48C13"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "portrait, self-portrait of architect"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Jones, Inigo"
+    ],
+    "objectNumbers": [
+      "RP-P-1954-628"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Jones, Inigo"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 101",
+    "101",
+    "Chaloner Smith 77",
+    "77"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "177"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "126"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Inigo Jones, Valentine Green, 1775",
+  "subTitle": "h 177mm \u00d7 w 126mm",
+  "scLabelLine": "Valentine Green, 1775, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

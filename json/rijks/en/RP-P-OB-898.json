@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-898",
+  "priref": "34122",
+  "objectNumber": "RP-P-OB-898",
+  "language": "en",
+  "title": "Het hoofd van Johannes de Doper op een schotel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d23002ea-408a-4349-9ca5-831333577d68",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2154,
+    "height": 2062,
+    "url": "https://lh3.ggpht.com/hKjDhkJZSI9TXb7acwUIRB5NSzWNICGRBDmFx-lmQMti5R__IgUY9fb3SMGHImgH0fDf9Q048vbgxnZlDOCfr0jF18U=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#DCD7C7"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F9F8F5"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C0BAAC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A49E92"
+    },
+    {
+      "percentage": 7,
+      "hex": " #645F54"
+    },
+    {
+      "percentage": 6,
+      "hex": " #847E71"
+    },
+    {
+      "percentage": 1,
+      "hex": " #4A473E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DCD7C7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F9F8F5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C0BAAC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A49E92",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #645F54",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #847E71",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A473E",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Het hoofd van Johannes de Doper op een schotel"
+  ],
+  "description": "Een schotel met het afgehakte hoofd van Johannes de Doper, op een kussen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Meester van het Amsterdamse Kabinet",
+      "unFixedName": "Meester van het Amsterdamse Kabinet",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "Meester van het Amsterdamse Kabinet, Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Meester van het Amsterdamse Kabinet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "drypoint"
+  ],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1485 - 1490",
+    "sortingDate": 1485,
+    "period": 15,
+    "yearEarly": 1485,
+    "yearLate": 1490
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-898"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Lehrs 37",
+    "37",
+    "Cat LF 36",
+    "36"
+  ],
+  "principalOrFirstMaker": "Meester van het Amsterdamse Kabinet",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drypoint",
+  "longTitle": "Het hoofd van Johannes de Doper op een schotel, Meester van het Amsterdamse Kabinet, 1485 - 1490",
+  "subTitle": "h 88mm \u00d7 w 88mm",
+  "scLabelLine": "Meester van het Amsterdamse Kabinet, 1485 - 1490, drypoint",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-100.019",
+  "priref": "118340",
+  "objectNumber": "RP-P-OB-100.019",
+  "language": "en",
+  "title": "Portret van een man in een bos",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f19ad1ae-1198-42ca-b7c7-5ce6b1030534",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1775,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/UQmX-YxFx13zxj67e7tb4rGUgRNQW0rMldU98kES3x_IoZyNYkRVlT2MmLzxdB_fUQLPdggDsXPFosLXaVmgkzzglrcyECQ6YTIoRSWS=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een man in een bos",
+    "Peter Wild Boy"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1749 - 1813",
+    "sortingDate": 1749,
+    "period": 18,
+    "yearEarly": 1749,
+    "yearLate": 1813
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H15",
+      "54AA42",
+      "31A44411",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "forest, wood",
+      "Wildness, Untamedness",
+      "wild man, wodewose, woodehouse",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Peter the Wild Boy"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-100.019"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Peter the Wild Boy"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 102",
+    "102"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "507"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "356"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van een man in een bos, Valentine Green, 1749 - 1813",
+  "subTitle": "h 507mm \u00d7 w 356mm",
+  "scLabelLine": "Valentine Green, 1749 - 1813, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1937-853",
+  "priref": "296029",
+  "objectNumber": "RP-P-1937-853",
+  "language": "en",
+  "title": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0292dcad-7526-4155-ba3e-c1ff2bc9c484",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1758,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/G01Fda2tWCex8Wi3NvZbvOHWzyq1iJfastJQZGWAbX00551zN7YvFuuAy1mitt67TkqC7lPdRn6j7XQhSZJC3EJAAvk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Bernard Picart",
+      "unFixedName": "Picart, Bernard",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1673-06-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1733-05-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bernard Picart (11-jun-1673 - 08-mei-1733)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bernard Picart",
+      "unFixedName": "Picart, Bernard",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1673-06-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1733-05-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bernard Picart (11-jun-1673 - 08-mei-1733), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bernard Picart",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1729",
+    "sortingDate": 1729,
+    "period": 18,
+    "yearEarly": 1729,
+    "yearLate": 1729
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45C22"
+    ],
+    "iconClassDescription": [
+      "armour"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-1937-853"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 541",
+    "541"
+  ],
+  "principalOrFirstMaker": "Bernard Picart",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "265"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "180"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone, Bernard Picart, 1729",
+  "subTitle": "h 265mm \u00d7 w 180mm",
+  "scLabelLine": "Bernard Picart, 1729, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

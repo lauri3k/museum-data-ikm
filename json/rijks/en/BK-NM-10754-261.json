@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10754-261",
+  "priref": "357811",
+  "objectNumber": "BK-NM-10754-261",
+  "language": "en",
+  "title": "Beaker with a man between barrels",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ca0f18e6-72c5-4855-8550-8295e79b8713",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2295,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/FF5EifzFhELXTFiPtF31gaPiLyykKEDeK5gZCckkZiKnR75SA0wCqXSLZ-3GeY9MGP_eQPocMIhSpACw_e6V3MoH_yk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Uitgetande voet. Op de kelk een man lopend tussen vaten (wijnkelder). Daarnaast het opschrift: VIVAT HENSEL IN/ DE KELDER.",
+  "labelText": null,
+  "objectTypes": [
+    "cup"
+  ],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "A.J. Ensched\u00e9 Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "grinding",
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Germany",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1725 - 1775",
+    "sortingDate": 1725,
+    "period": 18,
+    "yearEarly": 1725,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C2411"
+    ],
+    "iconClassDescription": [
+      "wine-cellar"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-10754-261"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10.0"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "8.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "grinding",
+  "longTitle": "Beaker with a man between barrels, anonymous, 1725 - 1775",
+  "subTitle": "h 10.0cm \u00d7 d 8.2cm",
+  "scLabelLine": "glass: Germany, wheel-engraving: the Netherlands, c. 1725\u20131775",
+  "label": {
+    "title": "Beaker with a man between barrels",
+    "makerLine": "glass: Germany, wheel-engraving: the Netherlands, c. 1725\u20131775",
+    "description": "translation of inscription: Long live Hensel in / the cellar",
+    "notes": null,
+    "date": "2016-02-10"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

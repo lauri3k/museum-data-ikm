@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-12-96-7",
+  "priref": "151282",
+  "objectNumber": "RP-P-AO-12-96-7",
+  "language": "en",
+  "title": "Achterzijde van Paleis Huis ten Bosch",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ef89eb3b-1687-4bf3-9068-158d334cbdb3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3960,
+    "height": 3099,
+    "url": "https://lh5.ggpht.com/ddk0WRIIto3cQoDju07yd1bDtXQXORxFBOAOQOPX8jEzJ1Vk3IXg_6YZWc4L5-Dr3_EkbTMbA5WnfLiNPGND9mtwMvs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Achterzijde van Paleis Huis ten Bosch",
+    "Stand van de achter-zyde van De Sael van Orange, tegen 't suyden",
+    "Paleis Huis ten Bosch"
+  ],
+  "description": "Achterzijde van Paleis Huis ten Bosch te Den Haag.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Nolpe",
+      "unFixedName": "Nolpe, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1614",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1653",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Nolpe (c. 1614 - c. 1653)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Nolpe",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1655",
+    "sortingDate": 1655,
+    "period": 17,
+    "yearEarly": 1655,
+    "yearLate": 1655
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A11",
+      "48C1425"
+    ],
+    "iconClassDescription": [
+      "palace",
+      "exterior ~ architectural design or model"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Paleis Huis ten Bosch"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-AO-12-96-7"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "Pieter Nolpe",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "294"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "387"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Achterzijde van Paleis Huis ten Bosch, Pieter Nolpe, 1655",
+  "subTitle": "h 294mm \u00d7 w 387mm",
+  "scLabelLine": "Pieter Nolpe, 1655, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,197 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1960-567",
+  "priref": "411159",
+  "objectNumber": "RP-P-1960-567",
+  "language": "en",
+  "title": "Gezicht op de haven te Batavia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "82bfaa27-b7d5-40ae-b0a3-010bc586b43d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2442,
+    "height": 1641,
+    "url": "https://lh3.googleusercontent.com/GT3Ew9Le06nYFq7U4y0RLnT5jxP-SbpTbJuRR3kMDxd5x9LfvXr3EhRnh9QCqxBMfN9IPJzry7z-ZfGSiaL1tgajfg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de haven te Batavia",
+    "De reede van Batavia",
+    "Havengezichten"
+  ],
+  "description": "Op de voorgrond varen schepen en boten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Georg Math\u00e4us Probst",
+      "unFixedName": "Probst, Georg Math\u00e4us",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1788-10-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Georg Math\u00e4us Probst (.... - 18-okt-1788), Augsburg"
+    },
+    {
+      "name": "Jozef II (Duits keizer)",
+      "unFixedName": "Jozef II (Duits keizer)",
+      "placeOfBirth": "Wenen",
+      "dateOfBirth": "1741-03-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1790-02-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Wenen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jozef II (Duits keizer) (13-mrt-1741 - 20-feb-1790)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Georg Balthasar Probst",
+      "unFixedName": "Probst, Georg Balthasar",
+      "placeOfBirth": "Augsburg",
+      "dateOfBirth": "1732",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1801",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Georg Balthasar Probst (1732 - 1801), Augsburg"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Georg Balthasar Probst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "etching",
+    "brush"
+  ],
+  "productionPlaces": [
+    "Augsburg",
+    "Augsburg"
+  ],
+  "dating": {
+    "presentingDate": "1742 - 1801",
+    "sortingDate": 1742,
+    "period": 18,
+    "yearEarly": 1742,
+    "yearLate": 1801
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H23(+1)",
+      "46C223",
+      "46C232",
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "sea (seascape) (+ landscape with figures, staffage)",
+      "harbour",
+      "rowing-boat, canoe, etc.",
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Batavia"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1960-567"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Kapff 317",
+    "317"
+  ],
+  "principalOrFirstMaker": "Georg Balthasar Probst",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "323"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "431"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de haven te Batavia, Georg Balthasar Probst, 1742 - 1801",
+  "subTitle": "h 323mm \u00d7 w 431mm",
+  "scLabelLine": "Georg Balthasar Probst, 1742 - 1801, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

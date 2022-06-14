@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-1042",
+  "priref": "30132",
+  "objectNumber": "RP-P-OB-1042",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0d4575a2-c44e-47d4-9985-5ddb4d162b09",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1259,
+    "height": 2730,
+    "url": "https://lh4.ggpht.com/I2n8U3MLAsmDPKIsCFpNGDPjgNDhVz4_-96bQiv4_PXC6uPigbkMxOH43HZ5j_FZFaGlcou3JSSuaRhLc3cPFDk8wpQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#B0ACA0"
+    },
+    {
+      "percentage": 15,
+      "hex": " #F7F7F7"
+    },
+    {
+      "percentage": 14,
+      "hex": " #88857D"
+    },
+    {
+      "percentage": 13,
+      "hex": " #40403E"
+    },
+    {
+      "percentage": 12,
+      "hex": " #CCC9BE"
+    },
+    {
+      "percentage": 12,
+      "hex": " #64635D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E1DFD7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B0ACA0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #F7F7F7",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #88857D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #40403E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #CCC9BE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #64635D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E1DFD7",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper"
+  ],
+  "description": "Johannes de Doper, gehuld in dierenvellen en een mantel, draagt in zijn linkerhand een boek waarop een lam ligt.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Martin Schongauer",
+      "unFixedName": "Schongauer, Martin",
+      "placeOfBirth": "Colmar",
+      "dateOfBirth": "1430",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1491-02-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Breisach",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Martin Schongauer (1430 - 02-feb-1491), Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Martin Schongauer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1470 - 1490",
+    "sortingDate": 1470,
+    "period": 15,
+    "yearEarly": 1470,
+    "yearLate": 1490
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-1042"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 54",
+    "54",
+    "Hollstein German 59",
+    "59"
+  ],
+  "principalOrFirstMaker": "Martin Schongauer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, Martin Schongauer, 1470 - 1490",
+  "subTitle": "h 144mm \u00d7 w 62mm",
+  "scLabelLine": "Martin Schongauer, 1470 - 1490, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

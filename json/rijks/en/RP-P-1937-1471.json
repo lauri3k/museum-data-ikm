@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1937-1471",
+  "priref": "207204",
+  "objectNumber": "RP-P-1937-1471",
+  "language": "en",
+  "title": "Rietkraag aan het Kagermeer",
+  "copyrightHolder": "erven Marinus Heijnes",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Rietkraag aan het Kagermeer",
+    "Koolzaadveld"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Marinus Heijnes",
+      "unFixedName": "Heijnes, Marinus",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1888-03-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1963-02-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Alkemade",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Marinus Heijnes (08-mrt-1888 - 12-feb-1963)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Marinus Heijnes",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1937-01-01T00:00:00",
+    "creditLine": "F.G. Waller Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1898 - 1937",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1937
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kagerplassen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1937-1471"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Marinus Heijnes",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "149"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "199"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Rietkraag aan het Kagermeer, Marinus Heijnes, 1898 - 1937",
+  "subTitle": "h 149mm \u00d7 w 199mm",
+  "scLabelLine": "Marinus Heijnes, 1898 - 1937, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,124 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2016-44-6",
+  "priref": "621896",
+  "objectNumber": "BK-2016-44-6",
+  "language": "en",
+  "title": "Study Models of Parts of the Body",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "daabb489-0b5f-4c2b-befa-71a224d8c41e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1874,
+    "height": 2486,
+    "url": "https://lh3.googleusercontent.com/cKOFKR39fV4xgGe0cOPqwM9CmP_xRTtADWrsgPiXJrHn7yylwgOCgtzBEdIFv0S7PzZ36V1RrWUeh0uhYeP1KhiUFqxtzGxhFVkzNF56cQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Beeldhouwersmodel rechterhand naar Michelangelo\u2019s Ochtend (Medicikapel, San Lorenzo, Florence).",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johan Gregor van der Schardt",
+      "unFixedName": "Schardt, Johan Gregor van der",
+      "placeOfBirth": "Nijmegen",
+      "dateOfBirth": "1530",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1581",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Johan Gregor van der Schardt (1530 - c. 1581), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johan Gregor van der Schardt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2016-10-14T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "c. 1560 - in or before 1570",
+    "sortingDate": 1560,
+    "period": 16,
+    "yearEarly": 1560,
+    "yearLate": 1570
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2016-44-6"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frits Scholten, 'Michelangelo's Mighty Models or the Legacy of Johan Gregor van der Schardt', in Stephan Koja en Claudia Kryza-Gersch (red.): Shadows of Time : Giambologna, Michelangelo and the Medici Chapel, Dresden 2018, p. 93-111."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johan Gregor van der Schardt",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta (clay material)",
+  "longTitle": "Study Models of Parts of the Body, Johan Gregor van der Schardt (attributed to), c. 1560 - in or before 1570",
+  "subTitle": "h 10.8cm",
+  "scLabelLine": "Johan Gregor van der Schardt (1530-c. 1581), terracotta, c. 1560-1570",
+  "label": {
+    "title": "Study Models of Parts of the Body",
+    "makerLine": "Johan Gregor van der Schardt (1530-c. 1581), terracotta, c. 1560-1570",
+    "description": "This group of small models of parts of the body are carefully copied after famous sculptures, in particular by Michelangelo, in Florence and Rome. They came from the workshop of the Nijmegen sculptor Johan Gregor van der Schardt, who had a successful career in Italy, Nuremberg, and Copenhagen. They are extremely rare examples of the, in part autograph, study material of a 16th-century sculptor.",
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

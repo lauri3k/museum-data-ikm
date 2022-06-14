@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-470",
+  "priref": "260438",
+  "objectNumber": "NG-470",
+  "language": "en",
+  "title": "Ring with a portrait of Stadtholder William V",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fbf3cbdf-af63-4eeb-8295-7b131fb79734",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2058,
+    "url": "https://lh4.ggpht.com/YNUmbajWiofaqTcNxAbpY5zSoEiOyPbp3cOfbZMuWzdpCv6chANpuYiHtO_nHpNqXyhvfMILNbvnU4I90SWyPSiKBr4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Gouden ring, waarin vervat een cormalijnen steen waarin in intaglio (uitgesneden relief) portret van een man (stadhouder Willem V), borststuk naar rechts in profiel, de gouden rand is smal en licht geprofileerd, waaraan dunne ring in hetzelfde materiaal.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "costumes and accessories",
+    "accessories",
+    "jewellery"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "jeweler"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johann Heinrich Schepp",
+      "unFixedName": "Schepp, Johann Heinrich",
+      "placeOfBirth": "Diez",
+      "dateOfBirth": "1736-09-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1811",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Johann Heinrich Schepp (11-sep-1736 - after 1811), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Heinrich Schepp",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1962-04-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)",
+    "carnelian"
+  ],
+  "techniques": [
+    "cutting"
+  ],
+  "productionPlaces": [
+    "The Hague",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1780 - c. 1790",
+    "sortingDate": 1780,
+    "period": 18,
+    "yearEarly": 1780,
+    "yearLate": 1790
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17481806"
+    ],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "NG-470"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Heinrich Schepp",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "2.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cutting",
+  "longTitle": "Ring with a portrait of Stadtholder William V, Johann Heinrich Schepp (attributed to), c. 1780 - c. 1790",
+  "subTitle": "h 3.4cm \u00d7 w 2.1cm \u00d7 d 2.2cm",
+  "scLabelLine": "intaglio: attributed to Johann Heinrich Schepp (1737\u20131793), c. 1775\u20131788\nring: the Netherlands, c. 1780\u20131790 | gold, carnelian",
+  "label": {
+    "title": "Ring with a portrait of Stadtholder William V",
+    "makerLine": "intaglio: attributed to Johann Heinrich Schepp (1737\u20131793), c. 1775\u20131788\nring: the Netherlands, c. 1780\u20131790 | gold, carnelian",
+    "description": "With the introduction of Neoclassicism in the third quarter of the 18th century, interest in engraved gemstones was revived. Active in the Netherlands were gem engravers who produced various portraits of members of the House of Orange. They were set in rings and presented to individuals who had performed special services for the Dutch royal family. This portrait is an image hollowed out of the stone (intaglio).",
+    "notes": null,
+    "date": "2013-04-16"
+  },
+  "showImage": true,
+  "location": "HG-0.9"
+}

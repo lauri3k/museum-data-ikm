@@ -1,0 +1,156 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-425-22",
+  "priref": "637206",
+  "objectNumber": "RP-F-2001-7-425-22",
+  "language": "en",
+  "title": "Durban-The point",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3f3ebfa1-e488-4a78-bfa1-a6971b45b3f6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1462,
+    "url": "https://lh3.googleusercontent.com/BAh7eumtC6hw_I0Q0u1PCurIubOHJVuITUjFt3ntZIEmTuw80DIodycUq0TpUXId096Z7fToAr_rs1Mhde7U9Efixw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Durban-The point",
+    "Bloemfontein-Orange Free State"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Sam Alexander",
+      "unFixedName": "Alexander, Sam",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Sam Alexander"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Sam Alexander",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1870 - in or before 1880",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1",
+      "46C21",
+      "45C16(CANNON)"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'",
+      "ships (in general)",
+      "firearms: cannon"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Bloemfontein"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-425-22"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Sam Alexander",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "290"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "219"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Durban-The point, Sam Alexander (possibly), c. 1870 - in or before 1880",
+  "subTitle": "h 290mm \u00d7 w 219mm",
+  "scLabelLine": "Sam Alexander, c. 1870 - in or before 1880, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

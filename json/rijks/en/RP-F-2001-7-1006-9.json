@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1006-9",
+  "priref": "677929",
+  "objectNumber": "RP-F-2001-7-1006-9",
+  "language": "en",
+  "title": "Gezicht op Fort Greene te Newport",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "280c3885-ca43-402b-97fe-1a4fdd5d2d4c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1874,
+    "url": "https://lh3.googleusercontent.com/hHEyEVnH5VBpxb3mul0g16y-HouvBbYBTnr6Tdm5ntGYCNxQm6iwzp6CCyeDSDXjkTbRFbY_czyUGG4k4xWgcsgWVTs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Fort Greene te Newport"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1868 - in or before 1873",
+    "sortingDate": 1868,
+    "period": 19,
+    "yearEarly": 1868,
+    "yearLate": 1873
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45K13"
+    ],
+    "iconClassDescription": [
+      "fortress"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Fort Greene"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1006-9"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Gezicht op Fort Greene te Newport, anonymous, c. 1868 - in or before 1873",
+  "subTitle": "h 90mm \u00d7 w 124mm",
+  "scLabelLine": "anonymous, c. 1868 - in or before 1873, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

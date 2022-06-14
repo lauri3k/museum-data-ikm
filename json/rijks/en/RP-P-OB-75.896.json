@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-75.896",
+  "priref": "346924",
+  "objectNumber": "RP-P-OB-75.896",
+  "language": "en",
+  "title": "Maria met kind, met heiligen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ea222cb8-d244-4c41-ae7b-7b836b2d409f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1949,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Y_qkGf4JJRNTEdoFdQ6FPKaFCIhtVR_TcjDKnA3eSeg_QDKSAxQy27n6aih0V47HrCDRfNYeu3sOquldHbTecVQa9ag=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Maria met kind, met heiligen"
+  ],
+  "description": "Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gilles Hendricx",
+      "unFixedName": "Hendricx, Gilles",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gilles Hendricx"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Paulus Pontius",
+      "unFixedName": "Pontius, Paulus",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1603-05-27",
+      "dateOfBirthPrecision": "in or before",
+      "dateOfDeath": "1658-01-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Paulus Pontius (in or before 27-mei-1603 - 16-jan-1658), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Paulus Pontius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1613 - 1658",
+    "sortingDate": 1613,
+    "period": 17,
+    "yearEarly": 1613,
+    "yearLate": 1658
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F61",
+      "11H(GEORGE)",
+      "11H(JEROME)"
+    ],
+    "iconClassDescription": [
+      "Madonna accompanied by saint(s)",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "the monk and hermit Jerome (Hieronymus); possible attributes: book, cardinal's hat, crucifix, hour-glass, lion, skull, stone"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-75.896"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 25",
+    "25"
+  ],
+  "principalOrFirstMaker": "Paulus Pontius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "558"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "438"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Maria met kind, met heiligen, Paulus Pontius, 1613 - 1658",
+  "subTitle": "h 558mm \u00d7 w 438mm",
+  "scLabelLine": "Paulus Pontius, 1613 - 1658, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

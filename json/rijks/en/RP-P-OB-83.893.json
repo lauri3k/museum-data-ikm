@@ -1,0 +1,203 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-83.893",
+  "priref": "480718",
+  "objectNumber": "RP-P-OB-83.893",
+  "language": "en",
+  "title": "Allegorie op de verheffing van Willem IV, 1747",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "29a49203-4e2a-45c2-b66f-8ff4d48acba2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1529,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/QeIunrnSQZx4gGlsCv9_G73bgVKaTcamvU44UcQLqbXQu-PaYlh5OgdOPxHpbzUwxUzEY43bMOvtWB99Di22Cu04BZjj=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Allegorie op de verheffing van Willem IV, 1747",
+    "Ter verheffinge van syne hoogheyd den heere prince Wilhelm Carel Henric Friso, prince van Orange en Nassauw, tot stadthouder (...)"
+  ],
+  "description": "Allegorie op de verheffing van Willem IV tot stadhouder van de Republiek, mei 1747. De Nederlandse Maagd overhandigt het zwaard aan stadhouder Willem IV bij een altaar. Op de voorgrond verjaagt de Nederlandse Leeuw de vijanden van de Republiek, de Fransen. Op het blad onder de plaat een vers in twee kolommen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Theodorus Alberti",
+      "unFixedName": "Alberti, Johannes Theodorus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Theodorus Alberti, The Hague"
+    },
+    {
+      "name": "Daniel Joannes Langeweg",
+      "unFixedName": "Langeweg, Daniel Joannes",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Daniel Joannes Langeweg, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "The Hague",
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1747",
+    "sortingDate": 1747,
+    "period": 18,
+    "yearEarly": 1747,
+    "yearLate": 1747
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44A51"
+    ],
+    "iconClassDescription": [
+      "personifications of countries, nations, states, districts, etc."
+    ],
+    "motifs": [],
+    "events": [
+      "Verheffing van prins Willem IV tot erfstadhouder (1747)",
+      "Oostenrijkse successieoorlog"
+    ],
+    "periods": [
+      "17471747"
+    ],
+    "places": [
+      "Nederland"
+    ],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-83.893"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 167, nr. 3880."
+  ],
+  "catRefRPK": [
+    "FMH 3880",
+    "3880",
+    "Atlas van Stolk 3685",
+    "3685"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "404"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "251"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Allegorie op de verheffing van Willem IV, 1747, anonymous, 1747",
+  "subTitle": "h 404mm \u00d7 w 251mm",
+  "scLabelLine": "anonymous, 1747, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

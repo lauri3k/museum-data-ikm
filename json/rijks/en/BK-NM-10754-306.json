@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10754-306",
+  "priref": "325876",
+  "objectNumber": "BK-NM-10754-306",
+  "language": "en",
+  "title": "Roemer with four rows of raspberry prunts",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "711f9649-dae2-4977-9d91-0e694ecaad72",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1937,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/HK4WBNDVBgBM6uNCsYwmfnugNS44f6OHxwgfUVIqFFneWkCGK9B_jfQl2hrHu5sr3bSHSmI7qVomQjqNN0QKR13EWa1v=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Lage, conische voet van gewonden glasdraad. Ingestoken bodem. Cilindervormige schacht aan \u00e9\u00e9n stuk geblazen met eivormige kelk. Op schacht vier rijen braamnoppen, gestempeld met een rozet. De overgang van de kelk naar de schacht aangegeven door een geribde draad.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "A.J. Ensched\u00e9 Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "c. 1650 - c. 1659",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1659
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-10754-306"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "A.-E. Theuerkauff-Liederwald, 'Der R\u00f6mer, Studien zu einer Glasform, I', Journal of Glass Studies 10 (1968), p. 139-140, afb. 26."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "24.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "14"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Roemer with four rows of raspberry prunts, anonymous, c. 1650 - c. 1659",
+  "subTitle": "h 24.1cm \u00d7 d 14cm",
+  "scLabelLine": "The Netherlands or Germany, c. 1650\u20131660, glass",
+  "label": {
+    "title": "Roemer with four rows of raspberry prunts",
+    "makerLine": "The Netherlands or Germany, c. 1650\u20131660, glass",
+    "description": "The roemer became fashionable during the course of the 16th century. It had an ovoid bowl reminiscent of our current wine glasses. The stem is decorated with raspberry-shaped prunts. It is not certain where this glass was made. Most green glass was imported from Germany, but a few centres producing green glass emerged in the Netherlands during the 16th century.",
+    "notes": null,
+    "date": "2013-03-29"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

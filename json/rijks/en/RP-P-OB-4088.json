@@ -1,0 +1,223 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-4088",
+  "priref": "30806",
+  "objectNumber": "RP-P-OB-4088",
+  "language": "en",
+  "title": "Johannes de Doper met het Lam Gods",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2d433e7b-9577-47fb-8182-9905bbba84fe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2205,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/FPTg0xwHW-bXozlhq7tl4d3aS4XgjH6a3GDGa1ntvszvPz4P38E75l26ujDKS1gIv8xGoU6GiaDleRS1kTODKGff8bv7=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#F9F7EA"
+    },
+    {
+      "percentage": 6,
+      "hex": " #E0DBCC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #9A9688"
+    },
+    {
+      "percentage": 15,
+      "hex": " #757065"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C2BDAF"
+    },
+    {
+      "percentage": 16,
+      "hex": " #413E36"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F9F7EA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E0DBCC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9A9688",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #757065",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2BDAF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #413E36",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#FFFFF0"
+    },
+    {
+      "percentage": 31,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 58,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 25,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 16,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper met het Lam Gods"
+  ],
+  "description": "Johannes de Doper zittend met het Lam Gods op zijn schoot. Het Lam draagt met een voorpoot het kruisvaandel.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hans Baldung Grien",
+      "unFixedName": "Baldung Grien, Hans",
+      "placeOfBirth": "Schw\u00e4bisch Gm\u00fcnd",
+      "dateOfBirth": "1484",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1545-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Straatsburg (Frankrijk)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hans Baldung Grien (c. 1484 - sep-1545)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hans Baldung Grien",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1517 - 1521",
+    "sortingDate": 1517,
+    "period": 16,
+    "yearEarly": 1517,
+    "yearLate": 1521
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-4088"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 31",
+    "31",
+    "Hollstein German 114",
+    "114"
+  ],
+  "principalOrFirstMaker": "Hans Baldung Grien",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "199"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Johannes de Doper met het Lam Gods, Hans Baldung Grien, 1517 - 1521",
+  "subTitle": "h 199mm \u00d7 w 144mm",
+  "scLabelLine": "Hans Baldung Grien, 1517 - 1521, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

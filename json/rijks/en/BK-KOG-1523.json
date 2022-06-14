@@ -1,0 +1,257 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-1523",
+  "priref": "24566",
+  "objectNumber": "BK-KOG-1523",
+  "language": "en",
+  "title": "Prince William III of Orange (1650-1702)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "62e389cd-0b83-46a1-93a7-8a91bd60abbb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1875,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/q5rwiYTqMOyCw0rdbhaJG2UOhAFVcCq5uxG63gSQJucu3W36qfOmxVLgxXC8SAH3TdEWrXENuYWIP5a3RjTXTUqtVS8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 5,
+      "hex": "#877F72"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7F6241"
+    },
+    {
+      "percentage": 5,
+      "hex": " #28211B"
+    },
+    {
+      "percentage": 29,
+      "hex": " #513E30"
+    },
+    {
+      "percentage": 11,
+      "hex": " #AEA695"
+    },
+    {
+      "percentage": 44,
+      "hex": " #DCD4BE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#877F72",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7F6241",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #28211B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #513E30",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #AEA695",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DCD4BE",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 29,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 32,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Prince William III of Orange (1650-1702)"
+  ],
+  "description": "Medaillonportret in ivoor van Prins Willem III van Oranje, met veldheerstaf, geleund op een helm; in sierlijk gesneden notenhouten lijstje.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture",
+    "locket"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Joachim Henne",
+      "unFixedName": "Henne, Joachim",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "ivory carver"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Joachim Henne, Northern Netherlands"
+    },
+    {
+      "name": "Joachim Henne",
+      "unFixedName": "Henne, Joachim",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "ivory carver"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Joachim Henne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joachim Henne",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1898-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "ivory"
+  ],
+  "techniques": [
+    "cutting"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1662 - c. 1665",
+    "sortingDate": 1662,
+    "period": 17,
+    "yearEarly": 1662,
+    "yearLate": 1665
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "BK-KOG-1523"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joachim Henne",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "ivory",
+  "longTitle": "Prince William III of Orange (1650-1702), Joachim Henne, Joachim Henne, c. 1662 - c. 1665",
+  "subTitle": "h 10cm \u00d7 w 7cm",
+  "scLabelLine": "Joachim Henne, c. 1662 - c. 1665, ivory",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

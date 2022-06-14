@@ -1,0 +1,148 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1948-526",
+  "priref": "51834",
+  "objectNumber": "RP-P-1948-526",
+  "language": "en",
+  "title": "Twee kinderen spelend met een lam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "50a8bbfc-b0b8-4f8e-8d5f-4bcb48078cca",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1541,
+    "height": 1542,
+    "url": "https://lh3.googleusercontent.com/Sie6ZGe1Ob7i--5X6f9oYS4xLOlNlKaJkXRy3UXp0yHqruV4RcTZRqZfxcTEIU9cJjEVcLZkfaTZ-pOwS8XwEZnxag=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Twee kinderen spelend met een lam"
+  ],
+  "description": "Twee kinderen, mogelijk Christus en Johannes de Doper, spelend met een lam.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Anton Maria I Zanetti",
+      "unFixedName": "Zanetti, Anton Maria I",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1680",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1757",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anton Maria I Zanetti (1680 - 1757), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anton Maria I Zanetti",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1948-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1725",
+    "sortingDate": 1725,
+    "period": 18,
+    "yearEarly": 1725,
+    "yearLate": 1725
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11D25",
+      "11H(JOHN THE BAPTIST)",
+      "47I2133"
+    ],
+    "iconClassDescription": [
+      "Christ-child together with others",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "lamb"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1948-526"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 4",
+    "4",
+    "Bartsch 4",
+    "4"
+  ],
+  "principalOrFirstMaker": "Anton Maria I Zanetti",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Twee kinderen spelend met een lam, Anton Maria I Zanetti, 1725",
+  "subTitle": "h 103mm \u00d7 w 70mm",
+  "scLabelLine": "Anton Maria I Zanetti, 1725, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

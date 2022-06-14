@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-74.860",
+  "priref": "224769",
+  "objectNumber": "RP-P-OB-74.860",
+  "language": "en",
+  "title": "Amphinomus en Anapias redden hun ouders uit de brand van Catania",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0c3cf337-67b0-4789-b32f-59d2413376c8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1829,
+    "url": "https://lh3.googleusercontent.com/RVCDF-mjrT8_GibpbNw6QmiIdkZimGknyBsgFT5cFBx5FtPrl6YG7NZx8PIhC0t39SRx8wSuwUVM2gGc92bOOBgMknI6i0uR0JArnK4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Amphinomus en Anapias redden hun ouders uit de brand van Catania"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Monogrammist IQV",
+      "unFixedName": "Monogrammist IQV",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Monogrammist IQV"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1540 - 1550",
+    "sortingDate": 1540,
+    "period": 16,
+    "yearEarly": 1540,
+    "yearLate": 1550
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "95A(AMPHINOMUS & ANAPIAS)",
+      "46C127"
+    ],
+    "iconClassDescription": [
+      "(story of) Amphinomus and Anapias",
+      "carrying a person"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-74.860"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 93",
+    "93"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "312"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "432"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Amphinomus en Anapias redden hun ouders uit de brand van Catania, anonymous, 1540 - 1550",
+  "subTitle": "h 312mm \u00d7 w 432mm",
+  "scLabelLine": "anonymous, 1540 - 1550, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

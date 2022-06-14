@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-31",
+  "priref": "5991",
+  "objectNumber": "SK-A-31",
+  "language": "en",
+  "title": "The Cattle Ferry",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7b504dfa-bf06-4f0b-ad30-295a0e0ce772",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1940,
+    "url": "https://lh3.googleusercontent.com/JhKA-aAAGWBCy7Nt6vnjkVvoaiQvOjIi0UmMyYFGAMSeFn-pOIPnd3iHw7-N3UHMiSnv1IYppQJwcgkgBhtTFET3Qm8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#B0AC8B"
+    },
+    {
+      "percentage": 25,
+      "hex": " #241E15"
+    },
+    {
+      "percentage": 23,
+      "hex": " #614A2B"
+    },
+    {
+      "percentage": 12,
+      "hex": " #889EB0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #7E7F6A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #5C625B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #35414A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B0AC8B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #241E15",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #614A2B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #889EB0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #7E7F6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5C625B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #35414A",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 23,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 12,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "The Cattle Ferry"
+  ],
+  "description": "Het ponteveer. Op de voorgrond wachters herders met hun kuddes koeien en schapen en een vrouw op een paard op de pont om de rivier mee over te steken.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes Pietersz Berchem",
+      "unFixedName": "Berchem, Nicolaes Pietersz",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1620",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1683-02-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Nicolaes Pietersz Berchem (1620 - 18-feb-1683)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes Pietersz Berchem",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1809-07-19T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1655",
+    "sortingDate": 1655,
+    "period": 17,
+    "yearEarly": 1655,
+    "yearLate": 1655
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1112",
+      "25H213",
+      "47I221",
+      "47I2112",
+      "47I213"
+    ],
+    "iconClassDescription": [
+      "ferry",
+      "river",
+      "herding, herdsman, herdswoman, shepherd, shepherdess, cowherd, etc.",
+      "cow",
+      "sheep"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-31"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolaes Pietersz Berchem",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "82.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "105.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "10.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Cattle Ferry, Nicolaes Pietersz Berchem, c. 1655",
+  "subTitle": "h 82.5cm \u00d7 w 105.5cm \u00d7 d 10.5cm",
+  "scLabelLine": "Nicolaes Pietersz Berchem (c. 1621\u20131683), oil on canvas, c. 1655",
+  "label": {
+    "title": "The Cattle Ferry",
+    "makerLine": "Nicolaes Pietersz Berchem (c. 1621\u20131683), oil on canvas, c. 1655",
+    "description": "The ferry crossing is a hive of activity. Our attention is grabbed by the urinating grey horse at right, its rider\ngiving orders with her outstretched arm. At centre a shepherd rearranges the load on his mule, while his dog barks loudly. By cleverly manipulating light, Berchem enhanced the accumulation of motifs that fill his compositions: even in the shadows, highlighted details spring to the eye.",
+    "notes": null,
+    "date": "2013-03-27"
+  },
+  "showImage": true,
+  "location": null
+}

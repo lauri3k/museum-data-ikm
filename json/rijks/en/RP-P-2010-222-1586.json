@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2010-222-1586",
+  "priref": "509081",
+  "objectNumber": "RP-P-2010-222-1586",
+  "language": "en",
+  "title": "Walcheren",
+  "copyrightHolder": "erven Maaike Braat",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Walcheren"
+  ],
+  "description": "Landschap met boerderij en rietschoven op de voorgrond.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Maaike Braat",
+      "unFixedName": "Braat, Maaike",
+      "placeOfBirth": "Arnhem",
+      "dateOfBirth": "1907-03-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1992-08-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Maaike Braat (12-mrt-1907 - 23-aug-1992)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Maaike Braat",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": "Piet Clement Collection"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1917 - c. 1992",
+    "sortingDate": 1917,
+    "period": 20,
+    "yearEarly": 1917,
+    "yearLate": 1992
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)",
+      "41A17",
+      "25H1"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed",
+      "farm (building)",
+      "landscapes in the temperate zone"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Walcheren"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2010-222-1586"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Maaike Braat",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "530"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "790"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Walcheren, Maaike Braat, c. 1917 - c. 1992",
+  "subTitle": "h 530mm \u00d7 w 790mm",
+  "scLabelLine": "Maaike Braat, c. 1917 - c. 1992, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

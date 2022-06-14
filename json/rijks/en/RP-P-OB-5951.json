@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-5951",
+  "priref": "114082",
+  "objectNumber": "RP-P-OB-5951",
+  "language": "en",
+  "title": "De doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "da51ea54-267f-47db-a1d6-e39aa98a8825",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1877,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/vuva_5cO7yB-DqtYoVC-8wreatbJrlBq8so1FmKTQEqZbbxJepamFQfrFMchFcCaBDDXhZulgvaLWFVyFSskCphOAZo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De doornenkroning"
+  ],
+  "description": "Christus zit in het gevangenis en twee beulen zetten hem de doornenkroon op. Een man in harnas drukt de kroon goed vast. Een andere man toont Christus een rietstengel. Onder de afbeelding een Latijnse bijbeltekst uit Math. 27.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Frans van den Wijngaerde",
+      "unFixedName": "Wijngaerde, Frans van den",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1614-07-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679-03-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Frans van den Wijngaerde (08-jul-1614 - 17-mrt-1679)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Galle (I)",
+      "unFixedName": "Galle, Cornelis (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1576",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1650-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (I) (1576 - 29-mrt-1650), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Galle (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1610 - 1650",
+    "sortingDate": 1610,
+    "period": 17,
+    "yearEarly": 1610,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-5951"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 6",
+    "6"
+  ],
+  "principalOrFirstMaker": "Cornelis Galle (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "384"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "290"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De doornenkroning, Cornelis Galle (I), 1610 - 1650",
+  "subTitle": "h 384mm \u00d7 w 290mm",
+  "scLabelLine": "Cornelis Galle (I), 1610 - 1650, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

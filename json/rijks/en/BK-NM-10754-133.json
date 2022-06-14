@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10754-133",
+  "priref": "363724",
+  "objectNumber": "BK-NM-10754-133",
+  "language": "en",
+  "title": "Lidded wine glass",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "82b021be-c59f-488c-b3ab-b0b801f4d432",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1636,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/0pdluC94ATQqPVSG6fGbW8SK2Rb9VUGGFHdXUpEIfUSX3bdxY7W-avLMiA0KAeh1ho--CPmlRxql3PL6TbPu4fJSWCuTbiqi5wihxsX9=s0"
+  },
+  "colors": [
+    {
+      "percentage": 2,
+      "hex": "#132B1A"
+    },
+    {
+      "percentage": 70,
+      "hex": " #EDEEED"
+    },
+    {
+      "percentage": 3,
+      "hex": " #88948E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2E503B"
+    },
+    {
+      "percentage": 3,
+      "hex": " #557062"
+    },
+    {
+      "percentage": 18,
+      "hex": " #B6C2BC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#132B1A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #EDEEED",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #88948E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2E503B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #557062",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #B6C2BC",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 70,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 70,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 18,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [],
+  "description": "Groene, gewelfde voet. De stam samengesteld uit een holle knoop tussen vijf samengestelde schijven. Tussen de twee onderste schijven bevindt zich een zilveren montuur. Conische, groene kelk met afgeronde bodem. Gewelfd, groen deksel met een knop, bestaande uit een holle knoop en drie samengestelde schijven, eindigend in een groene bol. Op de kelk, in een doorlopend boslandschap, zwijnenjacht met twee jagers te paard en honden. Op de voet en op het deksel een doorlopende krans van palmbladeren.",
+  "labelText": null,
+  "objectTypes": [
+    "goblet",
+    "lid"
+  ],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "Hans Wolfgang Schmidt",
+      "unFixedName": "Schmidt, Hans Wolfgang",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Hans Wolfgang Schmidt"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "A.J. Ensched\u00e9 Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "silver (metal)"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1675 - c. 1700",
+    "sortingDate": 1675,
+    "period": 17,
+    "yearEarly": 1675,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G3"
+    ],
+    "iconClassDescription": [
+      "trees"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-10754-133"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "A. von Saldern, 'Unbekannte Gl\u00e4ser von Johann Wolfgang Schmidt, Friedrich Winter und Franz Gondelach', Anzeiger des Germanischen Nationalmuseum (1970), p. 107."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "48"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "13.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Lidded wine glass, anonymous, c. 1675 - c. 1700",
+  "subTitle": "h 48cm \u00d7 d 13.7cm",
+  "scLabelLine": "glass: Nuremberg, c. 1675\u20131700, wheel-engraving: Hans Wolfgang Schmidt (active 1676\u20131710), glass, silver (restoration)",
+  "label": {
+    "title": "Lidded wine glass",
+    "makerLine": "glass: Nuremberg, c. 1675\u20131700, wheel-engraving: Hans Wolfgang Schmidt (active 1676\u20131710), glass, silver (restoration)",
+    "description": "This goblet\u2019s form, with alternating knobs and discs, betrays its Nuremberg origins. Nuremberg was a centre for glass art. Not only the glass but also the engraving was done in that city. The green colour of the glass complements the engraved scene of a forest. Between the trees, beaters are driving game towards hunters.",
+    "notes": null,
+    "date": "2013-03-29"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

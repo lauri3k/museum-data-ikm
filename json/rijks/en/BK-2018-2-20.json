@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2018-2-20",
+  "priref": "698724",
+  "objectNumber": "BK-2018-2-20",
+  "language": "en",
+  "title": "Ketting met Wilhelminaschakel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d92337ae-7f20-4c3b-9daf-421d8043f3ea",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1784,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/UMBQXLEdn7eQQlFANLgf5kmLxf_BKt1ZVBhJQNJ5e0KmJb3Wjq4bS5ZcBYazmeJ5Pe2IG9OhOYuM4uw1wepSgyPh5b5LcEgLOsExpwBYOg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ketting met Wilhelminaschakel"
+  ],
+  "description": "Samengestelde ketting van goud met Wilhelminaschakels van rood goud en een bakslot van geel goud met een florale gravering.",
+  "labelText": null,
+  "objectTypes": [
+    "chain"
+  ],
+  "objectCollection": [
+    "jewellery"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "jeweler"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-01-10T00:00:00",
+    "creditLine": "Gift of Marjan and Gerard Unger"
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)",
+    "red gold"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1900 - c. 1930",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1930
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2018-2-20"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Marjan Unger bonnen."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": "c.",
+      "part": null,
+      "value": "42.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "0.6"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "31.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Ketting met Wilhelminaschakel, anonymous, c. 1900 - c. 1930",
+  "subTitle": "l c.42.5cm \u00d7 d 0.6cm \u00d7 w 31.3gr",
+  "scLabelLine": "anonymous, c. 1900 - c. 1930, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

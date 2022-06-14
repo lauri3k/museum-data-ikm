@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-5048",
+  "priref": "692838",
+  "objectNumber": "SK-A-5048",
+  "language": "en",
+  "title": "Four Times Black",
+  "copyrightHolder": "Armando",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Four Times Black"
+  ],
+  "description": "Abstracte compositie van vier metalen platen op houten paneel vastgezet met kopspijkers en uniform met zwarte lak overschilderd.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Armando",
+      "unFixedName": "Armando",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1929-09-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2018-07-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Potsdam",
+      "occupation": [
+        "draughtsman",
+        "painter",
+        "sculptor"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Armando (18-sep-1929 - 01-jul-2018), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Armando",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2017-12-12T00:00:00",
+    "creditLine": "Gift of Tony de Meijere, Amstelveen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "enamel paint",
+    "metal",
+    "wood (plant material)",
+    "wood board"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1963",
+    "sortingDate": 1963,
+    "period": 20,
+    "yearEarly": 1963,
+    "yearLate": 1963
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-5048"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Armando",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "54"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Four Times Black, Armando, 1963",
+  "subTitle": "h 54cm \u00d7 w 60cm",
+  "scLabelLine": "Armando (1929-2018), lacquer, metal on wood,1963",
+  "label": {
+    "title": "Four Times Black",
+    "makerLine": "Armando (1929-2018), lacquer, metal on wood,1963",
+    "description": "Together with Jan Schoonhoven, Henk Peeters, and Jan Henderikse, Armando formed the Dutch Nul Group (zero) in 1960. Fascinated by the new reality of spaceflight and mass consumption, they wanted to make a fresh start with their emphatically 'un-artistic' art. Armando purchased his materials at the hardware store and used household paint for gleaming paintings with the hardness of a ship's shell or the steel armour plate of an army tank.",
+    "notes": null,
+    "date": "2018-07-06"
+  },
+  "showImage": true,
+  "location": "HG-3.4"
+}

@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-37.259",
+  "priref": "243288",
+  "objectNumber": "RP-P-OB-37.259",
+  "language": "en",
+  "title": "Onstuimigheid en Rede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "abc0c04a-1fc6-4b8f-b078-a8d38fd6a31b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1782,
+    "url": "https://lh3.googleusercontent.com/NRTUE1_vfA53Ii_rzTmy5kTYszlgRTuchl7I--YhswbvYtu3t6nHpb5xrVpRgpxPtap6onOgsoIxUse9Rz6lc5gWaw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Onstuimigheid en Rede",
+    "Attributen van de ziel",
+    "Attributi dell'Anima"
+  ],
+  "description": "Twee voorstellingen van personificaties. Links: Onstuimigheid (Impetus Animi) als man met gevederde hoed en een blaasbalg. Rechts: Rede (Ratio) als vrouw met zwaard en een leeuw. Beide voorstellingen met twee Italiaanse versregels in de ondermarge.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Raffaello Schiaminossi",
+      "unFixedName": "Schiaminossi, Raffaello",
+      "placeOfBirth": "Sansepolcro",
+      "dateOfBirth": "1572",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1622",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Raffaello Schiaminossi (1572 - 1622), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Raffaello Schiaminossi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "c. 1605",
+    "sortingDate": 1605,
+    "period": 17,
+    "yearEarly": 1605,
+    "yearLate": 1605
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41B1311",
+      "52B5",
+      "25F23(LION)"
+    ],
+    "iconClassDescription": [
+      "bellows",
+      "Rationality, Reasoning; 'Ratiocinatione o Discorso' (Ripa)",
+      "beasts of prey, predatory animals: lion"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-37.259"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Giannotti (Schiaminossi) 10",
+    "10",
+    "Giannotti (Schiaminossi) 10",
+    "10",
+    "The Illustrated Bartsch 124",
+    "124",
+    "The Illustrated Bartsch 125",
+    "125",
+    "Bartsch 124",
+    "124",
+    "Bartsch 125",
+    "125",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Raffaello Schiaminossi",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "243"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Onstuimigheid en Rede, Raffaello Schiaminossi, c. 1605",
+  "subTitle": "h 155mm \u00d7 w 243mm",
+  "scLabelLine": "Raffaello Schiaminossi, c. 1605, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

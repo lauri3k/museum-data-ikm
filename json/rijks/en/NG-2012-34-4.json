@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-2012-34-4",
+  "priref": "512538",
+  "objectNumber": "NG-2012-34-4",
+  "language": "en",
+  "title": "3-D Version of the Cubic Cross Section of a Dutch Coal Mine",
+  "copyrightHolder": "erven Willem Graatsma en erven Jan Slothouber",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "3D versie van de Cubische doorsnede van een Nederlandse steenkolenmijn in rode en blauwe ecoline op hardboard.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "paper"
+  ],
+  "makers": [
+    {
+      "name": "Jan Slothouber",
+      "unFixedName": "Slothouber, Jan",
+      "placeOfBirth": "Boskoop",
+      "dateOfBirth": "1918-11-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2007-11-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Eindhoven",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Slothouber (06-nov-1918 - 29-nov-2007)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "William Graatsma",
+      "unFixedName": "Graatsma, William",
+      "placeOfBirth": "Belgi\u00eb",
+      "dateOfBirth": "1925-05-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2017-12-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "William Graatsma (10-mei-1925 - 25-dec-2017)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "William Graatsma",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2012-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "hardboard"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1962",
+    "sortingDate": 1962,
+    "period": 20,
+    "yearEarly": 1962,
+    "yearLate": 1962
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Geleen",
+      "Staatsmijn Maurits"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-2012-34-4"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Geschiedenis: studiemateriaal voorbereiding collage door Willem Graatsma [grootformaat, zwarte map]."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "William Graatsma",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "700"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "700"
+    },
+    {
+      "unit": "mm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "3-D Version of the Cubic Cross Section of a Dutch Coal Mine, William Graatsma, 1962",
+  "subTitle": "h 700mm \u00d7 w 700mm \u00d7 t 4mm",
+  "scLabelLine": "Jan Slothouber (1918\u20132007), William Graatsma (1925), ecoline on paper or cardboard, 1962",
+  "label": {
+    "title": "3-D Version of the Cubic Cross Section of a Dutch Coal Mine",
+    "makerLine": "Jan Slothouber (1918\u20132007), William Graatsma (1925), ecoline on paper or cardboard, 1962",
+    "description": "The adjacent cross section of a coal mine served as the basis of a fixed series with which Slothouber and Graatsma portrayed the underground mining operation. The cube shape is also decisive for this 3-D image of the mine as seen from above. The tunnels and various levels are superimposed by means of red and blue lines. An effect of depth is created when the cross section is viewed through red-and-blue\ncoloured 3-D glasses.",
+    "notes": null,
+    "date": "2015-04-13"
+  },
+  "showImage": false,
+  "location": null
+}

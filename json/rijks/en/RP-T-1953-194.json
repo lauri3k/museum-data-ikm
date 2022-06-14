@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1953-194",
+  "priref": "572",
+  "objectNumber": "RP-T-1953-194",
+  "language": "en",
+  "title": "Young Servant Holding a Dish",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fd2cdfd0-d8e3-4b34-a68e-2d9b8cf0d588",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2474,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/8Fz4RNBRD6AQ6fmUthZ62_MetnmWY3PXpCvXrlZxIQp3EV6dgFt2FVE6dMJlT-qH-42Epo1Mz4d4oVNz3FNNtmTX10Y=s0"
+  },
+  "colors": [
+    {
+      "percentage": 74,
+      "hex": "#C6B9A3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9F9281"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F6F5E7"
+    },
+    {
+      "percentage": 4,
+      "hex": " #917B67"
+    },
+    {
+      "percentage": 0,
+      "hex": " #735F51"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DBD5C5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5C5040"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C6B9A3",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9F9281",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F6F5E7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #917B67",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #735F51",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #DBD5C5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5C5040",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 74,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 74,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Fran\u00e7ois Boucher",
+      "unFixedName": "Boucher, Fran\u00e7ois",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1703-09-29",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1770-05-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Fran\u00e7ois Boucher (29-sep-1703 - 30-mei-1770)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Fran\u00e7ois Boucher",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1713 - 1770",
+    "sortingDate": 1713,
+    "period": 18,
+    "yearEarly": 1713,
+    "yearLate": 1770
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C221",
+      "42F5"
+    ],
+    "iconClassDescription": [
+      "cook",
+      "house personnel, servants"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1953-194"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Fran\u00e7ois Boucher",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "187"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "183"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Young Servant Holding a Dish, Fran\u00e7ois Boucher, 1713 - 1770",
+  "subTitle": "h 187mm \u00d7 w 183mm",
+  "scLabelLine": "Fran\u00e7ois Boucher (1703\u20131770)\nTwo shades of red chalk, with white chalk, 1735\u20131740",
+  "label": {
+    "title": "Young Servant Holding a Dish",
+    "makerLine": "Fran\u00e7ois Boucher (1703\u20131770)\nTwo shades of red chalk, with white chalk, 1735\u20131740",
+    "description": "The graceful and dynamic pose of this figure derives from the fluid outlines. Even though Boucher left out the lower part of his sitter's body, he managed to capture his essence with the elongated fingers, curved back, and head cocked to the side. In his usual manner, Boucher used a lighter red and white chalk to build up the figure's volume.",
+    "notes": null,
+    "date": "2017-11-16"
+  },
+  "showImage": true,
+  "location": null
+}

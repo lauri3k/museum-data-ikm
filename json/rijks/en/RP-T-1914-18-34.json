@@ -1,0 +1,279 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1914-18-34",
+  "priref": "436853",
+  "objectNumber": "RP-T-1914-18-34",
+  "language": "en",
+  "title": "Moraea aristata (D. Delaroche) Aschers & Graebn. (Blue-eyed uintjie)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6c20ad31-8b9b-4f54-83b4-4ea416b238f9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1976,
+    "height": 2910,
+    "url": "https://lh4.ggpht.com/AB56HpHwDxc67sdal-ZIfrxv2PwXPhFo-_WOALMLP-XkxFjtl6IFSpYfbWUoxiGoFb3jZqFY7ZNNpYnLBZi4S5WNGw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 66,
+      "hex": "#EFEAE1"
+    },
+    {
+      "percentage": 25,
+      "hex": " #BFBDAD"
+    },
+    {
+      "percentage": 3,
+      "hex": " #869E87"
+    },
+    {
+      "percentage": 2,
+      "hex": " #727B65"
+    },
+    {
+      "percentage": 1,
+      "hex": " #556049"
+    },
+    {
+      "percentage": 1,
+      "hex": " #192F30"
+    },
+    {
+      "percentage": 0,
+      "hex": " #27547A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EFEAE1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BFBDAD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #869E87",
+      "normalizedHex": "#62AD77"
+    },
+    {
+      "originalHex": " #727B65",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #556049",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #192F30",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #27547A",
+      "normalizedHex": "#4279DB"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 66,
+      "hex": "#FAF0E6"
+    },
+    {
+      "percentage": 25,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8FBC8B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4682B4"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 91,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #62AD77"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4279DB"
+    }
+  ],
+  "titles": [
+    "Moraea aristata (D. Delaroche) Aschers & Graebn. (Blue-eyed uintjie)"
+  ],
+  "description": "Moraea aristata (D. Delaroche) Aschers & Graebn.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Robert Jacob Gordon",
+      "unFixedName": "Gordon, Robert Jacob",
+      "placeOfBirth": "Doesburg",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1795-10-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Kaapstad",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Robert Jacob Gordon (1743 - 25-okt-1795)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Jacob Gordon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Purchased with the support of private collectors"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "deck paint",
+    "ink",
+    "pencil",
+    "chalk",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1777 - 1786",
+    "sortingDate": 1777,
+    "period": 18,
+    "yearEarly": 1777,
+    "yearLate": 1786
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G"
+    ],
+    "iconClassDescription": [
+      "planten; begroeiing"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1914-18-34"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Afb. op www.uct.ac.za/depts/age/people/Gordon: Moraea aristata (D. Delaroche) Aschers & Graebn."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Jacob Gordon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "660"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "480"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "428"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": null
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Moraea aristata (D. Delaroche) Aschers & Graebn. (Blue-eyed uintjie), Robert Jacob Gordon, 1777 - 1786",
+  "subTitle": "h c.660mm \u00d7 w 480mm",
+  "scLabelLine": "Robert Jacob Gordon, 1777 - 1786, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

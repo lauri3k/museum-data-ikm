@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-5887",
+  "priref": "453399",
+  "objectNumber": "RP-F-00-5887",
+  "language": "en",
+  "title": "Portret van de medicus G.A.N. Alleb\u00e9",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cc7e1bb2-03e9-4cb2-9b6b-b7dc4e19675c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1628,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/NhoM1KrKeF-V2ukq8yCISP9mU1WIClBwBXU0kflttigl3JmvcuzA2EYgFsm9HIxlJFwBOUlTPdk-uh0N0WEubLTqKUDu=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van de medicus G.A.N. Alleb\u00e9"
+  ],
+  "description": "Carte-de-visite is onderdeel van een groep portretten aangeboden an A.J. Nijland, verzamelaar van historieprenten, juli 1878",
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Albert Greiner",
+      "unFixedName": "Greiner, Albert",
+      "placeOfBirth": "Titisee-Neustadt",
+      "dateOfBirth": "1833-08-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1890-03-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albert Greiner (06-aug-1833 - 28-mrt-1890), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albert Greiner",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2008-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "carbon print"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "before 1878",
+    "sortingDate": 1878,
+    "period": 19,
+    "yearEarly": 1878,
+    "yearLate": 1878
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-5887"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Albert Greiner",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "67"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "carbon print",
+  "longTitle": "Portret van de medicus G.A.N. Alleb\u00e9, Albert Greiner, before 1878",
+  "subTitle": "h 104mm \u00d7 w 67mm",
+  "scLabelLine": "Albert Greiner, before 1878, carbon print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

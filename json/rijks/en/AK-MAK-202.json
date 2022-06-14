@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-202",
+  "priref": "2249",
+  "objectNumber": "AK-MAK-202",
+  "language": "en",
+  "title": "Sakyamuni",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2e4ffc51-b4a5-4f7e-943a-b49c64401c54",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1334,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/wmXS_kmQq4jozup2ES7rVenATzDnoEzcxnNWxnba-mUB6hucRCqJiRmzOilp7DoWPQ7VhXHvVxMyVIEqdFYq58A_sFBkdzFbzZhB0Eg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#D8D6D1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #989892"
+    },
+    {
+      "percentage": 7,
+      "hex": " #C2BB9F"
+    },
+    {
+      "percentage": 49,
+      "hex": " #716D6B"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F8F8F3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #272B31"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D8D6D1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #989892",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2BB9F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #716D6B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F8F8F3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #272B31",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 64,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 22,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Schildering op doek (tangka), centrale figuur is Sakyamuni.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of T.B. Roorda and Herman Visser)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "cotton (textile)",
+    "dye",
+    "ink"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1700 - 1800",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-202"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "59"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "36.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "116.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "61"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cotton (textile)",
+  "longTitle": "Sakyamuni, anonymous, 1700 - 1800",
+  "subTitle": "h 59cm \u00d7 w 36.5cm",
+  "scLabelLine": "Tibet, 18th-19th century, ink and dye on cotton",
+  "label": {
+    "title": "Sakyamuni",
+    "makerLine": "Tibet, 18th-19th century, ink and dye on cotton",
+    "description": "The central figure in this thangka (Buddhist cloth painting) is Sakyamuni, the historical Buddha. He is surrounded above by monks and flanked either side by a bodhisattva. Below right are two guards and between them the blue figure of the god of wealth. The stupa above Sakyamuni contains a seated Ushnishavijaya, goddess of longevity. This thangka may well have\nbeen painted for a long-life ritual.",
+    "notes": null,
+    "date": "2014-01-14"
+  },
+  "showImage": true,
+  "location": null
+}

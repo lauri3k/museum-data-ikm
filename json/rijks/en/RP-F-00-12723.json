@@ -1,0 +1,156 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-12723",
+  "priref": "829845",
+  "objectNumber": "RP-F-00-12723",
+  "language": "en",
+  "title": "Fotoreproductie van de tekening van Maria, Christus, Sint-Anna en Johannes de Doper door Leonardo da Vinci",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Fotoreproductie van de tekening van Maria, Christus, Sint-Anna en Johannes de Doper door Leonardo da Vinci",
+    "Leonardo da Vinci. Cartoon in the Diploma Gallery of the Royal Academy, London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Franz Hanfstaengl",
+      "unFixedName": "Hanfstaengl, Franz",
+      "placeOfBirth": "Beieren",
+      "dateOfBirth": "1804-03-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1877-04-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "M\u00fcnchen",
+      "occupation": [
+        "printer",
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Franz Hanfstaengl (01-mrt-1804 - 18-apr-1877)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1999-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "carbon print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1870 - 1890",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F6",
+      "11H(JOHN THE BAPTIST)",
+      "11HH(ANNA)"
+    ],
+    "iconClassDescription": [
+      "Madonna (i.e. Mary with the Christ-child) accompanied or surrounded by others",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "Anna, mother of Mary; possible attributes: book, Christ-child, lily, Virgin Mary"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-12723"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "1000"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "727"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "carbon print",
+  "longTitle": "Fotoreproductie van de tekening van Maria, Christus, Sint-Anna en Johannes de Doper door Leonardo da Vinci, anonymous, 1870 - 1890",
+  "subTitle": "h 1000mm \u00d7 w 727mm",
+  "scLabelLine": "anonymous, 1870 - 1890, carbon print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

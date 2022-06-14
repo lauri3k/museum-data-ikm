@@ -1,0 +1,193 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1957-607-13-2(R)",
+  "priref": "777752",
+  "objectNumber": "RP-P-1957-607-13-2(R)",
+  "language": "en",
+  "title": "Gezicht op Orange",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Orange",
+    "Oranges"
+  ],
+  "description": "Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Michel van Lochom",
+      "unFixedName": "Lochom, Michel van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1601",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1647-01-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "Michel van Lochom (1601 - 23-jan-1647), Paris"
+    },
+    {
+      "name": "Anna Beeck",
+      "unFixedName": "Beeck, Anna",
+      "placeOfBirth": null,
+      "dateOfBirth": "1657",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1717",
+      "dateOfDeathPrecision": "in or after",
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": null,
+      "labelDesc": "Anna Beeck (1657 - in or after 1717), The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Paris",
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1638",
+    "sortingDate": 1638,
+    "period": 17,
+    "yearEarly": 1638,
+    "yearLate": 1638
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1957-607-13-2(R)"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "532"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "320"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Gezicht op Orange, anonymous, 1638",
+  "subTitle": "h 151mm \u00d7 w 150mm",
+  "scLabelLine": "anonymous, 1638, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-36.717",
+  "priref": "160549",
+  "objectNumber": "RP-P-OB-36.717",
+  "language": "en",
+  "title": "Johannes de Doper, Christus en Maria",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9961a529-060f-4983-a349-1f0ae33acb89",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2035,
+    "url": "https://lh3.googleusercontent.com/lxQQKgQic2AfUb4cFMIWuxUkvt1TzcyU9CKQ8rEpJtLCLxdpAa-uF1wEr9zc5SG133KgY5XD2zAal5LaHI0doSuZMQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper, Christus en Maria"
+  ],
+  "description": "Christus als kind schrijft met pen en inkt in een boek. Links Johannes de Doper, rechts Maria met een boek in haar handen. In de ondermarge een tweeregelige tekst in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pauselijk hof",
+      "unFixedName": "Pauselijk hof",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pauselijk hof"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giovanni Battista Pasqualini",
+      "unFixedName": "Pasqualini, Giovanni Battista",
+      "placeOfBirth": "Cento",
+      "dateOfBirth": "1585",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1634",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Battista Pasqualini (1585 - c. 1634), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giovanni Battista Pasqualini",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1621",
+    "sortingDate": 1621,
+    "period": 17,
+    "yearEarly": 1621,
+    "yearLate": 1621
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11D2",
+      "11H(JOHN THE BAPTIST)",
+      "11F",
+      "49L61"
+    ],
+    "iconClassDescription": [
+      "Christ as child or youth (in general) ~ Christian religion",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "de Maagd Maria",
+      "ink"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-36.717"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 5",
+    "5"
+  ],
+  "principalOrFirstMaker": "Giovanni Battista Pasqualini",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "185"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "227"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, Christus en Maria, Giovanni Battista Pasqualini, 1621",
+  "subTitle": "h 185mm \u00d7 w 227mm",
+  "scLabelLine": "Giovanni Battista Pasqualini, 1621, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

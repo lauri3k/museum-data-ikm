@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2020-6956",
+  "priref": "780347",
+  "objectNumber": "RP-P-2020-6956",
+  "language": "en",
+  "title": "Portret van Jacobus III, koning van Engeland en Schotland en portret van Margreet van Denemarken, koningin van Schotland",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Jacobus III, koning van Engeland en Schotland en portret van Margreet van Denemarken, koningin van Schotland"
+  ],
+  "description": "Beiden knielend en met de handen gevouwen. Achter Jacobus III staat \u00e9\u00e9n van zijn zonen en de heilige Andreas. Naast Margreet van Denemarken staat de heilige Joris.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2020-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1800 - 1899",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44BB113",
+      "44B113",
+      "11H(GEORGE)",
+      "11H(ANDREW)",
+      "11Q"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "queen",
+      "king",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "the apostle Andrew; possible attributes: book, X-shaped cross, fish, fishing-net, rope, scroll",
+      "de aanbidding van God"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Margreet van Denemarken (koningin van Schotland)",
+      "Jacobus III (koning van Engeland en Schotland)"
+    ],
+    "objectNumbers": [
+      "RP-P-2020-6956"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Margreet van Denemarken (koningin van Schotland)",
+    "Jacobus III (koning van Engeland en Schotland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "196"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "224"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Jacobus III, koning van Engeland en Schotland en portret van Margreet van Denemarken, koningin van Schotland, anonymous, 1800 - 1899",
+  "subTitle": "h 196mm \u00d7 w 224mm",
+  "scLabelLine": "anonymous, 1800 - 1899, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

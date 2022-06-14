@@ -1,0 +1,275 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-492",
+  "priref": "385037",
+  "objectNumber": "RP-P-1904-492",
+  "language": "en",
+  "title": "Bestraffing van het kwaad (de doortocht door de Schelfzee)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "29f855cf-9525-49bf-87fb-b4a13c49e5ab",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2171,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/CvmFUqKZZaeFbXfNNSzdUS9N8DnSc7fmOaEPMmCyEx849pZut3lZJo0uEFUrzqVBUD-qOhTKpyNeDvVytIrWWtRNsPQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 17,
+      "hex": "#E9E4D2"
+    },
+    {
+      "percentage": 24,
+      "hex": " #BFB8A6"
+    },
+    {
+      "percentage": 14,
+      "hex": " #9E9787"
+    },
+    {
+      "percentage": 22,
+      "hex": " #767163"
+    },
+    {
+      "percentage": 18,
+      "hex": " #524F45"
+    },
+    {
+      "percentage": 1,
+      "hex": " #383731"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E9E4D2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BFB8A6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9E9787",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #767163",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #524F45",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #383731",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 37,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 20,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Bestraffing van het kwaad (de doortocht door de Schelfzee)",
+    "Punitio tirannorum",
+    "Allegorie\u00ebn van het christelijke geloof"
+  ],
+  "description": "Serie van twaalf allegorie\u00ebn van het christelijke geloof. Elk van de allegorie\u00ebn bestaat uit een centrale voorstelling met daaromheen een omlijsting waarin citaten uit de bijbel gecombineerd zijn met de verbeelding van bepaalde gebeurtenissen uit de bijbel. Twee regels Latijn in marge onder voorstelling.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Marcantonio Raimondi",
+      "unFixedName": "Raimondi, Marcantonio",
+      "placeOfBirth": null,
+      "dateOfBirth": "1482",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1534",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Marcantonio Raimondi (c. 1482 - 1534)"
+    },
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philips Galle (1537 - 29-mrt-1612), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick Goltzius (jan-1558 - 01-jan-1617), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick Goltzius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1904-01-01T00:00:00",
+    "creditLine": "Gift of G.J. Boekenoogen, Leiden"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1578",
+    "sortingDate": 1578,
+    "period": 16,
+    "yearEarly": 1578,
+    "yearLate": 1578
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E12231"
+    ],
+    "iconClassDescription": [
+      "Pharaoh and his army engulfed in the Red Sea (Israelites not or barely visible)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1904-492"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 74",
+    "74",
+    "Hollstein Dutch 75",
+    "75",
+    "New Hollstein Dutch 68",
+    "68"
+  ],
+  "principalOrFirstMaker": "Hendrick Goltzius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "254"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "183"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Bestraffing van het kwaad (de doortocht door de Schelfzee), Hendrick Goltzius, 1578",
+  "subTitle": "h 254mm \u00d7 w 183mm",
+  "scLabelLine": "Hendrick Goltzius, 1578, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-39.170",
+  "priref": "65806",
+  "objectNumber": "RP-P-OB-39.170",
+  "language": "en",
+  "title": "De redding van Oedipus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bf602294-c08e-4ec8-a4fe-b69e1d983768",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1651,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/M-QT0zQ8uSge7qEVi4S_QB3oYefVg26LJkPf0M6D9nkbbkAMy3NetMO3TGvFZC53CGge3gx7uSzLciLN6oJjN3AXBKd4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De redding van Oedipus"
+  ],
+  "description": "De jonge Oedipus hangt aan zijn voeten vastgebonden in een boom. Een man maakt hem los.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Giulio Martinello",
+      "unFixedName": "Martinello, Giulio",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giulio Martinello"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Salvator Rosa",
+      "unFixedName": "Rosa, Salvator",
+      "placeOfBirth": "Napels",
+      "dateOfBirth": "1615-06-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1673-03-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Salvator Rosa (20-jun-1615 - 15-mrt-1673), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Salvator Rosa",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1625 - 1673",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1673
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94T",
+      "94T12"
+    ],
+    "iconClassDescription": [
+      "(het verhaal van) Oidipous",
+      "infancy, upbringing of Oedipus"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-39.170"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 8",
+    "8",
+    "Bartsch 8",
+    "8"
+  ],
+  "principalOrFirstMaker": "Salvator Rosa",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "728"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "480"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "De redding van Oedipus, Salvator Rosa, 1625 - 1673",
+  "subTitle": "h 728mm \u00d7 w 480mm",
+  "scLabelLine": "Salvator Rosa, 1625 - 1673, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

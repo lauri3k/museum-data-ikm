@@ -1,0 +1,277 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-177",
+  "priref": "6696",
+  "objectNumber": "SK-A-177",
+  "language": "en",
+  "title": "Portrait of Willem II (1626-1650), Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "69b3c99a-7a85-45f4-8774-1d5ffd52ff0e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2070,
+    "height": 2628,
+    "url": "https://lh3.googleusercontent.com/yLoocdY_QMTQ1hXPPx4IWJ0DmJ30mMeaLy2q28K0HTw30cwA2Heyc5RdBjW_93dllT9dst1P62uJlic65n2PlXIe9Kb0sRVfJnErS5GY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 58,
+      "hex": "#3A2A14"
+    },
+    {
+      "percentage": 20,
+      "hex": " #72561F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B3AF8A"
+    },
+    {
+      "percentage": 5,
+      "hex": " #364C3F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #998755"
+    },
+    {
+      "percentage": 3,
+      "hex": " #62755F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D7CB9D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3A2A14",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #72561F",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B3AF8A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #364C3F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #998755",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #62755F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #D7CB9D",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of Willem II (1626-1650), Prince of Orange"
+  ],
+  "description": "Portret van Willem II, prins van Oranje. Staande ten halven lijve voor een balustrade met zuil. In wapenrusting, commadostaf in rechterhand, de linkerhand in de zij. Zijn gepluimde helm staat links op een tafeltje. Herhaling van het origineel door Gerard van Honthorst, SK-A-871.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Willem van Honthorst",
+      "unFixedName": "Honthorst, Willem van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1604",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1666-02-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Willem van Honthorst (c. 1604 - 19-feb-1666)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gerard van Honthorst",
+      "unFixedName": "Honthorst, Gerard van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1592-11-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1656-04-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Gerard van Honthorst (04-nov-1592 - 27-apr-1656)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard van Honthorst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1808-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1651",
+    "sortingDate": 1651,
+    "period": 17,
+    "yearEarly": 1651,
+    "yearLate": 1651
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16261650"
+    ],
+    "places": [],
+    "people": [
+      "Willem II (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-177"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem II (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard van Honthorst",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "110.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "86"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "frame",
+      "value": "142"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "frame",
+      "value": "108"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "sight size",
+      "value": "104.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "sight size",
+      "value": "83.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Willem II (1626-1650), Prince of Orange, Gerard van Honthorst (workshop of), 1651",
+  "subTitle": "h 110.5cm \u00d7 w 86cm",
+  "scLabelLine": "Gerard van Honthorst, 1651, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

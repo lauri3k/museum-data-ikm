@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1911-212",
+  "priref": "389731",
+  "objectNumber": "RP-P-1911-212",
+  "language": "en",
+  "title": "Gezicht op Batavia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e774a359-5218-4b7f-8c55-5927fba793ca",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2025,
+    "url": "https://lh3.googleusercontent.com/qeHH26OOyKBZjV5pWURBgqn7WT_Y2TI3Vz4JtVn2_PrjfHa2VzRdGfRrfq43v3BOB423QSJUgqQ-1z3PH3PM758B5JEJt_CHUjYkk4k=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Batavia",
+    "Batavia opt eylandt Java. Waare afbeeldinge vande beroemde stadt Batavia opt groot eylandt Java"
+  ],
+  "description": "Oost-Indi\u00ebvaarders op de rede voor Batavia, met enkele kleine vissersboten en een zeilvlot.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Reinier Ottens (I) & Josua",
+      "unFixedName": "Ottens, Reinier (I) & Josua",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Reinier Ottens (I) & Josua, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1911-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1726 - 1750",
+    "sortingDate": 1726,
+    "period": 18,
+    "yearEarly": 1726,
+    "yearLate": 1750
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H14",
+      "46C222"
+    ],
+    "iconClassDescription": [
+      "island",
+      "ship in the roads, roadstead"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Batavia"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1911-212"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "398"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "503"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Gezicht op Batavia, anonymous, 1726 - 1750",
+  "subTitle": "h 398mm \u00d7 w 503mm",
+  "scLabelLine": "anonymous, 1726 - 1750, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

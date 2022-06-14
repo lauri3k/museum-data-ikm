@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-22.196",
+  "priref": "48944",
+  "objectNumber": "RP-P-OB-22.196",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fa01743e-707e-4856-b07f-dfe0ea7fcef6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1521,
+    "height": 1341,
+    "url": "https://lh3.googleusercontent.com/dayeQKzwhjFKKm2P_dwap-X-jCX9T-Zp_PNE7Fl5iEaRP-qoqHrdgLUrKTZCjZwOvmP-oblfzwFJ4BV6PkpsD-Zg3OkrJiK1ajzcWmbAZQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Virgilius Solis",
+      "unFixedName": "Solis, Virgilius",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1514",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1562-08-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Virgilius Solis (1514 - 01-aug-1562)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Virgilius Solis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1558",
+    "sortingDate": 1558,
+    "period": 16,
+    "yearEarly": 1558,
+    "yearLate": 1558
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-22.196"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein German 1303",
+    "1303"
+  ],
+  "principalOrFirstMaker": "Virgilius Solis",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Doornenkroning, Virgilius Solis, 1558",
+  "subTitle": "h 88mm \u00d7 w 63mm",
+  "scLabelLine": "Virgilius Solis, 1558, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

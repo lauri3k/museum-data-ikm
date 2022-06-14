@@ -1,0 +1,179 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-83.985",
+  "priref": "481501",
+  "objectNumber": "RP-P-OB-83.985",
+  "language": "en",
+  "title": "De Heugelyke Geboorte van den Prins van Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8fb35eaa-240f-40a1-b277-0bf6df131dbe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1900,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/nIEEcx-g6_tLr1sNTqM1HKx9nodhth952QMjg0-X-yQqY5IIxqX0i4Q9S-24PiTKE_q04nZVhrK2esp-pX4za2Jm9F4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De Heugelyke Geboorte van den Prins van Orange"
+  ],
+  "description": "Blad met grote voorstelling van een slaapkamer waar zojuist (vermoedelijk) Willem I Frederik geboren is. In de ruimte wordt zijn vader Willem V gefeliciteerd en zijn moeder Wilhelmina van Pruisen ligt in bed. Onder de voorstelling een twaalfregelig vers in drie kolommen. Genummerd rechtsboven: No. 127.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Erven de Weduwe Jacobus van Egmont",
+      "unFixedName": "Egmont, Erven de Weduwe Jacobus van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Erven de Weduwe Jacobus van Egmont, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1761 - 1804",
+    "sortingDate": 1761,
+    "period": 18,
+    "yearEarly": 1761,
+    "yearLate": 1804
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42A22",
+      "42A4"
+    ],
+    "iconClassDescription": [
+      "visiting the new mother, lying-in visit",
+      "infant, baby"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1748-03-081748-03-08"
+    ],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)",
+      "Willem I (koning der Nederlanden)",
+      "Wilhelmina van Pruisen (1751-1820)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-83.985"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)",
+    "Willem I (koning der Nederlanden)",
+    "Wilhelmina van Pruisen (1751-1820)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 170, nr. 3922."
+  ],
+  "catRefRPK": [
+    "FMH 3922",
+    "3922"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "387"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "296"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "De Heugelyke Geboorte van den Prins van Orange, anonymous, 1761 - 1804",
+  "subTitle": "h 387mm \u00d7 w 296mm",
+  "scLabelLine": "anonymous, 1761 - 1804, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

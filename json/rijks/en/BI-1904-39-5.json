@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-1904-39-5",
+  "priref": "582552",
+  "objectNumber": "BI-1904-39-5",
+  "language": "en",
+  "title": "Avis du Graveur aux Curieux / Voor-reden des Uitgevers tot den Liefhebbers",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1b5cce99-5051-4c0b-a9ea-ce0fe49410f3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1723,
+    "url": "https://lh3.googleusercontent.com/QBOc-34GCxmCGPs8Hr4STcQKlCvYWmr2q_lmcqYECpFuIunHyxK_RXzdiUt6iwju7WCeb79Nl1Js6Km84BqSdtTbQSYy=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Avis du Graveur aux Curieux / Voor-reden des Uitgevers tot den Liefhebbers"
+  ],
+  "description": "Voorwoord van de uitgever. Tekstblad maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "text sheet"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Schenk (I)",
+      "unFixedName": "Schenk, Pieter (I)",
+      "placeOfBirth": "Elberfeld",
+      "dateOfBirth": "1660-12-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Leipzig",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Schenk (I) (26-dec-1660 - c. 1711), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter Schenk (I)",
+      "unFixedName": "Schenk, Pieter (I)",
+      "placeOfBirth": "Elberfeld",
+      "dateOfBirth": "1660-12-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Leipzig",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Schenk (I) (26-dec-1660 - c. 1711), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Schenk (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-06-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1693",
+    "sortingDate": 1693,
+    "period": 17,
+    "yearEarly": 1693,
+    "yearLate": 1693
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BI-1904-39-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Schenk (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "219"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "311"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Avis du Graveur aux Curieux / Voor-reden des Uitgevers tot den Liefhebbers, Pieter Schenk (I), 1693",
+  "subTitle": "h 219mm \u00d7 w 311mm",
+  "scLabelLine": "Pieter Schenk (I), 1693, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

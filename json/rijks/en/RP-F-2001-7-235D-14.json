@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-235D-14",
+  "priref": "623345",
+  "objectNumber": "RP-F-2001-7-235D-14",
+  "language": "en",
+  "title": "Sir Charles Reed",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9c6f002d-99a4-46fa-8c34-b70173f946ac",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1571,
+    "url": "https://lh3.googleusercontent.com/rkTalnpdexLT5yuyahrfARlCjcUdQLj95DzxXwsN8xf8s3zuh79TYM8pN17TxIL0YjdgBdcW_ClskvwcMH0OyJheCBI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Sir Charles Reed"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Lock & Whitfield",
+      "unFixedName": "Lock & Whitfield",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lock & Whitfield"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lock & Whitfield",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1875 - in or before 1880",
+    "sortingDate": 1875,
+    "period": 19,
+    "yearEarly": 1875,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B(+52)",
+      "44C34"
+    ],
+    "iconClassDescription": [
+      "historical persons (portraits and scenes from the life) (+ (full) bust portrait)",
+      "politician, e.g. party leader"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reed, Charles"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-235D-14"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reed, Charles"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lock & Whitfield",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Sir Charles Reed, Lock & Whitfield, c. 1875 - in or before 1880",
+  "subTitle": "h 115mm \u00d7 w 89mm",
+  "scLabelLine": "Lock & Whitfield, c. 1875 - in or before 1880, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

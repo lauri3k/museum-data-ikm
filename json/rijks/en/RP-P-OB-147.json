@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-147",
+  "priref": "36018",
+  "objectNumber": "RP-P-OB-147",
+  "language": "en",
+  "title": "The Descent from the Cross by Torchlight",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "595230de-e6d0-47b1-ae9a-e2fe23be7f50",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2389,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/J-66CdzP0cElBv2cDYX9BsNbxLWghBI_vQtk0GBsEora_WQfwYr3vRn6Yik3ZFu36RfFz_TZjbGlslZnm-DjO-t0xU8H=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#F6F3E3"
+    },
+    {
+      "percentage": 9,
+      "hex": " #CCC3AB"
+    },
+    {
+      "percentage": 6,
+      "hex": " #9E9788"
+    },
+    {
+      "percentage": 6,
+      "hex": " #847C6F"
+    },
+    {
+      "percentage": 43,
+      "hex": " #52504C"
+    },
+    {
+      "percentage": 20,
+      "hex": " #29282B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F3E3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CCC3AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9E9788",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #847C6F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #52504C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #29282B",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 20,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "The descent from the cross by torchlight"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "Japanese paper (handmade paper)"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1654",
+    "sortingDate": 1654,
+    "period": 17,
+    "yearEarly": 1654,
+    "yearLate": 1654
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D71"
+    ],
+    "iconClassDescription": [
+      "descent from the cross: Christ is taken down from the cross, usually by Nicodemus and Joseph of Arimathaea who are standing on the ladders (both arms of Christ detached)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-147"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 286",
+    "286",
+    "Bartsch 83",
+    "83",
+    "Hollstein Dutch 83",
+    "83"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "162"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching and drypoint, printed with light surface tone on Japanese paper",
+  "longTitle": "The Descent from the Cross by Torchlight, Rembrandt van Rijn, 1654",
+  "subTitle": "h 205mm \u00d7 w 162mm",
+  "scLabelLine": "etching and drypoint, printed with light surface tone on Japanese paper, first state of four, c. 1654",
+  "label": {
+    "title": "The Descent from the Cross by Torchlight",
+    "makerLine": "etching and drypoint, printed with light surface tone on Japanese paper, first state of four, c. 1654",
+    "description": "This impression clearly demonstrates the extent to which the type of paper used can influence the appearance of a print. Rembrandt suggested the warm glow of the torchlight in the night by printing this impression on orange-yellow Japanese paper. To this he added a light surface tone: a haze of ink covering the entire surface. The stretcher in the foreground, with the draped shroud, serves as a second light source.\nRijksmuseum, Amsterdam.",
+    "notes": null,
+    "date": "2015-05-16"
+  },
+  "showImage": true,
+  "location": null
+}

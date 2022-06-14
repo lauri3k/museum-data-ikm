@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-2865",
+  "priref": "582603",
+  "objectNumber": "BK-NM-2865",
+  "language": "en",
+  "title": "Bust of Piet Hein",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "04dfb00f-1325-45cf-9711-0ea78f45a6c3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 26,
+    "width": 2180,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/zW90D0LJ_qtHQGLHLfR3gks_kejJ1Olr0ZcfLzSATD-TPINNrpu9Z96sN5bee7k78PGIwOvVTgKQZFJegfSoRu6za8g=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#C3BAB1"
+    },
+    {
+      "percentage": 28,
+      "hex": " #E0DDD8"
+    },
+    {
+      "percentage": 19,
+      "hex": " #5A463B"
+    },
+    {
+      "percentage": 13,
+      "hex": " #897767"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A89480"
+    },
+    {
+      "percentage": 1,
+      "hex": " #25211F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F9F7F2"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C3BAB1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #E0DDD8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5A463B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #897767",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A89480",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #25211F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F9F7F2",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 28,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 19,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 30,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 28,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Bust of Piet Heyn (1577-1629)"
+  ],
+  "description": "De kop, iets naar links gewend, vertoont een knevel en een puntbaardje. Vanaf de schouders loopt het beeld naar beneden smaller toe en gaat daar over in een gevleugeld mascaron in kwabornament, dat zich voortzet in het uit hout vervaardigde voetstuk. Hij draagt een brede plooikraag over een halsberg en een wambuis met puntige knoopjes en 'met france koorden geboort'. Onder de halsberg komt een getande rand van 'leer' te voorschijn. Het achtzijdige voetstuk heeft bovenaan een krans van bloemen en bladeren met op de achterzijde een afhangende strik en onderaan afhangend accanthusblad. Op de achterzijde van de kraag gedateerd: 1636.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick de Keyser (II)",
+      "unFixedName": "Keyser, Hendrick de (II)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1665-09-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Hendrick de Keyser (II) (1613 - 26-sep-1665), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick de Keyser (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1883-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1636",
+    "sortingDate": 1636,
+    "period": 17,
+    "yearEarly": 1636,
+    "yearLate": 1636
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(+52)"
+    ],
+    "iconClassDescription": [
+      "historical persons (+ (full) bust portrait)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001629"
+    ],
+    "places": [],
+    "people": [
+      "Heyn, Pieter Pietersz."
+    ],
+    "objectNumbers": [
+      "BK-NM-2865"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Heyn, Pieter Pietersz."
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Benno van Tilburg, 'Piet Heyn en de verovering van de Zilvervloot', Rijksmuseum Kunstkrant 19 (1993) nr. 3, p. 19-22.",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick de Keyser (II)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "79"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "41"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "36"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta (bust) and wood (base) both with polychromy",
+  "longTitle": "Bust of Piet Hein, Hendrick de Keyser (II) (attributed to), 1636",
+  "subTitle": "h 79cm \u00d7 w 41cm \u00d7 d 36cm",
+  "scLabelLine": "Hendrik de Keyser II (1613-1665), painted terracotta, 1636",
+  "label": {
+    "title": "Bust of Piet Hein",
+    "makerLine": "Hendrik de Keyser II (1613-1665), painted terracotta, 1636",
+    "description": "Piet Hein fought in the Netherlands, the Mediterranean Sea, Asia, Africa, and America as a seaman. But he only becomes truly famous when he captures the Spanish Silver Fleet off the coast of Cuba in September 1628. For the Spanish the loss of that fleet is a financial catastrophe and for the Dutch Republic, quite the opposite, a tremendous triumph. Hein becomes enormously popular among the Dutch and is honoured everywhere. Just a year later, Hein dies in a skirmish with privateers from Ostend in the English Channel.",
+    "notes": "Multimediatour 80 jaar oorlog, 983.",
+    "date": "2018-11-28"
+  },
+  "showImage": true,
+  "location": null
+}

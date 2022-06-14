@@ -1,0 +1,265 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12400-1",
+  "priref": "14235",
+  "objectNumber": "BK-NM-12400-1",
+  "language": "en",
+  "title": "Two plaques with the Tomb of William of Orange in the Nieuwe Kerk in Delft",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fc1d8343-b9f3-4cd9-8b68-acc5ce8c149c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2148,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/FDgIvFaM_s64ITR6TyZeAs08tO60vGi86iyagr_QbX8GAnjcG6aVmbeTJM_9G434plSnBNIo591dD1nQBw7y3IX6Fg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 40,
+      "hex": "#C6C2B9"
+    },
+    {
+      "percentage": 20,
+      "hex": " #DFDEDC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #9A9EA2"
+    },
+    {
+      "percentage": 14,
+      "hex": " #697890"
+    },
+    {
+      "percentage": 5,
+      "hex": " #42567C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #283559"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F7F6F1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C6C2B9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DFDEDC",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #9A9EA2",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #697890",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #42567C",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #283559",
+      "normalizedHex": "#4019B1"
+    },
+    {
+      "originalHex": " #F7F6F1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 20,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 7,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 1,
+      "hex": " #4019B1"
+    }
+  ],
+  "titles": [],
+  "description": "Plaat van fa\u00efence, beschilderd in blauw met een zijaanzicht van het graf van Willem van Oranje (de Zwijger)  in de Nieuwe Kerk te Delft.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Isaac Junius",
+      "unFixedName": "Junius, Isaac",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1616",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1672",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isaac Junius (1616 - after 1672), Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Isaac Junius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1916-01-01T00:00:00",
+    "creditLine": "Gift of the heirs of J.F. Loudon, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "1657",
+    "sortingDate": 1657,
+    "period": 17,
+    "yearEarly": 1657,
+    "yearLate": 1657
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E3"
+    ],
+    "iconClassDescription": [
+      "grave, tomb and other grave-forms and grave-markers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Delft",
+      "Nieuwe Kerk"
+    ],
+    "people": [
+      "Willem I (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BK-NM-12400-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Isaac Junius",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "31"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "24"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": null,
+  "longTitle": "Two plaques with the Tomb of William of Orange in the Nieuwe Kerk in Delft, Isaac Junius, 1657",
+  "subTitle": "h c.31cm \u00d7 w c.24cm",
+  "scLabelLine": "Delft, 1657, painted decoration: Isaac Junius (1616\u2013after 1672), tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Two plaques with the Tomb of William of Orange in the Nieuwe Kerk in Delft",
+    "makerLine": "Delft, 1657, painted decoration: Isaac Junius (1616\u2013after 1672), tin-glazed earthenware (faience)",
+    "description": null,
+    "notes": null,
+    "date": "2016-08-09"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

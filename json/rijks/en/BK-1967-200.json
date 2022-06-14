@@ -1,0 +1,247 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1967-200",
+  "priref": "311039",
+  "objectNumber": "BK-1967-200",
+  "language": "en",
+  "title": "Plate with an orange tree and portraits of William V and Wilhelmina of Prussia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3ce49330-ed37-4fc3-b5a4-76b86aeacd2c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2949,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/eFe7EnJZo_vC__c8_SRcmwPDyRe7A_LCFidWdwWvkAnnSW0CmywG2uJ52hwzIzZgeQ48uQGr-jDV2Mw_WYiLYgiqQg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#B1A982"
+    },
+    {
+      "percentage": 32,
+      "hex": " #D8D7C9"
+    },
+    {
+      "percentage": 13,
+      "hex": " #978455"
+    },
+    {
+      "percentage": 7,
+      "hex": " #725F50"
+    },
+    {
+      "percentage": 7,
+      "hex": " #472519"
+    },
+    {
+      "percentage": 1,
+      "hex": " #49463E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F3F1EF"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B1A982",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D8D7C9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #978455",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #725F50",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #472519",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #49463E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F3F1EF",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 32,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #800000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 32,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "Bord van roomkleurig, hardgebakken aardewerk. Het bord heeft een geschulpte rand. Het plat is veelkleurig beschilderd met portretten van prins Willem V en zijn vrouw Wilhelmina van Pruissen, ter weerszijden van een Oranjeboom. Boven de voorstelling het monogram PV OR. Op de rand velden afgewisseld door rozetten op een rode fond. In de velden de respectievelijke teksten: Zoo lang als Zon en maan Zal Staan; Zal Nooijt de Oranje kleur vergaan; Dit Zag ik in dees middagstond; Juist in het Teken van't verbond; met Eerbied daar ik god moest loven; Daar Zag ik doe Oranje boven.",
+  "labelText": null,
+  "objectTypes": [
+    "plate (dishes)"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1967-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1780 - c. 1795",
+    "sortingDate": 1780,
+    "period": 18,
+    "yearEarly": 1780,
+    "yearLate": 1795
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17481806",
+      "17741837"
+    ],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)",
+      "Wilhelmina van Pruisen (1751-1820)"
+    ],
+    "objectNumbers": [
+      "BK-1967-200"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)",
+    "Wilhelmina van Pruisen (1751-1820)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "2.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "26.0"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "15.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Plate with an orange tree and portraits of William V and Wilhelmina of Prussia, anonymous, c. 1780 - c. 1795",
+  "subTitle": "h 2.7cm \u00d7 d 26.0cm",
+  "scLabelLine": "Leeds, c. 1780-1795, painted decoration: the Netherlands, painted creamware",
+  "label": {
+    "title": "Plate with an orange tree and portraits of William V and Wilhelmina of Prussia",
+    "makerLine": "Leeds, c. 1780-1795, painted decoration: the Netherlands, painted creamware",
+    "description": null,
+    "notes": null,
+    "date": "2013-01-04"
+  },
+  "showImage": true,
+  "location": "HG-1.10"
+}

@@ -1,0 +1,129 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-11414",
+  "priref": "810872",
+  "objectNumber": "RP-F-00-11414",
+  "language": "en",
+  "title": "Plattegrond van Athene",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Plattegrond van Athene",
+    "Plan d'Athenes offert par Air France, sp\u00e9cialiste des long-courriers"
+  ],
+  "description": "Plattegrond van Athene uitgegeven in opdracht van Air France met op de achterzijde reclame voor fotografiewinkel en Kodak-dealer Mouzakis te Athene.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2021-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1940 - 1960",
+    "sortingDate": 1940,
+    "period": 20,
+    "yearEarly": 1940,
+    "yearLate": 1960
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42A4",
+      "23U1"
+    ],
+    "iconClassDescription": [
+      "infant, baby",
+      "calendar, almanac"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Athene"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-11414"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "285"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "428"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Plattegrond van Athene, anonymous, 1940 - 1960",
+  "subTitle": "h 285mm \u00d7 w 428mm",
+  "scLabelLine": "anonymous, 1940 - 1960, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

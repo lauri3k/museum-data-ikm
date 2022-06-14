@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1911-4411",
+  "priref": "156793",
+  "objectNumber": "RP-P-1911-4411",
+  "language": "en",
+  "title": "Portret van Frederik Willem van Brunswijk-L\u00fcneburg-Oels",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ffd9fea2-b63d-4c4a-ba77-cf7cd55a1bb3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2017,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Pgr2yi-fEZ7gOvgMpS3guuG2VpFL2edxHxkq6ApBxtEZQ1TbMUevfKkp2Z4AOdKspF5KXImrzTb8nzO2cbnRJzoZISRTqMJNAls12jI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Frederik Willem van Brunswijk-L\u00fcneburg-Oels"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Friedrich Wilhelm M\u00fcller",
+      "unFixedName": "M\u00fcller, Johann Friedrich Wilhelm",
+      "placeOfBirth": "Stuttgart",
+      "dateOfBirth": "1782-12-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-05-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Pirna",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Friedrich Wilhelm M\u00fcller (11-dec-1782 - 03-mei-1816)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Friedrich Wilhelm M\u00fcller",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1792 - 1816",
+    "sortingDate": 1792,
+    "period": 18,
+    "yearEarly": 1792,
+    "yearLate": 1816
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Brunswijk-L\u00fcneburg-Oels, Frederik Willem van"
+    ],
+    "objectNumbers": [
+      "RP-P-1911-4411"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Brunswijk-L\u00fcneburg-Oels, Frederik Willem van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Friedrich Wilhelm M\u00fcller",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "242"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Frederik Willem van Brunswijk-L\u00fcneburg-Oels, Johann Friedrich Wilhelm M\u00fcller, 1792 - 1816",
+  "subTitle": "h 242mm \u00d7 w 178mm",
+  "scLabelLine": "Johann Friedrich Wilhelm M\u00fcller, 1792 - 1816, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

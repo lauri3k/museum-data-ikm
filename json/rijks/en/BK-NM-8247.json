@@ -1,0 +1,213 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-8247",
+  "priref": "3296",
+  "objectNumber": "BK-NM-8247",
+  "language": "en",
+  "title": "Housecoat",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "345bdaba-4164-4ec0-8df4-2ac88e3873a7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2424,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/38rkdmK1vOERUNTfGHilkHCAFRjZb6H9fTa8XeH7ovkCVXFmJ6H8-F7OTny3oUyWyNoqhMTS1r4LjVRyeHPUOk6P5qvq=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#050411"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F2F2EC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #49372C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #745B44"
+    },
+    {
+      "percentage": 75,
+      "hex": " #C2BEA2"
+    },
+    {
+      "percentage": 11,
+      "hex": " #9D8B63"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#050411",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F2F2EC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #49372C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #745B44",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #C2BEA2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9D8B63",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 75,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 86,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Kamerrok van geel katoen met gekleurde bloemen. Staand boord, schuine oversclag, rankenrandje niet opgenaaid maar bij het beitsen van de stof dadelijk meegeconcipeerd. De katoenen rode voering met witte ruiten werd onder de naam CHELAS zowel in de omgeving van Suratte als in Bengalen geweven.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "costumes and accessories"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "Gift of A. Bredius, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "cotton (textile)",
+    "chintz"
+  ],
+  "techniques": [
+    "chintz"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1740 - c. 1760",
+    "sortingDate": 1740,
+    "period": 18,
+    "yearEarly": 1740,
+    "yearLate": 1760
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-8247"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "A.M. Lubberhuizen-van Gelder, Oud-Holland, 1947, p. 137; ibidem, 1949, p. 25."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": "c.",
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "chintz",
+  "longTitle": "Housecoat, anonymous, c. 1740 - c. 1760",
+  "subTitle": "l c.130cm",
+  "scLabelLine": "chintz: North-West India, c. 1740-1760, hand-painted cotton, cotton",
+  "label": {
+    "title": "Housecoat",
+    "makerLine": "chintz: North-West India, c. 1740-1760, hand-painted cotton, cotton",
+    "description": "The material used for this robe was most likely painted in North-West India. The colour scheme with the yellow ground and floral motifs is typical of this region. It has a braid-and-button cross-fastening. The lining, not visible here, is red cotton with white checks.",
+    "notes": null,
+    "date": "2018-09-17"
+  },
+  "showImage": true,
+  "location": null
+}

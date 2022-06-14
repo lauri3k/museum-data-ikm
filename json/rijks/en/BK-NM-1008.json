@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-1008",
+  "priref": "59870",
+  "objectNumber": "BK-NM-1008",
+  "language": "en",
+  "title": "Armchair from the prison cell of Johan van Oldenbarnevelt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "568992d8-ac19-467a-ba9e-3f874abf51c8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2194,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/4o9rNZ3yeQ280CZrQV-xAZli7_CoCremvuzWkqSVDAequemFJ-gEGAu665yvW3h-JsjEyM5kZDQ3SIl1k7qNgcZ2rKAT=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Armchair from the prison cell of Johan van Oldenbarnevelt"
+  ],
+  "description": "Armstoel van notenhout. Het meubel is bekleed. Het rust op kolompoten met een H-vormig kruis en een voormiddelsport. De poten aan de voorzijde hebben een korte kolom en hoge huizen. De armleggerstutten zijn balustervormig; de armleggers, in de vorm van zuilen, eindigen aan de kop in huizen met afgeschuinde hoeken en een knop. De doorgaande achterstijlen zijn tussen zitting en rugraam achthoekig. De bekleding is vernieuwd.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "walnut (hardwood)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1650",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44G311"
+    ],
+    "iconClassDescription": [
+      "prison, jail"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "15471619"
+    ],
+    "places": [],
+    "people": [
+      "Oldenbarnevelt, Johan van"
+    ],
+    "objectNumbers": [
+      "BK-NM-1008"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Oldenbarnevelt, Johan van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "G. van der Ham, 'Musea en geschiedenis' in: V. Byvanck (red.), Zeeuws Imago, Middelburg, 2007, p. 113 e.v.",
+    "D. van der Kellen, 'Het Nederlandsch Museum voor Geschiedenis en Kunst te 's-Gravenhage', Eigen Haard (1879), p. 153.",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "61.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "43"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Armchair from the prison cell of Johan van Oldenbarnevelt, anonymous, c. 1600 - c. 1650",
+  "subTitle": "h 87cm \u00d7 w 61.5cm \u00d7 d 43cm",
+  "scLabelLine": "Northern Netherlands, c. 1600\u20131650, walnut, velvet",
+  "label": {
+    "title": "Armchair from the prison cell of Johan van Oldenbarnevelt",
+    "makerLine": "Northern Netherlands, c. 1600\u20131650, walnut, velvet",
+    "description": "In 1618 Grand Pensionary Johan van Oldenbarnevelt was imprisoned and tried in The Hague, where he was eventually condemned to death for treason. His political supporters regarded him as a martyr to their cause. According to tradition, he sat on this chair during his final days in prison.",
+    "notes": null,
+    "date": "2019-07-15"
+  },
+  "showImage": true,
+  "location": null
+}

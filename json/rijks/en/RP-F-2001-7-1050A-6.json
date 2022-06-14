@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1050A-6",
+  "priref": "676860",
+  "objectNumber": "RP-F-2001-7-1050A-6",
+  "language": "en",
+  "title": "Long Lake",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "aaca82f9-c7e2-4bec-8495-7de1a5a83eff",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1943,
+    "url": "https://lh3.googleusercontent.com/-ju1Y6jsEBMw7nl6BCHMDcudiUBHRQpdC06cBkHulCFr2lWD1YTGd4BNYV3oEyMsVlxFFK-V0v0Qyajb5urrjfgNeSWeFYVOZoKsvc3Lvg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Long Lake"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Seneca Ray Stoddard",
+      "unFixedName": "Stoddard, Seneca Ray",
+      "placeOfBirth": "Wilton",
+      "dateOfBirth": "1844-05-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1917-05-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Glens Falls",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Seneca Ray Stoddard (13-mei-1844 - 03-mei-1917), New York"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Seneca Ray Stoddard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "New York"
+  ],
+  "dating": {
+    "presentingDate": "1891",
+    "sortingDate": 1891,
+    "period": 19,
+    "yearEarly": 1891,
+    "yearLate": 1891
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H14",
+      "25H214",
+      "46C232"
+    ],
+    "iconClassDescription": [
+      "island",
+      "lake",
+      "rowing-boat, canoe, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Long Lake"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1050A-6"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Seneca Ray Stoddard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Long Lake, Seneca Ray Stoddard, 1891",
+  "subTitle": "h 113mm \u00d7 w 175mm",
+  "scLabelLine": "Seneca Ray Stoddard, 1891, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

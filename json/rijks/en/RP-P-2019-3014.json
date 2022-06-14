@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2019-3014",
+  "priref": "736348",
+  "objectNumber": "RP-P-2019-3014",
+  "language": "en",
+  "title": "Ex libris van T.J. Shipton Green",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van T.J. Shipton Green",
+    "Respice finem"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Mussett",
+      "unFixedName": "Mussett",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Mussett"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Mussett",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2019-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "steel engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1800 - 1899",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Shipton Green, T.J."
+    ],
+    "objectNumbers": [
+      "RP-P-2019-3014"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Shipton Green, T.J."
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Mussett",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel engraving",
+  "longTitle": "Ex libris van T.J. Shipton Green, Mussett, 1800 - 1899",
+  "subTitle": "h 104mm \u00d7 w 70mm",
+  "scLabelLine": "Mussett, 1800 - 1899, steel engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

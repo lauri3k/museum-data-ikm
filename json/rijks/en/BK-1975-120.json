@@ -1,0 +1,127 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1975-120",
+  "priref": "352185",
+  "objectNumber": "BK-1975-120",
+  "language": "en",
+  "title": "Pot with a Green-Beige Glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f0585826-4763-4f09-a929-493bce1c84d6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/63FRpTRSJHfT5-MHNTJnnv_ah0o0NAdTi4OfQLI8ZuGpRhIkF73BUlyM37-uPMKKWL2EIb1F3LDLl80_K3_15c6LYwP9ZPLIic3ui8KC=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Pot van aardewerk bedekt met groen-beige glazuur en een rode vlek op de onderkant.",
+  "labelText": null,
+  "objectTypes": [
+    "pot"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Chris Lanooy",
+      "unFixedName": "Lanooy, Chris",
+      "placeOfBirth": "Sint Annaland",
+      "dateOfBirth": "1881-03-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1948-01-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Epe",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Chris Lanooy (16-mrt-1881 - 24-jan-1948), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Chris Lanooy",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1975-02-18T00:00:00",
+    "creditLine": "Gift of J.P.L. Stokhuyzen-de Jong, Oegstgeest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1900 - c. 1920",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1920
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1975-120"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Chris Lanooy",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "8.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Pot with a Green-Beige Glaze, Chris Lanooy, c. 1900 - c. 1920",
+  "subTitle": "h 7.3cm \u00d7 d 8.1cm",
+  "scLabelLine": "Chris Lanooy (1881-1948), glazed earthenware, c. 1900-1920",
+  "label": {
+    "title": "Pot with a Green-Beige Glaze",
+    "makerLine": "Chris Lanooy (1881-1948), glazed earthenware, c. 1900-1920",
+    "description": null,
+    "notes": null,
+    "date": "2019-07-17"
+  },
+  "showImage": true,
+  "location": null
+}

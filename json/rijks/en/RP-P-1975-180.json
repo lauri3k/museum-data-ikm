@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1975-180",
+  "priref": "198981",
+  "objectNumber": "RP-P-1975-180",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "663c5260-88e8-438d-b1a5-ad5c03da6f07",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1501,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/j5oESjdR-C-LBxEEufM7gyqJ7RdDVmKIW14krTldcG8c1QvyvtXVAmAEYNVcbG_ZXz-8f71DunI4OaNZnBA_0tkPEw0LB-S7Wd0jEVKksg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Martin Johann Schmidt",
+      "unFixedName": "Schmidt, Martin Johann",
+      "placeOfBirth": "Grafenw\u00f6rth",
+      "dateOfBirth": "1718-09-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1801-06-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Stein an der Donau",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Martin Johann Schmidt (25-sep-1718 - 28-jun-1801)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Martin Johann Schmidt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1975-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1773",
+    "sortingDate": 1773,
+    "period": 18,
+    "yearEarly": 1773,
+    "yearLate": 1773
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1975-180"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Martin Johann Schmidt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "237"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Johannes de Doper, Martin Johann Schmidt, 1773",
+  "subTitle": "h 237mm \u00d7 w 124mm",
+  "scLabelLine": "Martin Johann Schmidt, 1773, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

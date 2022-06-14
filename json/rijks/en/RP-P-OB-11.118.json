@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-11.118",
+  "priref": "31970",
+  "objectNumber": "RP-P-OB-11.118",
+  "language": "en",
+  "title": "Johannes de Doper water drinkend",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8d832561-56c4-430d-bf1e-88a4cb35bf11",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1994,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/qKm7_fMOMFsx1RcA68na_nci5Wia8_filNRfoFFCfk8rG88GXuVNvuuWYi--CMST3mgQwnAyHvjUA8N9OmZDOBdPWNIh=s0"
+  },
+  "colors": [
+    {
+      "percentage": 24,
+      "hex": "#D2CEBF"
+    },
+    {
+      "percentage": 24,
+      "hex": " #F3F1E4"
+    },
+    {
+      "percentage": 15,
+      "hex": " #888271"
+    },
+    {
+      "percentage": 12,
+      "hex": " #615F55"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A09C8F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #BAB7A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #41403A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D2CEBF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F3F1E4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #888271",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #615F55",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A09C8F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BAB7A9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #41403A",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 24,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 24,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 37,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper water drinkend"
+  ],
+  "description": "Johannes de Doper, zittend in een landschap met het lam naast hem, vang water op in een drinkschaal.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jonas Umbach",
+      "unFixedName": "Umbach, Jonas",
+      "placeOfBirth": "Augsburg",
+      "dateOfBirth": "1624",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1693-04-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": null,
+      "labelDesc": "Jonas Umbach (c. 1624 - 28-apr-1693), Augsburg"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jonas Umbach",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Augsburg"
+  ],
+  "dating": {
+    "presentingDate": "1634 - 1693",
+    "sortingDate": 1634,
+    "period": 17,
+    "yearEarly": 1634,
+    "yearLate": 1693
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-11.118"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Nagler K\u00fcnstlerlexikon 84",
+    "84"
+  ],
+  "principalOrFirstMaker": "Jonas Umbach",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "117"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "74"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Johannes de Doper water drinkend, Jonas Umbach, 1634 - 1693",
+  "subTitle": "h 117mm \u00d7 w 74mm",
+  "scLabelLine": "Jonas Umbach, 1634 - 1693, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

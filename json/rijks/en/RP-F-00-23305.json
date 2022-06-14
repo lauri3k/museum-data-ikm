@@ -1,0 +1,200 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-23305",
+  "priref": "822872",
+  "objectNumber": "RP-F-00-23305",
+  "language": "en",
+  "title": "Bowling Green, 1860",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bowling Green, 1860"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Arthur Jaff\u00e9",
+      "unFixedName": "Jaff\u00e9, Arthur",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Arthur Jaff\u00e9"
+    },
+    {
+      "name": "Arthur Jaff\u00e9",
+      "unFixedName": "Jaff\u00e9, Arthur",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Arthur Jaff\u00e9, New York (city)"
+    },
+    {
+      "name": "New-York Historical Society",
+      "unFixedName": "New-York Historical Society",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "museum",
+        "library",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object New-York Historical Society, New York (city)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, New York (city)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "New York (city)",
+    "New York (city)",
+    "New York (city)"
+  ],
+  "dating": {
+    "presentingDate": "c. 1925 - c. 1940",
+    "sortingDate": 1925,
+    "period": 20,
+    "yearEarly": 1925,
+    "yearLate": 1940
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I(+1)",
+      "43B42"
+    ],
+    "iconClassDescription": [
+      "city-view, and landscape with man-made constructions (+ city(-scape) with figures, staffage)",
+      "park"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Bowling Green"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-23305"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "140"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Bowling Green, 1860, anonymous, c. 1925 - c. 1940",
+  "subTitle": "h c.90mm \u00d7 w c.140mm",
+  "scLabelLine": "anonymous, c. 1925 - c. 1940, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

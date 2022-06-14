@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-19-73-1",
+  "priref": "698591",
+  "objectNumber": "RP-P-AO-19-73-1",
+  "language": "en",
+  "title": "Tekstblad uit Blaeu's 'Toneel der steden van de Vereenighde Nederlanden'",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f32362b2-3417-4041-aec8-7b996d5846d8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1533,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Kzq3XXjs1tyUUpbf_pZT838adR1NwpE0L2V0qmr0o1xEy2Q4vMFiiIaTE60i-0pKbZBvY6dPaXLRX19LDLHNQMn8TmlE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Tekstblad uit Blaeu's 'Toneel der steden van de Vereenighde Nederlanden'",
+    "Toegift, inhoudende sommige steden op de grensen van 't koninglyck Nederlant gelegen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "text sheet"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Willemszoon Blaeu",
+      "unFixedName": "Blaeu, Johannes Willemszoon",
+      "placeOfBirth": "Alkmaar",
+      "dateOfBirth": "1596-09-23",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1673-05-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Johannes Willemszoon Blaeu (23-sep-1596 - 28-mei-1673), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Willemszoon Blaeu",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1652",
+    "sortingDate": 1652,
+    "period": 17,
+    "yearEarly": 1652,
+    "yearLate": 1652
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-AO-19-73-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Willemszoon Blaeu",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "565"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "339"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Tekstblad uit Blaeu's 'Toneel der steden van de Vereenighde Nederlanden', Johannes Willemszoon Blaeu, 1652",
+  "subTitle": "h 565mm \u00d7 w 339mm",
+  "scLabelLine": "Johannes Willemszoon Blaeu, 1652, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

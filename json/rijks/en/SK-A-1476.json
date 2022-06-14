@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1476",
+  "priref": "7398",
+  "objectNumber": "SK-A-1476",
+  "language": "en",
+  "title": "Portrait of William Frederick, Prince of Orange-Nassau, later King William I, as a Child",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f6613968-00af-4eac-858e-e6ac71f86307",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2128,
+    "height": 2557,
+    "url": "https://lh5.ggpht.com/lB8-PGdwesj4iH6kGNclPBN3sy81Wz0eQo9nNPFxg2e-_q2Aebrr9TBlJBH1dKu2crZIEfbzE0pdrR1LBf2QGE_TJw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#26261B"
+    },
+    {
+      "percentage": 27,
+      "hex": " #5A6752"
+    },
+    {
+      "percentage": 12,
+      "hex": " #7D8E7E"
+    },
+    {
+      "percentage": 7,
+      "hex": " #CFC3A5"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A99253"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F0EBD5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D7C664"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#26261B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5A6752",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7D8E7E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CFC3A5",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A99253",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F0EBD5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D7C664",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of William Frederick, Prince of Orange-Nassau, later King William I, as a Child"
+  ],
+  "description": "Portret van Willem Frederik (1772-1843), prins van Oranje-Nassau (later koning Willem I), als kind. Ten halven lijve, aanziend, de linkerhand in de zij. Op het hoofd een hoed met pluim. Pendant van SK-A-1477.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1888-11-01T00:00:00",
+    "creditLine": "Gift of E., Baron van Lynden, Vaassen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1775",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17721800"
+    ],
+    "places": [],
+    "people": [
+      "Willem I (koning der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "SK-A-1476"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (koning der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "46"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "39"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of William Frederick, Prince of Orange-Nassau, later King William I, as a Child, anonymous, c. 1775",
+  "subTitle": "h 46cm \u00d7 w 39cm \u00d7 d 6cm",
+  "scLabelLine": "anonymous, c. 1775, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

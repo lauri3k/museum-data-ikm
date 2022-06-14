@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2015-60",
+  "priref": "599657",
+  "objectNumber": "RP-P-2015-60",
+  "language": "en",
+  "title": "Double Portrait of the Brothers Konrad and Franz Eberhard, Painter and Sculptor",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f094aa3f-a80d-40c4-8225-183285df493b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2438,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/_jswv2XNxGufGhl8m2V9AXnoRL52msZVNME0ofGGPDBGpwSfCRX-NWA615a5hx2VSdXJW7YvZbpXl5XICUkEIQdBpue62aEOa_Z4dM2b=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Anton Ramboux",
+      "unFixedName": "Ramboux, Johann Anton",
+      "placeOfBirth": "Trier",
+      "dateOfBirth": "1790-10-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1866-10-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Keulen",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Anton Ramboux (05-okt-1790 - 02-okt-1866)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Anton Ramboux",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2016-01-21T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1822",
+    "sortingDate": 1822,
+    "period": 19,
+    "yearEarly": 1822,
+    "yearLate": 1822
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "48C23",
+      "42G2221",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "portrait, self-portrait of sculptor",
+      "brothers (second degree family relationships)",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Eberhard, Konrad",
+      "Eberhard, Franz"
+    ],
+    "objectNumbers": [
+      "RP-P-2015-60"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Eberhard, Konrad",
+    "Eberhard, Franz"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frances Carey in: Julia Batrum (red.), German Romantic prints and drawings from a private collection, Londen 2011, nr. 7"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Anton Ramboux",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "430"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "436"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Double Portrait of the Brothers Konrad and Franz Eberhard, Painter and Sculptor, Johann Anton Ramboux, 1822",
+  "subTitle": "h 430mm \u00d7 w 436mm",
+  "scLabelLine": "Johann Anton Ramboux (1790-1866), lithograph, 1822",
+  "label": {
+    "title": "Double Portrait of the Brothers Konrad and Franz Eberhard, Painter and Sculptor",
+    "makerLine": "Johann Anton Ramboux (1790-1866), lithograph, 1822",
+    "description": "Ramboux made few portraits, and then mostly of friends and colleagues. The friendship portrait genre was popular among German Romantics. The simplicity they so loved is manifest in this iconic example: no attributes, hand gestures or caresses are needed. The fact that the sitters are depicted shoulder to shoulder and that Franz is looking at his brother is sufficient to emphasize their close ties.",
+    "notes": null,
+    "date": "2020-01-31"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1921-349",
+  "priref": "78375",
+  "objectNumber": "RP-P-1921-349",
+  "language": "en",
+  "title": "Hagar en Isma\u00ebl in de woestijn",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5b48c8e5-12ae-4a5a-a6f0-eedab652d7ff",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2001,
+    "url": "https://lh3.googleusercontent.com/C0kuJaJyYknPH7Hya6aQh4PVCHBK_Q1_tqpe3r-fK8_P6pF3T3y3xAOa59v1KmsfspYEfa9OetvVQKNiGWZH52s0dUM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Hagar en Isma\u00ebl in de woestijn"
+  ],
+  "description": "Hagar en Isma\u00ebl zitten in de woestijn. Rechts verschijnt de aartsengel Micha\u00ebl die moeder en zoon komt redden. Italiaans vers in ondermarge. Genummerd linksonder: No. 14-3.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Joseph Wagner",
+      "unFixedName": "Wagner, Joseph",
+      "placeOfBirth": "Th\u00e4lendorf",
+      "dateOfBirth": "1706",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1780",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker",
+        "painter",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Venice"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Wagner (1706 - 1780), Venice"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Fabio Berardi",
+      "unFixedName": "Berardi, Fabio",
+      "placeOfBirth": "Siena",
+      "dateOfBirth": "1728",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1767",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Fabio Berardi (1728 - 1767), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Fabio Berardi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1921-01-01T00:00:00",
+    "creditLine": "J.G. de Groot Jamin Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Venice"
+  ],
+  "dating": {
+    "presentingDate": "1738 - 1767",
+    "sortingDate": 1738,
+    "period": 18,
+    "yearEarly": 1738,
+    "yearLate": 1767
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71C128"
+    ],
+    "iconClassDescription": [
+      "the banishment of Hagar and Ishmael (Genesis 21:9-21)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1921-349"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Nagler/Meyer 1",
+    "1",
+    "LeBlanc 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "Fabio Berardi",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "421"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "525"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Hagar en Isma\u00ebl in de woestijn, Fabio Berardi, 1738 - 1767",
+  "subTitle": "h 421mm \u00d7 w 525mm",
+  "scLabelLine": "Fabio Berardi, 1738 - 1767, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

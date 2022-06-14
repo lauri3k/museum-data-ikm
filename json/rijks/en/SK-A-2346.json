@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2346",
+  "priref": "7726",
+  "objectNumber": "SK-A-2346",
+  "language": "en",
+  "title": "Still Life with Fruit",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "79267b1f-3ee1-4073-9c9e-d1dab0c6e51e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2302,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/dfk6qaSRADC5or7Ltxb2XP2pTxK0W4P7TTyIQnBiandlHD1cZKwz5FO-nUp1k-ZuJAAhxmoxnt1JwgRDZUtsxeZTUA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#161611"
+    },
+    {
+      "percentage": 46,
+      "hex": " #372D23"
+    },
+    {
+      "percentage": 12,
+      "hex": " #635C47"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8D6D46"
+    },
+    {
+      "percentage": 0,
+      "hex": " #95875F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #713823"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#161611",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #372D23",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #635C47",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8D6D46",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #95875F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #713823",
+      "normalizedHex": "#981313"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 84,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Still Life with Fruit"
+  ],
+  "description": "Stilleven met vruchten. Op een stenen tafel liggen in een rietenmand enkele trossen blauwe en witte druiven, witte aalbessen, abrikozen, perziken, kastanjes, kersen en frambozen. Tussen de vruchten enkele insecten en slakken.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob van Walscapelle",
+      "unFixedName": "Walscapelle, Jacob van",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1644-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1727-08-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob van Walscapelle (mei-1644 - 16-aug-1727)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob van Walscapelle",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1670 - c. 1727",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1727
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C653",
+      "41E1"
+    ],
+    "iconClassDescription": [
+      "fruit",
+      "still life of related objects"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2346"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob van Walscapelle",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "68"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Still Life with Fruit, Jacob van Walscapelle, c. 1670 - c. 1727",
+  "subTitle": "h 68cm \u00d7 w 63cm \u00d7 d 6.8cm",
+  "scLabelLine": "Jacob van Walscapelle (1644\u20131727), oil on canvas, c. 1670\u20131727\n",
+  "label": {
+    "title": "Still Life with Fruit",
+    "makerLine": "Jacob van Walscapelle (1644\u20131727), oil on canvas, c. 1670\u20131727\n",
+    "description": "Various types of fruit are arranged in a basket on a stone table. These include bunches of red and white grapes, currents, apricots, peaches, chestnuts, cherries and raspberries. Insects are crawling among the fruit and there is even a snail. Van Walscapelle employed a marvellously colourful pallet and rendered the fruit with remarkable feeling for texture.",
+    "notes": null,
+    "date": "2015-09-22"
+  },
+  "showImage": true,
+  "location": null
+}

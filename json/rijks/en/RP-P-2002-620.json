@@ -1,0 +1,189 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2002-620",
+  "priref": "664662",
+  "objectNumber": "RP-P-2002-620",
+  "language": "en",
+  "title": "Spotprent met Daniel O'Connell en Lord Russell",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Spotprent met Daniel O'Connell en Lord Russell",
+    "Little Red-Riding Hood's meeting with the Wolf",
+    "HB Sketches"
+  ],
+  "description": "Spotprent met Daniel O'Connell als de wolf en Lord Russell als Roodkapje. Uitgegeven als nr. 385 in de serie HB Sketches.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "A. Duc\u00f4te",
+      "unFixedName": "Duc\u00f4te, A.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object A. Duc\u00f4te, London"
+    },
+    {
+      "name": "Thomas McLean",
+      "unFixedName": "McLean, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1788",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1875",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas McLean (1788 - 1875), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Doyle",
+      "unFixedName": "Doyle, John",
+      "placeOfBirth": null,
+      "dateOfBirth": "1797",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1868",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Doyle (1797 - 1868), England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Doyle",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2002-01-01T00:00:00",
+    "creditLine": "Gift of J.U. Flohil-de Jong, Santpoort-Zuid"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "England",
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1835",
+    "sortingDate": 1835,
+    "period": 19,
+    "yearEarly": 1835,
+    "yearLate": 1835
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18351835"
+    ],
+    "places": [],
+    "people": [
+      "Russell, John",
+      "O'Connell, Daniel"
+    ],
+    "objectNumbers": [
+      "RP-P-2002-620"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Russell, John",
+    "O'Connell, Daniel"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Doyle",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "443"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "300"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Spotprent met Daniel O'Connell en Lord Russell, John Doyle, 1835",
+  "subTitle": "h 443mm \u00d7 w 300mm",
+  "scLabelLine": "John Doyle, 1835, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

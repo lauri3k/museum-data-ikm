@@ -1,0 +1,248 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1961-869",
+  "priref": "37252",
+  "objectNumber": "RP-P-1961-869",
+  "language": "en",
+  "title": "The Enclosed Valley",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "446f06f5-7c58-434a-9bac-ea514a9c4fe8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1500,
+    "height": 890,
+    "url": "https://lh5.ggpht.com/MCOFXAgMqMI8B3fVnoRG_gaPbrAU38fe0OvLDnVVm9wilfwxzL134PMzXtOC_ve3feoIhDGmQeahmaTXS-Eip9j4grM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#827D6E"
+    },
+    {
+      "percentage": 25,
+      "hex": " #98968B"
+    },
+    {
+      "percentage": 18,
+      "hex": " #615E55"
+    },
+    {
+      "percentage": 11,
+      "hex": " #454440"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F9F8F7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DFDCD7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BEB9AF"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#827D6E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #98968B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #615E55",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #454440",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F9F8F7",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #DFDCD7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BEB9AF",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 30,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 11,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "The Enclosed Valley"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hercules Segers",
+      "unFixedName": "Segers, Hercules",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1640",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hercules Segers (c. 1590 - c. 1640), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hercules Segers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1961-01-01T00:00:00",
+    "creditLine": "Mr and Mrs De Bruijn-van der Leeuw Bequest, Muri, Switzerland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "linen (material)"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "? Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1625 - c. 1630",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1630
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H12"
+    ],
+    "iconClassDescription": [
+      "dale, valley"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1961-869"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 13",
+    "13",
+    "Leeflang 13",
+    "13",
+    "Haverkamp-Begemann 13",
+    "13"
+  ],
+  "principalOrFirstMaker": "Hercules Segers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "108"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "194"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "line etching, printed in black on linen prepared with a grey, lead-based ground, coloured with paint in transparent light brown, a more opaque dark grey and transparent light grey",
+  "longTitle": "The Enclosed Valley, Hercules Segers, c. 1625 - c. 1630",
+  "subTitle": "h c.108mm \u00d7 w c.194mm",
+  "scLabelLine": "line etching, on linen with a grey ground, coloured with the brush, first state of four, c. 1625-1630",
+  "label": {
+    "title": "The Enclosed Valley",
+    "makerLine": "line etching, on linen with a grey ground, coloured with the brush, first state of four, c. 1625-1630",
+    "description": "The earliest impressions of this etching are on linen. By painting the foreground with brown paint and the background with grey or blue, Segers subsequently added a subtle colour perspective.",
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

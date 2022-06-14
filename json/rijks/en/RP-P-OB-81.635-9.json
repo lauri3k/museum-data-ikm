@@ -1,0 +1,328 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.635-9",
+  "priref": "463718",
+  "objectNumber": "RP-P-OB-81.635-9",
+  "language": "en",
+  "title": "De begrafenisstoet van Frederik Hendrik (tekstblad 9), 1647",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5f9c59a5-3bb8-41a2-89b1-ea97fe33f4bd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1420,
+    "height": 2616,
+    "url": "https://lh4.ggpht.com/1uCjoEo84Ep_hRd0lpmdTGpuSsR38OCRW-04aRptIlE7QR_tJge5baUxSRSjd88ORLRkvLblkFbkHU62YuvTKm8gSZhz=s0"
+  },
+  "colors": [
+    {
+      "percentage": 58,
+      "hex": "#F6F0D8"
+    },
+    {
+      "percentage": 12,
+      "hex": " #DDD3B9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #756D5E"
+    },
+    {
+      "percentage": 11,
+      "hex": " #BAB3A2"
+    },
+    {
+      "percentage": 10,
+      "hex": " #968E80"
+    },
+    {
+      "percentage": 1,
+      "hex": " #564E41"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F0D8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DDD3B9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #756D5E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BAB3A2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #968E80",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #564E41",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#FFF8DC"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FFEFD5"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 82,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "De begrafenisstoet van Frederik Hendrik (tekstblad 9), 1647",
+    "De begrafenisstoet van stadhouder Frederik Hendrik te 's-Gravenhage in 1647",
+    "Begraeffenisse van Syne Hoogheyt Frederick Henrick, by der Gratien Gods Prince van Orange, Grave van Nassau &c"
+  ],
+  "description": "Tekstblad nr. 9 bij de prentserie van de begrafenisstoet van stadhouder Frederik Hendrik te 's-Gravenhage op 10 mei 1647. Onderdeel van een serie van 30 platen en 20 tekstbladen, bedoeld om aan elkaar geplakt te worden.",
+  "labelText": null,
+  "objectTypes": [
+    "text sheet"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Jansz. Post",
+      "unFixedName": "Post, Pieter Jansz.",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1608",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-05-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Jansz. Post (1608 - 02-mei-1669), The Hague"
+    },
+    {
+      "name": "Pieter Nolpe",
+      "unFixedName": "Nolpe, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1614",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1653",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Nolpe (c. 1614 - c. 1653), Amsterdam"
+    },
+    {
+      "name": "Nicolaes van Ravesteyn",
+      "unFixedName": "Ravesteyn, Nicolaes van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Nicolaes van Ravesteyn, Amsterdam"
+    },
+    {
+      "name": "Staten van Holland en West-Friesland",
+      "unFixedName": "Staten van Holland en West-Friesland",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Staten van Holland en West-Friesland"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter Jansz. Post",
+      "unFixedName": "Post, Pieter Jansz.",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1608",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-05-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Jansz. Post (1608 - 02-mei-1669), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Jansz. Post",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2008-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "The Hague",
+    "The Hague",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1651",
+    "sortingDate": 1651,
+    "period": 17,
+    "yearEarly": 1651,
+    "yearLate": 1651
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Begrafenis van Frederik Hendrik"
+    ],
+    "periods": [
+      "1647-05-101647-05-10"
+    ],
+    "places": [
+      "Den Haag"
+    ],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-81.635-9"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 272, nr. 1924/tekstblad."
+  ],
+  "catRefRPK": [
+    "FMH 1924",
+    "1924",
+    "Hollstein Dutch 174-203",
+    "174-203",
+    "Atlas van Stolk 1929",
+    "1929",
+    "Orn Cat II 9788-9819",
+    "9788-9819"
+  ],
+  "principalOrFirstMaker": "Pieter Jansz. Post",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "253"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "De begrafenisstoet van Frederik Hendrik (tekstblad 9), 1647, Pieter Jansz. Post, 1651",
+  "subTitle": "h c.253mm \u00d7 w c.130mm",
+  "scLabelLine": "Pieter Jansz. Post, 1651, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

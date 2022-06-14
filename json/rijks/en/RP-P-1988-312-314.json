@@ -1,0 +1,267 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1988-312-314",
+  "priref": "432703",
+  "objectNumber": "RP-P-1988-312-314",
+  "language": "en",
+  "title": "Doornenkroning van Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "aebc5f0b-887b-4a15-98ec-0f8661da3a78",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1766,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/H7YoekouRwTgCo1-qn-qRPQm-_uKsOHlCqSt514plj07T_wyRaZGLLOCl3ljW9It__MaUfyNv598CSqFM1NI3F28jpY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 17,
+      "hex": "#EDEAD4"
+    },
+    {
+      "percentage": 25,
+      "hex": " #C1BFA8"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A3A28B"
+    },
+    {
+      "percentage": 23,
+      "hex": " #84846D"
+    },
+    {
+      "percentage": 14,
+      "hex": " #62634D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #3B3E2C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDEAD4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C1BFA8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A3A28B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #84846D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #62634D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #3B3E2C",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 25,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 23,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 17,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 43,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 23,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 16,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 16,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Doornenkroning van Christus",
+    "Leven en passie van Christus",
+    "Thesaurus novi Testamenti elegantissimis iconibus expressus continens historias atque miracula doni nostri Iesu Christi"
+  ],
+  "description": "Soldaten duwen met stokken de doornenkroon op het hoofd van de met touwen geboeide Christus. Een man zit in geknielde houding voor Christus en bespot hem. Onder de voorstelling een vierregelig vers in het Latijn. Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gerard de Jode",
+      "unFixedName": "Jode, Gerard de",
+      "placeOfBirth": "Nijmegen",
+      "dateOfBirth": "1516",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1591-02-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Gerard de Jode (c. 1516 - 05-feb-1591), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Antonie Wierix (II)",
+      "unFixedName": "Wierix, Antonie (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1559",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1604-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Antonie Wierix (II) (c. 1559 - mrt-1604)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antonie Wierix (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1988-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1585",
+    "sortingDate": 1585,
+    "period": 16,
+    "yearEarly": 1585,
+    "yearLate": 1585
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1988-312-314"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "H. Mielke, 'Antwerpener Graphik in der 2. H\u00e4lfte des 16. Jahrhunderts. Der Thesaurus veteris Testamenti des Gerard de Jode (1585) und seine K\u00fcnstler', Zeitschrift f\u00fcr Kunstgeschichte 38 (1975), p. 83, cat.nr. 57."
+  ],
+  "catRefRPK": [
+    "Mielke 57",
+    "57",
+    "Hollstein Dutch 103",
+    "103",
+    "Hollstein Dutch 449",
+    "449"
+  ],
+  "principalOrFirstMaker": "Antonie Wierix (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "204"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "123"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning van Christus, Antonie Wierix (II), 1585",
+  "subTitle": "h 204mm \u00d7 w 123mm",
+  "scLabelLine": "Antonie Wierix (II), 1585, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

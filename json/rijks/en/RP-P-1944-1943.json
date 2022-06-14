@@ -1,0 +1,190 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1944-1943",
+  "priref": "42624",
+  "objectNumber": "RP-P-1944-1943",
+  "language": "en",
+  "title": "The Long Gallery, Louvre",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "688df3fd-84f4-472b-a6c0-cbb1f79dab3a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3741,
+    "height": 5357,
+    "url": "https://lh6.ggpht.com/Ux9b77P8ie4-AriDo-tTPZoldA3gySgYg0bwe_aGp3pzoulSxG8eRTIlsg1BprDQIcCMWUxedzGBetZFQK6n1haDBw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The Long Gallery, Louvre"
+  ],
+  "description": "De Grande Galerie in het Louvre met vele bezoekers. Rechts een schilder aan het werk.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Thomas Robert Way",
+      "unFixedName": "Way, Thomas Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1861-08-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1913-03-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Thomas Robert Way (13-aug-1861 - 01-mrt-1913), London"
+    },
+    {
+      "name": "The Studio",
+      "unFixedName": "Studio, The",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The Studio, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "James Abbott McNeill Whistler",
+      "unFixedName": "Whistler, James Abbott McNeill",
+      "placeOfBirth": "Lowell",
+      "dateOfBirth": "1834-07-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1903-07-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Chelsea",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object James Abbott McNeill Whistler (10-jul-1834 - 17-jul-1903)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "James Abbott McNeill Whistler",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1944-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1894",
+    "sortingDate": 1894,
+    "period": 19,
+    "yearEarly": 1894,
+    "yearLate": 1894
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A821"
+    ],
+    "iconClassDescription": [
+      "permanent exhibition, museum"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Mus\u00e9e du Louvre"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1944-1943"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Levy 83",
+    "83"
+  ],
+  "principalOrFirstMaker": "James Abbott McNeill Whistler",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "288"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "202"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "The Long Gallery, Louvre, James Abbott McNeill Whistler, 1894",
+  "subTitle": "h 288mm \u00d7 w 202mm",
+  "scLabelLine": "James Abbott McNeill Whistler, 1894, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

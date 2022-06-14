@@ -1,0 +1,175 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2006-6-37",
+  "priref": "727242",
+  "objectNumber": "RP-F-2006-6-37",
+  "language": "en",
+  "title": "Drie keer de hond Black",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "65cba67d-5b18-49f5-9a3f-8e95aef92ca8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2077,
+    "url": "https://lh3.googleusercontent.com/CA38JX4nFbrz4jUcakY5OLeuIO0Wwj1FQzEEHrKr2rTm5ZufkE4ASYrBpcMMqSV-0fdrGszFBgsvPHnO0LjgCqT0GSKyVYeHcCmOM4z8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Drie keer de hond Black"
+  ],
+  "description": "Deze pagina maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Berti Hoppe",
+      "unFixedName": "Hoppe, Berti",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rotterdam"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Berti Hoppe, Rotterdam"
+    },
+    {
+      "name": "W. Greeven",
+      "unFixedName": "Greeven, W.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object W. Greeven"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Herman Besselaar",
+      "unFixedName": "Besselaar, Herman",
+      "placeOfBirth": null,
+      "dateOfBirth": "1904",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1994",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rotterdam"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Herman Besselaar (1904 - 1994), Rotterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Herman Besselaar",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": "Gift of S. Monster-Besselaar, Mijnsheerenland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "Rotterdam",
+    "Rotterdam"
+  ],
+  "dating": {
+    "presentingDate": "1938",
+    "sortingDate": 1938,
+    "period": 20,
+    "yearEarly": 1938,
+    "yearLate": 1938
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "34B11"
+    ],
+    "iconClassDescription": [
+      "dog"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Rotterdam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2006-6-37"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Herman Besselaar",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "221"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "320"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Drie keer de hond Black, Herman Besselaar (possibly), 1938",
+  "subTitle": "h 221mm \u00d7 w 320mm",
+  "scLabelLine": "Herman Besselaar, 1938, gelatin silver print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

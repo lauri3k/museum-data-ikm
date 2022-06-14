@@ -1,0 +1,299 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1960-370",
+  "priref": "45561",
+  "objectNumber": "RP-P-1960-370",
+  "language": "en",
+  "title": "Long Leg and Long Arm",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6f983d22-d5d7-45c7-bcac-95ef710b5521",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2652,
+    "height": 2017,
+    "url": "https://lh4.ggpht.com/XCdgE7UM9VTTBdw568S_syKQRnTfM5ZKqhdyla0XtB1wUIpAvz2dzyXRXhCpvluTVTjfaw0Lfrmx-uBpc55ioyiHEoc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 60,
+      "hex": "#DBD3B6"
+    },
+    {
+      "percentage": 26,
+      "hex": " #EFECD9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C1B497"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9C9174"
+    },
+    {
+      "percentage": 1,
+      "hex": " #817B63"
+    },
+    {
+      "percentage": 1,
+      "hex": " #6B624E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFEF4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DBD3B6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EFECD9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C1B497",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9C9174",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #817B63",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6B624E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FFFEF4",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 26,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 87,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Long Leg and Long Arm"
+  ],
+  "description": "Twee legendarische figuren zijn afgebeeld met drie bijpassende gedichten. E\u00e9n figuur met lange benen (ashinaga) bewondert een schildering van een aap, de andere met lange armen (tenaga) houdt een dienblad met een perzik vast. Drie gedichten.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Yomo Magao",
+      "unFixedName": "Magao, Yomo",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Yomo Magao, Japan"
+    },
+    {
+      "name": "Iwakad\u00f4 Akikata",
+      "unFixedName": "Akikata, Iwakad\u00f4",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Iwakad\u00f4 Akikata, Japan"
+    },
+    {
+      "name": "Zeniya Kinrachi",
+      "unFixedName": "Kinrachi, Zeniya",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Zeniya Kinrachi, Japan"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Momokawa Ch\u00f4ki",
+      "unFixedName": "Ch\u00f4ki, Momokawa",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Momokawa Ch\u00f4ki, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Momokawa Ch\u00f4ki",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "color woodcut"
+  ],
+  "productionPlaces": [
+    "Japan",
+    "Japan",
+    "Japan",
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1800",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F22"
+    ],
+    "iconClassDescription": [
+      "monkeys, apes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1960-370"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Forrer 43",
+    "43",
+    "Jap Cat II 104",
+    "104"
+  ],
+  "principalOrFirstMaker": "Momokawa Ch\u00f4ki",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "141"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "188"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "nishikie, with metallic pigments",
+  "longTitle": "Long Leg and Long Arm, Momokawa Ch\u00f4ki, 1800",
+  "subTitle": "h 141mm \u00d7 w 188mm",
+  "scLabelLine": "Momokawa Ch\u00f4ki, 1800, nishikie, with metallic pigments",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

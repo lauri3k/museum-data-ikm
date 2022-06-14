@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1896-A-19368-84",
+  "priref": "142506",
+  "objectNumber": "RP-P-1896-A-19368-84",
+  "language": "en",
+  "title": "Triomfboog te Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "58655a5d-37ef-4b44-a56b-1c1f99d4a0dd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2849,
+    "url": "https://lh3.googleusercontent.com/T5xJuhgxqzJgWvCzm2VQZfTDxaKBm0WXNIpYTq_R94EitP8ZyBAE5O8voEU3auTRjBmOwpeeLda6yCwNuEW6o6aVi2tG=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Triomfboog te Orange"
+  ],
+  "description": "Prent rechtsboven gemerkt: Pag. 6. Tom. I.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hendrick en Dirk Boom",
+      "unFixedName": "Boom, Hendrick en Dirk",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hendrick en Dirk Boom, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Luyken",
+      "unFixedName": "Luyken, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1649-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1712-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Luyken (16-apr-1649 - 05-apr-1712), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Luyken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1896-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1679",
+    "sortingDate": 1679,
+    "period": 17,
+    "yearEarly": 1679,
+    "yearLate": 1679
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A422"
+    ],
+    "iconClassDescription": [
+      "triumphal arch"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1896-A-19368-84"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Van Eeghen 91",
+    "91"
+  ],
+  "principalOrFirstMaker": "Jan Luyken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "123"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "127"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Triomfboog te Orange, Jan Luyken, 1679",
+  "subTitle": "h 123mm \u00d7 w 127mm",
+  "scLabelLine": "Jan Luyken, 1679, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

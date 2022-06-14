@@ -1,0 +1,173 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-VG-1-851",
+  "priref": "58012",
+  "objectNumber": "NG-VG-1-851",
+  "language": "en",
+  "title": "Dood van Maarten Harpertsz. Tromp, gesneuveld bij Katwijk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0ab00703-da2b-43f9-ae23-16fe89834e2f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1241,
+    "url": "https://lh3.googleusercontent.com/urVdRnMJfxAks3N-S2BTpRLn1UorvZ-hZpPIeLGk9ZYPdKvfXww5RBCo1b63wLON6eiQd_fkuyJ_6_972umhI2Yv2oMVJN2ShUWYO8Mq=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dood van Maarten Harpertsz. Tromp, gesneuveld bij Katwijk"
+  ],
+  "description": "Zilveren penning met draagoog. Voorzijde: borststuk man met ordeteken van Sint Micha\u00ebl binnen omschrift en lauwerkrans. Keerzijde: zeeslag binnen omschrift.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Dirk van Rijswijck",
+      "unFixedName": "Rijswijck, Dirk van",
+      "placeOfBirth": "Kleef",
+      "dateOfBirth": "1596",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1679",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dirk van Rijswijck (1596 - after 1679), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Lievens",
+      "unFixedName": "Lievens, Jan",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1607-10-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1674-06-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Lievens (24-okt-1607 - 04-jun-1674)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Lievens",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "Gift of J.M. van Gelder-Nijhoff"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [
+    "striking (metalworking)"
+  ],
+  "productionPlaces": [
+    "Middelburg",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1653",
+    "sortingDate": 1653,
+    "period": 17,
+    "yearEarly": 1653,
+    "yearLate": 1653
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Zeeslag bij Terheide"
+    ],
+    "periods": [
+      "1653-08-101653-08-10"
+    ],
+    "places": [
+      "Ter Heijde",
+      "Monster"
+    ],
+    "people": [
+      "Tromp, Maarten Harpertszoon"
+    ],
+    "objectNumbers": [
+      "NG-VG-1-851"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Tromp, Maarten Harpertszoon"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "M.D.M., 'Is de penning - Van Loon II, blz 478 - door de Staten van Zeeland uitgegeven, wegens het redden van het gezonken schip en de lading van hopman Waterdrinker, door Jan Looff vervaardigd?', Jaarboek voor Munt- en Penningkunde (1906) 15, p. 297-301[met name p. 300].",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Lievens",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "5.5"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "37.71"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "striking (metalworking)",
+  "longTitle": "Dood van Maarten Harpertsz. Tromp, gesneuveld bij Katwijk, Jan Lievens, 1653",
+  "subTitle": "l 6cm",
+  "scLabelLine": "Jan Lievens, 1653, striking (metalworking)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

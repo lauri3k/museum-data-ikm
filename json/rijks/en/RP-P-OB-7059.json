@@ -1,0 +1,266 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-7059",
+  "priref": "312593",
+  "objectNumber": "RP-P-OB-7059",
+  "language": "en",
+  "title": "Portret van Godard van Reede van Nederhorst",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "22dc61c1-e2c7-4521-a67a-246a7a208df1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1646,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/TIVoF35JlIPxB9RQqohE2dOGt-m8Oz79Lzodj_YjVmoremeW3ndK1hwFz3YczfxnuQH9lrZtm4cukHOg_KENH5fVqyI2=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#F8F2D8"
+    },
+    {
+      "percentage": 31,
+      "hex": " #D3CCB3"
+    },
+    {
+      "percentage": 29,
+      "hex": " #A29C88"
+    },
+    {
+      "percentage": 16,
+      "hex": " #817B6B"
+    },
+    {
+      "percentage": 12,
+      "hex": " #656051"
+    },
+    {
+      "percentage": 9,
+      "hex": " #49463B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F8F2D8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D3CCB3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A29C88",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #817B6B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #656051",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #49463B",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 29,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 16,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 32,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 29,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 29,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Portret van Godard van Reede van Nederhorst",
+    "Celeberrimi ad pacificandum Christiani nominis orbem legati Monasterium et Osnabrugas (...)"
+  ],
+  "description": "Portret van Godard van Reede van Nederhorst, afgezant van de provincie Utrecht, tijdens de onderhandelingen voor de Vrede van M\u00fcnster. Portret in ovaal met randschrift. Boven het portret het wapen van de Zeven verenigde provinci\u00ebn, onder het familiewapen van Van Reede.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Ferdinand III (Duits keizer)",
+      "unFixedName": "Ferdinand III (Duits keizer)",
+      "placeOfBirth": "Gratz",
+      "dateOfBirth": "1608-07-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1657-04-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Wenen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ferdinand III (Duits keizer) (13-jul-1608 - 02-apr-1657)"
+    },
+    {
+      "name": "Staten-Generaal",
+      "unFixedName": "Staten-Generaal",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Staten-Generaal"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Galle (II)",
+      "unFixedName": "Galle, Cornelis (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1615",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-10-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (II) (1615 - 18-okt-1678), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Galle (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1648",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1648
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede van Nederhorst, Godard van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-7059"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede van Nederhorst, Godard van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 219-308",
+    "219-308"
+  ],
+  "principalOrFirstMaker": "Cornelis Galle (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "308"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "195"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Godard van Reede van Nederhorst, Cornelis Galle (II), 1648",
+  "subTitle": "h 308mm \u00d7 w 195mm",
+  "scLabelLine": "Cornelis Galle (II), 1648, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

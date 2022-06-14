@@ -1,0 +1,325 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-44.071",
+  "priref": "142484",
+  "objectNumber": "RP-P-OB-44.071",
+  "language": "en",
+  "title": "Overwintering op Nova Zembla, 1596-1597",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7c07909e-398b-43c3-a5f7-ef875d4682a8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2712,
+    "height": 2080,
+    "url": "https://lh6.ggpht.com/dOy0XPuNdTsnduqPa-ibPt_I-THTm2tNB-csnco_7aK7YGaAPWk2BJII9TUI3FiuRXWZS6qys7dRQhKACVSENOhhsgY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#F4EED9"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A5A08C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #86806D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696453"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C9C3AB"
+    },
+    {
+      "percentage": 4,
+      "hex": " #464439"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4EED9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A5A08C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #86806D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #696453",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C9C3AB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #464439",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#FFF8DC"
+    },
+    {
+      "percentage": 18,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 13,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Overwintering op Nova Zembla, 1596-1597",
+    "Hoedaanig de Hollanders in de Jaaren 1596. en 1597. in Nova Zembla hebben overwintert"
+  ],
+  "description": "Vier sc\u00e8nes uit de overwintering op Nova Zembla, 1596-1597. De bemanning aangevallen door ijsberen, het redden van goederen uit het schip, het schieten en slachten van een ijsbeer, het klaarmaken van de sloepen voor vertrek.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe Joannes van Someren",
+      "unFixedName": "Someren, weduwe Joannes van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "weduwe Joannes van Someren"
+    },
+    {
+      "name": "Abraham Wolfgang",
+      "unFixedName": "Wolfgang, Abraham",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham Wolfgang"
+    },
+    {
+      "name": "Hendrick en Dirk Boom",
+      "unFixedName": "Boom, Hendrick en Dirk",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Hendrick en Dirk Boom"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Luyken",
+      "unFixedName": "Luyken, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1649-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1712-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Luyken (16-apr-1649 - 05-apr-1712), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Luyken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1730",
+    "sortingDate": 1730,
+    "period": 18,
+    "yearEarly": 1730,
+    "yearLate": 1730
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25K26",
+      "25K24",
+      "25F23(POLAR BEAR)",
+      "49I1"
+    ],
+    "iconClassDescription": [
+      "icefield",
+      "island (in polar regions)",
+      "beasts of prey, predatory animals: polar bear",
+      "exploration, expedition, voyage of discovery"
+    ],
+    "motifs": [],
+    "events": [
+      "Overwintering op Nova Zembla"
+    ],
+    "periods": [
+      "15961597"
+    ],
+    "places": [
+      "Nova Zembla",
+      "Behouden Huys"
+    ],
+    "people": [
+      "Barendsz., Willem",
+      "Heemskerck, Jacob van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-44.071"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Barendsz., Willem",
+    "Heemskerck, Jacob van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 126, nr. 1053b."
+  ],
+  "catRefRPK": [
+    "Van Eeghen 69",
+    "69",
+    "FMH 1053",
+    "1053",
+    "Atlas van Stolk 978",
+    "978",
+    "Atlas van Stolk 259",
+    "259",
+    "Hollstein Dutch 9",
+    "9"
+  ],
+  "principalOrFirstMaker": "Jan Luyken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "275"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "350"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Overwintering op Nova Zembla, 1596-1597, Jan Luyken, 1730",
+  "subTitle": "h 275mm \u00d7 w 350mm",
+  "scLabelLine": "Jan Luyken, 1730, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

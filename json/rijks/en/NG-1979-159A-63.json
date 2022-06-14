@@ -1,0 +1,181 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1979-159A-63",
+  "priref": "784703",
+  "objectNumber": "NG-1979-159A-63",
+  "language": "en",
+  "title": "Na de rede van de koning van Beieren",
+  "copyrightHolder": "erven Louis Raemaekers",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Na de rede van de koning van Beieren"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "De Telegraaf",
+      "unFixedName": "De Telegraaf",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "De Telegraaf, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Louis Raemaekers",
+      "unFixedName": "Raemaekers, Louis",
+      "placeOfBirth": "Roermond",
+      "dateOfBirth": "1869-04-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1956-07-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Scheveningen",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "after drawing by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Louis Raemaekers (06-apr-1869 - 25-jul-1956)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": "Gift of W.F. van Limborch van der Meersch, Renswoude"
+  },
+  "exhibitions": [],
+  "materials": [
+    "newsprint"
+  ],
+  "techniques": [
+    "printing block"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1915",
+    "sortingDate": 1915,
+    "period": 20,
+    "yearEarly": 1915,
+    "yearLate": 1915
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44C312",
+      "45B",
+      "41A733",
+      "45L23"
+    ],
+    "iconClassDescription": [
+      "political caricatures and satires",
+      "de soldaat; het leven van een soldaat",
+      "chest, coffer",
+      "carrying off the spoils of war"
+    ],
+    "motifs": [],
+    "events": [
+      "Eerste Wereldoorlog"
+    ],
+    "periods": [
+      "19151915"
+    ],
+    "places": [
+      "Belgi\u00eb"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-1979-159A-63"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, Louis Raemaekers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "600"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "450"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing block",
+  "longTitle": "Na de rede van de koning van Beieren, anonymous, Louis Raemaekers, 1915",
+  "subTitle": "h 600mm \u00d7 w 450mm",
+  "scLabelLine": "anonymous, 1915, printing block",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

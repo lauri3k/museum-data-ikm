@@ -1,0 +1,185 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1948-321(R)",
+  "priref": "66917",
+  "objectNumber": "RP-T-1948-321(R)",
+  "language": "en",
+  "title": "Pan en Syrinx",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "335908cc-ed46-4b02-a005-525d09f42db2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2051,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/ncTy8ukirnqWfy6pZcolTCRgtik6qi3DXwBU1utcAOUCrkWWUHez28h5VszuIpUmfiYsbp_WXkkwYsjVcuqzPC7dXb6s=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Pan en Syrinx"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "Giovanni Fontana",
+      "unFixedName": "Fontana, Giovanni",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Giovanni Fontana"
+    },
+    {
+      "name": "Giacomo Triga",
+      "unFixedName": "Triga, Giacomo",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1746",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Giacomo Triga (.... - 1746)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Francesco Fontebasso",
+      "unFixedName": "Fontebasso, Francesco",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1707",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1769",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Francesco Fontebasso (1707 - 1769)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Francesco Fontebasso",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1948-12-05T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "chalk"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1656 - 1746",
+    "sortingDate": 1656,
+    "period": 17,
+    "yearEarly": 1656,
+    "yearLate": 1746
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "97BB5",
+      "97BB5"
+    ],
+    "iconClassDescription": [
+      "Syrinx changed into a reed: while fleeing from Pan, the nymph Syrinx is changed into reed by her sisters, the Naiads (Ovid, Metamorphoses I 705)",
+      "Syrinx changed into a reed: while fleeing from Pan, the nymph Syrinx is changed into reed by her sisters, the Naiads (Ovid, Metamorphoses I 705)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1948-321(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Francesco Fontebasso",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "324"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "265"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Pan en Syrinx, Francesco Fontebasso, c. 1656 - 1746",
+  "subTitle": "h 324mm \u00d7 w 265mm",
+  "scLabelLine": "Francesco Fontebasso, c. 1656 - 1746, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

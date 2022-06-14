@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1970-252",
+  "priref": "228509",
+  "objectNumber": "RP-P-1970-252",
+  "language": "en",
+  "title": "Man twijfelt tussen Rede en Plezier",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ef241175-9ede-438d-8816-2ab084618074",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1864,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/SrCS1u7OExR1Oxvjk9LuPKpdK1rvHSc4j4Jf-p1cbsNuDz6cjSjAk3aNvfcivPEpLzNH3WIGOwYMX-bvEIJ9tYc382YoZx1Xnppk34o=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Man twijfelt tussen Rede en Plezier",
+    "La Raison parle et le Plaisir entra\u00eene"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Parijs Constantin",
+      "unFixedName": "Constantin, Parijs",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Parijs Constantin, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Barth\u00e9l\u00e9my Joseph Fulcran Roger",
+      "unFixedName": "Roger, Barth\u00e9l\u00e9my Joseph Fulcran",
+      "placeOfBirth": "Lod\u00e8ve",
+      "dateOfBirth": "1767-10-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1841-05-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Saulx-les-Chartreux",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Barth\u00e9l\u00e9my Joseph Fulcran Roger (31-okt-1767 - 04-mei-1841)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Barth\u00e9l\u00e9my Joseph Fulcran Roger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1970-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1796 - 1799",
+    "sortingDate": 1796,
+    "period": 18,
+    "yearEarly": 1796,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "52B513",
+      "56B1"
+    ],
+    "iconClassDescription": [
+      "Reason versus Amorous Lust; 'Combattimento della ragione con l'appetito' (Ripa)",
+      "Pleasure, Enjoyment, Joy; 'Allegrezza', 'Allegrezza da le medaglie', 'Allegrezza, letitia e giubilo', 'Diletto', 'Piacere', 'Piacere honesto' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1970-252"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum",
+    "Beraldi"
+  ],
+  "principalOrFirstMaker": "Barth\u00e9l\u00e9my Joseph Fulcran Roger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "345"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "254"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Man twijfelt tussen Rede en Plezier, Barth\u00e9l\u00e9my Joseph Fulcran Roger, 1796 - 1799",
+  "subTitle": "h 345mm \u00d7 w 254mm",
+  "scLabelLine": "Barth\u00e9l\u00e9my Joseph Fulcran Roger, 1796 - 1799, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

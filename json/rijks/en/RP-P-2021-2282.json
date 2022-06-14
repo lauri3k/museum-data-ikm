@@ -1,0 +1,195 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2021-2282",
+  "priref": "787553",
+  "objectNumber": "RP-P-2021-2282",
+  "language": "en",
+  "title": "Illustraties uit: Andrew Lang, Fairy Books, 1890-1892",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Illustraties uit: Andrew Lang, Fairy Books, 1890-1892"
+  ],
+  "description": "In totaal 72 pagina's uit drie publicaties uit de reeks 'Andrew Lang's Coloured Fairy Books'. Het gaat om zestien illustraties uit 'The Blue Fairy Book', zestien uit 'The Red Fairy Book' en veertig uit 'The Green Fairy Book'. Alleen van 'The Blue Fairy Book' is een titelpagina aanwezig. Het grootste deel van de illustraties is in de tekst gedrukt; veertien van de illustraties zijn paginagroot.",
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Andrew Lang",
+      "unFixedName": "Lang, Andrew",
+      "placeOfBirth": "Selkirk",
+      "dateOfBirth": "1844-03-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912-07-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Banchory",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Andrew Lang (31-mrt-1844 - 20-jul-1912)"
+    },
+    {
+      "name": "Spottiswoode & Co.",
+      "unFixedName": "Spottiswoode & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Spottiswoode & Co., London"
+    },
+    {
+      "name": "Longman & Co.",
+      "unFixedName": "Longman & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Longman & Co., London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2021-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "printing block",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1890 - 1892",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1892
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84",
+      "49M41"
+    ],
+    "iconClassDescription": [
+      "verhalen en sprookjes",
+      "illustration ~ printed matter, book"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2021-2282"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "195"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing block",
+  "longTitle": "Illustraties uit: Andrew Lang, Fairy Books, 1890-1892, anonymous, c. 1890 - 1892",
+  "subTitle": "h c.195mm \u00d7 w c.130mm",
+  "scLabelLine": "anonymous, c. 1890 - 1892, printing block",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

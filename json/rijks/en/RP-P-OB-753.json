@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-753",
+  "priref": "36973",
+  "objectNumber": "RP-P-OB-753",
+  "language": "en",
+  "title": "Girl with a Basket",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bf92a4cd-7754-4797-a046-950667132722",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2285,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/8KtopBwXVr2QjKGAKHhgzmYXQ94ZtfhDnpOjWjR9bWL4hkaeSOi0nesW2pJ9XTv7MGmDrYUolhcA3AfBeWd_VPopeg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 66,
+      "hex": "#CFCDC1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B2AD9C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #616051"
+    },
+    {
+      "percentage": 4,
+      "hex": " #828073"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9A9788"
+    },
+    {
+      "percentage": 1,
+      "hex": " #403F35"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F6EE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CFCDC1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B2AD9C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #616051",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #828073",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A9788",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #403F35",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F5F6EE",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 66,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 21,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 13,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Girl with a basket"
+  ],
+  "description": "Meisje met plat mutsje op het hoofd, een mand aan de rechterarm. Op de linkerheup een tasje aan een ceintuur.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1642",
+    "sortingDate": 1642,
+    "period": 17,
+    "yearEarly": 1642,
+    "yearLate": 1642
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-753"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 209",
+    "209",
+    "Bartsch 356",
+    "356",
+    "Hollstein Dutch 356",
+    "356"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Girl with a Basket, Rembrandt van Rijn, c. 1642",
+  "subTitle": "h 87mm \u00d7 w 62mm",
+  "scLabelLine": "etching, c. 1642",
+  "label": {
+    "title": "Girl with a Basket",
+    "makerLine": "etching, c. 1642",
+    "description": "This girl carrying a reed shopping basket looks as though Rembrandt just ran into her at the market. However, this is virtually impossible. Her 16th-century German clothing is very old-fashioned, and the chin cloth around her jaw had not been worn in the Netherlands for centuries. For this depiction, Rembrandt probably relied on 16th-century series of costume prints.",
+    "notes": null,
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

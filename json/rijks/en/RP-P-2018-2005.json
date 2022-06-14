@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2018-2005",
+  "priref": "714825",
+  "objectNumber": "RP-P-2018-2005",
+  "language": "en",
+  "title": "Gezicht op de Greendale Oak, waar een koets doorheen rijdt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "04351b23-a216-49f2-8282-8ca32fa6775c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1776,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/3vr1ng3bFCunz9dt5-81mboggOzKpj95Lk741fot-nVCXxSdGbi-C6Ex8TuG9SE2pLiP_ezx1CtL_4OSlwLkfS0d_aF6QwTD1soy4Yop=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de Greendale Oak, waar een koets doorheen rijdt",
+    "The Green Dale Oke near Welbeck, 1727"
+  ],
+  "description": "Rechtsboven genummerd: V.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "George Vertue",
+      "unFixedName": "Vertue, George",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1684",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1756-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly George Vertue (1684 - 24-jul-1756), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Vertue",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1727",
+    "sortingDate": 1727,
+    "period": 18,
+    "yearEarly": 1727,
+    "yearLate": 1727
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G3(OAK)",
+      "46C144"
+    ],
+    "iconClassDescription": [
+      "trees: oak",
+      "four-wheeled, animal-drawn vehicle, e.g.: cab, carriage, coach"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Nottinghamshire"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2018-2005"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Vertue",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "360"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de Greendale Oak, waar een koets doorheen rijdt, George Vertue (possibly), 1727",
+  "subTitle": "h 360mm \u00d7 w 210mm",
+  "scLabelLine": "George Vertue, 1727, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

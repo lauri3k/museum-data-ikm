@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-100.020",
+  "priref": "118341",
+  "objectNumber": "RP-P-OB-100.020",
+  "language": "en",
+  "title": "Portret van John Montagu",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "922404b9-2511-4ad9-bff6-19058b02b13e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1755,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/on8WwgSpjkUcdCPYvZ5-rqPxwtKIMefLtwRAoVObhmwMkktQfrUkgvX4CERT2l6N9rwesRHSYykyfSDQnlm_WEaZL8c7J0ZjVfsdIdGD=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van John Montagu"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1774",
+    "sortingDate": 1774,
+    "period": 18,
+    "yearEarly": 1774,
+    "yearLate": 1774
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44C34"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "politician, e.g. party leader"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Montagu, John (4e graaf van Sandwich)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-100.020"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Montagu, John (4th Earl of Sandwich)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 117",
+    "117"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "502"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "352"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van John Montagu, Valentine Green, 1774",
+  "subTitle": "h 502mm \u00d7 w 352mm",
+  "scLabelLine": "Valentine Green, 1774, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

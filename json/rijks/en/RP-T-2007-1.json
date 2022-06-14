@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2007-1",
+  "priref": "457215",
+  "objectNumber": "RP-T-2007-1",
+  "language": "en",
+  "title": "A Red Bergamot in a Landscape",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1c1999ab-86f5-4227-a5d1-72752018c24f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1606,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/t4ru7wF4NXx6Gminx2PwpNbpCZ5vU3frpANof3GWMWjUEUPpb6E5zFJ0jVWdx_zyx_9Wxg4twcYlenSv-wYiWCc0lg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "A Red Bergamot in a Landscape"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Aert Schouman",
+      "unFixedName": "Schouman, Aert",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1710-03-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1792-07-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "circle of",
+      "labelDesc": "circle of Aert Schouman (04-mrt-1710 - 05-jul-1792)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aert Schouman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2006-11-22T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)",
+    "gouache (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1750 - c. 1775",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2007-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Aert Schouman",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "414"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "266"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "A Red Bergamot in a Landscape, Aert Schouman (circle of), c. 1750 - c. 1775",
+  "subTitle": "h 414mm \u00d7 w 266mm",
+  "scLabelLine": "pupil of Aert Schouman (1710-1792), watercolour, gouache, c. 1750-1775",
+  "label": {
+    "title": "A Red Bergamot in a Landscape",
+    "makerLine": "pupil of Aert Schouman (1710-1792), watercolour, gouache, c. 1750-1775",
+    "description": "In the course of his long and successful career, Aert Schouman took a large number of pupils under his wing. One of them here imitated the kind of depictions his teacher made. Schouman\u2019s mastery becomes evident when the two works are compared. The leaves in this unsigned\nwatercolour are somewhat static and stiffly painted, and the colouring of the work as a whole is also much less expressive.",
+    "notes": null,
+    "date": "2015-06-05"
+  },
+  "showImage": true,
+  "location": null
+}

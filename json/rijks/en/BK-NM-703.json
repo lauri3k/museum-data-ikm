@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-703",
+  "priref": "325456",
+  "objectNumber": "BK-NM-703",
+  "language": "en",
+  "title": "Roemer with a Portrait of Prince Maurice",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fe6d6f67-9cf8-4f03-b939-81e11287912a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2001,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/ZnZF8WyK2zbbuZuXAIXzV8P05hyIC4jTFNkwsgRm8uE6cqtKuylNLcTHHSplXRjrUZZH4OrdYXfPZ5S5HCC0AWIDBA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#C8C9C8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #ECEEEA"
+    },
+    {
+      "percentage": 67,
+      "hex": " #9FA59E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #788377"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5B675A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2B372B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C8C9C8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #ECEEEA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9FA59E",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #788377",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5B675A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2B372B",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 30,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 97,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Laag, uit een draad gesponnen voet. Ingestoken ziel. De stam, die bezet is met vier rijen doornnoppen, is als \u00e9\u00e9n geheel geblazen met de hoge, gebogen kelk. Een gladde draad geeft de overgang van de stam naar de kelk aan. Op de kelk is in een ovaal medaillon het portret van prins Maurits (1567-1625) gegraveerd, omgeven door het randschrift 'MAURI. BY. D. GRA. GEBO. PRINS. V. ORA. GRAVE. V. NA'. Onder het portret twee in\u00e9\u00e9n geslagen handen. Op de keerzijde een gezicht op Dordrecht, opgehouden door twee engelen. Boven het stadsgezicht is een banderolle met het opschrift 'DORDRECHT' gegraveerd. Er onder zijn een papegaai, die besjes pikt van een takje en een vlinder afgebeeld.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1618 - c. 1625",
+    "sortingDate": 1618,
+    "period": 17,
+    "yearEarly": 1618,
+    "yearLate": 1625
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1",
+      "61B2(+51)"
+    ],
+    "iconClassDescription": [
+      "city-view in general; 'veduta'",
+      "historical persons (+ head (and shoulders) (portrait))"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Dordrecht"
+    ],
+    "people": [
+      "Maurits (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BK-NM-703"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "A.-E. Theuerkauff-Liederwald, 'Der R\u00f6mer, Studien zu einer Glasform, I', Journal of Glass Studies 10 (1968), p. 133.",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "17.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "127"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Roemer with a Portrait of Prince Maurice, anonymous, c. 1618 - c. 1625",
+  "subTitle": "h 17.5cm \u00d7 d 8.5cm \u00d7 w 127gr",
+  "scLabelLine": "Northern Netherlands, c. 1618\u20131625, dark green glass with diamond-point engraving",
+  "label": {
+    "title": "Roemer with a Portrait of Prince Maurice",
+    "makerLine": "Northern Netherlands, c. 1618\u20131625, dark green glass with diamond-point engraving",
+    "description": "In the calligraphic inscription to his portrait, Maurice is called \u2018Prince of Orange\u2019, the title he inherited after the death of his half-brother Phillip William in 1618. The clasped hands signify friendship, the parrot may refer to the eloquence of the person giving a toast with this glass, and the butterfly stands for the fleetingness of life.",
+    "notes": null,
+    "date": "2013-03-19"
+  },
+  "showImage": true,
+  "location": "HG-2.5"
+}

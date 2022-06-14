@@ -1,0 +1,173 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-200.984",
+  "priref": "533785",
+  "objectNumber": "RP-P-OB-200.984",
+  "language": "en",
+  "title": "Raadsels",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "efff5f26-30fc-4536-81b7-83ded02dd1f9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1734,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/0SDcyJqR_WjxYnX1hE62-7AEr-60LBlsndgV7epW-UdnEjBBzp6grtizk9NKNFddMHdgRNHsVcBiQwkx3rOxTtRyN8UL=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Raadsels",
+    "Nieuwe prentenfabriek"
+  ],
+  "description": "Blad met 16 voorstellingen van verschillende aard, waaronder Robinson Crusoe die Vrijdag zoekt, een stilleven met fruit en wijn en een barones. Onder elke afbeelding een onderschrift (raadsels). Genummerd rechtsboven: PLANK Nr 43.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, France"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Marcel Vagn\u00e9 & Zonen",
+      "unFixedName": "Vagn\u00e9 & Zonen, Marcel",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "Marcel Vagn\u00e9 & Zonen, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Marcel Vagn\u00e9 & Zonen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "France",
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1900 - c. 1930",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1930
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43C59",
+      "83(DEFOE, Robinson Crusoe)",
+      "48C85431(PIERROT)",
+      "84(LITTLE RED RIDING-HOOD)",
+      "25G41",
+      "41C6"
+    ],
+    "iconClassDescription": [
+      "puzzle, riddle, conundrum, enigma",
+      "(scenes from) specific works of literature: Defoe, Robinson Crusoe",
+      "types in 'commedia dell'arte': Pierrot",
+      "tales and fairy tales: Little Red Riding-hood",
+      "flowers",
+      "foodstuffs; still life of foodstuffs"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-200.984"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Marcel Vagn\u00e9 & Zonen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "400"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "279"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Raadsels, Marcel Vagn\u00e9 & Zonen, 1900 - c. 1930",
+  "subTitle": "h 400mm \u00d7 w 279mm",
+  "scLabelLine": "Marcel Vagn\u00e9 & Zonen, 1900 - c. 1930, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-11430-120",
+  "priref": "351244",
+  "objectNumber": "BK-NM-11430-120",
+  "language": "en",
+  "title": "Oboe",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c380ccc9-221d-477f-b302-c05ab26caf99",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1146,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/d3SsuisKIT1ib0rKf6fQNiMe9vClcxxK3127UE4PI_kp5D3MfCatl2eUOj8hD1X3hUiVCV6-U7FtflQj62IUvpfKw5o=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oboe"
+  ],
+  "description": "Hobo van buxushout met drie ivoren ringen en  tien kleppen.",
+  "labelText": null,
+  "objectTypes": [
+    "musical instrument",
+    "wind instrument",
+    "oboe"
+  ],
+  "objectCollection": [
+    "musical instruments"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1899-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the State of the Netherlands and the Vereeniging van Noord-Nederlandsche Muziekgeschiedenis"
+  },
+  "exhibitions": [],
+  "materials": [
+    "boxwood (hardwood)",
+    "ivory",
+    "brass (alloy)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "? Germany"
+  ],
+  "dating": {
+    "presentingDate": "c. 1830",
+    "sortingDate": 1830,
+    "period": 19,
+    "yearEarly": 1830,
+    "yearLate": 1830
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-11430-120"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Giovanni Paolo Di Stefano, \u2018The Rijksmuseum\u2019s Remarkable Collection of Oboes\u2019, The Double Reed 49, 2021, no. 2, p. 92-127: 120",
+    "'Aanwinsten', Bulletin van de Nederlandse Oudheidkundige Bond 1, nr. 2 (1899-1900), p. 48-49: 48"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "550"
+    },
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "boxwood (hardwood)",
+  "longTitle": "Oboe, anonymous, c. 1830",
+  "subTitle": "l 550mm \u00d7 d 70mm",
+  "scLabelLine": "Germany, c. 1830, boxwood, ivory, brass",
+  "label": {
+    "title": "Oboe",
+    "makerLine": "Germany, c. 1830, boxwood, ivory, brass",
+    "description": null,
+    "notes": null,
+    "date": "2019-06-21"
+  },
+  "showImage": true,
+  "location": null
+}

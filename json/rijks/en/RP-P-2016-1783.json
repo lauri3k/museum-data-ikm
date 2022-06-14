@@ -1,0 +1,182 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-1783",
+  "priref": "644282",
+  "objectNumber": "RP-P-2016-1783",
+  "language": "en",
+  "title": "Allegorie op de rede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e295af71-8aaa-4362-b811-08c4065adaac",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1535,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/aat35lFiEozjz-a198GAgk4ZQKwehcCMABgLt56LTog5FYl0se-wDkqS9x0yoLPLydYCwN9eNHsLTMyQi5vDYJ7-FMXM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Allegorie op de rede",
+    "Titelpagina voor: Cornelis Schrevelius, Lexicon manuale Graeco-Latinum, 1685"
+  ],
+  "description": "Een vrouw, in klassiek gewaad, zittend achter een schrijftafel, in de hand een spoor, als verwijzing naar de rede. Op de tafel een zandloper, als symbool voor vergankelijkheid. Aan haar voeten een haan, als symbool voor waakzaamheid. Op de zuil achter haar een zonnewijzer, die verwijst naar het verstrijken van de tijd. Twee engelen houden een banier vast waarop de titel in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hendrick en Weduwe Dirk Boom",
+      "unFixedName": "Boom, Hendrick en Weduwe Dirk",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "bookseller",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick en Weduwe Dirk Boom, Amsterdam"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2016-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1685",
+    "sortingDate": 1685,
+    "period": 17,
+    "yearEarly": 1685,
+    "yearLate": 1685
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "52B51",
+      "49L66",
+      "46C1462"
+    ],
+    "iconClassDescription": [
+      "Reason; 'Ragione' (Ripa)",
+      "writing-table, writing-desk",
+      "spur"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2016-1783"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "164"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "102"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Allegorie op de rede, anonymous, 1685",
+  "subTitle": "h 164mm \u00d7 w 102mm",
+  "scLabelLine": "anonymous, 1685, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

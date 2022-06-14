@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-192",
+  "priref": "332137",
+  "objectNumber": "RP-P-1904-192",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "075530a3-6c1e-4503-ac42-b3d06a055d2b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1843,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/TT72M4yeDNTmLlsO_jMFpsMROsqac2HFsoymOYYM2RfTBYBgq3DUQnUnbYHha2yPSJEk8EdW3RrV-8FWUTowf8B1rg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper",
+    "S. Ioannes Baptista"
+  ],
+  "description": "Johannes de Doper bij een boom. In zijn ene hand houdt hij de kruisstaf, in zijn andere hand de Bijbel met het Lam erop. In de marge een Bijbelcitaat uit Joh. 1 in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hieronymus Wierix",
+      "unFixedName": "Wierix, Hieronymus",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1553",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1619-11-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hieronymus Wierix (1553 - 01-nov-1619), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Antonie Wierix (II)",
+      "unFixedName": "Wierix, Antonie (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1559",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1604-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antonie Wierix (II) (c. 1559 - mrt-1604), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antonie Wierix (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-03-22T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1565 - before 1604",
+    "sortingDate": 1565,
+    "period": 16,
+    "yearEarly": 1565,
+    "yearLate": 1604
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1904-192"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 1538",
+    "1538"
+  ],
+  "principalOrFirstMaker": "Antonie Wierix (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "83"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "61"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, Antonie Wierix (II), 1565 - before 1604",
+  "subTitle": "h 83mm \u00d7 w 61mm",
+  "scLabelLine": "Antonie Wierix (II), 1565 - before 1604, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

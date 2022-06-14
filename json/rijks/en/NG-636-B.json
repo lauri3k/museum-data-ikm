@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-636-B",
+  "priref": "309534",
+  "objectNumber": "NG-636-B",
+  "language": "en",
+  "title": "Document",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "354c49d3-98e5-4b15-b6cc-9506f6ac465f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1789,
+    "height": 628,
+    "url": "https://lh3.googleusercontent.com/CczriEpm0n5zBCjXo82HUUxOeM0mgeCJDV02vvB-UPfMVEJeIzB_trb0qhvrOB_E5rF6ZUnmxA7G5OOoWzE1-uFtL14JcaC_maSlw3EQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Document"
+  ],
+  "description": "Handtekening in bruine inkt (van Willem George Frederik) op blaadje papier. Gesigneerd: Fr. Pr. van Orange.",
+  "labelText": null,
+  "objectTypes": [
+    "paper",
+    "document"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem George Frederik (prins van Oranje-Nassau)",
+      "unFixedName": "Willem George Frederik (prins van Oranje-Nassau)",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1774-02-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1799-01-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Padua",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem George Frederik (prins van Oranje-Nassau) (15-feb-1774 - 06-jan-1799)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem George Frederik (prins van Oranje-Nassau)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1967-06-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "writing (processes)"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1775 - 1800",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem George Frederik (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "NG-636-B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem George Frederik (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem George Frederik (prins van Oranje-Nassau)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "8.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "writing (processes)",
+  "longTitle": "Document, Willem George Frederik (prins van Oranje-Nassau), 1775 - 1800",
+  "subTitle": "h 3.2cm \u00d7 w 8.7cm",
+  "scLabelLine": "Willem George Frederik (prins van Oranje-Nassau), 1775 - 1800, writing (processes)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

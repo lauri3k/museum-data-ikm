@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-49-34-7",
+  "priref": "612199",
+  "objectNumber": "RP-P-2016-49-34-7",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "10a235d8-221a-429d-aa23-4329dc4de17f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2253,
+    "url": "https://lh3.googleusercontent.com/CqNAkTLiogQ8Nm9ZkEsbLl_86kfDhKuJc2ZH_H_nBgiMGB6wGlHZSn0KqwoBNsKkDNCsgl_DSG4IQnCoAXd3qQCJfvE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper",
+    "[Johes] baptista",
+    "Liber Chronicarum"
+  ],
+  "description": "Een bloemkelk met Johannes de Doper. In zijn handen een boek, lam en vaandel. De voorstelling is onderdeel van de stamboom van Johannes de Doper in de Liber Chronicarum. De prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Wilhelm Pleydenwurff",
+      "unFixedName": "Pleydenwurff, Wilhelm",
+      "placeOfBirth": null,
+      "dateOfBirth": "1460",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1494-01-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Wilhelm Pleydenwurff (c. 1460 - 31-jan-1494)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Michel Wolgemut",
+      "unFixedName": "Wolgemut, Michel",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1434",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1519-11-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Michel Wolgemut (1434 - 30-nov-1519)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michel Wolgemut",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1874-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1493",
+    "sortingDate": 1493,
+    "period": 15,
+    "yearEarly": 1493,
+    "yearLate": 1493
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2016-49-34-7"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michel Wolgemut",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "53"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "69"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Johannes de Doper, Michel Wolgemut (workshop of), 1493",
+  "subTitle": "h 53mm \u00d7 w 69mm",
+  "scLabelLine": "Michel Wolgemut, 1493, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

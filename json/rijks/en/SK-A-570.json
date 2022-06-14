@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-570",
+  "priref": "6936",
+  "objectNumber": "SK-A-570",
+  "language": "en",
+  "title": "Portrait of Ernst Casimir I, Count of Nassau-Dietz",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "02ada7f0-5d96-4837-8fea-198a59cf67ca",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1903,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/VWsKdLrrP2NlYrQ45M6CwZ1oGKDu1a0pileDseow5aX4ofm2Ds4hUptdg207TjBflD_R4Sg98jKTMg7tqliDJzado-RB3eNl1coppTYP=s0"
+  },
+  "colors": [
+    {
+      "percentage": 47,
+      "hex": "#0F0A04"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E1DEB9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C3AF7A"
+    },
+    {
+      "percentage": 36,
+      "hex": " #47321A"
+    },
+    {
+      "percentage": 7,
+      "hex": " #79662D"
+    },
+    {
+      "percentage": 5,
+      "hex": " #9C8B49"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0F0A04",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #E1DEB9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C3AF7A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #47321A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #79662D",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #9C8B49",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 36,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAFAD2"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Portrait of Ernst Casimir I (1573-1632), Count of Nassau-Dietz"
+  ],
+  "description": "Portret van Ernst Casimir, graaf van Nassau-Dietz, stadhouder van Friesland, Groningen en Drente. Staande ten voeten uit met de commandostaf in de rechterhand. Links een tafel waarop een gepluimde helm staat.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Wybrand de Geest (I)",
+      "unFixedName": "Geest, Wybrand de (I)",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1592",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1665",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Leeuwarden",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Wybrand de Geest (I) (c. 1592 - after 1665)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wybrand de Geest (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1808-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1630 - c. 1635",
+    "sortingDate": 1630,
+    "period": 17,
+    "yearEarly": 1630,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-570"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Wybrand de Geest (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "200"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "130"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Ernst Casimir I, Count of Nassau-Dietz, Wybrand de Geest (I), c. 1630 - c. 1635",
+  "subTitle": "h 200cm \u00d7 w 130cm",
+  "scLabelLine": "Wybrand de Geest (c. 1592-1661/65), oil on canvas, c. 1630-1635",
+  "label": {
+    "title": "Portrait of Ernst Casimir I, Count of Nassau-Dietz",
+    "makerLine": "Wybrand de Geest (c. 1592-1661/65), oil on canvas, c. 1630-1635",
+    "description": "The stadholders of Friesland were not the descendants of William of Orange, but of his brother Jan. Ernst Casimir, Jan\u2019s son, moreover, was also stadholder of Groningen and Drenthe. He is shown here in military regalia, with a buff jerkin, cuirass, boots with spurs, and a staff of office. The style of the clothing suggests that the portrait originated around 1630; it could have been painted after his violent death in 1632.",
+    "notes": null,
+    "date": "2016-03-07"
+  },
+  "showImage": true,
+  "location": null
+}

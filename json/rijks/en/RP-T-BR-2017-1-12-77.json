@@ -1,0 +1,156 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-BR-2017-1-12-77",
+  "priref": "677839",
+  "objectNumber": "RP-T-BR-2017-1-12-77",
+  "language": "en",
+  "title": "Dagkoekoeksbloem (Silene dioica) en mispel (Mespilus germanica)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "da1dd0ea-da5f-4b1a-b973-fde0fa704314",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1751,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/jXUPdyvt2RIFps8NauYQodioVyvbaFeOK_TzFz2BvXPjrpP8464YjnjGvLCQ62-_INhR9fWofnPrbe7xhLC4lmamtAN2Bv07KB6HOjN0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dagkoekoeksbloem (Silene dioica) en mispel (Mespilus germanica)"
+  ],
+  "description": "Dagkoekoeksbloem en mispel. Figs. 17 en 18 op een blad met de hand genummerd 10. In: Anselmi Bo\u00ebtii de Boot I.C. Brugensis & Rodolphi II. Imp. Roman. medici a cubiculis Florum, Herbarum, ac fructuum selectiorum icones, & vires pleraeque hactenus ignot\u00e6. Onderdeel van het album met bladen en platen uit De Boodts herbarium van 1640. Het twaalfde van twaalf albums met aquarellen van dieren, vogels en planten bekend rond 1600, gemaakt in opdracht van keizer Rudolf II.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Southern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2017-03-21T00:00:00",
+    "creditLine": "On loan from a private collection"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Southern Netherlands",
+    "Cologne"
+  ],
+  "dating": {
+    "presentingDate": "1640",
+    "sortingDate": 1640,
+    "period": 17,
+    "yearEarly": 1640,
+    "yearLate": 1640
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G41(RED CAMPION)",
+      "25G21(MEDLAR)"
+    ],
+    "iconClassDescription": [
+      "flowers: red campion",
+      "fruits: medlar"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-BR-2017-1-12-77"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "135"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "230"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Dagkoekoeksbloem (Silene dioica) en mispel (Mespilus germanica), anonymous, 1640",
+  "subTitle": "h c.135mm \u00d7 w c.205mm",
+  "scLabelLine": "anonymous, 1640, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

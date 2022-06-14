@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-KOG-2517-C",
+  "priref": "363671",
+  "objectNumber": "NG-KOG-2517-C",
+  "language": "en",
+  "title": "Pavise with St Andrew\u2019s Cross",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bff2cad5-4063-4b28-8ac0-ec94762a5006",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1740,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/CtIBUiHMR-KsDl87BRZRtpRM7ilcEN7lTw5Qwd-qTvO3V72zOTKfuwJotaJrMZ7cbTkG40bYqM8P1TbLiF17a1aiYlv7=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#5D5648"
+    },
+    {
+      "percentage": 26,
+      "hex": " #D9D7D1"
+    },
+    {
+      "percentage": 38,
+      "hex": " #AFA89C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #40382F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8D7058"
+    },
+    {
+      "percentage": 4,
+      "hex": " #804630"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#5D5648",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D9D7D1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #AFA89C",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #40382F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8D7058",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #804630",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 26,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 38,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 26,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Bourgondisch schild met Andreas-kruis. Langwerpig bolstaand schild met ronde bovenrand, naar beneden toelopend en krullend tot een punt die afgebroken is. Boven de punt twee gaten, vermoedelijk ter bevestiging van een ijzeren punt om het schild rechtop in de grond te kunnen planten. De onbeschilderde binnenzijde is voorzien van vier bevestigingspunten voor leren riemen; in het midden een ruitpatroon van kopspijkers, waarschijnlijk ter bevestiging van een leren kussentje. De beschildering op de voorzijde bestaat uit een verticaal in twee\u00ebn gedeeld fond van wit (links) en blauw, waarop een rood Andreas-kruis, vier gele vuurslagen, vier wit-zwarte vuurstenen en veel rode vlammen.",
+  "labelText": null,
+  "objectTypes": [
+    "shield"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1974-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "linden",
+    "buckskin",
+    "iron (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "? Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "c. 1474 - c. 1475",
+    "sortingDate": 1474,
+    "period": 15,
+    "yearEarly": 1474,
+    "yearLate": 1475
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11D123(ANDREW'S CROSS)"
+    ],
+    "iconClassDescription": [
+      "specific forms of the cross: Andrew's cross"
+    ],
+    "motifs": [],
+    "events": [
+      "Beleg van Keulen"
+    ],
+    "periods": [
+      "14741475"
+    ],
+    "places": [
+      "Keulen"
+    ],
+    "people": [
+      "Karel de Stoute (hertog van Bourgondi\u00eb)",
+      "Ruprecht von der Pfalz (1427-1480)"
+    ],
+    "objectNumbers": [
+      "NG-KOG-2517-C"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Charles the Bold (Duke of Burgundy)",
+    "Ruprecht von der Pfalz (1427-1480)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "J.B. Kist, 'Twee vijftiende eeuwse schilden in het bezit van het Koninklijk Oudheidkundig Genootschap', Jaarverslagen KOG (1965-1968), p. 48-50.",
+    "Documentatiemap"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "14.2"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "linden",
+  "longTitle": "Pavise with St Andrew\u2019s Cross, anonymous, c. 1474 - c. 1475",
+  "subTitle": "h 105cm \u00d7 w 60.4cm \u00d7 d 14.2cm \u00d7 t 2cm",
+  "scLabelLine": "Burgundy, c. 1474\u20131475?, limewood, flax, deerskin, iron, oil paint",
+  "label": {
+    "title": "Pavise with St Andrew\u2019s Cross",
+    "makerLine": "Burgundy, c. 1474\u20131475?, limewood, flax, deerskin, iron, oil paint",
+    "description": "In combat, pavises (oblong shields), were positioned on the ground for cover and also identified their users, probably crossbowmen, on the battlefield: the shield was blazoned with the arms of the ruler or town for which they fought. Here the red St Andrew\u2019s cross, the four gold firesteels, and the black-white flints with red flames form the armorial bearings of the Duke of Burgundy, who ruled over the Netherlands.",
+    "notes": null,
+    "date": "2019-02-13"
+  },
+  "showImage": true,
+  "location": "HG-0.4"
+}

@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1712",
+  "priref": "515245",
+  "objectNumber": "SK-C-1712",
+  "language": "en",
+  "title": "Mars and Venus Surprised by Vulcan",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Het schilderij is gesigneerd en gedateerd (links onder op trede) 'Jo.Wte.wael.fecit / 1610'. Op de achterzijde van de drager een onge\u00efdentificeerd stempel met de initialen 'WW'.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Joachim Wtewael",
+      "unFixedName": "Wtewael, Joachim",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1566",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1638-08-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Utrecht"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Joachim Wtewael (1566 - 01-aug-1638), Utrecht"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joachim Wtewael",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2012-10-15T00:00:00",
+    "creditLine": "On loan from the Broere Charitable Foundation"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)",
+    "copper (metal)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [
+    "Utrecht"
+  ],
+  "dating": {
+    "presentingDate": "1610",
+    "sortingDate": 1610,
+    "period": 17,
+    "yearEarly": 1610,
+    "yearLate": 1610
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-1712"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "(waarschijnlijk) Familiearchief van der lely van Oudewater 163, Inventaris van den boedel van Mr Jacob van der Lely 1795-1798, MS, p. 44, 'Een Do verbeeldende Mars en Venus door De Goden betrapt op koper door J. Uytewal hoog 7 breed 5 duimen.'",
+    "Inzoomer object op zaal, 2013 (Nederlands/English)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joachim Wtewael",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "18.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "13.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Mars and Venus Surprised by Vulcan, Joachim Wtewael, 1610",
+  "subTitle": "h 18.2cm \u00d7 w 13.5cm",
+  "scLabelLine": "Joachim Anthonisz Wtewael (1566\u20131638), oil on copper, 1610",
+  "label": {
+    "title": "Mars and Venus Surprised by Vulcan",
+    "makerLine": "Joachim Anthonisz Wtewael (1566\u20131638), oil on copper, 1610",
+    "description": "Venus, the goddess of love, had an affair with the god of war, Mars. Her husband, the lame blacksmith Vulcan, caught them and exposed the adulterous couple to a gathering of amused gods. Mercury (the flying figure in a red cap) then offered to trade\nplaces with Mars. With his rendering of exaggerated musculature and distorted bodies, Wtewael was a leading representative\nof Dutch Mannerism.",
+    "notes": null,
+    "date": "2013-03-28"
+  },
+  "showImage": false,
+  "location": "HG-2.3"
+}

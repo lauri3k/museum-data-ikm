@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-84.598-5(R)",
+  "priref": "491103",
+  "objectNumber": "RP-P-OB-84.598-5(R)",
+  "language": "en",
+  "title": "Beschrijving van de begrafenis van prinses Maria Louise, 1765",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "46467cf1-6dbd-4ba2-b46f-4d6d80158b12",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 4461,
+    "height": 3324,
+    "url": "https://lh5.ggpht.com/yiX91b1AKuhew0rgVFFYJXeAah3v3jpVqtan8ccsb6syd_N9Dm84-Fmri87AmQL20VSLJLxF3ngQiY2unPKkFDTE_gc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 21,
+      "hex": "#DDDBD0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #504D46"
+    },
+    {
+      "percentage": 2,
+      "hex": " #727067"
+    },
+    {
+      "percentage": 3,
+      "hex": " #96948B"
+    },
+    {
+      "percentage": 66,
+      "hex": " #F9F8EE"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C8BA9A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DDDBD0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #504D46",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #727067",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #96948B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F9F8EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C8BA9A",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 66,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 21,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 87,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Beschrijving van de begrafenis van prinses Maria Louise, 1765",
+    "Nauwkeurige Beschrijving der Lijk-Statie van Haare Doorluchtige Hoogheit Maria Louisa, Princesse Douari\u00e9re van Orange en Nassau (...) Plegtig volvoerd binnen Leeuwarden op den 13den van Wiedemaand des jaars 1765",
+    "Lijkstatie van prinses Maria Louise, 1765"
+  ],
+  "description": "Tekstblad met in drie kolommen een deel van de beschrijving van de lijkstatie. Gemerkt middenonder: A. Onderdeel van de serie platen van de begrafenis van prinses Maria Louise te Leeuwarden op 13 juni 1765.",
+  "labelText": null,
+  "objectTypes": [
+    "text sheet"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Rienk Jelgerhuis",
+      "unFixedName": "Jelgerhuis, Rienk",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1729-04-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1806-04-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rienk Jelgerhuis (13-apr-1729 - 17-apr-1806)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Abraham Ferwerda",
+      "unFixedName": "Ferwerda, Abraham",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham Ferwerda"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham Ferwerda",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1765",
+    "sortingDate": 1765,
+    "period": 18,
+    "yearEarly": 1765,
+    "yearLate": 1765
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Begrafenis van Maria Louise, prinses van Oranje-Nassau"
+    ],
+    "periods": [
+      "1765-06-131765-06-13"
+    ],
+    "places": [
+      "Leeuwarden"
+    ],
+    "people": [
+      "Maria Louisa van Hessen-Kassel"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-84.598-5(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maria Louisa van Hessen-Kassel"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 203, nr. 4160."
+  ],
+  "catRefRPK": [
+    "FMH 4160",
+    "4160",
+    "Atlas van Stolk 4143",
+    "4143"
+  ],
+  "principalOrFirstMaker": "Abraham Ferwerda",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "290"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "395"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Beschrijving van de begrafenis van prinses Maria Louise, 1765, Abraham Ferwerda, 1765",
+  "subTitle": "h 290mm \u00d7 w 395mm",
+  "scLabelLine": "Abraham Ferwerda, 1765, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

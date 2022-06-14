@@ -1,0 +1,190 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-39.234",
+  "priref": "65876",
+  "objectNumber": "RP-P-OB-39.234",
+  "language": "en",
+  "title": "Johannes de Doper omgeven door zeven engelen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "16a3a822-3034-446d-ac68-7e042400a7ac",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2110,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/dL1w_FP_aKq9rjrNu1nOHF-sOyaGcyMeVlqmsPHXE0e3ruuagtNIVQAZWfDIvQV_ozt02umwS0pCTifB6tBSU0f6vkka=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper omgeven door zeven engelen",
+    "Koepeldecoraties door Correggio in de S. Giovanni Evangelista in Parma"
+  ],
+  "description": "Johannes de Doper op wolken, omgeven door zeven engelen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Giovanni Giacomo de'Rossi",
+      "unFixedName": "Rossi, Giovanni Giacomo de'",
+      "placeOfBirth": null,
+      "dateOfBirth": "1627",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1691",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Giacomo de'Rossi (1627 - 1691), Rome"
+    },
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giovanni Battista Vanni",
+      "unFixedName": "Vanni, Giovanni Battista",
+      "placeOfBirth": "Florence",
+      "dateOfBirth": "1599-02-21",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1660-07-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Pistoia",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Battista Vanni (21-feb-1599 - 27-jul-1660), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giovanni Battista Vanni",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1609 - 1660",
+    "sortingDate": 1609,
+    "period": 17,
+    "yearEarly": 1609,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "11G"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "engelen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-39.234"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 14",
+    "14",
+    "Bartsch 14",
+    "14",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Giovanni Battista Vanni",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "488"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "410"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Johannes de Doper omgeven door zeven engelen, Giovanni Battista Vanni, 1609 - 1660",
+  "subTitle": "h 488mm \u00d7 w 410mm",
+  "scLabelLine": "Giovanni Battista Vanni, 1609 - 1660, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

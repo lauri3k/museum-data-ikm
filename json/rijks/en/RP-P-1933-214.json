@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1933-214",
+  "priref": "402330",
+  "objectNumber": "RP-P-1933-214",
+  "language": "en",
+  "title": "Ex libris van Manuel Conrotte",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van Manuel Conrotte"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Spain"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Spain"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1933-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "printing block"
+  ],
+  "productionPlaces": [
+    "Spain",
+    "Spain"
+  ],
+  "dating": {
+    "presentingDate": "1880 - 1929",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1929
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Conrotte, Manuel"
+    ],
+    "objectNumbers": [
+      "RP-P-1933-214"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Conrotte, Manuel"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "70"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing block",
+  "longTitle": "Ex libris van Manuel Conrotte, anonymous, 1880 - 1929",
+  "subTitle": "h 115mm \u00d7 w 70mm",
+  "scLabelLine": "anonymous, 1880 - 1929, printing block",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1914-17-61",
+  "priref": "434064",
+  "objectNumber": "RP-T-1914-17-61",
+  "language": "en",
+  "title": "View of the mouth of the Orange River from the west-south-west",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "da28079e-9bea-42fb-afa1-bc5b89bd8865",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 323,
+    "url": "https://lh3.googleusercontent.com/-UP2PxPoAwUp4whHxQYWZe-MObdiRkSvNELwDrgbb18GkgRLhBLGcJjHFwSE0UbgsUscpO7sUZAeYqtq9FkXpGF1Ffvh=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "View of the mouth of the Orange River from the west-south-west"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Schumacher",
+      "unFixedName": "Schumacher, Johannes",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Johannes Schumacher"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Jacob Gordon",
+      "unFixedName": "Gordon, Robert Jacob",
+      "placeOfBirth": "Doesburg",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1795-10-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Kaapstad",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Robert Jacob Gordon (1743 - 25-okt-1795)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Jacob Gordon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Purchased with the support of private collectors"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor (paint)",
+    "pencil"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1779 - 1780",
+    "sortingDate": 1779,
+    "period": 18,
+    "yearEarly": 1779,
+    "yearLate": 1780
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1914-17-61"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Johannes Schumacher; Anne Hallema (introd), The Cape in 1776-1777: aquarelles by Johannes Schumacher from the Swellengrebel-collection at Breda, The Hague( etc.): Stols [etc.] 1951, p. 13-14"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Jacob Gordon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "292"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "2614"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "250"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "2590"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "View of the mouth of the Orange River from the west-south-west, Robert Jacob Gordon (attributed to), 1779 - 1780",
+  "subTitle": "h 292mm \u00d7 w 2614mm",
+  "scLabelLine": "Robert Jacob Gordon, 1779 - 1780, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

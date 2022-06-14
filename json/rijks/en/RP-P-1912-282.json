@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1912-282",
+  "priref": "180996",
+  "objectNumber": "RP-P-1912-282",
+  "language": "en",
+  "title": "Heilige Bartolome\u00fcs, Thomas en Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "54035405-6f52-401a-b685-c0b1b19ebb5a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1397,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/l7pgITCHdFHu13r5Ur44kTXuTAn5ofDelzT-rxFMGUOA20eMjIMyUmwgsX7f_KdLmLGEcXrnJ__QYp2JxZ3zo3PEjT31MdHTcRh4SLVb=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Bartolome\u00fcs, Thomas en Johannes de Doper",
+    "Werken uit de collectie van de broers Boisser\u00e9e",
+    "Galerie des Fr\u00e8res Boisser\u00e9e"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johann Nepomuk Strixner",
+      "unFixedName": "Strixner, Johann Nepomuk",
+      "placeOfBirth": "Alt\u00f6tting",
+      "dateOfBirth": "1782",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1855",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "M\u00fcnchen",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Nepomuk Strixner (1782 - 1855)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johann Nepomuk Strixner",
+      "unFixedName": "Strixner, Johann Nepomuk",
+      "placeOfBirth": "Alt\u00f6tting",
+      "dateOfBirth": "1782",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1855",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "M\u00fcnchen",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Nepomuk Strixner (1782 - 1855)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Nepomuk Strixner",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1912-01-01T00:00:00",
+    "creditLine": "Gift of J. Hingst, Hilversum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1827",
+    "sortingDate": 1827,
+    "period": 19,
+    "yearEarly": 1827,
+    "yearLate": 1827
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "11H(BARTHOLOMEW)",
+      "11H(THOMAS)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "the apostle Bartholomew; possible attributes: book, devil or dragon at feet, knife, scroll, flayed skin, staff",
+      "the apostle Thomas; possible attributes: book, chalice, girdle, heart, lance or spear, scroll, square, stones"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1912-282"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Nepomuk Strixner",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "567"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "302"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Heilige Bartolome\u00fcs, Thomas en Johannes de Doper, Johann Nepomuk Strixner, 1827",
+  "subTitle": "h 567mm \u00d7 w 302mm",
+  "scLabelLine": "Johann Nepomuk Strixner, 1827, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

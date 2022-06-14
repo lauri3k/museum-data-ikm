@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1896-A-19368-2051",
+  "priref": "145783",
+  "objectNumber": "RP-P-1896-A-19368-2051",
+  "language": "en",
+  "title": "Vernietiging van het Egyptische leger in de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0ffc2de1-3218-41fd-8112-2627b3943ade",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1768,
+    "url": "https://lh3.googleusercontent.com/M4aL55dXgHxX2UDBi1PBnhatv-omgY5qekn0PThA_TbID9JKeEZnNOjH7RZT_Dt637c5OgaCBTnF4UWeVIutKMtv-V7J=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Vernietiging van het Egyptische leger in de Rode Zee"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Mortier (I)",
+      "unFixedName": "Mortier, Pieter (I)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1661",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Mortier (I) (1661 - 1711), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Luyken",
+      "unFixedName": "Luyken, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1649-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1712-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Luyken (16-apr-1649 - 05-apr-1712), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Luyken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1896-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1703 - 1762",
+    "sortingDate": 1703,
+    "period": 18,
+    "yearEarly": 1703,
+    "yearLate": 1762
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E1223"
+    ],
+    "iconClassDescription": [
+      "with his people safe on the shore, Moses raises his hands and causes the water to return; Pharaoh's army perishes in the water (Red Sea)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1896-A-19368-2051"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Van Eeghen 3001",
+    "3001"
+  ],
+  "principalOrFirstMaker": "Jan Luyken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "110"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Vernietiging van het Egyptische leger in de Rode Zee, Jan Luyken, 1703 - 1762",
+  "subTitle": "h 110mm \u00d7 w 155mm",
+  "scLabelLine": "Jan Luyken, 1703 - 1762, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

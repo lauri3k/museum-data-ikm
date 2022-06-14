@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2010-75",
+  "priref": "484629",
+  "objectNumber": "RP-P-2010-75",
+  "language": "en",
+  "title": "Maria met Kind en de heiligen Ursula en Maria Magdalena",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ffe13ed9-527e-454c-b8f0-58655d332714",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1753,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Gc_XqGq9tbKXWUWBzRH0_XVoCpZEcWEqX5G4Fx34qCHm4qI4WMBwuI-dUyOvpJyl3kclz6Nbqph1aOdWV42OjvDdKqE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Maria met Kind en de heiligen Ursula en Maria Magdalena"
+  ],
+  "description": "Getroonde Maria in een nis met het Christuskind op schoot, geflankeerd door twee engelen. Boven hen de Heilige Geest en God de Vader. Op de voorgrond de heilige Ursula met in haar hand een staf met banier en Maria Magdalena met de zalfpot. Onder de troon een gebeeldhouwd fries met een voorstelling van de Zondeval. Zowel de engelen als Maria houden aan touwtjes bevestigde bidprenten vast met daarop de voorstelling van Maria met het Christuskind.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Stefano Scolari",
+      "unFixedName": "Scolari, Stefano",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Venice"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Stefano Scolari, Venice"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2010-01-20T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Venice"
+  ],
+  "dating": {
+    "presentingDate": "c. 1560 - c. 1580",
+    "sortingDate": 1560,
+    "period": 16,
+    "yearEarly": 1560,
+    "yearLate": 1580
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(URSULA)",
+      "11HH(MAGDALENE)",
+      "11HH(CARMINA)",
+      "11F61"
+    ],
+    "iconClassDescription": [
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship",
+      "female saints (with NAME)",
+      "female saints (with NAME)",
+      "Madonna accompanied by saint(s)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2010-75"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, Stefano Scolari",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "375"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "238"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Maria met Kind en de heiligen Ursula en Maria Magdalena, anonymous, Stefano Scolari, c. 1560 - c. 1580",
+  "subTitle": "h 375mm \u00d7 w 238mm",
+  "scLabelLine": "anonymous, c. 1560 - c. 1580, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

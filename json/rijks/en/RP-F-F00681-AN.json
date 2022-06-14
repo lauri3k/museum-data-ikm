@@ -1,0 +1,127 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00681-AN",
+  "priref": "566037",
+  "objectNumber": "RP-F-F00681-AN",
+  "language": "en",
+  "title": "Fotoreproductie van (vermoedelijk) een tekening voorstellend Johannes de Doper als kind",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "808aafca-06d3-4af2-bc45-7a2fd5a4785f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1985,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/LYHDNF8ULriBlW4FIuGF-D5VXDrOpm0dhoSeL8s19Ozy-0sDd3YKiAL_AoPjHz5WCj_hGWsIzx_9ml146mIs0HZZPpU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Fotoreproductie van (vermoedelijk) een tekening voorstellend Johannes de Doper als kind"
+  ],
+  "description": "Onderdeel van Album met foto's van bezienswaardigheden en landschappen in Engeland en van kunst.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "c. 1850 - c. 1870",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F00681-AN"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Fotoreproductie van (vermoedelijk) een tekening voorstellend Johannes de Doper als kind, anonymous, c. 1850 - c. 1870",
+  "subTitle": "d 105mm",
+  "scLabelLine": "anonymous, c. 1850 - c. 1870, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

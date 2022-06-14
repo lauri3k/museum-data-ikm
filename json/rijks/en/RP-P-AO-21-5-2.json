@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-21-5-2",
+  "priref": "233736",
+  "objectNumber": "RP-P-AO-21-5-2",
+  "language": "en",
+  "title": "Leprozenoptocht op Koppermaandag te Amsterdam, 1604",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "581570fe-4fa8-4311-be81-b8b6486270c9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2009,
+    "url": "https://lh3.googleusercontent.com/MNBvPGjnWLy5X7SYTJNbWgoJVhTiQ19I7T3xTH6gDCz5R30zn_p0irZeS5ZN3D898P60cqBFHlI0_Sah5uWObHHcdgA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Leprozenoptocht op Koppermaandag te Amsterdam, 1604"
+  ],
+  "description": "De jaarlijkse optocht van de gilden op Koppermaandag (de eerste maandag na Driekoningen) te Amsterdam, 1604. Optocht en feestelijkheden van de gilden op de Dam waarbij de leprozen de stad in mogen en waarbij geld voor hen werd ingezameld. In 1604 werd Koppermaandag voor het laatst in Amsterdam gevierd. Op verso Nederlandse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "diverse vervaardigers",
+      "unFixedName": "diverse vervaardigers",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "diverse vervaardigers, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1693",
+    "sortingDate": 1693,
+    "period": 17,
+    "yearEarly": 1693,
+    "yearLate": 1693
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47E2521",
+      "31A46223"
+    ],
+    "iconClassDescription": [
+      "'blue Monday'",
+      "leper's procession"
+    ],
+    "motifs": [],
+    "events": [
+      "Koppermaandag"
+    ],
+    "periods": [
+      "16041604"
+    ],
+    "places": [
+      "Dam",
+      "Stadhuis van Amsterdam (14e eeuw-1652)",
+      "Waag op de Dam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-AO-21-5-2"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Leprozenoptocht op Koppermaandag te Amsterdam, 1604, anonymous, 1693",
+  "subTitle": "h 112mm \u00d7 w 147mm",
+  "scLabelLine": "anonymous, 1693, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

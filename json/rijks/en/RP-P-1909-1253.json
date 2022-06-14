@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1909-1253",
+  "priref": "195996",
+  "objectNumber": "RP-P-1909-1253",
+  "language": "en",
+  "title": "Portret van Grey Nevil",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dae7ed20-6350-4f12-af85-e22d8e35c413",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1849,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/ND2zMwq7ybgytmctHdgF9TuoNKmEnGZQjaukserEQ0UmR5u13c_A2eXzNRw3RW36EQ0Pf0MmVhSdeVW2i7sC9aINdlWQTYVU6KKL9ScK=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Grey Nevil",
+    "Grey Nevil Arm: / Quantae Pietatis Imago! Virg"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "George White",
+      "unFixedName": "White, George",
+      "placeOfBirth": null,
+      "dateOfBirth": "1684",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1732-05-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George White (1684 - 27-mei-1732)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "George White",
+      "unFixedName": "White, George",
+      "placeOfBirth": null,
+      "dateOfBirth": "1684",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1732-05-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "George White (1684 - 27-mei-1732)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George White",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1909-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1720 - 1732",
+    "sortingDate": 1720,
+    "period": 18,
+    "yearEarly": 1720,
+    "yearLate": 1732
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44C34"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "politician, e.g. party leader"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Neville, Grey"
+    ],
+    "objectNumbers": [
+      "RP-P-1909-1253"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Neville, Grey"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 29",
+    "29",
+    "Chaloner Smith 30",
+    "30"
+  ],
+  "principalOrFirstMaker": "George White",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "356"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "256"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Grey Nevil, George White, 1720 - 1732",
+  "subTitle": "h 356mm \u00d7 w 256mm",
+  "scLabelLine": "George White, 1720 - 1732, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

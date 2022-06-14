@@ -1,0 +1,281 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-1097XX",
+  "priref": "78577",
+  "objectNumber": "RP-P-BI-1097XX",
+  "language": "en",
+  "title": "Portret van Godard van Reede in wapenrusting",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "43a18c78-7f51-49cf-89a7-f9b3b670cbac",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1948,
+    "height": 2880,
+    "url": "https://lh5.ggpht.com/9Ye9YHvsAHTeLctcFSQKcIj_pFxbm2iHCiX-1Nb80W0LJgygG2IVYJGMj5vonqBGh9sXRVt99Lj7n7FSwZapDtJXkvo=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#F5F0E4"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A89F8A"
+    },
+    {
+      "percentage": 21,
+      "hex": " #897E69"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D5C8AC"
+    },
+    {
+      "percentage": 23,
+      "hex": " #68604E"
+    },
+    {
+      "percentage": 6,
+      "hex": " #494235"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F0E4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A89F8A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #897E69",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D5C8AC",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #68604E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #494235",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 19,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 45,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 38,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Portret van Godard van Reede in wapenrusting"
+  ],
+  "description": "Portret van de veldmaarschalk Godard van Reede ten voeten uit met een wapenrusting en een komandostaf in zijn hand. Op de achtergrond is de belegering van een stad te zien. Onder het portret zijn naam en titels en een vers van vier regels op Van Reedes heldendaden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Monogrammist AA",
+      "unFixedName": "Monogrammist AA",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Monogrammist AA"
+    },
+    {
+      "name": "Pieter van den Berge",
+      "unFixedName": "Berge, Pieter van den",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1659-11-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1737-12-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter van den Berge (16-nov-1659 - 11-dec-1737), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter van den Berge",
+      "unFixedName": "Berge, Pieter van den",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1659-11-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1737-12-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter van den Berge (16-nov-1659 - 11-dec-1737), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter van den Berge",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1694 - 1737",
+    "sortingDate": 1694,
+    "period": 17,
+    "yearEarly": 1694,
+    "yearLate": 1737
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede, heer van Amrongen, Godard van"
+    ],
+    "objectNumbers": [
+      "RP-P-BI-1097XX"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede, heer van Amrongen, Godard van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Nagler/Meyer 64",
+    "64",
+    "LeBlanc 122",
+    "122"
+  ],
+  "principalOrFirstMaker": "Pieter van den Berge",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "273"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "193"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Godard van Reede in wapenrusting, Pieter van den Berge, 1694 - 1737",
+  "subTitle": "h 273mm \u00d7 w 193mm",
+  "scLabelLine": "Pieter van den Berge, 1694 - 1737, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

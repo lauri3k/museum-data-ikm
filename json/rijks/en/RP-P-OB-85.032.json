@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-85.032",
+  "priref": "495184",
+  "objectNumber": "RP-P-OB-85.032",
+  "language": "en",
+  "title": "Gebroeders Naerebout redden de opvarenden van de Woestduin, 1779",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f971e26d-f0dd-4389-9b4b-6c007307f423",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1637,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/vuv2JADrcDWu58lqV1X4CiUPTni3tpArtYL3buO7sSEK9cxRN_umGYKEpwzZFJ4XZW1uhaaohziy1I3M6yxCuhOdZg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gebroeders Naerebout redden de opvarenden van de Woestduin, 1779",
+    "De Gebroeders Narrebout, redden de Schipbreukelingen van het verongelukt O.I.Comp. Schip Woestduin"
+  ],
+  "description": "De gebroeders Frans en Jacob Naerebout redden de 87 opvarenden uit het wrak van het VOC-schip Woestduin dat op 24 juli 1779 strandde en verging bij de Noorderrassen (voor de kust van Westkapelle).",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Reinier Vinkeles (I)",
+      "unFixedName": "Vinkeles, Reinier (I)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1741-06-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-01-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Reinier Vinkeles (I) (19-jun-1741 - 30-jan-1816), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Reinier Vinkeles (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1787",
+    "sortingDate": 1787,
+    "period": 18,
+    "yearEarly": 1787,
+    "yearLate": 1787
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C291(+91)"
+    ],
+    "iconClassDescription": [
+      "shipwreck (+ saving the victims ~ traffic accident)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1779-07-251779-07-25"
+    ],
+    "places": [
+      "Westkapelle"
+    ],
+    "people": [
+      "Naerebout, Frans",
+      "Naerebout, Jakob"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-85.032"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Naerebout, Frans",
+    "Naerebout, Jakob"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 223, nr. 4346b.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 6, nr. 14C."
+  ],
+  "catRefRPK": [
+    "FMH 4346",
+    "4346",
+    "FMH 14",
+    "14",
+    "Atlas van Stolk 4296",
+    "4296"
+  ],
+  "principalOrFirstMaker": "Reinier Vinkeles (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "185"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gebroeders Naerebout redden de opvarenden van de Woestduin, 1779, Reinier Vinkeles (I), 1787",
+  "subTitle": "h 185mm \u00d7 w 120mm",
+  "scLabelLine": "Reinier Vinkeles (I), 1787, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

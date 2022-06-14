@@ -1,0 +1,155 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-12-96-11",
+  "priref": "151287",
+  "objectNumber": "RP-P-AO-12-96-11",
+  "language": "en",
+  "title": "Zijaanzicht van de poort en de toegangsbrug bij Paleis Huis ten Bosch",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a1f3fc6d-a9e3-479e-afd7-acd0a8348ecc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3960,
+    "height": 4500,
+    "url": "https://lh3.ggpht.com/ZfByQXV2oVHlbnch66hTo93Yh2C0Kgp6_aaNRZKVtX0uQTw2vB-PhOaCj3WhPTGHMjO1wmtO3sCOvRruYOtYAOyOqQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zijaanzicht van de poort en de toegangsbrug bij Paleis Huis ten Bosch",
+    "Poort en brugge aen 't voorste incomen van De Sael van Orange",
+    "Paleis Huis ten Bosch"
+  ],
+  "description": "Rechts het zijaanzicht van de toegangsbrug met de poort bij Paleis Huis ten Bosch te Den Haag. Links het vooraanzicht van de poort. Onder de plattegrond van de toegangsbrug en poort.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Matthysz.",
+      "unFixedName": "Matthysz., Jan",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Matthysz., Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Matthysz.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1655",
+    "sortingDate": 1655,
+    "period": 17,
+    "yearEarly": 1655,
+    "yearLate": 1655
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C1425",
+      "48C1423",
+      "46C112",
+      "41A542"
+    ],
+    "iconClassDescription": [
+      "exterior ~ architectural design or model",
+      "plan ~ architecture",
+      "bridge",
+      "gate, entrance"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Paleis Huis ten Bosch"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-AO-12-96-11"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 1",
+    "1",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Jan Matthysz.",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "201"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "196"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Zijaanzicht van de poort en de toegangsbrug bij Paleis Huis ten Bosch, Jan Matthysz., 1655",
+  "subTitle": "h 201mm \u00d7 w 196mm",
+  "scLabelLine": "Jan Matthysz., 1655, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

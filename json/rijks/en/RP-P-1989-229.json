@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1989-229",
+  "priref": "105633",
+  "objectNumber": "RP-P-1989-229",
+  "language": "en",
+  "title": "Besnijdenis van Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7e252f20-22b4-44a0-90c2-b811762f253f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2187,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/HX3ubIY00mcCizkefAvkd5BvHH029YQomEriyyclrpadomUb9PPzWQs0GzqYa4Jq3h9zHlWb6Cuz4WuIiOSsu2dg-FAD=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Besnijdenis van Christus"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Christian Wilhelm Ernst Dietrich",
+      "unFixedName": "Dietrich, Christian Wilhelm Ernst",
+      "placeOfBirth": "Weimar",
+      "dateOfBirth": "1712-10-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1774-04-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Dresden",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Christian Wilhelm Ernst Dietrich (30-okt-1712 - 23-apr-1774), Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Christian Wilhelm Ernst Dietrich",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1989-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1732",
+    "sortingDate": 1732,
+    "period": 18,
+    "yearEarly": 1732,
+    "yearLate": 1732
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73B3",
+      "11H(SIMEON)",
+      "12A5211",
+      "41B313"
+    ],
+    "iconClassDescription": [
+      "circumcision of the Christ-child by the priest in the temple (Luke 2:21)",
+      "Simeon Christophorus (the Just, the Grey); possible attributes: the infant Christ in his arms",
+      "vestments of high priest ~ Jewish religion",
+      "candlestick"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1989-229"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Linck 11",
+    "11",
+    "LeBlanc 8",
+    "8"
+  ],
+  "principalOrFirstMaker": "Christian Wilhelm Ernst Dietrich",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "291"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "250"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Besnijdenis van Christus, Christian Wilhelm Ernst Dietrich, 1732",
+  "subTitle": "h 291mm \u00d7 w 250mm",
+  "scLabelLine": "Christian Wilhelm Ernst Dietrich, 1732, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

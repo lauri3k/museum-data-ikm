@@ -1,0 +1,268 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-100.024",
+  "priref": "118346",
+  "objectNumber": "RP-P-OB-100.024",
+  "language": "en",
+  "title": "Portret van Ann Baggaley Bradshaw en Francis Baggaley Bradshaw aan de schoot van hun moeder",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3f1aed14-8a5b-4068-96a9-3fdce633be4c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2019,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/SzojpYedo_KSxC-d6N_HheY6LnMQIFcs-56yrKjmo-c7euQhFbMOmcTp3yVhprvq0fHgh0d4vfurjLUT8awZVJMHH1SEpdhSsSHkC36J=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#403B35"
+    },
+    {
+      "percentage": 19,
+      "hex": " #685F57"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E4DBCB"
+    },
+    {
+      "percentage": 10,
+      "hex": " #847B71"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A095"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F9F3E5"
+    },
+    {
+      "percentage": 6,
+      "hex": " #CDC5B8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#403B35",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #685F57",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E4DBCB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #847B71",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A9A095",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #F9F3E5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CDC5B8",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 31,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 29,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 28,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Portret van Ann Baggaley Bradshaw en Francis Baggaley Bradshaw aan de schoot van hun moeder"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Ryland & Bryer",
+      "unFixedName": "Ryland & Bryer",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ryland & Bryer, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1767 - 1783",
+    "sortingDate": 1767,
+    "period": 18,
+    "yearEarly": 1767,
+    "yearLate": 1783
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Baggaley Bradshaw, Francis",
+      "Baggaley Bradshaw, Ann"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-100.024"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Baggaley Bradshaw, Francis",
+    "Baggaley Bradshaw, Ann"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 141",
+    "141"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "475"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "377"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Ann Baggaley Bradshaw en Francis Baggaley Bradshaw aan de schoot van hun moeder, Valentine Green, 1767 - 1783",
+  "subTitle": "h 475mm \u00d7 w 377mm",
+  "scLabelLine": "Valentine Green, 1767 - 1783, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

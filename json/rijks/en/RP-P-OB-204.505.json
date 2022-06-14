@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-204.505",
+  "priref": "550570",
+  "objectNumber": "RP-P-OB-204.505",
+  "language": "en",
+  "title": "De vertelling van Roodkapje",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1e0268c0-09aa-4bf3-b82d-5c268c580397",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1945,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/TkQgcz8FBhdFRM7PgvvihL5tshKg8jPd867-dtHqxki0bhGe-fVnR1mgF80O1Im6hRdP4yf3Jp2dvEgOuNwT7ukfZ8Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De vertelling van Roodkapje"
+  ],
+  "description": "Blad met 12 voorstellingen uit het sprookje van Roodkapje. Onder elke afbeelding een onderschrift.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Erve H. Rynders",
+      "unFixedName": "Rynders, Erve H.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Erve H. Rynders, Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Erve H. Rynders",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2014-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1831 - 1854",
+    "sortingDate": 1831,
+    "period": 19,
+    "yearEarly": 1831,
+    "yearLate": 1854
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-204.505"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Erve H. Rynders",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "422"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "331"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "De vertelling van Roodkapje, Erve H. Rynders, 1831 - 1854",
+  "subTitle": "h 422mm \u00d7 w 331mm",
+  "scLabelLine": "Erve H. Rynders, 1831 - 1854, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

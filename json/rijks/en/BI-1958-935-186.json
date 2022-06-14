@@ -1,0 +1,278 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-1958-935-186",
+  "priref": "453728",
+  "objectNumber": "BI-1958-935-186",
+  "language": "en",
+  "title": "Axel veroverd door Maurits en Philip Sidney, 1586",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2f505305-4967-426e-8699-6f1c70ddac91",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2880,
+    "height": 2291,
+    "url": "https://lh4.ggpht.com/vsqJgiJizF3TICNgT1A_TGKLordxKQXE4bHRmE0stxgYRlq3uPo7XznXQ8JFdwF9476LgOYZV8BCQAjLtZ2k9OgmFDk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FCF4D3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #847F6C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B1AB93"
+    },
+    {
+      "percentage": 38,
+      "hex": " #E0D8B9"
+    },
+    {
+      "percentage": 19,
+      "hex": " #64604F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #373428"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FCF4D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #847F6C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B1AB93",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E0D8B9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #64604F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #373428",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 32,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 39,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 30,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 12,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Axel veroverd door Maurits en Philip Sidney, 1586"
+  ],
+  "description": "Axel in Zeeland bij verrassing veroverd door Maurits en Philip Sidney, 17 juli 1586. Op de voorgrond Maurits en Sidney te paard. Met onderschrift van 4 regels in het Latijn. Genummerd 186. Bedrukt op achterzijde met tekst in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Michiel Colijn",
+      "unFixedName": "Colijn, Michiel",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Michiel Colijn, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Simon Frisius",
+      "unFixedName": "Frisius, Simon",
+      "placeOfBirth": "Harlingen",
+      "dateOfBirth": "1575",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1628",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Simon Frisius (c. 1575 - 1628), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Simon Frisius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1958-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1621 - 1622",
+    "sortingDate": 1621,
+    "period": 17,
+    "yearEarly": 1621,
+    "yearLate": 1622
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45K4"
+    ],
+    "iconClassDescription": [
+      "capture of city (after the siege)"
+    ],
+    "motifs": [],
+    "events": [
+      "Tachtigjarige Oorlog"
+    ],
+    "periods": [
+      "1586-07-171586-07-17"
+    ],
+    "places": [
+      "Axel"
+    ],
+    "people": [
+      "Maurits (prins van Oranje)",
+      "Sidney, Philip"
+    ],
+    "objectNumbers": [
+      "BI-1958-935-186"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)",
+    "Sidney, Philip"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 113, nr. 949."
+  ],
+  "catRefRPK": [
+    "FMH 949",
+    "949",
+    "Atlas van Stolk 267",
+    "267",
+    "Atlas van Stolk 874",
+    "874",
+    "Hollstein Dutch 23",
+    "23",
+    "New Hollstein Dutch 280",
+    "280"
+  ],
+  "principalOrFirstMaker": "Simon Frisius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Axel veroverd door Maurits en Philip Sidney, 1586, Simon Frisius, 1621 - 1622",
+  "subTitle": "h 130mm \u00d7 w 155mm",
+  "scLabelLine": "Simon Frisius, 1621 - 1622, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

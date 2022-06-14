@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1912-1918",
+  "priref": "128429",
+  "objectNumber": "RP-P-1912-1918",
+  "language": "en",
+  "title": "Portret van Hans David York von Wartenburg",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Hans David York von Wartenburg"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Louis Jacoby",
+      "unFixedName": "Jacoby, Louis",
+      "placeOfBirth": "Havelberg",
+      "dateOfBirth": "1828-06-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1918-11-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Louis Jacoby (07-jun-1828 - 11-nov-1918)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Louis Jacoby",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1838 - 1912",
+    "sortingDate": 1838,
+    "period": 19,
+    "yearEarly": 1838,
+    "yearLate": 1912
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45D311",
+      "46A1241(RED EAGLE ORDER)",
+      "46A1241(TEUTONIC ORDER)1"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "commander-in-chief, general, marshal",
+      "knighthood order (RED EAGLE ORDER)",
+      "knighthood order: Teutonic Order - insignia of a knighthood order, e.g.: badge, chain (with NAME of order)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Yorck von Wartenburg, Johann David Ludwig (graaf)"
+    ],
+    "objectNumbers": [
+      "RP-P-1912-1918"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Yorck von Wartenburg, Johann David Ludwig (graaf)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Apell 19",
+    "19"
+  ],
+  "principalOrFirstMaker": "Louis Jacoby",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Hans David York von Wartenburg, Louis Jacoby, 1838 - 1912",
+  "subTitle": "h 172mm \u00d7 w 112mm",
+  "scLabelLine": "Louis Jacoby, 1838 - 1912, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

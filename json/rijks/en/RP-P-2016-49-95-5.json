@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-49-95-5",
+  "priref": "616726",
+  "objectNumber": "RP-P-2016-49-95-5",
+  "language": "en",
+  "title": "Johannes van Capestrano",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9da57627-e3e3-4e5f-bb8a-91a7499a9c8a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2041,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/PDSqOCPWSY63zTUXomhKmXzW9HygjttiVYD1TS_zJJ0usJBY-lq8JZn8wlDDu_y7QCSUvgkxEh05F4Kd2fDUR6KYy8A=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes van Capestrano",
+    "(Johannes capistranus)",
+    "Liber Chronicarum"
+  ],
+  "description": "Een bloemkelk met een monnik met nimbus om het hoofd. In zijn handen een crucifix. De tekst identificeert hem als Johannes van Capestrano. De prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Wilhelm Pleydenwurff",
+      "unFixedName": "Pleydenwurff, Wilhelm",
+      "placeOfBirth": null,
+      "dateOfBirth": "1460",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1494-01-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Wilhelm Pleydenwurff (c. 1460 - 31-jan-1494)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Michel Wolgemut",
+      "unFixedName": "Wolgemut, Michel",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1434",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1519-11-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Michel Wolgemut (1434 - 30-nov-1519)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michel Wolgemut",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1874-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1493",
+    "sortingDate": 1493,
+    "period": 15,
+    "yearEarly": 1493,
+    "yearLate": 1493
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN OF CAPESTRANO)",
+      "11P31521"
+    ],
+    "iconClassDescription": [
+      "the Franciscan friar John of Capestrano; possible attributes: (monstrance with) IHS-monogram, banner with red cross, crucifix, Turk under feet",
+      "monk(s), friar(s)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Capistranus, Johannes"
+    ],
+    "objectNumbers": [
+      "RP-P-2016-49-95-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Capistranus, Johannes"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michel Wolgemut",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "68"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "52"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Johannes van Capestrano, Michel Wolgemut (workshop of), 1493",
+  "subTitle": "h 68mm \u00d7 w 52mm",
+  "scLabelLine": "Michel Wolgemut, 1493, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-207",
+  "priref": "12064",
+  "objectNumber": "SK-A-207",
+  "language": "en",
+  "title": "The Entrance to the Woods",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "727dbed0-4f9a-4217-834f-c2aa35258087",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2892,
+    "height": 2388,
+    "url": "https://lh3.googleusercontent.com/zyAhye5FqcohSjHc0Opm65lHtjmvPkMAzMWSj0TgKQqIAxm3LZMt3ABoa5Rqn8SfeBdUgdg7_2xAQmcuM3eh2TQuQ2U=s0"
+  },
+  "colors": [
+    {
+      "percentage": 25,
+      "hex": "#221D11"
+    },
+    {
+      "percentage": 37,
+      "hex": " #4B4026"
+    },
+    {
+      "percentage": 10,
+      "hex": " #6C6645"
+    },
+    {
+      "percentage": 9,
+      "hex": " #8E8C6E"
+    },
+    {
+      "percentage": 9,
+      "hex": " #ABAD98"
+    },
+    {
+      "percentage": 8,
+      "hex": " #CECDB5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#221D11",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4B4026",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6C6645",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #8E8C6E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #ABAD98",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CECDB5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 37,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 25,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "The Entrance to the Woods"
+  ],
+  "description": "Bosrand, hoog gelegen boven een rivier. Herders drijven een kudde runderen over een landweg tussen bomen. Links een uitgestrekt rivierlandschap met hier en daar een molen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Philips Koninck",
+      "unFixedName": "Koninck, Philips",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1619-11-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1688-04-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Philips Koninck (05-nov-1619 - 10-apr-1688)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philips Koninck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1808-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650 - 1688",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1688
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-207"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Rijksmuseum Kunstkrant, Jaargang 33 (sept.-okt. 2007), nr. 5, p. 7"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Philips Koninck",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "138"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "164.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Entrance to the Woods, Philips Koninck, 1650 - 1688",
+  "subTitle": "h 138cm \u00d7 w 164.5cm \u00d7 d 9cm",
+  "scLabelLine": "Philips Koninck (1619-1688), oil on canvas, c. 1670",
+  "label": {
+    "title": "The Entrance to the Woods",
+    "makerLine": "Philips Koninck (1619-1688), oil on canvas, c. 1670",
+    "description": "A vast watery view dotted with numerous mills \u2013 at first sight this is a typical Dutch landscape. The purplish mountains on the horizon, however, sooner recall Italy. To convey the wide panorama, Philips Koninck \u2013 a pupil of Rembrandt \u2013 adopted a high vantage point. In the foreground he placed some majestic trees rendered in a brownish-green impasto. Farther back, a meandering river leads the eye into the distance dominated by cooler colours.",
+    "notes": null,
+    "date": "2017-08-18"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,190 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-1994-1",
+  "priref": "114431",
+  "objectNumber": "RP-F-1994-1",
+  "language": "en",
+  "title": "Reproductie van het schilderij 'Sehnsucht' door C. Schweninger Jr., ter illustratie bij 'Der Trompeter von S\u00e4ckingen'",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "53ac7b27-262c-4d96-af7b-70e39e9037c7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1447,
+    "height": 2135,
+    "url": "https://lh3.googleusercontent.com/W9ag2ugehYewadjf4sAjHyZfyhxonjmX6lIUNW4fasT6NU8OS2roP2iXSnLEdjkEw-IPjdgI-qEqwcDbiejKUlKNlg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Reproductie van het schilderij 'Sehnsucht' door C. Schweninger Jr., ter illustratie bij 'Der Trompeter von S\u00e4ckingen'",
+    "Der Trompeter von S\u00e4ckingen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Verlag von Hanfstaengl's Nachfolger",
+      "unFixedName": "Verlag von Hanfstaengl's Nachfolger",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Berlin"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Verlag von Hanfstaengl's Nachfolger, Berlin"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1994-01-17T00:00:00",
+    "creditLine": "Gift of A.A.E. Vels Heijn, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "Berlin"
+  ],
+  "dating": {
+    "presentingDate": "1887",
+    "sortingDate": 1887,
+    "period": 19,
+    "yearEarly": 1887,
+    "yearLate": 1887
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C514",
+      "33C2162"
+    ],
+    "iconClassDescription": [
+      "picture, painting",
+      "lover (woman) alone (e.g. longing for the beloved)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-1994-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, Verlag von Hanfstaengl's Nachfolger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "122"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "95"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "171"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Reproductie van het schilderij 'Sehnsucht' door C. Schweninger Jr., ter illustratie bij 'Der Trompeter von S\u00e4ckingen', anonymous, Verlag von Hanfstaengl's Nachfolger, 1887",
+  "subTitle": "h 122mm \u00d7 w 95mm",
+  "scLabelLine": "anonymous, 1887, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1901-A-4520(R)",
+  "priref": "28132",
+  "objectNumber": "RP-T-1901-A-4520(R)",
+  "language": "en",
+  "title": "Saskia in Bed",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "31ac495e-dd29-4286-a4f0-18da3c5b1079",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2634,
+    "height": 1918,
+    "url": "https://lh3.googleusercontent.com/XYag8fLZmWLjVYHkqu27xWScObp0tVwLbaC6Mfk1IhMDDZDNHO0exv6FaEgN1geI8_Hf0nawUAZiBNLq_GNRD2FXG2_u=s0"
+  },
+  "colors": [
+    {
+      "percentage": 63,
+      "hex": "#E2D3B9"
+    },
+    {
+      "percentage": 33,
+      "hex": " #F5F1E0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D3B696"
+    },
+    {
+      "percentage": 0,
+      "hex": " #858274"
+    },
+    {
+      "percentage": 0,
+      "hex": " #949187"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C49675"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B6AEA7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E2D3B9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F5F1E0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D3B696",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #858274",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #949187",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C49675",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #B6AEA7",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#FFEBCD"
+    },
+    {
+      "percentage": 33,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Saskia in Bed"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1901-04-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1635",
+    "sortingDate": 1635,
+    "period": 17,
+    "yearEarly": 1635,
+    "yearLate": 1635
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A761"
+    ],
+    "iconClassDescription": [
+      "bed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Uylenburgh, Saskia van"
+    ],
+    "objectNumbers": [
+      "RP-T-1901-A-4520(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Uylenburgh, Saskia van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Schatborn 12",
+    "12"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "red chalk",
+  "longTitle": "Saskia in Bed, Rembrandt van Rijn, c. 1635",
+  "subTitle": "h 130mm \u00d7 w 175mm",
+  "scLabelLine": "red chalk, c. 1635",
+  "label": {
+    "title": "Saskia in Bed",
+    "makerLine": "red chalk, c. 1635",
+    "description": "This quick scribble almost certainly shows Rembrandt\u2019s wife, Saskia, whom he often drew during her confinements and illnesses. A very similar drawing, now in London, depicts the same woman holding a baby. Because Rembrandt favoured red chalk in the mid-1630s, that baby is most likely Rembrandt and Saskia\u2019s firstborn son, Rumbartus, who was baptized on 15 December 1635 and died two months later.",
+    "notes": null,
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

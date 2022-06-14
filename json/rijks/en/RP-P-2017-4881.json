@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-4881",
+  "priref": "671847",
+  "objectNumber": "RP-P-2017-4881",
+  "language": "en",
+  "title": "Ex libris van Mansueto Fenini",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van Mansueto Fenini",
+    "L'inchiostro del savio vale la spada del prode"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Tranquillo Marangoni",
+      "unFixedName": "Marangoni, Tranquillo",
+      "placeOfBirth": "Friuli-Venezia Giulia",
+      "dateOfBirth": "1912-04-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1992-03-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Liguri\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Tranquillo Marangoni (01-apr-1912 - 26-mrt-1992), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Tranquillo Marangoni",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2017-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1948",
+    "sortingDate": 1948,
+    "period": 20,
+    "yearEarly": 1948,
+    "yearLate": 1948
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D92",
+      "25F34",
+      "45C15(BOW)",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "woman (showing herself) undressed, quasi-nude",
+      "owls",
+      "archer's weapons: bow",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Fenini, Mansueto"
+    ],
+    "objectNumbers": [
+      "RP-P-2017-4881"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Fenini, Mansueto"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Tranquillo Marangoni",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "108"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Ex libris van Mansueto Fenini, Tranquillo Marangoni, 1948",
+  "subTitle": "h 87mm \u00d7 w 108mm",
+  "scLabelLine": "Tranquillo Marangoni, 1948, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

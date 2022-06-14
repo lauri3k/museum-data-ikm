@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-23184-1",
+  "priref": "822164",
+  "objectNumber": "RP-F-00-23184-1",
+  "language": "en",
+  "title": "Orange. Le Th\u00e9\u00e2tre Romain",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Orange. Le Th\u00e9\u00e2tre Romain"
+  ],
+  "description": "Prentbriefkaart maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Real-Photo (Cap, Paris)",
+      "unFixedName": "Real-Photo (Cap, Paris)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Real-Photo (Cap, Paris)"
+    },
+    {
+      "name": "Compagnie des Arts Photom\u00e9caniques",
+      "unFixedName": "Compagnie des Arts Photom\u00e9caniques",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Compagnie des Arts Photom\u00e9caniques, Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Real-Photo (Cap, Paris)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1932 - 1969",
+    "sortingDate": 1932,
+    "period": 20,
+    "yearEarly": 1932,
+    "yearLate": 1969
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A7211"
+    ],
+    "iconClassDescription": [
+      "amphitheatre"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Romeins theater van Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-23184-1"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Real-Photo (Cap, Paris), Compagnie des Arts Photom\u00e9caniques",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "140"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "photographic support",
+  "longTitle": "Orange. Le Th\u00e9\u00e2tre Romain, Real-Photo (Cap, Paris), Compagnie des Arts Photom\u00e9caniques, 1932 - 1969",
+  "subTitle": "h c.90mm \u00d7 w c.140mm",
+  "scLabelLine": "Real-Photo (Cap, Paris), 1932 - 1969, photographic support",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

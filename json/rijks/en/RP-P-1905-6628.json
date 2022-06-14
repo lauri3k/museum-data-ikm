@@ -1,0 +1,267 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-6628",
+  "priref": "151288",
+  "objectNumber": "RP-P-1905-6628",
+  "language": "en",
+  "title": "Zijaanzicht van de poort en de toegangsbrug bij Paleis Huis ten Bosch",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a587bed0-123c-4544-9934-840e68bda28f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3960,
+    "height": 4071,
+    "url": "https://lh4.ggpht.com/5UaKQAx5J6Hv6-LqgoR-7BDy2j7Mrp9SFpkI3kpFY9eDJEAtvWhLzCE-mENkErXVKA2-rhQPGn-iON5Lld-Z0UrbYw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 2,
+      "hex": "#FDFBF6"
+    },
+    {
+      "percentage": 29,
+      "hex": " #ECE4CD"
+    },
+    {
+      "percentage": 55,
+      "hex": " #C9C0AA"
+    },
+    {
+      "percentage": 5,
+      "hex": " #807866"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A7A08E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #494336"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FDFBF6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ECE4CD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C9C0AA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #807866",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A7A08E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #494336",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 55,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 29,
+      "hex": " #FFEFD5"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 86,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Zijaanzicht van de poort en de toegangsbrug bij Paleis Huis ten Bosch",
+    "Poort en brugge aen 't voorste incomen van De Sael van Orange",
+    "Paleis Huis ten Bosch"
+  ],
+  "description": "Rechts het zijaanzicht van de toegangsbrug met de poort bij Paleis Huis ten Bosch te Den Haag. Links het vooraanzicht van de poort. Onder de plattegrond van de toegangsbrug en poort.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Frederik de Wit",
+      "unFixedName": "Wit, Frederik de",
+      "placeOfBirth": null,
+      "dateOfBirth": "1631",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1706",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher",
+        "printer",
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Frederik de Wit (c. 1631 - 1706)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Matthysz.",
+      "unFixedName": "Matthysz., Jan",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Matthysz."
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Matthysz.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": "M.E. van den Brink Bequest, Velp"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1655",
+    "sortingDate": 1655,
+    "period": 17,
+    "yearEarly": 1655,
+    "yearLate": 1655
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C1425",
+      "48C1423",
+      "46C112",
+      "41A542"
+    ],
+    "iconClassDescription": [
+      "exterior ~ architectural design or model",
+      "plan ~ architecture",
+      "bridge",
+      "gate, entrance"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Paleis Huis ten Bosch"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1905-6628"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 1",
+    "1",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Jan Matthysz.",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "194"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Zijaanzicht van de poort en de toegangsbrug bij Paleis Huis ten Bosch, Jan Matthysz., 1655",
+  "subTitle": "h 200mm \u00d7 w 194mm",
+  "scLabelLine": "Jan Matthysz., 1655, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

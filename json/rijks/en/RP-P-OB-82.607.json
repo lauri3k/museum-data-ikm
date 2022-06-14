@@ -1,0 +1,306 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-82.607",
+  "priref": "467341",
+  "objectNumber": "RP-P-OB-82.607",
+  "language": "en",
+  "title": "Inname van Galway, 1691",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1628e43a-3da9-48ed-bf3b-bab874f6460b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2304,
+    "url": "https://lh4.ggpht.com/I-8EnJYBXmdkgBhR5QJBL37h3rDYgViPXn3kWs6VtWPi7xgODuuS2-aydFNYTCClUeSHIbrfx_DWpgFe99cX2VokUl4k=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#E1DAC4"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F5F3E8"
+    },
+    {
+      "percentage": 16,
+      "hex": " #C8BFA9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A59E8C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #837C6B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #49463C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #676153"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E1DAC4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F5F3E8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C8BFA9",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A59E8C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #837C6B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #49463C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #676153",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 16,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 26,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Inname van Galway, 1691",
+    "Galloway in Yerland, door 't Leger van zyn Brittannise Mayesteit onder den Baron van Ginkel Ingenomen",
+    "Engelands Schoutoneel, verbeeldende 't Gedenckwaardigste in en ontrent Engeland, Yerland, Vrankryk en de Nederlanden voorgevallen, zedert 't Jaar 1692, tot het Begraven der Koninginne Maria de tweede, 1695"
+  ],
+  "description": "Inname van Galway door het Engelse leger van koning Willem III onder de Nederlandse generaal Godard baron de Ginckel, 1691. Vertegenwoordigers van de stad bieden de sleutels van de stad. Plaat nr. VIII in de serie 'Engelands schouwtoneel' over oorlogen gevoerd door Willem III in de jaren 1691-1695 na de Glorious Revolution, (vierde deel). Met onderschriften in het Nederlands en Frans.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Laurens Scherm",
+      "unFixedName": "Scherm, Laurens",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1671",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1702-11-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Laurens Scherm (c. 1671 - 13-nov-1702), Amsterdam"
+    },
+    {
+      "name": "Adriaen Schoonebeek",
+      "unFixedName": "Schoonebeek, Adriaen",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1661",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1705",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Moskou",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adriaen Schoonebeek (c. 1661 - 1705), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1695",
+    "sortingDate": 1695,
+    "period": 17,
+    "yearEarly": 1695,
+    "yearLate": 1695
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45L11"
+    ],
+    "iconClassDescription": [
+      "surrender of keys"
+    ],
+    "motifs": [],
+    "events": [
+      "Inname van Galway"
+    ],
+    "periods": [
+      "16911691"
+    ],
+    "places": [
+      "Galway"
+    ],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-82.607"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 410, nr. 2695.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 247, nr. 2695IV/VIII."
+  ],
+  "catRefRPK": [
+    "FMH 2695",
+    "2695"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "197"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Inname van Galway, 1691, anonymous, 1695",
+  "subTitle": "h 150mm \u00d7 w 197mm",
+  "scLabelLine": "anonymous, 1695, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

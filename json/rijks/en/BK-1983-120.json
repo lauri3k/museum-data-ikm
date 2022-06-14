@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1983-120",
+  "priref": "317387",
+  "objectNumber": "BK-1983-120",
+  "language": "en",
+  "title": "Bowl with an incised decoration on a green ground",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "35f25976-1261-4a43-92fe-838a56f1c26f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2246,
+    "url": "https://lh4.ggpht.com/ecZcUP2ZLb5-hibQPGoFlz2V0QEmDKdGodiEIWabV07VG7wj9Tv0s6S-WnZzkUFPg6uywsWeWVoaLT7ybIE8jQhsrvM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#24281E"
+    },
+    {
+      "percentage": 9,
+      "hex": " #49523F"
+    },
+    {
+      "percentage": 24,
+      "hex": " #76786D"
+    },
+    {
+      "percentage": 44,
+      "hex": " #999A94"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C4C3C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F1F2F2"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#24281E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #49523F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #76786D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #999A94",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C4C3C0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #F1F2F2",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 24,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 68,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Bowl with an incised decoration on a green ground"
+  ],
+  "description": "Kom van aardewerk gedecoreerd met sgraffito (ingegrifte) versiering op engobe van witte slib waarover een monochrome groene loodglazuur is aangebracht.",
+  "labelText": null,
+  "objectTypes": [
+    "bowl"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1983-01-01T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Oosterbaan-Lugt, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "glaze"
+  ],
+  "techniques": [
+    "engraving",
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 900 - c. 999",
+    "sortingDate": 900,
+    "period": 9,
+    "yearEarly": 900,
+    "yearLate": 999
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1983-120"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "25"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Bowl with an incised decoration on a green ground, anonymous, c. 900 - c. 999",
+  "subTitle": "h 8.1cm \u00d7 d 25cm",
+  "scLabelLine": "anonymous, c. 900 - c. 999, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

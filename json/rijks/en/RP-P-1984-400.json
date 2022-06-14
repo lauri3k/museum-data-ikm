@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1984-400",
+  "priref": "420792",
+  "objectNumber": "RP-P-1984-400",
+  "language": "en",
+  "title": "Van Held Van Speijk wordt hier een tafereel gegeven, / Hij redde Oud-Hollands vlag ten koste van zijn leven",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "373b1d36-95f4-4482-8740-064f89f39728",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1979,
+    "url": "https://lh6.ggpht.com/_F52I8jF6ItXHc7z11g1SMgFGe8rcZgMwJsEIk__3cOMK0JM0MB-5mHWg-aw27nghGGTSR0wmoEwAfoY2-aJpHqqIuU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Van Held Van Speijk wordt hier een tafereel gegeven, / Hij redde Oud-Hollands vlag ten koste van zijn leven"
+  ],
+  "description": "Blad met 12 voorstellingen over het leven en de zelfopoffering van J.C.J. Van Speijk tijdens de strijd tegen de Belgen. Onder elke afbeelding een tweeregelig vers. Genummerd rechtsboven: No. 9.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Theodorus Johannes Wijnhoven-Hendriksen",
+      "unFixedName": "Wijnhoven-Hendriksen, Theodorus Johannes",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rotterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Theodorus Johannes Wijnhoven-Hendriksen, Rotterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Theodorus Johannes Wijnhoven-Hendriksen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1984-11-28T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Rotterdam"
+  ],
+  "dating": {
+    "presentingDate": "1832 - 1850",
+    "sortingDate": 1832,
+    "period": 19,
+    "yearEarly": 1832,
+    "yearLate": 1850
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3",
+      "44F",
+      "42B6",
+      "47H71"
+    ],
+    "iconClassDescription": [
+      "battle",
+      "revolutie, opstand",
+      "orphans",
+      "tailor, dressmaker"
+    ],
+    "motifs": [],
+    "events": [
+      "Belgische Revolutie",
+      "Zelfopoffering van Jan van Speijk"
+    ],
+    "periods": [
+      "1831"
+    ],
+    "places": [
+      "Belgi\u00eb",
+      "Nederland"
+    ],
+    "people": [
+      "Speijk, Jan Carel Josephus van"
+    ],
+    "objectNumbers": [
+      "RP-P-1984-400"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Speijk, Jan Carel Josephus van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Theodorus Johannes Wijnhoven-Hendriksen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "330"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "412"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Van Held Van Speijk wordt hier een tafereel gegeven, / Hij redde Oud-Hollands vlag ten koste van zijn leven, Theodorus Johannes Wijnhoven-Hendriksen, 1832 - 1850",
+  "subTitle": "h 330mm \u00d7 w 412mm",
+  "scLabelLine": "Theodorus Johannes Wijnhoven-Hendriksen, 1832 - 1850, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

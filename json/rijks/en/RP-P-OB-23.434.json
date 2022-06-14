@@ -1,0 +1,179 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-23.434",
+  "priref": "152183",
+  "objectNumber": "RP-P-OB-23.434",
+  "language": "en",
+  "title": "Overstroming bij Kampen, 1775",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c91e54ff-15f1-4008-9ac6-960ab48f532d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3960,
+    "height": 2856,
+    "url": "https://lh4.ggpht.com/NCy4RIzaTXMJvhhdmlvnX4oQmPQ1l03vG3bzL8dbtGESsA8GCFUUwSAOm7-VgFHmyhVrvDKXz-AL3ulDd1I2sbBxtA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Overstroming bij Kampen, 1775",
+    "Gezicht in de Koekoek, by Kampen, in de overstrooming, den 15den novemb. 1775"
+  ],
+  "description": "Overstroming bij Kampen op 15 november 1775. Links bezwijkt een huis waarin een moeder met kind om hulp roept. Op de voorgrond zitten drie mensen op het dak van een huis. Zeilschepen proberen mensen en vee te redden. Aan de horizon de stad Kampen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe Jacobus Loveringh & Johannes Allart",
+      "unFixedName": "Loveringh & Johannes Allart, weduwe Jacobus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object weduwe Jacobus Loveringh & Johannes Allart, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Noach van der Meer (II)",
+      "unFixedName": "Meer, Noach van der (II)",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1741-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1822-02-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Noach van der Meer (II) (16-apr-1741 - 20-feb-1822)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Noach van der Meer (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1776",
+    "sortingDate": 1776,
+    "period": 18,
+    "yearEarly": 1776,
+    "yearLate": 1776
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H199",
+      "25H1992",
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "flood",
+      "rescue work during a flood",
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [
+      "Watersnood 14-18 november 1775"
+    ],
+    "periods": [
+      "1775-11-151775-11-15"
+    ],
+    "places": [
+      "Kampen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-23.434"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 219, nr. 4302a."
+  ],
+  "catRefRPK": [
+    "FMH 4302",
+    "4302",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Noach van der Meer (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "216"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "307"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Overstroming bij Kampen, 1775, Noach van der Meer (II), 1776",
+  "subTitle": "h 216mm \u00d7 w 307mm",
+  "scLabelLine": "Noach van der Meer (II), 1776, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

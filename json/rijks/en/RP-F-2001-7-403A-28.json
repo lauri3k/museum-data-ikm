@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-403A-28",
+  "priref": "601405",
+  "objectNumber": "RP-F-2001-7-403A-28",
+  "language": "en",
+  "title": "Group of red kangaroos",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "54afbc95-bf1d-4b13-b190-30a93a172b14",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1654,
+    "url": "https://lh3.googleusercontent.com/Q72CDheRQDaFrfm8BkIhA0KxkoYgwgAO7qluNhz_U7t_diOOyTcp-gk4-_tjb1mcTXX0jMfNXh2dOlk_dgTsxhhdvg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Group of red kangaroos"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "J. & A. Lemercier",
+      "unFixedName": "Lemercier, J. & A.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "J. & A. Lemercier, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "J. Fortun\u00e9 Nott",
+      "unFixedName": "Nott, J. Fortun\u00e9",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "J. Fortun\u00e9 Nott"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "J. Fortun\u00e9 Nott",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "c. 1876 - in or before 1886",
+    "sortingDate": 1876,
+    "period": 19,
+    "yearEarly": 1876,
+    "yearLate": 1886
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F29(KANGAROO)",
+      "34E22"
+    ],
+    "iconClassDescription": [
+      "other mammals (with NAME)",
+      "zoological garden, zoo, seen as place where non-domestic animals are kept"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-403A-28"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "J. Fortun\u00e9 Nott",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "117"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "184"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Group of red kangaroos, J. Fortun\u00e9 Nott, c. 1876 - in or before 1886",
+  "subTitle": "h 117mm \u00d7 w 184mm",
+  "scLabelLine": "J. Fortun\u00e9 Nott, c. 1876 - in or before 1886, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

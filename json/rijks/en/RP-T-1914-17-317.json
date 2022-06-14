@@ -1,0 +1,270 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1914-17-317",
+  "priref": "436637",
+  "objectNumber": "RP-T-1914-17-317",
+  "language": "en",
+  "title": "Ardea cincrea (Grey heron)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a360dec2-3b52-44d6-9cc5-51fbe1db702c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2106,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/67vTymJMwk4Ky1uUJHO1praPY69jt8tR3-lh0SqYgOJgEkJzSejjFdnmJcvbt_WXWssDF2eYOUjZm83tAr3K_cm3tIpZ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 49,
+      "hex": "#E6E7E2"
+    },
+    {
+      "percentage": 39,
+      "hex": " #CDCAA2"
+    },
+    {
+      "percentage": 3,
+      "hex": " #989F96"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7B6C5A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #40453A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #697C8E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #162825"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E6E7E2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CDCAA2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #989F96",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7B6C5A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #40453A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #697C8E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #162825",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 39,
+      "hex": " #EEE8AA"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 39,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Ardea cincrea (Grey heron)"
+  ],
+  "description": "Vogelstudie: Blauwe reiger (Ardea cinerea); met schaalverdeling in Rijnlandse maat.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Robert Jacob Gordon",
+      "unFixedName": "Gordon, Robert Jacob",
+      "placeOfBirth": "Doesburg",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1795-10-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Kaapstad",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Robert Jacob Gordon (1743 - 25-okt-1795)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Jacob Gordon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Purchased with the support of private collectors"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor (paint)",
+    "pencil",
+    "chalk"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1777 - 1786",
+    "sortingDate": 1777,
+    "period": 18,
+    "yearEarly": 1777,
+    "yearLate": 1786
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F37(HERON)"
+    ],
+    "iconClassDescription": [
+      "shore-birds and wading-birds: heron"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1914-17-317"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Afb. op www.uct.ac.za/depts/age/people/Gordon: Grey heron."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Jacob Gordon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "660"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "480"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "417"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "248"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "362"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "237"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Ardea cincrea (Grey heron), Robert Jacob Gordon, 1777 - 1786",
+  "subTitle": "h c.660mm \u00d7 w 480mm",
+  "scLabelLine": "Robert Jacob Gordon, 1777 - 1786, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

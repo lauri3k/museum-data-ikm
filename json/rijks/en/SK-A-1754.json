@@ -1,0 +1,256 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1754",
+  "priref": "8384",
+  "objectNumber": "SK-A-1754",
+  "language": "en",
+  "title": "Merry Company",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7ba6da43-e1a1-4107-a429-343c9cf1aa3f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1828,
+    "url": "https://lh3.googleusercontent.com/-IiZVIsUs4mYv8SunEcHNUApfRgaSNC3LgDbQafQtes7SrsHfwU3_nJyG9sPsds8KH0WFkf-RIw1jMTEGGeWsAjxwJyFEiwBzEDdYd8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#180C09"
+    },
+    {
+      "percentage": 25,
+      "hex": " #372C20"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4A4842"
+    },
+    {
+      "percentage": 8,
+      "hex": " #989281"
+    },
+    {
+      "percentage": 7,
+      "hex": " #7F6544"
+    },
+    {
+      "percentage": 4,
+      "hex": " #6B3525"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BCBAAC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#180C09",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #372C20",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4A4842",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #989281",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7F6544",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #6B3525",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #BCBAAC",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 4,
+      "hex": " #800000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "A Festive Company",
+    "A Party"
+  ],
+  "description": "Feestvierend gezelschap. Interieur met een feestvierend, drinkend en muziekmakend gezelschap rond een gedekte tafel. Links zit een vrouw met een hondje op schoot, daarnaast een oude man met een lied of gedicht in de hand. In het midden zit een paar, waarvan de jongeman een leeg glas ondersteboven houdt, rechtsvoor een man die een luit bespeelt. Rechts staan een man en een vrouw. Op de voorgrond een omgevallen stoel, op tafel een aangebroken pastei, een schaal met bessen, een kan, borden en glazen. Aan de muur hangen twee schilderijen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Isack Elyas",
+      "unFixedName": "Elyas, Isack",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Isack Elyas"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Isack Elyas",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1898-01-01T00:00:00",
+    "creditLine": "D. Franken Bequest, Le V\u00e9sinet"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1629",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C51",
+      "48C7323"
+    ],
+    "iconClassDescription": [
+      "banquet of elegant company",
+      "lute, and special forms of lute, e.g.: theorbo"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1754"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "S. Wuhrman, 'A propos de la 'Joyeuse Compagnie'', in: Florilegium, Milaan 1995, p. 152-157 + afb.",
+    "P.J.J. van Thiel, in: Leids Kunsthistorisch Jaarboek (1995), p. 49",
+    "Annemarie Vels Heijn, 'Zoutvaten in verschillende stijlen', Rijksmuseum Kunstkrant 16 (1989/1990) nr. 1, afb, p. 9.",
+    "J. Bruyn, 'Mittelalterliche 'doctrina exemplaris' und Allegorie als Komponente des sog. Genrebildes, in: Jahrbuch Preussischer Kulturbesitz, dl. 4, Holl\u00e4ndische Genremalerei um 17. Jahrhundert, Berlijn 1987, p. 41, 42, fig. 3",
+    "Oud Holland 100 (1986) nr. 1, p. 19",
+    "D.R. Smith, Rembrandt's Early Double Portraits and the Dutch Conversation Piece, in: The Art Bulletin LXIV (1982), p. 269, 271, afb. 20",
+    "Th. Kven, Simiolus 11 (1981) nr. 2, p. 63-80, afb. 13",
+    "Rijksmuseum Kunstkrant 7 (1980) nr. 5",
+    "De gedekte tafel, vroeger en nu, Delft 1969",
+    "E. Plietzsch, 'Randbemerkungen zur Holl\u00e4ndischen Interieurmalerei am Regium des 17. Jahrhunderts, in: Wallraf-Richartz-Jahrbuch XVIII (1956), p. 175, afb. 138",
+    "Rijksmuseum Kunstkrant, september (1976)",
+    "J. Walsh, in: Bulletin Metropolitan Museum 31 (1935), p. 367"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Isack Elyas",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "47.1"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "63.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Merry Company, Isack Elyas, 1629",
+  "subTitle": "h 47.1cm \u00d7 w 63.2cm",
+  "scLabelLine": "Isack Elyas (active c. 1629), oil on panel, 1629",
+  "label": {
+    "title": "Merry Company",
+    "makerLine": "Isack Elyas (active c. 1629), oil on panel, 1629",
+    "description": "The figures around the table allude to the Five Senses. The woman with the lapdog represents Smell; the man with the piece of paper is Sight; the singing couple are Touch; the red-coated man with the glass of wine is Taste; and the lute-player is Hearing. On the wall behind them hangs a painting of The Deluge. That is a warning: there is more to life than pure sensual pleasure.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.6"
+}

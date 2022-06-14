@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1883-A-6894",
+  "priref": "154261",
+  "objectNumber": "RP-P-1883-A-6894",
+  "language": "en",
+  "title": "Pan en Syrinx",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f800cc7e-55a5-4e3f-b388-a3e211873ead",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2027,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/rVinGskOVcOmEheRZPgjMOM4ZZNmoSS8f7sjWFUrZ2GRc4rTu47YgArOy_bnGzRRd6eaaILz9rF0vPdpCf8ltTCTe4E=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Pan en Syrinx",
+    "Landschappen"
+  ],
+  "description": "Langs de waterkant achtervolgt Pan de nimf Syrinx, die in een bos riet verandert. Op de voorgrond de rivier, daarbij twee herten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Albert Meyering",
+      "unFixedName": "Meyering, Albert",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1645",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1714-07-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Albert Meyering (1645 - 17-jul-1714)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Albert Meyering",
+      "unFixedName": "Meyering, Albert",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1645",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1714-07-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albert Meyering (1645 - 17-jul-1714), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albert Meyering",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1883-02-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1695 - 1714",
+    "sortingDate": 1695,
+    "period": 17,
+    "yearEarly": 1695,
+    "yearLate": 1714
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "97BB5",
+      "25H213",
+      "25F24(DEER)"
+    ],
+    "iconClassDescription": [
+      "Syrinx changed into a reed: while fleeing from Pan, the nymph Syrinx is changed into reed by her sisters, the Naiads (Ovid, Metamorphoses I 705)",
+      "river",
+      "hoofed animals: deer"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1883-A-6894"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 7",
+    "7"
+  ],
+  "principalOrFirstMaker": "Albert Meyering",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "246"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "204"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Pan en Syrinx, Albert Meyering, 1695 - 1714",
+  "subTitle": "h 246mm \u00d7 w 204mm",
+  "scLabelLine": "Albert Meyering, 1695 - 1714, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

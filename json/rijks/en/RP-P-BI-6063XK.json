@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6063XK",
+  "priref": "96724",
+  "objectNumber": "RP-P-BI-6063XK",
+  "language": "en",
+  "title": "Christus wordt gekroond met de doornenkroon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b5d98652-2373-4b3f-8284-84d2a49eb275",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1917,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/vhawLPDxvlNzC6Sw8AdTAQXFxvJeq5dWLVFvbKpE6mRzSUyksK9TcL7a52bezwL-8lwcdZdf2uAAiK9KDAyKPmZmjA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Christus wordt gekroond met de doornenkroon",
+    "Passie en wederopstanding van Christus",
+    "Passio et Resvrrectio D.N. Iesv Christi"
+  ],
+  "description": "Christus wordt door de soldaten bespot. Hij krijgt een doornenkroon op zijn hoofd en een grasspriet als scepter. De prent heeft een Latijns onderschrift",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Adriaen Collaert",
+      "unFixedName": "Collaert, Adriaen",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1618-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Adriaen Collaert (c. 1560 - 29-jun-1618), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Adriaen Collaert",
+      "unFixedName": "Collaert, Adriaen",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1618-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Adriaen Collaert (c. 1560 - 29-jun-1618), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen Collaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1570 - 1618",
+    "sortingDate": 1570,
+    "period": 16,
+    "yearEarly": 1570,
+    "yearLate": 1618
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6063XK"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 153",
+    "153"
+  ],
+  "principalOrFirstMaker": "Adriaen Collaert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "64"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Christus wordt gekroond met de doornenkroon, Adriaen Collaert, 1570 - 1618",
+  "subTitle": "h 86mm \u00d7 w 64mm",
+  "scLabelLine": "Adriaen Collaert, 1570 - 1618, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

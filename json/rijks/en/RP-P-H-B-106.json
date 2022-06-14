@@ -1,0 +1,154 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-B-106",
+  "priref": "85045",
+  "objectNumber": "RP-P-H-B-106",
+  "language": "en",
+  "title": "Jason en Medea",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a9e56b1c-c86f-490b-8b77-80e02eb3337b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1715,
+    "url": "https://lh3.googleusercontent.com/W0bW-vPxM7yg__t_ojl2TgVGot0nrA2K4DcvH9FruH-GXjzfds3Uzt6EyonL4ngTPXDNJ5elCGvWOQYNZNoceYrGNw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Jason en Medea"
+  ],
+  "description": "Vier sc\u00e8nes uit het verhaal van Medea. Rechts Cre\u00fcsa, de bruid van Jason, zittend voor haar vader Creon. Achter Cre\u00fcsa staat een soldaat. Links naast de soldaat zakt Cre\u00fcsa in elkaar, door de pijn van de brandwonden die zij kreeg van de mantel die Medea haar had geschonken. Links van Cre\u00fcsa staat Medea met haar twee kinderen. Uiterst links staat Medea op een wagen die wordt getrokken door draken. Over haar schouder houdt zij een van haar kinderen, die zij later zal vermoorden. Op de achtergrond het Forum Romanum.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Giulio Bonasone",
+      "unFixedName": "Bonasone, Giulio",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": "1510",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1576",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Bologna",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giulio Bonasone (c. 1510 - after 1576), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giulio Bonasone",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1501 - 1580",
+    "sortingDate": 1501,
+    "period": 16,
+    "yearEarly": 1501,
+    "yearLate": 1580
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "95B(MEDEA)",
+      "94A74",
+      "94A72"
+    ],
+    "iconClassDescription": [
+      "Medea",
+      "Medea kills her two children; she flees from Corinth in a chariot drawn by winged dragons",
+      "Medea, through her children, sends Creusa wedding-gifts (a crown and a long robe)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Forum Romanum"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-B-106"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Massari 186",
+    "186",
+    "The Illustrated Bartsch 98",
+    "98",
+    "Bartsch 98",
+    "98"
+  ],
+  "principalOrFirstMaker": "Giulio Bonasone",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "215"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Jason en Medea, Giulio Bonasone, 1501 - 1580",
+  "subTitle": "h 215mm \u00d7 w 315mm",
+  "scLabelLine": "Giulio Bonasone, 1501 - 1580, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

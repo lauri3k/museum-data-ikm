@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-9386",
+  "priref": "690013",
+  "objectNumber": "RP-P-2017-9386",
+  "language": "en",
+  "title": "Ex libris van Tjeerd Jacob Twijnstra",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van Tjeerd Jacob Twijnstra",
+    "Ex libris T.J. Twijnstra"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerardus Pieter Lambertus Hilhorst",
+      "unFixedName": "Hilhorst, Gerardus Pieter Lambertus",
+      "placeOfBirth": "Hillegersberg",
+      "dateOfBirth": "1886-03-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1957-02-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gerardus Pieter Lambertus Hilhorst (19-mrt-1886 - 07-feb-1957), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerardus Pieter Lambertus Hilhorst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2017-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "Japanese paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1900 - 1957",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1957
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C13141",
+      "11H(GEORGE)",
+      "31E21"
+    ],
+    "iconClassDescription": [
+      "horse",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "natural death"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Twijnstra, Tjeerd Jacob"
+    ],
+    "objectNumbers": [
+      "RP-P-2017-9386"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Twijnstra, Tjeerd Jacob"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerardus Pieter Lambertus Hilhorst",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "142"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "96"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Ex libris van Tjeerd Jacob Twijnstra, Gerardus Pieter Lambertus Hilhorst, 1900 - 1957",
+  "subTitle": "h 142mm \u00d7 w 96mm",
+  "scLabelLine": "Gerardus Pieter Lambertus Hilhorst, 1900 - 1957, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,251 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.559A",
+  "priref": "462966",
+  "objectNumber": "RP-P-OB-81.559A",
+  "language": "en",
+  "title": "Beleg van Hulst door Frederik Hendrik, 1645",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1943c74c-e72b-4d7b-a547-0de5c9f64063",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2778,
+    "height": 2021,
+    "url": "https://lh4.ggpht.com/wonqGnKWhEhLKT6kx1wa5ynT6BXi8x2CRXRI4Vvxh16nix6z-G34gm4Wy7elP64qnhioQYxvCDe-BW79gv5909EBs9M=s0"
+  },
+  "colors": [
+    {
+      "percentage": 59,
+      "hex": "#DAD4C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FBF9F2"
+    },
+    {
+      "percentage": 10,
+      "hex": " #BAB4A0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #9D9889"
+    },
+    {
+      "percentage": 4,
+      "hex": " #857F6F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #6C6758"
+    },
+    {
+      "percentage": 2,
+      "hex": " #4B473C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DAD4C0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FBF9F2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BAB4A0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9D9889",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #857F6F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6C6758",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4B473C",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 59,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 16,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Beleg van Hulst door Frederik Hendrik, 1645",
+    "Afbeeldinge Van De Belegeringe van Hulst Door Syn H. den P. van Orangen / La Siege de Hulst P. Son A. le P.D. Orange"
+  ],
+  "description": "Beleg en verovering van Hulst door het Staatse leger onder Frederik Hendrik van 28 september tot 5 november 1645. Plan van de stad Hulst en het omliggende land met de omsingeling en de legerkampen van de belegeraars. Rechts het Verdronken Land van Saeftinghe. Linksonder enkele ruiters. Bij de prent behoort een tekstblad.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1645",
+    "sortingDate": 1645,
+    "period": 17,
+    "yearEarly": 1645,
+    "yearLate": 1645
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A3",
+      "45K"
+    ],
+    "iconClassDescription": [
+      "maps of separate countries or regions",
+      "beleg, stellingoorlog"
+    ],
+    "motifs": [],
+    "events": [
+      "Beleg en inname van Hulst (1645)"
+    ],
+    "periods": [
+      "16451645"
+    ],
+    "places": [
+      "Hulst"
+    ],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-81.559A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 198, nr. 1905A."
+  ],
+  "catRefRPK": [
+    "FMH 1905",
+    "1905"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "258"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "346"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Beleg van Hulst door Frederik Hendrik, 1645, anonymous, 1645",
+  "subTitle": "h 258mm \u00d7 w 346mm",
+  "scLabelLine": "anonymous, 1645, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

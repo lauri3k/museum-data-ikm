@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1934-391",
+  "priref": "192232",
+  "objectNumber": "RP-P-1934-391",
+  "language": "en",
+  "title": "Ecce Homo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4d95449b-3b59-487f-b502-0fdbcb640373",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1863,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/X1kOknefHMx57CLcvUltRdX1fG8jiJMkQqIxoTysz7JKXPomhu016gpALpXdSKJM2cctHT0ED7VWJAjZhzVxqwJszjTX=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ecce Homo"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Lucas Vorsterman (I)",
+      "unFixedName": "Vorsterman, Lucas (I)",
+      "placeOfBirth": "Zaltbommel",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1675",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "after print by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lucas Vorsterman (I) (1595 - 1675)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas Vorsterman (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1934-01-01T00:00:00",
+    "creditLine": "Gift of J.C.J. Bierens de Haan"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1629 - 1679",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1679
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D361(+0)",
+      "73D36(+0)",
+      "73D82(REED)"
+    ],
+    "iconClassDescription": [
+      "Christ alone (also called 'Ecce Homo') (+ variant)",
+      "Pilate showing Christ to the people, 'Ostentatio Christi', 'Ecce Homo' (John 19:4-6) (+ variant)",
+      "reed ~ instruments of the Passion"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1934-391"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 28",
+    "28"
+  ],
+  "principalOrFirstMaker": "Lucas Vorsterman (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "257"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "217"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Ecce Homo, Lucas Vorsterman (I), 1629 - 1679",
+  "subTitle": "h 257mm \u00d7 w 217mm",
+  "scLabelLine": "Lucas Vorsterman (I), 1629 - 1679, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

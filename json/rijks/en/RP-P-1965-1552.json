@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1965-1552",
+  "priref": "416698",
+  "objectNumber": "RP-P-1965-1552",
+  "language": "en",
+  "title": "H. Ursula met een pijl in de hand",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. Ursula met een pijl in de hand"
+  ],
+  "description": "De Heilige Ursula mediteert met een gebedenboek op haar schoot en een pijl in haar hand. Prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hans Weiditz (II)",
+      "unFixedName": "Weiditz, Hans (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1495",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1536",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Straatsburg (Frankrijk)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "after design by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "Hans Weiditz (II) (1495 - after 1536), Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hans Weiditz (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1965-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1500 - 1536",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1536
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(URSULA)"
+    ],
+    "iconClassDescription": [
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1965-1552"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hans Weiditz (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "69"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "78"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "H. Ursula met een pijl in de hand, Hans Weiditz (II), 1500 - 1536",
+  "subTitle": "h 69mm \u00d7 w 78mm",
+  "scLabelLine": "Hans Weiditz (II), 1500 - 1536, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

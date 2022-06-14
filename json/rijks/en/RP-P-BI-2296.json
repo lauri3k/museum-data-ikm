@@ -1,0 +1,282 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-2296",
+  "priref": "83953",
+  "objectNumber": "RP-P-BI-2296",
+  "language": "en",
+  "title": "Heilige Maria van Egypte als kluizenares",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3126d11e-9fb6-454d-9a1f-c34f1a4c8705",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1660,
+    "height": 2430,
+    "url": "https://lh5.ggpht.com/N7IvWL45bC3idYkBuzlf8F-lLVETTDGwRW8gNmFigl7CACePpqYVEH35MlfEl30LDKu1jJCYS-wXkZuKDu_LnMZiuA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#FBF9F1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E8E0CE"
+    },
+    {
+      "percentage": 14,
+      "hex": " #9C9589"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C5BEAE"
+    },
+    {
+      "percentage": 17,
+      "hex": " #7A7469"
+    },
+    {
+      "percentage": 24,
+      "hex": " #4D4941"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FBF9F1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E8E0CE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9C9589",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C5BEAE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7A7469",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4D4941",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 24,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 17,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 44,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Heilige Maria van Egypte als kluizenares",
+    "Gloria Eremitici non (...) vita rig\u00f4re cluet",
+    "Kluizenaressen",
+    "Sacra Eremus Ascetriarum"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Bo\u00ebtius Adamsz. Bolswert",
+      "unFixedName": "Bolswert, Bo\u00ebtius Adamsz.",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1580",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633-03-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "Bo\u00ebtius Adamsz. Bolswert (c. 1580 - 25-mrt-1633), Low Countries"
+    },
+    {
+      "name": "Hendrik Aertssens (II)",
+      "unFixedName": "Aertssens, Hendrik (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1622",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1663",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Hendrik Aertssens (II) (1622 - 1663), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bo\u00ebtius Adamsz. Bolswert",
+      "unFixedName": "Bolswert, Bo\u00ebtius Adamsz.",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1580",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633-03-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Bo\u00ebtius Adamsz. Bolswert (c. 1580 - 25-mrt-1633), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bo\u00ebtius Adamsz. Bolswert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Low Countries",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1590 - 1612",
+    "sortingDate": 1590,
+    "period": 16,
+    "yearEarly": 1590,
+    "yearLate": 1612
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(MARY OF EGYPT)",
+      "11Q331"
+    ],
+    "iconClassDescription": [
+      "the penitent harlot Mary of Egypt (Maria Aegyptiaca); possible attributes: long hair, three loaves",
+      "anchorite, hermit"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-2296"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 128",
+    "128",
+    "Roethlisberger 198",
+    "198"
+  ],
+  "principalOrFirstMaker": "Bo\u00ebtius Adamsz. Bolswert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "142"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Maria van Egypte als kluizenares, Bo\u00ebtius Adamsz. Bolswert, 1590 - 1612",
+  "subTitle": "h 142mm \u00d7 w 88mm",
+  "scLabelLine": "Bo\u00ebtius Adamsz. Bolswert, 1590 - 1612, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

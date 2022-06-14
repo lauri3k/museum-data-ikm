@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-2010-1642-5",
+  "priref": "507388",
+  "objectNumber": "BI-2010-1642-5",
+  "language": "en",
+  "title": "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (589) Tablier-Robe. Bonnet-Chapeau",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d51f749a-d572-4dd3-ba06-d7b61a085401",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1232,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/FHbU-Bm8bBghGCwJwn002tZV--Pd9Tkc6w8q0ptW1Gc2lXlKpppUu8DaNuEBszvd8ITYBqFXbibqAmYLkfSqtbfgF4Ppzb2TXKRihHjz=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (589) Tablier-Robe. Bonnet-Chapeau"
+  ],
+  "description": "Vrouw naar rechts, in een 'Tablier-Robe' met een enorme kraag tot net onder de kin (Collerette pliss\u00e9)  Op het hoofd een 'Bonnet-Chapeau' met een paarse strik. Lange witte handschoenen. De prent maakt deel uit van het modetijdschrift Journal des Dames et des Modes, uitgegeven door Pierre de la M\u00e9sang\u00e8re, Parijs, 1797-1839",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Pierre de la M\u00e9sang\u00e8re",
+      "unFixedName": "M\u00e9sang\u00e8re, Pierre de la",
+      "placeOfBirth": null,
+      "dateOfBirth": "1761",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1831",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pierre de la M\u00e9sang\u00e8re (1761 - 1831)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2010-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1805",
+    "sortingDate": 1805,
+    "period": 19,
+    "yearEarly": 1805,
+    "yearLate": 1805
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D11",
+      "41D221(BONNET-CHAPEAU)(+82)",
+      "41D211(+82)",
+      "41D2321(+82)",
+      "41D225(LONG GLOVES)(+82)",
+      "41D222(COLLERETTE)(+82)"
+    ],
+    "iconClassDescription": [
+      "fashion plates",
+      "dress, gown (+ women's clothes)",
+      "apron (+ women's clothes)",
+      "gloves, mittens (LONG GLOVES) (+ women's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18051805"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BI-2010-1642-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "181"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (589) Tablier-Robe. Bonnet-Chapeau, anonymous, 1805",
+  "subTitle": "h 181mm \u00d7 w 112mm",
+  "scLabelLine": "anonymous, 1805, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

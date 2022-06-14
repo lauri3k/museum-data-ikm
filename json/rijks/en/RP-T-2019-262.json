@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2019-262",
+  "priref": "732749",
+  "objectNumber": "RP-T-2019-262",
+  "language": "en",
+  "title": "Doortocht naar de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "66443097-a8f8-4424-af14-9bb668248b59",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1798,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/uJjjjPMngX-4KE6DONH1sQTCw2ddNezjlna0hE30_dL80Jo1FsGGq2EEz08HJqCSJkWFGxz9oF3CRlks7it80okiiun7f5dsy_ZF_DNs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doortocht naar de Rode Zee"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2019-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "pencil"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1890 - 1950",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1950
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C1426",
+      "41A44",
+      "71E122"
+    ],
+    "iconClassDescription": [
+      "interior ~ architectural design or model",
+      "(decorated) ceiling",
+      "passage through the Red Sea"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Warmenhuizen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2019-262"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "431"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "307"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Doortocht naar de Rode Zee, anonymous, 1890 - 1950",
+  "subTitle": "h 431mm \u00d7 w 307mm",
+  "scLabelLine": "anonymous, 1890 - 1950, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

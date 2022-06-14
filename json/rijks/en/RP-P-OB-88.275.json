@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-88.275",
+  "priref": "533886",
+  "objectNumber": "RP-P-OB-88.275",
+  "language": "en",
+  "title": "Gevangenisschip La Delphine, 1830",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7079757a-b83a-4fea-b524-fbbccb6ad57a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1818,
+    "url": "https://lh5.ggpht.com/9TpELuHxUQBKL-FLVx65FmcfUu1s0x_FcXama6r9u9B6zW2kj4dDRkL9dKSMQjsATbrLaAqIkjKav_uWrWqy6ytCKaw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gevangenisschip La Delphine, 1830",
+    "Ponton la Delphine, de Gand",
+    "Negentien platen van de gevechten in Antwerpen, 26-27 oktober 1830"
+  ],
+  "description": "Het schip La Delphine (mogelijk  La Dauphine) uit Gent gebruikt als een Nederlands gevangenisschip waarin ca. 99-100 Belgische gevangenen opgesloten waren. Voor anker liggend aan de rede  bij de Citadel van Antwerpen, (oktober?) 1830. Met drieregelig onderschrift. Onderdeel van een serie van negentien platen van de gevechten in Antwerpen, 26-27 oktober 1830.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Henry Ratinckx",
+      "unFixedName": "Ratinckx, Henry",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Henry Ratinckx, Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Belgium"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Belgium"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Belgium",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1830 - 1831",
+    "sortingDate": 1830,
+    "period": 19,
+    "yearEarly": 1830,
+    "yearLate": 1831
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C21(+33)",
+      "44G311",
+      "45I151"
+    ],
+    "iconClassDescription": [
+      "ships (in general) (+ propulsion of vehicle, ship, etc. by wind)",
+      "prison, jail",
+      "prisoner of war camp"
+    ],
+    "motifs": [],
+    "events": [
+      "Belgische Revolutie"
+    ],
+    "periods": [
+      "1830-101830-10"
+    ],
+    "places": [
+      "Antwerpen (stad)"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-88.275"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. III (jaren 1795 tot 1879), p. 177, nr. 6516/8."
+  ],
+  "catRefRPK": [
+    "FMH 6516",
+    "6516"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "276"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "379"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Gevangenisschip La Delphine, 1830, anonymous, 1830 - 1831",
+  "subTitle": "h 276mm \u00d7 w 379mm",
+  "scLabelLine": "anonymous, 1830 - 1831, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

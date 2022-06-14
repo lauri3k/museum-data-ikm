@@ -1,0 +1,127 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-3085",
+  "priref": "666780",
+  "objectNumber": "RP-P-2017-3085",
+  "language": "en",
+  "title": "Ex libris van het Haus am Schilf",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van het Haus am Schilf"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Anton Bl\u00f6chlinger",
+      "unFixedName": "Bl\u00f6chlinger, Anton",
+      "placeOfBirth": null,
+      "dateOfBirth": "1885-11-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1961-12-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Sankt Gallen",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anton Bl\u00f6chlinger (30-nov-1885 - 12-dec-1961)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anton Bl\u00f6chlinger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2017-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1941",
+    "sortingDate": 1941,
+    "period": 20,
+    "yearEarly": 1941,
+    "yearLate": 1941
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F6",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "fishes",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2017-3085"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anton Bl\u00f6chlinger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "95"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "72"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Ex libris van het Haus am Schilf, Anton Bl\u00f6chlinger, 1941",
+  "subTitle": "h 95mm \u00d7 w 72mm",
+  "scLabelLine": "Anton Bl\u00f6chlinger, 1941, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

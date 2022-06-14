@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-996-80",
+  "priref": "677204",
+  "objectNumber": "RP-F-2001-7-996-80",
+  "language": "en",
+  "title": "Portret van Red Cloud",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cec62d82-b730-48b5-b175-88d85a696b10",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2098,
+    "url": "https://lh3.googleusercontent.com/NAcbTBsvOopitM29xFj0wGcwb1vJkolfG6XnFqUL59PjwrwYvSCCCz0NzbkErQXgcENpYhVriwC8-PNkbn-Qjgppy3XNz90Duy7rGzh29w=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Red Cloud",
+    "Red Cloud- Dakota"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "United States of America"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, United States of America"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "United States of America"
+  ],
+  "dating": {
+    "presentingDate": "c. 1883 - in or before 1893",
+    "sortingDate": 1883,
+    "period": 19,
+    "yearEarly": 1883,
+    "yearLate": 1893
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32B342"
+    ],
+    "iconClassDescription": [
+      "Native peoples of North America"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Noord-Amerika",
+      "Dakota"
+    ],
+    "people": [
+      "Red Cloud"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-996-80"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Red Cloud"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "192"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Portret van Red Cloud, anonymous, c. 1883 - in or before 1893",
+  "subTitle": "h 192mm \u00d7 w 133mm",
+  "scLabelLine": "anonymous, c. 1883 - in or before 1893, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

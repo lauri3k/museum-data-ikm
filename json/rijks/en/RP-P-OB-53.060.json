@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-53.060",
+  "priref": "308506",
+  "objectNumber": "RP-P-OB-53.060",
+  "language": "en",
+  "title": "Dwarsdoorsnede longen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "095f81ff-12e1-4664-9261-9f32e8af8bc8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1425,
+    "height": 1527,
+    "url": "https://lh3.googleusercontent.com/I3-P5ScYiEeko-Iu4vRDFWap2aqHf5wDEZ45m7-X017Pbbji4FK3MZXfdQAqBgqHeadzrR9HRbdgetOPigK6QYL1RAliqCxSdoGM7NqDBQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dwarsdoorsnede longen"
+  ],
+  "description": "Prent is om de buitenste randen van de voorstelling afgesneden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lucas Kilian",
+      "unFixedName": "Kilian, Lucas",
+      "placeOfBirth": "Augsburg",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lucas Kilian (1579 - 1637)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas Kilian",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1589 - 1637",
+    "sortingDate": 1589,
+    "period": 16,
+    "yearEarly": 1589,
+    "yearLate": 1637
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A2222"
+    ],
+    "iconClassDescription": [
+      "lungs, bronchia"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-53.060"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lucas Kilian",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "38"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "48"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Dwarsdoorsnede longen, Lucas Kilian, 1589 - 1637",
+  "subTitle": "h 38mm \u00d7 w 48mm",
+  "scLabelLine": "Lucas Kilian, 1589 - 1637, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,278 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1906-312",
+  "priref": "198581",
+  "objectNumber": "RP-P-1906-312",
+  "language": "en",
+  "title": "Duinlandschap met wandelend gezin",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "90585b93-00cf-495c-951b-19e8e136177d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2048,
+    "url": "https://lh3.ggpht.com/UE4-U0Ms3Rg365uh6JAPEGRifWe4ndD5Vy5QI6XUeCXEFcqZMQLmebIKJ8J8HJnDQuB7mC0rbMrds5oPvcEzgV6p1w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 16,
+      "hex": "#ECEFE4"
+    },
+    {
+      "percentage": 14,
+      "hex": " #8A887C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #A8A89B"
+    },
+    {
+      "percentage": 19,
+      "hex": " #CDD0C4"
+    },
+    {
+      "percentage": 21,
+      "hex": " #615E53"
+    },
+    {
+      "percentage": 3,
+      "hex": " #3B3933"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECEFE4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8A887C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A8A89B",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CDD0C4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #615E53",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3B3933",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 25,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 36,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 35,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 23,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Duinlandschap met wandelend gezin",
+    "Gezicht langs het duyn op de herberg Kraantje Lek / Vue le long des dunes, a l'auberge Kraantje Lek"
+  ],
+  "description": "Duinlandschap met wandelend gezin bij Overveen, met op de voorgrond drie koeien. In het midden achter de bosjes de herberg Kraantje Lek.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Antoine Alexandre Joseph Cardon",
+      "unFixedName": "Cardon, Antoine Alexandre Joseph",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1739-12-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1822-09-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antoine Alexandre Joseph Cardon (07-dec-1739 - 10-sep-1822)"
+    },
+    {
+      "name": "De Compagnie",
+      "unFixedName": "De Compagnie",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object De Compagnie, Haarlem"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Antoine Cardon",
+      "unFixedName": "Cardon, Antoine",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1772",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-04-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antoine Cardon (1772 - 16-apr-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antoine Cardon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1906-01-01T00:00:00",
+    "creditLine": "Private gift"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1777 - 1822",
+    "sortingDate": 1777,
+    "period": 18,
+    "yearEarly": 1777,
+    "yearLate": 1822
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H",
+      "46C52",
+      "47I2112"
+    ],
+    "iconClassDescription": [
+      "landschappen",
+      "hotel, hostelry, inn",
+      "cow"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Overveen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1906-312"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Antoine Cardon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "298"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "374"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Duinlandschap met wandelend gezin, Antoine Cardon, 1777 - 1822",
+  "subTitle": "h 298mm \u00d7 w 374mm",
+  "scLabelLine": "Antoine Cardon, 1777 - 1822, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

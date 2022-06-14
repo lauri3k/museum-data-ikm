@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1898-A-20983",
+  "priref": "157574",
+  "objectNumber": "RP-P-1898-A-20983",
+  "language": "en",
+  "title": "Twee vrouwen oogsten koren",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a8a6792d-583b-4b0d-85c9-38222f28fcce",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1965,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/bjAzk_TF_KeTwQ-jaSqIS8Uo3fDtRb4KWRw8Kz5rMiHwF3zpXd_wdL8PcJef9ZVWIgHe3EHDM0oHT78AXcOH7mcg0ZuJwRnqSR5rOqfP0Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Twee vrouwen oogsten koren"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Victor Jacques Bertauts",
+      "unFixedName": "Bertauts, Victor Jacques",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1810-05-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1881",
+      "dateOfDeathPrecision": "in or before",
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Victor Jacques Bertauts (07-mei-1810 - in or before 1881), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "C\u00e9lestin Fran\u00e7ois Nanteuil",
+      "unFixedName": "Nanteuil, C\u00e9lestin Fran\u00e7ois",
+      "placeOfBirth": "Rome",
+      "dateOfBirth": "1813-07-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1873-09-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Bourron-Marlotte",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object C\u00e9lestin Fran\u00e7ois Nanteuil (11-jul-1813 - 04-sep-1873)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "C\u00e9lestin Fran\u00e7ois Nanteuil",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1898-01-01T00:00:00",
+    "creditLine": "D. Franken Bequest, Le V\u00e9sinet"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1851 - 1865",
+    "sortingDate": 1851,
+    "period": 19,
+    "yearEarly": 1851,
+    "yearLate": 1865
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)",
+      "47I15(SCYTHE)",
+      "47I14",
+      "31D13",
+      "41A7751"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed",
+      "agricultural implements: scythe",
+      "harvest",
+      "adolescent, young woman, maiden",
+      "container made of plant material other than wood: basket"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1898-A-20983"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "C\u00e9lestin Fran\u00e7ois Nanteuil",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "358"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "276"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Twee vrouwen oogsten koren, C\u00e9lestin Fran\u00e7ois Nanteuil, 1851 - 1865",
+  "subTitle": "h 358mm \u00d7 w 276mm",
+  "scLabelLine": "C\u00e9lestin Fran\u00e7ois Nanteuil, 1851 - 1865, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

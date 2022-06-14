@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-722",
+  "priref": "161791",
+  "objectNumber": "RP-P-1914-722",
+  "language": "en",
+  "title": "Portret van Ewald Friedrich Graf von Hertzberg",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c44865a7-1187-406b-bdc6-dc7b1d241af7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1858,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/uDTVOuVZZBUww6M83NIYQyvrx1tUy5o6mOWZx74XhZwgbA-3uLQ7VGOfBWHWw2bjB2443juk8uv87cwASKlKZ_EiAzFR80ASjCVgf384=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Ewald Friedrich Graf von Hertzberg"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Heinrich Jan Penningh",
+      "unFixedName": "Penningh, Heinrich Jan",
+      "placeOfBirth": "Negapatnam",
+      "dateOfBirth": "1700",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1799",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Heinrich Jan Penningh (1700 - 1799)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Heinrich Jan Penningh",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1792",
+    "sortingDate": 1792,
+    "period": 18,
+    "yearEarly": 1792,
+    "yearLate": 1792
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Hertzberg, Ewald Friedrich von (graaf)"
+    ],
+    "objectNumbers": [
+      "RP-P-1914-722"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Hertzberg, Ewald Friedrich von (graaf)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Heinrich Jan Penningh",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "203"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Ewald Friedrich Graf von Hertzberg, Heinrich Jan Penningh, 1792",
+  "subTitle": "h 203mm \u00d7 w 150mm",
+  "scLabelLine": "Heinrich Jan Penningh, 1792, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

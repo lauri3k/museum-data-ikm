@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1961-52",
+  "priref": "20691",
+  "objectNumber": "BK-1961-52",
+  "language": "en",
+  "title": "Alexander en Jaddua",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6d47115d-1ff0-440b-a688-97e074876309",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2076,
+    "url": "https://lh3.googleusercontent.com/R8k46QNDAg5BsFO3IyCDfig9E-L4HyCMfhjTcEUo-YJtpx5hOF4Ld34yVvmT5NI8NdMHEePSh__XLXG1XM52aifno1xbkQBo3Clq1M5VyQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#EBF0FC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C4CADB"
+    },
+    {
+      "percentage": 8,
+      "hex": " #15181D"
+    },
+    {
+      "percentage": 21,
+      "hex": " #4D4A3E"
+    },
+    {
+      "percentage": 44,
+      "hex": " #78736A"
+    },
+    {
+      "percentage": 19,
+      "hex": " #A9A082"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EBF0FC",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #C4CADB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #15181D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4D4A3E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #78736A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A9A082",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 65,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B0C4DE"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F8F8FF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 21,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 19,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Alexander en Jaddua",
+    "De geschiedenis van Alexander de Grote"
+  ],
+  "description": "Wandtapijt met Alexander de Grote knielend voor Jaddua, hogepriester van Jeruzalem, voorstelling ontleend aan de Joodsche Historieen, XI van Flavius Josephus. Uit een serie van negen wandtapijten met voorstellingen van Alexander de Grote. Gemerkt H D (Holland, Delft) en het wapen van Delft en gesigneerd 'I.KMANDER FECIT'.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Karel van Mander (II)",
+      "unFixedName": "Mander, Karel van (II)",
+      "placeOfBirth": "Kortrijk",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1623-06-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "Karel van Mander (II) (c. 1579 - 13-jun-1623), Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Karel van Mander (II)",
+      "unFixedName": "Mander, Karel van (II)",
+      "placeOfBirth": "Kortrijk",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1623-06-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "Karel van Mander (II) (c. 1579 - 13-jun-1623), Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Karel van Mander (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1961-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wool",
+    "wool",
+    "silk"
+  ],
+  "techniques": [
+    "tapestry"
+  ],
+  "productionPlaces": [
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "1619",
+    "sortingDate": 1619,
+    "period": 17,
+    "yearEarly": 1619,
+    "yearLate": 1619
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1961-52"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "M. Leesberg, Het Laatste avondmaal, het eerst bekende schilderstuk van Karel van Mander de Jonge, in: Oud Holland vol. 121 (2009) nr. 1, p. 3, afb. 4 (detail)",
+    "cat. tent. Delft 1981, M.I.E. van Zijl, 'De Delftse wandtapijten', in: R.A. Leeuw, I.V.T. Spaanders (red), De stad Delft. Cultuur en maatschappij van 1572 tot 1667, Delft (Stedelijk Museum Het Prinsenhof), Delft 1981, p. 207 met afb.",
+    "Verslagen der Rijksverzamelingen van Geschiedenis en Kunst, LXXXIII (1961), p. 29 en 35",
+    "Pierre-Maxime Schuhl, 'Alexandre et Jaddua', Gazette des Beaux-arts, dec. 1973, p. 387-388",
+    "Palais de San Donato catalogue, 1880, p. 26, no. 109"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Karel van Mander (II)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "436.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "523.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "tapestry",
+  "longTitle": "Alexander en Jaddua, Karel van Mander (II), 1619",
+  "subTitle": "h 436.0cm \u00d7 w 523.0cm",
+  "scLabelLine": "Karel van Mander (II), 1619, tapestry",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

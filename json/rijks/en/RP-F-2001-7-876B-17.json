@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-876B-17",
+  "priref": "658381",
+  "objectNumber": "RP-F-2001-7-876B-17",
+  "language": "en",
+  "title": "Fotoreproductie van een schilderij, voorstellende Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9058f81c-77cd-41f3-9419-40151b015301",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1614,
+    "url": "https://lh3.googleusercontent.com/srWFovfMF5h0NOCx43XX03hk3M2wsvN7jmlX7648hC1latx_KKyaHDf_VtgLS6W2WWuYdeotkQLRTIgjaCTyjDIjjdI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Fotoreproductie van een schilderij, voorstellende Johannes de Doper"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Carlo Naya",
+      "unFixedName": "Naya, Carlo",
+      "placeOfBirth": "Tronzano Vercellese",
+      "dateOfBirth": "1816-08-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1882-05-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Carlo Naya (02-aug-1816 - 30-mei-1882)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Carlo Naya",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1883 - in or before 1888",
+    "sortingDate": 1883,
+    "period": 19,
+    "yearEarly": 1883,
+    "yearLate": 1888
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "47I2133"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "lamb"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-876B-17"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Carlo Naya",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "129"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Fotoreproductie van een schilderij, voorstellende Johannes de Doper, Carlo Naya, c. 1883 - in or before 1888",
+  "subTitle": "h 129mm \u00d7 w 88mm",
+  "scLabelLine": "Carlo Naya, c. 1883 - in or before 1888, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

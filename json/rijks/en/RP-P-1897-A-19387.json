@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1897-A-19387",
+  "priref": "128367",
+  "objectNumber": "RP-P-1897-A-19387",
+  "language": "en",
+  "title": "Jonge vrouw met kap en een mand in een landschap",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cf77422c-86f4-4833-a98c-913c910def67",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1744,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/1eLgOoeex811z0Tp4gM8BnIh2sFNf6mfu1jzNCub3U-Ff8wzyHBF49ZA5sufqcNC46YItLxePOtBVu6Dg5nWmw9dzJoX4ZRmybgGxXTn=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Jonge vrouw met kap en een mand in een landschap",
+    "Little Red Riding Hood"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Henry Graves & Co.",
+      "unFixedName": "Henry Graves & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Henry Graves & Co., London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Richardson Jackson",
+      "unFixedName": "Jackson, John Richardson",
+      "placeOfBirth": "Portsmouth",
+      "dateOfBirth": "1819-12-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1877-05-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Southsea",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Richardson Jackson (14-dec-1819 - 10-mei-1877)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Richardson Jackson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1897-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1843",
+    "sortingDate": 1843,
+    "period": 19,
+    "yearEarly": 1843,
+    "yearLate": 1843
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D11222",
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "girl (child between toddler and youth)",
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1897-A-19387"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Richardson Jackson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "335"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "224"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Jonge vrouw met kap en een mand in een landschap, John Richardson Jackson, 1843",
+  "subTitle": "h 335mm \u00d7 w 224mm",
+  "scLabelLine": "John Richardson Jackson, 1843, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

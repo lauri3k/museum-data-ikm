@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-242-5",
+  "priref": "623910",
+  "objectNumber": "RP-F-2001-7-242-5",
+  "language": "en",
+  "title": "Black Jack",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5cda07a8-99a3-4908-bb92-0acd7220715e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1664,
+    "url": "https://lh3.googleusercontent.com/aYP8Mm8rZ8hyM7q14zJBLgmffHB_5fN2x1s6DVyUclWjwuFEuCOF0R0Kx0jDVljv4aymuTJjuCnN5-W422-FabE-60c=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Black Jack"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Thomson",
+      "unFixedName": "Thomson, John",
+      "placeOfBirth": "Edinburgh",
+      "dateOfBirth": "1837-06-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1921-09-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "John Thomson (14-jun-1837 - 30-sep-1921), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Thomson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1871 - in or before 1881",
+    "sortingDate": 1871,
+    "period": 19,
+    "yearEarly": 1871,
+    "yearLate": 1881
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C13142",
+      "46C1421"
+    ],
+    "iconClassDescription": [
+      "ass, donkey",
+      "two-wheeled vehicle drawn by one animal"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-242-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Thomson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "93"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "106"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Black Jack, John Thomson, c. 1871 - in or before 1881",
+  "subTitle": "h 93mm \u00d7 w 106mm",
+  "scLabelLine": "John Thomson, c. 1871 - in or before 1881, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1961-1091",
+  "priref": "37015",
+  "objectNumber": "RP-P-1961-1091",
+  "language": "en",
+  "title": "A beggar in a tall hat and long cloak, with a cottage and two figures in the background",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ecf91a94-a41a-4618-9ba5-53fbe588256d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1644,
+    "height": 2256,
+    "url": "https://lh3.ggpht.com/q_JecWMykkU1byt2JfknVtoxjwrnfqg_zuzGpMGfCbmKNgb91tbvlrOqk_1HI-S76N-hs-YDhTbkpOVOG6l_kHAJqw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "A beggar in a tall hat and long cloak, with a cottage and two figures in the background"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "L\u00e9opold Flameng",
+      "unFixedName": "Flameng, L\u00e9opold",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1831",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1911-09-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Courgent",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "L\u00e9opold Flameng (1831 - 04-sep-1911)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "L\u00e9opold Flameng",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1961-01-01T00:00:00",
+    "creditLine": "Mr and Mrs De Bruijn-van der Leeuw Bequest, Muri, Switzerland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1841 - 1911",
+    "sortingDate": 1841,
+    "period": 19,
+    "yearEarly": 1841,
+    "yearLate": 1911
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A151"
+    ],
+    "iconClassDescription": [
+      "beggar"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1961-1091"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 16",
+    "16"
+  ],
+  "principalOrFirstMaker": "L\u00e9opold Flameng",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "117"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "A beggar in a tall hat and long cloak, with a cottage and two figures in the background, L\u00e9opold Flameng, 1841 - 1911",
+  "subTitle": "h 117mm \u00d7 w 87mm",
+  "scLabelLine": "L\u00e9opold Flameng, 1841 - 1911, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

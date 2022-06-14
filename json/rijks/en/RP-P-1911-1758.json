@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1911-1758",
+  "priref": "104187",
+  "objectNumber": "RP-P-1911-1758",
+  "language": "en",
+  "title": "Portret van Filips V van Frankrijk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "500bdeac-8d8e-4b08-ab40-c0098b1762ca",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1784,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/AAKzzPXJA-iKGMii_00OzdtLMZ-PtcxsktWI1F2OEYL5pTm5zKdiiKrwiNW18peDHk4wDrr3rraLJvFI1YWUHXLqtibD8UmVzPlr0K0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Filips V van Frankrijk",
+    "Philippe V, dit le Long"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "veuve Delpech (Naudet)",
+      "unFixedName": "Delpech, veuve (Naudet)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object veuve Delpech (Naudet), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "in or after 1818 - in or before 1842",
+    "sortingDate": 1818,
+    "period": 19,
+    "yearEarly": 1818,
+    "yearLate": 1842
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Filips V (koning van Frankrijk)"
+    ],
+    "objectNumbers": [
+      "RP-P-1911-1758"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Filips V (koning van Frankrijk)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, veuve Delpech (Naudet)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "272"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "181"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Filips V van Frankrijk, anonymous, veuve Delpech (Naudet), in or after 1818 - in or before 1842",
+  "subTitle": "h 272mm \u00d7 w 181mm",
+  "scLabelLine": "anonymous, in or after 1818 - in or before 1842, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

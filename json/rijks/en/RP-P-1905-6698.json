@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-6698",
+  "priref": "118375",
+  "objectNumber": "RP-P-1905-6698",
+  "language": "en",
+  "title": "Philippus van Acarnani\u00eb leest een brief voor aan Alexander de Grote",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ac2addb9-fa03-4634-b0e7-4a334ae7b8c0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2070,
+    "url": "https://lh3.googleusercontent.com/BsL0xm_tNBIopJ5P5iZBvX4xdAEWTW2-yYEPtQhgGJt4AWEaSXxyqH9_EO-23Fse5gzdwWTbr4Q5j8EzF54-CXysLPRy-5lmI-dDJFM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Philippus van Acarnani\u00eb leest een brief voor aan Alexander de Grote"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Boydell",
+      "unFixedName": "Boydell, John",
+      "placeOfBirth": "Dorrington",
+      "dateOfBirth": "1719-01-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-12-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Boydell (19-jan-1719 - 21-dec-1804), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": "M.E. van den Brink Bequest, Velp"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1772",
+    "sortingDate": 1772,
+    "period": 18,
+    "yearEarly": 1772,
+    "yearLate": 1772
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45C41",
+      "49LL71",
+      "49N1"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "(military) camp with tents",
+      "scroll - LL - scroll unfolded",
+      "reading to somebody"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Alexander de Grote",
+      "Acarnani\u00eb, Philippus van"
+    ],
+    "objectNumbers": [
+      "RP-P-1905-6698"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Alexander de Grote",
+    "Acarnani\u00eb, Philippus van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "440"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "527"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Philippus van Acarnani\u00eb leest een brief voor aan Alexander de Grote, Valentine Green, 1772",
+  "subTitle": "h 440mm \u00d7 w 527mm",
+  "scLabelLine": "Valentine Green, 1772, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

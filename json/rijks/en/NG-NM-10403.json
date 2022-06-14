@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-10403",
+  "priref": "246357",
+  "objectNumber": "NG-NM-10403",
+  "language": "en",
+  "title": "Rapier of Michiel de Ruyter",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4171ce3b-6824-4ca3-a5ec-3406e9fc7086",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 525,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/QLNtIf9os8QTwhKywxMzDVfzlE23CsGKOshkwm6gxJmrNkjbWZRcPwA0M2agjwI5HGHIaknBU6tE2IVJdIGy8q_0xyUQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 82,
+      "hex": "#D2D1CF"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B9B0AB"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A37263"
+    },
+    {
+      "percentage": 2,
+      "hex": " #63504D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #ECECEC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D09785"
+    },
+    {
+      "percentage": 0,
+      "hex": " #312120"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D2D1CF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #B9B0AB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A37263",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #63504D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ECECEC",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #D09785",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #312120",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 82,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #BC8F8F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E9967A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 89,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F49B7A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Rapier met een vierkantige kling, opschrift in geul en een gevest dat volledig van bloedkoraal is gemaakt. De gevestknop heeft de vorm van een ruiterhelm. De greep is versierd met geometrische motieven en plantmotieven. De buitenzijde van de stootplaat is versierd met een voorstelling van een ruiter te paard die een commandostaf omhoog houdt, omringd door bloem- en plantmotieven. De bloedkoralen pareerstangen eindigen allebei in een kronkelende draak. Lange zwartleren schede met koperen punt en haakband van bloedkoraal in de vorm van een slang.",
+  "labelText": null,
+  "objectTypes": [
+    "rapier"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Naples"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Naples"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "iron (metal)",
+    "red coral (material)",
+    "copper (metal)",
+    "leather"
+  ],
+  "techniques": [
+    "engraving",
+    "striking (metalworking)",
+    "cutting",
+    "forging"
+  ],
+  "productionPlaces": [
+    "Naples"
+  ],
+  "dating": {
+    "presentingDate": "c. 1675",
+    "sortingDate": 1675,
+    "period": 17,
+    "yearEarly": 1675,
+    "yearLate": 1675
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25FF422"
+    ],
+    "iconClassDescription": [
+      "dragon (large fabulous serpent, sometimes with wings and legs)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16071676"
+    ],
+    "places": [],
+    "people": [
+      "Ruyter, Michiel Adriaansz. de"
+    ],
+    "objectNumbers": [
+      "NG-NM-10403"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Ruyter, Michiel Adriaansz. de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Eveline Sint Nicolaas, 'A Diplomatic Gift Full of Surprises : The weapon rack of Cornelis Tromp and other 'exotic' arms belonging to Tromp and Michiel de Ruyter', in: Thom Richardson,  East Meets West : Diplomatic Gifts of Arms and Armour between Europe and Asia, proceedings of the Royal Armouries conference held at H.M. Tower of London, Saturday 14 September 2013, p. 110, fig. 22.",
+    "G. van der Ham, 'Musea en geschiedenis' in: V. Byvanck (red.), Zeeuws Imago, Middelburg, 2007, p. 113 e.v."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "104.8"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "92.4"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "93"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Rapier of Michiel de Ruyter, anonymous, c. 1675",
+  "subTitle": "l 104.8cm",
+  "scLabelLine": "Naples, c. 1675, iron, blood coral; scabbard: copper, leather",
+  "label": {
+    "title": "Rapier of Michiel de Ruyter",
+    "makerLine": "Naples, c. 1675, iron, blood coral; scabbard: copper, leather",
+    "description": "In 1675 Michiel de Ruyter was presented with this rapier with a blood-coral hilt by the Marqu\u00e9s de los V\u00e9lez, Spanish Viceroy of Naples. De Ruyter and his fleet had foiled an imminent attack by the French fleet in the Bay of Naples. The equestrian figure on the hilt is a reference to the name De Ruyter (The Cavalryman or Rider).",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-0.12"
+}

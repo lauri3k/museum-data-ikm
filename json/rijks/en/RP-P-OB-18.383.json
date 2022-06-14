@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-18.383",
+  "priref": "88368",
+  "objectNumber": "RP-P-OB-18.383",
+  "language": "en",
+  "title": "Drie dronken mannen en een vrouw in een caf\u00e9",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Drie dronken mannen en een vrouw in een caf\u00e9",
+    "The red-nosed man discourseth"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Chapman & Hall",
+      "unFixedName": "Chapman & Hall",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Chapman & Hall, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hablot Knight Browne",
+      "unFixedName": "Browne, Hablot Knight",
+      "placeOfBirth": "Kensington",
+      "dateOfBirth": "1815",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1882-07-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Hove (Groot-Brittanni\u00eb)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hablot Knight Browne (1815 - 08-jul-1882), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hablot Knight Browne",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1837",
+    "sortingDate": 1837,
+    "period": 19,
+    "yearEarly": 1837,
+    "yearLate": 1837
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31B52",
+      "43B31"
+    ],
+    "iconClassDescription": [
+      "drunkenness",
+      "inn, coffee-house, public house, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-18.383"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hablot Knight Browne",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "174"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "122"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Drie dronken mannen en een vrouw in een caf\u00e9, Hablot Knight Browne, 1837",
+  "subTitle": "h 174mm \u00d7 w 122mm",
+  "scLabelLine": "Hablot Knight Browne, 1837, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

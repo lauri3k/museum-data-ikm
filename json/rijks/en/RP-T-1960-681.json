@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1960-681",
+  "priref": "307994",
+  "objectNumber": "RP-T-1960-681",
+  "language": "en",
+  "title": "Vlaggen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "78691610-4c62-477e-806b-9d9fed56e79e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1704,
+    "url": "https://lh3.googleusercontent.com/MxiJzUkz0WXoPxHf05B7ETs30o5vmzi-5eHICXAMslTsSnXFcugfKQPFKH_LEf2yUikcbCV7bdO7U1BAk-WYpJvmqIW-=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Vlaggen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Leo Gestel",
+      "unFixedName": "Gestel, Leo",
+      "placeOfBirth": "Woerden",
+      "dateOfBirth": "1881-11-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1941-11-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Hilversum",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Leo Gestel (22-nov-1881 - 26-nov-1941)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Leo Gestel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": "G. Gestel-Overtoom Bequest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "deck paint",
+    "India ink (ink)"
+  ],
+  "techniques": [
+    "pen"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1934 - 1936",
+    "sortingDate": 1934,
+    "period": 20,
+    "yearEarly": 1934,
+    "yearLate": 1936
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "83(COHEN, Van Anarchist tot Monarchist)",
+      "44A3",
+      "22C4(RED)"
+    ],
+    "iconClassDescription": [
+      "(COHEN, Van Anarchist tot Monarchist) specific works of literature (with AUTHOR, Title)",
+      "flag, colours (as symbol of the state, etc.)",
+      "colours, pigments, and paints: red"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1960-681"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Leo Gestel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "131"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "192"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Vlaggen, Leo Gestel, 1934 - 1936",
+  "subTitle": "h 131mm \u00d7 w 192mm",
+  "scLabelLine": "Leo Gestel, 1934 - 1936, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

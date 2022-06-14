@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-207.177",
+  "priref": "564345",
+  "objectNumber": "RP-P-OB-207.177",
+  "language": "en",
+  "title": "Roodkapje en Klein Duimpje",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "75633691-3ce9-4b30-a8fc-01590fe4c473",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1953,
+    "url": "https://lh4.ggpht.com/KEPtLNJ6KvVPXQQPoDxPrWZItYUgUN49mxTdN2Pp00y7izQlRTyiU_SEDZP5r2AzyeBStln9tpQ1HFv_2l2flArrpUw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Roodkapje en Klein Duimpje"
+  ],
+  "description": "Blad met 8 voorstellingen uit de sprookjes van Roodkapje en Klein Duimpje. Onder elke voorstelling een tweeregelig vers. Genummerd linksboven: no 109.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Lutkie & Cranenburg",
+      "unFixedName": "Lutkie & Cranenburg",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer",
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Den Bosch"
+      ],
+      "qualification": null,
+      "labelDesc": "Lutkie & Cranenburg, Den Bosch"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lutkie & Cranenburg",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Den Bosch",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1848 - 1881",
+    "sortingDate": 1848,
+    "period": 19,
+    "yearEarly": 1848,
+    "yearLate": 1881
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)",
+      "84(LITTLE THUMBLING)"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood",
+      "tales and fairy tales: Little Thumbling"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-207.177"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lutkie & Cranenburg",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "309"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "388"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Roodkapje en Klein Duimpje, Lutkie & Cranenburg, 1848 - 1881",
+  "subTitle": "h 309mm \u00d7 w 388mm",
+  "scLabelLine": "Lutkie & Cranenburg, 1848 - 1881, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

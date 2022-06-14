@@ -1,0 +1,194 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1939-1445",
+  "priref": "89687",
+  "objectNumber": "RP-P-1939-1445",
+  "language": "en",
+  "title": "Lijkstatie van Willem IV, 1752",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4083c37d-d9fe-4795-a312-38fc935a2334",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2257,
+    "url": "https://lh3.ggpht.com/B4ylxT5y7d75RbMZ08Kq7ZdwbJXZhbTGYDnZqgagRB3LnX3RcRJGjuQEpXFuovmToDDxiGXjhlIHQ3rc2VoPzQQJWnA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Lijkstatie van Willem IV, 1752",
+    "Lykstatie van (...) Willem Karel Hendrik Friso, prince van Orange en Nassau, (...) gehouden op den 4 February 1752"
+  ],
+  "description": "De lijkstatie van de begrafenis van Willem IV, prins van Oranje Nassau op 4 februari 1752 te Delft. Onderdelen van de stoet zijn genummerd van 1 -77, onder de voorstelling de legenda.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Wilt",
+      "unFixedName": "Wilt, Cornelis",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Wilt, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacobus Buys",
+      "unFixedName": "Buys, Jacobus",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1724-11-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1801-04-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacobus Buys (19-nov-1724 - 07-apr-1801), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacobus Buys",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1939-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1752 - 1754",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1754
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E22"
+    ],
+    "iconClassDescription": [
+      "cortege, funeral procession"
+    ],
+    "motifs": [],
+    "events": [
+      "Begrafenis van Willem IV (1752)"
+    ],
+    "periods": [
+      "1752-02-041752-02-04"
+    ],
+    "places": [],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-1939-1445"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 25, nr. 4035"
+  ],
+  "catRefRPK": [
+    "FMH 4035",
+    "4035"
+  ],
+  "principalOrFirstMaker": "Jacobus Buys",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "430"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "435"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "485"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Lijkstatie van Willem IV, 1752, Jacobus Buys, 1752 - 1754",
+  "subTitle": "h 270mm \u00d7 w 430mm",
+  "scLabelLine": "Jacobus Buys, 1752 - 1754, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

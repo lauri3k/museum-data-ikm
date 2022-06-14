@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-55.649",
+  "priref": "120202",
+  "objectNumber": "RP-P-OB-55.649",
+  "language": "en",
+  "title": "Paar in een keukeninterieur",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8e9596f2-24a2-4691-86de-c5dc62a420fe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2054,
+    "height": 2634,
+    "url": "https://lh5.ggpht.com/BwSG4atdVFHfp86CASxzGu8KDdL7dtAAgweL7cEvwW232m7_rF-_ILXWTcowmJNDGopeMpX-aLXa2pSaKKJLTIhsjCYg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#8F8E7E"
+    },
+    {
+      "percentage": 20,
+      "hex": " #656758"
+    },
+    {
+      "percentage": 19,
+      "hex": " #E9E5D8"
+    },
+    {
+      "percentage": 18,
+      "hex": " #40483C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B4B0A0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #CDC8B8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEFA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#8F8E7E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #656758",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E9E5D8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #40483C",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #B4B0A0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CDC8B8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FEFEFA",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 27,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 18,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 33,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Paar in een keukeninterieur"
+  ],
+  "description": "Een man knielend bij een vrouw in een interieur met diverse groenten op een tafel. Met onderschrift: Jean il est bien doux, de faire l\u00e1mour dans la cuisine/ Marguerite vous entr\u00e9s en go\u00fbt je le vois bien a v\u00f4tre mine.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes van Haeften",
+      "unFixedName": "Haeften, Nicolaes van",
+      "placeOfBirth": "Gorinchem",
+      "dateOfBirth": "1653",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1715-02-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "painter",
+        "draughtsman",
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolaes van Haeften (1653 - 20-feb-1715), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes van Haeften",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1702",
+    "sortingDate": 1702,
+    "period": 18,
+    "yearEarly": 1702,
+    "yearLate": 1702
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C211",
+      "33C21",
+      "41C652",
+      "41C2611"
+    ],
+    "iconClassDescription": [
+      "kitchen-interior",
+      "courting",
+      "vegetables",
+      "cleaning vegetables"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-55.649"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Fred G. Meijer, 'Nicolaes van Haeften, Prints and Paintings', in: Edwin Buijsen et al. (red.) Kunst op papier in de achttiende eeuw : Liber Amicorum Charles Dumas, 2014 p. 148, afb. 9."
+  ],
+  "catRefRPK": [
+    "Hollstein Dutch 24",
+    "24"
+  ],
+  "principalOrFirstMaker": "Nicolaes van Haeften",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "322"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "255"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Paar in een keukeninterieur, Nicolaes van Haeften, 1702",
+  "subTitle": "h 322mm \u00d7 w 255mm",
+  "scLabelLine": "Nicolaes van Haeften, 1702, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

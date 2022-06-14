@@ -1,0 +1,146 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2018-2001",
+  "priref": "714790",
+  "objectNumber": "RP-P-2018-2001",
+  "language": "en",
+  "title": "Plattegrond van het pad door de Greendale Oak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "39ce9b45-0beb-4162-a2d2-5f33b5ca3d4a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1738,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/1gDMX99GqUjdGvZ_Ky4TIcNW78RPNnwCsKrp87I_DkA5EWntzn7DB01_SNAcz_j_zRgOkArkQ1InlJ3QOZ8qsJFJT56O4sPjrVdD8gMT=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Plattegrond van het pad door de Greendale Oak",
+    "A plan of the great oke call'd The Green-Dale Oke in the lane near Welbeck in Nottingham Shire"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "George Vertue",
+      "unFixedName": "Vertue, George",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1684",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1756-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Vertue (1684 - 24-jul-1756), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Vertue",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1727",
+    "sortingDate": 1727,
+    "period": 18,
+    "yearEarly": 1727,
+    "yearLate": 1727
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G3(OAK)",
+      "25A"
+    ],
+    "iconClassDescription": [
+      "trees: oak",
+      "kaarten, atlassen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Nottinghamshire"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2018-2001"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Vertue",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "360"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "213"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Plattegrond van het pad door de Greendale Oak, George Vertue, 1727",
+  "subTitle": "h 360mm \u00d7 w 213mm",
+  "scLabelLine": "George Vertue, 1727, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

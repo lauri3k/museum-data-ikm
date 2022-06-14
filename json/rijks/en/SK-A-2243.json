@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2243",
+  "priref": "7681",
+  "objectNumber": "SK-A-2243",
+  "language": "en",
+  "title": "Portrait of Pieter de la Court",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "65b47886-7e41-4b96-b32f-fe42e9762d8a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2073,
+    "height": 2603,
+    "url": "https://lh3.googleusercontent.com/jXC9Ikklbmz9JJ-y6HYTwzrxx9Hmcn4WtYsBnZitaXV7J0aDVG-oy3gbMd31wWVRGWPsdwabE5av2KySaNoclBETMA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Portret van Pieter de la Court (1618-85). Fabrikant en lakenreder, eerst te Leiden, vanaf 1673 te Amsterdam, politiek pamflettist. Kniestuk zittend in een leunstoel in een zwarte toga, naar rechts. Op de achtergrond een buste van Socrates in een nis. Pendant van SK-A-2244.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Abraham van den Tempel",
+      "unFixedName": "Tempel, Abraham van den",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1623",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1672-10-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Abraham van den Tempel (c. 1623 - 04-okt-1672)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham van den Tempel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1667",
+    "sortingDate": 1667,
+    "period": 17,
+    "yearEarly": 1667,
+    "yearLate": 1667
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16501685"
+    ],
+    "places": [
+      "Leiden",
+      "Amsterdam"
+    ],
+    "people": [
+      "Court, Pieter de la"
+    ],
+    "objectNumbers": [
+      "SK-A-2243"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Court, Pieter de la"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "De portrettering van Pieter de la Court opnieuw bekeken / J.H. Kernkamp - In: Ondernemende Geschiedenis - Martinus Nijhoff, Den Haag, 1977, p. 65-74.",
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Abraham van den Tempel",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "106"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Pieter de la Court, Abraham van den Tempel, 1667",
+  "subTitle": "h 133cm \u00d7 w 106cm",
+  "scLabelLine": "Abraham van den Tempel (c. 1622\u20131672), oil on canvas, 1667",
+  "label": {
+    "title": "Portrait of Pieter de la Court",
+    "makerLine": "Abraham van den Tempel (c. 1622\u20131672), oil on canvas, 1667",
+    "description": "Pieter de la Court, son of a Flemish emigrant, was one of the most successful cloth merchants in Holland, as well as a jurist and an influential writer on economics and politics. In his pamphlets, he railed against the House of Orange, and all monarchical governments. Van den Tempel painted him in his judicial robes, seated before a bust of the Greek philosopher Socrates and a classically laid-out garden.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": null
+}

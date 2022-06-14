@@ -1,0 +1,224 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1228",
+  "priref": "7229",
+  "objectNumber": "SK-A-1228",
+  "language": "en",
+  "title": "Portrait of William III (1650-1702), Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "23ae5a98-658c-45d9-badd-110d9ad39f52",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2115,
+    "height": 2760,
+    "url": "https://lh3.ggpht.com/dFN3pnGdcDlJQYgQgtPzmgThKyw_5xOWgHck_bt-b0feeE-fAE8CS_k315FY-CfSk8cbaXq5FJXOQBvJT5OWlNy9ejyN=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#4B3821"
+    },
+    {
+      "percentage": 12,
+      "hex": " #836E4E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B9A079"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DAC49D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F8EAC6"
+    },
+    {
+      "percentage": 57,
+      "hex": " #1F160B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4B3821",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #836E4E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B9A079",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DAC49D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F8EAC6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #1F160B",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 14,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFEBCD"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 39,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Portrait of William III (1650-1702), Prince of Orange"
+  ],
+  "description": "Portret van Willem III, prins van Oranje, stadhouder en sedert 1689 tevens koning van Engeland. Heupstuk, staande in wapenrusting naar rechts met commandostaf in de rechterhand, de linkerhand rustend op een helm. Onderaan de kop van een hond. Op de achtergrond een veldslag. Hoogstwaarschijnlijk gebaseerd op een prototype van Sir Peter Lely.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Wissing",
+      "unFixedName": "Wissing, Willem",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1656",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1687-09-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Burghley House",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "manner of",
+      "labelDesc": "manner of Willem Wissing (c. 1656 - 10-sep-1687)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Wissing",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-07-21T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1680 - 1710",
+    "sortingDate": 1680,
+    "period": 17,
+    "yearEarly": 1680,
+    "yearLate": 1710
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "SK-A-1228"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Wissing",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of William III (1650-1702), Prince of Orange, Willem Wissing (manner of), 1680 - 1710",
+  "subTitle": "h 113cm \u00d7 w 89cm",
+  "scLabelLine": "Willem Wissing, 1680 - 1710, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

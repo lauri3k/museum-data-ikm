@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F23148",
+  "priref": "259996",
+  "objectNumber": "RP-F-F23148",
+  "language": "en",
+  "title": "Portret van een onbekende jongen, mogelijk verkleed als Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "665bf599-a263-4d9e-8651-b9e29d3626e5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1633,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/zO1eZP2ZQ2ZYn8wsHg8YyL8fxP0YVVuG4XgvKUB5tsdgp1j-VntXj2bBhlqcgEnSZz0OGKZFSGVyRHtYGjZOsVJiuzrXQDDMW7UZpzII7Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een onbekende jongen, mogelijk verkleed als Johannes de Doper"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "August Rombaut",
+      "unFixedName": "Rombaut, August",
+      "placeOfBirth": "Sint-Niklaas",
+      "dateOfBirth": "1834",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1892-11-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Sint-Niklaas",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object August Rombaut (1834 - 08-nov-1892)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "August Rombaut",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard",
+    "celluloid (cellulosic)"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1872 - 1875",
+    "sortingDate": 1872,
+    "period": 19,
+    "yearEarly": 1872,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31D11221",
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "boy (child between toddler and youth)",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F23148"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "August Rombaut",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van een onbekende jongen, mogelijk verkleed als Johannes de Doper, August Rombaut, 1872 - 1875",
+  "subTitle": "l 104mm \u00d7 w 63mm",
+  "scLabelLine": "August Rombaut, 1872 - 1875, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

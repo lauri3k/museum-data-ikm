@@ -1,0 +1,121 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1976-192",
+  "priref": "331369",
+  "objectNumber": "BK-1976-192",
+  "language": "en",
+  "title": "Black Watch tartan coat",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c87c1c5f-9358-4660-9645-56ce96017a87",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 22,
+    "width": 1818,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/uLaiLTI5YZ_sVy6lv2G6NA-sEYj7KU-JrSjWXko4BVE0IZ7WiwUq6wyAA3PwjFKnAKg7YZ297VZ9nYFIMEIWCLz15H4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Mantel van wol met Schotse ruiten in blauw en groen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "costumes and accessories"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1976-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wool",
+    "metal"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1870",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1976-192"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "135"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wool",
+  "longTitle": "Black Watch tartan coat, anonymous, c. 1870",
+  "subTitle": "h c.135cm",
+  "scLabelLine": "Netherlands?, c. 1870, wool, metal",
+  "label": {
+    "title": "Black Watch tartan coat",
+    "makerLine": "Netherlands?, c. 1870, wool, metal",
+    "description": "Queen Victoria had a passion for Scotland and this gave rise to a fashion for tartans in the 19th century. The name of this coat\u2019s tartan is Black Watch and had been worn by the Scottish regiment of the same name since the 18th century. An unusual feature is that the back panels of the skirt can be raised with laces threaded through metal eyes.",
+    "notes": null,
+    "date": "2013-11-04"
+  },
+  "showImage": true,
+  "location": null
+}

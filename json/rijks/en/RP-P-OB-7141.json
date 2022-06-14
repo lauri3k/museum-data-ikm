@@ -1,0 +1,186 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-7141",
+  "priref": "98975",
+  "objectNumber": "RP-P-OB-7141",
+  "language": "en",
+  "title": "Landschap met Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a14b2270-710a-4ee7-8a8d-3029efa19ebd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1845,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/_wgRTGKPbZuAK_z2YSIqCpLes3an3VLbQuiMVMbeHHaUowsPMJOEEedrYjpUoJY1wbK8TSoNmxKaa1R81zvsB4OAzvA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Landschap met Johannes de Doper"
+  ],
+  "description": "Glooiend rivierlandschap met biddende Johannes de Doper. Naast de knielende figuur ligt een lam.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Sadeler (II)",
+      "unFixedName": "Sadeler, Johannes (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1665",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "M\u00fcnchen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Sadeler (II) (.... - 1665), Rome"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Cornelis Cort",
+      "unFixedName": "Cort, Cornelis",
+      "placeOfBirth": "Edam",
+      "dateOfBirth": "1533",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1578",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "after print by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Cort (c. 1533 - 1578), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1815-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Rome",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "c. 1575 - before 1665",
+    "sortingDate": 1575,
+    "period": 16,
+    "yearEarly": 1575,
+    "yearLate": 1665
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-7141"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 123",
+    "123"
+  ],
+  "principalOrFirstMaker": "anonymous, Cornelis Cort",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "266"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "1993"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Landschap met Johannes de Doper, anonymous, Cornelis Cort, c. 1575 - before 1665",
+  "subTitle": "h 266mm \u00d7 w 1993mm",
+  "scLabelLine": "anonymous, c. 1575 - before 1665, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

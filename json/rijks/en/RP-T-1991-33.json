@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1991-33",
+  "priref": "308866",
+  "objectNumber": "RP-T-1991-33",
+  "language": "en",
+  "title": "Zelfportret als de Prediker",
+  "copyrightHolder": "S.M.E. Willink-Qui\u00ebl",
+  "webImage": null,
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FEFCEE"
+    },
+    {
+      "percentage": 28,
+      "hex": " #ECE3D3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #CDC5B3"
+    },
+    {
+      "percentage": 18,
+      "hex": " #A7A08F"
+    },
+    {
+      "percentage": 40,
+      "hex": " #7A7469"
+    },
+    {
+      "percentage": 6,
+      "hex": " #524E4B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FEFCEE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ECE3D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CDC5B3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A7A08F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7A7469",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #524E4B",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 33,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 18,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 34,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Zelfportret als de Prediker"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Carel Willink",
+      "unFixedName": "Willink, Carel",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1900-03-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1983-10-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Carel Willink (07-mrt-1900 - 19-okt-1983)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Carel Willink",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1991-01-01T00:00:00",
+    "creditLine": "Gift of P. Schatborn, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1937",
+    "sortingDate": 1937,
+    "period": 20,
+    "yearEarly": 1937,
+    "yearLate": 1937
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "48C523",
+      "61B2",
+      "11H(JOHN THE BAPTIST)",
+      "48B3"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "portrait, self-portrait of draughtsman",
+      "historical persons",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "portrait, self-portrait of artist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willink, Carel"
+    ],
+    "objectNumbers": [
+      "RP-T-1991-33"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willink, Carel"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Carel Willink",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "343"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "255"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Zelfportret als de Prediker, Carel Willink, 1937",
+  "subTitle": "h 343mm \u00d7 w 255mm",
+  "scLabelLine": "Carel Willink, 1937, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

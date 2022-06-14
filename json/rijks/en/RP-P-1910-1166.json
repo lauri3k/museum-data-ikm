@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-1166",
+  "priref": "167223",
+  "objectNumber": "RP-P-1910-1166",
+  "language": "en",
+  "title": "Portret van Charles Grey",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b36f1a19-3ffe-4eeb-be59-91eef1d30fe1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1579,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/cfTcWDBtgQKcAgBDRjlQUsV89-cznBB_aMtsYBLUZBiGDWe8PFlo0zJloUUZLTSZq3Nil3WEc9O7IQocNGTF9xkKeu5ax6QmWVrHhfLA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Charles Grey"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Friedrich Rossm\u00e4ssler",
+      "unFixedName": "Rossm\u00e4ssler, Friedrich",
+      "placeOfBirth": "Leipzig",
+      "dateOfBirth": "1775",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1858",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leipzig",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Friedrich Rossm\u00e4ssler (c. 1775 - 1858)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Friedrich Rossm\u00e4ssler",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "steel engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1785 - 1858",
+    "sortingDate": 1785,
+    "period": 18,
+    "yearEarly": 1785,
+    "yearLate": 1858
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Charles"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-1166"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Grey, Charles"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Friedrich Rossm\u00e4ssler",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "106"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "72"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel engraving",
+  "longTitle": "Portret van Charles Grey, Friedrich Rossm\u00e4ssler, 1785 - 1858",
+  "subTitle": "h 106mm \u00d7 w 72mm",
+  "scLabelLine": "Friedrich Rossm\u00e4ssler, 1785 - 1858, steel engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,269 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-17493",
+  "priref": "315410",
+  "objectNumber": "BK-17493",
+  "language": "en",
+  "title": "Blue Parrot",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "291662f0-b657-4e08-871b-334dc25bf40a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2121,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/jPW2iKGONNfvfNrCmHHEICcwPontfBXgtchCrMwx7UEnPvaxC58z1V-i1PCmeeF9qsuil8plDBbDBtPgMWXeXZbYTgS_=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#F2F1EE"
+    },
+    {
+      "percentage": 10,
+      "hex": " #4C4E44"
+    },
+    {
+      "percentage": 0,
+      "hex": " #C4B36C"
+    },
+    {
+      "percentage": 13,
+      "hex": " #868470"
+    },
+    {
+      "percentage": 5,
+      "hex": " #261812"
+    },
+    {
+      "percentage": 69,
+      "hex": " #C3C4B1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2F1EE",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #4C4E44",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #C4B36C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #868470",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #261812",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #C3C4B1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 69,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 69,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [],
+  "description": "Figuur van beschilderd porselein. De figuur stelt een papegaai voor die op een boomstronk met bladeren zit. De papegaai heeft schubachtige veren in blauw met witte randen, de vleugels en de staart in grijs en blauw met witte randen. De onderkant van de staart is bruinrood. De figuur is gemerkt.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "European porcelain"
+  ],
+  "makers": [
+    {
+      "name": "Johann Joachim K\u00e4ndler",
+      "unFixedName": "K\u00e4ndler, Johann Joachim",
+      "placeOfBirth": "Fischbach",
+      "dateOfBirth": "1706-06-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1775-05-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Meissen",
+      "occupation": [
+        "sculptor",
+        "designer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Johann Joachim K\u00e4ndler (15-jun-1706 - 18-mei-1775)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Meissener Porzellan Manufaktur",
+      "unFixedName": "Meissener Porzellan Manufaktur",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "porcelain company"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Meissener Porzellan Manufaktur"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Meissener Porzellan Manufaktur",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1730 - c. 1733",
+    "sortingDate": 1730,
+    "period": 18,
+    "yearEarly": 1730,
+    "yearLate": 1733
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F35(PARROT)"
+    ],
+    "iconClassDescription": [
+      "ornamental birds: parrot"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-17493"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Meissener Porzellan Manufaktur",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "33.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "15.6"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "22.6"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "15.0"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "15.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "porcelain",
+  "longTitle": "Blue Parrot, Meissener Porzellan Manufaktur, c. 1730 - c. 1733",
+  "subTitle": "h 33.7cm \u00d7 w 15.6cm \u00d7 d 22.6cm",
+  "scLabelLine": "Meissen, painted hard-paste porcelain, c. 1731, model attributed to Johann Joachim K\u00e4ndler (1706-1775)",
+  "label": {
+    "title": "Blue Parrot",
+    "makerLine": "Meissen, painted hard-paste porcelain, c. 1731, model attributed to Johann Joachim K\u00e4ndler (1706-1775)",
+    "description": "The porcelain factory at Meissen, near Dresden, was founded in 1709. It was the first European factory to produce \u2018true\u2019 or hard-paste porcelain, like that known in China and Japan. The manufactory was owned by Augustus the Strong, Elector of Saxony and King of Poland. All the birds and animals in this display case were made for him. They were intended for his so-called Japanese Palace, the walls of which he wished to fill with porcelain.",
+    "notes": null,
+    "date": "2016-08-23"
+  },
+  "showImage": true,
+  "location": "HG-1.4"
+}

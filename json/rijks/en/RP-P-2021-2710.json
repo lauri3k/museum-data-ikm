@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2021-2710",
+  "priref": "788733",
+  "objectNumber": "RP-P-2021-2710",
+  "language": "en",
+  "title": "Hemingford Grey",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Hemingford Grey"
+  ],
+  "description": "St. James' Church in Hemingford Grey met op de voorgrond de Great Ouse en aangemeerde roeiboten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "George Mackley",
+      "unFixedName": "Mackley, George",
+      "placeOfBirth": null,
+      "dateOfBirth": "1900",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1983",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist George Mackley (1900 - 1983)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Mackley",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2009-01-01T00:00:00",
+    "creditLine": "Gift of P. Schatborn, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1930 - 1972",
+    "sortingDate": 1930,
+    "period": 20,
+    "yearEarly": 1930,
+    "yearLate": 1972
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11Q712",
+      "25H213",
+      "46C232"
+    ],
+    "iconClassDescription": [
+      "church (exterior)",
+      "river",
+      "rowing-boat, canoe, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Hemingford Grey"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2021-2710"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Mackley",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "199"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Hemingford Grey, George Mackley, c. 1930 - 1972",
+  "subTitle": "h 199mm \u00d7 w 249mm",
+  "scLabelLine": "George Mackley, c. 1930 - 1972, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

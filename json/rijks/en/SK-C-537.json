@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-537",
+  "priref": "10850",
+  "objectNumber": "SK-C-537",
+  "language": "en",
+  "title": "The Sculpture Gallery of the Felix Meritis Society",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b2407e6b-bc96-4725-8501-baea583c132c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1869,
+    "url": "https://lh3.googleusercontent.com/YNtK19rBHbG4y9Zwx1amdEI195rcF6FAjNbIl8EWdV-mY5Rd4qliaNrJ1geiu2tt8s3QmYLRr-Vn2KfC95m1uctm5PI=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#1A1B14"
+    },
+    {
+      "percentage": 47,
+      "hex": " #574C31"
+    },
+    {
+      "percentage": 10,
+      "hex": " #816E4A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #CABD96"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E4D8AE"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A98E67"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1A1B14",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #574C31",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #816E4A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CABD96",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E4D8AE",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A98E67",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 47,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 33,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 33,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 19,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "The Sculpture Gallery of the Felix Meritis Society",
+    "The Sculpture Gallery of the Felix Meritis Society in Amsterdam, with Portraits of the Commissioners and Directors of the Drawing, Literature and Commerce Divisions and the Secretaries of the Society"
+  ],
+  "description": "De beeldenzaal van de Maatschappij Felix Meritis te Amsterdam, met portretten van de commissarissen en directeuren van de Departmenten Teekenkunde, Letterkunde en Koophandel en de secretarissen der Maatschappij. In de zaal en tegen de wanden staan veel gipsmodellen van antieke standbeelden, portretbustes en reli\u00ebfs. Vooraan zit een kunstenaar te schetsen. De aanwezige kunstenaars zijn, van links naar rechts: J. Adami, J.P. Hibma (zittend), M. Kooy (staand), Hidde Heeremiet, W.J. Bruggemeyer, Hendriik de Flines, A. Bruyn, G. Koek, Wouter Johannes van Troostwijk, Dani\u00ebl Dupr\u00e9 (tekenend), Dirk Versteegh en in de middengroep J.G. Biben, G.J. Palthe, P. Doublet, J. Pennis, C. Covens, Johannes Hermanus Molkenboer, A.J. Deyman, R. Hoyman, Adriaan de Lelie (zittend op de rug gezien), P. Pietersz Iz, Hermanus Numan, M. Romswinckel, G. van Haarst Az, E.P. Offerman, G. Swarth en in de rechtergroep C. Tweehuizen (de bedel, de voorste figuur in de deuropening), J.W. Berntz, G. van der Voort, Barend Klijn, J.F. Klinkhamer, F. de Bozer, P.J. Uylenbroek, P. Heimbach J. Pz, A. Bousquet, J.L. Weydeman en J. Prins.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adriaan de Lelie",
+      "unFixedName": "Lelie, Adriaan de",
+      "placeOfBirth": "Tilburg",
+      "dateOfBirth": "1755-05-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1820-11-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Adriaan de Lelie (19-mei-1755 - 30-nov-1820)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaan de Lelie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1889-11-27T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1806 - 1809",
+    "sortingDate": 1806,
+    "period": 19,
+    "yearEarly": 1806,
+    "yearLate": 1809
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C241"
+    ],
+    "iconClassDescription": [
+      "gallery of sculptures"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18061809"
+    ],
+    "places": [
+      "Amsterdam",
+      "Felix Meritis"
+    ],
+    "people": [
+      "Felix Meritis"
+    ],
+    "objectNumbers": [
+      "SK-C-537"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Felix Meritis"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adriaan de Lelie",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Sculpture Gallery of the Felix Meritis Society, Adriaan de Lelie, 1806 - 1809",
+  "subTitle": "h 100cm \u00d7 w 133cm",
+  "scLabelLine": "Adriaan de Lelie (1755-1820), oil on canvas, 1806-1809",
+  "label": {
+    "title": "The Sculpture Gallery of the Felix Meritis Society",
+    "makerLine": "Adriaan de Lelie (1755-1820), oil on canvas, 1806-1809",
+    "description": "In the sculpture gallery of the Felix Meritis Society, plaster casts of sculptures from Roman museums and the Mus\u00e9e Napol\u00e9on in Paris were exhibited against pale blue walls. De Lelie, a member of the society, portrayed himself from the back amidst the commis-sioners and directors of the scoiety\u2019s departments.",
+    "notes": null,
+    "date": "2013-01-04"
+  },
+  "showImage": true,
+  "location": "HG-1.10"
+}

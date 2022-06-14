@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-553-B-2",
+  "priref": "677894",
+  "objectNumber": "BK-KOG-553-B-2",
+  "language": "en",
+  "title": "Ink well with blue dots",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "768b8968-38c9-4c44-aabb-b6ccfdbcb198",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2045,
+    "url": "https://lh3.googleusercontent.com/PTWS7v5Q0wVR5IDsiHoRUODVhHq-NXBKZX-13Bg-vmKXsAAQkC5HrdX4ARMTVuTXCXaV7XZD9waSCQ0in04YtYrybrHWcaPmFv0vs7C_EA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ink well with blue dots"
+  ],
+  "description": "Inktpot van steengoed met een cilindrisch lichaam, uitlopende rand om in de houder te plaatsen en lage, opstaande nek. Op de rand een band met blauwe stippen in kobaltblauw. Westerwald.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "European ceramics",
+    "German stoneware"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze",
+    "cobalt (mineral)"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1750 - c. 1799",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-KOG-553-B-2"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "4.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Ink well with blue dots, anonymous, c. 1750 - c. 1799",
+  "subTitle": "h 5cm \u00d7 d 4.6cm",
+  "scLabelLine": "anonymous, c. 1750 - c. 1799, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

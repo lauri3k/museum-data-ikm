@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F80143",
+  "priref": "349878",
+  "objectNumber": "RP-F-F80143",
+  "language": "en",
+  "title": "Isistempel bij Philae",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6d59f9a9-ff2f-45bf-a717-8ad2773c453d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2348,
+    "url": "https://lh3.ggpht.com/BhyglhYPTFksbIDRmF5xqmdKEXpUZlT7CKTRxPrcpCHQJXJ_iCf9Nd-1IbxJU4BkRspixAtrov3yDOoJnVneK6UGZY0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#FBFBF1"
+    },
+    {
+      "percentage": 44,
+      "hex": " #E6E3CD"
+    },
+    {
+      "percentage": 16,
+      "hex": " #CBC5AA"
+    },
+    {
+      "percentage": 7,
+      "hex": " #807162"
+    },
+    {
+      "percentage": 2,
+      "hex": " #5D4E44"
+    },
+    {
+      "percentage": 25,
+      "hex": " #A69A88"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FBFBF1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E6E3CD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CBC5AA",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #807162",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5D4E44",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A69A88",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 25,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 16,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 41,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Isistempel bij Philae"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "John Beasly Greene",
+      "unFixedName": "Greene, John Beasly",
+      "placeOfBirth": null,
+      "dateOfBirth": "1832",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1856",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Beasly Greene (1832 - 1856)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Beasly Greene",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "salted paper print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1854",
+    "sortingDate": 1854,
+    "period": 19,
+    "yearEarly": 1854,
+    "yearLate": 1854
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12B61"
+    ],
+    "iconClassDescription": [
+      "temple, shrine ~ non-Christian religions"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Tempel van Isis"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F80143"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Beasly Greene",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "228"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "294"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "369"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "486"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "salted paper print",
+  "longTitle": "Isistempel bij Philae, John Beasly Greene, 1854",
+  "subTitle": "h 228mm \u00d7 w 294mm",
+  "scLabelLine": "John Beasly Greene, 1854, salted paper print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

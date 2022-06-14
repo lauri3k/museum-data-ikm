@@ -1,0 +1,124 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2017-7127-227",
+  "priref": "689808",
+  "objectNumber": "RP-P-2017-7127-227",
+  "language": "en",
+  "title": "Orange II",
+  "copyrightHolder": "Annemarie Born",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Orange II"
+  ],
+  "description": "Vijf vierkanten naast elkaar. In het middelste vierkant een onderlichaam.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Annemarie Born",
+      "unFixedName": "Born, Annemarie",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Annemarie Born"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Annemarie Born",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2010-12-28T00:00:00",
+    "creditLine": "Gift of Prof. Dr. J.M. van Winter"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "inkjet print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "2002",
+    "sortingDate": 2002,
+    "period": 21,
+    "yearEarly": 2002,
+    "yearLate": 2002
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2017-7127-227"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Annemarie Born",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "297"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "inkjet print",
+  "longTitle": "Orange II, Annemarie Born, 2002",
+  "subTitle": "h 210mm \u00d7 w 297mm",
+  "scLabelLine": "Annemarie Born, 2002, inkjet print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

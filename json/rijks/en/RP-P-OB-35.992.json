@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-35.992",
+  "priref": "104625",
+  "objectNumber": "RP-P-OB-35.992",
+  "language": "en",
+  "title": "Venus en de roos",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7d254bad-b5a0-4111-bad4-767d7e2cff48",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1672,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Ly1FwusTOEQq9u38K6g4oU4wYBNw7pfZLMOQoxVBoKoEE7l2CAEjRAi2oEJy_jrmccHA0F0HPw4DPz5_sCaE9USsbrsS=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Venus en de roos"
+  ],
+  "description": "Venus zit op een rots in een landschap. Ze haalt een doorn van een rozenstruik uit haar voet. Op de voorgrond rechts een konijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1498 - 1532",
+    "sortingDate": 1498,
+    "period": 15,
+    "yearEarly": 1498,
+    "yearLate": 1532
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92C461"
+    ],
+    "iconClassDescription": [
+      "Venus wounded by the thorns of a rose-bush; the roses change from white to red (possibly combined with the story of Adonis)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-35.992"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 321",
+    "321",
+    "Bartsch 321",
+    "321"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "255"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Venus en de roos, anonymous, 1498 - 1532",
+  "subTitle": "h 255mm \u00d7 w 170mm",
+  "scLabelLine": "anonymous, 1498 - 1532, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2018-61-9",
+  "priref": "709036",
+  "objectNumber": "RP-F-2018-61-9",
+  "language": "en",
+  "title": "Portret van John Narrley en zijn vrouw",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0e523055-e886-4f7d-af8a-ed70b683450e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1534,
+    "height": 1624,
+    "url": "https://lh3.googleusercontent.com/pu0MAMW2icYUN7xVbgANaBCgHo8PRYaHPSUn458SxvrADfIWOB2mBjnqRvNReC5sOugUjFGEEt2ON57Prn_7z6Y6MFBzMbh_-o_iSX_O9Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van John Narrley en zijn vrouw"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "carte-de-visite",
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Samuel Van Grieken",
+      "unFixedName": "Van Grieken, Samuel",
+      "placeOfBirth": "Nederland",
+      "dateOfBirth": "1840-12-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Samuel Van Grieken (06-dec-1840 - ....)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gerhard H. Nollen",
+      "unFixedName": "Nollen, Gerhard H.",
+      "placeOfBirth": "Didam",
+      "dateOfBirth": "1830-03-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gerhard H. Nollen (06-mrt-1830 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerhard H. Nollen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-05-31T00:00:00",
+    "creditLine": "Gift of J. Krijff and K. Green, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1859 - 1865",
+    "sortingDate": 1859,
+    "period": 19,
+    "yearEarly": 1859,
+    "yearLate": 1865
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "33C23",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "couple of lovers",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Keokuk"
+    ],
+    "people": [
+      "Narrley, John"
+    ],
+    "objectNumbers": [
+      "RP-F-2018-61-9"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Narrley, John"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerhard H. Nollen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van John Narrley en zijn vrouw, Gerhard H. Nollen, 1859 - 1865",
+  "subTitle": "h 100mm \u00d7 w 62mm",
+  "scLabelLine": "Gerhard H. Nollen, 1859 - 1865, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

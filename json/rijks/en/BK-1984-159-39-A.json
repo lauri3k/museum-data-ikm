@@ -1,0 +1,211 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1984-159-39-A",
+  "priref": "27298",
+  "objectNumber": "BK-1984-159-39-A",
+  "language": "en",
+  "title": "Pair of long gloves",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "64bacc2a-59b5-43c2-b547-8c012d383847",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1446,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/k5NSNi8cg6pNnaUdRHYTV43GwbADL7kGG2qbzyqbSIrdz8g-pX2YurW2r56BhD-4YYlU2Dl81EkRJP1uiJPH5KiUR7o=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#52514E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8F8E8B"
+    },
+    {
+      "percentage": 96,
+      "hex": " #C7C6C4"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A4A29D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #72716E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E2E2E0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#52514E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8F8E8B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C7C6C4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A4A29D",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #72716E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E2E2E0",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 96,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 98,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [],
+  "description": "Linker handschoenen van grijs wasleer. Op de hand drie uitstralende koorden. Bij de pols een split met drie parelmoerkleurige knopen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "accessories"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1984-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "chamois (animal material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1900 - c. 1915",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1915
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1984-159-39-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": "c.",
+      "part": null,
+      "value": "50"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "12.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "chamois (animal material)",
+  "longTitle": "Pair of long gloves, anonymous, c. 1900 - c. 1915",
+  "subTitle": "l c.50cm \u00d7 w c.12.5cm",
+  "scLabelLine": "Netherlands, c. 1900-1915, kid leather",
+  "label": {
+    "title": "Pair of long gloves",
+    "makerLine": "Netherlands, c. 1900-1915, kid leather",
+    "description": null,
+    "notes": "Geldt ook voor BK-1984-159-39-B",
+    "date": "2013-11-01"
+  },
+  "showImage": true,
+  "location": null
+}

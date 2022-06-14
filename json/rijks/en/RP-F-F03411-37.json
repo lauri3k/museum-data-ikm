@@ -1,0 +1,126 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F03411-37",
+  "priref": "803613",
+  "objectNumber": "RP-F-F03411-37",
+  "language": "en",
+  "title": "Gezicht vanaf Red Hill, Canberra",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht vanaf Red Hill, Canberra",
+    "Panoramic view from Red Hill, Canberra A.C.T."
+  ],
+  "description": "Deze foto maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "baryta paper"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1951 - in or before 1956",
+    "sortingDate": 1951,
+    "period": 20,
+    "yearEarly": 1951,
+    "yearLate": 1956
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H114"
+    ],
+    "iconClassDescription": [
+      "low hill country"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Canberra"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F03411-37"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "320"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "222"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Gezicht vanaf Red Hill, Canberra, anonymous, c. 1951 - in or before 1956",
+  "subTitle": "h 320mm \u00d7 w 222mm",
+  "scLabelLine": "anonymous, c. 1951 - in or before 1956, gelatin silver print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

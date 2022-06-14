@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-105",
+  "priref": "6672",
+  "objectNumber": "SK-A-105",
+  "language": "en",
+  "title": "Portrait of the Stadholder Frederik Hendrik (1584-1647), Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e1402702-a16a-4c65-abe6-d830d2738f29",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1992,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/JtgtPATeb5EDX2cWjHZkBuW5dYT9gi0ycClfeDcuaTOc0hdg3TGi6tinycSw-PqFMc_tGxVpkqJtKZPzXXKCLTcwcZ5ZfaNGSt19McbZmA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 94,
+      "hex": "#261E13"
+    },
+    {
+      "percentage": 3,
+      "hex": " #665841"
+    },
+    {
+      "percentage": 1,
+      "hex": " #867965"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDA17C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #919589"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B0B3A3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D1D1BA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#261E13",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #665841",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #867965",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BDA17C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #919589",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B0B3A3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D1D1BA",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 94,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 94,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Portrait of the Stadholder Frederik Hendrik (1584-1647), Prince of Orange"
+  ],
+  "description": "Portret van Frederik Hendrik, prins van Oranje. Staande, ten halven lijve, in wapenrusting met commandostaf in de rechterhand. Kopie naar het origineel in het Prado te Madrid.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Anthony van Dyck",
+      "unFixedName": "Dyck, Anthony van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1599-03-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-12-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Anthony van Dyck (22-mrt-1599 - 09-dec-1641)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Anthony van Dyck",
+      "unFixedName": "Dyck, Anthony van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1599-03-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1641-12-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "after",
+      "labelDesc": "after Anthony van Dyck (22-mrt-1599 - 09-dec-1641)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anthony van Dyck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1810-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1670",
+    "sortingDate": 1670,
+    "period": 17,
+    "yearEarly": 1670,
+    "yearLate": 1670
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-105"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anthony van Dyck",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "124.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "100.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of the Stadholder Frederik Hendrik (1584-1647), Prince of Orange, Anthony van Dyck (after), c. 1670",
+  "subTitle": "h 124.5cm \u00d7 w 100.5cm",
+  "scLabelLine": "Anthony van Dyck, c. 1670, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

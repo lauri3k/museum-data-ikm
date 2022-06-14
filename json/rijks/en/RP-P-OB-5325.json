@@ -1,0 +1,224 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-5325",
+  "priref": "168431",
+  "objectNumber": "RP-P-OB-5325",
+  "language": "en",
+  "title": "Pilatus breekt het riet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b8acae9e-5a78-4459-8ab2-9eefc61b175f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1618,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/IL2McBisYMJT9C6DUg1wuEDro9-Hoir7GuhC2uqjSKPlEfD9jMdjssnzEyhE6U0doD_mBtIu93LneS9mF_Ok6zicDnc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 21,
+      "hex": "#B2AC9F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #878378"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D1CBBC"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F0ECE0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #68655B"
+    },
+    {
+      "percentage": 17,
+      "hex": " #45443C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B2AC9F",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #878378",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D1CBBC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F0ECE0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #68655B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #45443C",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 20,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 14,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 38,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 17,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Pilatus breekt het riet",
+    "Passie van Christus",
+    "Pr\u0119cipua Passionis D.N. Jesu Christi mysteria"
+  ],
+  "description": "Een trap bij het paleis van Pilatus. Op de voorgrond wordt Christus geslagen door soldaten. Op het middenplan breekt Pilatus zijn rechterstaf over zijn knie. De vierde prent van een achtdelige serie over de passie van Christus.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Sadeler (I)",
+      "unFixedName": "Sadeler, Johann (I)",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1600-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Sadeler (I) (1550 - aug-1600)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Sadeler (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1589",
+    "sortingDate": 1589,
+    "period": 16,
+    "yearEarly": 1589,
+    "yearLate": 1589
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D37"
+    ],
+    "iconClassDescription": [
+      "Christ, lying on or dragged across a flight of steps, is maltreated in Pilate's presence (breaking of the reed)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-5325"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 237",
+    "237"
+  ],
+  "principalOrFirstMaker": "Johann Sadeler (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "434"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "280"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Pilatus breekt het riet, Johann Sadeler (I), 1589",
+  "subTitle": "h 434mm \u00d7 w 280mm",
+  "scLabelLine": "Johann Sadeler (I), 1589, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

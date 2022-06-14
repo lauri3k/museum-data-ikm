@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1902-A-4613",
+  "priref": "61307",
+  "objectNumber": "RP-T-1902-A-4613",
+  "language": "en",
+  "title": "Oorlogsschepen op de rede van Vlissingen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "72d1167c-6132-4ff4-b7cf-c212e7f4039b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1266,
+    "url": "https://lh5.ggpht.com/khPr8fMeGM9BIMaNUg_dUQBV9j3yeAZqRAlukDT9_7Jeho1zs4h5vRFCwQddCBFuG5HePAP9VYq2J4trP0mgC9Nygb9M=s0"
+  },
+  "colors": [
+    {
+      "percentage": 82,
+      "hex": "#F8F2D3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #DDCFB2"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B9AE98"
+    },
+    {
+      "percentage": 1,
+      "hex": " #978F7D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #7C7567"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696256"
+    },
+    {
+      "percentage": 0,
+      "hex": " #575145"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F8F2D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DDCFB2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B9AE98",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #978F7D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7C7567",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #696256",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #575145",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 82,
+      "hex": "#FFF8DC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 82,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 15,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Oorlogsschepen op de rede van Vlissingen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem van de Velde (II)",
+      "unFixedName": "Velde, Willem van de (II)",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1633-12-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1707-04-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem van de Velde (II) (18-dec-1633 - 06-apr-1707)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem van de Velde (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1902-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1643 - 1707",
+    "sortingDate": 1643,
+    "period": 17,
+    "yearEarly": 1643,
+    "yearLate": 1707
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H23",
+      "45D22(+32)",
+      "46C24",
+      "46C222"
+    ],
+    "iconClassDescription": [
+      "sea (seascape)",
+      "navy (+ sailing-ships)",
+      "sailing-ship, sailing-boat",
+      "ship in the roads, roadstead"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Vlissingen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1902-A-4613"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem van de Velde (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "394"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Oorlogsschepen op de rede van Vlissingen, Willem van de Velde (II), 1643 - 1707",
+  "subTitle": "h 160mm \u00d7 w 394mm",
+  "scLabelLine": "Willem van de Velde (II), 1643 - 1707, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

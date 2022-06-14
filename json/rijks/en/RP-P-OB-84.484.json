@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-84.484",
+  "priref": "488508",
+  "objectNumber": "RP-P-OB-84.484",
+  "language": "en",
+  "title": "Redding van Adriaan van der Kam, 1755",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "56fea63d-9c88-46ed-82c4-21da5c7f70b6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1495,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/irA9TEF_skSbFyq2bOZmOmh-JXed7VwYR5DNUNTVF9DuZup86ta39a2YhJ0bcqfSvuVY71R_VOxzT05g7_8AsET_gF4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Redding van Adriaan van der Kam, 1755",
+    "Ontmoeting van Adriaan van der Kam met de Algerijnen"
+  ],
+  "description": "De Nederlandse commandeur Adriaan van der Kam nadat hij zich tijdens een gevecht tussen Spaanse en Algerijnse schepen uit slavernij kon bevrijden. Ook andere tot slaaf gemaakte christenen die op de Algerijnse boten zaten worden als drenkelingen uit het water gehaald.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Philippus Velijn",
+      "unFixedName": "Velijn, Philippus",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1787-01-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1836-05-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philippus Velijn (31-jan-1787 - 04-mei-1836), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philippus Velijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1823 - 1829",
+    "sortingDate": 1823,
+    "period": 19,
+    "yearEarly": 1823,
+    "yearLate": 1829
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44G56",
+      "46A18"
+    ],
+    "iconClassDescription": [
+      "pirate, corsair, buccaneer",
+      "slavery; serfs and the enslaved"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17551755"
+    ],
+    "places": [
+      "Algiers"
+    ],
+    "people": [
+      "Kam, Adriaan van der"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-84.484"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Kam, Adriaan van der"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 3, nr. 20a."
+  ],
+  "catRefRPK": [
+    "FMH 4070",
+    "4070",
+    "FMH 20",
+    "20"
+  ],
+  "principalOrFirstMaker": "Philippus Velijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "243"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "146"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Redding van Adriaan van der Kam, 1755, Philippus Velijn, 1823 - 1829",
+  "subTitle": "h 243mm \u00d7 w 146mm",
+  "scLabelLine": "Philippus Velijn, 1823 - 1829, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

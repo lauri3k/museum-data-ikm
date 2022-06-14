@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-203.094",
+  "priref": "543629",
+  "objectNumber": "RP-P-OB-203.094",
+  "language": "en",
+  "title": "Histoire du petit Chaperon Rouge / Historie van het kleyn Rood Kapje / Histoire du b\u00fbcheron enchant\u00e9 / Historie van den houthakker",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9ed72d2e-7fd8-435d-83c1-8f231f9f1311",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2096,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/NR6lelFG8t_-j_Rf1lndYNSWmgCCNSxmZFUkgSF_rZfEUR9lSsTjEPj5beWtEd3w2mIyrVa-SS1Z-RfCWLoh7m40Gg0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Histoire du petit Chaperon Rouge / Historie van het kleyn Rood Kapje / Histoire du b\u00fbcheron enchant\u00e9 / Historie van den houthakker"
+  ],
+  "description": "Blad met 4 voorstellingen uit het sprookje van Roodkapje en 4 voorstellingen uit het sprookje van de houthakker. Onder elke afbeelding een onderschrift in het Nederlands en in het Frans. Genummerd midden boven: N. 34.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Glenisson & Van Genechten",
+      "unFixedName": "Glenisson & Van Genechten",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Glenisson & Van Genechten"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Glenisson & Van Genechten",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1833 - 1856",
+    "sortingDate": 1833,
+    "period": 19,
+    "yearEarly": 1833,
+    "yearLate": 1856
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)",
+      "84"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood",
+      "verhalen en sprookjes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-203.094"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Glenisson & Van Genechten",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "392"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "324"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Histoire du petit Chaperon Rouge / Historie van het kleyn Rood Kapje / Histoire du b\u00fbcheron enchant\u00e9 / Historie van den houthakker, Glenisson & Van Genechten, 1833 - 1856",
+  "subTitle": "h 392mm \u00d7 w 324mm",
+  "scLabelLine": "Glenisson & Van Genechten, 1833 - 1856, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

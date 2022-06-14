@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-88.976",
+  "priref": "558199",
+  "objectNumber": "RP-P-OB-88.976",
+  "language": "en",
+  "title": "Redding van Klaas Bording, 1849",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "11abefe6-19d5-46bb-be79-33d693cb3d72",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1839,
+    "url": "https://lh3.googleusercontent.com/Ee4gfzH-YaCLh-6u2rZkuBwqr7azypYup94WaqfN1n3SyDLApTLUATd5RsL_QamasD_9MZ2D0KTFAdxnH1Oo8kzKbCU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Redding van Klaas Bording, 1849",
+    "De redding van Klaas Bording en zijne beide zonen"
+  ],
+  "description": "De redding van Klaas Bording en zijn twee zoons uit Durgerdam die vanaf 13 januari veertien dagen op een ijsschots op de Zuiderzee dreven, 27 januari 1849.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Koninklijke Nederlandse Steendrukkerij van C.W. Mieling",
+      "unFixedName": "Koninklijke Nederlandse Steendrukkerij van C.W. Mieling",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Koninklijke Nederlandse Steendrukkerij van C.W. Mieling, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "E.P. Seidel",
+      "unFixedName": "Seidel, E.P.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object E.P. Seidel, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "E.P. Seidel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands",
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1849",
+    "sortingDate": 1849,
+    "period": 19,
+    "yearEarly": 1849,
+    "yearLate": 1849
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C2931",
+      "26D41"
+    ],
+    "iconClassDescription": [
+      "saving a person from drowning",
+      "drift ice"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1849-01-271849-01-27"
+    ],
+    "places": [
+      "Zuiderzee",
+      "Durgerdam"
+    ],
+    "people": [
+      "Bording, Klaas Klaassen"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-88.976"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Bording, Klaas Klaassen"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. III (jaren 1795 tot 1879), p. 257, nr. 7155."
+  ],
+  "catRefRPK": [
+    "FMH 7155",
+    "7155"
+  ],
+  "principalOrFirstMaker": "E.P. Seidel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "217"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "295"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Redding van Klaas Bording, 1849, E.P. Seidel, 1849",
+  "subTitle": "h 217mm \u00d7 w 295mm",
+  "scLabelLine": "E.P. Seidel, 1849, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

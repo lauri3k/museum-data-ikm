@@ -1,0 +1,330 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1972-77",
+  "priref": "20697",
+  "objectNumber": "BK-1972-77",
+  "language": "en",
+  "title": "Scipio en de gezanten van Carthago",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "55e5ce90-4124-4bce-8466-e0ebdf3c84ee",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2899,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/xR5wDj_S5Grdhu0zUZxyUZXOovCz_pSBKTWhDzNL10kR_hwKgaCJHFMnnYkxa6QTuoTHUN7nZVYzYKllDD8yom3cAFk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#84785B"
+    },
+    {
+      "percentage": 18,
+      "hex": " #BFB08A"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0D2B7"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4F3725"
+    },
+    {
+      "percentage": 8,
+      "hex": " #425151"
+    },
+    {
+      "percentage": 5,
+      "hex": " #0E1E2F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F9FAFE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#84785B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BFB08A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E0D2B7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4F3725",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #425151",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #0E1E2F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F9FAFE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 18,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 9,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F8F8FF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Scipio en de gezanten van Carthago",
+    "De geschiedenis van Scipio"
+  ],
+  "description": "Wandtapijt met de overgave van Carthago, 201 v. Chr. uit een Scipio-historie van acht stuks, voor Thomas Howard, 1ste graaf van Suffolk en zijn vrouw Catherine Knyvet. Signatuur \"FRANCISCUS. SPIRINGIVS. FECIT. ANNO 1609.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Karel van Mander (II)",
+      "unFixedName": "Mander, Karel van (II)",
+      "placeOfBirth": "Kortrijk",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1623-06-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Karel van Mander (II) (c. 1579 - 13-jun-1623), Delft"
+    },
+    {
+      "name": "Karel van Mander (II)",
+      "unFixedName": "Mander, Karel van (II)",
+      "placeOfBirth": "Kortrijk",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1623-06-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Karel van Mander (II) (c. 1579 - 13-jun-1623), Delft"
+    },
+    {
+      "name": "Cocquel",
+      "unFixedName": "Cocquel",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Cocquel, Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Fran\u00e7ois Spiering",
+      "unFixedName": "Spiering, Fran\u00e7ois",
+      "placeOfBirth": null,
+      "dateOfBirth": "1551",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1630",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "Fran\u00e7ois Spiering (1551 - 1630), Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Fran\u00e7ois Spiering",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "wool",
+    "wool",
+    "silk"
+  ],
+  "techniques": [
+    "tapestry"
+  ],
+  "productionPlaces": [
+    "Delft",
+    "Delft",
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "1609",
+    "sortingDate": 1609,
+    "period": 17,
+    "yearEarly": 1609,
+    "yearLate": 1609
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1972-77"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Ebeltje Hartkamp-Jonxis, 'Helden en heldendaden. Historietapijten in de Noordelijke Nederlanden omstreeks 1600', Antiek 28 (1993) december, p. 212-219.",
+    "cat. tent. Delft 1981, M.I.E. van Zijl, 'De Delftse wandtapijten', in: R.A. Leeuw, I.V.T. Spaanders (red), De stad Delft. Cultuur en maatschappij van 1572 tot 1667, Delft (Stedelijk Museum Het Prinsenhof), Delft 1981",
+    "A.M. Louise E. Erkelens, 'Een Hollands Scipio-tapijt 'De overgave van Carthago' anno 1609', in: Nederlandse kunstnijverheid en interieurkunst. opgedragen aan professor Th. H. Lunsigh Scheurleer, 1980, p. 36-49 (Nederlands Kunsthistorisch Jaarboek).",
+    "P.J. Drury, 'No other place in the kingdom will compare with it'. The evolution of Audley End, 1605-1745', Architectural History (1980) 23, p. 1-39, 145-171.",
+    "Rijksmuseum te Amsterdam. Verslag van de Hoofddirecteur over het jaar 1972, Den Haag 1974, p. 46-47",
+    "G.T. van Ysselsteyn, Geschiedenis der Tapijtweverijen in de Noordelijke Nederlanden. Bijdrage tot de geschiedenis der kunstnijverheid, Leiden 1936, deel I, p 77-78",
+    "Mr. J. van de Graft, De tapijtfabrieken der 16de en 17de eeuw, gevolgd door eene historische beschrijving der zeven tapijtbehangsels der Prov. Staten van Zeeland, Middelburg 1869, p 68-"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Fran\u00e7ois Spiering",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "414.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "404.0"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": "c.",
+      "part": null,
+      "value": "32"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "tapestry",
+  "longTitle": "Scipio en de gezanten van Carthago, Fran\u00e7ois Spiering, 1609",
+  "subTitle": "h 414.0cm \u00d7 w 404.0cm \u00d7 w c.32kg",
+  "scLabelLine": "Fran\u00e7ois Spiering, 1609, tapestry",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

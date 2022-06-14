@@ -1,0 +1,264 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6126",
+  "priref": "96804",
+  "objectNumber": "RP-P-BI-6126",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f0c64178-d881-4395-a2b4-460101a5b6b1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1866,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/MT7MxBgRGQ8kJysfjEK5qMAECQI1RbA1WCezXqUkJzpx6H10VXB2eEAm30yOj9Kx9BODBXVx5e63jRih-wU8iDww-yna=s0"
+  },
+  "colors": [
+    {
+      "percentage": 22,
+      "hex": "#C9C3AF"
+    },
+    {
+      "percentage": 20,
+      "hex": " #F5F1E4"
+    },
+    {
+      "percentage": 17,
+      "hex": " #514E46"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A39F90"
+    },
+    {
+      "percentage": 11,
+      "hex": " #868174"
+    },
+    {
+      "percentage": 8,
+      "hex": " #6C695D"
+    },
+    {
+      "percentage": 6,
+      "hex": " #32312C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C9C3AF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F5F1E4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #514E46",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A39F90",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #868174",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6C695D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #32312C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 50,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 43,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper"
+  ],
+  "description": "Johannes de Doper zit tegen een rots. Op de achtergrond een berglandschap. Een lammetje ligt naast hem langs een rivierstroompje. De prent heeft een Latijns onderschrift.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick Goltzius (jan-1558 - 01-jan-1617), Haarlem"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Adriaen Collaert",
+      "unFixedName": "Collaert, Adriaen",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1618-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Adriaen Collaert (c. 1560 - 29-jun-1618), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen Collaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp",
+    "Haarlem",
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1570 - 1618",
+    "sortingDate": 1570,
+    "period": 16,
+    "yearEarly": 1570,
+    "yearLate": 1618
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)1"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - specific aspects ~ male saint"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6126"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 979",
+    "979"
+  ],
+  "principalOrFirstMaker": "Adriaen Collaert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "212"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "158"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, Adriaen Collaert, 1570 - 1618",
+  "subTitle": "h 212mm \u00d7 w 158mm",
+  "scLabelLine": "Adriaen Collaert, 1570 - 1618, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

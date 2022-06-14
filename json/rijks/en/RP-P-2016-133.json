@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-133",
+  "priref": "619351",
+  "objectNumber": "RP-P-2016-133",
+  "language": "en",
+  "title": "Wapenschild van Godard Adriaan van Reede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f0610871-8144-47a5-bb17-16d1a0cb4b9d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1720,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/WXE5tvaPbSsPScfRJFy3HpV3twYGUX3SBUd09VWRioPppCnSkEAs9QdN4wawFFCrSnDNuAixq5-hgnxTsHQRQo3_goLx=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Wapenschild van Godard Adriaan van Reede"
+  ],
+  "description": "Wapenschild van Godard Adriaan van Reede met griffioenen als schildhouders en het ordeteken van de Witte Olifant. Aan de onderzijde een tienregelige Latijnse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2016-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1660 - 1700",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede, Godard Adriaan van"
+    ],
+    "objectNumbers": [
+      "RP-P-2016-133"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede, Godard Adriaan van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "119"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "197"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "136"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Wapenschild van Godard Adriaan van Reede, anonymous, 1660 - 1700",
+  "subTitle": "h 119mm \u00d7 w 120mm",
+  "scLabelLine": "anonymous, 1660 - 1700, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

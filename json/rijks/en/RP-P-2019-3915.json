@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2019-3915",
+  "priref": "745622",
+  "objectNumber": "RP-P-2019-3915",
+  "language": "en",
+  "title": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone"
+  ],
+  "description": "Met midden onder zijn wapenschild.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Frederik Christiaan Reckleben",
+      "unFixedName": "Reckleben, Jan Frederik Christiaan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1819-09-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1879-03-28",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Frederik Christiaan Reckleben (03-sep-1819 - 28-mrt-1879)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Frederik Christiaan Reckleben",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2019-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "steel engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1841 - 1879",
+    "sortingDate": 1841,
+    "period": 19,
+    "yearEarly": 1841,
+    "yearLate": 1879
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45C22",
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "armour",
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-2019-3915"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Van Someren 16",
+    "16"
+  ],
+  "principalOrFirstMaker": "Jan Frederik Christiaan Reckleben",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "222"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel engraving",
+  "longTitle": "Portret van Godard, baron van Reede-Ginckel, graaf van Athlone, Jan Frederik Christiaan Reckleben, 1841 - 1879",
+  "subTitle": "h 222mm \u00d7 w 144mm",
+  "scLabelLine": "Jan Frederik Christiaan Reckleben, 1841 - 1879, steel engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

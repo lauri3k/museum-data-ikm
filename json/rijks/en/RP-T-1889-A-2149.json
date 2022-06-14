@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1889-A-2149",
+  "priref": "28677",
+  "objectNumber": "RP-T-1889-A-2149",
+  "language": "en",
+  "title": "Study of a Boy\u2019s Head",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "268c043a-e494-4d9f-806c-5db0958527a7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2105,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/d8CiL5Phs1as7lXdeXd7USQoJmk8eOw3eF5vTppvuR2UxWxoL1hPFY-8U0VfGmI0imWtsIVgEHYXCsp-u52WonZ2RB8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Study of a Head of a Boy"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Annibale Carracci",
+      "unFixedName": "Carracci, Annibale",
+      "placeOfBirth": "Bologna",
+      "dateOfBirth": "1560-11-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1609-07-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Annibale Carracci (03-nov-1560 - 15-jul-1609)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Annibale Carracci",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1889-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "prepared paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1580 - c. 1589",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1589
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D12",
+      "31A221"
+    ],
+    "iconClassDescription": [
+      "youth, adolescent",
+      "head (human)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1889-A-2149"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Annibale Carracci",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "135"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "114"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "red, black and white chalk, on paper toned with light brown wash; framing line in brown ink",
+  "longTitle": "Study of a Boy\u2019s Head, Annibale Carracci (attributed to), c. 1580 - c. 1589",
+  "subTitle": "h 135mm \u00d7 w 114mm",
+  "scLabelLine": "attributed to Annibale Carracci (1560-1609), red, black, and white chalk, on paper toned with light brown wash, c. 1580-1589",
+  "label": {
+    "title": "Study of a Boy\u2019s Head",
+    "makerLine": "attributed to Annibale Carracci (1560-1609), red, black, and white chalk, on paper toned with light brown wash, c. 1580-1589",
+    "description": "Together with his cousin and brother, Annibale Carracci led a large workshop with several pupils in Bologna, where drawing from live models was the order of the day. He often used red or black chalk for figure studies made in the workshop. In this drawing he used both colours, which he combined in some places by slightly blending the hatching.",
+    "notes": null,
+    "date": "2019-11-12"
+  },
+  "showImage": true,
+  "location": null
+}

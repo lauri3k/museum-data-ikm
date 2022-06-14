@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1797",
+  "priref": "7502",
+  "objectNumber": "SK-A-1797",
+  "language": "en",
+  "title": "Portrait of William IV, Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "22c4f556-2ff5-46ab-b8a0-c39ac3a6bbe3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2183,
+    "height": 2580,
+    "url": "https://lh4.ggpht.com/6AdxyGyt4gklmps7o81kUXtZ1JT-esLJOYum0OvvWrtmmilSfozeLigWpq3kfC7Q_rwrweVhNHMXmkJ6xv_lRGAHBg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 48,
+      "hex": "#494337"
+    },
+    {
+      "percentage": 35,
+      "hex": " #6A5A44"
+    },
+    {
+      "percentage": 8,
+      "hex": " #99865A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #312F25"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B3A280"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DCCBAA"
+    },
+    {
+      "percentage": 1,
+      "hex": " #CDB693"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#494337",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6A5A44",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #99865A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #312F25",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #B3A280",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DCCBAA",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CDB693",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 84,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of William IV, Prince of Orange"
+  ],
+  "description": "Portret van Willem IV (1711-51), prins van Oranje-Nassau. Ten halven lijve, het hoofd iets naar rechts. Zittend in harnas met blauwe sjerp, commadostaf in de linkerhand.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Holland"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Holland"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1899-05-01T00:00:00",
+    "creditLine": "Gift of L., Count von Schlitz, Berlijn"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Holland"
+  ],
+  "dating": {
+    "presentingDate": "c. 1745",
+    "sortingDate": 1745,
+    "period": 18,
+    "yearEarly": 1745,
+    "yearLate": 1745
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "SK-A-1797"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "81"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "69.5"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "3.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "78"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "10"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of William IV, Prince of Orange, anonymous, c. 1745",
+  "subTitle": "h 81cm \u00d7 w 69.5cm \u00d7 t 3.5cm",
+  "scLabelLine": "anonymous, c. 1745, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

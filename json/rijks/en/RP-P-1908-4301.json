@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-4301",
+  "priref": "52601",
+  "objectNumber": "RP-P-1908-4301",
+  "language": "en",
+  "title": "Maria met Kind en heiligen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6f93250f-310e-43ad-baf8-198e1bba61b6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1655,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/vzTQNEcWINV9Jcxro4WCiB9aarGOADS4oxCjBlORqhk0kxyNXr_2w8C50iPr0RBz30N39pLyV9PBkVsL7Kt7PF2qMXA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Maria met Kind en heiligen",
+    "Heilige Gesprek",
+    "Sacra Conversazione"
+  ],
+  "description": "De getroonde Maria met het Christuskind, met links de heiligen Ursula en Marcus en rechts de heiligen Petrus en Catharina. Onderaan de besnijdenis van Christus en in de hoeken de vier evangelisten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Monogrammist AM (prentmaker 16e eeuw)",
+      "unFixedName": "Monogrammist AM (prentmaker 16e eeuw)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Monogrammist AM (prentmaker 16e eeuw), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Monogrammist AM (prentmaker 16e eeuw)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": "Gift of G.J. Boekenoogen, Leiden"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "? Italy"
+  ],
+  "dating": {
+    "presentingDate": "1500 - 1599",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1599
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F611",
+      "11HH(URSULA)",
+      "11H(MARK)",
+      "11H(PETER)",
+      "11HH(CATHERINE)",
+      "11I41111",
+      "73B3"
+    ],
+    "iconClassDescription": [
+      "'Sacra Conversazione'",
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship",
+      "Mark (Marcus) the evangelist, and bishop of Alexandria; possible attributes: book, (winged) lion, pen and inkhorn, scroll",
+      "the apostle Peter, first bishop of Rome; possible attributes: book, cock, (upturned) cross, (triple) crozier, fish, key, scroll, ship, tiara",
+      "the virgin martyr Catherine of Alexandria; possible attributes: book, crown, emperor Maxentius, palm-branch, ring, sword, wheel",
+      "the four symbols of the evangelists inspiring (or assisting) them",
+      "circumcision of the Christ-child by the priest in the temple (Luke 2:21)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1908-4301"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Monogrammist AM (prentmaker 16e eeuw)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "289"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "185"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Maria met Kind en heiligen, Monogrammist AM (prentmaker 16e eeuw), 1500 - 1599",
+  "subTitle": "h 289mm \u00d7 w 185mm",
+  "scLabelLine": "Monogrammist AM (prentmaker 16e eeuw), 1500 - 1599, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

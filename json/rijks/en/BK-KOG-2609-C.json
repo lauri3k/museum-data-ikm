@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-2609-C",
+  "priref": "469138",
+  "objectNumber": "BK-KOG-2609-C",
+  "language": "en",
+  "title": "Fragment",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9d72a6b1-bd20-4d1d-8c87-39ba17fafa41",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 994,
+    "height": 5142,
+    "url": "https://lh3.googleusercontent.com/giB650ZRZOQVt_-ZlKbZneSCPpViGG3lCnerqh2vZkaTu1XOwnZGH5gOz3Gw-9y_Zus2btjAf7Lrp6gfJmqX0gt0WqLALYl7smhB1Vw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Fragment sits met een decor van bloemtakken en hier en daar veerachtig bladeren. Een naad en een stuk afwijkende sits ingenaaid.",
+  "labelText": null,
+  "objectTypes": [
+    "chintz"
+  ],
+  "objectCollection": [
+    "textile materials"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1944-11-20T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "cotton (textile)",
+    "chintz"
+  ],
+  "techniques": [
+    "printing",
+    "chintz"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1750",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1750
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-KOG-2609-C"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "30"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "187"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing",
+  "longTitle": "Fragment, anonymous, c. 1750",
+  "subTitle": "h 30cm \u00d7 w 187cm",
+  "scLabelLine": "India, c. 1750, hand-painted cotton",
+  "label": {
+    "title": "Fragment",
+    "makerLine": "India, c. 1750, hand-painted cotton",
+    "description": "This long remnant of chintz is decorated with a design of flowers and feather-like leaves. Sewn onto it is a small piece of chintz with a different pattern \u2013 look closely, for it also consists of red flowers.",
+    "notes": null,
+    "date": "2018-09-17"
+  },
+  "showImage": true,
+  "location": null
+}

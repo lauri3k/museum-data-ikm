@@ -1,0 +1,290 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1914-17-293",
+  "priref": "436261",
+  "objectNumber": "RP-T-1914-17-293",
+  "language": "en",
+  "title": "Palm cockatoo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a20607fa-d99e-45b4-9df4-a6506cbb81d5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2269,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/R2V-TOV1YFCIKFFhAYQPy3VFCOWQInXKfwklm4zbYWEGA-FVLJVf-pLLj2_Xr-4etWtmLa1VfHDAVbKdVogFTZZ5y-s=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#E0E0DA"
+    },
+    {
+      "percentage": 18,
+      "hex": " #CDC9BB"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F4F7F8"
+    },
+    {
+      "percentage": 10,
+      "hex": " #7B7457"
+    },
+    {
+      "percentage": 10,
+      "hex": " #ADA384"
+    },
+    {
+      "percentage": 2,
+      "hex": " #3E361F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #1B190D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E0E0DA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CDC9BB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F4F7F8",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #7B7457",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ADA384",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3E361F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #1B190D",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Palm cockatoo",
+    "Blue parrot with crest"
+  ],
+  "description": "Vogelstudie: Zwarte kaketoe (Probosciger aterrimus). Komt niet in zuidelijk Afrika voor; volgens Gordon afkomstig uit Nieuw Guinea.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Jacob Gordon",
+      "unFixedName": "Gordon, Robert Jacob",
+      "placeOfBirth": "Doesburg",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1795-10-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Kaapstad",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Robert Jacob Gordon (1743 - 25-okt-1795)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Jacob Gordon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Purchased with the support of private collectors"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "deck paint",
+    "ink",
+    "pencil",
+    "chalk",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "in or after c. 1780",
+    "sortingDate": 1780,
+    "period": 18,
+    "yearEarly": 1780,
+    "yearLate": 1780
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1914-17-293"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Jacob Gordon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "660"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "480"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "491"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "329"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": null
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Palm cockatoo, Robert Jacob Gordon (attributed to), in or after c. 1780",
+  "subTitle": "h c.660mm \u00d7 w 480mm",
+  "scLabelLine": "Robert Jacob Gordon, in or after c. 1780, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

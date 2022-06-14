@@ -1,0 +1,237 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-31.099",
+  "priref": "51511",
+  "objectNumber": "RP-P-OB-31.099",
+  "language": "en",
+  "title": "Maria met kind omringd door heiligen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "06cd0afe-64eb-446d-92de-445e4f92be08",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1690,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/rDKBGD4wyR7DKidADAXbiE7uGGbGfhRVJo0W0XEaphC1BL_xVuTQyYBRdNqPot4gh6DnKKsvMG6wnVc0sjhNAodWlw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#F6F4E5"
+    },
+    {
+      "percentage": 22,
+      "hex": " #DEDBCA"
+    },
+    {
+      "percentage": 8,
+      "hex": " #7D7869"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A39E8B"
+    },
+    {
+      "percentage": 20,
+      "hex": " #4E4B3F"
+    },
+    {
+      "percentage": 35,
+      "hex": " #C5C0AA"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F4E5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DEDBCA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7D7869",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A39E8B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4E4B3F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #C5C0AA",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 64,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Maria met kind omringd door heiligen"
+  ],
+  "description": "Maria zit in het midden met naast haar het staande Christuskind. Zij worden door heiligen en engelen omringd. Rechts op de voorgrond staat de heilige Johannes de Doper.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Alessandro Gandini",
+      "unFixedName": "Gandini, Alessandro",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Alessandro Gandini"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Alessandro Gandini",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1507 - 1599",
+    "sortingDate": 1507,
+    "period": 16,
+    "yearEarly": 1507,
+    "yearLate": 1599
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F61(+5)",
+      "11FF442",
+      "11H(JOHN THE BAPTIST)",
+      "11G192"
+    ],
+    "iconClassDescription": [
+      "Madonna accompanied by saint(s) (+ donor(s), supplicant(s), whether or not with patron saint(s))",
+      "Mary (standing) with the Christ-child beside her (free-standing or leaning against her) - FF - Mary sitting or enthroned",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "angel(s) represented as youth(s) or adult(s)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-31.099"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 25",
+    "25",
+    "Bartsch 25",
+    "25",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Alessandro Gandini",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "359"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "243"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Maria met kind omringd door heiligen, Alessandro Gandini, 1507 - 1599",
+  "subTitle": "h 359mm \u00d7 w 243mm",
+  "scLabelLine": "Alessandro Gandini, 1507 - 1599, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

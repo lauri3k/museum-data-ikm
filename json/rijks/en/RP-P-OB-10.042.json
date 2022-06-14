@@ -1,0 +1,332 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-10.042",
+  "priref": "367406",
+  "objectNumber": "RP-P-OB-10.042",
+  "language": "en",
+  "title": "De doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c6efc2e6-0b32-4e69-bdbc-43526e10c6fa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2052,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/YDx3Jl-WxDariGfQiw1e83ppbxSUnpCyFM1-FXTOUnVw-r9dvaEM4YsBbX0Qln4NRKAgpryv-CLQ0uTna_z43Ds6XQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#F9F6E6"
+    },
+    {
+      "percentage": 28,
+      "hex": " #D8D0BD"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6F6D62"
+    },
+    {
+      "percentage": 12,
+      "hex": " #888579"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A6A294"
+    },
+    {
+      "percentage": 7,
+      "hex": " #504F46"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F9F6E6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D8D0BD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6F6D62",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #888579",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A6A294",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #504F46",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#FFFFF0"
+    },
+    {
+      "percentage": 28,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 58,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 22,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "De doornenkroning",
+    "De Passie"
+  ],
+  "description": "Christus, zittend op een verhoging in een bebouwde omgeving, krijgt een doornenkroon op het hoofd geduwd. Deze prent is onderdeel van een serie van twaalf passievoorstellingen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Albrecht D\u00fcrer",
+      "unFixedName": "D\u00fcrer, Albrecht",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1471-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1528-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Albrecht D\u00fcrer (24-mei-1471 - 05-apr-1528)"
+    },
+    {
+      "name": "Lucas van Leyden",
+      "unFixedName": "Leyden, Lucas van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1494-06",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lucas van Leyden (c. jun-1494 - aug-1533)"
+    },
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": null,
+      "labelDesc": "Hendrick Goltzius (jan-1558 - 01-jan-1617), Haarlem"
+    },
+    {
+      "name": "Frederik de Wit",
+      "unFixedName": "Wit, Frederik de",
+      "placeOfBirth": null,
+      "dateOfBirth": "1631",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1706",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher",
+        "printer",
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Frederik de Wit (c. 1631 - 1706), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrick Goltzius (jan-1558 - 01-jan-1617), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick Goltzius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Haarlem",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1597",
+    "sortingDate": 1597,
+    "period": 16,
+    "yearEarly": 1597,
+    "yearLate": 1597
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-10.042"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 33",
+    "33",
+    "Hollstein Dutch 27",
+    "27",
+    "New Hollstein Dutch 23",
+    "23"
+  ],
+  "principalOrFirstMaker": "Hendrick Goltzius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "201"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "134"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De doornenkroning, Hendrick Goltzius, 1597",
+  "subTitle": "h 201mm \u00d7 w 134mm",
+  "scLabelLine": "Hendrick Goltzius, 1597, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,226 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2007-359-65",
+  "priref": "452703",
+  "objectNumber": "RP-F-2007-359-65",
+  "language": "en",
+  "title": "Bloedeilanden met torens bij Ajaccio",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d0fbaa5f-5e72-40fb-a7ea-1e59feffe744",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2196,
+    "url": "https://lh4.ggpht.com/hILQ28QJnXUdj9KYvTxPT4rKHfVjAvS5J9fuVGMT-qWeeWMqVv4-0_lnjPtHDk9agI01_uS3J2Sly8FeLel_hB6Q9w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#ECE9DA"
+    },
+    {
+      "percentage": 14,
+      "hex": " #71654E"
+    },
+    {
+      "percentage": 13,
+      "hex": " #584830"
+    },
+    {
+      "percentage": 13,
+      "hex": " #9889A5"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C9C0B3"
+    },
+    {
+      "percentage": 9,
+      "hex": " #887E68"
+    },
+    {
+      "percentage": 0,
+      "hex": " #73579B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECE9DA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #71654E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #584830",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #9889A5",
+      "normalizedHex": "#DAAFDA"
+    },
+    {
+      "originalHex": " #C9C0B3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #887E68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #73579B",
+      "normalizedHex": "#8268DC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 28,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #D8BFD8"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #483D8B"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Bloedeilanden met torens bij Ajaccio",
+    "Les \u00celes Sanguinaires bij Ajaccio"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Henry Pauw van Wieldrecht",
+      "unFixedName": "Pauw van Wieldrecht, Henry",
+      "placeOfBirth": "Zeist",
+      "dateOfBirth": "1863-10-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Henry Pauw van Wieldrecht (24-okt-1863 - 02-jun-1912)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Henry Pauw van Wieldrecht",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2008-12-11T00:00:00",
+    "creditLine": "Gift of the heirs of H. Pauw van Wieldrecht, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1886 - c. 1896",
+    "sortingDate": 1886,
+    "period": 19,
+    "yearEarly": 1886,
+    "yearLate": 1896
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "\u00celes Sanguinaires"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2007-359-65"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Henry Pauw van Wieldrecht",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "230"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "322"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "498"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Bloedeilanden met torens bij Ajaccio, Henry Pauw van Wieldrecht (possibly), c. 1886 - c. 1896",
+  "subTitle": "h 170mm \u00d7 w 230mm",
+  "scLabelLine": "Henry Pauw van Wieldrecht, c. 1886 - c. 1896, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

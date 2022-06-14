@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2000-69-D",
+  "priref": "362964",
+  "objectNumber": "BK-2000-69-D",
+  "language": "en",
+  "title": "Ovoid jar with a blue glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "37da2a99-ff34-4b53-802d-3d992332996b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2247,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/xuIL7qZVnkf9dD4j-nVLa7-1r_5FuSukJS7C2SaGTt4gqwJdaqtYdfRG_SV_VTaha7qTykDc0f9sRTYncdMAlOsm21Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ovoid jar with a blue glaze"
+  ],
+  "description": "Pot van kwarts-fritgoed grotendeels bedekt met een monochroom blauw alkaliglazuur.",
+  "labelText": null,
+  "objectTypes": [
+    "pot"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "Mr and Mrs Oosterbaan-Lugt Bequest, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1100 - c. 1299",
+    "sortingDate": 1100,
+    "period": 11,
+    "yearEarly": 1100,
+    "yearLate": 1299
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2000-69-D"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "16"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "9.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "17.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Ovoid jar with a blue glaze, anonymous, c. 1100 - c. 1299",
+  "subTitle": "h 16cm \u00d7 d 9.6cm",
+  "scLabelLine": "anonymous, c. 1100 - c. 1299, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

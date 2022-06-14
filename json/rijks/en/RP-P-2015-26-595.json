@@ -1,0 +1,174 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2015-26-595",
+  "priref": "603349",
+  "objectNumber": "RP-P-2015-26-595",
+  "language": "en",
+  "title": "Portret van de schrijver en drukker Thomas Gent",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a12e795f-6683-4da2-bb4b-4ef23f4d474b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1759,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/KTEVG5Hs2YWWE20ne3LG1eIxnC6RKQIHdPb4FCXtJkXdQUInihX7WZejJcKelcO7qFJigMh8WWeApfW3yvx79ScOEIQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van de schrijver en drukker Thomas Gent",
+    "Mr. Tho.s Gent, Printer, Aged 80, Citizen of London, York, and Dublin"
+  ],
+  "description": "Portret van de drukker Thomas Gent op 80-jarige leeftijd ten halven lijve in een nis, in zijn rechterhand een open boek.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "S. Emmering Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1771",
+    "sortingDate": 1771,
+    "period": 18,
+    "yearEarly": 1771,
+    "yearLate": 1771
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49M32",
+      "49M123",
+      "48C91"
+    ],
+    "iconClassDescription": [
+      "book",
+      "printer",
+      "writer, poet, author"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Gent, Thomas"
+    ],
+    "objectNumbers": [
+      "RP-P-2015-26-595"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Gent, Thomas"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "327"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "228"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van de schrijver en drukker Thomas Gent, Valentine Green, 1771",
+  "subTitle": "h 327mm \u00d7 w 228mm",
+  "scLabelLine": "Valentine Green, 1771, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

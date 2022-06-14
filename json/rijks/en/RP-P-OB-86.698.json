@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-86.698",
+  "priref": "512176",
+  "objectNumber": "RP-P-OB-86.698",
+  "language": "en",
+  "title": "Proclamatie van erfprins Willem bij de Brits-Russische inval in de Nederlanden, 1799",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d35c3d00-00d9-4e44-b870-4a41c9506aa1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2028,
+    "url": "https://lh3.ggpht.com/AJW2cxQDAJIM1OBc34u03oL-Bdcmq9A6F5dzkGuBz40U3CCLWO9OKcWfLEG1TctCeX0fmST00VivXk3bMGoGn0DnpcM=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Proclamatie van erfprins Willem bij de Brits-Russische inval in de Nederlanden, 1799",
+    "Aan het Volk van Neederland. Wy Willem Frederik Erfprins van Orange en Nassau (...)"
+  ],
+  "description": "Tekstblad met een proclamatie van erfprins Willem bij de landing van Britse troepen in de Nederlanden, augustus 1799.",
+  "labelText": null,
+  "objectTypes": [
+    "text sheet"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Germany"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Willem I (koning der Nederlanden)",
+      "unFixedName": "Willem I (koning der Nederlanden)",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1772-08-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1843-12-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem I (koning der Nederlanden) (24-aug-1772 - 12-dec-1843), Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem I (koning der Nederlanden)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Germany",
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1799",
+    "sortingDate": 1799,
+    "period": 18,
+    "yearEarly": 1799,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Brits-Russische expeditie naar Noord-Holland"
+    ],
+    "periods": [
+      "1799-081799-08"
+    ],
+    "places": [],
+    "people": [
+      "Willem I (koning der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-86.698"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (koning der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. III (jaren 1795 tot 1879), p. 33, nr. 5526."
+  ],
+  "catRefRPK": [
+    "FMH 5526",
+    "5526",
+    "Atlas van Stolk 5440",
+    "5440"
+  ],
+  "principalOrFirstMaker": "Willem I (koning der Nederlanden)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "283"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "349"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Proclamatie van erfprins Willem bij de Brits-Russische inval in de Nederlanden, 1799, Willem I (koning der Nederlanden), 1799",
+  "subTitle": "h 283mm \u00d7 w 349mm",
+  "scLabelLine": "Willem I (koning der Nederlanden), 1799, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

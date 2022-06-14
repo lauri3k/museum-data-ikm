@@ -1,0 +1,265 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1980-22",
+  "priref": "304728",
+  "objectNumber": "BK-1980-22",
+  "language": "en",
+  "title": "Naaitafel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f726bf09-66c3-451a-9b32-bc0257f1f814",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2644,
+    "url": "https://lh6.ggpht.com/w42DfBtDnsYFNc1Wnv_0PjN1l3lDovHIPnrkY6jQljZUKrSsA8Jpv1CLCQ4cQAkkeitbx_GS6G2_xN6iY1pKosZFQMGV=s0"
+  },
+  "colors": [
+    {
+      "percentage": 45,
+      "hex": "#B7B9C2"
+    },
+    {
+      "percentage": 8,
+      "hex": " #1F1814"
+    },
+    {
+      "percentage": 6,
+      "hex": " #9F9EA3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #7B6F68"
+    },
+    {
+      "percentage": 12,
+      "hex": " #4E3E36"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E3E5EB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B7B9C2",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #1F1814",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #9F9EA3",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #7B6F68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4E3E36",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E3E5EB",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 21,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 21,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Naaitafel"
+  ],
+  "description": "Naaitafel van coromandelhout met tin, bloedkoraal, mahoniehout, rood leer en gebeitst eikenhout. De geprofileerde poten zijn, net als de tafelregels, ingelegd met tinnen strippen in een geometrisch patroon, en onderaan verbonden door een blad. Het tafelblad bestaat uit twee deksels met een bloedkoralen cabochon, snijwerk in reli\u00ebf, inlegwerk in tin en heeft twee vlinders met bloedkoralen cabochons als grepen. Onder het blad bevindt zich een kastje met gewelfde onderregel en opengewerkte zijden met rood leer.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture",
+    "table"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Anton Fortuin",
+      "unFixedName": "Fortuin, Anton",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1880",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1967",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Anton Fortuin (1880 - 1967), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Anton Fortuin",
+      "unFixedName": "Fortuin, Anton",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1880",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1967",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Anton Fortuin (1880 - 1967), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anton Fortuin",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1980-03-25T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "oak (wood)",
+    "mahogany (wood)",
+    "tin (metal)",
+    "red coral (material)",
+    "leather"
+  ],
+  "techniques": [
+    "inlay (process)"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1929",
+    "sortingDate": 1929,
+    "period": 20,
+    "yearEarly": 1929,
+    "yearLate": 1929
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1980-22"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anton Fortuin",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "78"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "40.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "45.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "25.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "inlay (process)",
+  "longTitle": "Naaitafel, Anton Fortuin, 1929",
+  "subTitle": "h 78cm \u00d7 w 40.5cm \u00d7 d 45.5cm \u00d7 w 25.2kg",
+  "scLabelLine": "Anton Fortuin, 1929, inlay (process)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

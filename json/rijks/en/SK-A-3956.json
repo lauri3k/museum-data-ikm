@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3956",
+  "priref": "10062",
+  "objectNumber": "SK-A-3956",
+  "language": "en",
+  "title": "Head of a Young Woman",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0df3ee0e-4d04-43fd-a9d3-69dce0aaab2f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1959,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/cz5v0K5RLA6zEPkRZeutnW2sBNSC2Bz-6jrrJNnrezwWUfhFYuY7dsuxSq5yPjZ34YHipTak9DWOWtkiIyr1KbecUzM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#3A3633"
+    },
+    {
+      "percentage": 16,
+      "hex": " #605B4E"
+    },
+    {
+      "percentage": 11,
+      "hex": " #8C8979"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B2B0A6"
+    },
+    {
+      "percentage": 18,
+      "hex": " #17191A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #CFCEC8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3A3633",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #605B4E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8C8979",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B2B0A6",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #17191A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #CFCEC8",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [],
+  "description": "Hoofd van een jonge vrouw. Buste in ovaal, aanziend. Op het hoofd een platte hoed, om de hals een parelsnoer.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Frans van der Mijn",
+      "unFixedName": "Mijn, Frans van der",
+      "placeOfBirth": "D\u00fcsseldorf",
+      "dateOfBirth": "1719",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1783-08-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Frans van der Mijn (1719 - 20-aug-1783)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Frans van der Mijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1756",
+    "sortingDate": 1756,
+    "period": 18,
+    "yearEarly": 1756,
+    "yearLate": 1756
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D13",
+      "41D26611(+82)",
+      "61BB1"
+    ],
+    "iconClassDescription": [
+      "adolescent, young woman, maiden",
+      "pearl; pearl necklace (+ women's clothes)",
+      "historical persons not known by name - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-3956"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Frans van der Mijn",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "53.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "42.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Head of a Young Woman, Frans van der Mijn, 1756",
+  "subTitle": "h 53.5cm \u00d7 w 42.2cm",
+  "scLabelLine": "Frans van der Mijn (1719-1783), oil on canvas, 1756",
+  "label": {
+    "title": "Head of a Young Woman",
+    "makerLine": "Frans van der Mijn (1719-1783), oil on canvas, 1756",
+    "description": "Frans van der Mijn was just a child when he moved with his father Herman to London, where he would make a career for himself. This painting is not a portrait, but an idealized, imaginary rendering of a young woman. The use of brown, grey and white tones imitates graphic art. With this painterly device, Van der Mijn showed off his artistic skills.",
+    "notes": null,
+    "date": "2012-12-21"
+  },
+  "showImage": true,
+  "location": "HG-1.6"
+}

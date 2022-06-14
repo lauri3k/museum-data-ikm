@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1972-28(R)",
+  "priref": "28894",
+  "objectNumber": "RP-T-1972-28(R)",
+  "language": "en",
+  "title": "Redding van de heilige Donatianus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "192e2850-db6e-4dd6-b1e5-bc4884f92f0c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2634,
+    "height": 2008,
+    "url": "https://lh3.ggpht.com/csCGECCVIiOuc6dekGfyMqfC1J6XRjzloTMRkybz78ZrFfpCQAHSlEPdzj2XrLuCwTShM7Eq6AczI66uhI-48tD9a_Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 23,
+      "hex": "#FBFAEC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EBE6D5"
+    },
+    {
+      "percentage": 24,
+      "hex": " #958A75"
+    },
+    {
+      "percentage": 23,
+      "hex": " #B9AB91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #726552"
+    },
+    {
+      "percentage": 22,
+      "hex": " #D7CAB1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FBFAEC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EBE6D5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #958A75",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B9AB91",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #726552",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D7CAB1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 24,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 23,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 45,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 30,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 23,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Redding van de heilige Donatianus"
+  ],
+  "description": "De wonderbaarlijke redding van de heilige Donatianus als ontwerp voor borduurwerk op een koorkapschild.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lancelot Blondeel",
+      "unFixedName": "Blondeel, Lancelot",
+      "placeOfBirth": null,
+      "dateOfBirth": "1498",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1561",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brugge",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lancelot Blondeel (1498 - 1561)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lancelot Blondeel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1545 - 1550",
+    "sortingDate": 1545,
+    "period": 16,
+    "yearEarly": 1545,
+    "yearLate": 1550
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DONATION OF REIMS)"
+    ],
+    "iconClassDescription": [
+      "male saints (with NAME)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1972-28(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lancelot Blondeel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "213"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "280"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Redding van de heilige Donatianus, Lancelot Blondeel, 1545 - 1550",
+  "subTitle": "h 213mm \u00d7 w 280mm",
+  "scLabelLine": "Lancelot Blondeel, 1545 - 1550, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

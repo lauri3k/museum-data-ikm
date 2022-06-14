@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-BR-946-H",
+  "priref": "353306",
+  "objectNumber": "BK-BR-946-H",
+  "language": "en",
+  "title": "Triptych",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3a32d40a-7b89-4710-a4cf-c2ccef651e4b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1872,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/V5kN9Ms23jGjFyJ3rlKQCAd1delRXiYHP8YhQUJ_kmX8tIJBqJTnflWBTF4Xa0GgI09goq8_2DoLy5yFLM1FxOoEKQc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Triptych with St Christopher, St George, St Barbara, The Virgin in Sole, St Catherine and St John the Evangelist"
+  ],
+  "description": "Huisaltaar of reisaltaar van palmhout met gesneden voorstellingen. Middendeel: Maria in stralenkrans en mandorla met het Christuskind op de arm; op de geopende zijvleugels links St. Barbara, rechts St. Catharina. De buitenzijden van de vleugels met links St. Christoffel en rechts St. Joris. Onder Maria de tekst: TOTA PULCHRA ES AMICA MEA. Op het voetstuk een reli\u00ebf van Johannes de Evangelist en een transenna. Aan de achterzijde twee deurtjes.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Adam Dircksz",
+      "unFixedName": "Dircksz, Adam",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "sculptor",
+        "goldsmith"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Adam Dircksz, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adam Dircksz",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2013-01-01T00:00:00",
+    "creditLine": "On loan from Museum Catharijneconvent"
+  },
+  "exhibitions": [],
+  "materials": [
+    "boxwood (hardwood)"
+  ],
+  "techniques": [
+    "cutting"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "? Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1500 - c. 1530",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1530
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F4135",
+      "11F41",
+      "11HH(BARBARA)",
+      "11HH(CATHERINE)",
+      "11H(CHRISTOPHER)",
+      "11H(GEORGE)",
+      "11H(JOHN)"
+    ],
+    "iconClassDescription": [
+      "'Marianum', Madonna in aureole or mandorla (surrounded by the rosary), Mary in the Glory",
+      "Madonna: Mary standing (or half-length), Christ-child close to her bosom",
+      "the virgin martyr Barbara; possible attributes: book, cannon(ball), crown, cross, chalice with wafer, Dioscuros (her father), peacock feather, sword, torches, mason's tools, tower",
+      "the virgin martyr Catherine of Alexandria; possible attributes: book, crown, emperor Maxentius, palm-branch, ring, sword, wheel",
+      "the giant and martyr Christophorus; possible attributes: palm-tree (with bunches of dates, or withered), infant Christ",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "the apostle John the Evangelist; possible attributes: book, cauldron, chalice with snake, eagle, palm, scroll"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-BR-946-H"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Adam Dircksz",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "182"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "145"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "45"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "boxwood",
+  "longTitle": "Triptych, Adam Dircksz (workshop of), c. 1500 - c. 1530",
+  "subTitle": "h 182mm \u00d7 w 145mm",
+  "scLabelLine": "Adam Dircksz and workshop, Holland, c. 1500-1530, boxwood",
+  "label": {
+    "title": "Triptych",
+    "makerLine": "Adam Dircksz and workshop, Holland, c. 1500-1530, boxwood",
+    "description": "upper left: St Barbara, upper middle: Virgin in Sole, upper right: St Catherine, below: St John, right wing, exterior: St Christopher, left wing, exterior: St George",
+    "notes": null,
+    "date": "2017-08-29"
+  },
+  "showImage": true,
+  "location": "HG-0.1"
+}

@@ -1,0 +1,179 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1973-9A-21",
+  "priref": "767916",
+  "objectNumber": "NG-1973-9A-21",
+  "language": "en",
+  "title": "Een Schilder in Verlegenheid",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "df8a07de-fa40-4d25-8808-143372a9e1c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1909,
+    "url": "https://lh3.googleusercontent.com/6fWoLajSSEX8O5udDN5xYe0xFomuXGg57SMd0TnHxST4pNuEuccgalCpRVmxDB0tXTnSwygBrXr1rBGIbb0z9csujZt5b7KRlmQbjFIZ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Een Schilder in Verlegenheid"
+  ],
+  "description": "De schilder Hermanus Koekkoek met zijn schetsboek gearriveerd bij de grens van het verwoeste 'Insulinde', hier verwijzend naar Lombok. Achter hem houdt een Lombokse man een parasol boven zijn hoofd. Kaal landschap bezaaid met skeletten en rokende puinhopen, aasgieren in de lucht, bewaakt door een soldaat staande bij zijn wachthuisje. Aanklacht tegen het bloedig optreden van Vetter bij het neerslaan van de opstand op Lombok in 1894. Onderaan twee teksten van vier regels.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Samuel Lankhout & Co",
+      "unFixedName": "Lankhout & Co, Samuel",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Samuel Lankhout & Co, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Marius Bauer",
+      "unFixedName": "Bauer, Marius",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1867-01-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1932-07-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Marius Bauer (25-jan-1867 - 18-jul-1932)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Marius Bauer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1973-08-02T00:00:00",
+    "creditLine": "Gift of the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1895",
+    "sortingDate": 1895,
+    "period": 19,
+    "yearEarly": 1895,
+    "yearLate": 1895
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "48CC511",
+      "44C312",
+      "25H"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "painter at work, in his studio - CC - out of doors",
+      "political caricatures and satires",
+      "landschappen"
+    ],
+    "motifs": [],
+    "events": [
+      "Lombok-oorlog"
+    ],
+    "periods": [
+      "18941895"
+    ],
+    "places": [
+      "Lombok"
+    ],
+    "people": [
+      "Koekkoek, Hermanus (jr.)",
+      "Vetter, Jacobus Augustinus"
+    ],
+    "objectNumbers": [
+      "NG-1973-9A-21"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Koekkoek, Hermanus (jr.)",
+    "Vetter, Jacobus Augustinus"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Marius Bauer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "301"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "407"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Een Schilder in Verlegenheid, Marius Bauer, 1895",
+  "subTitle": "h 301mm \u00d7 w 407mm",
+  "scLabelLine": "Marius Bauer, 1895, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

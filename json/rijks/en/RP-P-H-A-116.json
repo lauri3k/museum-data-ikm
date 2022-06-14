@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-A-116",
+  "priref": "345673",
+  "objectNumber": "RP-P-H-A-116",
+  "language": "en",
+  "title": "Venus gewond door de doorn van een roos",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5655ba95-a029-4899-bbd6-deeed82b5735",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1686,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/hZ_wHb2h7TcjuyMV2qjNXePmiqz398I8xQmAekwsgdffJNsiMTIYQPzqaPCGtJlE-p-f3MRh6d2hVXjpth4qaV89LlE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Venus gewond door de doorn van een roos"
+  ],
+  "description": "Venus zit in een landschap en trekt een doorn uit haar linkervoet. Aan haar voeten zit een konijn. Op de achtergrond een rivier.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Antonio Salamanca",
+      "unFixedName": "Salamanca, Antonio",
+      "placeOfBirth": "Salamanca",
+      "dateOfBirth": "1478",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1562",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker",
+        "publisher",
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antonio Salamanca (1478 - 1562), Rome"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Marco Dente",
+      "unFixedName": "Dente, Marco",
+      "placeOfBirth": "Ravenna",
+      "dateOfBirth": "1486",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1527",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Marco Dente (c. 1486 - 1527), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Marco Dente",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1510 - 1562",
+    "sortingDate": 1510,
+    "period": 16,
+    "yearEarly": 1510,
+    "yearLate": 1562
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92C461"
+    ],
+    "iconClassDescription": [
+      "Venus wounded by the thorns of a rose-bush; the roses change from white to red (possibly combined with the story of Adonis)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-A-116"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 321",
+    "321"
+  ],
+  "principalOrFirstMaker": "Marco Dente",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "267"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Venus gewond door de doorn van een roos, Marco Dente, 1510 - 1562",
+  "subTitle": "h 267mm \u00d7 w 176mm",
+  "scLabelLine": "Marco Dente, 1510 - 1562, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

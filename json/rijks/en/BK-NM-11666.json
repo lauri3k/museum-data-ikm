@@ -1,0 +1,217 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-11666",
+  "priref": "25483",
+  "objectNumber": "BK-NM-11666",
+  "language": "en",
+  "title": "Reliquary bust of one of Saint Ursula\u2019s virgins",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6475e903-cae6-4c74-b095-2c3b9bc544e5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2043,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/e00ozvW_hGNqG73bVcpjC2bhCyu-m00mX868ALDjDYPYkDT-yUef46XJ-KT5QFH9i3H3z1QSDU1129dWXPAvDyTEJg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#A9A397"
+    },
+    {
+      "percentage": 13,
+      "hex": " #7E694E"
+    },
+    {
+      "percentage": 8,
+      "hex": " #938875"
+    },
+    {
+      "percentage": 6,
+      "hex": " #4F3B27"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D1C6AD"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCD8D1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #281B0F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A9A397",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #7E694E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #938875",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4F3B27",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #D1C6AD",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DCD8D1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #281B0F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Het gescheiden haar van Ursula (of een van haar gezellinnen) valt in golven langs het gelaat tot over de schouders. Ze draagt een strak zittend gewaad. In de borst een vierpasvormige opening.",
+  "labelText": null,
+  "objectTypes": [
+    "bust",
+    "reliquary"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Cologne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1918-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "walnut (hardwood)",
+    "linen (material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Cologne"
+  ],
+  "dating": {
+    "presentingDate": "c. 1325 - c. 1349",
+    "sortingDate": 1325,
+    "period": 14,
+    "yearEarly": 1325,
+    "yearLate": 1349
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(URSULA)"
+    ],
+    "iconClassDescription": [
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-11666"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Bulletin van de Nederlandse Oudheidkundige Bond (1919), p. 27."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "26.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "walnut (hardwood)",
+  "longTitle": "Reliquary bust of one of Saint Ursula\u2019s virgins, anonymous, c. 1325 - c. 1349",
+  "subTitle": "h c.26.6cm",
+  "scLabelLine": "Cologne, c. 1325\u20131350, walnut with old polychromy",
+  "label": {
+    "title": "Reliquary bust of one of Saint Ursula\u2019s virgins",
+    "makerLine": "Cologne, c. 1325\u20131350, walnut with old polychromy",
+    "description": "According to legend, the Christian princess Ursula and her retinue of 11,000 virginal handmaidens were murdered near Cologne by Huns. Their numerous relics were preserved in the basilica of St Ursula and other churches in Cologne, particularly in wooden reliquary busts such as this. The victim\u2019s relics could be seen by the faithful through the opening in the bust.",
+    "notes": null,
+    "date": "2012-11-21"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,180 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-5-10-2",
+  "priref": "616056",
+  "objectNumber": "RP-P-AO-5-10-2",
+  "language": "en",
+  "title": "Kaart van de stadsvrijheid Utrecht",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "558d5ae2-f742-43cd-82eb-cd600e0e7a84",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2009,
+    "url": "https://lh3.googleusercontent.com/w23sp5js5Pg07Kte-15sQeW9OKgO_HKo6jKyaGEqLuLK9CuMT1oKIOjJb_GpGKvBvm2MiNjcBLkAdBeZ_TVdyojc10pL=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Kaart van de stadsvrijheid Utrecht",
+    "Caerte vande Vryheyd der stadt Utrecht volgens decisie vanden iare 1539 / Ultrajecti ejusdemque territorii delineatio geometrica"
+  ],
+  "description": "Deze plattegrond geeft de Utrechtse stadsvrijheid weer (het gebied waarover de stad jurisdictie had) naar de situatie in 1539. De grens van de jurisdictie is aangegeven met een stippellijn. Linksboven een cartouche met de Latijnse titel en daarboven het wapen van de stad. Om de cartouche verschillende mythologische figuren waaronder Diana en Minerva (beiden links van het wapen op de achtergrond), Apollo en een riviergod. Links op de achtergrond landbouwers aan het werk. Linksonder een legenda met de gebouwen in de stad en een schaalstok: Schale van 500 roeden. Rechtsonder een legenda met de schoutambachten en lage gerechten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Caspar Specht",
+      "unFixedName": "Specht, Caspar",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1654",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1710-09-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Utrecht"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Caspar Specht (1654 - 15-sep-1710), Utrecht"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Utrecht"
+  ],
+  "dating": {
+    "presentingDate": "1696",
+    "sortingDate": 1696,
+    "period": 17,
+    "yearEarly": 1696,
+    "yearLate": 1696
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A4",
+      "25A3",
+      "44A1",
+      "92B3",
+      "92C2",
+      "92C3",
+      "92K1",
+      "46A14"
+    ],
+    "iconClassDescription": [
+      "maps of cities",
+      "maps of separate countries or regions",
+      "coat of arms (as symbol of the state, etc.)",
+      "(story of) Apollo (Phoebus)",
+      "(story of) Minerva (Pallas, Athena)",
+      "(story of) Diana (Artemis)",
+      "river-gods",
+      "farmers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Utrecht"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-AO-5-10-2"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "382"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "533"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Kaart van de stadsvrijheid Utrecht, anonymous, 1696",
+  "subTitle": "h 382mm \u00d7 w 533mm",
+  "scLabelLine": "anonymous, 1696, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

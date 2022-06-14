@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F11189",
+  "priref": "273926",
+  "objectNumber": "RP-F-F11189",
+  "language": "en",
+  "title": "Locomotief op de Long Ravine Bridge",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "df7207c9-4400-48d3-a5d4-6032065dbef0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1223,
+    "url": "https://lh3.googleusercontent.com/27-Z4ApT1VCKHgDFpegRUmApw408MrrfOUDsv1-LC01rZxy2b4ScAqXfGXBIokneAvecSALHuI0yGdROU44NJvNyFQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Locomotief op de Long Ravine Bridge",
+    "Long Ravine Bridge, 120 ft. high, 818 ft. long, C.P.R.R."
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1868 - 1890",
+    "sortingDate": 1868,
+    "period": 19,
+    "yearEarly": 1868,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1521",
+      "46C112"
+    ],
+    "iconClassDescription": [
+      "steam locomotive",
+      "bridge"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F11189"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Locomotief op de Long Ravine Bridge, anonymous, 1868 - 1890",
+  "subTitle": "h 87mm \u00d7 w 176mm",
+  "scLabelLine": "anonymous, 1868 - 1890, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

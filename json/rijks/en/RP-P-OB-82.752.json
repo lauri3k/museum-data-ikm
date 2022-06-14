@@ -1,0 +1,286 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-82.752",
+  "priref": "468041",
+  "objectNumber": "RP-P-OB-82.752",
+  "language": "en",
+  "title": "Verovering van Athlone, 1691",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6aaeff4d-eed9-40c8-a33d-7d60f5180314",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2184,
+    "url": "https://lh6.ggpht.com/g3s4z1gPjcCjUJzRpCoLtjCAFu6eiotxRu--lOlVkHuSz-V1tLYWpo669AtvhfqdN3dTkOhZBC2T1kZtFy-BwOX2Is0E=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#F8F7EE"
+    },
+    {
+      "percentage": 29,
+      "hex": " #D8D3C3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #C3B499"
+    },
+    {
+      "percentage": 13,
+      "hex": " #8D887B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696559"
+    },
+    {
+      "percentage": 1,
+      "hex": " #464339"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B4905B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F8F7EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D8D3C3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C3B499",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8D887B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #696559",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #464339",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #B4905B",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 29,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 16,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Verovering van Athlone, 1691",
+    "Het Yerse Athlone, stormenderhandt ingenomen, gesamentlijck door den Generael van Ginckel, de Majors Generael Tetteau en Makkay (...)",
+    "l'Athlone d'Yrlande prise par assault, le premier de Juilliet par Messieurs le General van Ginkel, les Majors Generaux Tetteau & Makkay"
+  ],
+  "description": "Verovering van Athlone in Ierland door de Engelse troepen onder de baron van Ginckel, 1 juli 1691. Op de voorgrond gevechten, daarachter de belegerde stad. Op het blad onder de plaat de titels en legenda's 1-16 en A-I in het Nederlnads en Frans. Hergebruik van de oorspronkelijke plaat van Romeyn de Hooghe uit 1689.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Romeyn de Hooghe",
+      "unFixedName": "Hooghe, Romeyn de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1645-09-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1708-06-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman",
+        "goldsmith"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Romeyn de Hooghe (10-sep-1645 - 15-jun-1708), Northern Netherlands"
+    },
+    {
+      "name": "Johannes Tangena (17e eeuw)",
+      "unFixedName": "Tangena, Johannes (17e eeuw)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1692",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Leiden"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Tangena (17e eeuw) (.... - 1692), Leiden"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Northern Netherlands",
+    "Leiden"
+  ],
+  "dating": {
+    "presentingDate": "1691",
+    "sortingDate": 1691,
+    "period": 17,
+    "yearEarly": 1691,
+    "yearLate": 1691
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45K4"
+    ],
+    "iconClassDescription": [
+      "capture of city (after the siege)"
+    ],
+    "motifs": [],
+    "events": [
+      "Inname van Athlone"
+    ],
+    "periods": [
+      "1691-07-011691-07-01"
+    ],
+    "places": [
+      "Athlone"
+    ],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-82.752"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 435-436, nr. 2847."
+  ],
+  "catRefRPK": [
+    "FMH 2847",
+    "2847"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "433"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "575"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Verovering van Athlone, 1691, anonymous, 1691",
+  "subTitle": "h 433mm \u00d7 w 575mm",
+  "scLabelLine": "anonymous, 1691, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

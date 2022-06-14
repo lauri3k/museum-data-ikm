@@ -1,0 +1,284 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6814A",
+  "priref": "37571",
+  "objectNumber": "RP-P-BI-6814A",
+  "language": "en",
+  "title": "De doornkroning, David vlucht voor Simi en Apamene neemt de kroon af van Darius",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d1ae429d-38e8-4d17-b074-485fee7ed8db",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2115,
+    "url": "https://lh4.ggpht.com/LmGGTgkhEY5eZwRi3so4vXcy625_6TJ4l87LQr7fdwGv5r_wrMafSrXbjuR1iqsxH83ybxV3-NARn3LvnORSFP29KwE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#F3ECD4"
+    },
+    {
+      "percentage": 23,
+      "hex": " #7E7767"
+    },
+    {
+      "percentage": 33,
+      "hex": " #CDC2A6"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A49B84"
+    },
+    {
+      "percentage": 20,
+      "hex": " #575248"
+    },
+    {
+      "percentage": 3,
+      "hex": " #3B3933"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F3ECD4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7E7767",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CDC2A6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A49B84",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #575248",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3B3933",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 11,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 41,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 11,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "De doornkroning, David vlucht voor Simi en Apamene neemt de kroon af van Darius"
+  ],
+  "description": "Bovenste deel van een blad uit een Biblia Pauperum. Gedrukt van meerdere blokken. Links Simi werpt stenen naar David, in het midden de doornenkroning van Christus, rechts Apamene neemt koning Darius de kroon van het hoofd. Omlijsting met vier profeten. Tekst in het Frans onder de voorstellingen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    },
+    {
+      "name": "Jacob Cornelisz van Oostsanen",
+      "unFixedName": "Cornelisz van Oostsanen, Jacob",
+      "placeOfBirth": "Oostzaan",
+      "dateOfBirth": "1475",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "circle of",
+      "labelDesc": "circle of Jacob Cornelisz van Oostsanen (c. 1475 - c. 1533), Low Countries"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Cornelisz van Oostsanen",
+      "unFixedName": "Cornelisz van Oostsanen, Jacob",
+      "placeOfBirth": "Oostzaan",
+      "dateOfBirth": "1475",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1533",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Cornelisz van Oostsanen (c. 1475 - c. 1533)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Cornelisz van Oostsanen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Low Countries",
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "1525 - 1530",
+    "sortingDate": 1525,
+    "period": 16,
+    "yearEarly": 1525,
+    "yearLate": 1530
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352",
+      "71H839",
+      "71R14231",
+      "11I14"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)",
+      "Shimei curses David and casts stones at him",
+      "Apamene, King Darius' concubine, takes the crown off the king's head, puts it on her own, and slaps Darius' face with her left hand",
+      "other groups of prophets"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6814A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 42",
+    "42",
+    "Hollstein Dutch 91",
+    "91",
+    "Steinbart 95",
+    "95",
+    "Steinbart 26",
+    "26"
+  ],
+  "principalOrFirstMaker": "Jacob Cornelisz van Oostsanen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "183"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "257"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "De doornkroning, David vlucht voor Simi en Apamene neemt de kroon af van Darius, Jacob Cornelisz van Oostsanen, 1525 - 1530",
+  "subTitle": "h 183mm \u00d7 w 257mm",
+  "scLabelLine": "Jacob Cornelisz van Oostsanen, 1525 - 1530, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

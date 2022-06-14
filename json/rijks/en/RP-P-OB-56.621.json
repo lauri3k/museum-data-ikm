@@ -1,0 +1,188 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-56.621",
+  "priref": "186628",
+  "objectNumber": "RP-P-OB-56.621",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "68fa2be6-b5fa-485b-a9e7-63310c2c7313",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1834,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/1JOo7pylBvqDX9XNH2fPW14UUxXoEIU4Rx4wpEB7Q-6gY_KkghcHV66uDz9zdlrisBhbLjyf5XnaOlMbZhadt9266tFmINEZXTn1f7qUKA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper",
+    "Johannes der T\u00e4ufer"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "A. Pisani",
+      "unFixedName": "Pisani, A.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object A. Pisani"
+    },
+    {
+      "name": "Hugo Othmar Miethke",
+      "unFixedName": "Miethke, Hugo Othmar",
+      "placeOfBirth": "Potsdam",
+      "dateOfBirth": "1834-07-29",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1918-01-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Wenen",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Vienna"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hugo Othmar Miethke (29-jul-1834 - 11-jan-1918), Vienna"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "William Unger",
+      "unFixedName": "Unger, William",
+      "placeOfBirth": "Hannover",
+      "dateOfBirth": "1837-09-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1932-03-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Innsbruck",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object William Unger (11-sep-1837 - 05-mrt-1932)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "William Unger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Vienna"
+  ],
+  "dating": {
+    "presentingDate": "1861 - 1889",
+    "sortingDate": 1861,
+    "period": 19,
+    "yearEarly": 1861,
+    "yearLate": 1889
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-56.621"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 230",
+    "230"
+  ],
+  "principalOrFirstMaker": "William Unger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "320"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "246"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Johannes de Doper, William Unger, 1861 - 1889",
+  "subTitle": "h 320mm \u00d7 w 246mm",
+  "scLabelLine": "William Unger, 1861 - 1889, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1986-69",
+  "priref": "16231",
+  "objectNumber": "BK-1986-69",
+  "language": "en",
+  "title": "Pointed Hat",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f34bf154-3b16-4920-b445-7a1649290bca",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/cPqN9y7pPVcP6Umf92g-Kg7BpMQUqcnZsHliAlDU4FLq_Gq5yfkX_kn1o5Nk3KAiZXmt1hyO8RB-OKrxHh-wOREXOHrv=s0"
+  },
+  "colors": [
+    {
+      "percentage": 2,
+      "hex": "#ED7A85"
+    },
+    {
+      "percentage": 0,
+      "hex": " #ACADA9"
+    },
+    {
+      "percentage": 69,
+      "hex": " #E7DCD9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8B7E7D"
+    },
+    {
+      "percentage": 24,
+      "hex": " #7C474A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #15130F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ED7A85",
+      "normalizedHex": "#DE4153"
+    },
+    {
+      "originalHex": " #ACADA9",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #E7DCD9",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #8B7E7D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7C474A",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #15130F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 69,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 24,
+      "hex": " #A52A2A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F08080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 69,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 24,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 2,
+      "hex": " #DE4153"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [],
+  "description": "Punthoedje van rood vilt met astrakanbont en versierd met zwarte soutache, zwarte kralen en zijden bolletjes.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "accessories"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1986-01-01T00:00:00",
+    "creditLine": "Gift of G.A. Brusse-Urtebise, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wool",
+    "silk",
+    "jet (coal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "c. 1947 - c. 1952",
+    "sortingDate": 1947,
+    "period": 20,
+    "yearEarly": 1947,
+    "yearLate": 1952
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1986-69"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": "c.",
+      "part": null,
+      "value": "22"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "15"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wool",
+  "longTitle": "Pointed Hat, anonymous, c. 1947 - c. 1952",
+  "subTitle": "d c.22cm \u00d7 h c.15cm",
+  "scLabelLine": "Paris, c. 1932-1937 or c. 1947-1952, wool felt, astrakhan fur, silk, jet",
+  "label": {
+    "title": "Pointed Hat",
+    "makerLine": "Paris, c. 1932-1937 or c. 1947-1952, wool felt, astrakhan fur, silk, jet",
+    "description": "The combination of red felt and astrakhan fur is reminiscent of the papakhas (astrakhan fur hats) worn by the Cossacks. In addition, the pointed crown and the soutache (narrow, round-edged braid) decoration reflect folkloristic influences. This hat is difficult to date because astrakhan trim was fashionable both in the mid-1930s as well as around 1950.",
+    "notes": null,
+    "date": "2015-04-28"
+  },
+  "showImage": true,
+  "location": null
+}

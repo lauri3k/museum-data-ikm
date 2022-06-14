@@ -1,0 +1,260 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-AM-37",
+  "priref": "24516",
+  "objectNumber": "BK-AM-37",
+  "language": "en",
+  "title": "William I, Prince of Orange, Lying in State",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "02ac0cbb-d909-46e7-96e5-3892d0312106",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1725,
+    "url": "https://lh6.ggpht.com/SAoyYucO-_B31ER9JX2sDuZkCk2IsPBSngy5rBn78M-K7crRMHfL8b4kD5QGaTx2tGqSSJU5cDaprJhNtqY9wrvbUwQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 6,
+      "hex": "#7B6C61"
+    },
+    {
+      "percentage": 6,
+      "hex": " #71563F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #938880"
+    },
+    {
+      "percentage": 17,
+      "hex": " #463523"
+    },
+    {
+      "percentage": 52,
+      "hex": " #CBC1BA"
+    },
+    {
+      "percentage": 8,
+      "hex": " #21170D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#7B6C61",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #71563F",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #938880",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #463523",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #CBC1BA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #21170D",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8B4513"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "William of Orange (1533-1584) on his Deathbed, Model for his Tomb Monument"
+  ],
+  "description": "Model voor de ligfiguur van het praalgraf in de Nieuwe Kerk te Delft. De prins ligt geheel gekleed met hoofd en schouders op twee grote kussens; hij heeft de ogen gesloten. De armen liggen slap langs zijn lichaam, de geschoeide voeten rusten tegen de rug van zijn hond. Hij draagt een slaapmuts, gepijpte kraag en een half openstaand wambuis en korte broek. Hier overheen een met bont gevoerde, opengeslagen tabbaard, bij de sluiting van boven tot onder met knoopjes bezet, en met lange, door twee splitten, driedelige mouwen. Uit het bovenste deel van de mouw, waarvan het overlangse split met knoopjes is gesloten, komt de mouw van het wambuis naar voren, die op de met bont gevoerde mouw van de tabbard ligt. Deze vertoont op de hoogte van de rechterheup een zakvormige opening en bij de rechtervoet nog een kleine split. Bij de polsen omgeslagen manchetten.",
+  "labelText": null,
+  "objectTypes": [
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick de Keyser (I)",
+      "unFixedName": "Keyser, Hendrick de (I)",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1565-05-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1621-05-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "sculptor",
+        "print maker"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Hendrick de Keyser (I) (15-mei-1565 - 15-mei-1621), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick de Keyser (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1613 - 1614",
+    "sortingDate": 1613,
+    "period": 17,
+    "yearEarly": 1613,
+    "yearLate": 1614
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E351"
+    ],
+    "iconClassDescription": [
+      "effigy, 'gisant' (portrait-figure on closed coffin or in 'castrum doloris'), transi"
+    ],
+    "motifs": [],
+    "events": [
+      "Twaalfjarig Bestand"
+    ],
+    "periods": [
+      "1584-071613"
+    ],
+    "places": [
+      "Delft"
+    ],
+    "people": [
+      "Willem I (prins van Oranje)",
+      "Staten-Generaal"
+    ],
+    "objectNumbers": [
+      "BK-AM-37"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (prins van Oranje)",
+    "Staten-Generaal"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "A.E. Brinckmann, Barock-Bozzetti III, 1925, p. 24, 25 pl. 8.",
+    "Jhr. J. Six, 'Hendrik de Keyser als beeldhouwer', Jaarverslag Koninklijk Oudheidkundig Genootschap (1910), p. XXXIX met afb.",
+    "A. Pit, 'De verzameling Hollandsch beeldhouwwerk in het Nederlandsch Museum te Amsterdam', Bulletin van den Nederlandschen Oudheidkundigen Bond I (1889-1900), p. 153.",
+    "N. de Roever, 'De rariteitenkamer verbonden aan 't Amsterdamsche Gemeente-archief', Oud Holland VI (1888), p. 212 [deel van model van praalgraf, voorheen 'afzichtelijk beschilderd en gemerkt I.S.V. 1759'].",
+    "A.D. de Vries Azn., 'Biografische aanteekeningen betreffende voornamelijk Amsterdamsche schilders, plaatsnijders, enz. en hunne verwanten, Oude-Holland III (1885), p. 75 e.v.",
+    "J.H. van Lennep, 'De hond van prins Willem I', De Navorscher (1858), p. 196 [de prins werd tijdig gewaarschuwd door zijn hondje bij een gewapende overval van Juliaan Romero. Sindsdien had Willem I altijd een hond van dat ras, een wit Hollands mopje, bij zich (Cammusen of platneuzen?)]",
+    "Documentatiemap: notities R. van Luttervelt."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick de Keyser (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "61.8"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "25.8"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "26"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta",
+  "longTitle": "William I, Prince of Orange, Lying in State, Hendrick de Keyser (I), 1613 - 1614",
+  "subTitle": "h 10.5cm \u00d7 w 61.8cm \u00d7 d 25.8cm",
+  "scLabelLine": "Hendrik de Keyser I (1565\u20131621), Amsterdam, 1613\u20131614, terracotta with beige coating",
+  "label": {
+    "title": "William I, Prince of Orange, Lying in State",
+    "makerLine": "Hendrik de Keyser I (1565\u20131621), Amsterdam, 1613\u20131614, terracotta with beige coating",
+    "description": "This terracotta is the model for the life-size marble statue that is the focal point of the tomb of William of Orange in the Nieuwe Kerk in Delft. William was assassinated in 1584. The dead prince is portrayed in a surprisingly informal fashion: he wears a fur-lined tabard and a nightcap, a favourite garb for scholars in their study. He seems to be lying down for just a moment to rest.",
+    "notes": null,
+    "date": "2013-03-18"
+  },
+  "showImage": true,
+  "location": "HG-2.1"
+}

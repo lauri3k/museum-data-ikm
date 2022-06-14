@@ -1,0 +1,288 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-4648",
+  "priref": "40049",
+  "objectNumber": "RP-P-OB-4648",
+  "language": "en",
+  "title": "De doortocht door de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3056e0aa-0669-43f1-97b3-f2563e505cd5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2836,
+    "height": 1592,
+    "url": "https://lh6.ggpht.com/pvJikEwGs__XepbBJYH_w4yaNnUwwebbx5VZ2G2HT1uEBLdYRH6A_Mz2kmhwMMd4UOaKDToVmp7snrUfCyXHAoXblQA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 45,
+      "hex": "#F5F4E8"
+    },
+    {
+      "percentage": 17,
+      "hex": " #CBC8B4"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6D6B60"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4A4A41"
+    },
+    {
+      "percentage": 8,
+      "hex": " #908E81"
+    },
+    {
+      "percentage": 5,
+      "hex": " #AAA798"
+    },
+    {
+      "percentage": 3,
+      "hex": " #31302B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F4E8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CBC8B4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6D6B60",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A4A41",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #908E81",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AAA798",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #31302B",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#FFFFF0"
+    },
+    {
+      "percentage": 19,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 68,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "De doortocht door de Rode Zee"
+  ],
+  "description": "Op de voorgrond staan Mozes en A\u00e4ron, eerstgenoemde met een staf in de geheven linkerhand. Voor hen langs trekken de Isra\u00eblieten tussen de geweken golven van de Schelfzee (een uitloper van de Rode Zee) door en verder door de bergen. Links op de achtergrond is te zien hoe de farao met zijn gevolg verzwolgen wordt door het terugvloeiende water. Onder de voorstelling twee regels Latijnse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Isra\u00ebl Henriet",
+      "unFixedName": "Henriet, Isra\u00ebl",
+      "placeOfBirth": null,
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1661",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isra\u00ebl Henriet (c. 1590 - 1661), Paris"
+    },
+    {
+      "name": "Isra\u00ebl Henriet",
+      "unFixedName": "Henriet, Isra\u00ebl",
+      "placeOfBirth": null,
+      "dateOfBirth": "1590",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1661",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isra\u00ebl Henriet (c. 1590 - 1661)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacques Callot",
+      "unFixedName": "Callot, Jacques",
+      "placeOfBirth": "Nancy",
+      "dateOfBirth": "1592-08-21",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1635-03-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Nancy",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacques Callot (c. 21-aug-1592 - 24-mrt-1635)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacques Callot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1629",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E1223"
+    ],
+    "iconClassDescription": [
+      "with his people safe on the shore, Moses raises his hands and causes the water to return; Pharaoh's army perishes in the water (Red Sea)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-4648"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Meaume 1",
+    "1",
+    "Lieure 665",
+    "665"
+  ],
+  "principalOrFirstMaker": "Jacques Callot",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "126"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "233"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "De doortocht door de Rode Zee, Jacques Callot, 1629",
+  "subTitle": "h 126mm \u00d7 w 233mm",
+  "scLabelLine": "Jacques Callot, 1629, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

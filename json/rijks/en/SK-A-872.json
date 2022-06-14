@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-872",
+  "priref": "5849",
+  "objectNumber": "SK-A-872",
+  "language": "en",
+  "title": "Willem IV (1711-1751), prince of Orange-Nassau",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "177faa19-b102-4ae3-b0f1-30a078a97931",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2312,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/tpkZ5R8AujtYaGsAi_pTW36jIvRBcrXsx8NOUK4_k3VSVPlc9AHi52vbtPN0rnMaJw6L4mSnAStYRFanPFLy2OMuTlk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#957F55"
+    },
+    {
+      "percentage": 8,
+      "hex": " #79643D"
+    },
+    {
+      "percentage": 36,
+      "hex": " #554B33"
+    },
+    {
+      "percentage": 11,
+      "hex": " #1D1B17"
+    },
+    {
+      "percentage": 41,
+      "hex": " #34312B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #683E1D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#957F55",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #79643D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #554B33",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #1D1B17",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #34312B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #683E1D",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 77,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 36,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Willem IV (1711-1751), prince of Orange-Nassau"
+  ],
+  "description": "Portret van Willem IV, prins van Oranje-Nassau. Staande in wapenrusting, ten voeten uit, in een kustlandschap met links militaire attributen waaronder een kanon en een helm. Op de achtergrond schepen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacques-Andr\u00e9-Joseph Aved",
+      "unFixedName": "Aved, Jacques-Andr\u00e9-Joseph",
+      "placeOfBirth": null,
+      "dateOfBirth": "1702-01-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1766-03-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacques-Andr\u00e9-Joseph Aved (12-jan-1702 - 04-mrt-1766)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacques-Andr\u00e9-Joseph Aved",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1876-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1751",
+    "sortingDate": 1751,
+    "period": 18,
+    "yearEarly": 1751,
+    "yearLate": 1751
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "SK-A-872"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacques-Andr\u00e9-Joseph Aved",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "225"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "173"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "10"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "45"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Willem IV (1711-1751), prince of Orange-Nassau, Jacques-Andr\u00e9-Joseph Aved, 1751",
+  "subTitle": "h 225cm \u00d7 w 173cm \u00d7 d 10cm \u00d7 w 45kg",
+  "scLabelLine": "Jacques-Andr\u00e9-Joseph Aved, 1751, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

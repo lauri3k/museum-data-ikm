@@ -1,0 +1,259 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-77.579A",
+  "priref": "497604",
+  "objectNumber": "RP-P-OB-77.579A",
+  "language": "en",
+  "title": "Verklaring bij de spotprent op prins Willem V, 1782",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e0a6a594-d7e3-4c08-9fc3-00e48d93cf90",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1576,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/K5bupKDMMX2RjUssCeQavSyv9Z9zrSS1v82jWKMTLqL2iUQF7fOt-w0s9qvIG6-LDkiFajV7eRE-_vmqJuHBHmkKYHs_=s0"
+  },
+  "colors": [
+    {
+      "percentage": 49,
+      "hex": "#F5F3E6"
+    },
+    {
+      "percentage": 46,
+      "hex": " #CFCCB8"
+    },
+    {
+      "percentage": 1,
+      "hex": " #908E80"
+    },
+    {
+      "percentage": 0,
+      "hex": " #716E60"
+    },
+    {
+      "percentage": 0,
+      "hex": " #ABA898"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4C4A3E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #29271E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F3E6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CFCCB8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #908E80",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #716E60",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ABA898",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4C4A3E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #29271E",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#FFFFF0"
+    },
+    {
+      "percentage": 46,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 96,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Verklaring bij de spotprent op prins Willem V, 1782",
+    "Explication de la Planche Moriatur Orange / Verklaaring van de Plaat Moriatur Orange"
+  ],
+  "description": "Gedrukte verklaring van de spotprent op Prins Willem V, 1782. Twee dubbelgevouwen bladen, de bladzijden genummerd 1-8, bedrukt met een uitgebreide uitleg op de voorstelling van de prent in het Frans en Nederlands.",
+  "labelText": null,
+  "objectTypes": [
+    "text sheet"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1782",
+    "sortingDate": 1782,
+    "period": 18,
+    "yearEarly": 1782,
+    "yearLate": 1782
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Zeeslag bij Doggersbank",
+      "Patriottentijd (1780-1795)"
+    ],
+    "periods": [
+      "17821782"
+    ],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)",
+      "Goens, Rijklof Micha\u00ebl van",
+      "Luzac, Elie"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-77.579A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)",
+    "Goens, Rijklof Micha\u00ebl van",
+    "Luzac, Elie"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 239, bij nr. 4483.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 321, nr. 4483."
+  ],
+  "catRefRPK": [
+    "FMH 4483",
+    "4483",
+    "Atlas van Stolk 4424",
+    "4424"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "222"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Verklaring bij de spotprent op prins Willem V, 1782, anonymous, 1782",
+  "subTitle": "h 222mm \u00d7 w 130mm",
+  "scLabelLine": "anonymous, 1782, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

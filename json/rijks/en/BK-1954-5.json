@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1954-5",
+  "priref": "290546",
+  "objectNumber": "BK-1954-5",
+  "language": "en",
+  "title": "Cabinet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "facc1312-4279-4d29-ab5f-64d9fcd209d5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2250,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/x0ZHGBoisFwf3zDHwcUddmHgZkhn3SpE08DTevMTRDKo4D6oHc-8GeaWcEwJQhpkJuQQZuP0IV3259vmUugH9R4TC-V8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#E7E7EA"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C4C4C7"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A7A8"
+    },
+    {
+      "percentage": 8,
+      "hex": " #3B2313"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A18866"
+    },
+    {
+      "percentage": 20,
+      "hex": " #70573E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E7E7EA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #C4C4C7",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A9A7A8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #3B2313",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A18866",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #70573E",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 29,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 18,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 36,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 28,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [],
+  "description": "Kabinet belijmd met meerdere houtsoorten en been op een eikenhouten kern. De balusterpoten van het onderstel zijn verbonden door een dubbel Y-vormig kruis op bolpoten, met een ovaal in het midden. Zowel de binnen- als buitenkant van het meubel en het onderstel zijn versierd met bloemenmarqueterie. De twee deuren vertonen hoog op voetstukken geplaatste bloemenvazen onder bogen; op ieder voetstuk zit een vogel. Omlijstingen met bloem- en bladranken. De regel van het onderstel bevat aan de voorzijde een lade.",
+  "labelText": null,
+  "objectTypes": [
+    "furniture",
+    "cabinet"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "furniture worker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1954-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "oak (wood)",
+    "rosewood (wood)",
+    "walnut (hardwood)",
+    "yew (wood)",
+    "birch (wood)",
+    "alder (wood)",
+    "maple (wood)",
+    "holly (wood)",
+    "bone (material)",
+    "ivory"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "? Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1685 - c. 1700",
+    "sortingDate": 1685,
+    "period": 17,
+    "yearEarly": 1685,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A6711"
+    ],
+    "iconClassDescription": [
+      "flowers in a vase"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1954-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "203.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "181.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "62.0"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Cabinet, anonymous, c. 1685 - c. 1700",
+  "subTitle": "h 203.0cm \u00d7 w 181.5cm \u00d7 d 62.0cm",
+  "scLabelLine": "Amsterdam?, c. 1685\u20131700, oak, veneered with kingwood, rosewood, maple and other woods, and bone",
+  "label": {
+    "title": "Cabinet",
+    "makerLine": "Amsterdam?, c. 1685\u20131700, oak, veneered with kingwood, rosewood, maple and other woods, and bone",
+    "description": "The maker of this cabinet decorated it entirely with marquetry, some of which imitates stone. The flower vases, for example, seem to stand on a marble tabletop, which is actually made of little pieces of fancifully burled birch. Besides wood, bits of bone have been used to fashion the white and green flowers that enliven the cabinet.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

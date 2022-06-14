@@ -1,0 +1,125 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2018-61-5",
+  "priref": "709004",
+  "objectNumber": "RP-F-2018-61-5",
+  "language": "en",
+  "title": "Portret van Mr. Birks",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "18f00bff-9f64-494b-9e70-ad9e3fe26786",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1655,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/eLPqBWNHNAnouyMYwIr58LaZFjdb1aSIakNdEQK4bBqrYnTJB57xlMw6FWrXDRGy-93Un_v0H3pk3aKhUJdZXkMzgRV7QQaiqpgnX7xkYQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Mr. Birks"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "cabinet photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "William Notman",
+      "unFixedName": "Notman, William",
+      "placeOfBirth": "Paisley",
+      "dateOfBirth": "1826",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1891",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Montr\u00e9al",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "William Notman (1826 - 1891)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "William Notman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-05-31T00:00:00",
+    "creditLine": "Gift of J. Krijff and K. Green, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1880 - 1895",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1895
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2018-61-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "William Notman",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "165"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van Mr. Birks, William Notman, 1880 - 1895",
+  "subTitle": "h 165mm \u00d7 w 105mm",
+  "scLabelLine": "William Notman, 1880 - 1895, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

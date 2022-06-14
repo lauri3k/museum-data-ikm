@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-100.031",
+  "priref": "118359",
+  "objectNumber": "RP-P-OB-100.031",
+  "language": "en",
+  "title": "Mystiek huwelijk van de heilige Catharina van Alexandri\u00eb",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "29dac5d7-8e79-4034-9f93-229e1baa25ef",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2216,
+    "url": "https://lh3.googleusercontent.com/FjiPQK_kLWHGmNdS2kbfIPTelTt_sqAwQGwLT9igJWFiYR8mY9rkflO6xgokMyd2rihnVP1zy7nTedFUwTHRGKuEqzUBpWX8oVp7DKo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Mystiek huwelijk van de heilige Catharina van Alexandri\u00eb"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Boydell",
+      "unFixedName": "Boydell, John",
+      "placeOfBirth": "Dorrington",
+      "dateOfBirth": "1719-01-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-12-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Boydell (19-jan-1719 - 21-dec-1804), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1775",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(CATHERINE)34"
+    ],
+    "iconClassDescription": [
+      "the mystic marriage of St. Catherine of Alexandria with the infant Christ: the Christ-child puts a ring on her finger"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-100.031"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 30",
+    "30",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "217"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "255"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Mystiek huwelijk van de heilige Catharina van Alexandri\u00eb, Valentine Green, 1775",
+  "subTitle": "h 217mm \u00d7 w 255mm",
+  "scLabelLine": "Valentine Green, 1775, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F24822",
+  "priref": "264320",
+  "objectNumber": "RP-F-F24822",
+  "language": "en",
+  "title": "Zuilengalerij aan de Patio de los Naranjos, C\u00f3rdoba",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "45102532-24d7-48ee-97aa-e7ef4b87bb1a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1594,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/gIhPjKdU1g6NgK9ougedf-Vf4Fod07i_2GBvdZojdfBEs4Zba5XJdESaOfD5V3-Lf0_uFcj-2QxjeCukgiAaB7SmJtaJeXy4kLibc45ZqQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zuilengalerij aan de Patio de los Naranjos, C\u00f3rdoba",
+    "Cordoue Cour des oranges"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Juan Laurent",
+      "unFixedName": "Laurent, Juan",
+      "placeOfBirth": null,
+      "dateOfBirth": "1816-07-23",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1896",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Madrid",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Juan Laurent (23-jul-1816 - 1896)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Juan Laurent",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1868 - 1883",
+    "sortingDate": 1868,
+    "period": 19,
+    "yearEarly": 1868,
+    "yearLate": 1883
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A51",
+      "48C1621"
+    ],
+    "iconClassDescription": [
+      "courtyard",
+      "arcade ~ architecture"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Mezquita"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F24822"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Juan Laurent",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Zuilengalerij aan de Patio de los Naranjos, C\u00f3rdoba, Juan Laurent, 1868 - 1883",
+  "subTitle": "h 105mm \u00d7 w 62mm",
+  "scLabelLine": "Juan Laurent, 1868 - 1883, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1992-92",
+  "priref": "35449",
+  "objectNumber": "RP-T-1992-92",
+  "language": "en",
+  "title": "A Red-handed Tamarin",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "13ac23da-5570-4abd-9e0e-23e43607b1f9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1611,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/MEmPpY1g85VuDmmFyjYmEdiwZoEvWmtvGz9i08tVlEDrPnAL95zkkaJcfjGjzKqslcRjRRofOefkSLZmTiDhD-20KWS3=s0"
+  },
+  "colors": [
+    {
+      "percentage": 64,
+      "hex": "#D6CEB9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #ADA794"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8C806B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #4F4940"
+    },
+    {
+      "percentage": 5,
+      "hex": " #76614C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #34322E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5EDD7"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D6CEB9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ADA794",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8C806B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4F4940",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #76614C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #34322E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F5EDD7",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 66,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "A Red-handed Tamarin"
+  ],
+  "description": "Een Roodhandtamarin (Saguinus midas = aapje uit Guyana) met een wortel op een boomtak.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Perkois",
+      "unFixedName": "Perkois, Jacob",
+      "placeOfBirth": "Middelburg",
+      "dateOfBirth": "1756",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-11-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Middelburg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Perkois (1756 - 10-nov-1804)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Perkois",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1992-11-24T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "graphite (mineral)",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1776",
+    "sortingDate": 1776,
+    "period": 18,
+    "yearEarly": 1776,
+    "yearLate": 1776
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1992-92"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "L.J. Bol, 'Jacobus Perkois, Kunsteekenaar', Nederlands Kunsthistorisch Jaarboek 21 (1970), p. 259, 293"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Perkois",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "419"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "268"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "watercolour, over graphite",
+  "longTitle": "A Red-handed Tamarin, Jacob Perkois, 1776",
+  "subTitle": "h 419mm \u00d7 w 268mm",
+  "scLabelLine": "Jacob Perkois (1756-1804), watercolour, over graphite, 1776",
+  "label": {
+    "title": "A Red-handed Tamarin",
+    "makerLine": "Jacob Perkois (1756-1804), watercolour, over graphite, 1776",
+    "description": "This ill-tempered looking creature belongs to a species of small, clawed monkeys found in the Amazon region. The artist most likely drew it from a mounted specimen, which according to an annotation on the verso of the drawing was in the collection of the Rotterdam-Dordrecht merchant Pieter Havart. The refined execution \u2013 notice the tiny hairs of the fur \u2013 is almost equal to that of his successful teacher Aert\nSchouman.",
+    "notes": null,
+    "date": "2016-10-12"
+  },
+  "showImage": true,
+  "location": null
+}

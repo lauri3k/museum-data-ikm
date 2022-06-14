@@ -1,0 +1,191 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1945-92",
+  "priref": "102267",
+  "objectNumber": "RP-P-1945-92",
+  "language": "en",
+  "title": "Robert Macaire en Bertrand bij de Belgische grens",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6254e8bc-500b-48ea-b53a-4af5e30e1559",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1660,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/dTtu3OEY85nH1-giVUivUuKFMEo8PqgoSlpsQJs0BVwCZmP4cMloisBjkfh5YNsdaowF7g5dUrDMZF_9KXETMyMCCMI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Robert Macaire en Bertrand bij de Belgische grens",
+    "Robert Macaire",
+    "Robert Macaire"
+  ],
+  "description": "Tweede serie.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Aubert & Cie.",
+      "unFixedName": "Aubert & Cie.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Aubert & Cie., Paris"
+    },
+    {
+      "name": "Bauger",
+      "unFixedName": "Bauger",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bauger, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Honor\u00e9 Daumier",
+      "unFixedName": "Daumier, Honor\u00e9",
+      "placeOfBirth": "Marseille",
+      "dateOfBirth": "1808-02-26",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1879-02-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Valmondois",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Honor\u00e9 Daumier (26-feb-1808 - 10-feb-1879)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Honor\u00e9 Daumier",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1945-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Paris",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1840",
+    "sortingDate": 1840,
+    "period": 19,
+    "yearEarly": 1840,
+    "yearLate": 1840
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32A5",
+      "44D22"
+    ],
+    "iconClassDescription": [
+      "caricatures (human types)",
+      "customs"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1945-92"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Delteil (Daumier) 866",
+    "866"
+  ],
+  "principalOrFirstMaker": "Honor\u00e9 Daumier",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "362"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "237"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Robert Macaire en Bertrand bij de Belgische grens, Honor\u00e9 Daumier, 1840",
+  "subTitle": "h 362mm \u00d7 w 237mm",
+  "scLabelLine": "Honor\u00e9 Daumier, 1840, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

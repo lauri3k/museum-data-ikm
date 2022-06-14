@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-6427",
+  "priref": "129394",
+  "objectNumber": "RP-P-1905-6427",
+  "language": "en",
+  "title": "Gezicht op het monument voor Johanna Sebus",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op het monument voor Johanna Sebus",
+    "Denkmahl der Johanna Sebus in Brienen, unweit Cleve"
+  ],
+  "description": "Monument voor een vrouw die bij een overstroming in 1809 stierf bij het redden van andere mensen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Fr. \u00d6llig",
+      "unFixedName": "\u00d6llig, Fr.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cleves"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Fr. \u00d6llig, Cleves"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jean Baptiste Ambroise Marcellin Jobard",
+      "unFixedName": "Jobard, Jean Baptiste Ambroise Marcellin",
+      "placeOfBirth": "Baissey",
+      "dateOfBirth": "1792-05-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1861-10-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Baptiste Ambroise Marcellin Jobard (17-mei-1792 - 27-okt-1861)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Baptiste Ambroise Marcellin Jobard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Cleves"
+  ],
+  "dating": {
+    "presentingDate": "1826",
+    "sortingDate": 1826,
+    "period": 19,
+    "yearEarly": 1826,
+    "yearLate": 1826
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I7",
+      "42E31"
+    ],
+    "iconClassDescription": [
+      "landscape with monument",
+      "grave, tomb"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kleef"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1905-6427"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean Baptiste Ambroise Marcellin Jobard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "369"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "547"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Gezicht op het monument voor Johanna Sebus, Jean Baptiste Ambroise Marcellin Jobard, 1826",
+  "subTitle": "h 369mm \u00d7 w 547mm",
+  "scLabelLine": "Jean Baptiste Ambroise Marcellin Jobard, 1826, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

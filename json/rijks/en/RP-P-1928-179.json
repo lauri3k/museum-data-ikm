@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1928-179",
+  "priref": "118342",
+  "objectNumber": "RP-P-1928-179",
+  "language": "en",
+  "title": "Portret van mevrouw Stuart",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f2a1af22-a595-4d24-b6dd-2f17953726de",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1769,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/TS7T3g6N_VF-jglD0DiRmPQVTdRyo_YX-Wdf1y50EOX3-ubELbOS9SplAVNZ0cONP7JJisZwlqodZwI1TDFz6Ma-8rMRE4krxt_m1XVHeA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van mevrouw Stuart"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Robert Sayer",
+      "unFixedName": "Sayer, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1725",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1794-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Sayer (c. 1725 - feb-1794)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1928-01-01T00:00:00",
+    "creditLine": "Gift of M.L. van Hoorn, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1749 - 1813",
+    "sortingDate": 1749,
+    "period": 18,
+    "yearEarly": 1749,
+    "yearLate": 1813
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1928-179"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 125",
+    "125"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "403"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "277"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van mevrouw Stuart, Valentine Green, 1749 - 1813",
+  "subTitle": "h 403mm \u00d7 w 277mm",
+  "scLabelLine": "Valentine Green, 1749 - 1813, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

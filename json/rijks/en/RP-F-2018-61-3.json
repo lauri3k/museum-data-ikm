@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2018-61-3",
+  "priref": "709000",
+  "objectNumber": "RP-F-2018-61-3",
+  "language": "en",
+  "title": "Portret van Reverend David Honeyman D.C.L",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "15eb743f-e809-4f9e-86b4-f4477a8784c0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1534,
+    "height": 1605,
+    "url": "https://lh3.googleusercontent.com/9IR0KbaBAeUqWsHn2aQqKP07_dQhwVtuuxaChBdL1Txb7fUHKFcCDKeQcMAJWCtkP7rF8tk0ExtpWLg1IEjYjxXt2KRKdb63AyjDaPuL=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Reverend David Honeyman D.C.L"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "carte-de-visite",
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "William Notman",
+      "unFixedName": "Notman, William",
+      "placeOfBirth": "Paisley",
+      "dateOfBirth": "1826",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1891",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Montr\u00e9al",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object William Notman (1826 - 1891)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "William Notman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-05-31T00:00:00",
+    "creditLine": "Gift of J. Krijff and K. Green, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1876",
+    "sortingDate": 1876,
+    "period": 19,
+    "yearEarly": 1876,
+    "yearLate": 1876
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31D14",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "adult man",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Halifax (Canada)"
+    ],
+    "people": [
+      "Honeyman, David"
+    ],
+    "objectNumbers": [
+      "RP-F-2018-61-3"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Honeyman, David"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "William Notman",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van Reverend David Honeyman D.C.L, William Notman, 1876",
+  "subTitle": "h 103mm \u00d7 w 63mm",
+  "scLabelLine": "William Notman, 1876, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F02338",
+  "priref": "253680",
+  "objectNumber": "RP-F-F02338",
+  "language": "en",
+  "title": "Havengezicht in San Juan in Puerto Rico",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0db91f6e-595f-4a58-a11d-43debe4e9801",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2097,
+    "height": 1632,
+    "url": "https://lh3.googleusercontent.com/SIPls7thh6Re0ldM_GccAp_gjP7U74RduLe9qTvne--1neYNLIhN8-GThnFmCnAeHoZpvQZ07UFcOVEDrZ9I59CX9fw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Havengezicht in San Juan in Puerto Rico",
+    "Puerto Rico, San Juan, gezicht op de reede"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "baryta paper",
+    "cardboard"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1880 - 1930",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1930
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C223"
+    ],
+    "iconClassDescription": [
+      "harbour"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "San Juan"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F02338"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "161"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "baryta paper",
+  "longTitle": "Havengezicht in San Juan in Puerto Rico, anonymous, 1880 - 1930",
+  "subTitle": "h 115mm \u00d7 w 161mm",
+  "scLabelLine": "anonymous, 1880 - 1930, baryta paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

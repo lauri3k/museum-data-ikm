@@ -1,0 +1,256 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1886-A-10003",
+  "priref": "160798",
+  "objectNumber": "RP-P-1886-A-10003",
+  "language": "en",
+  "title": "Aartsengel Zaphki\u00ebl",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9c6e01d5-86e3-4d68-af16-2415add4a4b4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1756,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/Bvk-MvV3ccXDwsZyxLX3osDT8S-MB3AO98pGO6U2nUg9nomSxtbIM_3YVkBdq8YMQ9pRmunZ5Csc8-PTnWDZG9nw_1k=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#F9F5E7"
+    },
+    {
+      "percentage": 20,
+      "hex": " #DED8CA"
+    },
+    {
+      "percentage": 11,
+      "hex": " #9D998E"
+    },
+    {
+      "percentage": 14,
+      "hex": " #BDB7AB"
+    },
+    {
+      "percentage": 17,
+      "hex": " #716E64"
+    },
+    {
+      "percentage": 7,
+      "hex": " #414039"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F9F5E7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DED8CA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9D998E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BDB7AB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #716E64",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #414039",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 29,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 24,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 29,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Aartsengel Zaphki\u00ebl",
+    "Throni Zaphkiel",
+    "Aartsengelen"
+  ],
+  "description": "De aartsengel Zaphki\u00ebl staat met zijn rechtervoet op een steen en houdt een tak in zijn rechterhand. Links op de achtergrond overspoelt de Rode Zee de Egyptische farao en zijn leger. Rechts op de achtergrond de hemelvaart van Christus. In de marge een tweeregelig onderschrift in het Latijn. Prent uit een serie met aartsengelen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Crispijn van de Passe (I) (1564 - 1637)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "unknown"
+      ],
+      "qualification": null,
+      "labelDesc": "Crispijn van de Passe (I) (1564 - 1637), unknown"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1886-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "unknown"
+  ],
+  "dating": {
+    "presentingDate": "1574 - 1637",
+    "sortingDate": 1574,
+    "period": 16,
+    "yearEarly": 1574,
+    "yearLate": 1637
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11G186(ZAPHKIEL)",
+      "71E12231",
+      "73E422"
+    ],
+    "iconClassDescription": [
+      "other archangels than Michael, Gabriel and Raphael (with NAME)",
+      "Pharaoh and his army engulfed in the Red Sea (Israelites not or barely visible)",
+      "Christ aloft in the sky ~ Ascension"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1886-A-10003"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 296",
+    "296"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "144"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Aartsengel Zaphki\u00ebl, Crispijn van de Passe (I), 1574 - 1637",
+  "subTitle": "h 144mm \u00d7 w 100mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1574 - 1637, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

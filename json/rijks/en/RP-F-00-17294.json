@@ -1,0 +1,175 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-17294",
+  "priref": "790075",
+  "objectNumber": "RP-F-00-17294",
+  "language": "en",
+  "title": "Saint-Germain-en-Laye. Le Rond-Point des Roses et la Terrasse construite par Le N\u00f4tre (long. 2400 m). Vue splendide sur la Vall\u00e9e de la Seine",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Saint-Germain-en-Laye. Le Rond-Point des Roses et la Terrasse construite par Le N\u00f4tre (long. 2400 m). Vue splendide sur la Vall\u00e9e de la Seine"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Abeille Cartes",
+      "unFixedName": "Abeille Cartes",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Abeille Cartes"
+    },
+    {
+      "name": "Abeille Cartes",
+      "unFixedName": "Abeille Cartes",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Abeille Cartes"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2021-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1903 - c. 1920",
+    "sortingDate": 1903,
+    "period": 20,
+    "yearEarly": 1903,
+    "yearLate": 1920
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A641",
+      "25I13(+1)",
+      "46C35"
+    ],
+    "iconClassDescription": [
+      "statues, sculptures in garden",
+      "public gardens, park (+ city(-scape) with figures, staffage)",
+      "46C35 airship, zeppelin"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Saint-Germain-en-Laye"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-17294"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "140"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Saint-Germain-en-Laye. Le Rond-Point des Roses et la Terrasse construite par Le N\u00f4tre (long. 2400 m). Vue splendide sur la Vall\u00e9e de la Seine, anonymous, 1903 - c. 1920",
+  "subTitle": "h c.90mm \u00d7 w c.140mm",
+  "scLabelLine": "anonymous, 1903 - c. 1920, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

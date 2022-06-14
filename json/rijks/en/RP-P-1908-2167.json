@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-2167",
+  "priref": "74147",
+  "objectNumber": "RP-P-1908-2167",
+  "language": "en",
+  "title": "Zijaanzicht van de triomfboog van Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a2a09022-679b-4e31-aa25-13b0f7b82278",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1870,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/zD_kk88jYiVPoilGC4XgcBg8cm0n_MWe42Lu31pOaG58eZbsFM-xdz5Aa1yJnrDogG1qe3cV9mMzob8QQ_asSUEwJwjw5u6lgvfOLJiu=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zijaanzicht van de triomfboog van Orange",
+    "Vue lat\u00e9rale de l'Arc d'Orange"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pierre I Didot",
+      "unFixedName": "Didot, Pierre I",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1761-01-23",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1853-12-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pierre I Didot (23-jan-1761 - 31-dec-1853)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Louis Pierre Baltard",
+      "unFixedName": "Baltard, Louis Pierre",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1764",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1846-01-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Lyon",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Louis Pierre Baltard (1764 - 22-jan-1846), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Louis Pierre Baltard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1816",
+    "sortingDate": 1816,
+    "period": 19,
+    "yearEarly": 1816,
+    "yearLate": 1816
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A422"
+    ],
+    "iconClassDescription": [
+      "triumphal arch"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1908-2167"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF apr\u00e8s 1800 30",
+    "30"
+  ],
+  "principalOrFirstMaker": "Louis Pierre Baltard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "485"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "383"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Zijaanzicht van de triomfboog van Orange, Louis Pierre Baltard, 1816",
+  "subTitle": "h 485mm \u00d7 w 383mm",
+  "scLabelLine": "Louis Pierre Baltard, 1816, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

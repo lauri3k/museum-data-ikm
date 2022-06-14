@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-135",
+  "priref": "619361",
+  "objectNumber": "RP-P-2016-135",
+  "language": "en",
+  "title": "Wapenschild van Frederik Adriaan van Reede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f5a3335-cffe-48bd-87ba-fb78ed65799f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2462,
+    "url": "https://lh3.googleusercontent.com/NQNTqTLtc8gufzJetoZwBuxZyFDCQwlCNhEYxLXJ6HknCUEvnpF-wcfAbeOn61cNL10kDOD64YeF8Z2bZfngQ789vA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Wapenschild van Frederik Adriaan van Reede"
+  ],
+  "description": "Wapenschild van Frederik Adriaan van Reede met griffioenen als schildhouders en een helmteken met vleugels. Aan de onderzijde een vierregelige Nederlandse tekst met zijn naam en titel.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2016-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1659 - 1738",
+    "sortingDate": 1659,
+    "period": 17,
+    "yearEarly": 1659,
+    "yearLate": 1738
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede van Renswoude, Frederik Adriaan"
+    ],
+    "objectNumbers": [
+      "RP-P-2016-135"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede van Renswoude, Frederik Adriaan"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "208"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "207"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Wapenschild van Frederik Adriaan van Reede, anonymous, 1659 - 1738",
+  "subTitle": "h 208mm \u00d7 w 207mm",
+  "scLabelLine": "anonymous, 1659 - 1738, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

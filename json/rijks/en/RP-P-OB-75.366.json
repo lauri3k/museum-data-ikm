@@ -1,0 +1,281 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-75.366",
+  "priref": "493837",
+  "objectNumber": "RP-P-OB-75.366",
+  "language": "en",
+  "title": "Heldendood van Woltemade bij Kaap de Goede Hoop, 1773",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c0e310db-41f3-485a-a8d6-dd88e10dfddd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1823,
+    "url": "https://lh4.ggpht.com/SO8ti6n6ZjEsAJ7udgycQH5MH5xDFL-ryieDeWY7CzKSNwW7RIo3Oj_nDFSt8cwqJ-jGjDa3rSbZQ-51CLpLWqrwK8E=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#F4F2EA"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C5C3BB"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A3A199"
+    },
+    {
+      "percentage": 14,
+      "hex": " #78766D"
+    },
+    {
+      "percentage": 11,
+      "hex": " #8E8C83"
+    },
+    {
+      "percentage": 6,
+      "hex": " #59584F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3E3B34"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F2EA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C5C3BB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A3A199",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #78766D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8E8C83",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #59584F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3E3B34",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 26,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 32,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Heldendood van Woltemade bij Kaap de Goede Hoop, 1773",
+    "De Held Woltemade"
+  ],
+  "description": "Heldendood van de Zuid-Afrikaanse veeopzichter Wolraad Woltemade tijdens het redden met zijn paaard van veertien schipbreukelingen uit het wrak van het schip D'Jonge Thomas in de branding voor de kust van Kaap de Goede Hoop, 1 juni 1773.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe Jacobus Loveringh & Johannes Allart",
+      "unFixedName": "Loveringh & Johannes Allart, weduwe Jacobus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object weduwe Jacobus Loveringh & Johannes Allart, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Nicolaas van Frankendaal",
+      "unFixedName": "Frankendaal, Nicolaas van",
+      "placeOfBirth": null,
+      "dateOfBirth": "1720-09-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1791-07-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolaas van Frankendaal (15-sep-1720 - 11-jul-1791), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaas van Frankendaal",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1775",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C291",
+      "46C292",
+      "46C2931"
+    ],
+    "iconClassDescription": [
+      "shipwreck",
+      "drowning, shipwrecked person",
+      "saving a person from drowning"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1773-06-011773-06-01"
+    ],
+    "places": [
+      "Kaap de Goede Hoop"
+    ],
+    "people": [
+      "Woltemade, Wolraad"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-75.366"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Woltemade, Wolraad"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 215-216, nr. 4275."
+  ],
+  "catRefRPK": [
+    "FMH 4275",
+    "4275",
+    "Atlas van Stolk 4219",
+    "4219"
+  ],
+  "principalOrFirstMaker": "Nicolaas van Frankendaal",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "288"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "425"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Heldendood van Woltemade bij Kaap de Goede Hoop, 1773, Nicolaas van Frankendaal, 1775",
+  "subTitle": "h 288mm \u00d7 w 425mm",
+  "scLabelLine": "Nicolaas van Frankendaal, 1775, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

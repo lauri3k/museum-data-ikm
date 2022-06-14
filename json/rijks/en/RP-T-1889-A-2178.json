@@ -1,0 +1,219 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1889-A-2178",
+  "priref": "49962",
+  "objectNumber": "RP-T-1889-A-2178",
+  "language": "en",
+  "title": "Gevolgen van de eerbied van de kinderen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "77063c60-5625-4536-82ab-01a479579171",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1670,
+    "url": "https://lh6.ggpht.com/8yIkr2SVeOC7xQWByvfW-qaasOnfjRCioLoP164SuArxFN3fnJAT4aW-Eahtakx5PFhW3P4BfyAXARvpjKNHwigBIRY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#867158"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F7F3E5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A18568"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A89886"
+    },
+    {
+      "percentage": 47,
+      "hex": " #E0CCAF"
+    },
+    {
+      "percentage": 26,
+      "hex": " #CBB394"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#867158",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #F7F3E5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A18568",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A89886",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E0CCAF",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CBB394",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 47,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 95,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Gevolgen van de eerbied van de kinderen"
+  ],
+  "description": "Anphinomus en Anapias redden hun ouders uit de brand van Catania.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1889-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "chalk"
+  ],
+  "techniques": [
+    "pen"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1535 - 1620",
+    "sortingDate": 1535,
+    "period": 16,
+    "yearEarly": 1535,
+    "yearLate": 1620
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "95A(AMPHINOMUS & ANAPIAS)",
+      "46C127",
+      "41B4"
+    ],
+    "iconClassDescription": [
+      "(story of) Amphinomus and Anapias",
+      "carrying a person",
+      "on fire, ablaze"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1889-A-2178"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "289"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "440"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Gevolgen van de eerbied van de kinderen, anonymous, 1535 - 1620",
+  "subTitle": "h 289mm \u00d7 w 440mm",
+  "scLabelLine": "anonymous, 1535 - 1620, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

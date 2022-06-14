@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2018-2-102",
+  "priref": "699859",
+  "objectNumber": "BK-2018-2-102",
+  "language": "en",
+  "title": "Broche \"Oog\"",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f3887ac1-90fb-48e1-a95f-9c0442a96e74",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2214,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/HTgM5FSiFJ-yBwoE9jr6EAYaUY6qm1DZ8BbDKWTy0xisnalYBUjs_ewrPuO7jvQetrQqCH2pyfrMtigy7t7gcvU_xnuXf4qG4x30ySM5=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Broche \"Oog\""
+  ],
+  "description": "Samengestelde broche \"Oog\" van rood goud en ivoor (miniatuur), voorzien van een onedele haakbrochering (scharnier is wel edel) en een veiligheidskettinkje. De punt van het oog is beschadigd. Aan de achterzijde bevinden zich gegraveerde letters.",
+  "labelText": null,
+  "objectTypes": [
+    "brooch",
+    "miniature"
+  ],
+  "objectCollection": [
+    "jewellery"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "jeweler"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "United Kingdom"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, United Kingdom"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-01-10T00:00:00",
+    "creditLine": "Gift of Marjan and Gerard Unger"
+  },
+  "exhibitions": [],
+  "materials": [
+    "red gold",
+    "ivory"
+  ],
+  "techniques": [
+    "painting",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "United Kingdom"
+  ],
+  "dating": {
+    "presentingDate": "c. 1800 - c. 1820",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1820
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2018-2-102"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "2.1"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "1.1"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "0.8"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "7"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "3.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Broche \"Oog\", anonymous, c. 1800 - c. 1820",
+  "subTitle": "h 2.1cm \u00d7 w 1.1cm \u00d7 d 0.8cm \u00d7 l 7cm \u00d7 w 3.3gr",
+  "scLabelLine": "anonymous, c. 1800 - c. 1820, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

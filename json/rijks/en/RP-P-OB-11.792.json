@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-11.792",
+  "priref": "34527",
+  "objectNumber": "RP-P-OB-11.792",
+  "language": "en",
+  "title": "Johannes de Doper met kruisstaf",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1e06abde-6060-4b1c-85fb-73054ebf07db",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1732,
+    "height": 2736,
+    "url": "https://lh5.ggpht.com/BCIBirKDggfhMOu4BMbnMTY_aFs9TW2ZAF60DmFONvGgZ6cGO1cgkBBEovgFdyziu6FIEizwcb4tonvfuy3RbLxhKPk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 31,
+      "hex": "#D3CDBD"
+    },
+    {
+      "percentage": 18,
+      "hex": " #F5F2E9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #858077"
+    },
+    {
+      "percentage": 11,
+      "hex": " #69655D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4C4942"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A19C91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B9B4A8"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D3CDBD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F5F2E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #858077",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #69655D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4C4942",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #A19C91",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B9B4A8",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 33,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper met kruisstaf"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Marcantonio Raimondi",
+      "unFixedName": "Raimondi, Marcantonio",
+      "placeOfBirth": null,
+      "dateOfBirth": "1482",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1534",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Marcantonio Raimondi (c. 1482 - 1534), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Marcantonio Raimondi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1500 - 1517",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1517
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-11.792"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 99",
+    "99"
+  ],
+  "principalOrFirstMaker": "Marcantonio Raimondi",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "107"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper met kruisstaf, Marcantonio Raimondi, 1500 - 1517",
+  "subTitle": "h 107mm \u00d7 w 63mm",
+  "scLabelLine": "Marcantonio Raimondi, 1500 - 1517, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

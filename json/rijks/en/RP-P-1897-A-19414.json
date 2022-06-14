@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1897-A-19414",
+  "priref": "164187",
+  "objectNumber": "RP-P-1897-A-19414",
+  "language": "en",
+  "title": "Portret van Elizabeth Black",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c4999ee7-6975-4e37-8e28-82b69ccf73b4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1910,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/a4jRMgmOKRRXFa0G2UPPR2ew5PYWWtTzFrPWF0tc1c8Q723G4P5TyUeMd-i9oay0DJ-1taBpKdMIriVNcB7xPZk3YBv-ZA7BE-Sep64=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Elizabeth Black",
+    "Lady Wallscourt"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hodgson & Graves",
+      "unFixedName": "Hodgson & Graves",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hodgson & Graves, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "George Henry Phillips",
+      "unFixedName": "Phillips, George Henry",
+      "placeOfBirth": null,
+      "dateOfBirth": "1800",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1852",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Henry Phillips (c. 1800 - 1852)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Henry Phillips",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1897-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1839",
+    "sortingDate": 1839,
+    "period": 19,
+    "yearEarly": 1839,
+    "yearLate": 1839
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "48C7324"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "cithern, mandolin, guitar, balalaika"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Lock, Elizabeth (barones van Wallscourt)"
+    ],
+    "objectNumbers": [
+      "RP-P-1897-A-19414"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Lock, Elizabeth (barones van Wallscourt)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 9",
+    "9"
+  ],
+  "principalOrFirstMaker": "George Henry Phillips",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "304"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "224"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Elizabeth Black, George Henry Phillips, 1839",
+  "subTitle": "h 304mm \u00d7 w 224mm",
+  "scLabelLine": "George Henry Phillips, 1839, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

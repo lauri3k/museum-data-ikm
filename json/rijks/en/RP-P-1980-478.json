@@ -1,0 +1,199 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1980-478",
+  "priref": "419581",
+  "objectNumber": "RP-P-1980-478",
+  "language": "en",
+  "title": "Gezicht op Hampton Court Palace te Londen gezien vanaf de oostzijde",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ed778a43-6cfd-41cf-96d0-2ae85ad7e63f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1640,
+    "url": "https://lh3.googleusercontent.com/3SVtrX-M2XdAF_0rDi0FNXuxIj91C86kqmai02KT6qSI51EQTwhNa3Mt9SHdDpN7pCPgvfKBY7-9mz77uaW-v2dL8Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Hampton Court Palace te Londen gezien vanaf de oostzijde",
+    "An oblique perspective view of the east front of Hampton Court, with the long walk & part of the garden"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Anthony Highmore",
+      "unFixedName": "Highmore, Anthony",
+      "placeOfBirth": null,
+      "dateOfBirth": "1718",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1799",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anthony Highmore (1718 - 1799), London"
+    },
+    {
+      "name": "John Tinney",
+      "unFixedName": "Tinney, John",
+      "placeOfBirth": null,
+      "dateOfBirth": "1706",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1761",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Tinney (1706 - 1761), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Tinney",
+      "unFixedName": "Tinney, John",
+      "placeOfBirth": null,
+      "dateOfBirth": "1706",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1761",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Tinney (1706 - 1761), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Tinney",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1980-01-01T00:00:00",
+    "creditLine": "Gift of Jonkvrouw C.I. Six, 's-Graveland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "etching",
+    "brush"
+  ],
+  "productionPlaces": [
+    "London",
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1744",
+    "sortingDate": 1744,
+    "period": 18,
+    "yearEarly": 1744,
+    "yearLate": 1744
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A11",
+      "41A6"
+    ],
+    "iconClassDescription": [
+      "palace",
+      "garden"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Hampton Court Palace"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1980-478"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Tinney",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "328"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "499"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Hampton Court Palace te Londen gezien vanaf de oostzijde, John Tinney, 1744",
+  "subTitle": "h 328mm \u00d7 w 499mm",
+  "scLabelLine": "John Tinney, 1744, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,244 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-102",
+  "priref": "35856",
+  "objectNumber": "RP-P-OB-102",
+  "language": "en",
+  "title": "The Flight into Egypt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b3ab08d5-0c80-44d3-9cd2-f936676937a5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1945,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/6Onocn9z_bYx_fjQqCC5Io7I3QSuy5f9Xs9YolC6VgliyIbJGfyBR2JqiIG8XouuJkVhc2qMR-sfAjq93n4l_Ormk4Z5=s0"
+  },
+  "colors": [
+    {
+      "percentage": 37,
+      "hex": "#CCC6AB"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A4A089"
+    },
+    {
+      "percentage": 13,
+      "hex": " #464A37"
+    },
+    {
+      "percentage": 12,
+      "hex": " #807F6A"
+    },
+    {
+      "percentage": 12,
+      "hex": " #646551"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F0ECDA"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2B3122"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CCC6AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A4A089",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #464A37",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #807F6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #646551",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F0ECDA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #2B3122",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 52,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 28,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "The flight into Egypt: small"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1633",
+    "sortingDate": 1633,
+    "period": 17,
+    "yearEarly": 1633,
+    "yearLate": 1633
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73B641"
+    ],
+    "iconClassDescription": [
+      "the flight into Egypt: Mary, Joseph, the child (and sometimes others) on their way; Mary usually riding on an ass"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-102"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 117",
+    "117",
+    "Bartsch 52",
+    "52",
+    "Hollstein Dutch 52",
+    "52"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "The Flight into Egypt, Rembrandt van Rijn, 1633",
+  "subTitle": "h 89mm \u00d7 w 63mm",
+  "scLabelLine": "etching, 1633",
+  "label": {
+    "title": "The Flight into Egypt",
+    "makerLine": "etching, 1633",
+    "description": "The Flight into Egypt must have had a special significance for Rembrandt, for he revisited the subject repeatedly. This version of 1633 is much more skilfully etched than the previous one. However, he did struggle with the porous etching ground, which renders the sky an uneven grey. This is not too disturbing: with a little imagination, it looks just like a starry sky.",
+    "notes": null,
+    "date": "2019-02-05"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,188 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-6149",
+  "priref": "212383",
+  "objectNumber": "RP-P-1905-6149",
+  "language": "en",
+  "title": "Twee vrouwen en een meisje in een interieur",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "614773ab-054e-4841-9284-f71eaab0aa7c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1760,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/WA_YOcuiXtMsHs2cLJ4XH9m5BLkMvW9a4v-RJ65c1A3OItGUD9mCaqtN6yK7sfNamTy3ACe0HjbtcBbEYa9CAYuP7xQn5CQ4KTQ8MdMO5A=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Twee vrouwen en een meisje in een interieur",
+    "Titelpagina voor: E. C. Grey, De Boezemvriendin, 1846"
+  ],
+  "description": "Een vrouw zit terneergeslagen aan tafel. Achter haar staat haar zuster. Op de grond speelt een meisje met twee honden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe L. van Hulst & Zoon",
+      "unFixedName": "Hulst & Zoon, weduwe L. van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object weduwe L. van Hulst & Zoon, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Steendrukkerij C.W. Mieling",
+      "unFixedName": "Mieling, Steendrukkerij C.W.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rotterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Steendrukkerij C.W. Mieling, Rotterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Rotterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1846",
+    "sortingDate": 1846,
+    "period": 19,
+    "yearEarly": 1846,
+    "yearLate": 1846
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31AA232",
+      "42G2222",
+      "31D11222",
+      "34B11"
+    ],
+    "iconClassDescription": [
+      "leaning figure - AA - female human figure",
+      "sisters (second degree family relationships)",
+      "girl (child between toddler and youth)",
+      "dog"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1905-6149"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, Steendrukkerij C.W. Mieling",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "242"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Twee vrouwen en een meisje in een interieur, anonymous, Steendrukkerij C.W. Mieling, 1846",
+  "subTitle": "h 242mm \u00d7 w 170mm",
+  "scLabelLine": "anonymous, 1846, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

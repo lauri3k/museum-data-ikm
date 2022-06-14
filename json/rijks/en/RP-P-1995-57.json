@@ -1,0 +1,180 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1995-57",
+  "priref": "318194",
+  "objectNumber": "RP-P-1995-57",
+  "language": "en",
+  "title": "Gezicht op Newhaven vanaf de rivier de Ouse",
+  "copyrightHolder": "erven Martin Hardie",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Newhaven vanaf de rivier de Ouse",
+    "A Grey Day at Newhaven"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Frederick Goulding",
+      "unFixedName": "Goulding, Frederick",
+      "placeOfBirth": "Islington",
+      "dateOfBirth": "1842-10-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1909-03-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Frederick Goulding (07-okt-1842 - 05-mrt-1909)"
+    },
+    {
+      "name": "David Strang",
+      "unFixedName": "Strang, David",
+      "placeOfBirth": "Dumbarton",
+      "dateOfBirth": "1887",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1967",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "David Strang (1887 - 1967)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Martin Hardie",
+      "unFixedName": "Hardie, Martin",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1875-12-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1952",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Tonbridge",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Martin Hardie (15-dec-1875 - 1952)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Martin Hardie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1995-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1912 - 1926",
+    "sortingDate": 1912,
+    "period": 20,
+    "yearEarly": 1912,
+    "yearLate": 1926
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H213",
+      "25I22(+1)"
+    ],
+    "iconClassDescription": [
+      "river",
+      "prospect of village, silhouette of village (+ city(-scape) with figures, staffage)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Newhaven"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1995-57"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hardie (Martin Hardie) 12",
+    "12"
+  ],
+  "principalOrFirstMaker": "Martin Hardie",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Newhaven vanaf de rivier de Ouse, Martin Hardie, 1912 - 1926",
+  "subTitle": "h 124mm \u00d7 w 175mm",
+  "scLabelLine": "Martin Hardie, 1912 - 1926, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

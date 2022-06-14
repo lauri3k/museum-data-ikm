@@ -1,0 +1,148 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-1226",
+  "priref": "8784",
+  "objectNumber": "SK-C-1226",
+  "language": "en",
+  "title": "Henry Casimir II, Prince of Nassau-Dietz, in a Battle",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7d61c84d-2c1e-43c9-81d3-c948cb12b306",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1815,
+    "url": "https://lh3.googleusercontent.com/8a5_nZsUJnqRzHG_nuoaR6buj3So0zA-MSQ2H9Q53tTx8lw6wytz9Sl9fgZFHGqa6rQlG8Jtq5MDSJrt66Iv08OL9oQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Hendrik Casimir II (1657-96), Prince of Nassau-Dietz, as Commanding Officer at a Battle"
+  ],
+  "description": "Ruiterportret van Hendrik Casimir II, vorst van Nassau-Dietz, als aanvoerder bij een veldslag. Achter hem een officier met getrokken zwaard te paard. Links op de voorgrond een zwarte jongen met de helm van de vorst. Op de grond gedode en gewonde soldaten, een trom en een vaandel. Rechts rookwolken en de veldslag.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan van Huchtenburg",
+      "unFixedName": "Huchtenburg, Jan van",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1647-11-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1733-07-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan van Huchtenburg (20-nov-1647 - 02-jul-1733)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan van Huchtenburg",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1933-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Kabinet van Schilderijen Mauritshuis"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1692",
+    "sortingDate": 1692,
+    "period": 17,
+    "yearEarly": 1692,
+    "yearLate": 1692
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "46C131",
+      "45H3"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "riding a horse, ass, or mule; rider, horseman",
+      "battle"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16571696"
+    ],
+    "places": [],
+    "people": [
+      "Nassau-Dietz, Hendrik Casimir II graaf van"
+    ],
+    "objectNumbers": [
+      "SK-C-1226"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Nassau-Dietz, Hendrik Casimir II graaf van"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap: aantekeningen R. van Luttervelt."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan van Huchtenburg",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "121"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "165"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Henry Casimir II, Prince of Nassau-Dietz, in a Battle, Jan van Huchtenburg, 1692",
+  "subTitle": "h 121cm \u00d7 w 165cm",
+  "scLabelLine": "Jan van Huchtenburg (1647\u20131733), oil on canvas, 1692",
+  "label": {
+    "title": "Henry Casimir II, Prince of Nassau-Dietz, in a Battle",
+    "makerLine": "Jan van Huchtenburg (1647\u20131733), oil on canvas, 1692",
+    "description": "Henry Casimir II fought under his cousin, William III of Orange, as an officer in the army of the Dutch Republic. They were not always on good terms with one another. In 1674 Henry Casimir even defected to the French enemy, only to return in 1688. In the year that this portrait was painted, he hoped \u2013 in vain \u2013 to be promoted to the rank of \u2018first field marshall\u2019.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

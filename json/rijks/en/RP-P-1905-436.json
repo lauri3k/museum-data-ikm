@@ -1,0 +1,262 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-436",
+  "priref": "111182",
+  "objectNumber": "RP-P-1905-436",
+  "language": "en",
+  "title": "Dijkbreuk op Texel, 1775",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0053d037-5c8e-4bc2-9636-59b49bf3cf94",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1808,
+    "url": "https://lh5.ggpht.com/KSuV8--37vUsLV0NBn-jheXirQD-ZTvkK54Xr8nfguQW42qf5lpEgOnTIJBm6i0qHIO4koPV3dvH6OkTR8HjM-4hYUc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 31,
+      "hex": "#F0EADB"
+    },
+    {
+      "percentage": 7,
+      "hex": " #CBC4B4"
+    },
+    {
+      "percentage": 26,
+      "hex": " #827D70"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A6A192"
+    },
+    {
+      "percentage": 15,
+      "hex": " #5F5A4E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3F3C32"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0EADB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CBC4B4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #827D70",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A6A192",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5F5A4E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3F3C32",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 26,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 38,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Dijkbreuk op Texel, 1775"
+  ],
+  "description": "Gezicht op de dijkbreuk op Texel bij stormachtig weer. Hoge golven slaan tegen de dijk waarop figuren over boord geslagen schippers proberen te redden. Aan de voet van de dijk is een groep figuren bezig de zeewering te versterken.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe Jacobus Loveringh & Johannes Allart",
+      "unFixedName": "Loveringh & Johannes Allart, weduwe Jacobus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object weduwe Jacobus Loveringh & Johannes Allart, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Simon Fokke",
+      "unFixedName": "Fokke, Simon",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1712-09-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1784-04-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Simon Fokke (01-sep-1712 - 10-apr-1784), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Simon Fokke",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": "Gift of Mrs Brandt, Amsterdam and Mrs Brandt, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1776",
+    "sortingDate": 1776,
+    "period": 18,
+    "yearEarly": 1776,
+    "yearLate": 1776
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H1991"
+    ],
+    "iconClassDescription": [
+      "dike-break"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1775-11-151775-11-15"
+    ],
+    "places": [
+      "Texel"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1905-436"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 219, nr. 4302a(6)."
+  ],
+  "catRefRPK": [
+    "FMH 4302",
+    "4302"
+  ],
+  "principalOrFirstMaker": "Simon Fokke",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "215"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "306"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Dijkbreuk op Texel, 1775, Simon Fokke, 1776",
+  "subTitle": "h 215mm \u00d7 w 306mm",
+  "scLabelLine": "Simon Fokke, 1776, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

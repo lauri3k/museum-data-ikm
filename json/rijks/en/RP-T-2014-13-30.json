@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2014-13-30",
+  "priref": "546909",
+  "objectNumber": "RP-T-2014-13-30",
+  "language": "en",
+  "title": "Study of trees before a mountain slope",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fd46b02f-c885-4650-b80c-5d9680e54635",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1831,
+    "url": "https://lh3.googleusercontent.com/sgliVovFrihCqxUMOJbKTwzJPidhVOabpLC4bCyrgLluHGBKuc_NaYubOCNhmzErgu52tnPeN0zMGkXDn89KN-BCGQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Tekening uit een groep tekeningen van landschappen en stadsgezichten in Itali\u00eb (Rome, Tivoli, Civita Castellana en Pozzuoli).",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "Dani\u00ebl Dupr\u00e9",
+      "unFixedName": "Dupr\u00e9, Dani\u00ebl",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1751-12-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1817-06-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Dani\u00ebl Dupr\u00e9 (20-dec-1751 - 04-jun-1817), Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Abraham Teerlink",
+      "unFixedName": "Teerlink, Abraham",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1776-11-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1857-05-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Abraham Teerlink (05-nov-1776 - 26-mei-1857), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham Teerlink",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2013-01-01T00:00:00",
+    "creditLine": "Private gift"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Italy",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1786 - 1857",
+    "sortingDate": 1786,
+    "period": 18,
+    "yearEarly": 1786,
+    "yearLate": 1857
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G11"
+    ],
+    "iconClassDescription": [
+      "groups of trees"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Itali\u00eb"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2014-13-30"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Abraham Teerlink",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "460"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "632"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Study of trees before a mountain slope, Abraham Teerlink, 1786 - 1857",
+  "subTitle": "h 460mm \u00d7 w 632mm",
+  "scLabelLine": "Abraham Teerlink (1776\u20131857), black chalk, heightened with white chalk, on blue paper, c. 1810-1820",
+  "label": {
+    "title": "Study of trees before a mountain slope",
+    "makerLine": "Abraham Teerlink (1776\u20131857), black chalk, heightened with white chalk, on blue paper, c. 1810-1820",
+    "description": "Large-scale, impeccably worked out studies of trees on blue paper rank among Teerlink\u2019s most attractive works. Such drawings were part of his \u2018artistic archive\u2019 from which the artist could draw upon for his paintings. A close relative of the stand of trees features in Teerlink\u2019s View in the park of the Palazzo Chigi at Ariccia on display in the nearby Waterloo Gallery.",
+    "notes": null,
+    "date": "2014-10-07"
+  },
+  "showImage": true,
+  "location": null
+}

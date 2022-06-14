@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-871",
+  "priref": "8759",
+  "objectNumber": "SK-A-871",
+  "language": "en",
+  "title": "Portrait of Willem II (1626-1650), Prince of Orange, and his Wife Mary Stuart (1631-1660)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b101ae8d-045d-41b5-9746-471d93935ce1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1605,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/ga7O2QPJ6gTFuU5-nUp-cuciiw8j9Hpv4SMYovwmxQp3eQLuFM0-UFPZJXIQpfd06v6vS9DkVoGRZZFw6oOuvkRlfRNNfK8n3EavTlE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 26,
+      "hex": "#211D18"
+    },
+    {
+      "percentage": 33,
+      "hex": " #654D32"
+    },
+    {
+      "percentage": 16,
+      "hex": " #8B774C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #B1A27B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2C298"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D1B028"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#211D18",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #654D32",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8B774C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B1A27B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D2C298",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D1B028",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 33,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DAA520"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 36,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 33,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [
+    "Portrait of Willem II (1626-1650), Prince of Orange, and his Wife Mary Stuart (1631-1660)"
+  ],
+  "description": "Portret van Willem II, prins van Oranje, met zijn echtgenote Maria Stuart. Beiden zijn ten voeten uit voorgesteld, staande op een balkon. De prins in wapenrusting met commandostaf in de rechterhand. In het gordijn linksboven spelen vier putti, twee met de helm van de prins, \u00e9\u00e9n strooit met bloemen. Behoort bij de portretten: SK-A-874 en SK-A-873.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Gerard van Honthorst",
+      "unFixedName": "Honthorst, Gerard van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1592-11-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1656-04-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gerard van Honthorst (04-nov-1592 - 27-apr-1656)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gerard van Honthorst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "nationalization 1795",
+    "date": "1795-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1647",
+    "sortingDate": 1647,
+    "period": 17,
+    "yearEarly": 1647,
+    "yearLate": 1647
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16311650"
+    ],
+    "places": [],
+    "people": [
+      "Willem II (prins van Oranje)",
+      "Stuart, Maria Henrietta"
+    ],
+    "objectNumbers": [
+      "SK-A-871"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem II (prins van Oranje)",
+    "Stuart, Maria Henrietta"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gerard van Honthorst",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "302"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "194.3"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "12"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of Willem II (1626-1650), Prince of Orange, and his Wife Mary Stuart (1631-1660), Gerard van Honthorst, 1647",
+  "subTitle": "h 302cm \u00d7 w 194.3cm",
+  "scLabelLine": "Gerard van Honthorst, 1647, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,212 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2018-3298",
+  "priref": "722011",
+  "objectNumber": "RP-P-2018-3298",
+  "language": "en",
+  "title": "Gezicht op Jeruzalem",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9b47f6b7-f301-450f-ac03-335b1dae5c44",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1924,
+    "url": "https://lh3.googleusercontent.com/5IMHJ976-Yi6rme9WTj6YeaTeVEOmK1tfV0w9WQMH_BF7TI91hfz53_pmz_kYxrPyKS_0e1-x9jATk-bfyhajmr_JnmYM8VR0NOWlNZmog=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Jeruzalem",
+    "Hierosolyma urbs sancta, iudeae, totiusque orientis longe clarissima, qua amplitudine ac magnificentia hoc nostro aevo conspicua est"
+  ],
+  "description": "Vogelvlucht aanzicht van de stad Jeruzalem (Hierosolyma). Op de voorgrond staan enkele figuren. Linksonder de titelcartouche. Rechtsonder een cartouche met plaatsaanduidingen en nummers.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Frans Hogenberg",
+      "unFixedName": "Hogenberg, Frans",
+      "placeOfBirth": "Mechelen",
+      "dateOfBirth": "1540",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1590",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Keulen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Frans Hogenberg (1540 - c. 1590)"
+    },
+    {
+      "name": "Petrus von Brachel",
+      "unFixedName": "Brachel, Petrus von",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": null,
+      "labelDesc": "Petrus von Brachel, Cologne"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Georg Braun",
+      "unFixedName": "Braun, Georg",
+      "placeOfBirth": null,
+      "dateOfBirth": "1541",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1622",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": null,
+      "labelDesc": "Georg Braun (1541 - 1622), Cologne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Cologne",
+    "Cologne"
+  ],
+  "dating": {
+    "presentingDate": "1575",
+    "sortingDate": 1575,
+    "period": 16,
+    "yearEarly": 1575,
+    "yearLate": 1575
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I12"
+    ],
+    "iconClassDescription": [
+      "prospect of city, town panorama, silhouette of city"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Jeruzalem"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2018-3298"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "KAN 1962",
+    "1962"
+  ],
+  "principalOrFirstMaker": "anonymous, Georg Braun",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "330"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "417"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Jeruzalem, anonymous, Georg Braun, 1575",
+  "subTitle": "h 330mm \u00d7 w 417mm",
+  "scLabelLine": "anonymous, 1575, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

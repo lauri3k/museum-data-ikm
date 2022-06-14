@@ -1,0 +1,252 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-788",
+  "priref": "1389",
+  "objectNumber": "AK-MAK-788",
+  "language": "en",
+  "title": "Tea caddy with a green brown glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "63ec8bbb-81a8-47aa-b9c9-76842e6dca68",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/cXE6QkXK155zKTCGiEkR8r32mOFZzyg0-zbIZ0CXhTLz1H_YSfH1fRWJ9_cZ1MVaXKDzUY18Ng6eC0GGt8XILcDCLA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 81,
+      "hex": "#B1ACA1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #534223"
+    },
+    {
+      "percentage": 4,
+      "hex": " #78746E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #705F3E"
+    },
+    {
+      "percentage": 2,
+      "hex": " #94908B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #1A160E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0DDD6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B1ACA1",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #534223",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #78746E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #705F3E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #94908B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #1A160E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #E0DDD6",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 81,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 81,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Tea caddy with a green brown glaze"
+  ],
+  "description": "Stoftheebus of chaire van steengoed met een ivoren deksel, gedeeltelijk bedekt met een groenbruin glazuur. De onderste helft van de bus is ongeglazuurd. Oud label op de onderzijde met 'W636'. Satsuma.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze",
+    "ivory"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1400 - c. 1950",
+    "sortingDate": 1400,
+    "period": 14,
+    "yearEarly": 1400,
+    "yearLate": 1950
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-788"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "6.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Tea caddy with a green brown glaze, anonymous, anonymous, c. 1400 - c. 1950",
+  "subTitle": "h 6.6cm \u00d7 d 6.5cm",
+  "scLabelLine": "anonymous, c. 1400 - c. 1950, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

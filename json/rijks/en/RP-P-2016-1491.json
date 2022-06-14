@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-1491",
+  "priref": "641764",
+  "objectNumber": "RP-P-2016-1491",
+  "language": "en",
+  "title": "Ex libris van O.B. Blaisse",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ex libris van O.B. Blaisse",
+    "Vultus in hostem"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nico Bulder",
+      "unFixedName": "Bulder, Nico",
+      "placeOfBirth": "Hoogezand",
+      "dateOfBirth": "1898-10-29",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1964-01-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Nico Bulder (29-okt-1898 - 30-jan-1964), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nico Bulder",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2016-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1945",
+    "sortingDate": 1945,
+    "period": 20,
+    "yearEarly": 1945,
+    "yearLate": 1945
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [
+      "Tweede Wereldoorlog"
+    ],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Blaisse, O.B."
+    ],
+    "objectNumbers": [
+      "RP-P-2016-1491"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Blaisse, O.B."
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nico Bulder",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Ex libris van O.B. Blaisse, Nico Bulder, 1945",
+  "subTitle": "h 130mm \u00d7 w 100mm",
+  "scLabelLine": "Nico Bulder, 1945, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

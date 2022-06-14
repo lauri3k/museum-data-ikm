@@ -1,0 +1,294 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-83.757",
+  "priref": "479423",
+  "objectNumber": "RP-P-OB-83.757",
+  "language": "en",
+  "title": "Nieuwjaarsprent van de schutterij van Den Bosch, 1740",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6311ea67-c1a1-4394-b1f9-57670d87a9ed",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1939,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/Nf3R29paS9BSQKX3_28QZO4o_1omti9TW0fsi_WzPIoif0_erOYs8S6fhaMxwQoqDXKMkyK57KzKo1SB_lVv258CpA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 66,
+      "hex": "#E6E0C8"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A59F8C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C8C2AB"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FCF9E4"
+    },
+    {
+      "percentage": 4,
+      "hex": " #8A8371"
+    },
+    {
+      "percentage": 4,
+      "hex": " #6C6655"
+    },
+    {
+      "percentage": 1,
+      "hex": " #484335"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E6E0C8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A59F8C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C8C2AB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FCF9E4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8A8371",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6C6655",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #484335",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 71,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 80,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Nieuwjaarsprent van de schutterij van Den Bosch, 1740",
+    "Den Edelen Manhaften Ouden Schuts, binnen 's Hertogenbosch",
+    "Nieuwe-Jaars Eer-gedicht Opgedragen aan de Schuttery van den Edelen Manhaften Ouden Schuts, ofte Voed-boog Binnen de Hooft-stad s'Hertogenbosch op 't Jaar onses Heeren MDCCXL"
+  ],
+  "description": "Nieuwjaarsprent van de schutterij De Oude Schuts of Voetboogdoelen van de stad 's-Hertogenbosch voor het jaar 1740. Embleem met Sint Joris die de draak doodt boven een gezicht op Den Bosch, links en rechts wapens, vaandels en de wapena van Den Bosch en Sint-Joris. Op het blad onder de plaat een vers in twee kolommen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "H. Kemps",
+      "unFixedName": "Kemps, H.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object H. Kemps"
+    },
+    {
+      "name": "Hendrik Palier",
+      "unFixedName": "Palier, Hendrik",
+      "placeOfBirth": "'s-Hertogenbosch",
+      "dateOfBirth": "1785-07-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1853-06-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "'s-Hertogenbosch",
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Den Bosch"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hendrik Palier (10-jul-1785 - 14-jun-1853), Den Bosch"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "David Coster",
+      "unFixedName": "Coster, David",
+      "placeOfBirth": null,
+      "dateOfBirth": "1686",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1752-01-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object David Coster (c. 1686 - 24-jan-1752), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "David Coster",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Den Bosch"
+  ],
+  "dating": {
+    "presentingDate": "1739 - 1740",
+    "sortingDate": 1739,
+    "period": 18,
+    "yearEarly": 1739,
+    "yearLate": 1740
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45(+26)",
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17401740"
+    ],
+    "places": [
+      "'s-Hertogenbosch"
+    ],
+    "people": [
+      "Den Bosch, schutterij van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-83.757"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Den Bosch, schutterij van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 3783",
+    "3783"
+  ],
+  "principalOrFirstMaker": "David Coster",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "500"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "386"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Nieuwjaarsprent van de schutterij van Den Bosch, 1740, David Coster, 1739 - 1740",
+  "subTitle": "h 500mm \u00d7 w 386mm",
+  "scLabelLine": "David Coster, 1739 - 1740, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

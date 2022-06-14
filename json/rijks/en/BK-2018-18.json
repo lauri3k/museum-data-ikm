@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2018-18",
+  "priref": "703243",
+  "objectNumber": "BK-2018-18",
+  "language": "en",
+  "title": "Oboe",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b85bf098-d1cf-409d-8624-2573971b8af4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1210,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/QoXdZF53iWXiMaaj-RGNvAt_yiJwSbDqRRIsloYvHLMumHeSR4Czj9Q5YYtDdMUsCKfrsvw_eAN-B5QGOYFtfpGubtDSKdqv06XxmkI9=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oboe"
+  ],
+  "description": "Hobo van palmhout, gemonteerd met ivoor. Zeven messing kleppen. Gemarkeerd op alle delen: [3 kronen] / STENGEL / [3 bloemen]. Het derde gat is dubbel. Er zitten twee stemgaten in de beker en twee overgebleven gaten van waar ooit een vingersteun heeft gezeten.",
+  "labelText": null,
+  "objectTypes": [
+    "musical instrument",
+    "wind instrument",
+    "oboe"
+  ],
+  "objectCollection": [
+    "musical instruments"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Samuel Stengel",
+      "unFixedName": "Stengel, Johann Samuel",
+      "placeOfBirth": null,
+      "dateOfBirth": "1771",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1826",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "musical instrument maker"
+      ],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johann Samuel Stengel (1771 - 1826)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Samuel Stengel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-03-12T00:00:00",
+    "creditLine": "Gift Han de Vries Collection, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "boxwood",
+    "ivory",
+    "brass (alloy)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1810",
+    "sortingDate": 1810,
+    "period": 19,
+    "yearEarly": 1810,
+    "yearLate": 1810
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2018-18"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Giovanni Paolo Di Stefano, \u2018The Rijksmuseum\u2019s Remarkable Collection of Oboes\u2019, The Double Reed 49, 2021, no. 2, p. 92-127: 111-112, 126, fig. 18",
+    "Giovanni Paolo Di Stefano, 'The Rijksmuseum to acquire and display the Han De Vries collection of oboes', CIMCIM Bulletin, January 2019, p. 22-24"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Samuel Stengel",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "55.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "boxwood",
+  "longTitle": "Oboe, Johann Samuel Stengel, c. 1810",
+  "subTitle": "l 55.6cm \u00d7 d 2.7cm",
+  "scLabelLine": "Johann Samuel Stengel, c. 1810, boxwood",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "HG-0.8"
+}

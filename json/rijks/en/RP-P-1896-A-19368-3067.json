@@ -1,0 +1,198 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1896-A-19368-3067",
+  "priref": "336901",
+  "objectNumber": "RP-P-1896-A-19368-3067",
+  "language": "en",
+  "title": "Blad met 29 kaartjes van havens en reden aan de Middellandse Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "689de1f8-67ae-4583-8fa5-73a060a4b782",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2205,
+    "url": "https://lh3.googleusercontent.com/PbDmlmlme8FyB0fD1zc9gpDJSBtXLTvFFM2IuKJMXgSdOPongbb5CLfw_zjYf-_CBCVh9jpVmdYhXrESL5hSFPkPzlg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Blad met 29 kaartjes van havens en reden aan de Middellandse Zee",
+    "Haaven-Kaart, Van Eenige Voornaamste Haavens leggende in de, Middel-Landsche Zee En Archipelago"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Johannes van Keulen (I)",
+      "unFixedName": "Keulen, Johannes van (I)",
+      "placeOfBirth": "Deventer",
+      "dateOfBirth": "1654",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1715",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes van Keulen (I) (1654 - 1715), Amsterdam"
+    },
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Luyken",
+      "unFixedName": "Luyken, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1649-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1712-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Jan Luyken (16-apr-1649 - 05-apr-1712)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Luyken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1896-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1682 - 1803",
+    "sortingDate": 1682,
+    "period": 17,
+    "yearEarly": 1682,
+    "yearLate": 1803
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Middellandse Zee"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1896-A-19368-3067"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Luyken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "510"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "590"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Blad met 29 kaartjes van havens en reden aan de Middellandse Zee, Jan Luyken (rejected attribution), 1682 - 1803",
+  "subTitle": "h 510mm \u00d7 w 590mm",
+  "scLabelLine": "Jan Luyken, 1682 - 1803, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

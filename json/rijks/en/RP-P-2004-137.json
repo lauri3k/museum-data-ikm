@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2004-137",
+  "priref": "422332",
+  "objectNumber": "RP-P-2004-137",
+  "language": "en",
+  "title": "Rietkraag",
+  "copyrightHolder": "Reinder Homan",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Rietkraag"
+  ],
+  "description": "Rietkraag aan brede rivier.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Reinder Homan",
+      "unFixedName": "Homan, Reinder",
+      "placeOfBirth": "Smilde",
+      "dateOfBirth": "1950-12-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Reinder Homan (12-dec-1950 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Reinder Homan",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2004-01-01T00:00:00",
+    "creditLine": "Gift of P. Jonker, Haule"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1998",
+    "sortingDate": 1998,
+    "period": 20,
+    "yearEarly": 1998,
+    "yearLate": 1998
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)",
+      "25H213"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed",
+      "river"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2004-137"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Reinder Homan",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "297"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Rietkraag, Reinder Homan, 1998",
+  "subTitle": "h 200mm \u00d7 w 297mm",
+  "scLabelLine": "Reinder Homan, 1998, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

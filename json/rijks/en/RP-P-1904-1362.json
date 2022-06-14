@@ -1,0 +1,203 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-1362",
+  "priref": "188122",
+  "objectNumber": "RP-P-1904-1362",
+  "language": "en",
+  "title": "Portret van Mary Fiennes en haar zoon Gregory Fiennes",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9afcb744-2a85-457b-bb40-c931896c6525",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2090,
+    "url": "https://lh3.googleusercontent.com/AFQPw780DM0Pt0za4aWScD6YXa1BXeTksZcGr3awBAwZxzCSVcVPa_dXnHI7ebcSruciN5AA-s7hoKE-BiGygEceF0mQUDBmltc_UREO=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Mary Fiennes en haar zoon Gregory Fiennes",
+    "Frances Dutchess of Suffolk and her husband Adrian Stokes Esqr.",
+    "Portretten van de Tudors",
+    "Historical Portraitures"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "George Vertue",
+      "unFixedName": "Vertue, George",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1684",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1756-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Vertue (1684 - 24-jul-1756)"
+    },
+    {
+      "name": "Horace Walpole (4e graaf van Orford, 3e baron van Walpole)",
+      "unFixedName": "Walpole, Horace (4e graaf van Orford, 3e baron van Walpole)",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1717-09-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1797-02-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Horace Walpole (4e graaf van Orford, 3e baron van Walpole) (24-sep-1717 - 02-feb-1797)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "George Vertue",
+      "unFixedName": "Vertue, George",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1684",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1756-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Vertue (1684 - 24-jul-1756), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Vertue",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-05-16T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1748",
+    "sortingDate": 1748,
+    "period": 18,
+    "yearEarly": 1748,
+    "yearLate": 1748
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2(...)12",
+      "61BB2(...)12",
+      "42B7421",
+      "41D225",
+      "41D2661"
+    ],
+    "iconClassDescription": [
+      "historical person in a double portrait",
+      "historical person - woman - in a double portrait",
+      "mother and son(s) (family group)",
+      "gloves, mittens, etc.",
+      "necklace"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Fiennes, Gregory (10e baron Dacre)",
+      "Fiennes, Mary (barones Dacre)",
+      "Grey, Frances (hertogin van Suffolk)",
+      "Stokes, Adrian"
+    ],
+    "objectNumbers": [
+      "RP-P-1904-1362"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Fiennes, Gregory (10e baron Dacre)",
+    "Fiennes, Mary (barones Dacre)",
+    "Grey, Frances (hertogin van Suffolk)",
+    "Stokes, Adrian"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "David Alexander, George Vertue as an Engraver, Walpole Society 2008, cat. nr. 923."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Vertue",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "468"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "563"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Mary Fiennes en haar zoon Gregory Fiennes, George Vertue, 1748",
+  "subTitle": "h 468mm \u00d7 w 563mm",
+  "scLabelLine": "George Vertue, 1748, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

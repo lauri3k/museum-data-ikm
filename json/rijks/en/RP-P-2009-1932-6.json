@@ -1,0 +1,191 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2009-1932-6",
+  "priref": "501575",
+  "objectNumber": "RP-P-2009-1932-6",
+  "language": "en",
+  "title": "Langs de Missouri",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1d0e6641-e045-495b-b395-63280d04ec9d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1973,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/caPDvzRGLvEcjCrd34tjJVp_DyJ3r1DshRn2VlrUcpPoOvkkc7v-F7Bfxkg8IFybi8rek8Uuwr9_NaRErDE5te1a7hk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Langs de Missouri",
+    "Falbalas et Fanfreluches: almanach des modes pr\u00e9sentes, pass\u00e9es & futures pour 1923, 2e ann\u00e9e: Le long du Missouri / Am\u00e9rique XIXe si\u00e8cle"
+  ],
+  "description": "Noord-Amerikaans paar in een kano. De man staat; hij draagt een lange verentooi. De vrouw zit achter hem, twee veren in het haar gestoken. Mogelijk gaat het om een Osage. Prent uit de serie Falbalas & Fanfreluches (1922-1926).",
+  "labelText": null,
+  "objectTypes": [
+    "magazine"
+  ],
+  "objectCollection": [
+    "prints",
+    "costume and fashion prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "J. Meynial",
+      "unFixedName": "Meynial, J.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object J. Meynial, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "George Barbier",
+      "unFixedName": "Barbier, George",
+      "placeOfBirth": "Nantes",
+      "dateOfBirth": "1882-10-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1932",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter",
+        "designer"
+      ],
+      "roles": [
+        "after drawing by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Barbier (10-okt-1882 - 1932)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "George Barbier",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2009-09-30T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1923",
+    "sortingDate": 1923,
+    "period": 20,
+    "yearEarly": 1923,
+    "yearLate": 1923
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D11",
+      "32B342(+3)",
+      "46C232"
+    ],
+    "iconClassDescription": [
+      "fashion plates",
+      "Native peoples of North America (+ costume)",
+      "rowing-boat, canoe, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18001899"
+    ],
+    "places": [
+      "Missouri"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2009-1932-6"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "George Barbier",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "244"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "159"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Langs de Missouri, George Barbier, 1923",
+  "subTitle": "h c.244mm \u00d7 w c.159mm",
+  "scLabelLine": "George Barbier, 1923, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

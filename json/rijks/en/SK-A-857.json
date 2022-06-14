@@ -1,0 +1,256 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-857",
+  "priref": "7033",
+  "objectNumber": "SK-A-857",
+  "language": "en",
+  "title": "The Siege of J\u00fclich, 1621-22",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e709559f-e9eb-4d76-bfb4-ef578eb80319",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2910,
+    "height": 1747,
+    "url": "https://lh3.googleusercontent.com/Jmtu3cUs_c8OmV6fDjdzEkqbFapyLj60LwbJ_SCzEjQ--Fra9WPHxIl_njWZbbcLb3jt3QEIrU10Y2R0va1KHUvopN4xCocvLpjpt1WU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 29,
+      "hex": "#898445"
+    },
+    {
+      "percentage": 25,
+      "hex": " #585520"
+    },
+    {
+      "percentage": 14,
+      "hex": " #6A6B34"
+    },
+    {
+      "percentage": 11,
+      "hex": " #4C320C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A79D5C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #BEB06D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #281E04"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#898445",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #585520",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #6A6B34",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #4C320C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A79D5C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BEB06D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #281E04",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 39,
+      "hex": "#556B2F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #808000"
+    },
+    {
+      "percentage": 14,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 11,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 39,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The Siege of J\u00fclich, 1621-22"
+  ],
+  "description": "Het beleg van Gulik door de Spanjaarden onder Hendrik van den Bergh, tussen 5 september 1621 en 3 februari 1622. In het midden ligt de stad omgeven door vestingwerken, op de voorgrond een stoet ruiters en troepen van de belegeraars.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "Peeter Snayers",
+      "unFixedName": "Snayers, Peeter",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1592-11-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1666",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution Peeter Snayers (24-nov-1592 - after 1666)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Sebastiaen Vrancx",
+      "unFixedName": "Vrancx, Sebastiaen",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1573",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1647-05-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Sebastiaen Vrancx (1573 - 19-mei-1647)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Sebastiaen Vrancx",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1874-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1635",
+    "sortingDate": 1635,
+    "period": 17,
+    "yearEarly": 1635,
+    "yearLate": null
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-857"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Bernhard Dautzenberg, 'Die Belagerung der Festun J\u00fclich von 1621/22 : ein Gem\u00e4lde des fl\u00e4mischen Schlachtenmalers Peeter Snayers (1592-1667)', Architektur, Kunst- und Kulturgeschichte in Nord- und Westdeutschland 7 (1996) febr., p. 39-43, afb. 20.",
+    "Marcell Perse (red.), Alessandro Pasqualini : die italienische Renaissance am Niederrhein, J\u00fclich 1993, p. 15.",
+    "H. Neumann, 'Eine Belagerung der Festung J\u00fclich 1621-22', Beitrage zur J\u00fclichter Geschichte 39 (1972) nov., p. 7-9.",
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Sebastiaen Vrancx",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "142"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "233.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Siege of J\u00fclich, 1621-22, Sebastiaen Vrancx (attributed to), c. 1635",
+  "subTitle": "h 142cm \u00d7 w 233.4cm",
+  "scLabelLine": "Sebastiaen Vrancx, c. 1635, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

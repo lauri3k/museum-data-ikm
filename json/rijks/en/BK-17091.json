@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-17091",
+  "priref": "332216",
+  "objectNumber": "BK-17091",
+  "language": "en",
+  "title": "Coupe",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Coupe met deksel, voet, stam en kelk van rossig-bruik chalcedon met deksel en montuur van goud versierd met email cloisonne en edelstenen. Als knop een geslepen safier.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Russia"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Russia"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "chalcedony",
+    "gold (metal)",
+    "precious stone (material)",
+    "sapphire (mineral)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Russia"
+  ],
+  "dating": {
+    "presentingDate": "c. 1500 - c. 1600",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1600
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A98"
+    ],
+    "iconClassDescription": [
+      "ornaments ~ art"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-17091"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "16.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "5.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "chalcedony",
+  "longTitle": "Coupe, anonymous, c. 1500 - c. 1600",
+  "subTitle": "h 16.4cm \u00d7 d 6.8cm",
+  "scLabelLine": "Russia, c. 1500\u20131600, chalcedony, gold, enamel, various precious stones",
+  "label": {
+    "title": "Coupe",
+    "makerLine": "Russia, c. 1500\u20131600, chalcedony, gold, enamel, various precious stones",
+    "description": "Attention has been lavished on the mount of this cup, on which abstract patterns in gold thread and enamel have been applied. The knob surmounting the lid of the gemstone- encrusted cup is a blue sapphire.",
+    "notes": null,
+    "date": "2013-03-28"
+  },
+  "showImage": false,
+  "location": null
+}

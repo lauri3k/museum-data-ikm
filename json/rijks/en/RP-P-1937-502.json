@@ -1,0 +1,281 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1937-502",
+  "priref": "85718",
+  "objectNumber": "RP-P-1937-502",
+  "language": "en",
+  "title": "Schipbreuk van de Terschelling",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eeef9905-90b4-482a-92af-247ab00a69da",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2019,
+    "height": 2640,
+    "url": "https://lh3.ggpht.com/jJbxNxUSUSyiQMX99SFGSnK69ixF7Eq48YMK75QV4NS-X-m3aMbK6Rx_MS4HhzvFVG1wqszAbxet51XwpK3VbqyLcDpH=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#F4F1E8"
+    },
+    {
+      "percentage": 17,
+      "hex": " #E4D7BC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #5F5A4E"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A49D8B"
+    },
+    {
+      "percentage": 9,
+      "hex": " #CABDA1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #837C6A"
+    },
+    {
+      "percentage": 3,
+      "hex": " #424039"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F1E8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E4D7BC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5F5A4E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A49D8B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CABDA1",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #837C6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #424039",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #FFEBCD"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 22,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 22,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Schipbreuk van de Terschelling"
+  ],
+  "description": "Het VOC-schip Terschelling is vlak voor de Bengaalse kust op een zandbank gelopen en de bemanning probeert zich te redden en met een zelfgemaakte vlot de kust te bereiken. Bladzijde uit een boek, met illustratie en tekst op het recto en verso.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe Jacob van Meurs",
+      "unFixedName": "Meurs, weduwe Jacob van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "weduwe Jacob van Meurs, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Dirck Bosboom",
+      "unFixedName": "Bosboom, Dirck",
+      "placeOfBirth": "Nijmegen",
+      "dateOfBirth": "1648",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1682",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Dirck Bosboom (1648 - after 1682), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck Bosboom",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1937-01-01T00:00:00",
+    "creditLine": "F.G. Waller Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1681",
+    "sortingDate": 1681,
+    "period": 17,
+    "yearEarly": 1681,
+    "yearLate": 1681
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C291"
+    ],
+    "iconClassDescription": [
+      "shipwreck"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1937-502"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck Bosboom",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "153"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Schipbreuk van de Terschelling, Dirck Bosboom (possibly), 1681",
+  "subTitle": "h 147mm \u00d7 w 112mm",
+  "scLabelLine": "Dirck Bosboom, 1681, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

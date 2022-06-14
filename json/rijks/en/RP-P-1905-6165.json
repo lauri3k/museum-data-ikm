@@ -1,0 +1,185 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-6165",
+  "priref": "74996",
+  "objectNumber": "RP-P-1905-6165",
+  "language": "en",
+  "title": "Rafa\u00ebl probeert Lucifer tot rede te brengen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "19bf5f95-5b2a-4e94-b658-0ab302b4fbb5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1866,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/XSwPAWuerF5EgNBrzJlqGIFz_VcavNBZ71pKmtAuxy4EgMZWmZAHqdv_bG_ZIkPgVY11JwtGPnYq1fSCU0cIXSyD0V3VWnqx6gaCXdXx=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Rafa\u00ebl probeert Lucifer tot rede te brengen",
+    "Lucifer. Vierde Bedrijf. Derde Tooneel"
+  ],
+  "description": "Lucifer zit in zijn strijdwagen en wordt door artsengel Rafa\u00ebl een olijftak van de vrede aangeboden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Metzler & Basting",
+      "unFixedName": "Metzler & Basting",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Metzler & Basting, Amsterdam"
+    },
+    {
+      "name": "Gebroeders Binger",
+      "unFixedName": "Gebroeders Binger",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gebroeders Binger, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Edouard Taurel",
+      "unFixedName": "Taurel, Edouard",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1824-03-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1892-11-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Edouard Taurel (25-mrt-1824 - 07-nov-1892)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Edouard Taurel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1856 - 1872",
+    "sortingDate": 1856,
+    "period": 19,
+    "yearEarly": 1856,
+    "yearLate": 1872
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11K(LUCIFER)",
+      "11G185"
+    ],
+    "iconClassDescription": [
+      "devil(s) and demons: Lucifer",
+      "the Archangel Raphael"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1905-6165"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Edouard Taurel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "248"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "179"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Rafa\u00ebl probeert Lucifer tot rede te brengen, Edouard Taurel, 1856 - 1872",
+  "subTitle": "h 248mm \u00d7 w 179mm",
+  "scLabelLine": "Edouard Taurel, 1856 - 1872, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

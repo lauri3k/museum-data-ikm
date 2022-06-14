@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2013-14",
+  "priref": "519355",
+  "objectNumber": "RP-F-2013-14",
+  "language": "en",
+  "title": "\u00cele Saint Louis",
+  "copyrightHolder": "erven Ilse Bing",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "\u00cele Saint Louis, Paris"
+  ],
+  "description": "Gezicht op de kademuur, een bomenrij en het water van de Seine.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ilse Bing",
+      "unFixedName": "Bing, Ilse",
+      "placeOfBirth": "Frankfurt am Main",
+      "dateOfBirth": "1899-03-23",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1998-03-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "New York",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ilse Bing (23-mrt-1899 - 10-mrt-1998), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ilse Bing",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2013-01-01T00:00:00",
+    "creditLine": "Purchased with the support of Baker McKenzie"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "baryta paper"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1932",
+    "sortingDate": 1932,
+    "period": 20,
+    "yearEarly": 1932,
+    "yearLate": 1932
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I143"
+    ],
+    "iconClassDescription": [
+      "quay"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Seine",
+      "\u00cele Saint Louis"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2013-14"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ilse Bing",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "278"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "354"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "234"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "342"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "\u00cele Saint Louis, Ilse Bing, 1932",
+  "subTitle": "h 278mm \u00d7 w 354mm",
+  "scLabelLine": "Ilse Bing (1899-1998), gelatin silver print, Paris, 1932",
+  "label": {
+    "title": "\u00cele Saint Louis",
+    "makerLine": "Ilse Bing (1899-1998), gelatin silver print, Paris, 1932",
+    "description": "The utter simplicity of the composition \u2013 four trees, a lamppost, and a quay \u2013 is reinforced by the limited range of grey tonalities. The trees and lamppost stand out as silhouettes along the quay and water of the Seine. The glimmers of light in the water create subtle accents. A little can go a long way.",
+    "notes": null,
+    "date": "2014-11-26"
+  },
+  "showImage": false,
+  "location": null
+}

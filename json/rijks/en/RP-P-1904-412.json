@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-412",
+  "priref": "114263",
+  "objectNumber": "RP-P-1904-412",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "aba30ce3-e3f4-4c61-9109-25aa61920048",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1808,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/psZRx6kv6iGmlx94N8jbGmFcSM96X-84AAQLSWn4hAAQL0ogyh1o0uDqD_s5QWIvlZsp4elNWNHyg6AUloXRh6RFc60o=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#F0EBDB"
+    },
+    {
+      "percentage": 11,
+      "hex": " #989283"
+    },
+    {
+      "percentage": 10,
+      "hex": " #726C5F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B8B2A2"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2CBBB"
+    },
+    {
+      "percentage": 6,
+      "hex": " #575247"
+    },
+    {
+      "percentage": 4,
+      "hex": " #39352D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0EBDB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #989283",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #726C5F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B8B2A2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D2CBBB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #575247",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #39352D",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FAEBD7"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 28,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Doornenkroning",
+    "Iesvs spinis coronatvr",
+    "De Passie"
+  ],
+  "description": "Een groepje soldaten kroont Christus met de doornenkroon. Een van de soldaten zet de kroon vast op het hoofd met een knots. Zevende prent uit een serie van 13, met voorstellingen uit het lijdensverhaal van Christus.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Galle (I)",
+      "unFixedName": "Galle, Cornelis (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1576",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1650-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (I) (1576 - 29-mrt-1650), Southern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Galle (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1904-01-01T00:00:00",
+    "creditLine": "Gift of G.J. Boekenoogen, Leiden"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Southern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1586 - 1650",
+    "sortingDate": 1586,
+    "period": 16,
+    "yearEarly": 1586,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1904-412"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 78",
+    "78"
+  ],
+  "principalOrFirstMaker": "Cornelis Galle (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "134"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "92"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning, Cornelis Galle (I), 1586 - 1650",
+  "subTitle": "h 134mm \u00d7 w 92mm",
+  "scLabelLine": "Cornelis Galle (I), 1586 - 1650, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

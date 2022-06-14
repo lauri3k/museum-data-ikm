@@ -1,0 +1,134 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F09436",
+  "priref": "270553",
+  "objectNumber": "RP-F-F09436",
+  "language": "en",
+  "title": "Waterval van Barberine op de grens van Frankrijk en Zwitserland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2b5ea40c-99bd-4324-a4bf-dc8f85675499",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1342,
+    "url": "https://lh3.googleusercontent.com/dg2yCdBROO754N-GmzuZlDPeIfLpD0lVaPvE9crcWk_p63v4FQY_0HzL-tgG3t-ccWySvfb4oUse47ognc48VvoVnT90=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Waterval van Barberine op de grens van Frankrijk en Zwitserland",
+    "Cascade de Barberine, Suisse"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "tissue stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1855 - 1875",
+    "sortingDate": 1855,
+    "period": 19,
+    "yearEarly": 1855,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H216(+1)"
+    ],
+    "iconClassDescription": [
+      "waterfall (+ landscape with figures, staffage)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Haute-Savoie"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F09436"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Waterval van Barberine op de grens van Frankrijk en Zwitserland, anonymous, 1855 - 1875",
+  "subTitle": "h 87mm \u00d7 w 170mm",
+  "scLabelLine": "anonymous, 1855 - 1875, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

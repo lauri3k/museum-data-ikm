@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-1559",
+  "priref": "325497",
+  "objectNumber": "BK-KOG-1559",
+  "language": "en",
+  "title": "Flute glass",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "556f1a61-8890-45c4-93df-920fcbc3fb2c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1920,
+    "height": 2560,
+    "url": "https://lh6.ggpht.com/mHKXbmM_M2wKJ_0pR5BZXHtrpIBAh6UCgSr4YSpso0lsJN8JjOVWWGb-_nG_XBYckNtlhdKfg814hb-E0AY0qF5nW7qY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Platte voet met omgeslagen rand en pontilmerk. Balustervormige, holle stam met drie platte schijven. Hoge, trechtervormige kelk. Op de kelk is het wapen van Stadhouder prins Willem III gegraveerd met het opschrift 'Vive le Prince d'Orange'. Voorts drie bijen en een tronk, waaruit een jonge twijg met een oranje appel ontspruit.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Low Countries",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1675 - c. 1700",
+    "sortingDate": 1675,
+    "period": 17,
+    "yearEarly": 1675,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B194"
+    ],
+    "iconClassDescription": [
+      "coat of arms (symbol of sovereignty)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "BK-KOG-1559"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "A.M. Pareau, 'Legaat De Castro, Gegraveerd, ge\u00ebtst en op andere wijze versierd glaswerk, beschrijving', Jaarverslag KOG 38 (1896), nr. 9."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "38.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "5.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Flute glass, anonymous, c. 1675 - c. 1700",
+  "subTitle": "h 38.6cm \u00d7 d 5.7cm",
+  "scLabelLine": "The Netherlands, c. 1675\u20131700",
+  "label": {
+    "title": "Flute glass",
+    "makerLine": "The Netherlands, c. 1675\u20131700",
+    "description": "The inscription above the arms of Stadtholder William III reads: \u2018Vive le Prince d\u2019orange\u2019 (Long live the Prince of Orange).",
+    "notes": null,
+    "date": "2019-07-16"
+  },
+  "showImage": true,
+  "location": "HG-2.20"
+}

@@ -1,0 +1,181 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-2350",
+  "priref": "156905",
+  "objectNumber": "RP-P-OB-2350",
+  "language": "en",
+  "title": "Geseling en Bespotting",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "65302641-e74b-4b7d-a645-8be9b2ab8c67",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1650,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/MZwrhBfaMKsNka0zERZlD4CNeR-T6yfx4W2WRMKVGKSgtjENfhtXvNze8O7-Pv4o9F1ghnWYPV5ToZqU9wuZhBIkonk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Geseling en Bespotting"
+  ],
+  "description": "Twee voorstellingen op een plaat. Op de bovenste voorstelling de geseling van Christus. Twee mannen slaan hem met een gesel. Op de onderste voorstelling de bespotting van Christus. Christus, gekleed in een mantel, krijgt een doornenkroon op zijn hoofd en de mannen bespotten hem. Boven de voorstellingen de verwijzing naar de Bijbeltekst in het Nederlands en het Frans. Linksonder gemerkt: 46.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Mortier (I)",
+      "unFixedName": "Mortier, Pieter (I)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1661",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter Mortier (I) (1661 - 1711), Amsterdam"
+    },
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Joseph Mulder",
+      "unFixedName": "Mulder, Joseph",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1658-01-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1718",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Mulder (11-jan-1658 - after 1718)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Joseph Mulder",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1700",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D351",
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "flagellation by soldiers, Christ usually tied to a column (Matthew 27:26; Mark 15:15; John 19:1)",
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-2350"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Joseph Mulder",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "365"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "240"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Geseling en Bespotting, Joseph Mulder, 1700",
+  "subTitle": "h 365mm \u00d7 w 240mm",
+  "scLabelLine": "Joseph Mulder, 1700, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

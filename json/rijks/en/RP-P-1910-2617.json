@@ -1,0 +1,147 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-2617",
+  "priref": "194098",
+  "objectNumber": "RP-P-1910-2617",
+  "language": "en",
+  "title": "Portret van Filips V, koning van Frankrijk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dc051503-e3b9-49fa-adb9-f11646d3cdd7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1788,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/L1oU8-siH1awbeWm_Zno4y-y5_fFBJmJsUPXhcqjGkoCt0s7FkWI5PucpJHIbHgfPqk9eeNwq4BjxWf5N26iA9xOOI4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Filips V, koning van Frankrijk",
+    "Philippe V dit Le Long. Roi de France. 1316-1322"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Antoine Jean Weber",
+      "unFixedName": "Weber, Antoine Jean",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1797-05-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1875",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antoine Jean Weber (11-mei-1797 - 1875)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antoine Jean Weber",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "steel engraving",
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1814 - 1875",
+    "sortingDate": 1814,
+    "period": 19,
+    "yearEarly": 1814,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B1",
+      "44B191"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "ruler, sovereign",
+      "crown (symbol of sovereignty)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Filips V (koning van Frankrijk)"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-2617"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Filips V (koning van Frankrijk)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Antoine Jean Weber",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "272"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "186"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel engraving",
+  "longTitle": "Portret van Filips V, koning van Frankrijk, Antoine Jean Weber, 1814 - 1875",
+  "subTitle": "h 272mm \u00d7 w 186mm",
+  "scLabelLine": "Antoine Jean Weber, 1814 - 1875, steel engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

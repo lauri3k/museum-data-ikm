@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-85.040",
+  "priref": "495215",
+  "objectNumber": "RP-P-OB-85.040",
+  "language": "en",
+  "title": "Redding van de opvarenden van de Woestduin, 1779",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8eed559e-9a0c-4c6f-93aa-84a6319c0e85",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2415,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/o-IQjiiYNrVReqnTBdAoGDcHvwSTOiwN7cZLjpwdUDvoiPK_JN6k2l1lkFUuHadJJt91lPN8DbHeh7c4j9LmkSb8DzQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 62,
+      "hex": "#D3D1C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #6B6A5D"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A7A697"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F6F4E9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #8B8A7C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #4E4C3F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #302E22"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D3D1C0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6B6A5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A7A697",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F6F4E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8B8A7C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4E4C3F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #302E22",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Redding van de opvarenden van de Woestduin, 1779",
+    "De gebroeders Naerebout redden 87 Schepelingen"
+  ],
+  "description": "De redding door de gebroeders Naerebout van de 87 opvarenden van het gestrande VOC-schip Woestduin (Woestduyn) op 25 juli 1779 bij de Noorderrassen, voor de Zeeuwse kust. Met een lang onderschrift dat begint met: Ziet! daar vergaat het schip Woestduin.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1819 - 1899",
+    "sortingDate": 1819,
+    "period": 19,
+    "yearEarly": 1819,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C291(+91)"
+    ],
+    "iconClassDescription": [
+      "shipwreck (+ saving the victims ~ traffic accident)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1779-07-251779-07-25"
+    ],
+    "places": [],
+    "people": [
+      "Naerebout, Frans",
+      "Naerebout, Jakob"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-85.040"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Naerebout, Frans",
+    "Naerebout, Jakob"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 4348",
+    "4348"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "171"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "165"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Redding van de opvarenden van de Woestduin, 1779, anonymous, 1819 - 1899",
+  "subTitle": "h 171mm \u00d7 w 165mm",
+  "scLabelLine": "anonymous, 1819 - 1899, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

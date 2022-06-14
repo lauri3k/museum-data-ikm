@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1932-10",
+  "priref": "299366",
+  "objectNumber": "RP-T-1932-10",
+  "language": "en",
+  "title": "Portret van Lady Jane Gray",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Lady Jane Gray"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Monogrammist AGT",
+      "unFixedName": "Monogrammist AGT",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Monogrammist AGT"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Monogrammist AGT",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1932-01-01T00:00:00",
+    "creditLine": "Gift of C.M.A.A. Lindeman, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1799 - c. 1899",
+    "sortingDate": 1799,
+    "period": 18,
+    "yearEarly": 1799,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31AA235"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "sitting figure - AA - female human figure"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Lady Jane"
+    ],
+    "objectNumbers": [
+      "RP-T-1932-10"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Grey, Lady Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Monogrammist AGT",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "101"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "65"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Lady Jane Gray, Monogrammist AGT, c. 1799 - c. 1899",
+  "subTitle": "h 101mm \u00d7 w 65mm",
+  "scLabelLine": "Monogrammist AGT, c. 1799 - c. 1899, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

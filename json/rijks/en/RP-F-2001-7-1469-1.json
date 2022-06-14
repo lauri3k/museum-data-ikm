@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1469-1",
+  "priref": "609379",
+  "objectNumber": "RP-F-2001-7-1469-1",
+  "language": "en",
+  "title": "Gezicht op Lake Rotomahana en de Pink Terraces",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1118285b-2923-4774-a5f8-d5f0b9343432",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1747,
+    "url": "https://lh3.googleusercontent.com/unet__A1sGlg2qIYibD_ae2G447k3bN00K5x0Uht-L4U7CyqNXQdx8BL3vPMd0WWPs7HFtEi1GyDGrjyLkVQo_kPqrc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Lake Rotomahana en de Pink Terraces"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "United Kingdom"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, United Kingdom"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Daniel Louis Mundy",
+      "unFixedName": "Mundy, Daniel Louis",
+      "placeOfBirth": null,
+      "dateOfBirth": "1827",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1881",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New Zealand"
+      ],
+      "qualification": null,
+      "labelDesc": "Daniel Louis Mundy (c. 1827 - 1881), New Zealand"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Daniel Louis Mundy",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "dating": {
+    "presentingDate": "c. 1865 - c. 1875",
+    "sortingDate": 1865,
+    "period": 19,
+    "yearEarly": 1865,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H214",
+      "25C13"
+    ],
+    "iconClassDescription": [
+      "lake",
+      "hot spring, geyser"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Lake Rotomahana"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1469-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Daniel Louis Mundy",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "197"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "246"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Gezicht op Lake Rotomahana en de Pink Terraces, Daniel Louis Mundy, c. 1865 - c. 1875",
+  "subTitle": "h 197mm \u00d7 w 246mm",
+  "scLabelLine": "Daniel Louis Mundy, c. 1865 - c. 1875, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

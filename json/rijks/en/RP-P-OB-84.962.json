@@ -1,0 +1,276 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-84.962",
+  "priref": "494676",
+  "objectNumber": "RP-P-OB-84.962",
+  "language": "en",
+  "title": "Watersnood op het Kattenburgerplein te Amsterdam, 1775",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "676ee9ed-cbe0-4b2f-acde-ebb319098ac0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1785,
+    "url": "https://lh4.ggpht.com/gSxtpcmMxodNwgvpDTFJB03-3uOPVFG6AzQG52zcic9BQNrKuXFUCMecDXPlo6atqjIibS3i7bqdWcwRxoN7RksbJw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 30,
+      "hex": "#EDE8D9"
+    },
+    {
+      "percentage": 26,
+      "hex": " #CCC7BA"
+    },
+    {
+      "percentage": 16,
+      "hex": " #807D72"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9A968A"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B2ADA0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5C5A50"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FCFAF6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDE8D9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CCC7BA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #807D72",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9A968A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B2ADA0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5C5A50",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FCFAF6",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 30,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 26,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 18,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 16,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 32,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Watersnood op het Kattenburgerplein te Amsterdam, 1775",
+    "Gezicht van het Kattenburger Plein te Amsteldam, in de overstrooming, 's morgens den 15.den novemb. 1775"
+  ],
+  "description": "Het Kattenburgerplein te Amsterdam getroffen door de watersnood op 15 november 1775. Bewoners proberen huisraad en dieren te redden uit ondergelopen straten en huizen. Onderdeel van een groep illustraties van de overstromingen in 1775.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe Jacobus Loveringh & Johannes Allart",
+      "unFixedName": "Loveringh & Johannes Allart, weduwe Jacobus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object weduwe Jacobus Loveringh & Johannes Allart, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Noach van der Meer (II)",
+      "unFixedName": "Meer, Noach van der (II)",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1741-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1822-02-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Noach van der Meer (II) (16-apr-1741 - 20-feb-1822), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Noach van der Meer (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1775 - 1776",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1776
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H1991",
+      "25H1992"
+    ],
+    "iconClassDescription": [
+      "dike-break",
+      "rescue work during a flood"
+    ],
+    "motifs": [],
+    "events": [
+      "Watersnood 14-18 november 1775"
+    ],
+    "periods": [
+      "1775-11-151775-11-15"
+    ],
+    "places": [
+      "Kattenburgerplein"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-84.962"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 219, nr. 4302a/1."
+  ],
+  "catRefRPK": [
+    "Collectie Rijksmuseum",
+    "FMH 4302",
+    "4302",
+    "Atlas van Stolk 4249",
+    "4249"
+  ],
+  "principalOrFirstMaker": "Noach van der Meer (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "214"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "305"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Watersnood op het Kattenburgerplein te Amsterdam, 1775, Noach van der Meer (II), 1775 - 1776",
+  "subTitle": "h 214mm \u00d7 w 305mm",
+  "scLabelLine": "Noach van der Meer (II), 1775 - 1776, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

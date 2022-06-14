@@ -1,0 +1,234 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6102A",
+  "priref": "97409",
+  "objectNumber": "RP-P-BI-6102A",
+  "language": "en",
+  "title": "Titelpagina voor:  H. Rosweyde, 'tVaders Boek, Antwerpen, 1617",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a36f48b4-7f99-45f6-bf01-6b1437ac7a3f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1735,
+    "height": 2604,
+    "url": "https://lh3.ggpht.com/FB-GrQMUxlbv-2b7u2Zy-h59ZRDZ32RidbOJPXF6LaJmREQyfgYxLvMuAqtE8aeBHZWRoonGa29YQB7G-Sbknt0fGGU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 17,
+      "hex": "#FBFBED"
+    },
+    {
+      "percentage": 48,
+      "hex": " #D9D6C1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B2B09B"
+    },
+    {
+      "percentage": 11,
+      "hex": " #898976"
+    },
+    {
+      "percentage": 8,
+      "hex": " #5F6152"
+    },
+    {
+      "percentage": 2,
+      "hex": " #43473A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FBFBED",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D9D6C1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B2B09B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #898976",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5F6152",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #43473A",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 66,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 11,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Titelpagina voor:  H. Rosweyde, 'tVaders Boek, Antwerpen, 1617"
+  ],
+  "description": "Een nis waarvoor een witte doek. Aan weerszijden van de nis de heilige Paulus en Antonius in monnikspij. Boven op de nis links Elia (met een raaf die hem brood brengt), rechts Johannes de Doper met zijn lam. Midden onder de heilige Eugenia en Paula, zittend bij een cartouche met gevleugeld doodshoofd.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Baptiste Collaert",
+      "unFixedName": "Collaert, Jan Baptiste",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1591-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1627",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Baptiste Collaert (mei-1591 - 1627), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Baptiste Collaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1815-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1617",
+    "sortingDate": 1617,
+    "period": 17,
+    "yearEarly": 1617,
+    "yearLate": 1617
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(MARY MAGDALENE)",
+      "11I62(ELIJAH)",
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge",
+      "Elijah (not in biblical context); possible attributes: scroll and flaming sword",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6102A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 1948",
+    "1948"
+  ],
+  "principalOrFirstMaker": "Jan Baptiste Collaert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "317"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Titelpagina voor:  H. Rosweyde, 'tVaders Boek, Antwerpen, 1617, Jan Baptiste Collaert, 1617",
+  "subTitle": "h 317mm \u00d7 w 200mm",
+  "scLabelLine": "Jan Baptiste Collaert, 1617, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

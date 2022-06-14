@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1988-1",
+  "priref": "4413",
+  "objectNumber": "RP-T-1988-1",
+  "language": "en",
+  "title": "Portrait of the Artist Charles-Michel-Ange Challe",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ac470f98-046f-4205-b687-ddf9cb753c24",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2011,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/Kuo2lL77ulOLpb1iV5_QwWYiU2oXEnAW-dfuxOdn5N2s8KQRnleQb4QZejOqcLY0xqGm652fdl9HxSBNIrbzjoxG_Uc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#A7947D"
+    },
+    {
+      "percentage": 40,
+      "hex": " #D4C7AC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8E735C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #6B5742"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FDFBF6"
+    },
+    {
+      "percentage": 1,
+      "hex": " #473E36"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EDE7D5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A7947D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D4C7AC",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8E735C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #6B5742",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #FDFBF6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #473E36",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EDE7D5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 40,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 81,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 13,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Louis Rolland Trinquesse",
+      "unFixedName": "Trinquesse, Louis Rolland",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1746",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1800",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Louis Rolland Trinquesse (c. 1746 - c. 1800)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Louis Rolland Trinquesse",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1987-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1770 - 1780",
+    "sortingDate": 1770,
+    "period": 18,
+    "yearEarly": 1770,
+    "yearLate": 1780
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "48B3"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "portrait, self-portrait of artist"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Challe, Charles Michel-Ange"
+    ],
+    "objectNumbers": [
+      "RP-T-1988-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Challe, Charles Michel-Ange"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Louis Rolland Trinquesse",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "252"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "203"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portrait of the Artist Charles-Michel-Ange Challe, Louis Rolland Trinquesse, 1770 - 1780",
+  "subTitle": "d 115mm \u00d7 h 252mm \u00d7 w 203mm",
+  "scLabelLine": "Louis-Roland Trinquesse (1745\u20131799)\nred chalk, c. 1776",
+  "label": {
+    "title": "Portrait of the Artist Charles-Michel-Ange Challe",
+    "makerLine": "Louis-Roland Trinquesse (1745\u20131799)\nred chalk, c. 1776",
+    "description": "Drawn portraits in profile, in a medallion, were very popular in France from around 1760 onwards. Trinquesse here portrayed his colleague Challe (whose drawings are displayed nearby) in his preferred red chalk technique. He modelled the sitter\u2019s soft flesh and the curls of his wig with subtle strokes. Inscribed with Challe\u2019s name and title, the mount lends this drawing a monumental appearance.",
+    "notes": null,
+    "date": "2017-11-16"
+  },
+  "showImage": true,
+  "location": null
+}

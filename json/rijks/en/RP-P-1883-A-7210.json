@@ -1,0 +1,173 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1883-A-7210",
+  "priref": "138793",
+  "objectNumber": "RP-P-1883-A-7210",
+  "language": "en",
+  "title": "Petrus, Johannes, Paulus en Johannes de Doper door andere heiligen omgeven",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a847edc6-06fe-4424-ad06-1fc100c28ce7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1851,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Jd4YioKDa-3iTQ-u-iWzCh_T2RSBKY7ioNp9x_bGJLGV-dO9I6i5IUiEDUdMRCBQT_H0fzDREb0fY5ZYfCT53DKrsFFQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Petrus, Johannes, Paulus en Johannes de Doper door andere heiligen omgeven"
+  ],
+  "description": "In het midden staat Petrus met de sleutel in zijn rechterhand. Naast hem staan Johannes, Paulus, Johannes de Doper en andere heiligen. Geheel in een geornamenteerde omlijsting.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Christoffel Plantijn",
+      "unFixedName": "Plantijn, Christoffel",
+      "placeOfBirth": null,
+      "dateOfBirth": "1514",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1589-07-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Christoffel Plantijn (1514 - 01-jul-1589), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Antoni van Leest",
+      "unFixedName": "Leest, Antoni van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1545",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1592",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antoni van Leest (c. 1545 - c. 1592), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antoni van Leest",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1883-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1571 - 1632",
+    "sortingDate": 1571,
+    "period": 16,
+    "yearEarly": 1571,
+    "yearLate": 1632
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(PETER)",
+      "11H(JOHN)",
+      "11H(PAUL)",
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "the apostle Peter, first bishop of Rome; possible attributes: book, cock, (upturned) cross, (triple) crozier, fish, key, scroll, ship, tiara",
+      "the apostle John the Evangelist; possible attributes: book, cauldron, chalice with snake, eagle, palm, scroll",
+      "the apostle Paul of Tarsus; possible attributes: book, scroll, sword",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1883-A-7210"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 11",
+    "11"
+  ],
+  "principalOrFirstMaker": "Antoni van Leest",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "183"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "134"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Petrus, Johannes, Paulus en Johannes de Doper door andere heiligen omgeven, Antoni van Leest, 1571 - 1632",
+  "subTitle": "h 183mm \u00d7 w 134mm",
+  "scLabelLine": "Antoni van Leest, 1571 - 1632, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

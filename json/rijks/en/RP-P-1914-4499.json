@@ -1,0 +1,189 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-4499",
+  "priref": "192613",
+  "objectNumber": "RP-P-1914-4499",
+  "language": "en",
+  "title": "Koppermaandag met leprozenoptocht te Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "aab4321c-d0e6-443d-b834-71c580f5148f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3870,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/tn5hW89s0Bh7fUhF3XVs0LBDZb7Oxx-3dwCLbNrD3yIHndE9Tf7npgSFV-ZuCH8x4_UZL91TnEGml8VIf9DkmdSwK-LicyeA4srtzgSkQA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Koppermaandag met leprozenoptocht te Amsterdam",
+    "Omgang der leprozen op Koppermaandag"
+  ],
+  "description": "De jaarlijkse optocht van de gilden op Koppermaandag (de eerste maandag na Driekoningen) te Amsterdam. Optocht en feestelijkheden van de gilden op de Dam waarbij de leprozen de stad in mogen en waarbij geld werd ingezameld voor de leprozen. In 1604 werd Koppermaandag voor het laatst in Amsterdam gevierd. Rechts onder genummerd Bl. 43.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gebroeders Diederichs",
+      "unFixedName": "Diederichs, Gebroeders",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Gebroeders Diederichs, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johannes Hilverdink",
+      "unFixedName": "Hilverdink, Johannes",
+      "placeOfBirth": "Groningen",
+      "dateOfBirth": "1813-01-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1902-10-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Johannes Hilverdink (18-jan-1813 - 01-okt-1902)"
+    },
+    {
+      "name": "Ruurt de Vries",
+      "unFixedName": "Vries, Ruurt de",
+      "placeOfBirth": "Monnickendam",
+      "dateOfBirth": "1813-11-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1874-12-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Ruurt de Vries (15-nov-1813 - 30-dec-1874)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Hilverdink",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1844",
+    "sortingDate": 1844,
+    "period": 19,
+    "yearEarly": 1844,
+    "yearLate": 1844
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A46223",
+      "47E2521"
+    ],
+    "iconClassDescription": [
+      "leper's procession",
+      "'blue Monday'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1914-4499"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Hilverdink, Ruurt de Vries",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "142"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "231"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Koppermaandag met leprozenoptocht te Amsterdam, Johannes Hilverdink (possibly), Ruurt de Vries (possibly), 1844",
+  "subTitle": "h 142mm \u00d7 w 231mm",
+  "scLabelLine": "Johannes Hilverdink, 1844, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

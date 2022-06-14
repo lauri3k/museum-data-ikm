@@ -1,0 +1,154 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-41.587",
+  "priref": "74121",
+  "objectNumber": "RP-P-OB-41.587",
+  "language": "en",
+  "title": "Portret van Willem IV van Oranje-Nassau",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f2b8aaf-3bd7-47e8-9364-845015575c9e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1889,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/V9UJBAeYAimgPYiPkkSc5y4vQzynfTs4ccUQkBxRz8V9tWLzMtcbZUIuFUYXSEW9GIaN9nKohC66Kya-kzdM_sw7Vh_yVqhpD2F7WVk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Willem IV van Oranje-Nassau",
+    "Willem, Carel, Hendrik, Friso, prince van Orang en Nassau"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean Joseph Bal\u00e9chou",
+      "unFixedName": "Bal\u00e9chou, Jean Joseph",
+      "placeOfBirth": "Arles",
+      "dateOfBirth": "1716",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1764-08-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Avignon",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Joseph Bal\u00e9chou (1716 - 18-aug-1764), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Joseph Bal\u00e9chou",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1726 - 1764",
+    "sortingDate": 1726,
+    "period": 18,
+    "yearEarly": 1726,
+    "yearLate": 1764
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B1",
+      "46A1241(GARTER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "ruler, sovereign",
+      "knighthood order (GARTER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-41.587"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF 18e si\u00e8cle 49",
+    "49",
+    "LeBlanc 63",
+    "63"
+  ],
+  "principalOrFirstMaker": "Jean Joseph Bal\u00e9chou",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "397"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "295"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Willem IV van Oranje-Nassau, Jean Joseph Bal\u00e9chou, 1726 - 1764",
+  "subTitle": "h 397mm \u00d7 w 295mm",
+  "scLabelLine": "Jean Joseph Bal\u00e9chou, 1726 - 1764, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

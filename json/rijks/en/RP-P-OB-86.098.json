@@ -1,0 +1,182 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-86.098",
+  "priref": "506822",
+  "objectNumber": "RP-P-OB-86.098",
+  "language": "en",
+  "title": "Ontmoeting van prinses van Oranje met haar broer Frederik II van Pruisen, 1788",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1df2077b-2f26-4672-9932-23205ad63a0b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1491,
+    "url": "https://lh3.googleusercontent.com/RRsIwROY6vJ5QVL1TmF6g-myhduFcLHFn_zV012v7dA3EmVUcL_F_jUBc9gq34xTfvLpRhov3qeQeI4y8waHV5CxSPiH=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ontmoeting van prinses van Oranje met haar broer Frederik II van Pruisen, 1788",
+    "Heugelijke Ontmoeting van Haare Koninglijke Hoogheid Mevrouw de Princesse van Orange (...) met zijn Majesteit den Koning van Pruijssen Frederik den III te Cleeve, op den 9e Junij 1788"
+  ],
+  "description": "Ontmoeting van prinses Wilhelmina van Pruisen met haar broer koning Frederik Willem II van Pruisen, te Cleef op 9 juni 1788.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Fran\u00e7ois Jacobs d'Ag\u00e9",
+      "unFixedName": "Ag\u00e9, Johannes Fran\u00e7ois Jacobs d'",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Fran\u00e7ois Jacobs d'Ag\u00e9, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Theodoor Koning",
+      "unFixedName": "Koning, Theodoor",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1748-02-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1829-01-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Theodoor Koning (03-feb-1748 - 31-jan-1829), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Theodoor Koning",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1788 - 1789",
+    "sortingDate": 1788,
+    "period": 18,
+    "yearEarly": 1788,
+    "yearLate": 1789
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "33A13"
+    ],
+    "iconClassDescription": [
+      "meeting"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1788-06-091788-06-09"
+    ],
+    "places": [
+      "Kleef"
+    ],
+    "people": [
+      "Wilhelmina van Pruisen (1751-1820)",
+      "Frederik Willem II (koning van Pruisen)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-86.098"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Wilhelmina van Pruisen (1751-1820)",
+    "Frederik Willem II (koning van Pruisen)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 334, nr. 5080A/1."
+  ],
+  "catRefRPK": [
+    "FMH 5080",
+    "5080",
+    "Atlas van Stolk 4974",
+    "4974"
+  ],
+  "principalOrFirstMaker": "Theodoor Koning",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "122"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "169"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Ontmoeting van prinses van Oranje met haar broer Frederik II van Pruisen, 1788, Theodoor Koning, 1788 - 1789",
+  "subTitle": "h 122mm \u00d7 w 169mm",
+  "scLabelLine": "Theodoor Koning, 1788 - 1789, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

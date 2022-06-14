@@ -1,0 +1,174 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-80.658",
+  "priref": "455097",
+  "objectNumber": "RP-P-OB-80.658",
+  "language": "en",
+  "title": "Leprozenoptocht op Koppermaandag te Amsterdam, 1604",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c1cc84aa-0d75-448e-9a96-2ea4ed17fac9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2598,
+    "height": 2117,
+    "url": "https://lh6.ggpht.com/S6Mx9m-q_nhjWDsrVjy-DekNjjdPJ-2hvSYiY3297PbO-HJMG89HtfND-e9fyxm2S0zgfZR4tpGPm8-37ghwg0tcn4c=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Leprozenoptocht op Koppermaandag te Amsterdam, 1604",
+    "Processie der Lazarussen, op Kopper Maandag"
+  ],
+  "description": "De jaarlijkse optocht van de gilden op Koppermaandag (de eerste maandag na Driekoningen) te Amsterdam, 1604. Optocht en feestelijkheden van de gilden op de Dam waarbij de leprozen de stad in mogen en waarbij geld voor hen werd ingezameld. In 1604 werd Koppermaandag voor het laatst in Amsterdam gevierd.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes van Septeren (I)",
+      "unFixedName": "Septeren, Johannes van (I)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Johannes van Septeren (I), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2008-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1729",
+    "sortingDate": 1729,
+    "period": 18,
+    "yearEarly": 1729,
+    "yearLate": 1729
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47E2521",
+      "31A46223"
+    ],
+    "iconClassDescription": [
+      "'blue Monday'",
+      "leper's procession"
+    ],
+    "motifs": [],
+    "events": [
+      "Koppermaandag"
+    ],
+    "periods": [
+      "16041604"
+    ],
+    "places": [
+      "Dam",
+      "Stadhuis van Amsterdam (14e eeuw-1652)",
+      "Waag op de Dam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-80.658"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 1207",
+    "1207"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "110"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "133"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Leprozenoptocht op Koppermaandag te Amsterdam, 1604, anonymous, 1729",
+  "subTitle": "h 110mm \u00d7 w 133mm",
+  "scLabelLine": "anonymous, 1729, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,251 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2007-357-70",
+  "priref": "453039",
+  "objectNumber": "RP-F-2007-357-70",
+  "language": "en",
+  "title": "J.W. des Tombe, aan de Ontbijttafel in Lappeenranta, Finland.",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d5f4f911-bb1e-4dd5-a103-10a2349d8b00",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2196,
+    "height": 2247,
+    "url": "https://lh6.ggpht.com/VuqEPRoUzGn5pJUYHASpcA7W3o7x1eAtsfzLVV3l7HrMSiAAoIXHZBnSuxGWbO8PhyILpgsD6FiQbBdZWXtUyP-LRA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#625446"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B2A78D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #867965"
+    },
+    {
+      "percentage": 56,
+      "hex": " #D8D0B5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF8CB"
+    },
+    {
+      "percentage": 13,
+      "hex": " #3D3429"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#625446",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B2A78D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #867965",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D8D0B5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FBF8CB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3D3429",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 56,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFACD"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "J.W. des Tombe, aan de Ontbijttafel in Lappeenranta, Finland.",
+    "Vilmanstrand Finland, J.W. des Tombe, aan de Ontbijttafel"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Henry Pauw van Wieldrecht",
+      "unFixedName": "Pauw van Wieldrecht, Henry",
+      "placeOfBirth": "Zeist",
+      "dateOfBirth": "1863-10-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Henry Pauw van Wieldrecht (24-okt-1863 - 02-jun-1912), Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Henry Pauw van Wieldrecht",
+      "unFixedName": "Pauw van Wieldrecht, Henry",
+      "placeOfBirth": "Zeist",
+      "dateOfBirth": "1863-10-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1912-06-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zeist",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Henry Pauw van Wieldrecht (24-okt-1863 - 02-jun-1912)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Henry Pauw van Wieldrecht",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2008-12-11T00:00:00",
+    "creditLine": "Gift of the heirs of H. Pauw van Wieldrecht, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1898",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2007-357-70"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Henry Pauw van Wieldrecht",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "82"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "259"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "365"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "J.W. des Tombe, aan de Ontbijttafel in Lappeenranta, Finland., Henry Pauw van Wieldrecht (possibly), 1898",
+  "subTitle": "h 82mm \u00d7 w 120mm",
+  "scLabelLine": "Henry Pauw van Wieldrecht, 1898, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

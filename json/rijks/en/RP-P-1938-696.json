@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1938-696",
+  "priref": "118353",
+  "objectNumber": "RP-P-1938-696",
+  "language": "en",
+  "title": "Portret van Morgan Graves Esq. op 63-jarige leeftijd",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "25ee9ea3-d9cb-4390-8246-2b3c72a98367",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1801,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/5uLIjMd6K1Z5wlD9Q9pt7WePomVFquuO4fOGvh6ZFHtHJ8pVAomVNivv8YwHKud2IoQ4nU3DrSVZB-kE3zYz3T6R2v6e82M8vmS--0cm=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Morgan Graves Esq. op 63-jarige leeftijd"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1938-01-01T00:00:00",
+    "creditLine": "Gift of D.H. Cevat, Guernsey"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1770",
+    "sortingDate": 1770,
+    "period": 18,
+    "yearEarly": 1770,
+    "yearLate": 1770
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Graves, Morgan"
+    ],
+    "objectNumbers": [
+      "RP-P-1938-696"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Graves, Morgan"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 53",
+    "53"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "328"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "227"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Morgan Graves Esq. op 63-jarige leeftijd, Valentine Green, 1770",
+  "subTitle": "h 328mm \u00d7 w 227mm",
+  "scLabelLine": "Valentine Green, 1770, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

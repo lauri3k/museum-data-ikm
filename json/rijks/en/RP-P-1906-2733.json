@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1906-2733",
+  "priref": "160717",
+  "objectNumber": "RP-P-1906-2733",
+  "language": "en",
+  "title": "Heilige Brigitta van Zweden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f1cee0cc-b3d7-4eac-a8b9-99a510ae9a38",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1724,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/EsINAKrjH6khrBjH2kebte2B6wX0AItUaWjiO-gCtAkfs2UnF5nnDf7FCeXflU87AhkA7gNmOQ5gZmHHA8gUvnfBAA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Brigitta van Zweden",
+    "Virginvm apud Christianos celebratissima Brigitta",
+    "Beroemde vrouwen"
+  ],
+  "description": "De heilige Brigitta van Zweden met een kruis en opengeslagen boek in de handen. In het landschap achter haar sjouwen mannen met bouwmaterialen bij een kerkgebouw en graven in de grond. De voorstelling is gevat in een ovale omlijsting met een randschrift in het Latijn. In de marge een vierregelig onderschrift in het Latijn. Prent uit een serie met beroemde vrouwen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Crispijn van de Passe (I) (1564 - 1637)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Crispijn van de Passe (I) (1564 - 1637), Cologne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1906-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Cologne"
+  ],
+  "dating": {
+    "presentingDate": "1602",
+    "sortingDate": 1602,
+    "period": 17,
+    "yearEarly": 1602,
+    "yearLate": 1602
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(BRIDGET)",
+      "46AA1268"
+    ],
+    "iconClassDescription": [
+      "the foundress of the Order of Bri(d)gettines, the widow Bridget (Birgitta) of Sweden; possible attributes: band over veil with five red spots, book, candle, heart with cross, inkhorn, pilgrim's hat, staff, wallet",
+      "St. Brigit (one of the nine worthiest women)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1906-2733"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Franken 192",
+    "192",
+    "Hollstein Dutch 365",
+    "365"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "263"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "180"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Brigitta van Zweden, Crispijn van de Passe (I), 1602",
+  "subTitle": "h 263mm \u00d7 w 180mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1602, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

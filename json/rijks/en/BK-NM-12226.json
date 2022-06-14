@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12226",
+  "priref": "24441",
+  "objectNumber": "BK-NM-12226",
+  "language": "en",
+  "title": "The Crowning with Thorns",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "79f947c0-9972-479f-8366-0270e6ff7444",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2091,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/zW1JiIvKWfKjZ_nQmTFhyymZ_gpVxaBoFdWBo7FNqbdElidRO26Jj4Pg9qq8qIA_QYAMs0UTr-vIPxV9Puehet05Aw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The Crowning with Thorns"
+  ],
+  "description": "Op een bank zit Christus met gebonden polsen tussen twee beulsknechten, die met beide handen een lange stok op Christus' hoofd drukken, ieder daarbij met \u00e9\u00e9n knie steunend op de bank. Christus, in lendendoek, draagt een van de schouders afhangende mantel, die met een band voor de borst is samengestrikt en over de linkerknie is geslagen. De linker beulsknecht, met snor, draagt een baret, een pofbroek en een hemd, dat van een schouder is afgegleden; de andere, op de rug gezien, heeft de mond geopend en is gekleed in een kolder met korte siermouwen en een korte rok. Beiden dragen laarzen.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1910-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oak (wood)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1540 - c. 1550",
+    "sortingDate": 1540,
+    "period": 16,
+    "yearEarly": 1540,
+    "yearLate": 1550
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-12226"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "36"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "27"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oak",
+  "longTitle": "The Crowning with Thorns, anonymous, c. 1540 - c. 1550",
+  "subTitle": "h 36cm \u00d7 w 27cm \u00d7 d 7.5cm",
+  "scLabelLine": "anonymous, c. 1540 - c. 1550, oak",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

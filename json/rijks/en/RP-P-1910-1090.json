@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-1090",
+  "priref": "113443",
+  "objectNumber": "RP-P-1910-1090",
+  "language": "en",
+  "title": "Portret van Georg II",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a4f2ced9-7700-4dd3-ab74-681182dfaccc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1519,
+    "height": 1340,
+    "url": "https://lh3.googleusercontent.com/J8erg6QnMz_Dw0hxJ9jTPSYlwLMlPwExIdW5BzdFLZUH1e9OSyPtcRVmFA2zm2_Kmw9AegW-YKmooHbtQXq15cl7izSI6bCoqTgH4VYzJw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Georg II"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Christian Gottfried Fritzsch",
+      "unFixedName": "Fritzsch, Johann Christian Gottfried",
+      "placeOfBirth": "Hamburg",
+      "dateOfBirth": "1720",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1802",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Hamburg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Christian Gottfried Fritzsch (1720 - 1802)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Christian Gottfried Fritzsch",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1759",
+    "sortingDate": 1759,
+    "period": 18,
+    "yearEarly": 1759,
+    "yearLate": 1759
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B1",
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "ruler, sovereign",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "George II (koning van Groot-Brittanni\u00eb)"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-1090"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "George II (koning van Groot-Brittanni\u00eb)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Christian Gottfried Fritzsch",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "66"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Georg II, Johann Christian Gottfried Fritzsch, 1759",
+  "subTitle": "h 90mm \u00d7 w 66mm",
+  "scLabelLine": "Johann Christian Gottfried Fritzsch, 1759, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

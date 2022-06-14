@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-14915",
+  "priref": "325739",
+  "objectNumber": "BK-14915",
+  "language": "en",
+  "title": "Dobbelglas",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fc6dc35d-63f3-4825-9a51-fee0e75e696f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2285,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/WgQCXY--lUm-aSzLkXIg-MWAKWpoi7Sf0GFiovEfN5stUlwzhai_EL6Jw7x6-yPCvBhE5_z052Jj8D9WZnbQJkxM2w=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Dobbelglas"
+  ],
+  "description": "Trechtervormige kelk onder een stam, opgebouwd uit een geribde getordeerde in krullen gelegde buis met een blauw ornament. Op de plaats van de voet een zilveren sfeer met een dobbelsteen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1937-01-01T00:00:00",
+    "creditLine": "Private gift"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "silver (metal)"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Low Countries",
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1700",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49E122"
+    ],
+    "iconClassDescription": [
+      "armillary sphere, skeleton celestial globe"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-14915"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jaarverslag Rijksmuseum 60 (1937), p. 10."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "28"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Dobbelglas, anonymous, c. 1600 - c. 1700",
+  "subTitle": "h 28cm \u00d7 d 7.5cm",
+  "scLabelLine": "anonymous, c. 1600 - c. 1700, glassblowing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1467",
+  "priref": "6372",
+  "objectNumber": "SK-A-1467",
+  "language": "en",
+  "title": "Battle between the Dutch and Swedish Fleets, in the Sound, 8 November 1658",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7436ea8b-debf-4a40-88a6-dfc8128761cf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1750,
+    "url": "https://lh3.googleusercontent.com/RAPLQnVg8tZ-S2NAxLEu1XRUD3DWVK4jzYVu_rTfplnrBG47kEaV-5OPLsJRHrrGqF_KzD0Y6cIMHI150-S0FQy3hEk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 55,
+      "hex": "#BAAD8B"
+    },
+    {
+      "percentage": 17,
+      "hex": " #AB9D79"
+    },
+    {
+      "percentage": 10,
+      "hex": " #998B6B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #837859"
+    },
+    {
+      "percentage": 5,
+      "hex": " #665E47"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C8BEA1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4A4538"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BAAD8B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AB9D79",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #998B6B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #837859",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #665E47",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C8BEA1",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4A4538",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 87,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 94,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Battle between the Dutch and Swedish Fleets, in the Sound, 8 November 1658"
+  ],
+  "description": "Episode uit de zeeslag in de Sont tussen de Hollandse en de Zweedse vloten, 8 november 1658. Links een groep van drie Nederlandse oorlogsschepen waaronder de Eendracht, op de voorgrond een zinkend Zweeds schip waarvan de bemanning zich probeert te redden.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem van de Velde (I)",
+      "unFixedName": "Velde, Willem van de (I)",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1611",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1693-12-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Willem van de Velde (I) (1611 - 13-dec-1693)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem van de Velde (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1888-06-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "ink"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1658 - 1693",
+    "sortingDate": 1658,
+    "period": 17,
+    "yearEarly": 1658,
+    "yearLate": 1693
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3(+32)",
+      "46C24",
+      "45D22"
+    ],
+    "iconClassDescription": [
+      "battle (+ sailing-ships)",
+      "sailing-ship, sailing-boat",
+      "navy"
+    ],
+    "motifs": [],
+    "events": [
+      "Slag in de Sont",
+      "Noordse oorlogen"
+    ],
+    "periods": [
+      "1658-11-081658-11-08"
+    ],
+    "places": [
+      "Sont"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1467"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem van de Velde (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "142"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "canvas",
+  "longTitle": "Battle between the Dutch and Swedish Fleets, in the Sound, 8 November 1658, Willem van de Velde (I) (attributed to), 1658 - 1693",
+  "subTitle": "h 100cm \u00d7 w 142cm \u00d7 d 8.5cm",
+  "scLabelLine": "Willem van de Velde (I), 1658 - 1693, canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

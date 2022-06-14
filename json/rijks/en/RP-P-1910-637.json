@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-637",
+  "priref": "97861",
+  "objectNumber": "RP-P-1910-637",
+  "language": "en",
+  "title": "Portret van Roger Long",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Roger Long"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "William Bent",
+      "unFixedName": "Bent, William",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1823",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object William Bent (.... - 1823), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Thomas Cook",
+      "unFixedName": "Cook, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1744",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1818",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Cook (1744 - 1818)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas Cook",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1786",
+    "sortingDate": 1786,
+    "period": 18,
+    "yearEarly": 1786,
+    "yearLate": 1786
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "49E1(+3)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "astronomy (and cosmography) (+ portrait of scholar, scientist)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Long, Roger"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-637"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Long, Roger"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Thomas Cook",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Roger Long, Thomas Cook, 1786",
+  "subTitle": "h 178mm \u00d7 w 113mm",
+  "scLabelLine": "Thomas Cook, 1786, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

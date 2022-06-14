@@ -1,0 +1,264 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-6748",
+  "priref": "114223",
+  "objectNumber": "RP-P-OB-6748",
+  "language": "en",
+  "title": "H. Joris vecht tegen de draak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "de09f208-cfa1-4b01-b548-2284c3dce498",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1731,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/K4w4WKs_0Pzo2ovhv33mO9TF915Cbtf181JhIrxg1bWiKar4nk5Q_YNSlTuZEAKf4GKr9oYj7ba0gZ4W6UUHnh5ZVw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#CEC6AC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #EBE5D2"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A39F8B"
+    },
+    {
+      "percentage": 11,
+      "hex": " #827E6B"
+    },
+    {
+      "percentage": 9,
+      "hex": " #646150"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FBFAF5"
+    },
+    {
+      "percentage": 3,
+      "hex": " #424035"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CEC6AC",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #EBE5D2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A39F8B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #827E6B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #646150",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FBFAF5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #424035",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "H. Joris vecht tegen de draak"
+  ],
+  "description": "De heilige Joris zit op zijn paard en vecht met zijn zwaard tegen een draak.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Galle (III)",
+      "unFixedName": "Galle, Cornelis (III)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1642",
+      "dateOfBirthPrecision": "before",
+      "dateOfDeath": "1679",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (III) (before 1642 - c. 1679), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Galle (II)",
+      "unFixedName": "Galle, Cornelis (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1615",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-10-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (II) (1615 - 18-okt-1678), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Galle (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1638 - 1678",
+    "sortingDate": 1638,
+    "period": 17,
+    "yearEarly": 1638,
+    "yearLate": 1678
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-6748"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Galle (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "126"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "H. Joris vecht tegen de draak, Cornelis Galle (II), 1638 - 1678",
+  "subTitle": "h 126mm \u00d7 w 88mm",
+  "scLabelLine": "Cornelis Galle (II), 1638 - 1678, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

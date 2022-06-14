@@ -1,0 +1,284 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1886-A-10444",
+  "priref": "381071",
+  "objectNumber": "RP-P-1886-A-10444",
+  "language": "en",
+  "title": "Paulus de Kluizenaar (Elia?) gevoed door raven",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f689a6c6-31aa-4f75-8aa4-f343391e6274",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3960,
+    "height": 4579,
+    "url": "https://lh5.ggpht.com/Ep2AAuQAvBD47X9AdinzjNHO8jvLjJqOg5yNiUCmXzMscd1VMvsWAPhQ-uHHss-5Vd0pooTsLiqkGbO9et1PobkEHPA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#ECE5CE"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D3CDB4"
+    },
+    {
+      "percentage": 13,
+      "hex": " #7A7857"
+    },
+    {
+      "percentage": 16,
+      "hex": " #9E9B71"
+    },
+    {
+      "percentage": 38,
+      "hex": " #464536"
+    },
+    {
+      "percentage": 23,
+      "hex": " #BCB58E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ECE5CE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D3CDB4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7A7857",
+      "normalizedHex": "#367614"
+    },
+    {
+      "originalHex": " #9E9B71",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #464536",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #BCB58E",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 38,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 38,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #367614"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Paulus de Kluizenaar (Elia?) gevoed door raven"
+  ],
+  "description": "Een man, ten voeten uit, in monnikskleed, staat bij een boom. Een aantal vogels (raven) komt aanvliegen met brood in de bek.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Willem Pietersz Buytewech",
+      "unFixedName": "Buytewech, Willem Pietersz",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1592",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1624",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Willem Pietersz Buytewech (c. 1592 - 1624), Haarlem"
+    },
+    {
+      "name": "Esaias van de Velde",
+      "unFixedName": "Velde, Esaias van de",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1587-05-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1630-11-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Esaias van de Velde (17-mei-1587 - 18-nov-1630), Haarlem"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hendrick Goltzius",
+      "unFixedName": "Goltzius, Hendrick",
+      "placeOfBirth": "Bracht",
+      "dateOfBirth": "1558-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1617-01-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Hendrick Goltzius (jan-1558 - 01-jan-1617), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick Goltzius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1886-04-20T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Haarlem",
+    "Haarlem",
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1612 - 1614",
+    "sortingDate": 1612,
+    "period": 17,
+    "yearEarly": 1612,
+    "yearLate": 1614
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(PAUL THE HERMIT)33"
+    ],
+    "iconClassDescription": [
+      "St. Paul the Hermit in the desert, with a long beard and wearing a loincloth of woven palm-leaves, is fed with bread by a raven"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1886-A-10444"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 226",
+    "226",
+    "Hollstein Dutch 363",
+    "363"
+  ],
+  "principalOrFirstMaker": "Hendrick Goltzius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "148"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Paulus de Kluizenaar (Elia?) gevoed door raven, Hendrick Goltzius (attributed to), 1612 - 1614",
+  "subTitle": "h 148mm \u00d7 w 130mm",
+  "scLabelLine": "Hendrick Goltzius, 1612 - 1614, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

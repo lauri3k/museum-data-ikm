@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-76.228",
+  "priref": "575535",
+  "objectNumber": "RP-P-OB-76.228",
+  "language": "en",
+  "title": "Tabernakel met Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c8a93c53-860b-4435-8e1f-c6fd7da397b1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1668,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/xxT8eMMWrnKTeTgLC4Gl2lh2X4x7EnBPgYWADh1khc6GEfoCqUOWJSBVhEPZrwJ8dSLELbdUwkS7KeaUfBxHbGC0lx-B=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Tabernakel met Doornenkroning",
+    "Tabernacoli da ornare e abellire di Altari"
+  ],
+  "description": "Tabernakel met in een medaillon Christus met de doornenkroon op het hoofd tussen twee soldaten. Prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Galle (II)",
+      "unFixedName": "Galle, Cornelis (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1615",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-10-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Galle (II) (1615 - 18-okt-1678), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Franz Ertinger",
+      "unFixedName": "Ertinger, Franz",
+      "placeOfBirth": "Weil of Colmar",
+      "dateOfBirth": "1640",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Franz Ertinger (1640 - c. ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Franz Ertinger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1997-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1658 - 1678",
+    "sortingDate": 1658,
+    "period": 17,
+    "yearEarly": 1658,
+    "yearLate": 1678
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352",
+      "11Q7143",
+      "11Q73241"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)",
+      "tabernacle ~ altar",
+      "chalice bearing the Host"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-76.228"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Orn Cat II 9469-9473",
+    "9469-9473"
+  ],
+  "principalOrFirstMaker": "Franz Ertinger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "226"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "145"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Tabernakel met Doornenkroning, Franz Ertinger, c. 1658 - 1678",
+  "subTitle": "h 226mm \u00d7 w 145mm",
+  "scLabelLine": "Franz Ertinger, c. 1658 - 1678, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

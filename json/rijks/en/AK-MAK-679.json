@@ -1,0 +1,248 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-679",
+  "priref": "1413",
+  "objectNumber": "AK-MAK-679",
+  "language": "en",
+  "title": "Jar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b1dbd2cf-6e31-455c-ac46-93e0b5ace26e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2874,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/CTFs529XZ9hrx7451bPsrqNn8VvkAfSwm0pQFtoh9odu5Xo10QgoODn85k_jiNg2Xa7Ud1cDc65CeGWEyFcB1Jiauhk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 55,
+      "hex": "#CFC9BD"
+    },
+    {
+      "percentage": 15,
+      "hex": " #7A6E53"
+    },
+    {
+      "percentage": 15,
+      "hex": " #574B32"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8F8674"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A8A093"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2D2215"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F3F0EC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CFC9BD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7A6E53",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #574B32",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8F8674",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A8A093",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #2D2215",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F3F0EC",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 55,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 30,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Ovoid jar with a yellow green glaze and laquer"
+  ],
+  "description": "Eivormige pot van steengoed, bedekt met een groen glazuur. De onderzijde is ongeglazuurd. De rand is gebroken geweest en is gerestaureerd met goudlak en lakwerk beschilderd met esdoornbladeren, prunusbloesems en plevieren met golven. Oud label op de onderzijde met 'W511'. Seto.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze",
+    "gold (metal)",
+    "lacquer (coating)"
+  ],
+  "techniques": [
+    "painting",
+    "lacquering",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1300 - c. 1499",
+    "sortingDate": 1300,
+    "period": 13,
+    "yearEarly": 1300,
+    "yearLate": 1499
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-679"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "16"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "14.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "19.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "11.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Jar, anonymous, anonymous, c. 1300 - c. 1499",
+  "subTitle": "h 16cm \u00d7 d 14.4cm",
+  "scLabelLine": "Japan, Seto, c. 1300\u20131500, stoneware",
+  "label": {
+    "title": "Jar",
+    "makerLine": "Japan, Seto, c. 1300\u20131500, stoneware",
+    "description": "In Japan cracks in pottery are not repaired to be as invisible as possible, but rather are emphasized with gold lacquer. Usually the restorations are done with plain gold lacquer, but the restored cracks on this jar are exceptionally elaborately ornamented with maple leaves, cherry blossoms, and plovers and waves.",
+    "notes": null,
+    "date": "2017-10-08"
+  },
+  "showImage": true,
+  "location": null
+}

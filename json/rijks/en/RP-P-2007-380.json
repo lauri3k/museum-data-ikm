@@ -1,0 +1,262 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2007-380",
+  "priref": "452952",
+  "objectNumber": "RP-P-2007-380",
+  "language": "en",
+  "title": "Spotprent op de terugtocht van Napoleon uit Rusland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2643fe7e-d479-4f92-a8b3-804bf584c1a8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 4322,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/fix0dsTb-QGWzt362YQs0AhafTjagcA2qB38m1GH-20-hhfPLgjb8ibpj7m4wHHezmKskigsEtFsTWNtWsUvb7EWS6gOKTz2-y9f68U=s0"
+  },
+  "colors": [
+    {
+      "percentage": 60,
+      "hex": "#F5F1E5"
+    },
+    {
+      "percentage": 18,
+      "hex": " #DBD0BA"
+    },
+    {
+      "percentage": 8,
+      "hex": " #BBAE97"
+    },
+    {
+      "percentage": 3,
+      "hex": " #766650"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9C9383"
+    },
+    {
+      "percentage": 3,
+      "hex": " #8F7F68"
+    },
+    {
+      "percentage": 1,
+      "hex": " #554938"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F1E5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DBD0BA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BBAE97",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #766650",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9C9383",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8F7F68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #554938",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 79,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Spotprent op de terugtocht van Napoleon uit Rusland",
+    "Le D\u00e9jeuner \u00e0 la Fourchette"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jean-Jacques Blaise",
+      "unFixedName": "Blaise, Jean-Jacques",
+      "placeOfBirth": null,
+      "dateOfBirth": "1777",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1836",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean-Jacques Blaise (c. 1777 - 1836), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gottfried Schadow",
+      "unFixedName": "Schadow, Gottfried",
+      "placeOfBirth": "Berlijn",
+      "dateOfBirth": "1764-05-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1850-01-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Gottfried Schadow (20-mei-1764 - 27-jan-1850)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gottfried Schadow",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2007-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "after 1813",
+    "sortingDate": 1813,
+    "period": 19,
+    "yearEarly": 1813,
+    "yearLate": 1813
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44C312",
+      "45L13"
+    ],
+    "iconClassDescription": [
+      "political caricatures and satires",
+      "retreat of the defeated"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Rusland"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2007-380"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gottfried Schadow",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "450"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Spotprent op de terugtocht van Napoleon uit Rusland, Gottfried Schadow, after 1813",
+  "subTitle": "h 210mm \u00d7 w 450mm",
+  "scLabelLine": "Gottfried Schadow, after 1813, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-1412",
+  "priref": "87318",
+  "objectNumber": "RP-P-1910-1412",
+  "language": "en",
+  "title": "Portret van Charles Grey",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Charles Grey",
+    "Lord Grey"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "August Kneisel",
+      "unFixedName": "Kneisel, August",
+      "placeOfBirth": null,
+      "dateOfBirth": "1782-01-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1855",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object August Kneisel (25-jan-1782 - 1855)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "C\u00e4cilie Brandt",
+      "unFixedName": "Brandt, C\u00e4cilie",
+      "placeOfBirth": null,
+      "dateOfBirth": "1814",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object C\u00e4cilie Brandt (1814 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "C\u00e4cilie Brandt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1832",
+    "sortingDate": 1832,
+    "period": 19,
+    "yearEarly": 1832,
+    "yearLate": 1832
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31B2"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "vision"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Charles"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-1412"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Grey, Charles"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "HAB A8158",
+    "A8158"
+  ],
+  "principalOrFirstMaker": "C\u00e4cilie Brandt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "245"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Charles Grey, C\u00e4cilie Brandt, 1832",
+  "subTitle": "h 245mm \u00d7 w 178mm",
+  "scLabelLine": "C\u00e4cilie Brandt, 1832, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

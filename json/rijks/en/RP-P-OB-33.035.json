@@ -1,0 +1,219 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-33.035",
+  "priref": "192259",
+  "objectNumber": "RP-P-OB-33.035",
+  "language": "en",
+  "title": "H. Joris doodt de draak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a0813b81-6d8c-4d6f-ab96-6a927397bb37",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1845,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/pEXbTTmCTX7YfVUbV7BcXj81mQYqzDtMBVqGNxnoX55nfsXSvZY-AT5p-H5Qc3LdyooilscoPmr6N815zFXRMPxpjMUH=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. Joris doodt de draak"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Lucas Vorsterman (I)",
+      "unFixedName": "Vorsterman, Lucas (I)",
+      "placeOfBirth": "Zaltbommel",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1675",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Lucas Vorsterman (I) (1595 - 1675)"
+    },
+    {
+      "name": "Karel I (koning van Engeland)",
+      "unFixedName": "Karel I (koning van Engeland)",
+      "placeOfBirth": "Dunfermline",
+      "dateOfBirth": "1600-11-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1649-01-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Karel I (koning van Engeland) (19-nov-1600 - 30-jan-1649)"
+    },
+    {
+      "name": "Willem Herbert 3de graaf van Pembroke",
+      "unFixedName": "Pembroke, Willem Herbert 3de graaf van",
+      "placeOfBirth": null,
+      "dateOfBirth": "1580",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1630",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "Earl"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem Herbert 3de graaf van Pembroke (1580 - 1630)"
+    },
+    {
+      "name": "Lucas Vorsterman (I)",
+      "unFixedName": "Vorsterman, Lucas (I)",
+      "placeOfBirth": "Zaltbommel",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1675",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lucas Vorsterman (I) (1595 - 1675)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Lucas Vorsterman (I)",
+      "unFixedName": "Vorsterman, Lucas (I)",
+      "placeOfBirth": "Zaltbommel",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1675",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "Lucas Vorsterman (I) (1595 - 1675), England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas Vorsterman (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1627",
+    "sortingDate": 1627,
+    "period": 17,
+    "yearEarly": 1627,
+    "yearLate": 1627
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-33.035"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 80",
+    "80"
+  ],
+  "principalOrFirstMaker": "Lucas Vorsterman (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "302"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "220"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "H. Joris doodt de draak, Lucas Vorsterman (I), 1627",
+  "subTitle": "h 302mm \u00d7 w 220mm",
+  "scLabelLine": "Lucas Vorsterman (I), 1627, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,179 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-21636",
+  "priref": "807285",
+  "objectNumber": "RP-F-00-21636",
+  "language": "en",
+  "title": "Tsikhis - Dziri",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Tsikhis - Dziri",
+    "The Black Sea coast of the Caucasus"
+  ],
+  "description": "De titel op object staat ook in het Russisch.",
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "I. Milanova",
+      "unFixedName": "Milanova, I.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "I. Milanova"
+    },
+    {
+      "name": "Izogiz",
+      "unFixedName": "Izogiz",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Izogiz"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Mikhail Trakhman",
+      "unFixedName": "Trakhman, Mikhail",
+      "placeOfBirth": "Moskou",
+      "dateOfBirth": "1918-10-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1976",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Moskou",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Mikhail Trakhman (05-okt-1918 - 1976)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Mikhail Trakhman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1956",
+    "sortingDate": 1956,
+    "period": 20,
+    "yearEarly": 1956,
+    "yearLate": 1956
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H2322"
+    ],
+    "iconClassDescription": [
+      "sea"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Tsikhisdziri"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-21636"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Mikhail Trakhman",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "105"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cardboard",
+  "longTitle": "Tsikhis - Dziri, Mikhail Trakhman, 1956",
+  "subTitle": "h c.150mm \u00d7 w c.105mm",
+  "scLabelLine": "Mikhail Trakhman, 1956, cardboard",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

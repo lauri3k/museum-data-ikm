@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1743-126",
+  "priref": "719958",
+  "objectNumber": "RP-F-2001-7-1743-126",
+  "language": "en",
+  "title": "Eikenhouten sculptuur van de heilige Ursula",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e113cf1c-3a9e-45d5-8537-7d2f7271e433",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1840,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/ot1rYkck2hqnnVPXyzprrvuN0N3yCV7h07wOSDsuKNzYFaHCctqmx_LJsyEIg7ogy-fTfB0RKwZz2Y9D-cvTOfiA6nNq9-zju-LN_qns=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Eikenhouten sculptuur van de heilige Ursula",
+    "Sculptures, XVIe Si\u00e8cle"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Joseph Maes",
+      "unFixedName": "Maes, Joseph",
+      "placeOfBirth": "Gent",
+      "dateOfBirth": "1838",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1908",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Joseph Maes (1838 - 1908), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype",
+    "photolithography"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1881 - in or before 1889",
+    "sortingDate": 1881,
+    "period": 19,
+    "yearEarly": 1881,
+    "yearLate": 1889
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C2",
+      "11HH(URSULA)"
+    ],
+    "iconClassDescription": [
+      "sculpture",
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1743-126"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "'Keuze uit de aanwinsten : fotografie', Bulletin van het Rijksmuseum, 50 (2002) 2, p. 341-343, p. 342 (afb.), nr. 15."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "341"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "234"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Eikenhouten sculptuur van de heilige Ursula, anonymous, c. 1881 - in or before 1889",
+  "subTitle": "h 341mm \u00d7 w 234mm",
+  "scLabelLine": "anonymous, c. 1881 - in or before 1889, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

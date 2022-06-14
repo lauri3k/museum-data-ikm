@@ -1,0 +1,272 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-5321",
+  "priref": "18446",
+  "objectNumber": "NG-NM-5321",
+  "language": "en",
+  "title": "Spice Container in the Shape of the Tower of Saint John\u2019s Cathedral in Den Bosch",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "05cc31d5-2061-49b6-97a0-4e8b31504b1e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1090,
+    "height": 2808,
+    "url": "https://lh4.ggpht.com/AMdDfidgfnJTNRRF9HNThf8ZhQKtlzGwILBvbKP859Qh89sj8rXoaQMPNkCV_I2SKfDOZE_1oieAx9-WE577sS4usS8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 82,
+      "hex": "#D7D5D0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B5B1A7"
+    },
+    {
+      "percentage": 5,
+      "hex": " #938E85"
+    },
+    {
+      "percentage": 2,
+      "hex": " #736E63"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F9F8F7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #544E43"
+    },
+    {
+      "percentage": 0,
+      "hex": " #372F25"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D7D5D0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B5B1A7",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #938E85",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #736E63",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F9F8F7",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #544E43",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #372F25",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 82,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 82,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Spice Container in the Shape of the Tower of Saint John\u2019s Cathedral in Den Bosch"
+  ],
+  "description": "Specerijenpot van zilver, in de vorm van een toren, bestaande uit drie op elkaar sluitende, achtkantige delen, omgeven door vier balustrades. De pot wordt bekroond door een torenspits met windvaan en rust op een gegoten voet en acht bolpootjes. Over zeven zijden van alle delen is een gedicht gegraveerd.",
+  "labelText": null,
+  "objectTypes": [
+    "salt (condiment vessel)"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Flushing"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Flushing"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [
+    "forging",
+    "casting",
+    "striking (metalworking)",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Flushing"
+  ],
+  "dating": {
+    "presentingDate": "1629",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I155"
+    ],
+    "iconClassDescription": [
+      "tower, clock tower ~ monumental adornment"
+    ],
+    "motifs": [],
+    "events": [
+      "Tachtigjarige Oorlog",
+      "Inname van Den Bosch (1629)"
+    ],
+    "periods": [
+      "16291629"
+    ],
+    "places": [
+      "'s-Hertogenbosch",
+      "Sint-Janskathedraal"
+    ],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)",
+      "Jansen, Pieter"
+    ],
+    "objectNumbers": [
+      "NG-NM-5321"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)",
+    "Jansen, Pieter"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap.",
+    "H.G. van Grol, 'De Bossche Toren in de Jacobsstraat 1629-1929', De Vlissingsche Courant (30 november 1929).",
+    "Nieuwe Rotterdamse Courant (30 november 1929), p. 1.",
+    "M. Rosenberg, Der Goldschmiede Merkzeichen, dritte Auflage, IV, Frankfurt am Main 1928, nr. 7732.",
+    "Ch.C.V. Verreyt, 'De zilveren St. Janstoren : een gedachtenis aan het beleg van 's-Hertogenbosch in 1629', Taxandria XXVII (1920).",
+    "L. te V., 'Toren van Pieter Jansen te Vlissingen', De Navorscher (1854), p. 145.",
+    "P. Fret, 'Toren van Pieter Jansen te Vlissingen', De Navorscher (1853), p. 145.",
+    "J.W. te Water, Inhuldiginge van Willem V als erfheer van Vlissingen, 1776, p. 52."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "38.6"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "628"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "forging",
+  "longTitle": "Spice Container in the Shape of the Tower of Saint John\u2019s Cathedral in Den Bosch, anonymous, 1629",
+  "subTitle": "h 38.6cm \u00d7 w 628gr \u00d7 d 10.6cm",
+  "scLabelLine": "silver, c. 1629",
+  "label": {
+    "title": "Spice Container in the Shape of the Tower of Saint John\u2019s Cathedral in Den Bosch",
+    "makerLine": "silver, c. 1629",
+    "description": "According to the poem inscribed on this tower, during the negotiations of Den Bosch\u2019s surrender, Pieter Jansen of Vlissingen (Flushing) raised an orange flag on the Den Bosch cathedral\u2019s spire. As a reward he is given a sum of money and this spice container, commissioned by the\nproud city of Vlissingen (Flushing). The lines of verse praise Frederick Henry as the \u2018conqueror\u2019 of Den Bosch, which is why his armorial bearings adorn the tower.",
+    "notes": null,
+    "date": "2018-11-28"
+  },
+  "showImage": true,
+  "location": null
+}

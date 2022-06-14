@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-828",
+  "priref": "4425",
+  "objectNumber": "AK-MAK-828",
+  "language": "en",
+  "title": "Teabowl with a red glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a360c173-0747-4c2f-a90d-6e65e6edf5ce",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/Eub0kd8bTuCd5IXsQxQGASnd56QFkj0Ny-9GMhLekabvv02UI1WKM-CpJ2J6K99l7Yg_wZil9eNN_EI4_DwIjZBS75NV=s0"
+  },
+  "colors": [
+    {
+      "percentage": 63,
+      "hex": "#CECDCB"
+    },
+    {
+      "percentage": 10,
+      "hex": " #938881"
+    },
+    {
+      "percentage": 9,
+      "hex": " #7A695F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B7A598"
+    },
+    {
+      "percentage": 5,
+      "hex": " #5F5045"
+    },
+    {
+      "percentage": 2,
+      "hex": " #4C2B1E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E5E4E3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CECDCB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #938881",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7A695F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B7A598",
+      "normalizedHex": "#DDA5AA"
+    },
+    {
+      "originalHex": " #5F5045",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4C2B1E",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #E5E4E3",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 25,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #DDA5AA"
+    },
+    {
+      "percentage": 2,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Teabowl with a red glaze"
+  ],
+  "description": "Theekom van steengoed, bedekt met een gecraqueleerd rood glazuur. Raku (rood).",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Kyoto"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Kyoto"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan",
+    "Kyoto"
+  ],
+  "dating": {
+    "presentingDate": "c. 1800 - c. 1899",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-828"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "9.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Teabowl with a red glaze, anonymous, anonymous, c. 1800 - c. 1899",
+  "subTitle": "h 8.7cm \u00d7 d 9.8cm",
+  "scLabelLine": "anonymous, c. 1800 - c. 1899, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

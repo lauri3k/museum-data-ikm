@@ -1,0 +1,118 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-934",
+  "priref": "694081",
+  "objectNumber": "RP-F-2001-7-934",
+  "language": "en",
+  "title": "Historische tentoonstelling van Amsterdam, gehouden in den zomer van 1876 / [red. D.C. Meijer jr. en P.H. Witkamp]",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4ef4fdf6-b957-4fc2-a6b3-957e24d53237",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1958,
+    "url": "https://lh3.googleusercontent.com/DNqTO4APiK4RC40bMKj9bHFvmZJ4KY15gKU_Qgh9eudKW-35m0Ggh3fGWnpUMCFw44jY4heMGxlAtchixNxTFazcnhc5cQkcxzF1SiE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Historische tentoonstelling van Amsterdam, gehouden in den zomer van 1876 / [red. D.C. Meijer jr. en P.H. Witkamp]"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "book"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anoniem",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "linen (material)",
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "printing",
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1876",
+    "sortingDate": 1876,
+    "period": 19,
+    "yearEarly": 1876,
+    "yearLate": 1876
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-934"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "245"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    },
+    {
+      "unit": "mm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "41"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing",
+  "longTitle": "Historische tentoonstelling van Amsterdam, gehouden in den zomer van 1876 / [red. D.C. Meijer jr. en P.H. Witkamp], 1876",
+  "subTitle": "h 245mm \u00d7 w 170mm \u00d7 t 41mm",
+  "scLabelLine": "1876, printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

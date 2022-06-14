@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-31-31",
+  "priref": "666014",
+  "objectNumber": "RP-P-2016-31-31",
+  "language": "en",
+  "title": "Redding van Petrus door Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2e61e2ec-2621-45dd-a24e-4be8a944d773",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1931,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/uyDWwCeINmmkTZ6lv97X3cozpZhpTI6mxQtGa6aSZ0D2VjKS1xzEnWNbOAHCGGUy4_GrVaoNMf_yBSGDN6WfkFyOliWlTCNtIQ0L_fQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Redding van Petrus door Christus",
+    "Het leven van Christus"
+  ],
+  "description": "Redding van Petrus door Christus. Onderdeel van een prentalbum met titelprent en 56 sc\u00e8nes uit het Nieuwe Testament. Elke voorstelling gemonteerd in een gravure met ornamentele cartouches waarin een venster is gesneden en voorzien van handgeschreven bijbelpassages.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Monogrammist HSD",
+      "unFixedName": "Monogrammist HSD",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Monogrammist HSD, Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Monogrammist HSD",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2016-03-24T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1570 - c. 1610",
+    "sortingDate": 1570,
+    "period": 16,
+    "yearEarly": 1570,
+    "yearLate": 1610
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73C324"
+    ],
+    "iconClassDescription": [
+      "Christ saves Peter from drowning"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2016-31-31"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 41",
+    "41",
+    "Hollstein Dutch 13-72",
+    "13-72"
+  ],
+  "principalOrFirstMaker": "Monogrammist HSD",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "40"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "60"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "175"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "115"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Redding van Petrus door Christus, Monogrammist HSD (possibly), c. 1570 - c. 1610",
+  "subTitle": "h c.40mm \u00d7 w c.60mm",
+  "scLabelLine": "Monogrammist HSD, c. 1570 - c. 1610, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

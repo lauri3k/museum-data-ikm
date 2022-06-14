@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1981-4",
+  "priref": "14277",
+  "objectNumber": "BK-1981-4",
+  "language": "en",
+  "title": "Decorative object",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b397f7ea-f432-483b-a05f-cfc9aab0e619",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1888,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/lGLP-fFprp3ABEzF5uYZNZBPq-uKy77SAQ2Tr1qmCgBPMuBiUJHVpCIYf_FHRlcgaKxgwjH-FFkXMh07I7Pe4fl-3YM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 61,
+      "hex": "#B1B9BF"
+    },
+    {
+      "percentage": 15,
+      "hex": " #919DA9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #67707E"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2D7D8"
+    },
+    {
+      "percentage": 4,
+      "hex": " #435069"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EFF0F0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2C3546"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B1B9BF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #919DA9",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #67707E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D2D7D8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #435069",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EFF0F0",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #2C3546",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 61,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 15,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 10,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 4,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 14,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [],
+  "description": "Decoratief object van aardewerk, beschilderd in blauw op wit tinglazuur met chinoiserien in de stijl van het Chinese overgangsporselein. Ornamenten bovenop en op de voet.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "Lambertus Cleffius",
+      "unFixedName": "Cleffius, Lambertus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Lambertus Cleffius, Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "De Metaale Pot",
+      "unFixedName": "De Metaale Pot",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to De Metaale Pot, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "De Metaale Pot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1981-01-01T00:00:00",
+    "creditLine": "Gift of A.M. Aronson-Stigter, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1680 - c. 1690",
+    "sortingDate": 1680,
+    "period": 17,
+    "yearEarly": 1680,
+    "yearLate": 1690
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32B3311(+4)"
+    ],
+    "iconClassDescription": [
+      "Chinese (+ other cultural aspects)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1981-4"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "De Metaale Pot",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "25"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": null,
+  "longTitle": "Decorative object, De Metaale Pot (attributed to), c. 1680 - c. 1690",
+  "subTitle": "h c.25cm",
+  "scLabelLine": "attributed to De Metaale Pot (Lambertus Cleffius), Delft, c. 1680\u20131690, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Decorative object",
+    "makerLine": "attributed to De Metaale Pot (Lambertus Cleffius), Delft, c. 1680\u20131690, tin-glazed earthenware (faience)",
+    "description": "Objects such as this were formerly called wig stands. However, as they occur in many different shapes and sizes, they were most likely not actually used for wigs. They may simply have been decorative objects without a specific purpose. The painted Chinese figures have almost black contours, which are filled in with tints of blue.",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

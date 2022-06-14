@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1225-18",
+  "priref": "701863",
+  "objectNumber": "RP-F-2001-7-1225-18",
+  "language": "en",
+  "title": "Reproductie van een prent van Johannes de Doper door Martin Schongauer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0956aa50-02d8-4528-908c-d1df5448414c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1772,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/YPTID0odxwk-IqCqGNTxi7nFl02zT1BkCBKBNNyjEaoQZ7__FnhDBrKVLWSDZknTuPYGa-T3mrKJjQErvEyaBqSMTZLjTfz6toTr0Q0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Reproductie van een prent van Johannes de Doper door Martin Schongauer"
+  ],
+  "description": "Deze prent maakt deel uit van een omslag met 24 prenten op 24 bladen.",
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Simonau & Toovey",
+      "unFixedName": "Simonau & Toovey",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Brussels"
+      ],
+      "qualification": null,
+      "labelDesc": "Simonau & Toovey, Brussels"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Simonau & Toovey",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "? Brussels"
+  ],
+  "dating": {
+    "presentingDate": "c. 1867 - in or before 1872",
+    "sortingDate": 1867,
+    "period": 19,
+    "yearEarly": 1867,
+    "yearLate": 1872
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1225-18"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Simonau & Toovey",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "102"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Reproductie van een prent van Johannes de Doper door Martin Schongauer, Simonau & Toovey, c. 1867 - in or before 1872",
+  "subTitle": "h 151mm \u00d7 w 102mm",
+  "scLabelLine": "Simonau & Toovey, c. 1867 - in or before 1872, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

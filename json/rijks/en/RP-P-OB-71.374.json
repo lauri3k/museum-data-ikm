@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-71.374",
+  "priref": "212530",
+  "objectNumber": "RP-P-OB-71.374",
+  "language": "en",
+  "title": "H. Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f82e067c-ec50-4b08-970b-1a1bce2acf92",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1928,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/4Nf-7GCaZ9D0440-6BRYA77fi7sTnxh8i1ywtCAJIUyYveWC1BAOdORkkwUXXMpD-MtLoWrChPX1PuVySGiQRp1Rj0XxAH-Pgid--qE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. Johannes de Doper",
+    "Etsen naar schilderijen uit de collectie Br\u00fchl",
+    "Recueil d'estampes grav\u00e9es d'apr\u00e8s les tableaux de la galerie de S.E.M. le Comte de Br\u00fchl"
+  ],
+  "description": "Genummerd rechtsonder: 38.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pierre Etienne Moitte",
+      "unFixedName": "Moitte, Pierre Etienne",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1722-01-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1780-09-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pierre Etienne Moitte (01-jan-1722 - 04-sep-1780)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pierre Etienne Moitte",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1754",
+    "sortingDate": 1754,
+    "period": 18,
+    "yearEarly": 1754,
+    "yearLate": 1754
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-71.374"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 4",
+    "4"
+  ],
+  "principalOrFirstMaker": "Pierre Etienne Moitte",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "276"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "209"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "H. Johannes de Doper, Pierre Etienne Moitte, 1754",
+  "subTitle": "h 276mm \u00d7 w 209mm",
+  "scLabelLine": "Pierre Etienne Moitte, 1754, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

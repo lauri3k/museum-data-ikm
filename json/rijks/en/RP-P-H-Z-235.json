@@ -1,0 +1,155 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-H-Z-235",
+  "priref": "33352",
+  "objectNumber": "RP-P-H-Z-235",
+  "language": "en",
+  "title": "Verheerlijking van Maria",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4579140e-a6ea-44fc-bdb6-f692223ced76",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2110,
+    "height": 2922,
+    "url": "https://lh6.ggpht.com/PGvzzg6IPar_LfGV9OnjmamBmY_ss3uBU1k7aIKFQ33u-i0SLWwo0IjnyCKsjlLTA-3JOqL27VOgjYri413GPWPNrds=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Verheerlijking van Maria",
+    "Leven van Maria"
+  ],
+  "description": "Maria zit in een vertrek met het Christuskind op schoot, omringd door engelen en heiligen (Jozef, Catharina, Johannes de Doper, Hi\u00ebronymus, Antonius, Paulus en - hoewel niet helemaal zeker - Augustinus). Deze prent is onderdeel van een serie van 20 prenten, bestaand uit een titelprent en 19 prenten met sc\u00e8nes uit het leven van Maria.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Albrecht D\u00fcrer",
+      "unFixedName": "D\u00fcrer, Albrecht",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1471-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1528-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albrecht D\u00fcrer (24-mei-1471 - 05-apr-1528)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albrecht D\u00fcrer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "On loan from the Rijksakademie van Beeldende Kunsten"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1500 - 1504",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1504
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F61",
+      "11H(PAUL)",
+      "11H(JOSEPH)",
+      "11H(ANTONY ABBOT)",
+      "11H(JOHN THE BAPTIST)",
+      "11H(JEROME)",
+      "11H(AUGUSTINE)",
+      "11H(CATHERINE)"
+    ],
+    "iconClassDescription": [
+      "Madonna accompanied by saint(s)",
+      "the apostle Paul of Tarsus; possible attributes: book, scroll, sword",
+      "the foster-father of Christ, Joseph of Nazareth, husband of Mary; possible attributes: flowering rod or wand, lily, carpenter's tools",
+      "the hermit Antony Abbot (Antonius Abbas) of Egypt, also called the Great; possible attributes: bell, book, T-shaped staff, flames, pig",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "the monk and hermit Jerome (Hieronymus); possible attributes: book, cardinal's hat, crucifix, hour-glass, lion, skull, stone",
+      "Augustine, bishop of Hippo; possible attributes: arrows piercing his breast, book, child with spoon, flaming heart, heart (pierced with arrows), pen",
+      "male saints (with NAME)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-H-Z-235"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 95",
+    "95",
+    "Meder 207",
+    "207"
+  ],
+  "principalOrFirstMaker": "Albrecht D\u00fcrer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "298"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "214"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Verheerlijking van Maria, Albrecht D\u00fcrer, 1500 - 1504",
+  "subTitle": "h 298mm \u00d7 w 214mm",
+  "scLabelLine": "Albrecht D\u00fcrer, 1500 - 1504, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

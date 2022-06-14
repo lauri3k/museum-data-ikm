@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-551",
+  "priref": "2271",
+  "objectNumber": "AK-MAK-551",
+  "language": "en",
+  "title": "Two vases",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9b01f964-3a8d-48e2-8594-ac43e7a16448",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/EcLVdBjBf6OcT7zQUZl4BV6nkUVVv8jkPkj3NGK5u8hgdwsMD2kBlYSY6uBzXHlor0OxH2mNoXPQ6zR_f9gJwQitJWMy=s0"
+  },
+  "colors": [
+    {
+      "percentage": 63,
+      "hex": "#BCBBB0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #898475"
+    },
+    {
+      "percentage": 9,
+      "hex": " #DDDDDB"
+    },
+    {
+      "percentage": 2,
+      "hex": " #7B6351"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5A4234"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F8F8F3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3E3027"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BCBBB0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #898475",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #DDDDDB",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #7B6351",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #5A4234",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #F8F8F3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3E3027",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 22,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Ovoid jar with two grapevines"
+  ],
+  "description": "Eivormige pot van steengoed, gedeeltelijk bedekt met een wit slib en beschilderd in onderglazuur rood. De bovenzijde van de pot is bedekt met een wit slib. Vanuit de schouder naar de buik tweemaal een druivenrank. Oud label op de onderzijde met 'Korea, 17e/ Saml. Breuer, kat 36'.",
+  "labelText": null,
+  "objectTypes": [
+    "pot"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "painting",
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1699",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-551"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "H.F.E. Visser, Asiatic art in private collections in Holland and Belgium, Amsterdam, 1948, nr. 258, pl. 125."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "21.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "13"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "23.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "11.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Two vases, anonymous, c. 1600 - c. 1699",
+  "subTitle": "h 21.4cm \u00d7 d 13cm",
+  "scLabelLine": "Korea, 18th century, porcelain",
+  "label": {
+    "title": "Two vases",
+    "makerLine": "Korea, 18th century, porcelain",
+    "description": "Craftsmen in Korea produced both refined porcelain objects and utilitarian ware in a more rustic style. The attraction of the latter lay in their artless decoration with playful motifs and their somewhat irregular forms. Here the decoration has been applied in red beneath the glaze. It was difficult to obtain a bright red colour.",
+    "notes": null,
+    "date": "2013-04-03"
+  },
+  "showImage": true,
+  "location": "AK-2"
+}

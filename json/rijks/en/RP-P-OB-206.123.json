@@ -1,0 +1,177 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-206.123",
+  "priref": "557891",
+  "objectNumber": "RP-P-OB-206.123",
+  "language": "en",
+  "title": "De provincie Zeeland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3809e584-3491-405c-aa97-a09ae1efad7c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1991,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/6e--M53BWndvzmhiSsogvBf-2rPac65qEPjHYFPs1Ljs_PIHhSK5-Q7z9TIVCymkKcbSOGQUTaoz1ULNjx869BJ0xL8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De provincie Zeeland",
+    "Prenten-magazijn voor de jeugd",
+    "Aardrijkskunde"
+  ],
+  "description": "Blad met 4 voorstellingen over de provincie Zeeland met een kaart en belangrijke gebeurtenissen en monumenten: de gebroeders Naerebout redden 87 schipbreukelingen, de brand in de Sint-Lievensmonsterkerk te Zierikzee in 1832 en het standbeeld van Jacob Cats in Brouwershaven. Boven elke voorstelling een titel en onder elke voorstelling een onderschrift. Genummerd rechtsboven: No. 7, genummerd rechtsonder: (1.).",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jan Schuitemaker",
+      "unFixedName": "Schuitemaker, Jan",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Schuitemaker"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Willem Bal",
+      "unFixedName": "Bal, Willem",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1808",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1897-01-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem Bal (1808 - 16-jan-1897), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Bal",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1850",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1850
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A",
+      "25I152",
+      "46C291"
+    ],
+    "iconClassDescription": [
+      "kaarten, atlassen",
+      "monument, statue",
+      "shipwreck"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Brouwershaven",
+      "Zeeland",
+      "Zierikzee",
+      "Sint-Lievensmonsterkerk"
+    ],
+    "people": [
+      "Cats, Jacob (1577-1660)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-206.123"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Cats, Jacob (1577-1660)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Bal",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "415"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "330"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "De provincie Zeeland, Willem Bal, 1850",
+  "subTitle": "h 415mm \u00d7 w 330mm",
+  "scLabelLine": "Willem Bal, 1850, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

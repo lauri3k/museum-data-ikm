@@ -1,0 +1,269 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6104",
+  "priref": "97314",
+  "objectNumber": "RP-P-BI-6104",
+  "language": "en",
+  "title": "Perseus en Andromeda",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9e20b276-c279-403a-ac79-9699b5ffd254",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1797,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/4oLZ4VFgDBwA4gQ2cNNd5S7ib7_LhgVkcdvkjZUZ1zfdmaIox0tC32N6AsPrceMAgx6dFTYVmmQ0IpMSzAha1mtgBwHK=s0"
+  },
+  "colors": [
+    {
+      "percentage": 23,
+      "hex": "#A09787"
+    },
+    {
+      "percentage": 20,
+      "hex": " #44413A"
+    },
+    {
+      "percentage": 16,
+      "hex": " #686155"
+    },
+    {
+      "percentage": 15,
+      "hex": " #897F6D"
+    },
+    {
+      "percentage": 14,
+      "hex": " #BFB299"
+    },
+    {
+      "percentage": 5,
+      "hex": " #EEEBDE"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D9CCB3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A09787",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #44413A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #686155",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #897F6D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BFB299",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #EEEBDE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D9CCB3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 14,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 20,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 14,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Perseus en Andromeda"
+  ],
+  "description": "Andromeda, de dochter van een Ethiopische koning, is vastgeketend aan een rots. Op de achtergrond verslaat Perseus het zeemonster om Andromeda te kunnen komen redden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Philips Galle",
+      "unFixedName": "Galle, Philips",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1537",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1612-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philips Galle (1537 - 29-mrt-1612), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Collaert (II)",
+      "unFixedName": "Collaert, Jan (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1566",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1628-05-26",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Collaert (II) (1566 - c. 26-mei-1628), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Collaert (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "exchange",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1576 - 1628",
+    "sortingDate": 1576,
+    "period": 16,
+    "yearEarly": 1576,
+    "yearLate": 1628
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94P211"
+    ],
+    "iconClassDescription": [
+      "Perseus kills the sea monster (or turns it into stone by showing it the Gorgon's head) to release Andromeda; sometimes her parents Cepheus and Cassiopea watch the scene"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6104"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 1171",
+    "1171"
+  ],
+  "principalOrFirstMaker": "Jan Collaert (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "235"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "167"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Perseus en Andromeda, Jan Collaert (II), 1576 - 1628",
+  "subTitle": "h 235mm \u00d7 w 167mm",
+  "scLabelLine": "Jan Collaert (II), 1576 - 1628, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

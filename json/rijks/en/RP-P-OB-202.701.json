@@ -1,0 +1,185 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-202.701",
+  "priref": "542424",
+  "objectNumber": "RP-P-OB-202.701",
+  "language": "en",
+  "title": "Vierhandige dieren",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "989700d8-f6c5-464d-a716-5fae3e96d0ad",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1973,
+    "url": "https://lh3.googleusercontent.com/Jwj4ag_w1_8i6c7Ej4MgbGBeW3qrODHDJeM29rrVh5yUvYH6d3-AzA0r4_spXixNhVMi1-8uLiu58O26dFLRs2WuHpU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Vierhandige dieren",
+    "Nieuwe Nederlandsche kinderprenten",
+    "Funke's prenten"
+  ],
+  "description": "Blad met 6 voorstellingen van apen, onder andere een gorilla, een orang\u2013oetang en een chimpansee. Onder elke afbeelding een onderschrift. Genummerd rechtsboven: No. 28.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jan de Haan",
+      "unFixedName": "Haan, Jan de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan de Haan, Haarlem"
+    },
+    {
+      "name": "Emrik & Binger",
+      "unFixedName": "Emrik & Binger",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Emrik & Binger, Haarlem"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Monogrammist A.K.",
+      "unFixedName": "Monogrammist A.K.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Monogrammist A.K."
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Monogrammist A.K.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1875 - 1903",
+    "sortingDate": 1875,
+    "period": 19,
+    "yearEarly": 1875,
+    "yearLate": 1903
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F22"
+    ],
+    "iconClassDescription": [
+      "monkeys, apes"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-202.701"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Monogrammist A.K.",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "346"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "443"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Vierhandige dieren, Monogrammist A.K., 1875 - 1903",
+  "subTitle": "h 346mm \u00d7 w 443mm",
+  "scLabelLine": "Monogrammist A.K., 1875 - 1903, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

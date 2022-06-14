@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1993-363",
+  "priref": "316694",
+  "objectNumber": "RP-P-1993-363",
+  "language": "en",
+  "title": "Heilige Joris en de draak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0db3db8f-334c-4db6-94f4-d66736aeb796",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2046,
+    "url": "https://lh3.googleusercontent.com/z5UvmuiF5iQSNnxYsFe5zLkHX4IJ5xMyuilPFKgBfDgLhDWz_c7AtZzqbnpHrz_vIaVVHP9lu5etzZRQ5Yb1wWynNadXO7xGOPAhLQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Joris en de draak"
+  ],
+  "description": "In een glooiend landschap met bomen heeft, in het midden, de H. Joris de draak verslagen. Hij overhandigt het koord waaraan de dode draak vastzit aan de jonkvrouw. Achter haar drie verschrikte dienstmaagden. Op de voorgrond drie andere vrouwen met twee kleine kinderen. Een dode vrouw ligt links op de grond bij het paard van de H. Joris. In de lucht twee putti met lauwerkransen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jean Charles Levasseur",
+      "unFixedName": "Levasseur, Jean Charles",
+      "placeOfBirth": "Abbeville",
+      "dateOfBirth": "1734-10-21",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-11-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Charles Levasseur (21-okt-1734 - 29-nov-1816), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jean Charles Levasseur",
+      "unFixedName": "Levasseur, Jean Charles",
+      "placeOfBirth": "Abbeville",
+      "dateOfBirth": "1734-10-21",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-11-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Charles Levasseur (21-okt-1734 - 29-nov-1816), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Charles Levasseur",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1993-01-01T00:00:00",
+    "creditLine": "Gift of the heirs of I.Q. van Regteren Altena, Amersfoort"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "France",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1744 - 1816",
+    "sortingDate": 1744,
+    "period": 18,
+    "yearEarly": 1744,
+    "yearLate": 1816
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)",
+      "25FF411"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "dragon"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1993-363"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "Jean Charles Levasseur",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "364"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "440"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Heilige Joris en de draak, Jean Charles Levasseur, 1744 - 1816",
+  "subTitle": "h 364mm \u00d7 w 440mm",
+  "scLabelLine": "Jean Charles Levasseur, 1744 - 1816, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

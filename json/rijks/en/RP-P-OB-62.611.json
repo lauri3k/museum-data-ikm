@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-62.611",
+  "priref": "189132",
+  "objectNumber": "RP-P-OB-62.611",
+  "language": "en",
+  "title": "Portret van Lady Jane Grey",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "404f1bc2-4357-4946-bcfe-71bbee8903c9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1675,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/Nced3Vi3b_LhufLFH7CWtBnDvkHIgl7KZOOnQWYsVVlAPvuDv69DnOzqrh3Ol-VCzD6q0FtZxVW1jmhtb6O_C26uCg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Lady Jane Grey",
+    "Titelpagina vor: Rhijnvis Feith, Ladij Johanna Graij, 1791"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Allart",
+      "unFixedName": "Allart, Johannes",
+      "placeOfBirth": "Windesheim",
+      "dateOfBirth": "1754-03-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-11-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Allart (31-mrt-1754 - 08-nov-1816)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Reinier Vinkeles (I)",
+      "unFixedName": "Vinkeles, Reinier (I)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1741-06-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1816-01-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Reinier Vinkeles (I) (19-jun-1741 - 30-jan-1816), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Reinier Vinkeles (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1791",
+    "sortingDate": 1791,
+    "period": 18,
+    "yearEarly": 1791,
+    "yearLate": 1791
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Lady Jane"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-62.611"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Grey, Lady Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Reinier Vinkeles (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "238"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Lady Jane Grey, Reinier Vinkeles (I), 1791",
+  "subTitle": "h 238mm \u00d7 w 157mm",
+  "scLabelLine": "Reinier Vinkeles (I), 1791, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

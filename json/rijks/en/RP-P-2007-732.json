@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2007-732",
+  "priref": "452799",
+  "objectNumber": "RP-P-2007-732",
+  "language": "en",
+  "title": "Atelier",
+  "copyrightHolder": "Bruno van Dijck",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Atelier"
+  ],
+  "description": "Interieur van een werkplaats met balkenzoldering, volle kasten en voorwerpen op de vloer.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bruno Van Dijck",
+      "unFixedName": "Van Dijck, Bruno",
+      "placeOfBirth": null,
+      "dateOfBirth": "1953",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Belgium"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Bruno Van Dijck (1953 - ....), Belgium"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bruno Van Dijck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2007-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "drypoint"
+  ],
+  "productionPlaces": [
+    "Belgium"
+  ],
+  "dating": {
+    "presentingDate": "1984",
+    "sortingDate": 1984,
+    "period": 20,
+    "yearEarly": 1984,
+    "yearLate": 1984
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48B11"
+    ],
+    "iconClassDescription": [
+      "workshop, studio of the artist (in general)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2007-732"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bruno Van Dijck",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "285"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "371"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drypoint",
+  "longTitle": "Atelier, Bruno Van Dijck, 1984",
+  "subTitle": "h 285mm \u00d7 w 371mm",
+  "scLabelLine": "Bruno Van Dijck, 1984, drypoint",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

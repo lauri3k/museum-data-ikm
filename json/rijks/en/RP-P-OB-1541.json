@@ -1,0 +1,224 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-1541",
+  "priref": "33453",
+  "objectNumber": "RP-P-OB-1541",
+  "language": "en",
+  "title": "Heilige Brigitta",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c9dd1473-1856-475d-9f7d-94cf472ad437",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1960,
+    "height": 2712,
+    "url": "https://lh3.ggpht.com/b32Ujae5bCq_nlQ778bMljrGnVOxEx-P1w-OjLN8KAr39L2fe-BNI6V0O74Q2Pde5wK-ci24O3EYrec7drIrg3Ebtq3k=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#F7F4E9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #D9D5C2"
+    },
+    {
+      "percentage": 9,
+      "hex": " #AFAB9B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #827E70"
+    },
+    {
+      "percentage": 4,
+      "hex": " #656154"
+    },
+    {
+      "percentage": 26,
+      "hex": " #413F36"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F4E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D9D5C2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #AFAB9B",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #827E70",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #656154",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #413F36",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 31,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 26,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Heilige Brigitta"
+  ],
+  "description": "De Heilige Brigitta, knielend voor een visioen van Christus, een knapzak en een hoed voor zich.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Albrecht D\u00fcrer",
+      "unFixedName": "D\u00fcrer, Albrecht",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1471-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1528-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "circle of",
+      "labelDesc": "circle of Albrecht D\u00fcrer (24-mei-1471 - 05-apr-1528)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Albrecht D\u00fcrer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1503",
+    "sortingDate": 1503,
+    "period": 16,
+    "yearEarly": 1503,
+    "yearLate": 1503
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(BRIDGET)"
+    ],
+    "iconClassDescription": [
+      "the foundress of the Order of Bri(d)gettines, the widow Bridget (Birgitta) of Sweden; possible attributes: band over veil with five red spots, book, candle, heart with cross, inkhorn, pilgrim's hat, staff, wallet"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-1541"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 526",
+    "526",
+    "Hollstein German 23",
+    "23"
+  ],
+  "principalOrFirstMaker": "Albrecht D\u00fcrer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "61"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "43"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Heilige Brigitta, Albrecht D\u00fcrer (circle of), 1503",
+  "subTitle": "h 61mm \u00d7 w 43mm",
+  "scLabelLine": "Albrecht D\u00fcrer, 1503, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

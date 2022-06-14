@@ -1,0 +1,125 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1983-267",
+  "priref": "567625",
+  "objectNumber": "RP-T-1983-267",
+  "language": "en",
+  "title": "Composition with Lines and Rectangles",
+  "copyrightHolder": "erven Lou Loeber",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Los schetsboekblad uit een map met 58 schetsboekbladen en ontwerptekeningen.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lou Loeber",
+      "unFixedName": "Loeber, Lou",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1894-05-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1983-02-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Laren",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lou Loeber (03-mei-1894 - 02-feb-1983)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lou Loeber",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1983-01-01T00:00:00",
+    "creditLine": "Gift of L.M. Koning-Loeber"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor (paint)",
+    "chalk",
+    "pencil"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1929 - 1955",
+    "sortingDate": 1929,
+    "period": 20,
+    "yearEarly": 1929,
+    "yearLate": 1955
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1983-267"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lou Loeber",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "185"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Composition with Lines and Rectangles, Lou Loeber, 1929 - 1955",
+  "subTitle": "h 223mm \u00d7 w 185mm",
+  "scLabelLine": "Lou Loeber (1894-1983), ink, watercolour, chalk, pencil, c. 1929-1955",
+  "label": {
+    "title": "Composition with Lines and Rectangles",
+    "makerLine": "Lou Loeber (1894-1983), ink, watercolour, chalk, pencil, c. 1929-1955",
+    "description": "In this drawing the pipes below and above the sink, and the red doorpost at the right form clear-cut contour lines. They delineate planes, marking the first step toward simplifying the composition. This was worked out further in a painting of 1929, although there too Loeber stopped short of complete abstraction, which she felt would have been too elitist.",
+    "notes": null,
+    "date": "2018-07-09"
+  },
+  "showImage": false,
+  "location": null
+}

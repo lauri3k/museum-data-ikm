@@ -1,0 +1,251 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.947",
+  "priref": "464944",
+  "objectNumber": "RP-P-OB-81.947",
+  "language": "en",
+  "title": "Romeinse triomfboog in Orange, 1639",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3a0bb713-4cbe-4c64-b4e8-e0460a2ed4f1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1972,
+    "height": 2898,
+    "url": "https://lh6.ggpht.com/A9b18t7zrVgww7NG5x2HHr5QBOjzXgA8NheODfAd1VO_DT7lXcFN57bN4SbcSPiZXj9_Rcrkn69rTn2nDNQ2E_caKKri=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#E9E5D6"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FAFAF6"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A7A295"
+    },
+    {
+      "percentage": 7,
+      "hex": " #CDC8B9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #847F72"
+    },
+    {
+      "percentage": 1,
+      "hex": " #6B675C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4D4B41"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E9E5D6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FAFAF6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A7A295",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #CDC8B9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #847F72",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6B675C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4D4B41",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 88,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Romeinse triomfboog in Orange, 1639",
+    "Face occidentale"
+  ],
+  "description": "Zijaanzicht van de Romeinse triomfboog in Orange. Gemerkt rechtsonder: Pag. 25.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean Beuf",
+      "unFixedName": "Beuf, Jean",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Beuf, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Beuf",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1637 - 1640",
+    "sortingDate": 1637,
+    "period": 17,
+    "yearEarly": 1637,
+    "yearLate": 1640
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A422"
+    ],
+    "iconClassDescription": [
+      "triumphal arch"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-81.947"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 323, nr. 2211/6."
+  ],
+  "catRefRPK": [
+    "FMH 2211",
+    "2211",
+    "IFF 5",
+    "5",
+    "IFF 13",
+    "13"
+  ],
+  "principalOrFirstMaker": "Jean Beuf",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "261"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "198"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Romeinse triomfboog in Orange, 1639, Jean Beuf, 1637 - 1640",
+  "subTitle": "h 261mm \u00d7 w 198mm",
+  "scLabelLine": "Jean Beuf, 1637 - 1640, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

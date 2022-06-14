@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1980-435",
+  "priref": "419538",
+  "objectNumber": "RP-P-1980-435",
+  "language": "en",
+  "title": "Gezicht op de parterre van de tuin bij de Orangerie van het Ch\u00e2teau de Chantilly",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de parterre van de tuin bij de Orangerie van het Ch\u00e2teau de Chantilly",
+    "Ve\u00fce du Chateau de Chantilli prise du parterre de l'Orangerie"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jacques Rigaud",
+      "unFixedName": "Rigaud, Jacques",
+      "placeOfBirth": "Marseille",
+      "dateOfBirth": "1681",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1754",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Jacques Rigaud (c. 1681 - c. 1754), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1980-01-01T00:00:00",
+    "creditLine": "Gift of Jonkvrouw C.I. Six, 's-Graveland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "etching",
+    "brush"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1700 - 1799",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A6",
+      "41A65",
+      "41A651",
+      "41A67",
+      "47I53",
+      "25G3(ORANGE-TREE)",
+      "41A1"
+    ],
+    "iconClassDescription": [
+      "garden",
+      "water-works in garden",
+      "garden fountain",
+      "ornamental plants",
+      "greenhouse, orangery",
+      "trees: orange-tree",
+      "civic architecture; edifices; dwellings"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ch\u00e2teau de Chantilly"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1980-435"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "229"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "466"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de parterre van de tuin bij de Orangerie van het Ch\u00e2teau de Chantilly, anonymous, 1700 - 1799",
+  "subTitle": "h 229mm \u00d7 w 466mm",
+  "scLabelLine": "anonymous, 1700 - 1799, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

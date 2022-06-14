@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2941",
+  "priref": "9477",
+  "objectNumber": "SK-A-2941",
+  "language": "en",
+  "title": "Still Life with Zinnias in a green Jar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f9a378bb-07c7-47c6-ba4e-0d50cdb12d6f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2332,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/zWumKXql5xqGyddgiFb1D9s80Zo9yrnqQVXhrqHLD6DXm9DkKFeyEKArcCxFDAybWbWGsndkNCSm-eQt7uJa1NgnNgI7GKdm4Py5kNsk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Still Life with Zinnias in a green Jar"
+  ],
+  "description": "Stilleven met bloemen: paarse en groene zinnia's in een groene gemberpot.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Floris Verster",
+      "unFixedName": "Verster, Floris",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1861-06-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1927-01-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Floris Verster (09-jun-1861 - 21-jan-1927)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Floris Verster",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1922-04-01T00:00:00",
+    "creditLine": "A. van Wezel Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1910",
+    "sortingDate": 1910,
+    "period": 20,
+    "yearEarly": 1910,
+    "yearLate": 1910
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A6711",
+      "25G41"
+    ],
+    "iconClassDescription": [
+      "flowers in a vase",
+      "flowers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2941"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Floris Verster",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "24.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "19"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Still Life with Zinnias in a green Jar, Floris Verster, 1910",
+  "subTitle": "h 24.3cm \u00d7 w 19cm \u00d7 d 6.5cm",
+  "scLabelLine": "Floris Verster, 1910, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

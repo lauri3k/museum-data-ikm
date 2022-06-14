@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2317",
+  "priref": "5989",
+  "objectNumber": "SK-A-2317",
+  "language": "en",
+  "title": "Italian Landscape",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "19408c8c-52fe-4534-96c5-89f3e2216803",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2029,
+    "url": "https://lh3.googleusercontent.com/dDJHC39OnAyDrw13IkD8NqCUb7GrSw7VXiMLYH8a64U9_I4ljq9Vfrl7eiN2XDi6pNaguiCqJdHNENE-1Won9Iprcu0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#3A3A33"
+    },
+    {
+      "percentage": 19,
+      "hex": " #7C868A"
+    },
+    {
+      "percentage": 13,
+      "hex": " #9FA49B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #644F28"
+    },
+    {
+      "percentage": 7,
+      "hex": " #201A0D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #5C615C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #917D4C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3A3A33",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7C868A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9FA49B",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #644F28",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #201A0D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5C615C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #917D4C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 19,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Italian Landscape"
+  ],
+  "description": "Italiaans landschap. Op de weg staat een kar getrokken door ossen, langs de weg een herder met vee.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaes Pietersz Berchem",
+      "unFixedName": "Berchem, Nicolaes Pietersz",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1620",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1683-02-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Nicolaes Pietersz Berchem (1620 - 18-feb-1683)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaes Pietersz Berchem",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1650 - 1683",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1683
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1424",
+      "47I221",
+      "25H1123"
+    ],
+    "iconClassDescription": [
+      "two-wheeled vehicle drawn by more than three animals",
+      "herding, herdsman, herdswoman, shepherd, shepherdess, cowherd, etc.",
+      "rock-formations"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2317"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolaes Pietersz Berchem",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "65"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "81"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Italian Landscape, Nicolaes Pietersz Berchem, 1650 - 1683",
+  "subTitle": "h 65cm \u00d7 w 81cm",
+  "scLabelLine": "Nicolaes Pietersz Berchem (c. 1621\u20131683), oil on canvas, 1650\u20131683",
+  "label": {
+    "title": "Italian Landscape",
+    "makerLine": "Nicolaes Pietersz Berchem (c. 1621\u20131683), oil on canvas, 1650\u20131683",
+    "description": "It is not certain whether Berchem ever travelled to Italy, but he excelled in rendering idealized scenes of the Italian countryside. His paintings were in great demand precisely because they included all the popular clich\u00e9s: mountainous landscapes, warm light, hazy blue distances, bright skies and, of course, herders and\nshepherds with their cattle and sheep at watering holes or resting in the cool shade.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.17"
+}

@@ -1,0 +1,143 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1949-451-13",
+  "priref": "756432",
+  "objectNumber": "RP-P-1949-451-13",
+  "language": "en",
+  "title": "Chlo\u00eb in het riet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ac606ad2-0b3d-4aac-8ac4-8d05ac1375b1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1624,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/CkMV-g64KCewc9P4HcH3M_RXjZWPkOVWWOhG9tAwHMl29MBpGXgibSn67x3mPXbsJLBjVr9kcKZHXmzRjh0LE3-Fb0bHmtryXaa19OEd=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Chlo\u00eb in het riet",
+    "Chlo\u00e9 au milieu des roseaux"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Aristide Maillol",
+      "unFixedName": "Maillol, Aristide",
+      "placeOfBirth": "Banyuls-sur-Mer",
+      "dateOfBirth": "1861-12-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1944-09-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Banyuls-sur-Mer",
+      "occupation": [
+        "print maker",
+        "sculptor",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Aristide Maillol (25-dec-1861 - 24-sep-1944)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Aristide Maillol",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1949-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1937",
+    "sortingDate": 1937,
+    "period": 20,
+    "yearEarly": 1937,
+    "yearLate": 1937
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)",
+      "47G541",
+      "82A(DAPHNIS)",
+      "82AA(CHLOE)"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed",
+      "reeds, rushes ~ building material",
+      "Daphnis (in Greek mythology a shepherd who invented pastoral poetry",
+      "Chloe"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1949-451-13"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Aristide Maillol",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "198"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "131"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Chlo\u00eb in het riet, Aristide Maillol, 1937",
+  "subTitle": "h 198mm \u00d7 w 131mm",
+  "scLabelLine": "Aristide Maillol, 1937, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

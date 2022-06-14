@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F01090-AI",
+  "priref": "276987",
+  "objectNumber": "RP-F-F01090-AI",
+  "language": "en",
+  "title": "Fotoreproductie van een schilderij door Bartolom\u00e9 Esteban Murillo, voorstellend Johannes de Doper als kind",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f8f53d59-48aa-4fcc-ab94-81772ce4a108",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1727,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/LDh38kCEU5t14eGs_SnUM0FiBFjv12v8AwGYTsBymPfwVctO3eBu1PcfG6YjV2-I5pOpWBP1lVOotr1V79IVtaXfYpn0BmJgUUyW6DMUqw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Fotoreproductie van een schilderij door Bartolom\u00e9 Esteban Murillo, voorstellend Johannes de Doper als kind",
+    "Kais. Gem\u00e4ldegalerie. Wien. Murillo Johannes der Taufer als Kind"
+  ],
+  "description": "Onderdeel van Reisalbum met foto's van bezienswaardigheden in Duitsland en Oostenrijk en van kunstwerken.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1870 - c. 1900",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F01090-AI"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "138"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Fotoreproductie van een schilderij door Bartolom\u00e9 Esteban Murillo, voorstellend Johannes de Doper als kind, anonymous, c. 1870 - c. 1900",
+  "subTitle": "h 138mm \u00d7 w 94mm",
+  "scLabelLine": "anonymous, c. 1870 - c. 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

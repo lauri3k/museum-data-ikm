@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-206.093",
+  "priref": "557764",
+  "objectNumber": "RP-P-OB-206.093",
+  "language": "en",
+  "title": "Ridder weekhart",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f9bbecc6-fe10-422a-9aea-929a583e63cc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1818,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/2sUSthIWXMala_QJEAj_7lUg2W7BxFR8Hz5rrpZUqa8hKm8j16lxB0uSb3LyNS9Ufl5MbNsxqQmrw3mRkCXrY5-nqY8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ridder weekhart",
+    "Imagerie Artistique / S\u00e9rie 15"
+  ],
+  "description": "Blad met 9 voorstellingen van ridder Weekhart en zijn schildknaap, die een prinses redden van een draak. Onder elke afbeelding een onderschrift. Genummerd linksboven: S\u00e9rie 15. - No. 16.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Albert Quantin",
+      "unFixedName": "Quantin, Albert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1850",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1933",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Albert Quantin (1850 - 1933), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Martin",
+      "unFixedName": "Martin",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Martin"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Martin",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1898",
+    "sortingDate": 1898,
+    "period": 19,
+    "yearEarly": 1898,
+    "yearLate": 1898
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84",
+      "46A124",
+      "44B15122",
+      "46A1252",
+      "25FF411"
+    ],
+    "iconClassDescription": [
+      "verhalen en sprookjes",
+      "knight",
+      "princess",
+      "shield-bearer, squire",
+      "dragon"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-206.093"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Martin",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "369"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "265"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Ridder weekhart, Martin, 1898",
+  "subTitle": "h 369mm \u00d7 w 265mm",
+  "scLabelLine": "Martin, 1898, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

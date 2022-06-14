@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-344",
+  "priref": "44433",
+  "objectNumber": "RP-P-1908-344",
+  "language": "en",
+  "title": "Portret van een onbekende man, mogelijk Nicol. Grey of Caspar Pusch",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2183d0eb-1567-40f9-b14c-ca94c5144452",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1883,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/vvZsep14hyELLfahMYtom557WVQMYvXwlh5vJ819lkxGxoZB1IkAX2Y6F899G_TV6Q4m3lfS1118YikLwhR1zPt2dxA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een onbekende man, mogelijk Nicol. Grey of Caspar Pusch"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Friedrich Leonard",
+      "unFixedName": "Leonard, Johann Friedrich",
+      "placeOfBirth": "Duinkerke",
+      "dateOfBirth": "1633",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1680",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Berlijn",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Friedrich Leonard (1633 - 1680)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Friedrich Leonard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1669",
+    "sortingDate": 1669,
+    "period": 17,
+    "yearEarly": 1669,
+    "yearLate": 1669
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Nicol.",
+      "Pusch, Caspar"
+    ],
+    "objectNumbers": [
+      "RP-P-1908-344"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Grey, Nicol.",
+    "Pusch, Caspar"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Archiv f\u00fcr die zeichnenden K\u00fcnste 186",
+    "186"
+  ],
+  "principalOrFirstMaker": "Johann Friedrich Leonard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "127"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van een onbekende man, mogelijk Nicol. Grey of Caspar Pusch, Johann Friedrich Leonard, 1669",
+  "subTitle": "h 127mm \u00d7 w 94mm",
+  "scLabelLine": "Johann Friedrich Leonard, 1669, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

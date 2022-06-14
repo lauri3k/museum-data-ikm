@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-C-198",
+  "priref": "4869",
+  "objectNumber": "SK-C-198",
+  "language": "en",
+  "title": "Adriaan van der Hoop\u2019s Trotter \u2018De Rot\u2019 at the Coach House",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e3060650-5a88-4621-9bb6-deb0597a2615",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2272,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/0NY1LLx1hbmj6PjH_QxgK2F6wgwhqu6attT-P56hPOOmbruSMxS-gm6XJQ019KUffVzyaVOVNqX-r10LqD1cWXs1xVa4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 20,
+      "hex": "#A59E86"
+    },
+    {
+      "percentage": 5,
+      "hex": " #261D16"
+    },
+    {
+      "percentage": 20,
+      "hex": " #8A6348"
+    },
+    {
+      "percentage": 6,
+      "hex": " #403527"
+    },
+    {
+      "percentage": 32,
+      "hex": " #9B8B5A"
+    },
+    {
+      "percentage": 14,
+      "hex": " #60583D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A59E86",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #261D16",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8A6348",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #403527",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #9B8B5A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #60583D",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 53,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 14,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 12,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Het renpaard of harddraver 'De Rot' van Adriaan van der Hoop bij het koetshuis met een deken over de rug. Op de achtergrond een man bij een koets, links een emmer.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Anthony Oberman",
+      "unFixedName": "Oberman, Anthony",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1781-07-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1845-10-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Anthony Oberman (25-jul-1781 - 20-okt-1845)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anthony Oberman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-06-30T00:00:00",
+    "creditLine": "On loan from the City of Amsterdam (A. van der Hoop Bequest)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1828",
+    "sortingDate": 1828,
+    "period": 19,
+    "yearEarly": 1828,
+    "yearLate": 1828
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A52",
+      "46C13141"
+    ],
+    "iconClassDescription": [
+      "coach-house",
+      "horse"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-C-198"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Rijksmuseum Kunstkrant (1976) dec.",
+    "Jhr. Drs. C.C.G. Quarles van Ufford, 'Een paard voor de stal Anthony Oberman (1781-1845)', Openbaar Kunstbezit 14 (1970) nr. 4, 12a,b.",
+    "J. Knoef, 'De verzamelaar A. van der Hoop', Amstelodamum Jaarboek 42, p. 10, 13."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anthony Oberman",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "61"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "54.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Adriaan van der Hoop\u2019s Trotter \u2018De Rot\u2019 at the Coach House, Anthony Oberman, 1828",
+  "subTitle": "h 61cm \u00d7 w 54.5cm",
+  "scLabelLine": "Anthony Oberman (1781-1845), oil on canvas, 1828",
+  "label": {
+    "title": "Adriaan van der Hoop\u2019s Trotter \u2018De Rot\u2019 at the Coach House",
+    "makerLine": "Anthony Oberman (1781-1845), oil on canvas, 1828",
+    "description": "The prizewinning racehorse \u2018De Rot\u2019 wears a decorated bridle, and its tail is tied up and embellished with a rosette in the latest fashion \u00e0 l\u2019anglaise (in the English manner). In the coach house are no fewer than two carriages, one in fashionable yellow matching that of the horse-blanket on the animal\u2019s back. The initials of its owner, Van der Hoop, are on the green bucket.",
+    "notes": null,
+    "date": "2013-01-08"
+  },
+  "showImage": true,
+  "location": "HG-1.14"
+}

@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1988-115",
+  "priref": "307273",
+  "objectNumber": "RP-T-1988-115",
+  "language": "en",
+  "title": "Self Portrait",
+  "copyrightHolder": "erven Elly Tamminga",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Self Portrait"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Elly Tamminga",
+      "unFixedName": "Tamminga, Elly",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1896-12-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1983-09-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Bussum",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Elly Tamminga (14-dec-1896 - 17-sep-1983)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Elly Tamminga",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1988-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "gouache (paint)",
+    "pencil"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1906 - 1983",
+    "sortingDate": 1906,
+    "period": 20,
+    "yearEarly": 1906,
+    "yearLate": 1983
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C513",
+      "61BB2"
+    ],
+    "iconClassDescription": [
+      "portrait, self-portrait of painter",
+      "historical persons - BB - woman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Tamminga, Elly"
+    ],
+    "objectNumbers": [
+      "RP-T-1988-115"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Tamminga, Elly"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Elly Tamminga",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "193"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Self Portrait, Elly Tamminga, 1906 - 1983",
+  "subTitle": "h 223mm \u00d7 w 193mm",
+  "scLabelLine": "Elly Tamminga (1896-1983), opaque watercolour, c. 1920-1955",
+  "label": {
+    "title": "Self Portrait",
+    "makerLine": "Elly Tamminga (1896-1983), opaque watercolour, c. 1920-1955",
+    "description": "Elly Tamminga peers at the subject she is painting outside the picture plane. The paintbrushes in the vase are her tools. The sailing boat and the silhouetted village with a church tower on the embankment behind her are small and therefore farther away in the distance. Atmospheric perspective is avoided, however, and volume is suggested only by the two shades of red in her face and of blue in her hair.",
+    "notes": null,
+    "date": "2018-07-09"
+  },
+  "showImage": false,
+  "location": null
+}

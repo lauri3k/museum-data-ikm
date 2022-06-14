@@ -1,0 +1,303 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-84.180",
+  "priref": "483893",
+  "objectNumber": "RP-P-OB-84.180",
+  "language": "en",
+  "title": "Overlijden van prins Willem IV, 1751",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e0d655f8-3ad2-48c4-87d6-5eda68c78a40",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1931,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/Fy-7WbF-MnZvhkGJoLsVTQCHkCPebnBxW6obzhsB7SYtB42hBZHOlL-GP_kN7ckYVWe0HherVfunhh09Otzcp-4jzSE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 72,
+      "hex": "#F1EBD2"
+    },
+    {
+      "percentage": 3,
+      "hex": " #868272"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A5A08D"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C5BFAA"
+    },
+    {
+      "percentage": 3,
+      "hex": " #312F25"
+    },
+    {
+      "percentage": 13,
+      "hex": " #5B584C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F1EBD2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #868272",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A5A08D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C5BFAA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #312F25",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5B584C",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#FFF8DC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Overlijden van prins Willem IV, 1751",
+    "Sterfbedde, en ter Gedagtenisse, van Zyne Doorluchtige Hoogheid, Willem Carel Henrick Friso, Prinse van Orange en Nassauw (...)"
+  ],
+  "description": "Overlijden van prins Willem IV, 22 oktober 1751. Interieur van paleis Huis ten Bosch met links het sterfbed van de prins met huilende vrouw en kinderen; rechts een doorkijk door de deur naar het paradebed, zonder bezoekers en zonder het opgebaarde lichaam van de prins. Op het blad onder de plaat een vers in twee kolommen op het overlijden van de prins.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    },
+    {
+      "name": "Bernardus Mourik",
+      "unFixedName": "Mourik, Bernardus",
+      "placeOfBirth": null,
+      "dateOfBirth": "1708",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1791",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Bernardus Mourik (1708 - 1791), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1751",
+    "sortingDate": 1751,
+    "period": 18,
+    "yearEarly": 1751,
+    "yearLate": 1751
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31E12",
+      "42E122"
+    ],
+    "iconClassDescription": [
+      "deathbed",
+      "lying in state"
+    ],
+    "motifs": [],
+    "events": [
+      "Dood van Willem IV (1751)"
+    ],
+    "periods": [
+      "1751-10-221751-10-22"
+    ],
+    "places": [
+      "Paleis Huis ten Bosch"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-84.180"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 189-190, nr. 4024b."
+  ],
+  "catRefRPK": [
+    "FMH 4024",
+    "4024",
+    "Atlas van Stolk 4025",
+    "4025"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "154"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "243"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "525"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "410"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Overlijden van prins Willem IV, 1751, anonymous, 1751",
+  "subTitle": "h 154mm \u00d7 w 243mm",
+  "scLabelLine": "anonymous, 1751, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,262 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-1221",
+  "priref": "1513",
+  "objectNumber": "AK-MAK-1221",
+  "language": "en",
+  "title": "Vase with a green glaze and two handles",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4a832610-72a4-4b18-8ba5-9492a8ad0aef",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2163,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/KpjU7JiSY2fGYTp3teCBezPzUe_J90mbsjYNhJXW5rpUY92g_DZQ5IoNkdT-LO7ewx3TXQhauI_BKxb3IcLpXWZ0ZUY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#F0EFEC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B0AEA0"
+    },
+    {
+      "percentage": 60,
+      "hex": " #D4D2CA"
+    },
+    {
+      "percentage": 18,
+      "hex": " #75705E"
+    },
+    {
+      "percentage": 8,
+      "hex": " #403B2F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #1A1710"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0EFEC",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #B0AEA0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D4D2CA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #75705E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #403B2F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #1A1710",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 60,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Vase with a green glaze and two handles"
+  ],
+  "description": "Vaas van steengoed met twee oren op de schouder, gedeeltelijk bedekt met een celadongroen glazuur. De buik is ingedeukt en op de nek viermaal een ingegrift kruis. Het onderste deel van de vaas is ongeglazuurd. Oud handelaarslabel op de onderzijde met 'N.V. Hammer - Far Eastern Art New York/ 440'. Iga.",
+  "labelText": null,
+  "objectTypes": [
+    "vase"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of N. Vadim-Hammer)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1699",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-1221"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "26.7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "14.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "11.8"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "17.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Vase with a green glaze and two handles, anonymous, anonymous, c. 1600 - c. 1699",
+  "subTitle": "h 26.7cm \u00d7 d 10.5cm",
+  "scLabelLine": "anonymous, c. 1600 - c. 1699, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

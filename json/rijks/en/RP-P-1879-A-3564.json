@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1879-A-3564",
+  "priref": "166929",
+  "objectNumber": "RP-P-1879-A-3564",
+  "language": "en",
+  "title": "Figuur ligt in een roeiboot op een meer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "904607a6-95e5-4a3d-ace8-45fb15a4f4fa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1963,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/zLwgxLKTr4xmcqSrR8VbP8kw-HerEJGkrn1MTRkDYWARa8xpNuv0i5kKpZhlvSef8ty9P73eGQfGWU4a5tVf2qSd9rRGMVgb617z0AaV=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Figuur ligt in een roeiboot op een meer",
+    "La barque",
+    "Cahier d'\u00e9tudes eau-fortes originales et in\u00e9dites"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "F\u00e9lix Callewaert (p\u00e8re)",
+      "unFixedName": "Callewaert, F\u00e9lix (p\u00e8re)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Brussels"
+      ],
+      "qualification": null,
+      "labelDesc": "F\u00e9lix Callewaert (p\u00e8re), Brussels"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "F\u00e9licien Rops",
+      "unFixedName": "Rops, F\u00e9licien",
+      "placeOfBirth": "Namen (stad)",
+      "dateOfBirth": "1833-07-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1898-08-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Corbeil-Essonnes",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "F\u00e9licien Rops (07-jul-1833 - 22-aug-1898)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "F\u00e9licien Rops",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1879-11-01T00:00:00",
+    "creditLine": "Gift of A. Alleb\u00e9, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Brussels"
+  ],
+  "dating": {
+    "presentingDate": "1875",
+    "sortingDate": 1875,
+    "period": 19,
+    "yearEarly": 1875,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C232",
+      "25H214",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "rowing-boat, canoe, etc.",
+      "lake",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1879-A-3564"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Rouir 753",
+    "753"
+  ],
+  "principalOrFirstMaker": "F\u00e9licien Rops",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "197"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "127"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Figuur ligt in een roeiboot op een meer, F\u00e9licien Rops, 1875",
+  "subTitle": "h 197mm \u00d7 w 127mm",
+  "scLabelLine": "F\u00e9licien Rops, 1875, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

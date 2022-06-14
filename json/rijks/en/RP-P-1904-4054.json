@@ -1,0 +1,166 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-4054",
+  "priref": "337809",
+  "objectNumber": "RP-P-1904-4054",
+  "language": "en",
+  "title": "Allegorische voorstelling van de Rede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "68cf105c-948d-409f-8527-979df07b7ada",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1937,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/fO0oQcGzTIqjGAVDmDhyQbhoR5Vrg4d5OmX2rtIji2LJAnSf5DxndYKrEC4L7j7qxEOgfzQ8zkgrvcLVERBNJhXhE0M=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Allegorische voorstelling van de Rede",
+    "De Reden"
+  ],
+  "description": "Rede zit bij een altaar, met een teugel om haar arm en een zwaard op haar schoot. Haar voeten steunt zij op een wereldbol. Zij wordt geflankeerd door twee allegorische figuren. Boven hen kijkt vanuit de wolken Vrede toe. Linksonder wendt een figuur met een gebroken zwaard en een uitwaaiende fakkel zijn blik af. Onder de prent de titel.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "J. van Ledden Hulsebosch",
+      "unFixedName": "Ledden Hulsebosch, J. van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object J. van Ledden Hulsebosch"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Willem van Senus",
+      "unFixedName": "Senus, Willem van",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1773-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1851-01-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Aalsmeer",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem van Senus (aug-1773 - 15-jan-1851)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem van Senus",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-12-05T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1802 - 1819",
+    "sortingDate": 1802,
+    "period": 19,
+    "yearEarly": 1802,
+    "yearLate": 1819
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45A20",
+      "52A51",
+      "52A6",
+      "11M31"
+    ],
+    "iconClassDescription": [
+      "symbols, allegories of peace, 'Pax'; 'Pace' (Ripa)",
+      "Wisdom; 'Sapienza', 'Sapienza humana', 'Sapienza vera' (Ripa)",
+      "Truth; 'Verit\u00c3\u00a0' (Ripa)",
+      "Faith, 'Fides'; 'Fede', 'Fede catholica', 'Fede christiana', 'Fede christiana catholica' (Ripa) ~ one of the Three Theological Virtues"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1904-4054"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem van Senus",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "578"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "428"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Allegorische voorstelling van de Rede, Willem van Senus, 1802 - 1819",
+  "subTitle": "h 578mm \u00d7 w 428mm",
+  "scLabelLine": "Willem van Senus, 1802 - 1819, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

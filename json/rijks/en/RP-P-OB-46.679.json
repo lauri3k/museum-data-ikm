@@ -1,0 +1,221 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-46.679",
+  "priref": "135336",
+  "objectNumber": "RP-P-OB-46.679",
+  "language": "en",
+  "title": "Farao's leger verdrinkt in de Rode Zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "252aa03d-c7e7-4a01-a179-5d205511d976",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3960,
+    "height": 2756,
+    "url": "https://lh5.ggpht.com/_vcPTc4KNtVR3k95TkED9ONLA71w7nqEVBT03CBkyCeLu4jEsjYSkO6_4sA4C8zR-JejwJBcRzcaeRTAEC8RxbxtOUE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#CCC6B3"
+    },
+    {
+      "percentage": 22,
+      "hex": " #A7A392"
+    },
+    {
+      "percentage": 20,
+      "hex": " #636056"
+    },
+    {
+      "percentage": 15,
+      "hex": " #848072"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E9E5CF"
+    },
+    {
+      "percentage": 2,
+      "hex": " #41413B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FCFBF4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CCC6B3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A7A392",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #636056",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #848072",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E9E5CF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #41413B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #FCFBF4",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Farao's leger verdrinkt in de Rode Zee"
+  ],
+  "description": "Mozes wordt omringd door Isra\u00eblieten die dankbaar zijn voor de veilige overtocht. Hij wijst met zijn roede naar de Rode Zee om het water terug te laten vloeien zodat de Egyptenaren hen niet kunnen volgen. In de verte verdrinkt de farao met zijn leger in zee.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem van de Lande",
+      "unFixedName": "Lande, Willem van de",
+      "placeOfBirth": null,
+      "dateOfBirth": "1610",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem van de Lande (1610 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem van de Lande",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1635 - 1650",
+    "sortingDate": 1635,
+    "period": 17,
+    "yearEarly": 1635,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E1223"
+    ],
+    "iconClassDescription": [
+      "with his people safe on the shore, Moses raises his hands and causes the water to return; Pharaoh's army perishes in the water (Red Sea)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-46.679"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "Willem van de Lande",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "197"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "281"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Farao's leger verdrinkt in de Rode Zee, Willem van de Lande, 1635 - 1650",
+  "subTitle": "h 197mm \u00d7 w 281mm",
+  "scLabelLine": "Willem van de Lande, 1635 - 1650, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

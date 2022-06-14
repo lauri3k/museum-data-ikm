@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-NM-589",
+  "priref": "17940",
+  "objectNumber": "NG-NM-589",
+  "language": "en",
+  "title": "Beaker, with Dirk Scheij\u2019s Journey from Cologne to Rees along the Rhine River",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d02afb51-72ec-4750-be2f-78bf4abdde75",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1782,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/d7yOB2TL0ABRQYi3-GXva5asYWVbhPrQePDX0wOkCnhlqHgcSM_IFAROB5hcMeWNiu9VZG38UapE1rFvjzZnzncYmkQF=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Beker van zilver. Naar boven breder uitlopend en van onderen gevat in een rand met geometrische figuren. Op de beker is de Rijn-tocht van Dirk Scheij gegraveerd met opschriften.",
+  "labelText": null,
+  "objectTypes": [
+    "cup"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Samuel Vercoigne",
+      "unFixedName": "Vercoigne, Samuel",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1629",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "silversmith"
+      ],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Samuel Vercoigne (c. 1586 - 1629), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Samuel Vercoigne",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1628",
+    "sortingDate": 1628,
+    "period": 17,
+    "yearEarly": 1628,
+    "yearLate": 1628
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H213",
+      "43C111241"
+    ],
+    "iconClassDescription": [
+      "river",
+      "stag-hunting"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16261626"
+    ],
+    "places": [
+      "Rijn",
+      "Keulen",
+      "Rees"
+    ],
+    "people": [
+      "Scheij, Dirk"
+    ],
+    "objectNumbers": [
+      "NG-NM-589"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Scheij, Dirk"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "D. van der Kellen, 'Het Nederlandsch Museum voor Geschiedenis en Kunst te 's Gravenhage', Eigen Haard (1879), p. 153-154.",
+    "'Curiositeiten', Vlissingsche Courant, 28 mei 1839 (Genoemd als in het Koninklijk Kabinet van Zeldzaamheden).",
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Samuel Vercoigne",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "24"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "14"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "739"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Beaker, with Dirk Scheij\u2019s Journey from Cologne to Rees along the Rhine River, Samuel Vercoigne (attributed to), 1628",
+  "subTitle": "h 24cm \u00d7 d 14cm",
+  "scLabelLine": "Samuel Vercoigne (1586-1629), silver, 1628",
+  "label": {
+    "title": "Beaker, with Dirk Scheij\u2019s Journey from Cologne to Rees along the Rhine River",
+    "makerLine": "Samuel Vercoigne (1586-1629), silver, 1628",
+    "description": "At the end of December 1626, Dirk Scheij captures a Spanish paymaster in Cologne who is carrying the salaries for all of the Spanish soldiers stationed along the Rhine River. Scheij sails the river to Rees and delivers his loot to Frederick Henry. To record this feat for posterity he has the story of his journey engraved on this beaker. It ends at the bottom with the Dutch lion and an Orange tree in an enclosure: they defend the Republic.",
+    "notes": null,
+    "date": "2018-11-28"
+  },
+  "showImage": true,
+  "location": null
+}

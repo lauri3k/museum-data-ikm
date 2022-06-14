@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-C-2012-9",
+  "priref": "507760",
+  "objectNumber": "AK-C-2012-9",
+  "language": "en",
+  "title": "Tray",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f45d076-65a2-4755-87e9-9143a7acdee9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1751,
+    "url": "https://lh3.googleusercontent.com/qTLN9SL_98_xv5N0SOa3sQSlj89j7ND7xzcjtz8zdttKu4y8EMvMgHJ13Qc2QyHTOaZLC_xYyPQy00ouEwg7VwjYqm2hIBtdMgtGJvs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Zes vissen zwemmend in een vijver met waterplanten. Gestileerde golven aan de rand, gekleurde banden aan de kant. In houten doos.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "lacquerer",
+      "unFixedName": "lacquerer",
+      "placeOfBirth": null,
+      "dateOfBirth": "1867-04-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1950-04-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object lacquerer (24-apr-1867 - 15-apr-1950), Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "lacquerer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2011-12-29T00:00:00",
+    "creditLine": "On loan from Jan Dees & Ren\u00e9 van der Star"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "lacquer (coating)",
+    "gold (metal)",
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1910 - c. 1940",
+    "sortingDate": 1910,
+    "period": 20,
+    "yearEarly": 1910,
+    "yearLate": 1940
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-C-2012-9"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "lacquerer",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "26.2"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3.1"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "28.4"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "28.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "wood (plant material)",
+  "longTitle": "Tray, lacquerer, c. 1910 - c. 1940",
+  "subTitle": "d 26.2cm \u00d7 h 3.1cm",
+  "scLabelLine": "Rokkaku Shisui (1867-1950), Japan, c. 1910-1940, wood, lacquer",
+  "label": {
+    "title": "Tray",
+    "makerLine": "Rokkaku Shisui (1867-1950), Japan, c. 1910-1940, wood, lacquer",
+    "description": "Lacquerwork underwent a major change in the early 20th century. Artists were seeking innovation and experimented with colours other than the traditional gold and silver on a black background. Shisui did the same with this tray, whose surface is like a pond. With subtle shades of green he created an almost tangible underwater scene.",
+    "notes": null,
+    "date": "2019-10-10"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-NM-12312",
+  "priref": "3027",
+  "objectNumber": "AK-NM-12312",
+  "language": "en",
+  "title": "Ovoid jar with a grey glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2c3ee5df-3fb5-4379-a284-61cce458b193",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2339,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/hP6S5GnJQYDeleoYZ9ExBlzyCXFBJxJ66QscRF5OaAPyh1BGsK_G7BDFY0LDN0WPhrznwMCQU6wnjfgZsl0cqz9tBw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 57,
+      "hex": "#BEBDB8"
+    },
+    {
+      "percentage": 13,
+      "hex": " #85827B"
+    },
+    {
+      "percentage": 11,
+      "hex": " #6A6559"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9D9A93"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DDDDDD"
+    },
+    {
+      "percentage": 2,
+      "hex": " #4B453A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2B271C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#BEBDB8",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #85827B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6A6559",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9D9A93",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #DDDDDD",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #4B453A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #2B271C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Ovoid jar with a grey glaze"
+  ],
+  "description": "Eivormige pot van steengoed, gedeeltelijk bedekt met een grijs, gecraqueleerd glazuur. De rand en onderzijde zijn ongeglazuurd.",
+  "labelText": null,
+  "objectTypes": [
+    "pot"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1912-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1650 - c. 1699",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-NM-12312"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "18.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "14.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Ovoid jar with a grey glaze, anonymous, c. 1650 - c. 1699",
+  "subTitle": "h 18.1cm \u00d7 d 8.5cm",
+  "scLabelLine": "anonymous, c. 1650 - c. 1699, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

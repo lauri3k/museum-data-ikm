@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-28-59-11",
+  "priref": "393009",
+  "objectNumber": "RP-P-AO-28-59-11",
+  "language": "en",
+  "title": "Spiegel der Reden voor de wanhopende Actionist, 1720",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a758f395-5e89-4d8c-9914-8217303cc5a6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1942,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/yw2dyfnhggGY3ZjYoHFjdN_9lSWMBy8hEhJ_tpZNchVF0GL03ZRppzCZ4XKPSpW3Tw2huaK5_Yw_3g5k-ZzeG2D5m3E=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Spiegel der Reden voor de wanhopende Actionist, 1720",
+    "Spiegel der Reden voor de wanhopende Actionisten",
+    "Het Groote Tafereel der Dwaasheid"
+  ],
+  "description": "Spiegel der Reden voor de wanhopende Actionist. Een windhandelaar die op het punt staat zich met een dolk in de borst te steken wordt door de personificatie van de Reden een spiegel voorgehouden. Op de achtergrond houdt de Voorzichtigheid met een schild gemerkt Y (= het IJ te Amsterdam) de windhandel tegen. Op het blad om de plaat staan drie delen tekst. Prent 34 in de serie Het Groote Tafereel der Dwaasheid met spotprenten op de Windhandel of Actiehandel van 1720.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacobus Schijnvoet",
+      "unFixedName": "Schijnvoet, Jacobus",
+      "placeOfBirth": null,
+      "dateOfBirth": "1685-05-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1743",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Jacobus Schijnvoet (20-mei-1685 - 1743), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacobus Schijnvoet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1720",
+    "sortingDate": 1720,
+    "period": 18,
+    "yearEarly": 1720,
+    "yearLate": 1720
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "52B5(+12)",
+      "46B931"
+    ],
+    "iconClassDescription": [
+      "Rationality, Reasoning; 'Ratiocinatione o Discorso' (Ripa) (+ abstract concept represented by male figure)",
+      "financial panic"
+    ],
+    "motifs": [],
+    "events": [
+      "Windhandel van 1720"
+    ],
+    "periods": [
+      "17201720"
+    ],
+    "places": [
+      "IJ"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-AO-28-59-11"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 3569",
+    "3569",
+    "Atlas van Stolk 3489",
+    "3489"
+  ],
+  "principalOrFirstMaker": "Jacobus Schijnvoet",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "101"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "420"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "328"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Spiegel der Reden voor de wanhopende Actionist, 1720, Jacobus Schijnvoet, 1720",
+  "subTitle": "h 157mm \u00d7 w 101mm",
+  "scLabelLine": "Jacobus Schijnvoet, 1720, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,185 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-202.263",
+  "priref": "540696",
+  "objectNumber": "RP-P-OB-202.263",
+  "language": "en",
+  "title": "De brandweer te Amsterdam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cd9cb9bb-5391-4e9c-90d2-61f9012b08fc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1983,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/KQyjvZae6OZwnqM4cgLUDsoba2zkGtMIj_6B-gnuAC93v8tcF_rReeRdXEZrBOc1_RePZ3gEy7s7RJzlweNzXKYnsEc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De brandweer te Amsterdam",
+    "Nieuwe kinderprenten"
+  ],
+  "description": "Felle brand in Amsterdam waarbij mensen zich redden met dekens en ladders, brandweermannen blussen het vuur en een publiek kijkt toe. Genummerd rechtsboven: No. 49.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "L. van Leer & Co.",
+      "unFixedName": "L. van Leer & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object L. van Leer & Co., Haarlem"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hermann van der Moolen",
+      "unFixedName": "Moolen, Hermann van der",
+      "placeOfBirth": null,
+      "dateOfBirth": "1828",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1892",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hermann van der Moolen (1828 - 1892)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hermann van der Moolen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1838 - 1892",
+    "sortingDate": 1838,
+    "period": 19,
+    "yearEarly": 1838,
+    "yearLate": 1892
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41B511",
+      "41B14"
+    ],
+    "iconClassDescription": [
+      "firemen",
+      "extinguishing a fire"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Amsterdam"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-202.263"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hermann van der Moolen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "429"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "341"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "De brandweer te Amsterdam, Hermann van der Moolen, 1838 - 1892",
+  "subTitle": "h 429mm \u00d7 w 341mm",
+  "scLabelLine": "Hermann van der Moolen, 1838 - 1892, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1985-336",
+  "priref": "211808",
+  "objectNumber": "RP-P-1985-336",
+  "language": "en",
+  "title": "Heilige Willem van Aquitani\u00eb als ridder in een landschap",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7f60ef38-5606-41ca-8d56-c138de622f8b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1790,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/WG9XI4z3mukJGGI_T8X7RyTutQx1kaVwQD7VwK9I1ATm3UHUr81Ad-NQXvqF5zcTPe-IwWXxEmqJGz_IYpcQRDgZOwjc-BmMEiVXAKpHeQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Willem van Aquitani\u00eb als ridder in een landschap"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Martin Martini",
+      "unFixedName": "Martini, Martin",
+      "placeOfBirth": "Rinkenberg",
+      "dateOfBirth": "1567",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1610-05-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Tassarolo",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Martin Martini (1567 - 06-mei-1610)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Martin Martini",
+      "unFixedName": "Martini, Martin",
+      "placeOfBirth": "Rinkenberg",
+      "dateOfBirth": "1567",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1610-05-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Tassarolo",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Martin Martini (1567 - 06-mei-1610)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Martin Martini",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1985-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1576 - 1610",
+    "sortingDate": 1576,
+    "period": 16,
+    "yearEarly": 1576,
+    "yearLate": 1610
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(WILLIAM OF AQUITAINE)"
+    ],
+    "iconClassDescription": [
+      "the Benedictine monk and duke of Aquitaine, William (of Gellone); possible attributes: armour, banner, helmet"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem met de Hoorn (graaf van Orange)"
+    ],
+    "objectNumbers": [
+      "RP-P-1985-336"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem met de Hoorn (graaf van Orange)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Nagler K\u00fcnstlerlexikon 3",
+    "3",
+    "Nagler Monogrammisten 1788.4",
+    "1788.4",
+    "Hollstein Dutch 12",
+    "12",
+    "LeBlanc 5",
+    "5",
+    "Passavant 3",
+    "3"
+  ],
+  "principalOrFirstMaker": "Martin Martini",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "280"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "198"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Willem van Aquitani\u00eb als ridder in een landschap, Martin Martini, 1576 - 1610",
+  "subTitle": "h 280mm \u00d7 w 198mm",
+  "scLabelLine": "Martin Martini, 1576 - 1610, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

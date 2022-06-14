@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1741",
+  "priref": "12130",
+  "objectNumber": "SK-A-1741",
+  "language": "en",
+  "title": "Still Life with Hare and a Black Rooster",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "472a01fd-d55d-4608-aa93-a5d5682afc41",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2093,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/fEE3Idqjeo04G_2_AtBUmz1Ic4SLkA65lJnazu60vBSaKJOUTYfuTSrwpcWAF7n1_TW5UH3s7lCymCWCEpBtopNzJ1s=s0"
+  },
+  "colors": [
+    {
+      "percentage": 71,
+      "hex": "#252C30"
+    },
+    {
+      "percentage": 13,
+      "hex": " #544C3A"
+    },
+    {
+      "percentage": 8,
+      "hex": " #0F0E0C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #6E694E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #989574"
+    },
+    {
+      "percentage": 0,
+      "hex": " #807F60"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B7B391"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#252C30",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #544C3A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #0F0E0C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6E694E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #989574",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #807F60",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B7B391",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 80,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 16,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #556B2F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 80,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 13,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Still Life with Hare and a Black Rooster"
+  ],
+  "description": "Stilleven met een haas gebonden aan een stok, een zwarte haan, een bloemkool en een stronk andijvie. Gerangschikt met een bankje, een emmer en een mand op de vloer bij een trede.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Lelienbergh",
+      "unFixedName": "Lelienbergh, Cornelis",
+      "placeOfBirth": null,
+      "dateOfBirth": "1630",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1696",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": null,
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Cornelis Lelienbergh (c. 1630 - after 1696)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Lelienbergh",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1898-06-01T00:00:00",
+    "creditLine": "D. Franken Bequest, Le V\u00e9sinet"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1659",
+    "sortingDate": 1659,
+    "period": 17,
+    "yearEarly": 1659,
+    "yearLate": 1659
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1741"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Cornelis Lelienbergh",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "101"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "15"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Still Life with Hare and a Black Rooster, Cornelis Lelienbergh, 1659",
+  "subTitle": "h 101cm \u00d7 w 85cm \u00d7 d 15cm",
+  "scLabelLine": "Cornelis Lelienbergh, 1659, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

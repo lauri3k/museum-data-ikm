@@ -1,0 +1,134 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F25683-C",
+  "priref": "287261",
+  "objectNumber": "RP-F-F25683-C",
+  "language": "en",
+  "title": "Zwarte stern",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a84ce961-0073-4a28-864d-ba5bb87980f3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2165,
+    "url": "https://lh3.googleusercontent.com/ZlFCSMwRtRshxSN1SAAW5QNKphIjw6yV1YFfN2VFg2d0L4Pww1Nky9U6sL3XAnklDOf1u8vu0xrWTv2Mi2gvXI2SD96ydZLtT-OTAy28dQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zwarte stern",
+    "The black tern (Sterna nigra)"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "c. 1863 - in or before 1868",
+    "sortingDate": 1863,
+    "period": 19,
+    "yearEarly": 1863,
+    "yearLate": 1868
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F3"
+    ],
+    "iconClassDescription": [
+      "birds"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F25683-C"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "56"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Zwarte stern, anonymous, c. 1863 - in or before 1868",
+  "subTitle": "h 87mm \u00d7 w 56mm",
+  "scLabelLine": "anonymous, c. 1863 - in or before 1868, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

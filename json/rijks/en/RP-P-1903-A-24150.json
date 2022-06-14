@@ -1,0 +1,170 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1903-A-24150",
+  "priref": "331578",
+  "objectNumber": "RP-P-1903-A-24150",
+  "language": "en",
+  "title": "Bespotting van Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4f4936ce-41a8-4991-bdcd-a0fd75553c59",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1944,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/NlMd6BsGAd2Uqrt5u5lWuJ-TBZM2zb11HVr_OvwxjwEpPOV0Dr4bib8B1_F4HreFR32cjjbV5HfrdDHm1uDGfQ5OU9M=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bespotting van Christus"
+  ],
+  "description": "Christus wordt door twee mannen bespot. E\u00e9n van hen houdt een rietstengel in de hand. Christus zit op een steen, zijn handen zijn gebonden en op zijn hoofd draagt hij de doornenkroon. In de marge een tweeregelig onderschrift in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hans van Luyck",
+      "unFixedName": "Luyck, Hans van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hans van Luyck, Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hieronymus Wierix",
+      "unFixedName": "Wierix, Hieronymus",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1553",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1619-11-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hieronymus Wierix (1553 - 01-nov-1619), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hieronymus Wierix",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1903-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1563 - before 1586",
+    "sortingDate": 1563,
+    "period": 16,
+    "yearEarly": 1563,
+    "yearLate": 1586
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D353",
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "mockings of Christ, who may be blindfolded",
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1903-A-24150"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 334",
+    "334"
+  ],
+  "principalOrFirstMaker": "Hieronymus Wierix",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "262"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "203"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Bespotting van Christus, Hieronymus Wierix, 1563 - before 1586",
+  "subTitle": "h 262mm \u00d7 w 203mm",
+  "scLabelLine": "Hieronymus Wierix, 1563 - before 1586, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

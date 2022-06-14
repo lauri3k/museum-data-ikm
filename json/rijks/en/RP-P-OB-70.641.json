@@ -1,0 +1,270 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-70.641",
+  "priref": "339382",
+  "objectNumber": "RP-P-OB-70.641",
+  "language": "en",
+  "title": "Anatomische studie van de longen en het strottenhoofd",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "30387c25-456a-4ce3-9243-3b945c7af1cf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1493,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/axkQK1SM7Ch14Fby9y6yvNEgqQAGwVzF5oceJdTkZTYm-oIXXK67tPcAwoW801pUzoWxD6o3-zFVqpufwb94D4K9Hsv2=s0"
+  },
+  "colors": [
+    {
+      "percentage": 15,
+      "hex": "#D6CAB3"
+    },
+    {
+      "percentage": 62,
+      "hex": " #F4F0E5"
+    },
+    {
+      "percentage": 8,
+      "hex": " #B3A894"
+    },
+    {
+      "percentage": 4,
+      "hex": " #685F59"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8E867C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #3F3936"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D6CAB3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F4F0E5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B3A894",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #685F59",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8E867C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3F3936",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 15,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Anatomische studie van de longen en het strottenhoofd"
+  ],
+  "description": "Anatomische studie en dissectie van de longen en het strottenhoofd. Bovenaan rechts genummerd T. 24.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "weduwe Joannes van Someren",
+      "unFixedName": "Someren, weduwe Joannes van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "weduwe Joannes van Someren"
+    },
+    {
+      "name": "Hendrick en Dirk Boom",
+      "unFixedName": "Boom, Hendrick en Dirk",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Hendrick en Dirk Boom"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter van Gunst",
+      "unFixedName": "Gunst, Pieter van",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1659",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1731-05-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter van Gunst (c. 1659 - 22-mei-1731), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter van Gunst",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1685",
+    "sortingDate": 1685,
+    "period": 17,
+    "yearEarly": 1685,
+    "yearLate": 1685
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A2222"
+    ],
+    "iconClassDescription": [
+      "lungs, bronchia"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-70.641"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter van Gunst",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "274"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "434"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Anatomische studie van de longen en het strottenhoofd, Pieter van Gunst, 1685",
+  "subTitle": "w 274mm \u00d7 h 434mm",
+  "scLabelLine": "Pieter van Gunst, 1685, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

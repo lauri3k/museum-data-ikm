@@ -1,0 +1,129 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2006-2-A",
+  "priref": "435431",
+  "objectNumber": "BK-2006-2-A",
+  "language": "en",
+  "title": "De slag bij Kaap la Hogue",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De slag bij Kaap la Hogue"
+  ],
+  "description": "Rechthoekige zilveren plaat met een gegraveerde voorstelling van de slag bij Kaap la Hogue in 1692. In het midden op de voorgrond enige personen die zich op een drijvende mast trachten te redden.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Vogelaer",
+      "unFixedName": "Vogelaer, Pieter",
+      "placeOfBirth": "Zierikzee",
+      "dateOfBirth": "1641",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1730",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter Vogelaer (1641 - 1730)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Vogelaer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "Gift of J.M. van Gelder-Nijhoff"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1695",
+    "sortingDate": 1695,
+    "period": 17,
+    "yearEarly": 1695,
+    "yearLate": 1695
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3(+3)"
+    ],
+    "iconClassDescription": [
+      "battle (+ naval force)"
+    ],
+    "motifs": [],
+    "events": [
+      "Zeeslag bij Kaap la Hougue"
+    ],
+    "periods": [
+      "1692-05-291692-06-03"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2006-2-A"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Vogelaer",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "11"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "15.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De slag bij Kaap la Hogue, Pieter Vogelaer, 1695",
+  "subTitle": "h 11cm \u00d7 w 15.5cm",
+  "scLabelLine": "Pieter Vogelaer, 1695, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": "HG-0.7"
+}

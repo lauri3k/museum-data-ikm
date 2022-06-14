@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-952",
+  "priref": "1508",
+  "objectNumber": "AK-MAK-952",
+  "language": "en",
+  "title": "Ovoid jar with a blue black glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "79e8574d-f834-4fbd-a7f7-e34b368c313b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2419,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/KwFwTvC74MtV01ouRtCBJKGXw1mgQl3BQEx7MxbrlGe-ZnysKAdthbXoPNguXfmtiNcbISIlj-pOh5uPx7GSTXIBcY4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 21,
+      "hex": "#C0C1C0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #1C1E20"
+    },
+    {
+      "percentage": 9,
+      "hex": " #86827A"
+    },
+    {
+      "percentage": 22,
+      "hex": " #494846"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A2A09D"
+    },
+    {
+      "percentage": 34,
+      "hex": " #F1F1F1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C0C1C0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #1C1E20",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #86827A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #494846",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A2A09D",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #F1F1F1",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 34,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 22,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 34,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 31,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 26,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Ovoid jar with a blue black glaze"
+  ],
+  "description": "Eivormige pot van steengoed met een korte, wijde nek, bedekt met een blauwzwart glazuur. De pot is bedoeld voor het bewaren van theebladeren. Oud label op de onderzijde met 'W843'.",
+  "labelText": null,
+  "objectTypes": [
+    "pot"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1868",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1868
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-952"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "29"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "22.3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "11.7"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Ovoid jar with a blue black glaze, anonymous, c. 1600 - c. 1868",
+  "subTitle": "h 29cm \u00d7 d 10.2cm",
+  "scLabelLine": "anonymous, c. 1600 - c. 1868, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

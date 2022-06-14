@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-12.053",
+  "priref": "34843",
+  "objectNumber": "RP-P-OB-12.053",
+  "language": "en",
+  "title": "Doornenkroning van Christus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3181c7ec-1020-42b9-9890-4b6d25b53bba",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1769,
+    "height": 2280,
+    "url": "https://lh3.googleusercontent.com/_g-B2yB4ZauwWX3FpN572kd7A-_3xutv7XBtTSZT-eBxKSSICV18mIPpoYzLWiLh-zc-G2jv0gGls0XnWCpELUFVyHUl=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#666052"
+    },
+    {
+      "percentage": 17,
+      "hex": " #988C71"
+    },
+    {
+      "percentage": 15,
+      "hex": " #BAAF96"
+    },
+    {
+      "percentage": 12,
+      "hex": " #EBE4CE"
+    },
+    {
+      "percentage": 11,
+      "hex": " #D9CCB0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #3E3C33"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEF5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#666052",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #988C71",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BAAF96",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #EBE4CE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D9CCB0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3E3C33",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #FEFEF5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 33,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 11,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 44,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 32,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Doornenkroning van Christus",
+    "Passie van Christus"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Abraham van Waesberge (I)",
+      "unFixedName": "Waesberge, Abraham van (I)",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1602",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham van Waesberge (I) (1602 - ....)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1656 - 1699",
+    "sortingDate": 1656,
+    "period": 17,
+    "yearEarly": 1656,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-12.053"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 234",
+    "234"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning van Christus, anonymous, 1656 - 1699",
+  "subTitle": "h 124mm \u00d7 w 94mm",
+  "scLabelLine": "anonymous, 1656 - 1699, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

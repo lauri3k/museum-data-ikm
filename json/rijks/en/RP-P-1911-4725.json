@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1911-4725",
+  "priref": "153291",
+  "objectNumber": "RP-P-1911-4725",
+  "language": "en",
+  "title": "Portret van koning Frederik Willem I van Pruisen, keurvorst van Brandenburg",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "85ddda51-5146-4eb3-8b47-98570bfbf224",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1648,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/MhaNmrrJfM-FDdUFYTIwiysb-cEd3wPnVyiljjiKhN5XJLH2OoSGr7k3K1knEAHG7W2XJLpbXBmX7Vvm_t_IAuWjSJ0VOOo0mZfJojW-=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van koning Frederik Willem I van Pruisen, keurvorst van Brandenburg"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Georg Mentzel",
+      "unFixedName": "Mentzel, Johann Georg",
+      "placeOfBirth": "Leipzig",
+      "dateOfBirth": "1677-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1743-04-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leipzig",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Georg Mentzel (mei-1677 - 03-apr-1743)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Georg Mentzel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1687 - 1743",
+    "sortingDate": 1687,
+    "period": 17,
+    "yearEarly": 1687,
+    "yearLate": 1743
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31A5331",
+      "45C22",
+      "44B19",
+      "46A1241(RED EAGLE ORDER)",
+      "45H3",
+      "45C212",
+      "45C13(SWORD)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "wig",
+      "armour",
+      "insignia and symbols of sovereignty (crown, diadem, sceptre, orb, seal, standard, cloak, pectoral)",
+      "knighthood order (RED EAGLE ORDER)",
+      "battle",
+      "baton of general",
+      "hacking and thrusting weapons: sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Frederik Willem I (koning van Pruisen, keurvorst van Brandenburg)"
+    ],
+    "objectNumbers": [
+      "RP-P-1911-4725"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Willem I (koning van Pruisen, keurvorst van Brandenburg)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johann Georg Mentzel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "333"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "213"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van koning Frederik Willem I van Pruisen, keurvorst van Brandenburg, Johann Georg Mentzel, 1687 - 1743",
+  "subTitle": "h 333mm \u00d7 w 213mm",
+  "scLabelLine": "Johann Georg Mentzel, 1687 - 1743, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

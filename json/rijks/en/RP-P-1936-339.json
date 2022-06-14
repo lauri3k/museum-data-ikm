@@ -1,0 +1,236 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1936-339",
+  "priref": "138848",
+  "objectNumber": "RP-P-1936-339",
+  "language": "en",
+  "title": "Tobit en zijn vrouw",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c102d5e1-f03d-4cd3-82fc-6a64a38894c5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1763,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/ldYoq2j-uB64_sDw9u_kaV0Nopq1Cj4s2fQTe2QVW_6etNIt3ySjtJyDoH-OucwcChwl2xT10jm0OsS_9g1hJF3GWg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 65,
+      "hex": "#3B3A36"
+    },
+    {
+      "percentage": 13,
+      "hex": " #615E57"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D9D2C6"
+    },
+    {
+      "percentage": 5,
+      "hex": " #807B73"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B5AEA5"
+    },
+    {
+      "percentage": 2,
+      "hex": " #99948C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6EFE2"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#3B3A36",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #615E57",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D9D2C6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #807B73",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B5AEA5",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #99948C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F6EFE2",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 79,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Tobit en zijn vrouw"
+  ],
+  "description": "De blinde Tobit en zijn vrouw Anna in een interieur. Tobit slaapt op een stoel voor een bedstee, Anna zit op een mand wol te spinnen. In de marge een vierregelig vers in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Gijsbertsz. Plemp",
+      "unFixedName": "Plemp, Cornelis Gijsbertsz.",
+      "placeOfBirth": null,
+      "dateOfBirth": "1574",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1638",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Gijsbertsz. Plemp (1574 - 1638)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Willem van der Leeuw",
+      "unFixedName": "Leeuw, Willem van der",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1603",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem van der Leeuw (1603 - c. ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem van der Leeuw",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1936-01-01T00:00:00",
+    "creditLine": "F.G. Waller Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1616 - 1665",
+    "sortingDate": 1616,
+    "period": 17,
+    "yearEarly": 1616,
+    "yearLate": 1665
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71T74"
+    ],
+    "iconClassDescription": [
+      "old Tobit (and Anna) waiting and worrying about the long absence of their son; sometimes Anna is shown at the spinning-wheel"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1936-339"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 4",
+    "4"
+  ],
+  "principalOrFirstMaker": "Willem van der Leeuw",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "301"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Tobit en zijn vrouw, Willem van der Leeuw, 1616 - 1665",
+  "subTitle": "h 301mm \u00d7 w 210mm",
+  "scLabelLine": "Willem van der Leeuw, 1616 - 1665, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

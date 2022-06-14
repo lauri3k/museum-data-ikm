@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-38.426",
+  "priref": "188633",
+  "objectNumber": "RP-P-OB-38.426",
+  "language": "en",
+  "title": "Johannes de Doper in de wildernis",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "039f313e-5fbd-439e-840c-5c97cb78948f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1789,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/cJpxPfsr3rjRll9CCdepXN6bE7BD-g2hcYOfbQZRNiGdN3aZWAnonNVfzmA_-uw9bHByVgq2eGgZrdBrCWCYIgqax8o=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper in de wildernis"
+  ],
+  "description": "Johannes de Doper staand in een landschap met rieten kruis, boek en lam.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Clemens VIII",
+      "unFixedName": "Clemens VIII",
+      "placeOfBirth": "Fano",
+      "dateOfBirth": "1536",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1605",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Clemens VIII (1536 - 1605)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Francesco Villamena",
+      "unFixedName": "Villamena, Francesco",
+      "placeOfBirth": "Assisi",
+      "dateOfBirth": "1566",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1624-07-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rome",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Francesco Villamena (c. 1566 - 07-jul-1624), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Francesco Villamena",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1622",
+    "sortingDate": 1622,
+    "period": 17,
+    "yearEarly": 1622,
+    "yearLate": 1622
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "73A18"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "John the Baptist in the wilderness, usually accompanied by a lamb"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-38.426"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Francesco Villamena",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "213"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "141"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper in de wildernis, Francesco Villamena, 1622",
+  "subTitle": "h 213mm \u00d7 w 141mm",
+  "scLabelLine": "Francesco Villamena, 1622, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

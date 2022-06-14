@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-103.000",
+  "priref": "505523",
+  "objectNumber": "RP-P-OB-103.000",
+  "language": "en",
+  "title": "De Bazar, 1883, Nr. 4, Pl. 528",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8e9522bd-3486-4020-a095-641468cd59df",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 706,
+    "height": 1000,
+    "url": "https://lh3.googleusercontent.com/l-A49ZJGWYrbeK29hv-T9-XM2AZAHHz0XgbBjydg-0Do3NcVXJEch6aGwsbO9nLQ31Ah935nEx8d2U9as5y5ypK24q0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De Bazar, 1883, Nr. 4, Pl. 528"
+  ],
+  "description": "Prent uit het modetijdschrift De Bazar, ge\u00efllustreerd Tijdschrift voor Modes en Handwerken (1857-1900).",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints",
+    "costume and fashion prints"
+  ],
+  "makers": [
+    {
+      "name": "Belinfante & Co.",
+      "unFixedName": "Belinfante & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Belinfante & Co., The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2011-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1883",
+    "sortingDate": 1883,
+    "period": 19,
+    "yearEarly": 1883,
+    "yearLate": 1883
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D11",
+      "41D211(EVENING DRESS)(+82)",
+      "41D262(+82)",
+      "41D225(LONG GLOVES)(+82)",
+      "41D2662(+82)",
+      "41D2661(+82)",
+      "41D2332(+82)"
+    ],
+    "iconClassDescription": [
+      "fashion plates",
+      "dress, gown: evening dress (+ women's clothes)",
+      "fan (+ women's clothes)",
+      "gloves, mittens (LONG GLOVES) (+ women's clothes)",
+      "bracelet, wristlet (+ women's clothes)",
+      "necklace (+ women's clothes)",
+      "shoes, sandals (+ women's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18831883"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-103.000"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "378"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "268"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "De Bazar, 1883, Nr. 4, Pl. 528, anonymous, 1883",
+  "subTitle": "h 378mm \u00d7 w 268mm",
+  "scLabelLine": "anonymous, 1883, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

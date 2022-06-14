@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-11-46",
+  "priref": "452743",
+  "objectNumber": "RP-P-AO-11-46",
+  "language": "en",
+  "title": "De zeilwagen van Simon Stevin, 1602",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "917b3f60-d17a-4f6d-ac56-c5ea28fc91cc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2648,
+    "height": 2101,
+    "url": "https://lh6.ggpht.com/JKur7EZrMHAjbmTxhNrjvj2D2zx02-lGKbMy_4gb3nnIt451TD-XaVx8qg2pvQ8Uf3B90ZGELOKWmx1tyW7ZryvMQC6g=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De zeilwagen van Simon Stevin, 1602",
+    "Currus veliferi Ill.mi Pr. Mauritii Nassouii",
+    "De Zeyl-wagen die de doorluchtige Vorst Maurits van Nassou, Prins van Oranje, Graef van Nassou, &c. heeft doen maken"
+  ],
+  "description": "De zeilwagen van Simon Stevin, 1602. Prins Maurits maakt samen met een groep vrienden een tocht over het strand van Scheveningen naar Petten in de zeilwagen gebouwd door Simon Stevin, april-mei 1602. Links een kleine zeilwagen, waarschijnlijk een prototype, met enkele personen aan boord. Op het strand verschillende elegante toeschouwers en enkele vissers. Op een dubbelblad uit het Stedenboek van Blaeu genomen, op beide zijden bedrukt met tekst in het Nederlands.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1647 - 1649",
+    "sortingDate": 1647,
+    "period": 17,
+    "yearEarly": 1647,
+    "yearLate": 1649
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C17"
+    ],
+    "iconClassDescription": [
+      "sailing-car"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16021602"
+    ],
+    "places": [],
+    "people": [
+      "Maurits (prins van Oranje)",
+      "Stevin, Simon"
+    ],
+    "objectNumbers": [
+      "RP-P-AO-11-46"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)",
+    "Stevin, Simon"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 141, nr. 1158a."
+  ],
+  "catRefRPK": [
+    "FMH 1158",
+    "1158",
+    "New Hollstein Dutch 172",
+    "172",
+    "Atlas van Stolk 1107",
+    "1107"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "436"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "568"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "De zeilwagen van Simon Stevin, 1602, anonymous, 1647 - 1649",
+  "subTitle": "h 436mm \u00d7 w 568mm",
+  "scLabelLine": "anonymous, 1647 - 1649, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

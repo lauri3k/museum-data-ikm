@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10754-111-A",
+  "priref": "370574",
+  "objectNumber": "BK-NM-10754-111-A",
+  "language": "en",
+  "title": "Wine glass with two hands around a heart",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "486ec3c3-511b-4265-a4dc-1a7256614290",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1823,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/_dO9S3jXM4aVpQHrpsMnsyGW5PraJ0NPozhqsljTjlUMGT0-1X3fKvbuuVNBRkRyYfjj4psmYfkiwmHJGI1EDMfLSrs=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#606161"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F2F2F2"
+    },
+    {
+      "percentage": 45,
+      "hex": " #BFBFC0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D8D8D9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #7D7E7F"
+    },
+    {
+      "percentage": 48,
+      "hex": " #A0A1A2"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#606161",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F2F2F2",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #BFBFC0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #D8D8D9",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #7D7E7F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A0A1A2",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 45,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 93,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [],
+  "description": "Platte voet met omgeslagen rand. Gefacetteerde balusterstam met drie knopen. Conische kelk met gefacetteerde, afgeronde bodem. Op de kelk een gegraveerde voorstelling van twee handen die een gevleugeld hart vasthouden. Op de keerzijde een gedicht op een zilveren huwelijk: GEEN WULPSCHE JEUGTGEEN SUFFENDE OUDERDOM/ MAARMANB'RE DEUGTENGRYSE WYSHEIT VIEREN/ DIT ZILVREN FEEST D'OLYFPLANTSOENEN CIEREN/ DEN BRUILOFT DISCH AI:GASTTE CANA, KOM/ SCHENK GYDEN WYNZOO ZALEEN HEMELDROM/ VAN ENGLEN DOORONSE EETZAAL JUICHEND ZWIEREN/ T.P.",
+  "labelText": null,
+  "objectTypes": [
+    "goblet"
+  ],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "A.J. Ensched\u00e9 Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Germany",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1725 - c. 1750",
+    "sortingDate": 1725,
+    "period": 18,
+    "yearEarly": 1725,
+    "yearLate": 1750
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A222101",
+      "42D2542",
+      "23A21"
+    ],
+    "iconClassDescription": [
+      "profane heart symbolism ~ love",
+      "silver anniversary",
+      "serpent Ouroboros"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-10754-111-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "44.5"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "28.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "12.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Wine glass with two hands around a heart, anonymous, c. 1725 - c. 1750",
+  "subTitle": "h 44.5cm",
+  "scLabelLine": "glass: Germany, wheel-engraving: the Netherlands, 1725\u20131750, glass",
+  "label": {
+    "title": "Wine glass with two hands around a heart",
+    "makerLine": "glass: Germany, wheel-engraving: the Netherlands, 1725\u20131750, glass",
+    "description": "translation of inscription: No Lustful Youth, No Dotage Old / But Manly Virtue, Wisdom Grey, are Celebrating / this silver Anniversary The Olive Fields ornamenting / the Marriage feast, Ah, Guests of Cana, Do / Pour the Wine, for then a Band / of Angels around our Dining Hall will be Celebrating / T.P.",
+    "notes": null,
+    "date": "2016-02-10"
+  },
+  "showImage": true,
+  "location": "HG-0.7"
+}

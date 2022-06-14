@@ -1,0 +1,283 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-757",
+  "priref": "1358",
+  "objectNumber": "AK-MAK-757",
+  "language": "en",
+  "title": "Tea caddy with a blueish black glaze",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4e3b57d0-335a-4c48-b014-cacd10747f70",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/PtUwh9fFvYuGaF0JRjrE9PZvUW4IT4IETxvshJXGkUmdZX6C6AmA6TylJGW0exCO0TVGSOviqcN1wDSLOsI-FImbUw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 61,
+      "hex": "#C6C3BF"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A8A7A4"
+    },
+    {
+      "percentage": 8,
+      "hex": " #232221"
+    },
+    {
+      "percentage": 7,
+      "hex": " #6E6A68"
+    },
+    {
+      "percentage": 6,
+      "hex": " #4A4644"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8E8D8E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E4E2DE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C6C3BF",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A8A7A4",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #232221",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6E6A68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A4644",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8E8D8E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E4E2DE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 61,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 13,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 75,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 15,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Tea caddy with a blueish black glaze"
+  ],
+  "description": "Stoftheebus of chaire van steengoed met een ivoren deksel, gedeeltelijk bedekt met een blauwbruin glazuur met een witte, verticale streep. De onderzijde van de bus is ongeglazuurd. Drie oude labels aan de binnenzijde met 'Satsuma', 'Nagayo?/ eind 17e' en 'Satsuma volgens Yamanaka'.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Japan"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze",
+    "ivory"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1800",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1800
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-757"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.8"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "0.9"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Tea caddy with a blueish black glaze, anonymous, anonymous, c. 1600 - c. 1800",
+  "subTitle": "h 9cm",
+  "scLabelLine": "anonymous, c. 1600 - c. 1800, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

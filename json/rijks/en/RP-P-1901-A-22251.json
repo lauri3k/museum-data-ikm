@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1901-A-22251",
+  "priref": "345078",
+  "objectNumber": "RP-P-1901-A-22251",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "857bd95b-9e3d-450d-baf3-a3de3f68c54d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1640,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/LJvVL10uNyNvzHIL5J9pAsDh0tv5IgwRUxblycpOtKO8sVqNsa6llxyF9rWmsuSo4mHsfuSDzfjBTD76VifNX3Qcxr1V=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning",
+    "Passie van Christus"
+  ],
+  "description": "Beulen zetten Christus een doornenkroon op het hoofd en geven hem een rietstok in de hand. Op de achtergrond staat een man klaar om Christus te slaan.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Harmensz. Muller",
+      "unFixedName": "Muller, Jan Harmensz.",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1571",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1628",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Harmensz. Muller (1571 - 1628), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Harmensz. Muller",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1901-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1613 - 1622",
+    "sortingDate": 1613,
+    "period": 17,
+    "yearEarly": 1613,
+    "yearLate": 1622
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1901-A-22251"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 48",
+    "48"
+  ],
+  "principalOrFirstMaker": "Jan Harmensz. Muller",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "117"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning, Jan Harmensz. Muller, 1613 - 1622",
+  "subTitle": "h 117mm \u00d7 w 76mm",
+  "scLabelLine": "Jan Harmensz. Muller, 1613 - 1622, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

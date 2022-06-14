@@ -1,0 +1,188 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10754-52",
+  "priref": "325464",
+  "objectNumber": "BK-NM-10754-52",
+  "language": "en",
+  "title": "Flute glass with a portrait of Frederick Henry",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dcd82741-c9e5-4fbe-87a8-4deb362bf243",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1609,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/8bDfIN7WxCEDGY2fD-MDTRSffAH6L09H4x6Bw5ckbabjxvsgus1p108AyRTm2XlizSUHdUXFIl7nR0cBWzSr1MAW67ld=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Platte voet met omgeslagen rand. Holle, balustervormige stam met drie schijven. Hoge, trechtervormige kelk. Op de kelk is een portret ten voete uit van Stadhouder prins Frederik Hendrik gegraveerd, in harnas en uitgerusd met veldheersstaf en schild. Op het schild twee in\u00e9\u00e9n geslagen handen met zeven pijlen. Boven de handen een lauwerkrans, er onder het woord 'UNICO'. Op de keerzijde het gekroonde wapen van Frederik Hendrik. De kelk is verder versierd met bloemranken en twee pauwen op een voetstuk. Op de voet en langs de bovenrand een bloemrank.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    },
+    {
+      "name": "Crispijn van den Queborn",
+      "unFixedName": "Queborn, Crispijn van den",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1652-11-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "after print by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Crispijn van den Queborn (c. 1595 - 25-nov-1652)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "A.J. Ensched\u00e9 Bequest, Haarlem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass"
+  ],
+  "techniques": [
+    "glassblowing"
+  ],
+  "productionPlaces": [
+    "Netherlands",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1650 - c. 1675",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1675
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44B194",
+      "25F35(PEACOCK)"
+    ],
+    "iconClassDescription": [
+      "coat of arms (symbol of sovereignty)",
+      "ornamental birds: peacock"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BK-NM-10754-52"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "36"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "10.3"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "129"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Flute glass with a portrait of Frederick Henry, anonymous, c. 1650 - c. 1675",
+  "subTitle": "h 36cm \u00d7 d 10.3cm \u00d7 w 129gr",
+  "scLabelLine": "The Netherlands, c. 1650\u20131675",
+  "label": {
+    "title": "Flute glass with a portrait of Frederick Henry",
+    "makerLine": "The Netherlands, c. 1650\u20131675",
+    "description": "Prince Frederick Henry of Orange was stadtholder from 1625 until his death in 1647. Here he is holding a shield with seven arrows, symbol of the Seven United Provinces of the Netherlands, over which he ruled as stadtholder.",
+    "notes": null,
+    "date": "2019-07-16"
+  },
+  "showImage": true,
+  "location": "HG-2.20"
+}

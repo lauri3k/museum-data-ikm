@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1892-A-2575",
+  "priref": "304349",
+  "objectNumber": "RP-T-1892-A-2575",
+  "language": "en",
+  "title": "Redding op zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "248c4ef9-211f-43dc-8365-62e95314c336",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1656,
+    "url": "https://lh6.ggpht.com/0ydOl33oAe-tD3U9ezjQQwTcjdSHFzc3hSXp-ZdKfHdd5ZmTiTsa8Y1svVA1BBHlagyaWAb7b8aRhpiksrF9sTq6Bw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Redding op zee"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "jonkheer Jacob Eduard van Heemskerck van Beest",
+      "unFixedName": "Heemskerck van Beest, jonkheer Jacob Eduard van",
+      "placeOfBirth": "Kampen",
+      "dateOfBirth": "1828-02-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1894-12-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "painter",
+        "print maker"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "jonkheer Jacob Eduard van Heemskerck van Beest (28-feb-1828 - 24-dec-1894)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "jonkheer Jacob Eduard van Heemskerck van Beest",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1892-01-01T00:00:00",
+    "creditLine": "Jonkheer P.A. van den Velden Bequest, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1838 - 1894",
+    "sortingDate": 1838,
+    "period": 19,
+    "yearEarly": 1838,
+    "yearLate": 1894
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H23",
+      "46C2931"
+    ],
+    "iconClassDescription": [
+      "sea (seascape)",
+      "saving a person from drowning"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1892-A-2575"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "jonkheer Jacob Eduard van Heemskerck van Beest",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "455"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "691"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Redding op zee, jonkheer Jacob Eduard van Heemskerck van Beest, 1838 - 1894",
+  "subTitle": "h 455mm \u00d7 w 691mm",
+  "scLabelLine": "jonkheer Jacob Eduard van Heemskerck van Beest, 1838 - 1894, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

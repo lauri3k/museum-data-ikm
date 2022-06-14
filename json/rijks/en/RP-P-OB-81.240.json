@@ -1,0 +1,204 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.240",
+  "priref": "460429",
+  "objectNumber": "RP-P-OB-81.240",
+  "language": "en",
+  "title": "Portret van Frederik Hendrik ter ere van de veroveringen van 's-Hertogenbosch en Wesel, 1629",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4894eeea-df27-4ae7-a750-299d05e86f95",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2056,
+    "height": 2820,
+    "url": "https://lh3.ggpht.com/IQXliIjttg6LztCR-i-BAV0xZ5Nl0OJuZ5Kr_9OSRgMaawtVlUBPx01gNX5s43cjUFEfgUQwffrSoS4bvnS4ZPEj6ZSJ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Frederik Hendrik ter ere van de veroveringen van 's-Hertogenbosch en Wesel, 1629",
+    "Lof des Doorluchtighsten Vorst Frederick Henrick, Prince van Orange, &c. Over de twee voor-treffelijcke Victoryen der stercke Steden Wesel ende 's Hertogen-Bosch"
+  ],
+  "description": "Portret van Frederik Hendrik ter ere van de veroveringen van 's-Hertogenbosch en Wesel, 1629. Borstbeeld van de stadhouder onder een boog van oranjetakken. Onder het portret twee plattegronden van 's-Hertogenbosch en Wesel. Aan weerszijden en onder de plaat met de voorstelling verzen en een dankzegging op het blad gedrukt.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jacob Pietersz. Wachter",
+      "unFixedName": "Wachter, Jacob Pietersz.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Pietersz. Wachter, Amsterdam"
+    },
+    {
+      "name": "Jacob Janszoon Colevelt",
+      "unFixedName": "Colevelt, Jacob Janszoon",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1595",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1649",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Janszoon Colevelt (c. 1595 - 1649)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1898-01-01T00:00:00",
+    "creditLine": "D. Franken Bequest, Le V\u00e9sinet"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1629",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A4"
+    ],
+    "iconClassDescription": [
+      "maps of cities"
+    ],
+    "motifs": [],
+    "events": [
+      "Inname van Den Bosch (1629)",
+      "Inname van Wesel (1629)"
+    ],
+    "periods": [
+      "16291629"
+    ],
+    "places": [
+      "'s-Hertogenbosch",
+      "Wesel"
+    ],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-81.240"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 224, nr. 1655.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 179, nr. 1655."
+  ],
+  "catRefRPK": [
+    "FMH 1655",
+    "1655",
+    "Atlas van Stolk 1706",
+    "1706",
+    "Hollstein Dutch 1",
+    "1"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "554"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "410"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Frederik Hendrik ter ere van de veroveringen van 's-Hertogenbosch en Wesel, 1629, anonymous, 1629",
+  "subTitle": "h 554mm \u00d7 w 410mm",
+  "scLabelLine": "anonymous, 1629, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

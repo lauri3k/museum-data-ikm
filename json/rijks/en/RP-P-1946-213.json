@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1946-213",
+  "priref": "202858",
+  "objectNumber": "RP-P-1946-213",
+  "language": "en",
+  "title": "Les roseaux",
+  "copyrightHolder": "erven Michel Ciry",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Les roseaux"
+  ],
+  "description": "Landschap met bomen aan de waterkant, gezien door het riet.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Michel Ciry",
+      "unFixedName": "Ciry, Michel",
+      "placeOfBirth": "La Baule",
+      "dateOfBirth": "1919-08-31",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2018-12-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Varengeville-sur-Mer",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Michel Ciry (31-aug-1919 - 26-dec-2018)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michel Ciry",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1946-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1943",
+    "sortingDate": 1943,
+    "period": 20,
+    "yearEarly": 1943,
+    "yearLate": 1943
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1946-213"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF apr\u00e8s 1800 78",
+    "78"
+  ],
+  "principalOrFirstMaker": "Michel Ciry",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "149"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drypoint",
+  "longTitle": "Les roseaux, Michel Ciry, 1943",
+  "subTitle": "h 149mm \u00d7 w 89mm",
+  "scLabelLine": "Michel Ciry, 1943, drypoint",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,145 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1976-72",
+  "priref": "230591",
+  "objectNumber": "RP-T-1976-72",
+  "language": "en",
+  "title": "Frontispiece Design for Edward Simson, Chronicon Catholicon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dfc8669b-ee78-4c89-9d1b-f3892c5005dc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1764,
+    "height": 2321,
+    "url": "https://lh3.googleusercontent.com/eT5wIFFoHT0Vq1O2jRFSMGZ3hf9B0oZdeigJChhfu1TqXzKqArRXKrkjX2uyJnj2kCe3rFoVBktbZhBNZzslRLqGSgw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Frontispiece Design for Edward Simson, Chronicon Catholicon"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Wandelaar",
+      "unFixedName": "Wandelaar, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1690-04-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1759-03-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Wandelaar (14-apr-1690 - 26-mrt-1759)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Wandelaar",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1976-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "chalk"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1729",
+    "sortingDate": 1729,
+    "period": 18,
+    "yearEarly": 1729,
+    "yearLate": 1729
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "49M43"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "title-page"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Simson, Edward"
+    ],
+    "objectNumbers": [
+      "RP-T-1976-72"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Simson, Edward"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Wandelaar",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "347"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "229"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Frontispiece Design for Edward Simson, Chronicon Catholicon, Jan Wandelaar, c. 1729",
+  "subTitle": "h 347mm \u00d7 w 229mm",
+  "scLabelLine": "Jan Wandelaar (1690-1759), pen and brush and brown and grey ink, red chalk, c. 1729",
+  "label": {
+    "title": "Frontispiece Design for Edward Simson, Chronicon Catholicon",
+    "makerLine": "Jan Wandelaar (1690-1759), pen and brush and brown and grey ink, red chalk, c. 1729",
+    "description": "Jan Wandelaar primarily made designs for prints in books. His drawings have an unique character because he first sketched the depiction in red chalk. He rendered his compositions as grandly and directly as possible. He concentrated almost exclusively on the main group with three angels, which is especially highlighted. He often has one of the figures look directly out at the viewer.",
+    "notes": null,
+    "date": "2015-05-11"
+  },
+  "showImage": true,
+  "location": null
+}

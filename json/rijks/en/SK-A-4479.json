@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4479",
+  "priref": "10372",
+  "objectNumber": "SK-A-4479",
+  "language": "en",
+  "title": "Portrait of William III, Prince of Orange and King of England after 1689",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0c60be74-75ac-47a1-a588-70008fdc944f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1974,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/FQIRmYoDL5pPWK9bEHlYz7KPFieDPXTDsxIzJZPW4jeo7Yj64EpBLo0Cixw2a549yRDEqS48uWeYee6KR120ZJtu_bg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 41,
+      "hex": "#382C22"
+    },
+    {
+      "percentage": 27,
+      "hex": " #F3F3F3"
+    },
+    {
+      "percentage": 14,
+      "hex": " #0B0908"
+    },
+    {
+      "percentage": 12,
+      "hex": " #6A5C47"
+    },
+    {
+      "percentage": 3,
+      "hex": " #AA9771"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AEADAC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D1D0CF"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#382C22",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F3F3F3",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #0B0908",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6A5C47",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AA9771",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AEADAC",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #D1D0CF",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 55,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of William III, Prince of Orange and King of England after 1689"
+  ],
+  "description": "Portretje van Willem III (1650-1702), prins van Oranje, sedert 1689 koning van Engeland. Buste in ovaal, de blik naar boven gericht. Pendant van SK-A-4480.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1878-01-01T00:00:00",
+    "creditLine": "F.G.S. Baron van Brakell tot den Brakell Bequest, Arnhem"
+  },
+  "exhibitions": [],
+  "materials": [
+    "tin (metal)",
+    "oil paint (paint)",
+    "wood (plant material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1695",
+    "sortingDate": 1695,
+    "period": 17,
+    "yearEarly": 1695,
+    "yearLate": 1695
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "SK-A-4479"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "7.2"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "13.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "10.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "1.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "tin (metal)",
+  "longTitle": "Portrait of William III, Prince of Orange and King of England after 1689, anonymous, c. 1695",
+  "subTitle": "h 9cm \u00d7 w 7.2cm",
+  "scLabelLine": "anonymous, c. 1695, tin (metal)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

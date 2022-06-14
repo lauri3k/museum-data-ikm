@@ -1,0 +1,242 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1914-17-60",
+  "priref": "434063",
+  "objectNumber": "RP-T-1914-17-60",
+  "language": "en",
+  "title": "The confluence of the Caledon and Orange Rivers, seen from the south-west",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7d0307f9-3067-4967-8e19-881712d45821",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1579,
+    "url": "https://lh5.ggpht.com/4ft5AoceTDRdgl4AUqFe_s6_9atbDPDZJOg-MrySl89zd9m-OxnxPvFzjjzF4LwJgGc1X9l1prIgN_XXNgE5gKek7Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 63,
+      "hex": "#D4D1AD"
+    },
+    {
+      "percentage": 10,
+      "hex": " #9D9B88"
+    },
+    {
+      "percentage": 7,
+      "hex": " #80877D"
+    },
+    {
+      "percentage": 6,
+      "hex": " #495351"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F3EFD6"
+    },
+    {
+      "percentage": 4,
+      "hex": " #666E6A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #32312C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D4D1AD",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9D9B88",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #80877D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #495351",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #F3EFD6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #666E6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #32312C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#EEE8AA"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 74,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 12,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "The confluence of the Caledon and Orange Rivers, seen from the south-west"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Robert Jacob Gordon",
+      "unFixedName": "Gordon, Robert Jacob",
+      "placeOfBirth": "Doesburg",
+      "dateOfBirth": "1743",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1795-10-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Kaapstad",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Robert Jacob Gordon (1743 - 25-okt-1795)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Jacob Gordon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": "Purchased with the support of private collectors"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "pencil",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1777",
+    "sortingDate": 1777,
+    "period": 18,
+    "yearEarly": 1777,
+    "yearLate": 1777
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1914-17-60"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Johannes Schumacher; Anne Hallema (introd), The Cape in 1776-1777: aquarelles by Johannes Schumacher from the Swellengrebel-collection at Breda, The Hague( etc.): Stols [etc.] 1951, p. 13-14",
+    "www.uct.ac.za/depts/age/people/Gordon."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Jacob Gordon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "675"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "The confluence of the Caledon and Orange Rivers, seen from the south-west, Robert Jacob Gordon (possibly), 1777",
+  "subTitle": "h 315mm \u00d7 w 675mm",
+  "scLabelLine": "Robert Jacob Gordon, 1777, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

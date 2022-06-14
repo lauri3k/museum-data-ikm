@@ -1,0 +1,242 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-603",
+  "priref": "1172",
+  "objectNumber": "AK-MAK-603",
+  "language": "en",
+  "title": "Squatm ovoid jar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "81f869ed-46be-4fd3-b535-972286f67a71",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/Iq_o0c0HWxU0aNN3DT_7Fb25ZfQNQU1TKR9P-Dq6e1AAiZ-8nNTXVaw4_w7LJ32zWy--4XjF1yl_Y-a48NhVlct95w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#B7B9B5"
+    },
+    {
+      "percentage": 12,
+      "hex": " #8F9289"
+    },
+    {
+      "percentage": 7,
+      "hex": " #72756C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #585A51"
+    },
+    {
+      "percentage": 4,
+      "hex": " #302F29"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DDDDDB"
+    },
+    {
+      "percentage": 0,
+      "hex": " #161410"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B7B9B5",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8F9289",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #72756C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #585A51",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #302F29",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DDDDDB",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #161410",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 67,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 27,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Squatm ovoid jar"
+  ],
+  "description": "Platgedrukte, eivormige pot van steengoed, bedekt met een gecraqueleerd groen glazuur. Voet is ongeglazuurd. Celadon.",
+  "labelText": null,
+  "objectTypes": [
+    "pot"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (Westendorp-Osieck bequest, 1968)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "stoneware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. 1400 - c. 1599",
+    "sortingDate": 1400,
+    "period": 14,
+    "yearEarly": 1400,
+    "yearLate": 1599
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-603"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3.3"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Squatm ovoid jar, anonymous, c. 1400 - c. 1599",
+  "subTitle": "h 6cm \u00d7 d 3.3cm",
+  "scLabelLine": "China, c. 1300\u20131500, stoneware",
+  "label": {
+    "title": null,
+    "makerLine": "China, c. 1300\u20131500, stoneware",
+    "description": "Three Jars.\nThe celadon glazes from Longquan kilns in Zhejiang Province evince a vast range of tones: from blue-green to pale green. Also typical for this type of stoneware is the clearly visible crackle in the glaze, which is highly valued by experts.",
+    "notes": "Goes for: AK-MAK-602, AK-MAK-603, AK-MAK-622.",
+    "date": "2018-10-13"
+  },
+  "showImage": true,
+  "location": null
+}

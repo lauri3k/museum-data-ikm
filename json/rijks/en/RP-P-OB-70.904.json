@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-70.904",
+  "priref": "340070",
+  "objectNumber": "RP-P-OB-70.904",
+  "language": "en",
+  "title": "Gezicht op Namen en de citadel (plaat 1)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8fd9c10a-3b24-45af-bbcb-2f82139d77be",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1632,
+    "url": "https://lh3.googleusercontent.com/SLZ9ao3F2YoTQz0VYkhtFj3VjEAR3bnWRCOMiyFq5_fR6XDepF8qbw9qDYZ9smQwiINy2t4ozvOCvSEfIGDMnNRpeA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Namen en de citadel (plaat 1)",
+    "Veue en persepective de la ville et citadelle de Namur avecq tous les forts circonvoisins (...)"
+  ],
+  "description": "Op de voorgrond legertenten en Franse troepen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Godard van Reede",
+      "unFixedName": "Reede, Godard van",
+      "placeOfBirth": null,
+      "dateOfBirth": "1644",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1703",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Godard van Reede (1644 - 1703)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bernard Picart",
+      "unFixedName": "Picart, Bernard",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1673-06-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1733-05-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bernard Picart (11-jun-1673 - 08-mei-1733), Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bernard Picart",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1996-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1697",
+    "sortingDate": 1697,
+    "period": 17,
+    "yearEarly": 1697,
+    "yearLate": 1697
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45K14",
+      "45K21",
+      "25I1"
+    ],
+    "iconClassDescription": [
+      "fortified city",
+      "siege",
+      "city-view in general; 'veduta'"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16951695"
+    ],
+    "places": [
+      "Namen (stad)"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-70.904"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 2922",
+    "2922"
+  ],
+  "principalOrFirstMaker": "Bernard Picart",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": null
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Namen en de citadel (plaat 1), Bernard Picart, 1697",
+  "subTitle": "h mm \u00d7 w mm",
+  "scLabelLine": "Bernard Picart, 1697, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

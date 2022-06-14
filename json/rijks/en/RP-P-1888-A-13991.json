@@ -1,0 +1,239 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1888-A-13991",
+  "priref": "37713",
+  "objectNumber": "RP-P-1888-A-13991",
+  "language": "en",
+  "title": "Madonna met heilige Anna en Brigitta",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9614c5c0-04db-47a9-ab53-8033721e0c9e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2567,
+    "height": 2892,
+    "url": "https://lh3.ggpht.com/Z86RzUvZ6QqLnH6fVEPFrqhrMkYvevJrE7hdZTKx5gBOmJY8cfnmaJtYFbwyScmi0BZ42397iqZVSVUV5w2DM_xbavc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 63,
+      "hex": "#F0E9CD"
+    },
+    {
+      "percentage": 15,
+      "hex": " #CEC6AB"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B2AA91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #7E7761"
+    },
+    {
+      "percentage": 3,
+      "hex": " #989179"
+    },
+    {
+      "percentage": 3,
+      "hex": " #5D5644"
+    },
+    {
+      "percentage": 1,
+      "hex": " #3E3A2F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0E9CD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CEC6AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B2AA91",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7E7761",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #989179",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5D5644",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3E3A2F",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 63,
+      "hex": "#FFF8DC"
+    },
+    {
+      "percentage": 15,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 26,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 8,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Madonna met heilige Anna en Brigitta"
+  ],
+  "description": "De Maagd gekroond en op een maansikkel staande, het Christuskind in de armen. Aan haar rechterhand de heilige Anna, aan haar linkerhand de heilige Brigitta.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Low Countries"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1886-01-01T00:00:00",
+    "creditLine": "Gift of Jonkheer V. de Stuers"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "1800 - 1899",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F4122",
+      "11F4132",
+      "11HH(ANNA)",
+      "11HH(BRIDGET)"
+    ],
+    "iconClassDescription": [
+      "Mary standing (or half-length), the Christ-child sitting on her arm (Christ-child to Mary's left)",
+      "Madonna on the crescent of the moon (sometimes called Queen of Heaven) (in mandorla)",
+      "Anna, mother of Mary; possible attributes: book, Christ-child, lily, Virgin Mary",
+      "the foundress of the Order of Bri(d)gettines, the widow Bridget (Birgitta) of Sweden; possible attributes: band over veil with five red spots, book, candle, heart with cross, inkhorn, pilgrim's hat, staff, wallet"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1888-A-13991"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "74"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "74"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Madonna met heilige Anna en Brigitta, anonymous, 1800 - 1899",
+  "subTitle": "h 74mm \u00d7 w 74mm",
+  "scLabelLine": "anonymous, 1800 - 1899, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

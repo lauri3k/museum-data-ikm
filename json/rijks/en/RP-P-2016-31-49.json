@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-31-49",
+  "priref": "666032",
+  "objectNumber": "RP-P-2016-31-49",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0493919b-cb0c-4bd7-8af8-d819cd5d72ea",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1960,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/kO_5Tkl7hHd4H5LJ_gC7giEbEUuMGQjFyXBdztUXpyREH4FVv-NycZ3PPvyN63Ln_85k95O4B5FeMDkx6CDK7JuKb1rSQq_B__CYE28=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning",
+    "Het leven van Christus"
+  ],
+  "description": "Doornenkroning. Onderdeel van een prentalbum met titelprent en 56 sc\u00e8nes uit het Nieuwe Testament. Elke voorstelling gemonteerd in een gravure met ornamentele cartouches waarin een venster is gesneden en voorzien van handgeschreven bijbelpassages.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Monogrammist HSD",
+      "unFixedName": "Monogrammist HSD",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Monogrammist HSD, Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Monogrammist HSD",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2016-03-24T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1570 - c. 1610",
+    "sortingDate": 1570,
+    "period": 16,
+    "yearEarly": 1570,
+    "yearLate": 1610
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2016-31-49"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 63",
+    "63",
+    "Hollstein Dutch 13-72",
+    "13-72"
+  ],
+  "principalOrFirstMaker": "Monogrammist HSD",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "40"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "60"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "175"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "115"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning, Monogrammist HSD, c. 1570 - c. 1610",
+  "subTitle": "h c.40mm \u00d7 w c.60mm",
+  "scLabelLine": "Monogrammist HSD, c. 1570 - c. 1610, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

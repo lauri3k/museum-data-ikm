@@ -1,0 +1,147 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.943",
+  "priref": "464940",
+  "objectNumber": "RP-P-OB-81.943",
+  "language": "en",
+  "title": "Het Romeinse theater in Orange, 1639",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eecd39ed-d354-4624-9c61-b9a33161f6c1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2247,
+    "height": 2652,
+    "url": "https://lh6.ggpht.com/3i_wIPazBPXVf86Krk6N-1-wXJO1tWddAqgwzw3h-A7tzU63JogBBkXUO1sLXZXw_SbztTDwlPenwVjmX-f1DDWPLXA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Het Romeinse theater in Orange, 1639",
+    "Face Meridionale du Cirque d'Orange"
+  ],
+  "description": "Het Romeinse theater in Orange. Fa\u00e7ade en plattegrond, met vechtende gladiatoren. Onderaan de legenda A-N in het Frans.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "J. Baugin",
+      "unFixedName": "Baugin, J.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "J. Baugin, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "J. Baugin",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1637 - 1640",
+    "sortingDate": 1637,
+    "period": 17,
+    "yearEarly": 1637,
+    "yearLate": 1640
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A721"
+    ],
+    "iconClassDescription": [
+      "theatre (building)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-81.943"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 2211",
+    "2211",
+    "IFF 2",
+    "2"
+  ],
+  "principalOrFirstMaker": "J. Baugin",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "389"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "343"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Het Romeinse theater in Orange, 1639, J. Baugin, 1637 - 1640",
+  "subTitle": "h 389mm \u00d7 w 343mm",
+  "scLabelLine": "J. Baugin, 1637 - 1640, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

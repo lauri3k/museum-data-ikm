@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-3913",
+  "priref": "5035",
+  "objectNumber": "SK-A-3913",
+  "language": "en",
+  "title": "The Battle of Bautersem during the Ten Days\u2019 Campaign",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "20283e9a-fecb-4aed-baff-a634adb414d9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1866,
+    "url": "https://lh3.googleusercontent.com/C9PSgAMDCfPZonSv-XJhVSL6P7BcDoImtPvbBQL-abEd3Ibr-Y6n9Bss73F8PE86vUeXniLo2Ob9Wr3tCHJG7oki1d4=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#B3A681"
+    },
+    {
+      "percentage": 20,
+      "hex": " #836F48"
+    },
+    {
+      "percentage": 15,
+      "hex": " #604C2D"
+    },
+    {
+      "percentage": 15,
+      "hex": " #3E3423"
+    },
+    {
+      "percentage": 2,
+      "hex": " #868B84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #261F17"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A8864D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B3A681",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #836F48",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #604C2D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #3E3423",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #868B84",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #261F17",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A8864D",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 15,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 15,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 64,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 16,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [
+    "The Engagement at Bautersem"
+  ],
+  "description": "De slag bij Bautersem, 12 augustus 1831, gedurende de Tiendaagse Veldtocht. De staf van de prins van Oranje bestaande uit bereden officieren verzameld voor een boerenhuis. In het midden staat de prins naast zijn paard dat gewond is geraakt, naast de prins majoor Hoyel. Rechts soldaten van de infanterie en een gewonde officier. In het verschiet het slagveld.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Nicolaas Pieneman",
+      "unFixedName": "Pieneman, Nicolaas",
+      "placeOfBirth": "Amersfoort",
+      "dateOfBirth": "1809-01-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1860-12-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Nicolaas Pieneman (01-jan-1809 - 30-dec-1860)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Nicolaas Pieneman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1833",
+    "sortingDate": 1833,
+    "period": 19,
+    "yearEarly": 1833,
+    "yearLate": 1833
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3",
+      "44B15121"
+    ],
+    "iconClassDescription": [
+      "battle",
+      "prince"
+    ],
+    "motifs": [],
+    "events": [
+      "Belgische Revolutie",
+      "Tiendaagse Veldtocht",
+      "Slag bij Boutersem"
+    ],
+    "periods": [
+      "1831-08-121831-08-12"
+    ],
+    "places": [
+      "Boutersem"
+    ],
+    "people": [
+      "Willem II (koning der Nederlanden)",
+      "Hoyel, J.H."
+    ],
+    "objectNumbers": [
+      "SK-A-3913"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem II (koning der Nederlanden)",
+    "Hoyel, J.H."
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Nicolaas Pieneman",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "46"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "60.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Battle of Bautersem during the Ten Days\u2019 Campaign, Nicolaas Pieneman, 1833",
+  "subTitle": "h 46cm \u00d7 w 60.5cm",
+  "scLabelLine": "Nicolaas Pieneman (1809-1860), oil on canvas, 1833",
+  "label": {
+    "title": "The Battle of Bautersem during the Ten Days\u2019 Campaign",
+    "makerLine": "Nicolaas Pieneman (1809-1860), oil on canvas, 1833",
+    "description": "On 2 August 1831 Dutch troops invaded Belgium, which had seceded from the Netherlands in 1830. At the Battle of Bautersem, near Louvain, the horse that was ridden by the Prince of Orange, later King William II, was shot from beneath him. Nicolaas Pieneman recorded this heroic moment. Although the Ten Days\u2019 Campaign enflamed nationalist sentiments, it ended in a truce, and Belgium remained independent.",
+    "notes": null,
+    "date": "2013-02-06"
+  },
+  "showImage": true,
+  "location": "HG-1.12"
+}

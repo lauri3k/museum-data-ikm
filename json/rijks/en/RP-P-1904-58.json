@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-58",
+  "priref": "181548",
+  "objectNumber": "RP-P-1904-58",
+  "language": "en",
+  "title": "Portret van Godard van Reede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f51256a6-6b39-421c-a7ea-b6eb9676cef9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1670,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/w7n8gj4g392Gmoxs40bZn_Hd1gKuctQz-d2MjKP7y2B8XmaMnaMuaX2IQp8m6_fB5z69mLm1uhKvSE3j3pHWFucg2KlZ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Godard van Reede"
+  ],
+  "description": "Portret van Godard van Reede, Heer van Nederhorst, Vreeland, Overmeer en Kortenhoef en gevolmachtigde van de Staten van Utrecht bij de vrede van M\u00fcnster. Onderaan in de marge een zesregelige tekst in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Abraham van Waesberge (I)",
+      "unFixedName": "Waesberge, Abraham van (I)",
+      "placeOfBirth": "Rotterdam",
+      "dateOfBirth": "1602",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Abraham van Waesberge (I) (1602 - ....), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jonas Suyderhoef",
+      "unFixedName": "Suyderhoef, Jonas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1686-05-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Haarlem",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jonas Suyderhoef (c. 1613 - 09-mei-1686)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jonas Suyderhoef",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-03-22T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1644",
+    "sortingDate": 1644,
+    "period": 17,
+    "yearEarly": 1644,
+    "yearLate": 1644
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede van Nederhorst, Godard van"
+    ],
+    "objectNumbers": [
+      "RP-P-1904-58"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede van Nederhorst, Godard van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 107",
+    "107",
+    "FMP 4398",
+    "4398"
+  ],
+  "principalOrFirstMaker": "Jonas Suyderhoef",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Godard van Reede, Jonas Suyderhoef, 1644",
+  "subTitle": "h 205mm \u00d7 w 130mm",
+  "scLabelLine": "Jonas Suyderhoef, 1644, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

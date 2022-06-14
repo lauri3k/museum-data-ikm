@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2018-61-8",
+  "priref": "709034",
+  "objectNumber": "RP-F-2018-61-8",
+  "language": "en",
+  "title": "Portret van onbekend echtpaar",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eeec08b8-0412-41bd-ac67-8a500a7f870a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1534,
+    "height": 1611,
+    "url": "https://lh3.googleusercontent.com/sOunK79So8t5XZqIyXjtKuGqOcsPhVZlu7DNAGlDIJGzZCEkW56n6QxsS16yk5RpekhBSmKmBi_b8cAGMDkbE37NvKEWpt6LyDwV-GE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van onbekend echtpaar"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "carte-de-visite",
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Samuel Van Grieken",
+      "unFixedName": "Van Grieken, Samuel",
+      "placeOfBirth": "Nederland",
+      "dateOfBirth": "1840-12-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Samuel Van Grieken (06-dec-1840 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Samuel Van Grieken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-05-31T00:00:00",
+    "creditLine": "Gift of J. Krijff and K. Green, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1857 - c. 1889",
+    "sortingDate": 1857,
+    "period": 19,
+    "yearEarly": 1857,
+    "yearLate": 1889
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "33C23"
+    ],
+    "iconClassDescription": [
+      "couple of lovers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Keokuk"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2018-61-8"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Samuel Van Grieken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van onbekend echtpaar, Samuel Van Grieken, 1857 - c. 1889",
+  "subTitle": "h 104mm \u00d7 w 62mm",
+  "scLabelLine": "Samuel Van Grieken, 1857 - c. 1889, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2017-206-41",
+  "priref": "712257",
+  "objectNumber": "RP-F-2017-206-41",
+  "language": "en",
+  "title": "Black in White America",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Black in White America"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Leonard Freed",
+      "unFixedName": "Freed, Leonard",
+      "placeOfBirth": "Brooklyn (New York)",
+      "dateOfBirth": "1929-10-23",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2006-11-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "New York",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "United States of America"
+      ],
+      "qualification": null,
+      "labelDesc": "Leonard Freed (23-okt-1929 - 30-nov-2006), United States of America"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Leonard Freed",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2018-03-21T00:00:00",
+    "creditLine": "On loan from J. Janse-de Ronde Bresser, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "baryta paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "United States of America"
+  ],
+  "dating": {
+    "presentingDate": "1963",
+    "sortingDate": 1963,
+    "period": 20,
+    "yearEarly": 1963,
+    "yearLate": 1963
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D12"
+    ],
+    "iconClassDescription": [
+      "fashion show"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2017-206-41"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Leonard Freed",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "246"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "372"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "372"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Black in White America, Leonard Freed, 1963",
+  "subTitle": "h 246mm \u00d7 w 372mm",
+  "scLabelLine": "Leonard Freed, 1963, gelatin silver print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

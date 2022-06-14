@@ -1,0 +1,257 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4840",
+  "priref": "5211",
+  "objectNumber": "SK-A-4840",
+  "language": "en",
+  "title": "Oph\u00e9lie, la cape bleue sur les eaux (Ophelia with a Blue Wimple in the Water)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "72866c5f-5a01-4431-9447-f565665f6038",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2267,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/NiChfcK3xebP4hDE2JFsvtiHSMhMpy2zN7fJM0cig8BiEtVLGr9Sh5ofOd82HItFm9gX4tAT6rfh_tx5WOUbdaeIIRY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#6F716E"
+    },
+    {
+      "percentage": 37,
+      "hex": " #A08B6D"
+    },
+    {
+      "percentage": 11,
+      "hex": " #47453E"
+    },
+    {
+      "percentage": 3,
+      "hex": " #475575"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B5AE9B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D5CCB7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #9F5841"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#6F716E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A08B6D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #47453E",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #475575",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B5AE9B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D5CCB7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9F5841",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 54,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 37,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 46,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 40,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 11,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [
+    "Oph\u00e9lie, la cape bleue sur les eaux"
+  ],
+  "description": "Voorstelling getiteld 'Oph\u00e9lie, la cape bleue sur les eaux'. Ophelia drijvend met gesloten ogen tussen bloemen in het water, ge\u00efnspireerd op Shakespeare's 'Hamlet'.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Odilon Redon",
+      "unFixedName": "Redon, Odilon",
+      "placeOfBirth": "Bordeaux",
+      "dateOfBirth": "1840-04-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1916-07-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Odilon Redon (22-apr-1840 - 06-jul-1916), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Odilon Redon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1986-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt and the Ministerie van WVC"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1900 - 1905",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1905
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "82AA(OPHELIA)",
+      "83(SHAKESPEARE, Hamlet)",
+      "31E2212",
+      "31E238"
+    ],
+    "iconClassDescription": [
+      "Ophelia",
+      "(scenes from) specific works of literature (with AUTHOR, Title)",
+      "drowned person",
+      "seeking death, suicide"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-4840"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Odilon Redon",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "54.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "49.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "2.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Oph\u00e9lie, la cape bleue sur les eaux (Ophelia with a Blue Wimple in the Water), Odilon Redon, 1900 - 1905",
+  "subTitle": "h 54.5cm \u00d7 w 49.5cm \u00d7 d 2.5cm",
+  "scLabelLine": "Odilon Redon (1849-1916), oil and pastel on paper, 1900-1905",
+  "label": {
+    "title": "Oph\u00e9lie, la cape bleue sur les eaux (Ophelia with a Blue Wimple in the Water)",
+    "makerLine": "Odilon Redon (1849-1916), oil and pastel on paper, 1900-1905",
+    "description": "Around 1900 young artists exhibited at various independent societies. Les Vingt in Brussels was such an association, of which both James Ensor and Jan Toorop were members and where Redon was invited to show his work. His dreamy, visionary art is part of Symbolism. Here he depicted the fatal drowning of Ophelia, the lover of Hamlet from the Shakespearean tragedy of the same title.",
+    "notes": null,
+    "date": "2019-11-19"
+  },
+  "showImage": true,
+  "location": null
+}

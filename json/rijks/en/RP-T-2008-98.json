@@ -1,0 +1,219 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2008-98",
+  "priref": "464228",
+  "objectNumber": "RP-T-2008-98",
+  "language": "en",
+  "title": "Johannes de Evangelist op Patmos",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d02bb080-fb39-4c86-a625-1882496dd97f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2190,
+    "url": "https://lh5.ggpht.com/G7WSDqdvW7MZMPbGFyO1XHwlHlJOK6LchfXDNpA3e4DUuHMhSM76ayh0JJQgufq4C1nj73G25ojN3ac8UEwg8VxaTVY=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#E0D3BC"
+    },
+    {
+      "percentage": 21,
+      "hex": " #6B594A"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C2AD94"
+    },
+    {
+      "percentage": 10,
+      "hex": " #937D66"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A09485"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5F2E8"
+    },
+    {
+      "percentage": 3,
+      "hex": " #3E3731"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E0D3BC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6B594A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2AD94",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #937D66",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #A09485",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F5F2E8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3E3731",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Evangelist op Patmos"
+  ],
+  "description": "Op een met bomen en struiken begroeid eilandje in de monding van een brede rivier zit de evangelist met boek en pen, vergezeld door de adelaar. Hoog in de hemel verschijnt het visioen van de vrouw, bekleed met de zon, onder haar voeten de maan en op haar hoofd een kroon van twaalf sterren (Openbaring 12:1).",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lodewijk Toeput",
+      "unFixedName": "Toeput, Lodewijk",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1603",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Treviso",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lodewijk Toeput (c. 1550 - c. 1603)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lodewijk Toeput",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": null,
+    "date": "2008-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1560 - 1603",
+    "sortingDate": 1560,
+    "period": 16,
+    "yearEarly": 1560,
+    "yearLate": 1603
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73G411",
+      "73G111"
+    ],
+    "iconClassDescription": [
+      "a pregnant woman, clothed with the sun and standing on the moon, appears; she is threatened by a red dragon with a long tail and seven heads",
+      "an angel sent by Christ appears to John on Patmos"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2008-98"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lodewijk Toeput",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "217"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "308"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Johannes de Evangelist op Patmos, Lodewijk Toeput, c. 1560 - 1603",
+  "subTitle": "h 217mm \u00d7 w 308mm",
+  "scLabelLine": "Lodewijk Toeput, c. 1560 - 1603, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

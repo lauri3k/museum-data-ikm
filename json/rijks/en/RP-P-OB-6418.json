@@ -1,0 +1,257 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-6418",
+  "priref": "452900",
+  "objectNumber": "RP-P-OB-6418",
+  "language": "en",
+  "title": "Wapenschild met ruit onder baldakijn",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1a767288-01d3-485f-99a3-9890aace48ef",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2520,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/KsAkVC2p0h1mf0W7lfHQZKUdZmDGOKZYyITe8l5nSySBcqbIehnsKjbNN7iMf93NK9F-Sg02Vv3wHOnKmWoug5L4zvA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#DBD3B6"
+    },
+    {
+      "percentage": 40,
+      "hex": " #F6F4DF"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C2BBA2"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9C9782"
+    },
+    {
+      "percentage": 3,
+      "hex": " #3C3B31"
+    },
+    {
+      "percentage": 3,
+      "hex": " #5C5A4B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #777461"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DBD3B6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F6F4DF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C2BBA2",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9C9782",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3C3B31",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #5C5A4B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #777461",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 40,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 82,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Wapenschild met ruit onder baldakijn",
+    "Verscheyden Wapenen"
+  ],
+  "description": "Op de baldakijn staan drie vlaggen. Blad uit serie wapenschilden met lege compartimenten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Claes Jansz. Visscher (II)",
+      "unFixedName": "Visscher, Claes Jansz. (II)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1652-06-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Claes Jansz. Visscher (II) (1586 - 19-jun-1652), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1625",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1625
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-6418"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Orn Cat II 25",
+    "25"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "65"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "53"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Wapenschild met ruit onder baldakijn, anonymous, 1625",
+  "subTitle": "h 65mm \u00d7 w 53mm",
+  "scLabelLine": "anonymous, 1625, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

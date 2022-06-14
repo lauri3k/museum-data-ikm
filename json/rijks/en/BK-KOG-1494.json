@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-1494",
+  "priref": "18468",
+  "objectNumber": "BK-KOG-1494",
+  "language": "en",
+  "title": "Trowel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6a8062e8-73e3-426b-95bb-3c58a9c7a83b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1644,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/r7zj-FqjTczwN0GV3ftpHof7-QaY4IhDHk8IplnffCIUz8U8WLZ4IEyr6_hcOU9c64e1e9k3xwWzHP9JbKcjzzq-UcA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Troffel van zilver. Op de schep het gegraveerde wapen van burgemeester Cornelis de Graeff in een cartouche van kwabornament, met onderschrift. Het gedreven handvat wordt geheel gevormd door kwabornament.",
+  "labelText": null,
+  "objectTypes": [
+    "trowel"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Lutma (1584-1669)",
+      "unFixedName": "Lutma, Johannes (1584-1669)",
+      "placeOfBirth": "Emden",
+      "dateOfBirth": "1584",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "silversmith",
+        "draughtsman"
+      ],
+      "roles": [
+        "silversmith"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Johannes Lutma (1584-1669) (1584 - jan-1669), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Lutma (1584-1669)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1648",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1648
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A9862",
+      "48A9876"
+    ],
+    "iconClassDescription": [
+      "auricular ornament, lobe style ~ ornament",
+      "ornament ~ cartouche"
+    ],
+    "motifs": [],
+    "events": [
+      "Steenlegging voor het stadhuis van Amsterdam"
+    ],
+    "periods": [
+      "1648-10-281648-10-28"
+    ],
+    "places": [
+      "Stadhuis van Amsterdam (1655-1808)"
+    ],
+    "people": [
+      "Graeff, Cornelis de",
+      "Graeff, Jacob de"
+    ],
+    "objectNumbers": [
+      "BK-KOG-1494"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Graeff, Cornelis de",
+    "Graeff, Jacob de"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "J. R. ter Molen, 'Auriculaire' in: A. Gruber (red.), L'art d\u00e9coratif en Europe. Classique et Baroque, Paris 1992, afb. p. 60."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Lutma (1584-1669)",
+  "dimensions": [
+    {
+      "unit": null,
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "3.5"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": "c.",
+      "part": null,
+      "value": "27.8"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "11.0"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "silver (metal)",
+  "longTitle": "Trowel, Johannes Lutma (1584-1669) (attributed to), 1648",
+  "subTitle": "h 3.5 \u00d7 l c.27.8cm \u00d7 w c.11.0cm \u00d7 w 249gr",
+  "scLabelLine": "attributed to Johannes Lutma I (c. 1584\u20131669), Amsterdam, 1648, silver",
+  "label": {
+    "title": "Trowel",
+    "makerLine": "attributed to Johannes Lutma I (c. 1584\u20131669), Amsterdam, 1648, silver",
+    "description": "The laying of the first stone of the Town Hall on Dam Square in Amsterdam was an especially solemn occasion, which was performed by four sons and nephews of the mayors. The mayors had special objects made at their own cost. This trowel, commissioned by the most important mayor, Cornelis de Graeff, is the most splendid. Both the handle and the blade are ornamented with fashionable Auricular-style motifs, Johannes Lutma\u2019s trademark.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.8"
+}

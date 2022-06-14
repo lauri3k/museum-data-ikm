@@ -1,0 +1,222 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-457",
+  "priref": "6468",
+  "objectNumber": "SK-A-457",
+  "language": "en",
+  "title": "The Merry Fiddler",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "50b345f1-4e84-4f9e-8480-df17c9d12142",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2349,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/EguuOAQL8x5kGCJnLU8JbRQtgSeGLg_RWtZu58jb_V4aDmgNN-rCP5uZhvxhIrdRDqzrG5aI83wbyVL6QDYTtuYAjA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 69,
+      "hex": "#1C120E"
+    },
+    {
+      "percentage": 14,
+      "hex": " #432C1D"
+    },
+    {
+      "percentage": 7,
+      "hex": " #6F5330"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B18E61"
+    },
+    {
+      "percentage": 3,
+      "hex": " #817156"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B2A890"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2C5A6"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#1C120E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #432C1D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #6F5330",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B18E61",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #817156",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B2A890",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D2C5A6",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 69,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5DEB3"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "The Merry Fiddler"
+  ],
+  "description": "De vrolijke speelman. Een man met viool en strijkstok brengt een roemer met witte wijn naar de mond.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ary de Vois",
+      "unFixedName": "Vois, Ary de",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1635",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1680-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Ary de Vois (c. 1635 - jul-1680)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ary de Vois",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1804-09-10T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1660 - 1680",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1680
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C323",
+      "48C7311"
+    ],
+    "iconClassDescription": [
+      "glass, rummer",
+      "violin, fiddle"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-457"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ary de Vois",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "22"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "19.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "The Merry Fiddler, Ary de Vois, 1660 - 1680",
+  "subTitle": "h 22cm \u00d7 w 19.5cm \u00d7 d 6cm",
+  "scLabelLine": "Ary de Vois (c. 1632\u20131680), oil on panel, 1660\u20131680",
+  "label": {
+    "title": "The Merry Fiddler",
+    "makerLine": "Ary de Vois (c. 1632\u20131680), oil on panel, 1660\u20131680",
+    "description": "That this musician is jolly is clear from his large glass of white wine. And that this is not his first drink can be deduced from his dazed expression, red nose and open, dishevelled shirt. These kinds of amusing paintings by Leiden fijnschilders (\u2018fine painters\u2019), such as Ary de Vois, found a ready public \u2013 perfectly executed and highly entertaining.",
+    "notes": null,
+    "date": "2019-07-25"
+  },
+  "showImage": true,
+  "location": "HG-2.24"
+}

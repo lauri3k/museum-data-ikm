@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-53.061",
+  "priref": "308507",
+  "objectNumber": "RP-P-OB-53.061",
+  "language": "en",
+  "title": "Longen en luchtpijp",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6d4b5bb8-565c-4fb6-aa57-81b7dd2fcdcf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1600,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/PeLbl-VrHpQ0PPmIYHIWmKk9L1gruxX-XKlpxUuskN-_uqlmbpEAZeMLxbyb-CERDpNFu3yPQQ3n9RdvPJgV-o9X4wo_PJBLOFOUn1dmVQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Longen en luchtpijp"
+  ],
+  "description": "Prent is om de buitenste randen van de voorstelling afgesneden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lucas Kilian",
+      "unFixedName": "Kilian, Lucas",
+      "placeOfBirth": "Augsburg",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lucas Kilian (1579 - 1637)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas Kilian",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1589 - 1637",
+    "sortingDate": 1589,
+    "period": 16,
+    "yearEarly": 1589,
+    "yearLate": 1637
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A2222",
+      "48C7334"
+    ],
+    "iconClassDescription": [
+      "lungs, bronchia",
+      "organ"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-53.061"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lucas Kilian",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "66"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "48"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Longen en luchtpijp, Lucas Kilian, 1589 - 1637",
+  "subTitle": "h 66mm \u00d7 w 48mm",
+  "scLabelLine": "Lucas Kilian, 1589 - 1637, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

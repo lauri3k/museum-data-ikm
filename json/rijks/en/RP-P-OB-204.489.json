@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-204.489",
+  "priref": "550508",
+  "objectNumber": "RP-P-OB-204.489",
+  "language": "en",
+  "title": "Paas-prys / Jezus lyden / dood en begravinge",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "eb568000-e193-4fe5-b941-f225db0268bf",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2018,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/T4QcnFLH2ImZ3tnEghAIeeu9Oip09qeyY0y-aDf3BJPixS8tkDNv4U1zGw5b0_bkLtGbbzjKcR-8tepEqzCGyFFO3PrY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Paas-prys / Jezus lyden / dood en begravinge"
+  ],
+  "description": "Blad met 4 voorstellingen uit het leven van Christus: de doornenkroning, Christus aan het volk getoond (Ecce Homo), Christus op de koude steen terwijl soldaten hem te drinken geven en de bewening van Christus met Maria en Nicodemus onder het kruis. Linksonder in elke afbeelding een knielende persoon met in boekdruk de tekst: Coninck / Raetsheer / Krysman / Hvisman. Midden boven in elke afbeelding een letter: R / V / A / M. Onder elke afbeelding een onderschrift en een verwijzing naar de bijbehorende Bijbeltekst. Genummerd rechtsboven: No. 6.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Erve H. Rynders",
+      "unFixedName": "Rynders, Erve H.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "bookseller"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Erve H. Rynders, Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Erve H. Rynders",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1831 - 1854",
+    "sortingDate": 1831,
+    "period": 19,
+    "yearEarly": 1831,
+    "yearLate": 1854
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352",
+      "73D36",
+      "73D53",
+      "73D714",
+      "73D72121"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)",
+      "Pilate showing Christ to the people, 'Ostentatio Christi', 'Ecce Homo' (John 19:4-6)",
+      "Christ is offered a benumbing drink, but he refuses it",
+      "the empty cross(es)",
+      "Christ's body supported by Mary, others present"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-204.489"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Erve H. Rynders",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "405"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "313"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Paas-prys / Jezus lyden / dood en begravinge, Erve H. Rynders, 1831 - 1854",
+  "subTitle": "h 405mm \u00d7 w 313mm",
+  "scLabelLine": "Erve H. Rynders, 1831 - 1854, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

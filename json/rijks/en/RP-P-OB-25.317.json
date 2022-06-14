@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-25.317",
+  "priref": "222237",
+  "objectNumber": "RP-P-OB-25.317",
+  "language": "en",
+  "title": "Riet",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "50e6f62b-a731-4060-b107-9bb96f6a2821",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1812,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/PJiNYbAHFO9fYBnaxEsO0sdtLG7bKvnDfQKXCMuMb3HIPjFxSgdwVvw572HdnbKgHLFj35QiVV0rvuL3QYq8izmMdzJmDbAFBkQC_Vp9=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Riet",
+    "Etude de roseau"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Philip Zilcken",
+      "unFixedName": "Zilcken, Philip",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1857-04-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1930-10-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Villefranche-sur-Mer",
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Philip Zilcken (20-apr-1857 - 03-okt-1930)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philip Zilcken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1890 - 1930",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1930
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-25.317"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Philip Zilcken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "348"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "241"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "drypoint",
+  "longTitle": "Riet, Philip Zilcken, 1890 - 1930",
+  "subTitle": "h 348mm \u00d7 w 241mm",
+  "scLabelLine": "Philip Zilcken, 1890 - 1930, drypoint",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

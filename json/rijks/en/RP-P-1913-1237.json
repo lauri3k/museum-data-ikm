@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1913-1237",
+  "priref": "224150",
+  "objectNumber": "RP-P-1913-1237",
+  "language": "en",
+  "title": "Moord op graaf Floris V",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d4d0aac5-27b9-4a86-a10c-613d4575b2b7",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1398,
+    "height": 2147,
+    "url": "https://lh3.googleusercontent.com/k7GZ-TmteBwOj8CVQp3aTo-nsGT_KwJ5PGNATbQWcc-hCyaulk04ax-pCZzKDuYErKmuesi3oaBwGxHX7dZsq0QyxqiPysLU--Nwaj-x=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Moord op graaf Floris V",
+    "Serie prenten over historische gebeurtenissen"
+  ],
+  "description": "Graaf Floris V was gevangen genomen door onder andere Gerard van Velsen. Toen hij de graaf ergens anders wilde onderbrengen stuitte Van Velsen op problemen. Een groep Gooilanders eisten hem op. Van Velsen reed terug en, voordat de Gooilanders in de buurt konden komen, stak hij graaf Floris V neer.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1913-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1809 - 1899",
+    "sortingDate": 1809,
+    "period": 19,
+    "yearEarly": 1809,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31E234631"
+    ],
+    "iconClassDescription": [
+      "violent death by sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Floris V (graaf van Holland en Zeeland)"
+    ],
+    "objectNumbers": [
+      "RP-P-1913-1237"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Floris V (graaf van Holland en Zeeland)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Moord op graaf Floris V, anonymous, 1809 - 1899",
+  "subTitle": "h 160mm \u00d7 w 90mm",
+  "scLabelLine": "anonymous, 1809 - 1899, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1938-678",
+  "priref": "404370",
+  "objectNumber": "RP-P-1938-678",
+  "language": "en",
+  "title": "Portret van Roger Long",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Roger Long"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Thomas Cook",
+      "unFixedName": "Cook, Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1744",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1818",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas Cook (1744 - 1818), England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas Cook",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1938-01-01T00:00:00",
+    "creditLine": "Gift of Kunsthandel D.H. Cevat"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1769 - 1818",
+    "sortingDate": 1769,
+    "period": 18,
+    "yearEarly": 1769,
+    "yearLate": 1818
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "48A9877",
+      "49E1(+3)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "ornament ~ medallion",
+      "astronomy (and cosmography) (+ portrait of scholar, scientist)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Long, Roger"
+    ],
+    "objectNumbers": [
+      "RP-P-1938-678"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Long, Roger"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Thomas Cook",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "157"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "94"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Roger Long, Thomas Cook, 1769 - 1818",
+  "subTitle": "h 157mm \u00d7 w 94mm",
+  "scLabelLine": "Thomas Cook, 1769 - 1818, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

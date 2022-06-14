@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1050A-3",
+  "priref": "676847",
+  "objectNumber": "RP-F-2001-7-1050A-3",
+  "language": "en",
+  "title": "Blue Mountain Lake",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0e41b70c-dc26-4199-baa1-f6b8c8e1a6fb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1943,
+    "url": "https://lh3.googleusercontent.com/jKemNxRpIs6X5yuKczfGJ8_rTA4dIFH22mhPREOS1f40bSMKti9PykFqwcGX8jmvw3zlaPciiFu5cd3uT199-bks4Vow049txwHGAWvI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Blue Mountain Lake"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Seneca Ray Stoddard",
+      "unFixedName": "Stoddard, Seneca Ray",
+      "placeOfBirth": "Wilton",
+      "dateOfBirth": "1844-05-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1917-05-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Glens Falls",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Seneca Ray Stoddard (13-mei-1844 - 03-mei-1917), New York"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Seneca Ray Stoddard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "New York"
+  ],
+  "dating": {
+    "presentingDate": "1891",
+    "sortingDate": 1891,
+    "period": 19,
+    "yearEarly": 1891,
+    "yearLate": 1891
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H214"
+    ],
+    "iconClassDescription": [
+      "lake"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Blue Mountain Lake"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1050A-3"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Seneca Ray Stoddard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "110"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Blue Mountain Lake, Seneca Ray Stoddard, 1891",
+  "subTitle": "h 110mm \u00d7 w 176mm",
+  "scLabelLine": "Seneca Ray Stoddard, 1891, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

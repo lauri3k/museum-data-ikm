@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1915-11",
+  "priref": "176473",
+  "objectNumber": "RP-P-1915-11",
+  "language": "en",
+  "title": "Portret van Philipp Karl, graaf van Alvensleben-Hundisburg",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cd0934c5-4578-4db5-ac27-2b56fae34c6b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1603,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Fl0YM-n4Oi1cD-PHG7Y49KXJjB1-w48xasmXDYUHNnQH2fl9KSTyuHxf5Wa3Ayxqo-Yh2es3NfaTsx-lP5PwMsns7A3ZzPhQzYXEvB1f=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Philipp Karl, graaf van Alvensleben-Hundisburg"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Heinrich Sintzenich",
+      "unFixedName": "Sintzenich, Heinrich",
+      "placeOfBirth": "Mannheim",
+      "dateOfBirth": "1752-12-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1812",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "M\u00fcnchen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Heinrich Sintzenich (01-dec-1752 - 1812)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Heinrich Sintzenich",
+      "unFixedName": "Sintzenich, Heinrich",
+      "placeOfBirth": "Mannheim",
+      "dateOfBirth": "1752-12-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1812",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "M\u00fcnchen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Berlin"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Heinrich Sintzenich (01-dec-1752 - 1812), Berlin"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Heinrich Sintzenich",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Berlin"
+  ],
+  "dating": {
+    "presentingDate": "1795",
+    "sortingDate": 1795,
+    "period": 18,
+    "yearEarly": 1795,
+    "yearLate": 1795
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45B433",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "medals and other marks of military honour",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Alvensleben-Hundisburg, Philipp Karl Graf von"
+    ],
+    "objectNumbers": [
+      "RP-P-1915-11"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Alvensleben-Hundisburg, Philipp Karl Graf von"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Heinrich Sintzenich",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "135"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "82"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Philipp Karl, graaf van Alvensleben-Hundisburg, Heinrich Sintzenich, 1795",
+  "subTitle": "h 135mm \u00d7 w 82mm",
+  "scLabelLine": "Heinrich Sintzenich, 1795, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

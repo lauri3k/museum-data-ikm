@@ -1,0 +1,172 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2018-3533",
+  "priref": "723381",
+  "objectNumber": "RP-P-2018-3533",
+  "language": "en",
+  "title": "Gezicht op het Rokin en de Langebrug",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ce226a97-50f4-4ec8-8529-7c9e8bd6093b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2140,
+    "url": "https://lh3.googleusercontent.com/txZe6NFi-vmFnGV2cogZsJeYbMbMHNBl2r1-bhlr807oClezcuHRzQI0cO0V1__xLIRnGMNxpES-GiAuadjBAK40pdSxLRAYmAnNA1yy=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op het Rokin en de Langebrug",
+    "De Lange Brug te Amsterdam, naar de Beurs te zien / Vu\u00eb du Long Pont, et d'une partie de la Bourse"
+  ],
+  "description": "Op de achtergrond de Beurs van Hendrik de Keyser.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jan Barend Elwe",
+      "unFixedName": "Elwe, Jan Barend",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Barend Elwe, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Willem Writs",
+      "unFixedName": "Writs, Willem",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1731",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1786",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Willem Writs (1731 - 1786)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Writs",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1804",
+    "sortingDate": 1804,
+    "period": 19,
+    "yearEarly": 1804,
+    "yearLate": 1804
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1451",
+      "46C11213"
+    ],
+    "iconClassDescription": [
+      "bridge in city across river, canal, etc.",
+      "bascule bridge"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Langebrug",
+      "Rokin",
+      "Beurs van Hendrik de Keyser"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2018-3533"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Atlas van Stolk 4212",
+    "4212"
+  ],
+  "principalOrFirstMaker": "Willem Writs",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "159"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op het Rokin en de Langebrug, Willem Writs, 1804",
+  "subTitle": "h 159mm \u00d7 w 200mm",
+  "scLabelLine": "Willem Writs, 1804, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

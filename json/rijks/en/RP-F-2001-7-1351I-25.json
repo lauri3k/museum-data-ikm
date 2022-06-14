@@ -1,0 +1,150 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1351I-25",
+  "priref": "708342",
+  "objectNumber": "RP-F-2001-7-1351I-25",
+  "language": "en",
+  "title": "Gezicht op bergtoppen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d1970df0-ea91-415b-902c-de34a2e932d5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1607,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/OdUQ6ZQpBYBF4XqAu7UyKp6v405uPVGYb7wnSZXom2wOoG198BGITHKxOxPBTM9lDqEDg5kDIuKHTp3gxdy4n-3c3jlpVDqIPVMwxB_e=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op bergtoppen",
+    "Massif de la Vanoise - La orange casse"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Jean Malvaux",
+      "unFixedName": "Malvaux, Jean",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Malvaux"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Charles Puttemans",
+      "unFixedName": "Puttemans, Charles",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1850-06-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1933-06-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Charles Puttemans (11-jun-1850 - 26-jun-1933)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Charles Puttemans",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1897 - in or before 1902",
+    "sortingDate": 1897,
+    "period": 19,
+    "yearEarly": 1897,
+    "yearLate": 1902
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H1121"
+    ],
+    "iconClassDescription": [
+      "mountain-top, peak"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Vanoise, Massif de la"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1351I-25"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Charles Puttemans",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "149"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Gezicht op bergtoppen, Charles Puttemans, c. 1897 - in or before 1902",
+  "subTitle": "h 105mm \u00d7 w 149mm",
+  "scLabelLine": "Charles Puttemans, c. 1897 - in or before 1902, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

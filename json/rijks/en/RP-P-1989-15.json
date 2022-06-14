@@ -1,0 +1,171 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1989-15",
+  "priref": "241993",
+  "objectNumber": "RP-P-1989-15",
+  "language": "en",
+  "title": "Portret van Elizabeth Pennyman met haar kind",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3829daba-8640-4cb0-b5ac-1e54700d7b0e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1880,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/1xGRxIfYH-GmNxZM8dMf0hKrssdjgEtJpeB3VOLGjf88UxFCQhUpcaQYrc8A0drrcl_O7SaewnCUYe35I8woWsZYn9i69LhhqmEGeHo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Elizabeth Pennyman met haar kind"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1989-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1772",
+    "sortingDate": 1772,
+    "period": 18,
+    "yearEarly": 1772,
+    "yearLate": 1772
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2",
+      "42A3",
+      "25G21(APPLE)"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman",
+      "mother and baby or young child",
+      "fruits: apple"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Pennyman, Elizabeth"
+    ],
+    "objectNumbers": [
+      "RP-P-1989-15"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Pennyman, Elizabeth"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 99",
+    "99",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "454"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "328"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Elizabeth Pennyman met haar kind, Valentine Green, 1772",
+  "subTitle": "h 454mm \u00d7 w 328mm",
+  "scLabelLine": "Valentine Green, 1772, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

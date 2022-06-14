@@ -1,0 +1,219 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1521",
+  "priref": "7413",
+  "objectNumber": "SK-A-1521",
+  "language": "en",
+  "title": "The Roads of Enkhuizen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1e6c1b72-ebb1-42c9-90c2-0eb7f50ea96d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1808,
+    "url": "https://lh3.googleusercontent.com/XS2pLGI82L-4i1-6Sk5hBAIncLE6Bi1Z2x1krOar99Jglcq5S8jR3oQ_SicLLYOipuLLnhJY1yYuVrYH2u5S3fciqA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 20,
+      "hex": "#988E6D"
+    },
+    {
+      "percentage": 18,
+      "hex": " #AD9E74"
+    },
+    {
+      "percentage": 18,
+      "hex": " #897549"
+    },
+    {
+      "percentage": 15,
+      "hex": " #B7AB86"
+    },
+    {
+      "percentage": 13,
+      "hex": " #4E4229"
+    },
+    {
+      "percentage": 11,
+      "hex": " #6B5937"
+    },
+    {
+      "percentage": 3,
+      "hex": " #363121"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#988E6D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AD9E74",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #897549",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B7AB86",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4E4229",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6B5937",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #363121",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 53,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 28,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #808000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "The Roads of Enkhuizen"
+  ],
+  "description": "Zeegezicht met de rede van Enkhuizen. Op het water zeilen enkele oorlogsschepen, jachten en vissersboten.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Abraham Storck",
+      "unFixedName": "Storck, Abraham",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1644-04-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1708",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham Storck (17-apr-1644 - 1708)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Abraham Storck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1890-05-01T00:00:00",
+    "creditLine": "Gift of H.J., Baron van der Heim van Duivendijke"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1654 - 1708",
+    "sortingDate": 1654,
+    "period": 17,
+    "yearEarly": 1654,
+    "yearLate": 1708
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24",
+      "46C222"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat",
+      "ship in the roads, roadstead"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Enkhuizen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1521"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "\"MEDEDEELINGEN VAN VERSCHILLENDEN AARD.\". \"Nederlandsche staatscourant\". Landelijk, 03-05-1890, Geraadpleegd op Delpher op 15-02-2017, http://resolver.kb.nl/resolve?urn=MMKB08:000170112:mpeg21:p004"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Abraham Storck",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "117.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "The Roads of Enkhuizen, Abraham Storck, 1654 - 1708",
+  "subTitle": "h 86cm \u00d7 w 117.5cm \u00d7 d 8.5cm",
+  "scLabelLine": "Abraham Storck, 1654 - 1708, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

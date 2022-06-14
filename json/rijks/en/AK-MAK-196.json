@@ -1,0 +1,219 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-196",
+  "priref": "2071",
+  "objectNumber": "AK-MAK-196",
+  "language": "en",
+  "title": "Standing Buddha",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b25a7bb9-bf77-4f38-b8fd-f26a394a2559",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1788,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/gsYk4Ztg85aoRPGKwM8eW2wHVcJxMAATMwOIQHfvguwAhew9TzTckLS6dUSgXqIoAKTJdkIG4PMMjA9DQSvb1riD5ogx=s0"
+  },
+  "colors": [
+    {
+      "percentage": 70,
+      "hex": "#ACABAA"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2B2823"
+    },
+    {
+      "percentage": 6,
+      "hex": " #CACACA"
+    },
+    {
+      "percentage": 5,
+      "hex": " #4A453F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #6A655D"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8E8C8A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #12110C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ACABAA",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #2B2823",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #CACACA",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #4A453F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6A655D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8E8C8A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #12110C",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 70,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Standing Buddha"
+  ],
+  "description": "Staande Boeddha, gevonden op Zuid-Sumatra, de rechterhand in \"vitarka mudra\".",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture",
+    "figure"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (purchase auction collection Kleykamp, 1939)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "bronze (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 600 - c. 800",
+    "sortingDate": 600,
+    "period": 6,
+    "yearEarly": 600,
+    "yearLate": 800
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "12H13(BUDDHA)"
+    ],
+    "iconClassDescription": [
+      "Buddha, founder of Buddhism"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-196"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "F.D.K. Bosch, 'Driebronzen Buddha-beeldjes', MBK XIX (1942), p. 71-72. afb. 5.",
+    "Veilingcat. Oorlogsmuseum J.A. Wilton van Reede, 1939, cat.nr. 565."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "20.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "5.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "4.9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "bronze",
+  "longTitle": "Standing Buddha, anonymous, c. 600 - c. 800",
+  "subTitle": "h 20.0cm \u00d7 w 5.5cm \u00d7 d 4.9cm",
+  "scLabelLine": "Indonesia, South Sumatra, c. 600\u2013750, bronze",
+  "label": {
+    "title": "Standing Buddha",
+    "makerLine": "Indonesia, South Sumatra, c. 600\u2013750, bronze",
+    "description": "This kind of Buddha figurine is based on Indian models and was widely distributed in Southeast Asia, from Thailand to Indonesia. With his right hand, the Buddha is making the vitarka mudra, the gesture of teaching. The halo behind his head may be a later addition.",
+    "notes": null,
+    "date": "2013-03-28"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1950-257",
+  "priref": "28845",
+  "objectNumber": "RP-T-1950-257",
+  "language": "en",
+  "title": "Sancte Joane Batisti",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "85915df8-085c-4f2a-8ecd-89971c39678a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1874,
+    "height": 2506,
+    "url": "https://lh3.googleusercontent.com/KuNK3JGi1srIBebmjLvdm87Qj7boASIsGs5MzWnE5PV-PXPP2cWj44ky7ophTGSHym0INBjKP3WklWOGgYC0hN3uhj8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 12,
+      "hex": "#F6F4E2"
+    },
+    {
+      "percentage": 4,
+      "hex": " #625241"
+    },
+    {
+      "percentage": 13,
+      "hex": " #C2B28B"
+    },
+    {
+      "percentage": 19,
+      "hex": " #CACBBF"
+    },
+    {
+      "percentage": 16,
+      "hex": " #7F97A3"
+    },
+    {
+      "percentage": 33,
+      "hex": " #7F7A60"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F6F4E2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #625241",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2B28B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CACBBF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7F97A3",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7F7A60",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 16,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 13,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 54,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 31,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Sancte Joane Batisti"
+  ],
+  "description": "De heilige Johannes de Doper met een lam.",
+  "labelText": null,
+  "objectTypes": [
+    "miniature",
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Simon Bening",
+      "unFixedName": "Bening, Simon",
+      "placeOfBirth": "Gent",
+      "dateOfBirth": "1483",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1561",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brugge",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Simon Bening (1483 - 1561)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Simon Bening",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1950-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)",
+    "gouache (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1493 - 1561",
+    "sortingDate": 1493,
+    "period": 15,
+    "yearEarly": 1493,
+    "yearLate": 1561
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "41D26611"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "pearl; pearl necklace"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1950-257"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Simon Bening",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "122"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Sancte Joane Batisti, Simon Bening, 1493 - 1561",
+  "subTitle": "h 170mm \u00d7 w 122mm",
+  "scLabelLine": "Simon Bening, 1493 - 1561, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

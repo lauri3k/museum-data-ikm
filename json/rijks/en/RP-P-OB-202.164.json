@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-202.164",
+  "priref": "540260",
+  "objectNumber": "RP-P-OB-202.164",
+  "language": "en",
+  "title": "Geschiedenis van Rood-kapje / Histoire du petit Chaperon-Rouge",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d7987b24-086a-4768-a866-9edd2645afc2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2003,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/FdTEBm7wa2NOcy2w4RwI7Fnx4EM_FIWv_NFqoNEXvEc7l6tBGgBkLFanH4DvJ4IW_deWaB8U5kJt_3srqqzxKoboR6kR=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Geschiedenis van Rood-kapje / Histoire du petit Chaperon-Rouge"
+  ],
+  "description": "Blad met 20 voorstellingen uit het sprookje van Roodkapje. Onder elke voorstelling een onderschrift in het Nederlands en in het Frans. Genummerd midden boven: N. 220.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Brepols & Dierckx zoon",
+      "unFixedName": "Brepols & Dierckx zoon",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Brepols & Dierckx zoon"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Brepols & Dierckx zoon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1833 - 1911",
+    "sortingDate": 1833,
+    "period": 19,
+    "yearEarly": 1833,
+    "yearLate": 1911
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84",
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "verhalen en sprookjes",
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-202.164"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Brepols & Dierckx zoon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "376"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "302"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Geschiedenis van Rood-kapje / Histoire du petit Chaperon-Rouge, Brepols & Dierckx zoon, 1833 - 1911",
+  "subTitle": "h 376mm \u00d7 w 302mm",
+  "scLabelLine": "Brepols & Dierckx zoon, 1833 - 1911, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

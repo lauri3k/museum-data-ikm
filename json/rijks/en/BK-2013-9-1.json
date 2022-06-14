@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2013-9-1",
+  "priref": "522249",
+  "objectNumber": "BK-2013-9-1",
+  "language": "en",
+  "title": "Study Models of Parts of the Body",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "048d7b59-4ddb-4e08-997d-9c45d957bf44",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1715,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/Dz9ag1YojyQsbPV2keZ6j7ljFBVYB3uEsdOBW8CNJwY40UcrYeEzEQNUGgpbk2JcWYwAyBBw5sVSKRLP8DWeQNJG5Vs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Right Arm, after Michelangelo's Dusk"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johan Gregor van der Schardt",
+      "unFixedName": "Schardt, Johan Gregor van der",
+      "placeOfBirth": "Nijmegen",
+      "dateOfBirth": "1530",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1581",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johan Gregor van der Schardt (1530 - c. 1581)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johan Gregor van der Schardt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2013-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Frits en Phine Verhaaff Fonds/Rijksmuseum Fonds and Mr William Middendorf II, Little Compton"
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [
+    "casting"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1560 - c. 1570",
+    "sortingDate": 1560,
+    "period": 16,
+    "yearEarly": 1560,
+    "yearLate": 1570
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2013-9-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frits Scholten, 'Michelangelo's Mighty Models or the Legacy of Johan Gregor van der Schardt', in Stephan Koja en Claudia Kryza-Gersch (red.): Shadows of Time : Giambologna, Michelangelo and the Medici Chapel, Dresden 2018, p. 93-111.",
+    "Frits Scholten, 'Johan Gregor van der Schardt and the Moment of Self-Portraiture in Sculpture', Simiolus. Netherlands Quarterly for the History of Art 33 (2007/2008) nr. 4, p. 195-220.",
+    "U. Berger, 'Bemerkungen zum Werk von Johann Gregor van der Schardt anl\u00e4sslich der ersten Monographie \u00fcber den Bildhauer', Kunstchronik 46 (1993), no. 7, p. 367-368.",
+    "Michelangelo Models, Seattle (Cascade Gallery) 1977, cat.nr. 1-4, 6-7, 15, 17-18.",
+    "Henry Thode, 'Michelangelos Tonmodelle aus der H\u00e4hnelschen Sammlung', Monatshefte f\u00fcr Kunstwissenschaft 6 (1913), p. 309-317.",
+    "Henry Thode, 'Michelangelo', in: Michelangelo und das Ende der Renaissance 6, Berlijn 1913.",
+    "Inventarissen van het Praunsche Kabinett, 1616 and 1719."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johan Gregor van der Schardt",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "20.0"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "6.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "beige-firing and red-firing clay",
+  "longTitle": "Study Models of Parts of the Body, Johan Gregor van der Schardt, c. 1560 - c. 1570",
+  "subTitle": "l 20.0cm \u00d7 w 6.3cm",
+  "scLabelLine": "Johan Gregor van der Schardt (1530-c. 1581), terracotta, c. 1560-1570",
+  "label": {
+    "title": "Study Models of Parts of the Body",
+    "makerLine": "Johan Gregor van der Schardt (1530-c. 1581), terracotta, c. 1560-1570",
+    "description": "This group of small models of parts of the body are carefully copied after famous sculptures, in particular by Michelangelo, in Florence and Rome. They came from the workshop of the Nijmegen sculptor Johan Gregor van der Schardt, who had a successful career in Italy, Nuremberg, and Copenhagen. They are extremely rare examples of the, in part autograph, study material of a 16th-century sculptor.",
+    "notes": null,
+    "date": "2016-10-26"
+  },
+  "showImage": true,
+  "location": null
+}

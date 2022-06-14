@@ -1,0 +1,183 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-202.878",
+  "priref": "542905",
+  "objectNumber": "RP-P-OB-202.878",
+  "language": "en",
+  "title": "Op zee",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "adb92616-9774-4103-978e-e64d4dd13f87",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1992,
+    "url": "https://lh3.googleusercontent.com/HdAglggI-urCvhKiYl5aW4kcKHX5ZmAVBxaE8I4obW3GzOaLFZUPYP0vPuZLR0jZdlsDuXAfmM8789wEqDK4lvi_fWE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Op zee",
+    "Nieuwe Nederlandsche kinderprenten",
+    "Funke's prenten"
+  ],
+  "description": "Blad met 4 voorstellingen van een beurtschip, een stoomboot, een pink (schip) en een reddingsboot. Onder elke afbeelding een onderschrift. Genummerd rechtsboven: No. 104.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Emrik & Binger",
+      "unFixedName": "Emrik & Binger",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Emrik & Binger, Haarlem"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan de Haan",
+      "unFixedName": "Haan, Jan de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan de Haan, Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan de Haan",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Haarlem"
+  ],
+  "dating": {
+    "presentingDate": "1875 - 1903",
+    "sortingDate": 1875,
+    "period": 19,
+    "yearEarly": 1875,
+    "yearLate": 1903
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C21"
+    ],
+    "iconClassDescription": [
+      "ships (in general)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-202.878"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan de Haan",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "342"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "429"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Op zee, Jan de Haan, 1875 - 1903",
+  "subTitle": "h 342mm \u00d7 w 429mm",
+  "scLabelLine": "Jan de Haan, 1875 - 1903, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

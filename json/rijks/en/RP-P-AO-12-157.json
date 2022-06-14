@@ -1,0 +1,354 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-AO-12-157",
+  "priref": "393474",
+  "objectNumber": "RP-P-AO-12-157",
+  "language": "en",
+  "title": "Bal in het Huis ten Bosch ter ere van de verjaardag van de prins van Oranje, 1686",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f86dfd0-ec3e-44d6-9c63-b9d1a186b4d9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2087,
+    "height": 2856,
+    "url": "https://lh4.ggpht.com/3SZ3d85shwYjpCQv7y1z8JEdcpTmeRJ25LUHdKgvuQ-2aiP1W6DateAkmvRYsOUxQxY0RMU0jQOGc1MNuFgP0Qo0jPg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 18,
+      "hex": "#F2EEE3"
+    },
+    {
+      "percentage": 12,
+      "hex": " #CCC7BA"
+    },
+    {
+      "percentage": 9,
+      "hex": " #ABA599"
+    },
+    {
+      "percentage": 24,
+      "hex": " #848073"
+    },
+    {
+      "percentage": 28,
+      "hex": " #555147"
+    },
+    {
+      "percentage": 5,
+      "hex": " #33322A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F2EEE3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CCC7BA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ABA599",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #848073",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #555147",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #33322A",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 34,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 24,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 53,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 30,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 9,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Bal in het Huis ten Bosch ter ere van de verjaardag van de prins van Oranje, 1686",
+    "Afbeeldinge van 't Groote Bal gegeven bij H.K.H. Mevrouw de Princesse van Orange in Decemb: 1686 op de Saal van Orange in't Haagse Bosch ter eere der Geboorten van S.H. de Heere Prince van Orange",
+    "Representation de la grande Feste de S.A.R. Madame la Princesse d'Orange celebre en Desembre 1686 dans le Salon du Bois de la Haye a l'honneur du jour de la naissance de Monseigneur le Prince d'Orange"
+  ],
+  "description": "Bal in de Oranjezaal van het paleis Huis ten Bosch gegeven door Maria prinses van Oranje ter ere van de verjaardag van Willem III, de prins van Oranje, december 1686. Centraal op de vloer de prins en prinses, hier omheen een grote groep zittende en staande edelen. Bovenaan een portret van de prinses met putti, onderaan een cartouche met de opdracht aan de prinses met twee vrouwenfiguren met viool en tamboerijn. Met titels en legenda's 1-12 in het Nederlands en Frans. Gedrukt van twee platen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Dani\u00ebl Marot (I)",
+      "unFixedName": "Marot, Dani\u00ebl (I)",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1663",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1752-06-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dani\u00ebl Marot (I) (c. 1663 - 04-jun-1752), The Hague"
+    },
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Gole (c. 1660 - c. 1724), Amsterdam"
+    },
+    {
+      "name": "Staten-Generaal",
+      "unFixedName": "Staten-Generaal",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Staten-Generaal"
+    },
+    {
+      "name": "Maria II Stuart (koningin van Engeland, Schotland en Ierland)",
+      "unFixedName": "Maria II Stuart (koningin van Engeland, Schotland en Ierland)",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1662-04-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1695-01-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Kensington",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Maria II Stuart (koningin van Engeland, Schotland en Ierland) (30-apr-1662 - 07-jan-1695)"
+    },
+    {
+      "name": "Dani\u00ebl Marot (I)",
+      "unFixedName": "Marot, Dani\u00ebl (I)",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1663",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1752-06-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dani\u00ebl Marot (I) (c. 1663 - 04-jun-1752)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Dani\u00ebl Marot (I)",
+      "unFixedName": "Marot, Dani\u00ebl (I)",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1663",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1752-06-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dani\u00ebl Marot (I) (c. 1663 - 04-jun-1752), The Hague"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dani\u00ebl Marot (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1887-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "The Hague",
+    "The Hague",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1686 - 1687",
+    "sortingDate": 1686,
+    "period": 17,
+    "yearEarly": 1686,
+    "yearLate": 1687
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A23"
+    ],
+    "iconClassDescription": [
+      "ball, formal dance"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "1686-121686-12"
+    ],
+    "places": [
+      "Paleis Huis ten Bosch"
+    ],
+    "people": [
+      "Maria II Stuart (koningin van Engeland, Schotland en Ierland)",
+      "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+    ],
+    "objectNumbers": [
+      "RP-P-AO-12-157"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maria II Stuart (koningin van Engeland, Schotland en Ierland)",
+    "Willem III (prins van Oranje en koning van Engeland, Schotland en Ierland)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 406, nr. 2681."
+  ],
+  "catRefRPK": [
+    "FMH 2681",
+    "2681",
+    "Atlas van Stolk 2715",
+    "2715",
+    "Hollstein Dutch 7",
+    "7"
+  ],
+  "principalOrFirstMaker": "Dani\u00ebl Marot (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "810"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "560"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Bal in het Huis ten Bosch ter ere van de verjaardag van de prins van Oranje, 1686, Dani\u00ebl Marot (I), 1686 - 1687",
+  "subTitle": "h 810mm \u00d7 w 560mm",
+  "scLabelLine": "Dani\u00ebl Marot (I), 1686 - 1687, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

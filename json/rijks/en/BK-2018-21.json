@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2018-21",
+  "priref": "703250",
+  "objectNumber": "BK-2018-21",
+  "language": "en",
+  "title": "English horn",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2ca5575d-25d7-4214-97fc-59ef3b13a091",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1031,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/wA5VB8tdgeHpAZX6KW-Jh5o4oAYEgNeqGIxOR2RnEtLQ3mIULCC2voH9c7SLJInd8-edQ4UKd2tQx9oKdoN0hUnp-xIP72v3T5SaB38h=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "English horn"
+  ],
+  "description": "Engelse hoorn (of Althobo) van palmhout, gemonteerd met ivoor. Twaalf messing kleppen en een messing ring voor het koord. Het derde gat is dubbel. Gemarkeerd op het bovenste deel: [L met een kroon erboven] [waarschijnlijk later toegevoegd] / [dubbelkoppige adelaar] / S: KOCH / WIEN / [drie sterren] / INV: N\u00b0 5 [waarschijnlijk later toegevoegd]. Gemarkeerd op het middelste deel: [L met een kroon erboven] [waarschijnlijk later toegevoegd] / [dubbelkoppige adelaar] / S: KOCH / N\u00b0 5 [waarschijnlijk later toegevoegd]. Gemarkeerd op de beker: [L met een kroon erboven] [waarschijnlijk later toegevoegd] / INV: N\u00b0 5 [waarschijnlijk later toegevoegd] [dubbelkoppige adelaar] / S: KOCH / WIEN / [drie sterren]. In originele koffer, aan de buitenkant bekleed met leer en aan de binnenkant met fluweel. De koffer bevat twee bocals en een oud riet.",
+  "labelText": null,
+  "objectTypes": [
+    "musical instrument",
+    "wind instrument",
+    "oboe",
+    "English horn"
+  ],
+  "objectCollection": [
+    "musical instruments"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Stephan Koch",
+      "unFixedName": "Koch, Stephan",
+      "placeOfBirth": "Veszpr\u00e9m",
+      "dateOfBirth": "1772",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1828",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Wenen",
+      "occupation": [],
+      "roles": [
+        "musical instrument maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Vienna"
+      ],
+      "qualification": null,
+      "labelDesc": "Stephan Koch (1772 - 1828), Vienna"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Stephan Koch",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2018-03-12T00:00:00",
+    "creditLine": "Gift Han de Vries Collection, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "boxwood",
+    "ivory",
+    "brass (alloy)",
+    "leather",
+    "velvet (fabric weave)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Vienna"
+  ],
+  "dating": {
+    "presentingDate": "c. 1820 - before 1828",
+    "sortingDate": 1820,
+    "period": 19,
+    "yearEarly": 1820,
+    "yearLate": 1828
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2018-21"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Giovanni Paolo Di Stefano, 'The Rijksmuseum to acquire and display the Han De Vries collection of oboes', CIMCIM Bulletin, Jan. 2019, p. 22-24",
+    "Giovanni Paolo Di Stefano, \u2018The Rijksmuseum\u2019s Remarkable Collection of Oboes\u2019, The Double Reed 49, 2021, no. 2, p. 92-127: 111-113, 124, fig. 19-20"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Stephan Koch",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": "c.",
+      "part": null,
+      "value": "76"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "3.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.6"
+    },
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "13"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "7.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "boxwood",
+  "longTitle": "English horn, Stephan Koch, c. 1820 - before 1828",
+  "subTitle": "l c.76cm \u00d7 d 3.6cm",
+  "scLabelLine": "Stephan Koch, c. 1820 - before 1828, boxwood",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

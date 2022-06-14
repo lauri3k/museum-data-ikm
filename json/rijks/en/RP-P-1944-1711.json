@@ -1,0 +1,199 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1944-1711",
+  "priref": "332531",
+  "objectNumber": "RP-P-1944-1711",
+  "language": "en",
+  "title": "Oranje redt de Nederlanden van het Spaanse zeemonster, ca. 1577",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "db81ff75-ce7b-44a4-a6b7-9480da5e3a1d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2706,
+    "height": 2247,
+    "url": "https://lh4.ggpht.com/SynY0vxNpfOTABxL3YfFrGalWU_Zjow2g1fvWgXa4l6rkWsRsbeb7kKudW0yeYWtepsvJXwsJkQFXDuAbASMm6EtNb0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oranje redt de Nederlanden van het Spaanse zeemonster, ca. 1577"
+  ],
+  "description": "Politieke allegorie met Willem van Oranje die als Perseus de Nederlanden (Andromeda) komt redden van de Spaanse tirannie (het zeemonster), ca. 1577. Andromeda met wapen aangeduid als het hertogdom Brabant, rechts de vijftien andere provinciemaagden. Op de voorgrond afgehakte hoofden en de lichamen van mannen en kinderen, de eerdere slachtoffers van het zeemonster. Het wapen op het schild van de prins van Oranje en de wapens op de borst en rug van de draak zijn weggepolijst. In het onderschrift 1 vers van 8 regels en 2 verzen van 6 regels in het Nederlands.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Peeter Baltens",
+      "unFixedName": "Baltens, Peeter",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1528",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1584",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Peeter Baltens (1528 - 1584), Netherlands"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Wierix",
+      "unFixedName": "Wierix",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Wierix, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Wierix",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1944-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Netherlands",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1577 - 1578",
+    "sortingDate": 1577,
+    "period": 16,
+    "yearEarly": 1577,
+    "yearLate": 1578
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94P211"
+    ],
+    "iconClassDescription": [
+      "Perseus kills the sea monster (or turns it into stone by showing it the Gorgon's head) to release Andromeda; sometimes her parents Cepheus and Cassiopea watch the scene"
+    ],
+    "motifs": [],
+    "events": [
+      "Tachtigjarige Oorlog"
+    ],
+    "periods": [],
+    "places": [
+      "Brabant"
+    ],
+    "people": [
+      "Willem I (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "RP-P-1944-1711"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Mauquoy-Hendricx (Wierix) 1654",
+    "1654",
+    "Hollstein Dutch 1938",
+    "1938",
+    "FMH 588",
+    "588",
+    "Atlas van Stolk 463",
+    "463"
+  ],
+  "principalOrFirstMaker": "Wierix",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "332"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "411"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Oranje redt de Nederlanden van het Spaanse zeemonster, ca. 1577, Wierix (attributed to), 1577 - 1578",
+  "subTitle": "h 332mm \u00d7 w 411mm",
+  "scLabelLine": "Wierix, 1577 - 1578, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

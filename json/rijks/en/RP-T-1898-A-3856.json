@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1898-A-3856",
+  "priref": "300996",
+  "objectNumber": "RP-T-1898-A-3856",
+  "language": "en",
+  "title": "De rede van Vlissingen",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De rede van Vlissingen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Anthonie van Deventer",
+      "unFixedName": "Deventer, Willem Anthonie van",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1824-06-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1893-05-27",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem Anthonie van Deventer (30-jun-1824 - 27-mei-1893)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Anthonie van Deventer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1898-12-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1834 - 1893",
+    "sortingDate": 1834,
+    "period": 19,
+    "yearEarly": 1834,
+    "yearLate": 1893
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C223"
+    ],
+    "iconClassDescription": [
+      "harbour"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Vlissingen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1898-A-3856"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Anthonie van Deventer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "264"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "De rede van Vlissingen, Willem Anthonie van Deventer, 1834 - 1893",
+  "subTitle": "h 205mm \u00d7 w 264mm",
+  "scLabelLine": "Willem Anthonie van Deventer, 1834 - 1893, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

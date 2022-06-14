@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2018-3197",
+  "priref": "721772",
+  "objectNumber": "RP-P-2018-3197",
+  "language": "en",
+  "title": "Gezicht op Batavia",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "73098111-1bd9-46b4-a578-de2c29c824fa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1792,
+    "url": "https://lh3.googleusercontent.com/3XmMzVfhzNXGMddkNC4lMAETI3TWul1_H4igalN0AyXnIsPfest98qWHTlTKgJIIuKQE7SNq4o6LayWJi7vmRY9DuSRuD4-gfLgfWGs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Batavia",
+    "Batavia"
+  ],
+  "description": "Gezicht op Batavia met een groot aantal Oost-Indi\u00ebvaarders op de rede.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Fran\u00e7ois Halma",
+      "unFixedName": "Halma, Fran\u00e7ois",
+      "placeOfBirth": "Willige Langerak",
+      "dateOfBirth": "1653-01-03",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1722-01-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leeuwarden",
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Fran\u00e7ois Halma (03-jan-1653 - 13-jan-1722), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Anthonie de Winter",
+      "unFixedName": "Winter, Anthonie de",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1653",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1707",
+      "dateOfDeathPrecision": "in or after",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Anthonie de Winter (1653 - in or after 1707)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anthonie de Winter",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1705",
+    "sortingDate": 1705,
+    "period": 18,
+    "yearEarly": 1705,
+    "yearLate": 1705
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25K14",
+      "46C222"
+    ],
+    "iconClassDescription": [
+      "island (in tropical and sub-tropical regions)",
+      "ship in the roads, roadstead"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Batavia"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2018-3197"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anthonie de Winter",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "206"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "277"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Gezicht op Batavia, Anthonie de Winter (attributed to), 1705",
+  "subTitle": "h 206mm \u00d7 w 277mm",
+  "scLabelLine": "Anthonie de Winter, 1705, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

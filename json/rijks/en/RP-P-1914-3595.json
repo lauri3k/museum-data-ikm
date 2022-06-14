@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-3595",
+  "priref": "169925",
+  "objectNumber": "RP-P-1914-3595",
+  "language": "en",
+  "title": "Portret van Wichard von M\u00f6llendorff",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "03b45c59-38db-4828-b23f-5efb94ed065d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1726,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/bNIfdwl8p9hrkdKEbitcDmSBdh3iOVYwcKzLMnUvMVJsBLEcciWijOM4N_UXOi48s6PmvjzcaxB_3-kXtrtcTNafSldg9qlRDEeXbm0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Wichard von M\u00f6llendorff"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jean Marc Pascal",
+      "unFixedName": "Pascal, Jean Marc",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jean Marc Pascal"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Bennet Salomon",
+      "unFixedName": "Salomon, Bennet",
+      "placeOfBirth": "Polozk",
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1810",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bennet Salomon (.... - 1810)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bennet Salomon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1796",
+    "sortingDate": 1796,
+    "period": 18,
+    "yearEarly": 1796,
+    "yearLate": 1796
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45B433",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "medals and other marks of military honour",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "M\u00f6llendorff, Wichard von"
+    ],
+    "objectNumbers": [
+      "RP-P-1914-3595"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "M\u00f6llendorff, Wichard von"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bennet Salomon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "225"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "181"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Wichard von M\u00f6llendorff, Bennet Salomon, 1796",
+  "subTitle": "h 225mm \u00d7 w 181mm",
+  "scLabelLine": "Bennet Salomon, 1796, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

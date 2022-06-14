@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1886-A-10908H",
+  "priref": "486622",
+  "objectNumber": "RP-P-1886-A-10908H",
+  "language": "en",
+  "title": "Lijkstatie van Willem IV, 1752, plaat 8",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bb0b5320-7b39-49e8-a0cb-8aad57c05aef",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1285,
+    "url": "https://lh3.ggpht.com/hjHVFNEFObuRUhjORbaon0ZGyLlZiSG6ptFgCoRjSL0zSKPMhx1xrkr8qHAIFmskiMPLbDp7jh2C5ghlmrhNb2P3DbQb=s0"
+  },
+  "colors": [
+    {
+      "percentage": 69,
+      "hex": "#F8F7EC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #977B6A"
+    },
+    {
+      "percentage": 3,
+      "hex": " #C5B18B"
+    },
+    {
+      "percentage": 18,
+      "hex": " #DBD5C0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #899AA3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #5B656D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F8F7EC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #977B6A",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #C5B18B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DBD5C0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #899AA3",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5B656D",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 69,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 18,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BC8F8F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #778899"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 87,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F49B7A"
+    }
+  ],
+  "titles": [
+    "Lijkstatie van Willem IV, 1752, plaat 8",
+    "Hollandsche Guardes",
+    "Lyk-staetsie van zyne doorluchtigste Hoogheid den Heere Willem [IV] Carel Hendrik Friso, Prince van Orange en Nassau (...) gehouden den IV Februari 1752"
+  ],
+  "description": "De Hollandse Garde, voorafgegaan door muzikanten. In de marge het onderschrift in Nederlands, Frans en Engels. Onderdeel van een serie van 41 platen van de begrafenisstoet van stadhouder Willem IV te Delft op 4 februari 1752. Genummerd rechtsboven: 8.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Punt",
+      "unFixedName": "Punt, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1711-04-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1779-12-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Punt (02-apr-1711 - 18-dec-1779), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Punt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1886-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1752",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1752
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E22",
+      "45B51(+21)",
+      "45C9"
+    ],
+    "iconClassDescription": [
+      "cortege, funeral procession",
+      "military parade, pageant (+ infantry)",
+      "military music"
+    ],
+    "motifs": [],
+    "events": [
+      "Dood van Willem IV (1751)",
+      "Begrafenis van Willem IV (1752)"
+    ],
+    "periods": [
+      "1752-02-041752-02-04"
+    ],
+    "places": [
+      "Delft"
+    ],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-1886-A-10908H"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 190-191, nr. 4032/8."
+  ],
+  "catRefRPK": [
+    "FMH 4032",
+    "4032",
+    "Atlas van Stolk 4033",
+    "4033"
+  ],
+  "principalOrFirstMaker": "Jan Punt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "560"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Lijkstatie van Willem IV, 1752, plaat 8, Jan Punt, 1752",
+  "subTitle": "h 270mm \u00d7 w 560mm",
+  "scLabelLine": "Jan Punt, 1752, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

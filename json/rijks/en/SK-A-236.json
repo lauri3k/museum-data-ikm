@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-236",
+  "priref": "6725",
+  "objectNumber": "SK-A-236",
+  "language": "en",
+  "title": " Portrait of Jeanne-Elisabeth Sellon, Lady Tyrell",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0dab7123-e4c5-4277-8a7a-8d1681386b21",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 5,
+    "width": 1925,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/dqzYxPCsyl5CtNcDk-46dix8JkMxSaBJmFSbDHErwEPdBgru1iaZTn47Vlvm0PvhVS1B61z6-e9Dh7KW8Es64dm5kg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#808685"
+    },
+    {
+      "percentage": 14,
+      "hex": " #D1C5BC"
+    },
+    {
+      "percentage": 12,
+      "hex": " #E8E4E3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #413E35"
+    },
+    {
+      "percentage": 10,
+      "hex": " #5D6361"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C2A881"
+    },
+    {
+      "percentage": 0,
+      "hex": " #93ABBF"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#808685",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D1C5BC",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #E8E4E3",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #413E35",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #5D6361",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2A881",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #93ABBF",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B0C4DE"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 53,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 27,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 10,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [],
+  "description": "Portret van Jeanne-Elisabeth Sellon (geb. 1705). Echtgenote van Sir Charles Tyrell, 7de Baronet van Thornton (Buckinghamshire). Heupstuk, staande, met het hoofd naar rechts gewend, een waaier in de handen voor de buik.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean-Etienne Liotard",
+      "unFixedName": "Liotard, Jean-Etienne",
+      "placeOfBirth": "Gen\u00e8ve",
+      "dateOfBirth": "1702-12-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1789-06-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Gen\u00e8ve",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jean-Etienne Liotard (22-dec-1702 - 12-jun-1789)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean-Etienne Liotard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1873-01-01T00:00:00",
+    "creditLine": "Bequeathed by Miss Marie-Anne Liotard, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "parchment (animal material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1746",
+    "sortingDate": 1746,
+    "period": 18,
+    "yearEarly": 1746,
+    "yearLate": 1746
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61BB2",
+      "41D262"
+    ],
+    "iconClassDescription": [
+      "historical persons - BB - woman",
+      "fan"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Sellon, Jeanne-Elisabeth"
+    ],
+    "objectNumbers": [
+      "SK-A-236"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Sellon, Jeanne-Elisabeth"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "K. Posner en Robert van Langh [red.], Supporting Conservation : Four projects funded by Gieskes-Strijbis Fonds, Amsterdam 2015, p. 23, 29, 31, afb. 15, 18-21."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean-Etienne Liotard",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "63"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "48.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "8.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "parchment (animal material)",
+  "longTitle": " Portrait of Jeanne-Elisabeth Sellon, Lady Tyrell, Jean-Etienne Liotard, c. 1746",
+  "subTitle": "h 63cm \u00d7 w 48.5cm \u00d7 w 8.2kg",
+  "scLabelLine": "Jean-Etienne Liotard (1702-1789), pastel on vellum, c. 1746-1748",
+  "label": {
+    "title": " Portrait of Jeanne-Elisabeth Sellon, Lady Tyrell",
+    "makerLine": "Jean-Etienne Liotard (1702-1789), pastel on vellum, c. 1746-1748",
+    "description": "Like Liotard himself, Jeanne-Elisabeth Sellon was born in Geneva to Huguenot parents, who had been forced to flee France in 1685. She married an English baronet, Sir Charles Tyrell, in 1726. This work is one of the more imposing of Liotard\u2019s earlier portraits, with all the clarity and attention to detail that are the hallmarks of his best works.",
+    "notes": null,
+    "date": "2019-07-22"
+  },
+  "showImage": true,
+  "location": "HG-1.9"
+}

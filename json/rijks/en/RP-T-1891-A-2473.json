@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1891-A-2473",
+  "priref": "61253",
+  "objectNumber": "RP-T-1891-A-2473",
+  "language": "en",
+  "title": "Zeegezicht met enkele schepen op de rede liggend",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "649c1ef0-74a0-46ea-b327-634083251085",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2214,
+    "url": "https://lh3.ggpht.com/lksIHl4KXQhK6pm1Q69Fsn8lFYijihz-XX8f6eTmjh1bnG-mV2pxr04LwxC-jh279w_zm-7ZzkcfzpPJHj-AvOcXKQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FAF2DB"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D0C6AD"
+    },
+    {
+      "percentage": 72,
+      "hex": " #E8E0CA"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B0A48D"
+    },
+    {
+      "percentage": 4,
+      "hex": " #867E6C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5C5A53"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FAF2DB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D0C6AD",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E8E0CA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B0A48D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #867E6C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5C5A53",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 72,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 17,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 72,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 22,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Zeegezicht met enkele schepen op de rede liggend"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem van de Velde (II)",
+      "unFixedName": "Velde, Willem van de (II)",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1633-12-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1707-04-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Willem van de Velde (II) (18-dec-1633 - 06-apr-1707)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem van de Velde (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1891-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "pencil"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1643 - 1707",
+    "sortingDate": 1643,
+    "period": 17,
+    "yearEarly": 1643,
+    "yearLate": 1707
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24",
+      "46C232",
+      "46C222",
+      "25H23"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat",
+      "rowing-boat, canoe, etc.",
+      "ship in the roads, roadstead",
+      "sea (seascape)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1891-A-2473"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem van de Velde (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "151"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Zeegezicht met enkele schepen op de rede liggend, Willem van de Velde (II), 1643 - 1707",
+  "subTitle": "h 151mm \u00d7 w 200mm",
+  "scLabelLine": "Willem van de Velde (II), 1643 - 1707, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

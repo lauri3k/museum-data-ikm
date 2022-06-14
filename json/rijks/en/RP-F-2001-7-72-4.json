@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-72-4",
+  "priref": "613702",
+  "objectNumber": "RP-F-2001-7-72-4",
+  "language": "en",
+  "title": "The Llyn-Glas or blue lake",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c34c48f1-5bde-4f81-9fd0-af538cbb3ebd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1954,
+    "url": "https://lh3.googleusercontent.com/ZB1eChboOftmxXb7L7yWw03DJ9sRBmkYR-G3V-BxVQ2rMD5-mHiVhUHXQA9hfw03cJP9GbD7gqT9bsZ-NZdhUPgGyJU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The Llyn-Glas or blue lake"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Lovell Augustus Reeve",
+      "unFixedName": "Reeve, Lovell Augustus",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1814-04-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1865-11-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lovell Augustus Reeve (19-apr-1814 - 18-nov-1865)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Roger Fenton",
+      "unFixedName": "Fenton, Roger",
+      "placeOfBirth": "Heywood",
+      "dateOfBirth": "1819-03-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1869-08-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Roger Fenton (20-mrt-1819 - 08-aug-1869)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Roger Fenton",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "printing",
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1859",
+    "sortingDate": 1859,
+    "period": 19,
+    "yearEarly": 1859,
+    "yearLate": 1859
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H214"
+    ],
+    "iconClassDescription": [
+      "lake"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-72-4"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Roger Fenton",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "128"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "197"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing",
+  "longTitle": "The Llyn-Glas or blue lake, Roger Fenton, 1859",
+  "subTitle": "h 128mm \u00d7 w 197mm",
+  "scLabelLine": "Roger Fenton, 1859, printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

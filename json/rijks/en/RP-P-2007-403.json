@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2007-403",
+  "priref": "453004",
+  "objectNumber": "RP-P-2007-403",
+  "language": "en",
+  "title": "Val van Babylon",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8158f3e1-a2f4-421b-8051-a423073fa3a5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1829,
+    "height": 1986,
+    "url": "https://lh6.ggpht.com/g5Q95AeZ3k_oe-szITzHUYGKnWwAre2n9BFXMFJuxKpbQvVdDGWhz01HxuT8AgYJzWZHHH9kWVM6PIeYjWEoNPE6ifM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#B8B09A"
+    },
+    {
+      "percentage": 23,
+      "hex": " #DAD2BB"
+    },
+    {
+      "percentage": 14,
+      "hex": " #7F7967"
+    },
+    {
+      "percentage": 14,
+      "hex": " #575243"
+    },
+    {
+      "percentage": 8,
+      "hex": " #9A947F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F2EBD4"
+    },
+    {
+      "percentage": 2,
+      "hex": " #322F26"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B8B09A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DAD2BB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7F7967",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #575243",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #9A947F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F2EBD4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #322F26",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Val van Babylon",
+    "Openbaring van Johannes op Patmos",
+    "Icones Revelationum S Johs Evangeliste in Pathmo"
+  ],
+  "description": "Een engel werpt een steen, zo groot als een molensteen, in zee. Op de achtergrond het brandende Babylon. Op de voorgrond rouwende mensen die stof over hun hoofd gooien. In de marge een vierregelig onderschrift in het Latijn. Twintigste prent uit een serie van vierentwintig met de openbaring van Johannes op Patmos.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gerard de Jode",
+      "unFixedName": "Jode, Gerard de",
+      "placeOfBirth": "Nijmegen",
+      "dateOfBirth": "1516",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1591-02-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Gerard de Jode (c. 1516 - 05-feb-1591), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Adriaen Collaert",
+      "unFixedName": "Collaert, Adriaen",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1618-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Adriaen Collaert (c. 1560 - 29-jun-1618)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Adriaen Collaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2007-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1585",
+    "sortingDate": 1585,
+    "period": 16,
+    "yearEarly": 1585,
+    "yearLate": 1585
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73G4933"
+    ],
+    "iconClassDescription": [
+      "a mighty angel casting a great (mill)stone into the sea"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2007-403"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Mielke 60",
+    "60",
+    "New Hollstein Dutch 419",
+    "419"
+  ],
+  "principalOrFirstMaker": "Adriaen Collaert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "78"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Val van Babylon, Adriaen Collaert (attributed to), 1585",
+  "subTitle": "h 84mm \u00d7 w 78mm",
+  "scLabelLine": "Adriaen Collaert, 1585, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

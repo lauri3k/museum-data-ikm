@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1913-3450",
+  "priref": "390418",
+  "objectNumber": "RP-P-1913-3450",
+  "language": "en",
+  "title": "Onderboezems in Paleis Huis ten Bosch",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5df74070-9e4c-4042-9951-94694e924a3d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1817,
+    "height": 2862,
+    "url": "https://lh6.ggpht.com/1HrJSG8i0UcC-Twjf5m5uw_prBe6gXgm8iYQiDaPtNoVZ45gIKA9tblz8OnD5Es9_JJMXvRzXdk2yqSAsxU0037uFG9T=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Onderboezems in Paleis Huis ten Bosch",
+    "Schoorsteenen vande Cabinetten vande derde verdieping van de Sael van Orange",
+    "Schoorsteen-Wercken"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Jansz. Post",
+      "unFixedName": "Post, Pieter Jansz.",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1608",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-05-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Pieter Jansz. Post (1608 - 02-mei-1669), The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Matthysz.",
+      "unFixedName": "Matthysz., Jan",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Matthysz."
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Matthysz.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1913-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1664",
+    "sortingDate": 1664,
+    "period": 17,
+    "yearEarly": 1664,
+    "yearLate": 1664
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1913-3450"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Orn Cat II 9192",
+    "9192"
+  ],
+  "principalOrFirstMaker": "Jan Matthysz.",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "192"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "154"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Onderboezems in Paleis Huis ten Bosch, Jan Matthysz., 1664",
+  "subTitle": "h 192mm \u00d7 w 154mm",
+  "scLabelLine": "Jan Matthysz., 1664, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

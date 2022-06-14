@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-2863",
+  "priref": "385307",
+  "objectNumber": "RP-P-1905-2863",
+  "language": "en",
+  "title": "Prins Willem V vertrekt vanuit Scheveningen, 1795",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e7a457ae-bc13-4011-8a2f-2fcf29807640",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2328,
+    "height": 1791,
+    "url": "https://lh3.googleusercontent.com/XN2JdW-ZQMYmu9RGxjMNy8Emu0Ld0gw5jXdCbbcm6Q9RCbUPTVC8pGd27Ry_4K1VhTz-s5igarWxMz-gV1K5eResTg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Prins Willem V vertrekt vanuit Scheveningen, 1795",
+    "Vertrek van Prins Willem de 5de Van Scheveningen. 1795"
+  ],
+  "description": "Vertrek van prins Willem V vanaf het strand van Scheveningen naar Engeland, 18 januari 1795. De stadhouder neemt op het strand afscheid tussen het toegestroomde publiek. Links wacht de pink.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johannes Jelgerhuis",
+      "unFixedName": "Jelgerhuis, Johannes",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1770-09-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1836-10-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Jelgerhuis (24-sep-1770 - 06-okt-1836), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Jelgerhuis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1795",
+    "sortingDate": 1795,
+    "period": 18,
+    "yearEarly": 1795,
+    "yearLate": 1795
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C512"
+    ],
+    "iconClassDescription": [
+      "departure ~ travelling"
+    ],
+    "motifs": [],
+    "events": [
+      "Vertrek van Willem V naar Engeland"
+    ],
+    "periods": [
+      "1795-01-181795-01-18"
+    ],
+    "places": [
+      "Scheveningen"
+    ],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-1905-2863"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 340, nr. 5298A."
+  ],
+  "catRefRPK": [
+    "FMH 5298",
+    "5298"
+  ],
+  "principalOrFirstMaker": "Johannes Jelgerhuis",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "221"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "286"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Prins Willem V vertrekt vanuit Scheveningen, 1795, Johannes Jelgerhuis, 1795",
+  "subTitle": "h 221mm \u00d7 w 286mm",
+  "scLabelLine": "Johannes Jelgerhuis, 1795, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

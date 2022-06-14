@@ -1,0 +1,129 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1983-266",
+  "priref": "233689",
+  "objectNumber": "RP-P-1983-266",
+  "language": "en",
+  "title": "Drie sinaasappels",
+  "copyrightHolder": "C.M.R. van Verschuer",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Drie sinaasappels"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jeanne Bieruma Oosting",
+      "unFixedName": "Bieruma Oosting, Jeanne",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1898-02-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1994-07-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Almen",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Jeanne Bieruma Oosting (05-feb-1898 - 14-jul-1994)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jeanne Bieruma Oosting",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1983-01-01T00:00:00",
+    "creditLine": "Gift of J. Bieruma Oosting"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1908 - 1983",
+    "sortingDate": 1908,
+    "period": 20,
+    "yearEarly": 1908,
+    "yearLate": 1983
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G21(ORANGE)"
+    ],
+    "iconClassDescription": [
+      "fruits: orange"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1983-266"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jeanne Bieruma Oosting",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "247"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "393"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Drie sinaasappels, Jeanne Bieruma Oosting, 1908 - 1983",
+  "subTitle": "h 247mm \u00d7 w 393mm",
+  "scLabelLine": "Jeanne Bieruma Oosting, 1908 - 1983, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

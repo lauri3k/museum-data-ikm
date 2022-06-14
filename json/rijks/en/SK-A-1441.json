@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-1441",
+  "priref": "4691",
+  "objectNumber": "SK-A-1441",
+  "language": "en",
+  "title": "Dancing Party in the Forecourt of an Imaginary Palace with a Capriccio View of Venice in the Distance",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f02c1810-0d5f-4b58-a629-01e5ff562d22",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 744,
+    "url": "https://lh3.googleusercontent.com/d390vvzoDU-qrHPQpnQFu3QzcLz6pQjeqLH8aS0KVwvHpAXKmEni-dC9BHVUzRIDQTYWtH_2SdAIHqLhR-UKx3Ankj1efmI8WhpYsmv6YA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 24,
+      "hex": "#695439"
+    },
+    {
+      "percentage": 23,
+      "hex": " #2F312D"
+    },
+    {
+      "percentage": 17,
+      "hex": " #899795"
+    },
+    {
+      "percentage": 11,
+      "hex": " #8B7F65"
+    },
+    {
+      "percentage": 9,
+      "hex": " #4D5E63"
+    },
+    {
+      "percentage": 6,
+      "hex": " #5B7682"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C2B79E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#695439",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #2F312D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #899795",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8B7F65",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4D5E63",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #5B7682",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C2B79E",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 24,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Dancing Party in the Forecourt of an Imaginary Palace with a Capriccio View of Venice in the Distance"
+  ],
+  "description": "Elegant gezelschap op een terras van een lusthof. In het midden dansen drie paren op de muziek van een een groepje muzikanten. Rechts de aankomst van enkele personen in een gondel. Alles in een op Veneti\u00eb geinspireerde omgeving. Vermoedelijk de deksel van een virginaal.",
+  "labelText": null,
+  "objectTypes": [
+    "painting",
+    "virginal lid",
+    "musical instrument",
+    "stringed instrument",
+    "keyboard instrument",
+    "virginal"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1888-02-01T00:00:00",
+    "creditLine": "Gift of J.L. de Bruyn Kops"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "c. 1615",
+    "sortingDate": 1615,
+    "period": 17,
+    "yearEarly": 1615,
+    "yearLate": 1615
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A6",
+      "33A3",
+      "48CC72",
+      "25H1"
+    ],
+    "iconClassDescription": [
+      "garden",
+      "visiting; receiving guests; elegant company",
+      "musician - CC - out of doors",
+      "landscapes in the temperate zone"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Veneti\u00eb"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-1441"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "J. H. Giskes, 'Venetiaanse muziek in zeventiende-eeuwz Amsterdam', Amsterdam: Veneti\u00eb van het Noorden, red. van Margriet de Roever, Den Haag-Amsterdam: Gary Schwartz/SDU Gemeentearchief Amsterdam, 1991, p. 174-194: 179"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": "support",
+      "value": "51.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": "support",
+      "value": "171"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": "outer size",
+      "value": "6.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Dancing Party in the Forecourt of an Imaginary Palace with a Capriccio View of Venice in the Distance, anonymous, c. 1615",
+  "subTitle": "h c.51.5cm \u00d7 w c.171cm",
+  "scLabelLine": "anonymous, c. 1615, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

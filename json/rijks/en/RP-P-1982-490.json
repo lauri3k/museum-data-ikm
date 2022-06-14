@@ -1,0 +1,132 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1982-490",
+  "priref": "233488",
+  "objectNumber": "RP-P-1982-490",
+  "language": "en",
+  "title": "Black Devil",
+  "copyrightHolder": "C.M.R. van Verschuer",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Black Devil",
+    "Le Chapiteau"
+  ],
+  "description": "Deze prent maakt deel uit van een omslag met acht prenten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jeanne Bieruma Oosting",
+      "unFixedName": "Bieruma Oosting, Jeanne",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1898-02-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1994-07-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Almen",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Jeanne Bieruma Oosting (05-feb-1898 - 14-jul-1994)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jeanne Bieruma Oosting",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1982-01-01T00:00:00",
+    "creditLine": "Gift of J. Bieruma Oosting"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1938 - c. 1939",
+    "sortingDate": 1938,
+    "period": 20,
+    "yearEarly": 1938,
+    "yearLate": 1939
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A3745",
+      "43A361"
+    ],
+    "iconClassDescription": [
+      "horses (circus performance)",
+      "circus tent (outside)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1982-490"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jeanne Bieruma Oosting",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "384"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "309"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Black Devil, Jeanne Bieruma Oosting, c. 1938 - c. 1939",
+  "subTitle": "h 384mm \u00d7 w 309mm",
+  "scLabelLine": "Jeanne Bieruma Oosting, c. 1938 - c. 1939, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

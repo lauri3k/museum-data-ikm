@@ -1,0 +1,243 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-1978-20",
+  "priref": "325688",
+  "objectNumber": "BK-1978-20",
+  "language": "en",
+  "title": "Tazza met polychrome beschildering",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0d538b07-14de-46d0-8ff5-8d840712e549",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2062,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/BLUoeoeuCwoaXKhffdpzglo5TLe4oLeULG1M3cq9jbeh3ToUfE_0K473ski-XsFrgr3jxilvHM6GYTlDJf3eNHZq1uU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 14,
+      "hex": "#787475"
+    },
+    {
+      "percentage": 0,
+      "hex": " #EAEAEB"
+    },
+    {
+      "percentage": 26,
+      "hex": " #151D3C"
+    },
+    {
+      "percentage": 18,
+      "hex": " #4A4B5F"
+    },
+    {
+      "percentage": 40,
+      "hex": " #B7B3A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A88E2B"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#787475",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #EAEAEB",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #151D3C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4A4B5F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B7B3A9",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A88E2B",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 26,
+      "hex": " #191970"
+    },
+    {
+      "percentage": 18,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 32,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 26,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [
+    "Tazza met polychrome beschildering"
+  ],
+  "description": "Tazza met trompetvormige voet met omgeslagen rand. De massieve, cilindervormige stam, die van de kelk en de stam wordt gescheiden door schijven, heeft in het midden een geribde nodus tussen twee schijven. Schaalvormige kelk, optisch geblazen met straalsgewijs geplaatste ribben en een brede, platte rand. De voet gedecoreerd met bladranken, de stam met witte ringen, de rand van de kelk met een verguld schubmotief, verlevendigd met stippen. Op de nodus resten van verguldsel.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "glass"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "glassblower"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Venice"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Venice"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1978-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "gilding (material)"
+  ],
+  "techniques": [
+    "glassblowing",
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Venice"
+  ],
+  "dating": {
+    "presentingDate": "c. 1500 - c. 1525",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1525
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A9833"
+    ],
+    "iconClassDescription": [
+      "flowers ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-1978-20"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Journal of Glass Studies 24 (1982), p. 92.",
+    "Jaarversalg Rijksmuseum 100 (1978), p. 38, afb. 29."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "23.6"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "29.2"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "15.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glassblowing",
+  "longTitle": "Tazza met polychrome beschildering, anonymous, c. 1500 - c. 1525",
+  "subTitle": "h 23.6cm \u00d7 d 29.2cm",
+  "scLabelLine": "anonymous, c. 1500 - c. 1525, glassblowing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": "HG-0.5"
+}

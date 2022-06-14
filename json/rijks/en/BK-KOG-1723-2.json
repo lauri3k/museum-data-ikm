@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-1723-2",
+  "priref": "673418",
+  "objectNumber": "BK-KOG-1723-2",
+  "language": "en",
+  "title": "Onderdeel bloempiramide van Delfts aardewerk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "69d26ea7-17e0-4ba4-967d-826612967963",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1275,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/UbXzO60U7UXidAyHZUbowbxEZ0JLTPnqDOLX5xxpzRSUaeZ92R2EYqy1m-8sqep3enn_dg0IGNNJfJhnBjepFXQ7MlBQ5dzdQR1QlDMU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Onderdeel bloempiramide van Delfts aardewerk"
+  ],
+  "description": "Geleding van bloempiramide van faience. Versierd met bloemtakken en voorzien van vier tuiten.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1936-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1700",
+    "sortingDate": 1700,
+    "period": 17,
+    "yearEarly": 1700,
+    "yearLate": 1700
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I6",
+      "25I153",
+      "25G41"
+    ],
+    "iconClassDescription": [
+      "landscape with bridge, viaduct or aqueduct",
+      "obelisk, needle",
+      "flowers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-KOG-1723-2"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "10.2"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "16.6"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "16.6"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": null,
+  "longTitle": "Onderdeel bloempiramide van Delfts aardewerk, anonymous, c. 1700",
+  "subTitle": "h 10.2cm \u00d7 w 16.6cm \u00d7 d 16.6cm",
+  "scLabelLine": "anonymous, c. 1700",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

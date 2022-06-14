@@ -1,0 +1,204 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10269-4",
+  "priref": "709344",
+  "objectNumber": "BK-NM-10269-4",
+  "language": "en",
+  "title": "Onderdeel schouw van het Huydecoperhuis",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d5ac517c-0c44-4138-abf7-9ff3bedb514c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2440,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/lto5bRbdB-zF17In0rOp5OOW3L-l3SmnCz8P7_0wMtMcIZt2e1FkyXILNm-PiiqQEwX6yO-pjZFXa6S1tqVEiViggnN9zFVEHXDyRziA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Onderdeel schouw van het Huydecoperhuis"
+  ],
+  "description": "Onderdeel schouw behorend bij de schoorsteen van het Huydecoperhuis.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Joachim von Sandrart (I)",
+      "unFixedName": "Sandrart, Joachim von (I)",
+      "placeOfBirth": "Frankfurt am Main",
+      "dateOfBirth": "1606-05-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1688-10-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Joachim von Sandrart (I) (12-mei-1606 - 14-okt-1688)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Philips Vinckboons (II)",
+      "unFixedName": "Vinckboons, Philips (II)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1608",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-02-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "Philips Vinckboons (II) (1608 - 10-feb-1678), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philips Vinckboons (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1895-01-01T00:00:00",
+    "creditLine": "Gift of D. Franken, Le V\u00e9sinet"
+  },
+  "exhibitions": [],
+  "materials": [
+    "wood (plant material)",
+    "oak (wood)",
+    "linden",
+    "gilding (material)"
+  ],
+  "techniques": [
+    "gilding"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1639",
+    "sortingDate": 1639,
+    "period": 17,
+    "yearEarly": 1639,
+    "yearLate": 1639
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94I233",
+      "48C16"
+    ],
+    "iconClassDescription": [
+      "meeting of Nausicaa and Ulysses: Ulysses, almost naked, comes out of the bushes; Nausicaa and her companions are startled at the sight",
+      "architectural detail"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Huydecoperhuis"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-10269-4"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Philips Vinckboons (II)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "242"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "15"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "226.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "295.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "35.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "225"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gilding",
+  "longTitle": "Onderdeel schouw van het Huydecoperhuis, Philips Vinckboons (II), 1639",
+  "subTitle": "h 270cm \u00d7 w 242cm \u00d7 d 15cm",
+  "scLabelLine": "Philips Vinckboons (II), 1639, gilding",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

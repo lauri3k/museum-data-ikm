@@ -1,0 +1,273 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4650",
+  "priref": "10534",
+  "objectNumber": "SK-A-4650",
+  "language": "en",
+  "title": "Ecce Homo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "31f81cb4-feb3-4358-b77e-980fc755380c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1698,
+    "height": 2328,
+    "url": "https://lh3.googleusercontent.com/7_b-j2pyxud4zMTu9-6QjQ4HlTGiBCpdTaQ3p7r6wmCdyTBKDXiYsM5wLCJ53UwoKSAKiM3NLzbydPdxGviML4tAPg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 27,
+      "hex": "#462F25"
+    },
+    {
+      "percentage": 20,
+      "hex": " #4B4B3A"
+    },
+    {
+      "percentage": 16,
+      "hex": " #7B6544"
+    },
+    {
+      "percentage": 14,
+      "hex": " #25231B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8C4B34"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8A7A5A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AB9D79"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#462F25",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #4B4B3A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #7B6544",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #25231B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #8C4B34",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #8A7A5A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AB9D79",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#8B4513"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Ecce Homo"
+  ],
+  "description": "Ecce homo. De heilige Brigitta knielt bij de staande Christus die door Pilatus aan het volk wordt getoond. Op de achtergrond de geseling en de doornenkroning.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Low Countries"
+      ],
+      "qualification": "rejected attribution",
+      "labelDesc": "rejected attribution anonymous, Low Countries"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Brabant"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Brabant"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Brabant",
+    "Low Countries"
+  ],
+  "dating": {
+    "presentingDate": "c. 1520",
+    "sortingDate": 1520,
+    "period": 16,
+    "yearEarly": 1520,
+    "yearLate": 1520
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D361",
+      "11HH(BRIDGET)",
+      "73D35"
+    ],
+    "iconClassDescription": [
+      "Christ alone (also called 'Ecce Homo')",
+      "the foundress of the Order of Bri(d)gettines, the widow Bridget (Birgitta) of Sweden; possible attributes: band over veil with five red spots, book, candle, heart with cross, inkhorn, pilgrim's hat, staff, wallet",
+      "tortures of Christ"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-4650"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "sightsize",
+      "value": "52.7"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "sightsize",
+      "value": "38.6"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": "support",
+      "value": "60"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": "support",
+      "value": "45"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Ecce Homo, anonymous, c. 1520",
+  "subTitle": "h 52.7cm \u00d7 w 38.6cm",
+  "scLabelLine": "anonymous, c. 1520, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

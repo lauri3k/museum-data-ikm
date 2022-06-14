@@ -1,0 +1,240 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-11.859",
+  "priref": "34605",
+  "objectNumber": "RP-P-OB-11.859",
+  "language": "en",
+  "title": "Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "43165342-ce56-4a49-8105-a089cd2ef2e2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1552,
+    "height": 2430,
+    "url": "https://lh6.ggpht.com/XNdnWsD5TwmaeSCmKXosZxmNZhQlxNtYB76SGbxiORe9L3zyjuB3igKpAupwSGrHIvtVUK-JGm_9C-YkR1TlltheAok=s0"
+  },
+  "colors": [
+    {
+      "percentage": 39,
+      "hex": "#E9E3D5"
+    },
+    {
+      "percentage": 21,
+      "hex": " #897C68"
+    },
+    {
+      "percentage": 19,
+      "hex": " #CAC3B2"
+    },
+    {
+      "percentage": 7,
+      "hex": " #615C50"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B5AC9B"
+    },
+    {
+      "percentage": 4,
+      "hex": " #464239"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FEFEF5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E9E3D5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #897C68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CAC3B2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #615C50",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B5AC9B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #464239",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #FEFEF5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 39,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 21,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 19,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 1,
+      "hex": " #FFFAF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 60,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 29,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1500 - 1575",
+    "sortingDate": 1500,
+    "period": 15,
+    "yearEarly": 1500,
+    "yearLate": 1575
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-11.859"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Bartsch 150",
+    "150"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "79"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "47"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper, anonymous, 1500 - 1575",
+  "subTitle": "h 79mm \u00d7 w 47mm",
+  "scLabelLine": "anonymous, 1500 - 1575, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

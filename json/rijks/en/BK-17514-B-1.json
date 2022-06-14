@@ -1,0 +1,183 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-17514-B-1",
+  "priref": "242907",
+  "objectNumber": "BK-17514-B-1",
+  "language": "en",
+  "title": "Pair of vases (vases \u00e0 perles or vases \u00e0 panneaux)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "44ea56ac-cc02-493d-824a-b7007349b2bc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1754,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/zVe9paisU8XoNUD8m6TmdHL2PBZbWJ6wUO0XEgWWTQna70SbuhVjW8igqpB_F_i1-Unq4w8VNZZ6nTojvrv_ZQaAgy-f=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Eivormige vaas van veelkleurig beschilderd porselein, met een groene fond. De vaas heeft twee platte handvatten en een deksel. Op de voorkant is een medaillon waarbinnen twee soldaten en een vrouw bij een tafel met groente en een dodo, op de achterkant een wapentrofee.",
+  "labelText": null,
+  "objectTypes": [
+    "vase"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "\u00c9tienne-Maurice Falconet",
+      "unFixedName": "Falconet, \u00c9tienne-Maurice",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1716-12-01",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1791-01-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "sculptor"
+      ],
+      "roles": [
+        "designer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly \u00c9tienne-Maurice Falconet (01-dec-1716 - 24-jan-1791)"
+    },
+    {
+      "name": "Jean-Louis Morin",
+      "unFixedName": "Morin, Jean-Louis",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Jean-Louis Morin"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Manufacture de S\u00e8vres",
+      "unFixedName": "S\u00e8vres, Manufacture de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "porcelain company"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Manufacture de S\u00e8vres"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Manufacture de S\u00e8vres",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "gilding (material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1771",
+    "sortingDate": 1771,
+    "period": 18,
+    "yearEarly": 1771,
+    "yearLate": 1771
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45B",
+      "45L3111"
+    ],
+    "iconClassDescription": [
+      "de soldaat; het leven van een soldaat",
+      "'tropaion', i.e. decorative ornament ~ weapons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-17514-B-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Manufacture de S\u00e8vres",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "30.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "17.7"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "13.9"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7.4"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "porcelain",
+  "longTitle": "Pair of vases (vases \u00e0 perles or vases \u00e0 panneaux), Manufacture de S\u00e8vres, c. 1771",
+  "subTitle": "h 30.3cm \u00d7 w 17.7cm \u00d7 d 13.9cm \u00d7 d 7.4cm",
+  "scLabelLine": "S\u00e8vres, c. 1771, model: attributed to Etienne Maurice Falconet (1716-1791), painted decoration: attributed to Jean Louis Morin (1732-1787), painted and gilded soft-paste porcelain",
+  "label": {
+    "title": "Pair of vases (vases \u00e0 perles or vases \u00e0 panneaux)",
+    "makerLine": "S\u00e8vres, c. 1771, model: attributed to Etienne Maurice Falconet (1716-1791), painted decoration: attributed to Jean Louis Morin (1732-1787), painted and gilded soft-paste porcelain",
+    "description": "The classicizing shape of the vases was probably designed by the renowned sculptor Falconet, whose statue of Cupid is on view in this gallery. The vases owe their name to the simulated \u2018pearls\u2019 and raised panels with painted scenes. They may have formed a set with the vase ballon also displayed here, even though the green colour of the ground differs considerably.",
+    "notes": "Geldt ook voor BK-17514-C-1.",
+    "date": "2013-01-09"
+  },
+  "showImage": true,
+  "location": "HG-1.9"
+}

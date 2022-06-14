@@ -1,0 +1,128 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2013-15",
+  "priref": "534723",
+  "objectNumber": "BK-2013-15",
+  "language": "en",
+  "title": "Bowl on stand",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "34e4cc1f-b657-4316-8f43-bb7b790e0932",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 2498,
+    "url": "https://lh3.googleusercontent.com/D_VVP7fYMLYvXUAIZBLX5C3atzGHZQfwgijGsqlOrDnrU38mjHreEaXgVf1oEn5RjmUvDNeamYpQteHEsIwph0U6kZA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Kom met bloem- en plantmotieven in reli\u00ebf op een voet van opengewerkt keramiek, imitatie van celadon of jade. Het lichaam is wit, waarover een groen glazuur is aangebracht. Het glazuur is in de randen dikker aangebracht en donkerder van kleur. De voet en de kom zitten aaneen.",
+  "labelText": null,
+  "objectTypes": [
+    "bowl"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Th\u00e9odore Deck",
+      "unFixedName": "Deck, Th\u00e9odore",
+      "placeOfBirth": "Guebwiller",
+      "dateOfBirth": "1823-01-02",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1891-05-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "S\u00e8vres",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": null,
+      "labelDesc": "Th\u00e9odore Deck (02-jan-1823 - 15-mei-1891), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Th\u00e9odore Deck",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2013-11-14T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "c. 1890",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2013-15"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Th\u00e9odore Deck",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "11"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "14.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Bowl on stand, Th\u00e9odore Deck, c. 1890",
+  "subTitle": "h c.11cm \u00d7 w c.14.5cm",
+  "scLabelLine": "Th\u00e9odore Deck (1823-1891), ceramic, c. 1890",
+  "label": {
+    "title": "Bowl on stand",
+    "makerLine": "Th\u00e9odore Deck (1823-1891), ceramic, c. 1890",
+    "description": "Th\u00e9odore Deck drew his inspiration for this bowl directly from the light-green celadon porcelain which had been made in Asia since the 9th century. In addition to imitating the colour, he also mimicked the incised leaf and flower motifs. Yet here these resemble the forms that actually occur in nature, in contrast to the stylised designs of early Asian celadon ware.",
+    "notes": null,
+    "date": "2015-04-14"
+  },
+  "showImage": true,
+  "location": "HG-1.18"
+}

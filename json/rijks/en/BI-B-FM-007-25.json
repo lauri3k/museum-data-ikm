@@ -1,0 +1,273 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-B-FM-007-25",
+  "priref": "453658",
+  "objectNumber": "BI-B-FM-007-25",
+  "language": "en",
+  "title": "Soldaat met een musket die zijn lont overbrengt van zijn rechter- naar zijn linkerhand (nr. 15), ca. 1600",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4f21a008-16cd-4c64-8ba8-3b54af482764",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2080,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/zadM2cVakDAwKUvk--jNVoKW05c0Baa0He3uiDhv-dqP8pXdAG2eV4YgMOcKf2MWkDc7KB-XEe8f6d292pjt6_3VD81v=s0"
+  },
+  "colors": [
+    {
+      "percentage": 7,
+      "hex": "#F4F3EA"
+    },
+    {
+      "percentage": 33,
+      "hex": " #BBAA75"
+    },
+    {
+      "percentage": 0,
+      "hex": " #313029"
+    },
+    {
+      "percentage": 49,
+      "hex": " #DAD1B8"
+    },
+    {
+      "percentage": 4,
+      "hex": " #897C61"
+    },
+    {
+      "percentage": 4,
+      "hex": " #5B5445"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F3EA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BBAA75",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #313029",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #DAD1B8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #897C61",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5B5445",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 33,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 4,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 4,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 56,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 38,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Soldaat met een musket die zijn lont overbrengt van zijn rechter- naar zijn linkerhand (nr. 15), ca. 1600"
+  ],
+  "description": "Een soldaat, ten voeten uit, naar rechts, die een musket (een bepaald type vuurwapen) en een furket (musketvork) met zijn linkerhand vasthoudt (nr. 15), ca. 1600. De brandende lont in zijn rechterhand brengt hij over naar zijn linkerhand. Plaat 15 in de instructies voor het hanteren van het musket: Shorte instruction for the figures, so much concerneth the right use of muskett. Onderdeel van de illustraties in een Engelse editie van J. de Gheyns Wapenhandelinghe: J. de Gheyn, The exercise of armes for calivres, muskettes and pikes after the ordre of Maurits Prince of Orange, 's-Gravenhage 1608. Krijgswezen rond 1600.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Robert de Baudous",
+      "unFixedName": "Baudous, Robert de",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1575",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1659",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Wassenaar",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Robert de Baudous (1575 - after 1659), Northern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob de Gheyn (II)",
+      "unFixedName": "Gheyn, Jacob de (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1565",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1629-03-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "painter",
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Jacob de Gheyn (II) (1565 - 29-mrt-1629), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob de Gheyn (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1597 - 1608",
+    "sortingDate": 1597,
+    "period": 16,
+    "yearEarly": 1597,
+    "yearLate": 1608
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45B212",
+      "45C1"
+    ],
+    "iconClassDescription": [
+      "handling of weapons ~ military training",
+      "weapons"
+    ],
+    "motifs": [],
+    "events": [
+      "Tachtigjarige Oorlog"
+    ],
+    "periods": [
+      "15971608"
+    ],
+    "places": [],
+    "people": [
+      "Maurits (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BI-B-FM-007-25"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maurits (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 105, nr. 1117d/25."
+  ],
+  "catRefRPK": [
+    "FMH 1117",
+    "1117",
+    "New Hollstein Dutch 397",
+    "397"
+  ],
+  "principalOrFirstMaker": "Jacob de Gheyn (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "257"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "188"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Soldaat met een musket die zijn lont overbrengt van zijn rechter- naar zijn linkerhand (nr. 15), ca. 1600, Jacob de Gheyn (II) (workshop of), 1597 - 1608",
+  "subTitle": "h 257mm \u00d7 w 188mm",
+  "scLabelLine": "Jacob de Gheyn (II), 1597 - 1608, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

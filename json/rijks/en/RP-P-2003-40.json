@@ -1,0 +1,198 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2003-40",
+  "priref": "376923",
+  "objectNumber": "RP-P-2003-40",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "71df5b9a-16cb-43c9-9702-98605084133e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1607,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/R10HiTOXDse3hiJKwHr-W0W9YVMrfejaq2obv5znN0TFMQhwkMeFJvlN21zTkPCxV4-nenHQ7GKgmAGYSl5CLAoDRS4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning"
+  ],
+  "description": "Christus zit in een stenen kerker. De doornenkroon wordt door soldaten met stokken op zijn hoofd gedrukt. Boven een buste van Keizer Tiberius",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pompeo Ghitti",
+      "unFixedName": "Ghitti, Pompeo",
+      "placeOfBirth": "Marone",
+      "dateOfBirth": "1631",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1703",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brescia (provincie)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pompeo Ghitti (1631 - 1703), Italy"
+    },
+    {
+      "name": "Bartolomeo Narino",
+      "unFixedName": "Narino, Bartolomeo",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Bartolomeo Narino, Italy"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pompeo Ghitti",
+      "unFixedName": "Ghitti, Pompeo",
+      "placeOfBirth": "Marone",
+      "dateOfBirth": "1631",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1703",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brescia (provincie)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Pompeo Ghitti (1631 - 1703), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pompeo Ghitti",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2002-11-29T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy",
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1641 - 1703",
+    "sortingDate": 1641,
+    "period": 17,
+    "yearEarly": 1641,
+    "yearLate": 1703
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11D351",
+      "73D82(CROWN OF THORNS)",
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "Christ suffering (with crown of thorns, head usually turned sidewards)",
+      "crown of thorns ~ instruments of the Passion",
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Tiberius (keizer van het Romeinse Rijk)"
+    ],
+    "objectNumbers": [
+      "RP-P-2003-40"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Tiberius (keizer van het Romeinse Rijk)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 3",
+    "3",
+    "Bartsch 3",
+    "3",
+    "LeBlanc 3",
+    "3"
+  ],
+  "principalOrFirstMaker": "Pompeo Ghitti",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "439"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "276"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Doornenkroning, Pompeo Ghitti, 1641 - 1703",
+  "subTitle": "h 439mm \u00d7 w 276mm",
+  "scLabelLine": "Pompeo Ghitti, 1641 - 1703, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

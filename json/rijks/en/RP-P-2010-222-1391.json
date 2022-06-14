@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2010-222-1391",
+  "priref": "507189",
+  "objectNumber": "RP-P-2010-222-1391",
+  "language": "en",
+  "title": "Green in Focus",
+  "copyrightHolder": "erven Hannes Postma",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Green in Focus"
+  ],
+  "description": "Man met zonnebril en baard, op de rug gezien, kijkend naar vrouwentorso.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Printshop",
+      "unFixedName": "Printshop",
+      "placeOfBirth": null,
+      "dateOfBirth": "2003",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Printshop (2003 - ....), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Hannes Postma",
+      "unFixedName": "Postma, Hannes",
+      "placeOfBirth": "Haarlem",
+      "dateOfBirth": "1933-02-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2020-11-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Hannes Postma (20-feb-1933 - 05-nov-2020)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hannes Postma",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2022-05-03T00:00:00",
+    "creditLine": "Collection Piet Clement"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1969",
+    "sortingDate": 1969,
+    "period": 20,
+    "yearEarly": 1969,
+    "yearLate": 1969
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2010-222-1391"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hannes Postma",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "568"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "767"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "472"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "630"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Green in Focus, Hannes Postma, 1969",
+  "subTitle": "h 568mm \u00d7 w 767mm",
+  "scLabelLine": "Hannes Postma, 1969, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

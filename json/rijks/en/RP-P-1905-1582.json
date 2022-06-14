@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1905-1582",
+  "priref": "312592",
+  "objectNumber": "RP-P-1905-1582",
+  "language": "en",
+  "title": "Portret van Godard van Reede van Nederhorst",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6b494b4b-fd81-4000-8d9d-068021ddbd93",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1662,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/2UInJI7Y7X6T32kkxL1kTcqUcYcmWqiWe1laiMFtsiZ-2fUnX6R48exrOmD2K5oOPy_zEhqp2mOdsEHe2NfqywA8Uw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 28,
+      "hex": "#EFEBDA"
+    },
+    {
+      "percentage": 9,
+      "hex": " #CDCABA"
+    },
+    {
+      "percentage": 23,
+      "hex": " #ABA79A"
+    },
+    {
+      "percentage": 11,
+      "hex": " #838075"
+    },
+    {
+      "percentage": 16,
+      "hex": " #636156"
+    },
+    {
+      "percentage": 9,
+      "hex": " #3F3F38"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EFEBDA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CDCABA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ABA79A",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #838075",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #636156",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3F3F38",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 28,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 23,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 37,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 28,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 23,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 9,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Portret van Godard van Reede van Nederhorst",
+    "Celeberrimi ad pacificandum Christiani nominis orbem legati Monasterium et Osnabrugas (...)"
+  ],
+  "description": "Portret van Godard van Reede van Nederhorst, afgezant van de provincie Utrecht, tijdens de onderhandelingen voor de Vrede van M\u00fcnster. Portret in ovaal met randschrift. Boven het portret het wapen van de Zeven verenigde provinci\u00ebn, onder het familiewapen van Van Reede.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Staten-Generaal",
+      "unFixedName": "Staten-Generaal",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Staten-Generaal"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Galle (II)",
+      "unFixedName": "Galle, Cornelis (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1615",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-10-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (II) (1615 - 18-okt-1678), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Galle (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "in or before 1648",
+    "sortingDate": 1648,
+    "period": 17,
+    "yearEarly": 1648,
+    "yearLate": 1648
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede van Nederhorst, Godard van"
+    ],
+    "objectNumbers": [
+      "RP-P-1905-1582"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede van Nederhorst, Godard van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 219-308",
+    "219-308"
+  ],
+  "principalOrFirstMaker": "Cornelis Galle (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "308"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "195"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Godard van Reede van Nederhorst, Cornelis Galle (II), in or before 1648",
+  "subTitle": "h 308mm \u00d7 w 195mm",
+  "scLabelLine": "Cornelis Galle (II), in or before 1648, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

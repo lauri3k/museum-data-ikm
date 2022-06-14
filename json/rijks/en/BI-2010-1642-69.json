@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-2010-1642-69",
+  "priref": "508204",
+  "objectNumber": "BI-2010-1642-69",
+  "language": "en",
+  "title": "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (661) Chapeau Recouvert d'un Filet en Paille...",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "91e62b7a-2fac-4c99-8935-31f08a4eb402",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1133,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/L0z3qKiiGZwhKay4AN6qSejg4q8XFa9ZI1rz_DPBfRTcbcyiLzLYR2348xZscUtWF6rKtL9P7CgTNcjAWks3dFu8OyE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (661) Chapeau Recouvert d'un Filet en Paille..."
+  ],
+  "description": "Vrouw naar links, in Tablier-Robe met strikken op de rug. Lange handschoenen en armband. Hoedje overtrokken met banden van stro.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Pierre de la M\u00e9sang\u00e8re",
+      "unFixedName": "M\u00e9sang\u00e8re, Pierre de la",
+      "placeOfBirth": null,
+      "dateOfBirth": "1761",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1831",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pierre de la M\u00e9sang\u00e8re (1761 - 1831)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Horace Vernet",
+      "unFixedName": "Vernet, Horace",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1789-06-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1863-01-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Horace Vernet (30-jun-1789 - 17-jan-1863)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Horace Vernet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2010-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1805",
+    "sortingDate": 1805,
+    "period": 19,
+    "yearEarly": 1805,
+    "yearLate": 1805
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D11",
+      "41D225(LONG GLOVES)(+82)",
+      "41D262(+82)",
+      "41D221(HAT)(+82)",
+      "41D211(TABLIER-ROBE)(+82)"
+    ],
+    "iconClassDescription": [
+      "fashion plates",
+      "gloves, mittens (LONG GLOVES) (+ women's clothes)",
+      "fan (+ women's clothes)",
+      "head-gear: hat (+ women's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18051805"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BI-2010-1642-69"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Horace Vernet",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "181"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (661) Chapeau Recouvert d'un Filet en Paille..., Horace Vernet, 1805",
+  "subTitle": "h 181mm \u00d7 w 112mm",
+  "scLabelLine": "Horace Vernet, 1805, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

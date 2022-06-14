@@ -1,0 +1,261 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-6431",
+  "priref": "452923",
+  "objectNumber": "RP-P-OB-6431",
+  "language": "en",
+  "title": "Wapenschild bekroond met helm onder een draperie",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b818e0e8-ecdc-4e9b-955a-7cd6409989cd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2465,
+    "height": 2742,
+    "url": "https://lh3.ggpht.com/uL74yuTXSxtjqSupc6OOhEG88acJkuvPZFz-Zmh38_aP6pMYBwfLdg0jzC_u7X1GiActJRwQ-smQRLU7htYulWdC_6aS=s0"
+  },
+  "colors": [
+    {
+      "percentage": 64,
+      "hex": "#E8E1C8"
+    },
+    {
+      "percentage": 22,
+      "hex": " #C8C1A7"
+    },
+    {
+      "percentage": 4,
+      "hex": " #3D3B30"
+    },
+    {
+      "percentage": 3,
+      "hex": " #676453"
+    },
+    {
+      "percentage": 2,
+      "hex": " #8D8976"
+    },
+    {
+      "percentage": 1,
+      "hex": " #AAA48E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEEB"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E8E1C8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C8C1A7",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3D3B30",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #676453",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #8D8976",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AAA48E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #FEFEEB",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#FFF8DC"
+    },
+    {
+      "percentage": 22,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Wapenschild bekroond met helm onder een draperie",
+    "Verscheyden Wapenen"
+  ],
+  "description": "Blad uit serie wapenschilden met lege compartimenten.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Claes Jansz. Visscher (II)",
+      "unFixedName": "Visscher, Claes Jansz. (II)",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1652-06-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Claes Jansz. Visscher (II) (1586 - 19-jun-1652), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1625",
+    "sortingDate": 1625,
+    "period": 17,
+    "yearEarly": 1625,
+    "yearLate": 1625
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-6431"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Orn Cat II 33",
+    "33"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "58"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "55"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Wapenschild bekroond met helm onder een draperie, anonymous, 1625",
+  "subTitle": "h 58mm \u00d7 w 55mm",
+  "scLabelLine": "anonymous, 1625, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

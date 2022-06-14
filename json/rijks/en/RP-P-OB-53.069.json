@@ -1,0 +1,208 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-53.069",
+  "priref": "308515",
+  "objectNumber": "RP-P-OB-53.069",
+  "language": "en",
+  "title": "H. George met H. Margaretha en Maria Magdalena aan weerszijden",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cfb4a254-a600-4261-9862-e98964ff54c4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2119,
+    "url": "https://lh3.googleusercontent.com/X4loKFX16zgf3Q-z33yJMaTGb1VxY4bG_KRKZJz3DwSZSwRaMRfpdKc-_0Bios5-Qy4-5sfVDCn-CqeRTQRy-c78DdycnlWZ5kzm6q9C=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "H. George met H. Margaretha en Maria Magdalena aan weerszijden"
+  ],
+  "description": "Tekst in het Latijn in de ondermarge en in de boog bovenaan.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Dominicus Custos",
+      "unFixedName": "Custos, Dominicus",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1615",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Dominicus Custos (c. 1560 - 1615)"
+    },
+    {
+      "name": "Dominicus Custos",
+      "unFixedName": "Custos, Dominicus",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1560",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1615",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dominicus Custos (c. 1560 - 1615), Augsburg"
+    },
+    {
+      "name": "Maximiliaan III (aartshertog van Oostenrijk)",
+      "unFixedName": "Maximiliaan III (aartshertog van Oostenrijk)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1558",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1618",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Wenen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Maximiliaan III (aartshertog van Oostenrijk) (1558 - 1618)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Lucas Kilian",
+      "unFixedName": "Kilian, Lucas",
+      "placeOfBirth": "Augsburg",
+      "dateOfBirth": "1579",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Augsburg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Venice"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lucas Kilian (1579 - 1637), Venice"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas Kilian",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Venice",
+    "Augsburg"
+  ],
+  "dating": {
+    "presentingDate": "1602",
+    "sortingDate": 1602,
+    "period": 17,
+    "yearEarly": 1602,
+    "yearLate": 1602
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(MARY MAGDALENE)",
+      "11HH(MARGARET)",
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge",
+      "the virgin martyr Margaret of Antioch; possible attributes: cross, crown, dragon (under feet or on chain), (chaplet of) pearls",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-53.069"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein German 78",
+    "78"
+  ],
+  "principalOrFirstMaker": "Lucas Kilian",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "332"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "411"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "H. George met H. Margaretha en Maria Magdalena aan weerszijden, Lucas Kilian, 1602",
+  "subTitle": "h 332mm \u00d7 w 411mm",
+  "scLabelLine": "Lucas Kilian, 1602, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,182 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2020-7243",
+  "priref": "781512",
+  "objectNumber": "RP-P-2020-7243",
+  "language": "en",
+  "title": "Portret van Charles Grey",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Charles Grey"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Ligny fr\u00e8res",
+      "unFixedName": "Ligny fr\u00e8res",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Ligny fr\u00e8res, Paris"
+    },
+    {
+      "name": "V. Rosselin",
+      "unFixedName": "Rosselin, V.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object V. Rosselin, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Antoine Maurin",
+      "unFixedName": "Maurin, Antoine",
+      "placeOfBirth": "Perpignan",
+      "dateOfBirth": "1793-11-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1860-09-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Antoine Maurin (05-nov-1793 - 21-sep-1860)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Antoine Maurin",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2020-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1830 - 1861",
+    "sortingDate": 1830,
+    "period": 19,
+    "yearEarly": 1830,
+    "yearLate": 1861
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44C34"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "politician, e.g. party leader"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Charles"
+    ],
+    "objectNumbers": [
+      "RP-P-2020-7243"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Grey, Charles"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Antoine Maurin",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "214"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "161"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Charles Grey, Antoine Maurin (possibly), 1830 - 1861",
+  "subTitle": "h 214mm \u00d7 w 161mm",
+  "scLabelLine": "Antoine Maurin, 1830 - 1861, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

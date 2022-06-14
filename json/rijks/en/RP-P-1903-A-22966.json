@@ -1,0 +1,253 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1903-A-22966",
+  "priref": "126382",
+  "objectNumber": "RP-P-1903-A-22966",
+  "language": "en",
+  "title": "Portret van Godard van Reede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "362f0f38-9538-4d7e-a106-a5d3e6f39890",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1590,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/aAZFQY6J2z9XHlyplBWUmwnBHiHBccMxYGQ4AzDPrtHmE-XMZo-3QAb2YLjx_3Uh4DrVA9cz446X7GNw4_Y6hMOgS4rw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 14,
+      "hex": "#C8C2B8"
+    },
+    {
+      "percentage": 4,
+      "hex": " #35332E"
+    },
+    {
+      "percentage": 8,
+      "hex": " #57534E"
+    },
+    {
+      "percentage": 12,
+      "hex": " #736E67"
+    },
+    {
+      "percentage": 27,
+      "hex": " #9D978D"
+    },
+    {
+      "percentage": 31,
+      "hex": " #F1EAE1"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C8C2B8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #35332E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #57534E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #736E67",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #9D978D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F1EAE1",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#FAF0E6"
+    },
+    {
+      "percentage": 27,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #C0C0C0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 46,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Portret van Godard van Reede",
+    "Godard van Reede"
+  ],
+  "description": "Buste van Godard, baron van Reede-Ginckel, graaf van Athlone in een ovaal met om zijn hals het teken van de Orde van de Olifant. Het portret rust op een richel waarop zijn naam en gegevens in drie regels in het Nederlands.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Isaak Tirion",
+      "unFixedName": "Tirion, Isaak",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1705",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1765",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isaak Tirion (c. 1705 - 1765), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Houbraken",
+      "unFixedName": "Houbraken, Jacob",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1698-12-25",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1780-11-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Houbraken (25-dec-1698 - 14-nov-1780), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Houbraken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1903-01-01T00:00:00",
+    "creditLine": "Gift of Mrs Brandt, Amsterdam and Mrs Brandt, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1749 - 1759",
+    "sortingDate": 1749,
+    "period": 18,
+    "yearEarly": 1749,
+    "yearLate": 1759
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+    ],
+    "objectNumbers": [
+      "RP-P-1903-A-22966"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Reede-Ginckel, Godard baron van (graaf van Athlone)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Ver Huell 352",
+    "352",
+    "Collectie Rijksmuseum",
+    "FMP 4402",
+    "4402"
+  ],
+  "principalOrFirstMaker": "Jacob Houbraken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "185"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van Godard van Reede, Jacob Houbraken, 1749 - 1759",
+  "subTitle": "h 185mm \u00d7 w 115mm",
+  "scLabelLine": "Jacob Houbraken, 1749 - 1759, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

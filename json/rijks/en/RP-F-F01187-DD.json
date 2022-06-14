@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F01187-DD",
+  "priref": "725564",
+  "objectNumber": "RP-F-F01187-DD",
+  "language": "en",
+  "title": "Reproductie van Pinken in zee door Hendrik Willem Mesdag",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ccc230d7-2ded-4a2c-b33b-d4bb9aff6c57",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1832,
+    "height": 1053,
+    "url": "https://lh3.googleusercontent.com/skdPQSi8axhKjpe-ZNX6B2a6rVwJPxM9oIRyQHiPCR-1bFKpHHMlQE1JheALVLDR2pImbUyOM4JDZEoL3VKrV1Jtes4mkBPqok-Hnis0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Reproductie van Pinken in zee door Hendrik Willem Mesdag"
+  ],
+  "description": "Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1905 - 1906",
+    "sortingDate": 1905,
+    "period": 20,
+    "yearEarly": 1905,
+    "yearLate": 1906
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H2",
+      "46C24"
+    ],
+    "iconClassDescription": [
+      "landscapes with waters, waterscapes, seascapes (in the temperate zone)",
+      "sailing-ship, sailing-boat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F01187-DD"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "82"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "45"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Reproductie van Pinken in zee door Hendrik Willem Mesdag, anonymous, 1905 - 1906",
+  "subTitle": "h 82mm \u00d7 w 45mm",
+  "scLabelLine": "anonymous, 1905 - 1906, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

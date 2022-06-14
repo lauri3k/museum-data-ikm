@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2164",
+  "priref": "5918",
+  "objectNumber": "SK-A-2164",
+  "language": "en",
+  "title": "Portrait of William I. Prince of Orange, called William the Silent",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b9687faa-ac58-41f8-b27a-515a5dad2edc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1828,
+    "height": 2452,
+    "url": "https://lh4.ggpht.com/jaQzNemBg9sohYo9tl5HmVq4T-AKm7xPt078oHhCfq31kq3pqw2mWj9NTEj2zvdKfttN9ZKQd97yxH6XM23qXamy5HA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of William I. Prince of Orange, called William the Silent"
+  ],
+  "description": "Portret van Willem I, graaf van Nassau, prins van Oranje.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Dirck Barendsz.",
+      "unFixedName": "Barendsz., Dirck",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1534",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1592-05-26",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "circle of",
+      "labelDesc": "circle of Dirck Barendsz. (1534 - 26-mei-1592)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dirck Barendsz.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1582 - 1592",
+    "sortingDate": 1582,
+    "period": 16,
+    "yearEarly": 1582,
+    "yearLate": 1592
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B1"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "ruler, sovereign"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "15331584"
+    ],
+    "places": [],
+    "people": [
+      "Willem I (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "SK-A-2164"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dirck Barendsz.",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "47"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "32.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Portrait of William I. Prince of Orange, called William the Silent, Dirck Barendsz. (circle of), 1582 - 1592",
+  "subTitle": "h 47cm \u00d7 w 32.5cm \u00d7 d 9cm",
+  "scLabelLine": "Dirck Barendsz., 1582 - 1592, oil on panel",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

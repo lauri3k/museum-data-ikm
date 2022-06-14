@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1896-A-19368-2052",
+  "priref": "145785",
+  "objectNumber": "RP-P-1896-A-19368-2052",
+  "language": "en",
+  "title": "Viering van de ondergang van het Egyptische leger",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "48783b48-6767-4c07-8e1f-914836dc46b9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1783,
+    "url": "https://lh3.googleusercontent.com/FmGYI2WeSrtfc30XPFGko2Sj18_8CNz87dL-twzmXiZbati9rS0qE06drsdF4wyS24uxKU1EtYCpBTNEl2xA6BzlaDQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Viering van de ondergang van het Egyptische leger"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Pieter Mortier (I)",
+      "unFixedName": "Mortier, Pieter (I)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1661",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1711",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Pieter Mortier (I) (1661 - 1711), Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Luyken",
+      "unFixedName": "Luyken, Jan",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1649-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1712-04-05",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Haarlem"
+      ],
+      "qualification": null,
+      "labelDesc": "Jan Luyken (16-apr-1649 - 05-apr-1712), Haarlem"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Luyken",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1896-07-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Haarlem",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1703 - 1762",
+    "sortingDate": 1703,
+    "period": 18,
+    "yearEarly": 1703,
+    "yearLate": 1762
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71E123"
+    ],
+    "iconClassDescription": [
+      "after crossing the Red Sea the Israelites rejoice and praise God (Exodus 15:1-21)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1896-A-19368-2052"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Van Eeghen 3002",
+    "3002"
+  ],
+  "principalOrFirstMaker": "Jan Luyken",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "158"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Viering van de ondergang van het Egyptische leger, Jan Luyken, 1703 - 1762",
+  "subTitle": "h 112mm \u00d7 w 158mm",
+  "scLabelLine": "Jan Luyken, 1703 - 1762, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

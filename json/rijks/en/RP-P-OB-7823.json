@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-7823",
+  "priref": "129580",
+  "objectNumber": "RP-P-OB-7823",
+  "language": "en",
+  "title": "Johannes de Doper bij bron",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dece9eb7-c8e8-4b0b-9d8c-a8823bf124f6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1812,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/Fk9HbS4Ej9utYhu4lOqpjvIxgq9WUjf6YmuFx39qSs9J2YNHPrWcneJStuizleb-x8TJUutLrLF0VhAehpHddp8g_oBc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 45,
+      "hex": "#F7F2E3"
+    },
+    {
+      "percentage": 15,
+      "hex": " #CEC8BC"
+    },
+    {
+      "percentage": 15,
+      "hex": " #756F6B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #514B48"
+    },
+    {
+      "percentage": 7,
+      "hex": " #96908A"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B2ABA2"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3B3734"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F2E3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CEC8BC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #756F6B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #514B48",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #96908A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B2ABA2",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #3B3734",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 15,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 60,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 32,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Johannes de Doper bij bron",
+    "S. Ioannes Baptista"
+  ],
+  "description": "Johannes de Doper met zijn attributen, zittend bij een bron in een ru\u00efne. Hij vangt water op uit de bron. In de marge een vierregelig onderschrift in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter de Jode (II)",
+      "unFixedName": "Jode, Pieter de (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1606-11-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1674",
+      "dateOfDeathPrecision": "after",
+      "placeOfDeath": "Engeland",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "unknown"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter de Jode (II) (22-nov-1606 - after 1674), unknown"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter de Jode (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "unknown"
+  ],
+  "dating": {
+    "presentingDate": "1628 - 1670",
+    "sortingDate": 1628,
+    "period": 17,
+    "yearEarly": 1628,
+    "yearLate": 1670
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-7823"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 22",
+    "22"
+  ],
+  "principalOrFirstMaker": "Pieter de Jode (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "278"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "184"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper bij bron, Pieter de Jode (II), 1628 - 1670",
+  "subTitle": "h 278mm \u00d7 w 184mm",
+  "scLabelLine": "Pieter de Jode (II), 1628 - 1670, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

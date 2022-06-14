@@ -1,0 +1,186 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-33.686",
+  "priref": "118368",
+  "objectNumber": "RP-P-OB-33.686",
+  "language": "en",
+  "title": "Portret van zes kinderen van George III en Charlotte van Mecklenburg-Strelitz",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2f0f81a7-ecf2-4a00-a70f-a2e60bbe51aa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2178,
+    "url": "https://lh3.googleusercontent.com/oLGekgTRCxIKqlY8DxWf0grs5gyXLKSaMiK6J-mhmbuQOKcIyiV5lXib7VLpRG9a7pVj-966IHlTvYpvlGflAHAbKpvcXtkH-ky8RC5q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van zes kinderen van George III en Charlotte van Mecklenburg-Strelitz",
+    "Their Royal Highnesses"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Boydell",
+      "unFixedName": "Boydell, John",
+      "placeOfBirth": "Dorrington",
+      "dateOfBirth": "1719-01-19",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-12-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Boydell (19-jan-1719 - 21-dec-1804), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1778",
+    "sortingDate": 1778,
+    "period": 18,
+    "yearEarly": 1778,
+    "yearLate": 1778
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "61BB2",
+      "34B11",
+      "42G222"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "historical persons - BB - woman",
+      "dog",
+      "brothers or sisters (second degree family relationships)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Hannover, Maria (hertogin van Gloucester en Edinburgh)",
+      "Ernst August I (koning van Hannover)",
+      "Hannover, Elisabeth van",
+      "Cambridge, Adolf Frederik hertog van",
+      "Sussex, August Frederik van (hertog)",
+      "Hannover, Augusta Sophia van"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-33.686"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Hannover, Maria (hertogin van Gloucester en Edinburgh)",
+    "Ernst August I (koning van Hannover)",
+    "Hannover, Elisabeth van",
+    "Cambridge, Adolf Frederik hertog van",
+    "Sussex, August Frederik van (hertog)",
+    "Hannover, Augusta Sophia van"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 50",
+    "50",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "504"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "580"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van zes kinderen van George III en Charlotte van Mecklenburg-Strelitz, Valentine Green, 1778",
+  "subTitle": "h 504mm \u00d7 w 580mm",
+  "scLabelLine": "Valentine Green, 1778, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

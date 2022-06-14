@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2009-515",
+  "priref": "482008",
+  "objectNumber": "RP-P-2009-515",
+  "language": "en",
+  "title": "Wapenschild familie Van Reede",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "87cd35c1-c2ff-4ede-8279-4441030e2e3d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2036,
+    "height": 1911,
+    "url": "https://lh3.googleusercontent.com/rgfnjdiuNtXxVYG2cbGu39UYqNucurSnEmKaEgpuE4rz9RVlnWhxpaRvYywXIMXkkUc0Nw1tYUJoMubAH54pK2ndVg_pF1_24e9OMTP-=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Wapenschild familie Van Reede"
+  ],
+  "description": "Wapenschild geflankeerd door twee draken. Daarboven een kroon met vleugels. Onderaan een banderol met de tekst: Malo Mori Quam Foedari.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2009-01-01T00:00:00",
+    "creditLine": "Private gift"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1699",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A122"
+    ],
+    "iconClassDescription": [
+      "armorial bearing, heraldry"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2009-515"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "71"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Wapenschild familie Van Reede, anonymous, c. 1600 - c. 1699",
+  "subTitle": "h 89mm \u00d7 w 71mm",
+  "scLabelLine": "anonymous, c. 1600 - c. 1699, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

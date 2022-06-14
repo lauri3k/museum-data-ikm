@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-203.532",
+  "priref": "545483",
+  "objectNumber": "RP-P-OB-203.532",
+  "language": "en",
+  "title": "Eene weldaad is nooit verloren",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7cf39645-9370-4f45-9988-d0a1330e1d7a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1743,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/OSDm-9v4RRmuw-aLuOfC0r1kHM02KhXOkt-5EOg3n0dGwUv6D87Qd8II-2b2Ni39IivOGeNer_86t47E5BS7u1hhmg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Eene weldaad is nooit verloren"
+  ],
+  "description": "Blad met 12 voorstellingen over het kleine meisje Bertha en een arme man die elkaars leven redden. Onder elke afbeelding een onderschrift. Genummerd rechtsboven: No 389.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Gordinne",
+      "unFixedName": "Gordinne",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gordinne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Gordinne",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1894 - 1959",
+    "sortingDate": 1894,
+    "period": 19,
+    "yearEarly": 1894,
+    "yearLate": 1959
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "57A1",
+      "41B53"
+    ],
+    "iconClassDescription": [
+      "Good Behaviour",
+      "rescue from fire"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-203.532"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Gordinne",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "400"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "269"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Eene weldaad is nooit verloren, Gordinne, 1894 - 1959",
+  "subTitle": "h 400mm \u00d7 w 269mm",
+  "scLabelLine": "Gordinne, 1894 - 1959, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

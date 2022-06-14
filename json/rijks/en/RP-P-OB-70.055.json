@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-70.055",
+  "priref": "337573",
+  "objectNumber": "RP-P-OB-70.055",
+  "language": "en",
+  "title": "Madonna omringd door heiligen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fdd079e8-85db-46a2-b2ad-58069c47606b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2067,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/LJDiX2zKrcymwSUzc1pGm-6aZq6QWkn9rt3VDoIMT6fkPOReEwabpC4VF8ksXAS_4FRG9gtRWJGQGUfQNGlqoVp3HNY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Madonna omringd door heiligen"
+  ],
+  "description": "Maria houdt het Christuskind op de arm. Putti kronen het Kind met een krans van bloemen. Voor hen knielen heiligen in aanbidding. In het gezelschap bevinden zich onder andere Maria Magdalena (met zalfpot), de H. Joris (in harnas) en de H. Hi\u00ebronymus, die een bijbel onder zijn arm houdt. De knielende man in bisschopsgewaad en de figuren achter hem zijn niet met zekerheid te identificeren.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Paulus Pontius",
+      "unFixedName": "Pontius, Paulus",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1603-05-27",
+      "dateOfBirthPrecision": "in or before",
+      "dateOfDeath": "1658-01-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Paulus Pontius (in or before 27-mei-1603 - 16-jan-1658), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Paulus Pontius",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1616 - 1657",
+    "sortingDate": 1616,
+    "period": 17,
+    "yearEarly": 1616,
+    "yearLate": 1657
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F61",
+      "11H(JEROME)",
+      "11HH(MARY MAGDALENE)",
+      "11H(GEORGE)",
+      "11P3113"
+    ],
+    "iconClassDescription": [
+      "Madonna accompanied by saint(s)",
+      "the monk and hermit Jerome (Hieronymus); possible attributes: book, cardinal's hat, crucifix, hour-glass, lion, skull, stone",
+      "the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "archbishop, bishop, etc. (Roman Catholic)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-70.055"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 25",
+    "25"
+  ],
+  "principalOrFirstMaker": "Paulus Pontius",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "540"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "448"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Madonna omringd door heiligen, Paulus Pontius, 1616 - 1657",
+  "subTitle": "h 540mm \u00d7 w 448mm",
+  "scLabelLine": "Paulus Pontius, 1616 - 1657, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

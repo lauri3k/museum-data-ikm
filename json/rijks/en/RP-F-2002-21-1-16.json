@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2002-21-1-16",
+  "priref": "605615",
+  "objectNumber": "RP-F-2002-21-1-16",
+  "language": "en",
+  "title": "Riet met een reiger, lissen en gevogelte",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "db25cf4a-1d7f-4cb6-9042-d58bb60ab172",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2118,
+    "url": "https://lh3.googleusercontent.com/xDA4lzoM_CPzn2wOHBtG3q7rsx-1Qzfj5zVzmxXcPv-E4Q8-JMVLU6OkQCOpPI-GHYhlUtsKDrDnkOhU9hRAQklc1iYJ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Riet met een reiger, lissen en gevogelte"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Gerlach & Schenk",
+      "unFixedName": "Gerlach & Schenk",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Vienna"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gerlach & Schenk, Vienna"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Austria"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Austria"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2002-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "Austria",
+    "Vienna"
+  ],
+  "dating": {
+    "presentingDate": "c. 1887 - in or before 1897",
+    "sortingDate": 1887,
+    "period": 19,
+    "yearEarly": 1887,
+    "yearLate": 1897
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G4(REED)",
+      "25F37(HERON)",
+      "25F3"
+    ],
+    "iconClassDescription": [
+      "plants and herbs: reed",
+      "shore-birds and wading-birds: heron",
+      "birds"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Scipion, Etienne"
+    ],
+    "objectNumbers": [
+      "RP-F-2002-21-1-16"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Scipion, Etienne"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "214"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "293"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Riet met een reiger, lissen en gevogelte, anonymous, c. 1887 - in or before 1897",
+  "subTitle": "h 214mm \u00d7 w 293mm",
+  "scLabelLine": "anonymous, c. 1887 - in or before 1897, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

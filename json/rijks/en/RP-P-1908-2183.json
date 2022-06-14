@@ -1,0 +1,188 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-2183",
+  "priref": "72529",
+  "objectNumber": "RP-P-1908-2183",
+  "language": "en",
+  "title": "Zicht op de Triomfboog van Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cc9de414-165b-4f8e-b2d9-483008e6a3fd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1749,
+    "url": "https://lh3.googleusercontent.com/pKWt7bxcRwENSdI3OSuXLoXel1mzNx4a0I-J7QdlWfNMgavPynU8RzzddADE2PpdsdHzrp2GL11ZTjv0tO68g54ePW8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Zicht op de Triomfboog van Orange",
+    "Arc de Marius \u00e0 Orange",
+    "Hedendaags Frankrijk",
+    "La France de nos jours"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Destouches",
+      "unFixedName": "Destouches",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Destouches, Paris"
+    },
+    {
+      "name": "F. Sinnett",
+      "unFixedName": "Sinnett, F.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object F. Sinnett, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "L\u00e9on Auguste Asselineau",
+      "unFixedName": "Asselineau, L\u00e9on Auguste",
+      "placeOfBirth": "Hamburg",
+      "dateOfBirth": "1808",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1889",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rouen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object L\u00e9on Auguste Asselineau (1808 - 1889)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "L\u00e9on Auguste Asselineau",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Paris",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1856 - 1858",
+    "sortingDate": 1856,
+    "period": 19,
+    "yearEarly": 1856,
+    "yearLate": 1858
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A422"
+    ],
+    "iconClassDescription": [
+      "triumphal arch"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1908-2183"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "L\u00e9on Auguste Asselineau",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "313"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "450"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Zicht op de Triomfboog van Orange, L\u00e9on Auguste Asselineau, 1856 - 1858",
+  "subTitle": "h 313mm \u00d7 w 450mm",
+  "scLabelLine": "L\u00e9on Auguste Asselineau, 1856 - 1858, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

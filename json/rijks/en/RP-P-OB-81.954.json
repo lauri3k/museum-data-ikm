@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-81.954",
+  "priref": "464953",
+  "objectNumber": "RP-P-OB-81.954",
+  "language": "en",
+  "title": "Reconstructie van de Romeinse arena in Orange, 1639",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c4fe9000-b304-43d7-ad9e-72228ec3960c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2424,
+    "height": 1824,
+    "url": "https://lh3.ggpht.com/AhHMx1ohqDgpkoomkTZGOYV_M8tpCjiAhECtriKf2fwo3p6dCzaRQFXZjTrEwbU4ppIvZf028OFVlTVz29ZHHfPm8ec=s0"
+  },
+  "colors": [
+    {
+      "percentage": 52,
+      "hex": "#E8E4D4"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D1CCBC"
+    },
+    {
+      "percentage": 15,
+      "hex": " #A8A395"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FAF9F3"
+    },
+    {
+      "percentage": 2,
+      "hex": " #868174"
+    },
+    {
+      "percentage": 1,
+      "hex": " #636054"
+    },
+    {
+      "percentage": 0,
+      "hex": " #47443A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E8E4D4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D1CCBC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A8A395",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #FAF9F3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #868174",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #636054",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #47443A",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 52,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 19,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 15,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFFAF0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Reconstructie van de Romeinse arena in Orange, 1639",
+    "Les Arenes d'Orange de construction Romaine"
+  ],
+  "description": "Reconstructie van de Romeinse arena in Orange, met gladiatoren. Gemerkt rechtsonder: Pag. 29.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "J. Baugin",
+      "unFixedName": "Baugin, J.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object J. Baugin, France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "J. Baugin",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1637 - 1640",
+    "sortingDate": 1637,
+    "period": 17,
+    "yearEarly": 1637,
+    "yearLate": 1640
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43C3961"
+    ],
+    "iconClassDescription": [
+      "fight of gladiators"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Orange"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-81.954"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. I (jaren 100 tot 1702), p. 323, nr. 2211/13."
+  ],
+  "catRefRPK": [
+    "FMH 2211",
+    "2211",
+    "IFF 12",
+    "12"
+  ],
+  "principalOrFirstMaker": "J. Baugin",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "191"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Reconstructie van de Romeinse arena in Orange, 1639, J. Baugin, 1637 - 1640",
+  "subTitle": "h 191mm \u00d7 w 270mm",
+  "scLabelLine": "J. Baugin, 1637 - 1640, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

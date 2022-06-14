@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-10502",
+  "priref": "12238",
+  "objectNumber": "BK-NM-10502",
+  "language": "en",
+  "title": "Kachelplaat met viermaal Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fa75fe37-ab17-4576-86c4-3b869983db4e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 5154,
+    "height": 5142,
+    "url": "https://lh3.googleusercontent.com/Myxj6hDprktTdpOfMsJDVUXD691vsYAIHoeZ97sjmnRwyXswlSf3vTHftkAqoMppzodScQlj5csb-EDCZIcjrZnChmvdUkql6y4X44P8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Kachelplaat met viermaal Johannes de Doper"
+  ],
+  "description": "Kachelplaat van gietijzer, waarop naast elkaar viermaal Johannes de Doper op een console is afgebeeld in een een gotische nis met bovenaan maaswerk.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "caster"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1896-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "iron (metal)"
+  ],
+  "techniques": [
+    "casting"
+  ],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1475 - 1525",
+    "sortingDate": 1475,
+    "period": 15,
+    "yearEarly": 1475,
+    "yearLate": 1525
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-10502"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "60"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "69.5"
+    },
+    {
+      "unit": "kg",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "39"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "casting",
+  "longTitle": "Kachelplaat met viermaal Johannes de Doper, anonymous, 1475 - 1525",
+  "subTitle": "h 60cm \u00d7 w 69.5cm \u00d7 w 39kg",
+  "scLabelLine": "anonymous, 1475 - 1525, casting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

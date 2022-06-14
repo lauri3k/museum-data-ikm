@@ -1,0 +1,241 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1950-519",
+  "priref": "35198",
+  "objectNumber": "RP-P-1950-519",
+  "language": "en",
+  "title": "Maria met de heiligen Antonius en Joris",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ae05766c-e72f-4c86-a1b8-19d71696b21b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1457,
+    "height": 2940,
+    "url": "https://lh3.ggpht.com/cXukyzlxprjk6ilOn725fHhscfgjuTqXX46G26FYyl_0VYyETGSYVwsQiqVrLsCIzRBeinplZWWEBwEq-vJl6JIsdUg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 31,
+      "hex": "#EDEBE2"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A4A297"
+    },
+    {
+      "percentage": 16,
+      "hex": " #C8C6BB"
+    },
+    {
+      "percentage": 10,
+      "hex": " #6D6B60"
+    },
+    {
+      "percentage": 10,
+      "hex": " #88867A"
+    },
+    {
+      "percentage": 8,
+      "hex": " #525046"
+    },
+    {
+      "percentage": 2,
+      "hex": " #38372F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDEBE2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A4A297",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #C8C6BB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6D6B60",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #88867A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #525046",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #38372F",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 31,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 16,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 47,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 21,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 20,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 10,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Maria met de heiligen Antonius en Joris"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Giovanni Domenico Tiepolo",
+      "unFixedName": "Tiepolo, Giovanni Domenico",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1727-08-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1804-03-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Domenico Tiepolo (30-aug-1727 - 03-mrt-1804)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giovanni Domenico Tiepolo",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1950-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1743 - 1747",
+    "sortingDate": 1743,
+    "period": 18,
+    "yearEarly": 1743,
+    "yearLate": 1747
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)",
+      "11H(ANTONY ABBOT)",
+      "11F3"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "the hermit Antony Abbot (Antonius Abbas) of Egypt, also called the Great; possible attributes: bell, book, T-shaped staff, flames, pig",
+      "Mary (without Christ-child), together with others"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1950-519"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "De Vesme 55",
+    "55",
+    "Rizzi 126",
+    "126"
+  ],
+  "principalOrFirstMaker": "Giovanni Domenico Tiepolo",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "252"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "119"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Maria met de heiligen Antonius en Joris, Giovanni Domenico Tiepolo, 1743 - 1747",
+  "subTitle": "h 252mm \u00d7 w 119mm",
+  "scLabelLine": "Giovanni Domenico Tiepolo, 1743 - 1747, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

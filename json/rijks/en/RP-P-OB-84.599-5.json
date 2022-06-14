@@ -1,0 +1,288 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-84.599-5",
+  "priref": "491158",
+  "objectNumber": "RP-P-OB-84.599-5",
+  "language": "en",
+  "title": "Friese Garde du Corps in de begrafenisstoet van prinses Maria Louise, 1765",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f097a010-ed4f-4a53-b319-3868aa5c6e89",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 4461,
+    "height": 3095,
+    "url": "https://lh4.ggpht.com/nFATOBzaXoWtnlT7F3u0tW-LGPz3Iw3XLd3DsdNaEEfngMNiz9rLXnDFwo7dVhmBhPAyKeMlv-tVcc_3iPokKiox1A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 82,
+      "hex": "#F7F4E6"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D9D4C5"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7D7868"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A8A394"
+    },
+    {
+      "percentage": 1,
+      "hex": " #5B5748"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3D3A2E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F4E6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D9D4C5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7D7868",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A8A394",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #5B5748",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3D3A2E",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 82,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 89,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 5,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Friese Garde du Corps in de begrafenisstoet van prinses Maria Louise, 1765",
+    "[Het Corps Friesche Staate Gardes Van Zijne Doorluchtigste Hoogheit, Den Hee]re Prince van Orange en Nassau, Erf-Stadhou[der, Capitain-Generaal en Admiraal der Zeven Geunieerde Provincien, enz. enz. enz.]",
+    "Lijkstatie van prinses Maria Louise, 1765"
+  ],
+  "description": "Soldaten van de Friese Garde du Corps. Gemerkt rechtsonder: Pl. III. Op het blad onder de plaat een deel van de titel en de vermelding van de sergeant. Onderdeel van de serie platen van de begrafenis van prinses Maria Louise te Leeuwarden op 13 juni 1765.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Abraham Ferwerda",
+      "unFixedName": "Ferwerda, Abraham",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Abraham Ferwerda"
+    },
+    {
+      "name": "Rienk Jelgerhuis",
+      "unFixedName": "Jelgerhuis, Rienk",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1729-04-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1806-04-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rienk Jelgerhuis (13-apr-1729 - 17-apr-1806)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Rienk Jelgerhuis",
+      "unFixedName": "Jelgerhuis, Rienk",
+      "placeOfBirth": "Leeuwarden",
+      "dateOfBirth": "1729-04-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1806-04-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rienk Jelgerhuis (13-apr-1729 - 17-apr-1806)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rienk Jelgerhuis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1765",
+    "sortingDate": 1765,
+    "period": 18,
+    "yearEarly": 1765,
+    "yearLate": 1765
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42E22"
+    ],
+    "iconClassDescription": [
+      "cortege, funeral procession"
+    ],
+    "motifs": [],
+    "events": [
+      "Begrafenis van Maria Louise, prinses van Oranje-Nassau"
+    ],
+    "periods": [
+      "1765-06-131765-06-13"
+    ],
+    "places": [
+      "Leeuwarden"
+    ],
+    "people": [
+      "Maria Louisa van Hessen-Kassel"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-84.599-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Maria Louisa van Hessen-Kassel"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 203, nr. 4160."
+  ],
+  "catRefRPK": [
+    "FMH 4160",
+    "4160",
+    "Atlas van Stolk 4143",
+    "4143"
+  ],
+  "principalOrFirstMaker": "Rienk Jelgerhuis",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "250"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "365"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Friese Garde du Corps in de begrafenisstoet van prinses Maria Louise, 1765, Rienk Jelgerhuis, 1765",
+  "subTitle": "h c.250mm \u00d7 w c.365mm",
+  "scLabelLine": "Rienk Jelgerhuis, 1765, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

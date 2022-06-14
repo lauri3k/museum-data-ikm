@@ -1,0 +1,269 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F80155",
+  "priref": "349894",
+  "objectNumber": "RP-F-F80155",
+  "language": "en",
+  "title": "Towing the Reed by Boat",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d0a3b211-cf96-43b7-92c2-d84f2e28ac3d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2832,
+    "height": 2332,
+    "url": "https://lh3.ggpht.com/UXiv921rbo_58pXARa5yAJv50jUkpTaIRfBsOtGI1GnFz37tBMkgnxUC3W0PB9QcyI3FIgFyktpBgrsdaNG2s7EAIg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#6F6A65"
+    },
+    {
+      "percentage": 27,
+      "hex": " #928E87"
+    },
+    {
+      "percentage": 13,
+      "hex": " #E1DCD1"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C8C1B7"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B1ACA3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F6F5F0"
+    },
+    {
+      "percentage": 2,
+      "hex": " #4E4A46"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#6F6A65",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #928E87",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E1DCD1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C8C1B7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B1ACA3",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #F6F5F0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4E4A46",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 27,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #FAF0E6"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 63,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 29,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Searle, & Rivington Sampson Low Marston",
+      "unFixedName": "Sampson Low, Marston, Searle, & Rivington",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Great Britain"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Searle, & Rivington Sampson Low Marston, Great Britain"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Peter Henry Emerson",
+      "unFixedName": "Emerson, Peter Henry",
+      "placeOfBirth": "Cuba",
+      "dateOfBirth": "1856-05-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1936-05-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Falmouth",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Peter Henry Emerson (13-mei-1856 - 12-mei-1936)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Peter Henry Emerson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard",
+    "tracing paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Great Britain"
+  ],
+  "dating": {
+    "presentingDate": "1885 - 1886",
+    "sortingDate": 1885,
+    "period": 19,
+    "yearEarly": 1885,
+    "yearLate": 1886
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C232",
+      "31D14"
+    ],
+    "iconClassDescription": [
+      "rowing-boat, canoe, etc.",
+      "adult man"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Norfolk Broads"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F80155"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "P.H. Emerson, Life and Landscape on the Norfolk Broads, Londen 1886"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Peter Henry Emerson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "220"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "272"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "288"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "413"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Towing the Reed by Boat, Peter Henry Emerson (attributed to), 1885 - 1886",
+  "subTitle": "h 220mm \u00d7 w 272mm",
+  "scLabelLine": "Peter Henry Emerson (1856-1936), from: Life and Landscape on the Norfolk Broads, 1886, platinum print, 1885-1886",
+  "label": {
+    "title": "Towing the Reed by Boat",
+    "makerLine": "Peter Henry Emerson (1856-1936), from: Life and Landscape on the Norfolk Broads, 1886, platinum print, 1885-1886",
+    "description": "Used in the construction of houses, reed was an important product in East Anglia. Emerson shows how the reed was harvested and processed in various photographs in Life and Landscape on the Norfolk Broads. Here we see a man on a towing path pulling a fully loaded boat. This more sociological angle typifies Emerson\u2019s publications.",
+    "notes": null,
+    "date": "2015-11-02"
+  },
+  "showImage": true,
+  "location": null
+}

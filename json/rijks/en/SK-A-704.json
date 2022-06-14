@@ -1,0 +1,242 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-704",
+  "priref": "6995",
+  "objectNumber": "SK-A-704",
+  "language": "en",
+  "title": "Jacob\u2019s Dream",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d0b23178-bcc5-4c41-9274-e6127ad6dce1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1875,
+    "url": "https://lh3.googleusercontent.com/R41M9rqT6WMk-FmBnK8cqjQEyhNs5D9gGiTrMEPuM7M1SJA0PbW_uRjEtW0aN1kUxUiSB1UQvhO7JpFfDeLVeVAgiSE3=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#16140E"
+    },
+    {
+      "percentage": 20,
+      "hex": " #846E4A"
+    },
+    {
+      "percentage": 18,
+      "hex": " #40301D"
+    },
+    {
+      "percentage": 14,
+      "hex": " #654925"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B1A27F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #81857B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #AA8A4E"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#16140E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #846E4A",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #40301D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #654925",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B1A27F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #81857B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AA8A4E",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 18,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B8860B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 35,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E09714"
+    }
+  ],
+  "titles": [
+    "Jacob's Dream"
+  ],
+  "description": "Jacob's droom. De op een lendedoek na naakte Jacob ligt met de handen onder het hoofd te slapen onder struikgewas. Naast hem ligt een hond. Op de achtergrond zijn droombeeld met de ladder met engelen.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Ary de Vois",
+      "unFixedName": "Vois, Ary de",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1635",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1680-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Ary de Vois (c. 1635 - jul-1680)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Ary de Vois",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1880-01-01T00:00:00",
+    "creditLine": "Jonkheer J.S.H. van de Poll Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1660 - 1680",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1680
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71C3121",
+      "34B11"
+    ],
+    "iconClassDescription": [
+      "the dream of Jacob: while sleeping on the ground with a stone for pillow Jacob sees a ladder reaching from earth to heaven with angels going up and down; usually with God at the top of the ladder",
+      "dog"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-704"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "C. van der Bas, 'The Muilman Collection: the progressive taste of an eighteenth-century banking family', Simiolus 32, nr. 2/3 (2006), p. 168"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Ary de Vois",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "22"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "29.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Jacob\u2019s Dream, Ary de Vois, 1660 - 1680",
+  "subTitle": "h 22cm \u00d7 w 29.5cm",
+  "scLabelLine": "Ary de Vois (c. 1632\u20131680), oil on panel, c. 1660\u20131680",
+  "label": {
+    "title": "Jacob\u2019s Dream",
+    "makerLine": "Ary de Vois (c. 1632\u20131680), oil on panel, c. 1660\u20131680",
+    "description": "The Bible recounts how one night Jacob lay down on a stone to sleep. He dreamt that he saw a ladder reaching up to heaven with God\u2019s angels going up and down. When he awoke, Jacob vowed to use the stone to build an altar in that place, which he called Bethel (\u2018House of God\u2019). De Vois painted Jacob\u2019s almost naked body as smooth as porcelain. The once green leaves have turned blue because the yellow pigment in them has disappeared over time.",
+    "notes": null,
+    "date": "2013-03-18"
+  },
+  "showImage": true,
+  "location": "HG-2.24"
+}

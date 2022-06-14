@@ -1,0 +1,192 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1889-A-15246",
+  "priref": "136648",
+  "objectNumber": "RP-P-1889-A-15246",
+  "language": "en",
+  "title": "Vissersvrouw en jongen voor een pink",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "83705112-9f57-4af2-a12c-22392a9238de",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1630,
+    "height": 2207,
+    "url": "https://lh3.googleusercontent.com/f6vxTTocLPwJgKrG34Gkz1FfagVXT50rNG_Rpxi8IcD4-fcGgZQufZwvIIxgltqE16fXTgoMzyci5gd50YB1_XHqLz-k=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Vissersvrouw en jongen voor een pink",
+    "Pictura"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Gebroeders van Lier",
+      "unFixedName": "Lier, Gebroeders van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gebroeders van Lier, The Hague"
+    },
+    {
+      "name": "Gebroeders van Lier",
+      "unFixedName": "Lier, Gebroeders van",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "The Hague"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Gebroeders van Lier, The Hague"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Carel Christiaan Antony Last",
+      "unFixedName": "Last, Carel Christiaan Antony",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1808-12-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1876-12-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Carel Christiaan Antony Last (11-dec-1808 - 17-dec-1876)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Carel Christiaan Antony Last",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1889-01-01T00:00:00",
+    "creditLine": "Gift of Jonkheer V. de Stuers"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "The Hague",
+    "The Hague"
+  ],
+  "dating": {
+    "presentingDate": "1834 - 1850",
+    "sortingDate": 1834,
+    "period": 19,
+    "yearEarly": 1834,
+    "yearLate": 1850
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24",
+      "31D15",
+      "43C128"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat",
+      "adult woman",
+      "fisherman"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1889-A-15246"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Carel Christiaan Antony Last",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "315"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "222"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Vissersvrouw en jongen voor een pink, Carel Christiaan Antony Last, 1834 - 1850",
+  "subTitle": "h 315mm \u00d7 w 222mm",
+  "scLabelLine": "Carel Christiaan Antony Last, 1834 - 1850, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

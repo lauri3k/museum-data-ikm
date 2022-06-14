@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-5047",
+  "priref": "692837",
+  "objectNumber": "SK-A-5047",
+  "language": "en",
+  "title": "Peinture criminelle 4-56 (Criminal Painting 4-56)",
+  "copyrightHolder": "Armando",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Peinture Criminelle 4-56 (Criminal Painting 4-56)"
+  ],
+  "description": "Schematische voorstelling van een gezicht en profil geschilderd met een ruwe verftextuur in oker, rood, zwart en grijs.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Armando",
+      "unFixedName": "Armando",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1929-09-18",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2018-07-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Potsdam",
+      "occupation": [
+        "draughtsman",
+        "painter",
+        "sculptor"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Armando (18-sep-1929 - 01-jul-2018), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Armando",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2017-12-12T00:00:00",
+    "creditLine": "Gift of Tony de Meijere, Amstelveen"
+  },
+  "exhibitions": [],
+  "materials": [
+    "oil paint (paint)"
+  ],
+  "techniques": [
+    "painting"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1956",
+    "sortingDate": 1956,
+    "period": 20,
+    "yearEarly": 1956,
+    "yearLate": 1956
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-5047"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Armando",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "122"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "91.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Peinture criminelle 4-56 (Criminal Painting 4-56), Armando, 1956",
+  "subTitle": "h 122cm \u00d7 w 91.8cm",
+  "scLabelLine": "Armando (1929-2018), oil on canvas,1956",
+  "label": {
+    "title": "Peinture criminelle 4-56 (Criminal Painting 4-56)",
+    "makerLine": "Armando (1929-2018), oil on canvas,1956",
+    "description": "In 1956, brown, red and, black still immediately evoked associations with the uniforms of the German nazi party of the Second World War. The ugly head with an angry eye and smirking mouth, which are hidden in the crusty paint layer, contribute to the gruesome atmosphere. With his 'criminal' paintings Armando gave expression to the war experiences of his youth, which led to a lifelong fascination with the beauty of evil.",
+    "notes": null,
+    "date": "2018-07-06"
+  },
+  "showImage": true,
+  "location": "HG-3.3"
+}

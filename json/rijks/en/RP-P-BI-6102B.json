@@ -1,0 +1,276 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-6102B",
+  "priref": "97410",
+  "objectNumber": "RP-P-BI-6102B",
+  "language": "en",
+  "title": "Mannelijke en vrouwelijke heiligen in architecturale setting",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1a4b96a7-1f8b-4e39-8291-4ee144943cb3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1959,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/tEhZI17ez-C9F-0HlfsNhRPBQb9Xgy6la5ht1SMhz1m6UTSy8SYB6skB0JldDKmrZCViOkSRNFkVYCarVFXYPkCftqxa=s0"
+  },
+  "colors": [
+    {
+      "percentage": 24,
+      "hex": "#CAC7B1"
+    },
+    {
+      "percentage": 21,
+      "hex": " #E2DECB"
+    },
+    {
+      "percentage": 15,
+      "hex": " #A5A38E"
+    },
+    {
+      "percentage": 12,
+      "hex": " #F9F7E9"
+    },
+    {
+      "percentage": 11,
+      "hex": " #606149"
+    },
+    {
+      "percentage": 8,
+      "hex": " #252C1D"
+    },
+    {
+      "percentage": 7,
+      "hex": " #85836C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CAC7B1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E2DECB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A5A38E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F9F7E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #606149",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #252C1D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #85836C",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 45,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 15,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 8,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 58,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 19,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 15,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Mannelijke en vrouwelijke heiligen in architecturale setting",
+    "Titelpagina voor:  H. Rosweyde, 'tVaders Boek, Antwerpen, 1617"
+  ],
+  "description": "Een nis waarvoor een witte doek met de titel van het boek. Aan weerszijden van de nis de heilige Paulus en Antonius in monnikspij. Boven op de nis links Elia (met een raaf die hem brood brengt), rechts Johannes de Doper met zijn lam. Midden onder de heilige Eugenia en Paula, zittend bij een cartouche met gevleugeld doodshoofd.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Hieronymus Verdussen",
+      "unFixedName": "Verdussen, Hieronymus",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hieronymus Verdussen, Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Baptiste Collaert",
+      "unFixedName": "Collaert, Jan Baptiste",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1591-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1627",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Baptiste Collaert (mei-1591 - 1627), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Baptiste Collaert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1815-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1617",
+    "sortingDate": 1617,
+    "period": 17,
+    "yearEarly": 1617,
+    "yearLate": 1617
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)",
+      "11HH(MARY MAGDALENE)",
+      "11I62(ELIJAH)",
+      "11HH",
+      "11H"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge",
+      "Elijah (not in biblical context); possible attributes: scroll and flaming sword",
+      "female saints",
+      "heiligen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-6102B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 1948",
+    "1948"
+  ],
+  "principalOrFirstMaker": "Jan Baptiste Collaert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "316"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Mannelijke en vrouwelijke heiligen in architecturale setting, Jan Baptiste Collaert, 1617",
+  "subTitle": "h 316mm \u00d7 w 200mm",
+  "scLabelLine": "Jan Baptiste Collaert, 1617, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

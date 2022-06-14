@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-2010-1642-59",
+  "priref": "508192",
+  "objectNumber": "BI-2010-1642-59",
+  "language": "en",
+  "title": "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (650) Costume Par\u00e9",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1e4c1009-dbfc-4e2b-ab42-fc0b7567d81f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1255,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/BUcBYzdKAdWuX8qlDFHkCfpiyerra1QBJQ2Msy2DntSK98ouXZJICA1i--V8UmcQsbaR9CbfhjL-AI4aAnQEpuo3WQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (650) Costume Par\u00e9"
+  ],
+  "description": "Dame in beige avondjapon met diep decollet\u00e9 en sleep.  In de hand een gevouwen waaier. Kapsel versierd met rode bloemenkrans,",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Pierre de la M\u00e9sang\u00e8re",
+      "unFixedName": "M\u00e9sang\u00e8re, Pierre de la",
+      "placeOfBirth": null,
+      "dateOfBirth": "1761",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1831",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pierre de la M\u00e9sang\u00e8re (1761 - 1831)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Horace Vernet",
+      "unFixedName": "Vernet, Horace",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1789-06-30",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1863-01-17",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Horace Vernet (30-jun-1789 - 17-jan-1863)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Horace Vernet",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2010-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1805",
+    "sortingDate": 1805,
+    "period": 19,
+    "yearEarly": 1805,
+    "yearLate": 1805
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D11",
+      "41D225(LONG GLOVES)(+82)",
+      "41D262(+82)",
+      "41D211(EVENING DRESS)(+82)"
+    ],
+    "iconClassDescription": [
+      "fashion plates",
+      "gloves, mittens (LONG GLOVES) (+ women's clothes)",
+      "fan (+ women's clothes)",
+      "dress, gown: evening dress (+ women's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18051805"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BI-2010-1642-59"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Horace Vernet",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "181"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Journal des Dames et des Modes, Costume Parisien, 1805, An 13 (650) Costume Par\u00e9, Horace Vernet, 1805",
+  "subTitle": "h 181mm \u00d7 w 112mm",
+  "scLabelLine": "Horace Vernet, 1805, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

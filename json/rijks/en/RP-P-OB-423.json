@@ -1,0 +1,232 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-423",
+  "priref": "37014",
+  "objectNumber": "RP-P-OB-423",
+  "language": "en",
+  "title": "Beggar with a Cottage and Two Figures in the Background",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0b6e01a4-bf57-420b-a67b-5b9ce56d0d87",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2277,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/If4gDiVxG9ODCIk6c_RJl4RZ_mhjRm2ZneVObO5-5n0yGbtLswYQm5hR-0bVm6d5RT3p6mGtgfmXsVVUsk4-JXaf9g=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#F5F6F5"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DBDCD4"
+    },
+    {
+      "percentage": 18,
+      "hex": " #8F8F85"
+    },
+    {
+      "percentage": 8,
+      "hex": " #74746C"
+    },
+    {
+      "percentage": 11,
+      "hex": " #51514B"
+    },
+    {
+      "percentage": 42,
+      "hex": " #B6B6AD"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F6F5",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #DBDCD4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8F8F85",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #74746C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #51514B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B6B6AD",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 20,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 4,
+      "hex": " #DCDCDC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 42,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 39,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 4,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "A beggar in a tall hat and long cloak, with a cottage and two figures in the background"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "etching",
+    "pen"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1629",
+    "sortingDate": 1629,
+    "period": 17,
+    "yearEarly": 1629,
+    "yearLate": 1629
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A151"
+    ],
+    "iconClassDescription": [
+      "beggar"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-423"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch and Flemish (Rembrandt text) 16",
+    "16",
+    "Hollstein Dutch 376",
+    "376"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "119"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Beggar with a Cottage and Two Figures in the Background, Rembrandt van Rijn, c. 1629",
+  "subTitle": "h 119mm \u00d7 w 87mm",
+  "scLabelLine": "etching, c. 1629",
+  "label": {
+    "title": "Beggar with a Cottage and Two Figures in the Background",
+    "makerLine": "etching, c. 1629",
+    "description": "The bottom prints are among Rembrandt\u2019s very first attempts at etching. They are not particularly skilfully etched, and their printing leaves much to be desired. They were not pulled in large numbers. In fact, both are extremely rare, making the fact that they survived for centuries all the more noteworthy. They bear unmistakable witness to Rembrandt\u2019s early fascination with street people.",
+    "notes": "Geldt voor: RP-P-OB-779, RP-P-OB-422 en RP-P-OB-423",
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

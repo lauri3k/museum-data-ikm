@@ -1,0 +1,182 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1950-753",
+  "priref": "41671",
+  "objectNumber": "RP-P-1950-753",
+  "language": "en",
+  "title": "Roodkapje",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "4abd03a2-79e8-48a4-a4e8-dcdb9195ae42",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1871,
+    "height": 2808,
+    "url": "https://lh3.ggpht.com/UIUzEjmrIOzZSqbwh_qFid3w94ev9f-8RFZe2CImgU24MKlYdyN40ZAJGDGtWyK8o8Tizh1dGnHZsw-d-hHmryM-uJO6=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Roodkapje",
+    "Le Petit Chaperon Rouge"
+  ],
+  "description": "Sc\u00e8ne uit het verhaal van Roodkapje: Roodkapje en de wolf in het bos.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Lucien Pissarro",
+      "unFixedName": "Pissarro, Lucien",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1863-02-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1944-07-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Hewood",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lucien Pissarro (20-feb-1863 - 10-jul-1944)"
+    },
+    {
+      "name": "Lucien Pissarro",
+      "unFixedName": "Pissarro, Lucien",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1863-02-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1944-07-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Hewood",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lucien Pissarro (20-feb-1863 - 10-jul-1944)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Lucien Pissarro",
+      "unFixedName": "Pissarro, Lucien",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1863-02-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1944-07-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Hewood",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lucien Pissarro (20-feb-1863 - 10-jul-1944), England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucien Pissarro",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1950-01-01T00:00:00",
+    "creditLine": "Gift of L. Pissarro, London"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1895 - 1899",
+    "sortingDate": 1895,
+    "period": 19,
+    "yearEarly": 1895,
+    "yearLate": 1899
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1950-753"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Lucien Pissarro",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "114"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "96"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Roodkapje, Lucien Pissarro, 1895 - 1899",
+  "subTitle": "h 114mm \u00d7 w 96mm",
+  "scLabelLine": "Lucien Pissarro, 1895 - 1899, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

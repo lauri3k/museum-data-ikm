@@ -1,0 +1,262 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-4515",
+  "priref": "314392",
+  "objectNumber": "BK-NM-4515",
+  "language": "en",
+  "title": "Wentke",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c0f3c30e-2d35-4ea2-a70d-6f73a452386a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2387,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/oMdTkxA04v7SJKFvmiEoWBayLao2myyXLi07jRhfmDM82rCFBJNK59olUgy_yH0Ob8aJuiz_omHQXEnyOlMTvfg_C521=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#5C6F85"
+    },
+    {
+      "percentage": 30,
+      "hex": " #7397C9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #EDEBD8"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B3B5AB"
+    },
+    {
+      "percentage": 3,
+      "hex": " #898B82"
+    },
+    {
+      "percentage": 3,
+      "hex": " #324964"
+    },
+    {
+      "percentage": 0,
+      "hex": " #14212D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#5C6F85",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7397C9",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #EDEBD8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B3B5AB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #898B82",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #324964",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #14212D",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#708090"
+    },
+    {
+      "percentage": 30,
+      "hex": " #6495ED"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 51,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 30,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "costumes and accessories"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1879-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cotton (textile)",
+    "chintz"
+  ],
+  "techniques": [
+    "chintz"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1750 - c. 1775",
+    "sortingDate": 1750,
+    "period": 18,
+    "yearEarly": 1750,
+    "yearLate": 1775
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-4515"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "length",
+      "precision": null,
+      "part": null,
+      "value": "141"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "chintz",
+  "longTitle": "Wentke, anonymous, c. 1750 - c. 1775",
+  "subTitle": "l 141cm",
+  "scLabelLine": "chintz: India, Coromandel Coast, wentke: the Netherlands, c. 1750-1775, cotton",
+  "label": {
+    "title": "Wentke",
+    "makerLine": "chintz: India, Coromandel Coast, wentke: the Netherlands, c. 1750-1775, cotton",
+    "description": "\u2018Wentke\u2019 is the Hindeloopen name for this type of long-waisted chintz coat that was worn on high days by the women of that village in the province of Friesland. Wentkes could also be worn as mourning dress. This coat with blue floral scrolls on a white ground also has silver highlights, giving it a remarkably festive touch.",
+    "notes": null,
+    "date": "2018-09-07"
+  },
+  "showImage": true,
+  "location": null
+}

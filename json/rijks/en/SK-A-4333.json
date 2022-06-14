@@ -1,0 +1,212 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4333",
+  "priref": "10232",
+  "objectNumber": "SK-A-4333",
+  "language": "en",
+  "title": "Mary Stuart (1631-1660), Consort of William II",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "fe194e78-0aa0-4a67-8d6e-bf05690d3c6b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2237,
+    "height": 2712,
+    "url": "https://lh3.ggpht.com/shYY7xvStm86Nsjt52ZO_3bobJCS11kGxybfuxfWFL9BUhxvxE9pHkd17WJkPYS54GnFt2UTMMwc-BQL8upMv5_b3g_j=s0"
+  },
+  "colors": [
+    {
+      "percentage": 38,
+      "hex": "#F7F9F7"
+    },
+    {
+      "percentage": 30,
+      "hex": " #E0D5AE"
+    },
+    {
+      "percentage": 2,
+      "hex": " #403829"
+    },
+    {
+      "percentage": 10,
+      "hex": " #625641"
+    },
+    {
+      "percentage": 12,
+      "hex": " #908369"
+    },
+    {
+      "percentage": 5,
+      "hex": " #BAAC8C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F7F9F7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E0D5AE",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #403829",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #625641",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #908369",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BAAC8C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 38,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 30,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 12,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 48,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 38,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [],
+  "description": "Portret van Maria Stuart (1631-60). Echtgenote van Willem II. Buste, naar rechts, aanziend. Onderdeel van de collectie portretminiaturen.",
+  "labelText": null,
+  "objectTypes": [
+    "miniature (painting)"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jean Petitot (le vieux)",
+      "unFixedName": "Petitot, Jean (le vieux)",
+      "placeOfBirth": "Gen\u00e8ve",
+      "dateOfBirth": "1607-07-12",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1691-04-03",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Vevey",
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Jean Petitot (le vieux) (12-jul-1607 - 03-apr-1691)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jean Petitot (le vieux)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "gold (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "c. 1645 - c. 1650",
+    "sortingDate": 1645,
+    "period": 17,
+    "yearEarly": 1645,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Stuart, Maria Henrietta"
+    ],
+    "objectNumbers": [
+      "SK-A-4333"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Stuart, Maria Henrietta"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jean Petitot (le vieux)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "enamel on gold (peinture \u00e9mail)",
+  "longTitle": "Mary Stuart (1631-1660), Consort of William II, Jean Petitot (le vieux) (attributed to), c. 1645 - c. 1650",
+  "subTitle": "d 2.5cm",
+  "scLabelLine": "attributed to: Jean Petitot (1607-1691), enamel on gold (peinture \u00e9mail), c. 1645-1650",
+  "label": {
+    "title": "Mary Stuart (1631-1660), Consort of William II",
+    "makerLine": "attributed to: Jean Petitot (1607-1691), enamel on gold (peinture \u00e9mail), c. 1645-1650",
+    "description": "In 1641 nine-year-old Princess Mary Henrietta Stuart married William II, Prince of Orange and later Stadtholder. This portrait medallion with black and white enamel is an example of mourning jewellery; it was made after Willem II died in 1650. On the inside of the medallion is a crowned violin and the inscription j\u2019aime une seul (I love only one).",
+    "notes": null,
+    "date": "2017-08-22"
+  },
+  "showImage": true,
+  "location": null
+}

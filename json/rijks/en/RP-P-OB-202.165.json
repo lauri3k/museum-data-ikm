@@ -1,0 +1,158 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-202.165",
+  "priref": "540262",
+  "objectNumber": "RP-P-OB-202.165",
+  "language": "en",
+  "title": "Geschiedenis van Rood-kapje / Histoire du petit Chaperon-Rouge",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b6d1f63c-557a-4c07-a343-5c16137333f6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2002,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/eG1OMjJh0-fR9MSiGUlU39gndXi5ODZ9XD4YOWWooPk9fGlC-Pjoe7iIq6mHuyLs0470kuquCu8buyRp_QkhtZHx1w=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Geschiedenis van Rood-kapje / Histoire du petit Chaperon-Rouge"
+  ],
+  "description": "Blad met 20 voorstellingen uit het sprookje van Roodkapje. Onder elke voorstelling een onderschrift in het Nederlands en in het Frans. Genummerd midden boven: 220.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Philippus Jacobus Brepols",
+      "unFixedName": "Brepols, Philippus Jacobus",
+      "placeOfBirth": "Leuven",
+      "dateOfBirth": "1778",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1845",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Turnhout",
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Philippus Jacobus Brepols (1778 - 1845)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Philippus Jacobus Brepols",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1800 - 1833",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1833
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84",
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "verhalen en sprookjes",
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-202.165"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Philippus Jacobus Brepols",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "372"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "297"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Geschiedenis van Rood-kapje / Histoire du petit Chaperon-Rouge, Philippus Jacobus Brepols, 1800 - 1833",
+  "subTitle": "h 372mm \u00d7 w 297mm",
+  "scLabelLine": "Philippus Jacobus Brepols, 1800 - 1833, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

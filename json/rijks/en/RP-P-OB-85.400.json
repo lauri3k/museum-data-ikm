@@ -1,0 +1,251 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-85.400",
+  "priref": "500170",
+  "objectNumber": "RP-P-OB-85.400",
+  "language": "en",
+  "title": "Aankomst van de prins te Rotterdam, 1785",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6cf688c4-0dbf-43d4-b19b-a1b4be871b3a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2016,
+    "url": "https://lh4.ggpht.com/5MrNs7I6R3DiZ0nPUoCgXqsZy83Bq6f-oDc1ofmRaCaevieFjG5zCDjpJts2XKTlZFSX_s3Q0So0WNtMwbhAIs4svlg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 43,
+      "hex": "#F5F3E8"
+    },
+    {
+      "percentage": 29,
+      "hex": " #D7D3C5"
+    },
+    {
+      "percentage": 8,
+      "hex": " #BDB8AB"
+    },
+    {
+      "percentage": 6,
+      "hex": " #9F9B8E"
+    },
+    {
+      "percentage": 5,
+      "hex": " #847E73"
+    },
+    {
+      "percentage": 4,
+      "hex": " #676157"
+    },
+    {
+      "percentage": 2,
+      "hex": " #423C34"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F3E8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D7D3C5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BDB8AB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9F9B8E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #847E73",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #676157",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #423C34",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 43,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 29,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 5,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 81,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Aankomst van de prins te Rotterdam, 1785",
+    "de Blyde aankomst van zyn Doorluchtige Hoogheid Willem de V Prins van Orange (...) te Rotterdam, aan het Ponte gat na dat hoogst de zelve de Frontieren had wezen besigtigen, den 6 Augustus 1785"
+  ],
+  "description": "Aankomst van prins Willem V bij het Pontegat te Rotterdam na het bezichtigen van de Frontieren, 6 augustus 1785. Een grote mensenmenigte in bootjes en op de kade verwelkomt de prins.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1785",
+    "sortingDate": 1785,
+    "period": 18,
+    "yearEarly": 1785,
+    "yearLate": 1785
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A4(+91)"
+    ],
+    "iconClassDescription": [
+      "public festivities (+ cheers, applause ~ festive activities)"
+    ],
+    "motifs": [],
+    "events": [
+      "Patriottentijd (1780-1795)"
+    ],
+    "periods": [
+      "1785-08-061785-08-06"
+    ],
+    "places": [
+      "Rotterdam"
+    ],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-85.400"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 263, nr. 4643."
+  ],
+  "catRefRPK": [
+    "FMH 4643",
+    "4643",
+    "Atlas van Stolk 4594",
+    "4594"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Aankomst van de prins te Rotterdam, 1785, anonymous, 1785",
+  "subTitle": "h 176mm \u00d7 w 223mm",
+  "scLabelLine": "anonymous, 1785, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

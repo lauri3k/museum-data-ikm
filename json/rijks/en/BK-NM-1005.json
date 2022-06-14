@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-1005",
+  "priref": "24550",
+  "objectNumber": "BK-NM-1005",
+  "language": "en",
+  "title": "Frederick Henry (?), Stadholder and Prince of Orange (1584-1647)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ff10552e-c2f8-4af5-9e2f-ab559157317d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1952,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/g_tgdWvRfegSwBMTFzgSGo_-R5jAwMOorZjyrHeFTqASuOgCa1iqznINapZdBKjiPlwGn-GkjHzSna_Mspa0n3I10w=s0"
+  },
+  "colors": [
+    {
+      "percentage": 44,
+      "hex": "#E5E2DE"
+    },
+    {
+      "percentage": 31,
+      "hex": " #CCC3B5"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6A4336"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A49E97"
+    },
+    {
+      "percentage": 4,
+      "hex": " #96816A"
+    },
+    {
+      "percentage": 3,
+      "hex": " #211811"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A85F4D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E5E2DE",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #CCC3B5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6A4336",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #A49E97",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #96816A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #211811",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A85F4D",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 31,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Frederick Henry (?), Stadholder and Prince of Orange (1584-1647)"
+  ],
+  "description": "Frederik Hendrik (?), stadhouder van Holland, Zeeland enz. (1584-1647). Pendant van BK-NM-1006.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Holland"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Holland"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1875-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "walnut (hardwood)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Holland"
+  ],
+  "dating": {
+    "presentingDate": "c. 1650",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16001647"
+    ],
+    "places": [],
+    "people": [
+      "Frederik Hendrik (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BK-NM-1005"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Frederik Hendrik (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Beeldhouwkunst & Kunstnijverheid."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "65"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "36"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": "c.",
+      "part": null,
+      "value": "29"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "walnut with polychromy",
+  "longTitle": "Frederick Henry (?), Stadholder and Prince of Orange (1584-1647), anonymous, c. 1650",
+  "subTitle": "h c.65cm \u00d7 w c.36cm \u00d7 d c.29cm",
+  "scLabelLine": "anonymous, c. 1650, walnut with polychromy",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

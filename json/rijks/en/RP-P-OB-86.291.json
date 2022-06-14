@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-86.291",
+  "priref": "508530",
+  "objectNumber": "RP-P-OB-86.291",
+  "language": "en",
+  "title": "Prins Willem George Frederik in de slag bij Lannoy, 1793",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2f1f372f-2c2c-46de-babb-a7d9e19e1985",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2157,
+    "url": "https://lh5.ggpht.com/E0TFt1sMKU7EXwieNrdBASrMRxgaSVbEMdIRJsLzFtWZ_ncmRZFfMAbGyDD9Yd8Go3oZVKK6HovCKXb06T5q2JvL4sI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Prins Willem George Frederik in de slag bij Lannoy, 1793",
+    "Gevecht van Prins Frederik van Orange, voor Lannoy, den 27. Augustus 1793"
+  ],
+  "description": "Willem George Frederik, prins van Oranje-Nassau, leidt de Nederlandse troepen tegen de Fransen in de slag bij Lannoy, 27 augustus 1793.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Cornelis Brouwer",
+      "unFixedName": "Brouwer, Cornelis",
+      "placeOfBirth": null,
+      "dateOfBirth": "1735",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1803-03-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Brouwer (c. 1735 - 31-mrt-1803), Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Brouwer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1802",
+    "sortingDate": 1802,
+    "period": 19,
+    "yearEarly": 1802,
+    "yearLate": 1802
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45H3(+2)"
+    ],
+    "iconClassDescription": [
+      "battle (+ land forces)"
+    ],
+    "motifs": [],
+    "events": [
+      "Eerste Coalitie-oorlog"
+    ],
+    "periods": [
+      "1793-08-271793-08-27"
+    ],
+    "places": [
+      "Lannoy"
+    ],
+    "people": [
+      "Willem George Frederik (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-86.291"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem George Frederik (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. II (jaren 1702 tot 1795), p. 339, nr. 5241.",
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. III (jaren 1795 tot 1879), p. 31-32, nr. 5512/II."
+  ],
+  "catRefRPK": [
+    "FMH 5241",
+    "5241",
+    "FMH 5512",
+    "5512",
+    "Atlas van Stolk 5418",
+    "5418"
+  ],
+  "principalOrFirstMaker": "Cornelis Brouwer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "203"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "235"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Prins Willem George Frederik in de slag bij Lannoy, 1793, Cornelis Brouwer, 1802",
+  "subTitle": "h 203mm \u00d7 w 235mm",
+  "scLabelLine": "Cornelis Brouwer, 1802, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

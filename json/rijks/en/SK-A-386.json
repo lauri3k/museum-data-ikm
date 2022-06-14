@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-386",
+  "priref": "5498",
+  "objectNumber": "SK-A-386",
+  "language": "en",
+  "title": "Interior with a Woman Feeding a Parrot, Known as \u2018The Parrot Cage\u2019",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7059db51-691f-487b-b229-d1fcbd0a9795",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2049,
+    "height": 2611,
+    "url": "https://lh3.googleusercontent.com/LRwYb2F0achYZbrvKsmrH-_NHOj-m-sFiD2RLQnK6CSPFEckJ3f8uC77b5Hil2ZxwtqUPftZyZpgGJjTGEOrftDHi5U=s0"
+  },
+  "colors": [
+    {
+      "percentage": 42,
+      "hex": "#161008"
+    },
+    {
+      "percentage": 41,
+      "hex": " #3E2E1A"
+    },
+    {
+      "percentage": 12,
+      "hex": " #695337"
+    },
+    {
+      "percentage": 2,
+      "hex": " #806F55"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A08E72"
+    },
+    {
+      "percentage": 0,
+      "hex": " #3F473A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B9B193"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#161008",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #3E2E1A",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #695337",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #806F55",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A08E72",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3F473A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #B9B193",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 42,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Interior with a woman feeding a parrot",
+    "Interior with a woman feeding a parrot, two men playing backgammon and other figures, known as 'The parrot cage'"
+  ],
+  "description": "Interieur met een jonge vrouw, die een papegaai voert, twee triktrakspelers en andere figuren. Voorstelling bekend als 'De papegaaiekooi'. Links bakt een vrouw oesters op een fornuis, op de grond zit een jongen die met een lepel een kat voert. De vogelkooi met geopend deurtje hangt aan het plafond.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jan Havicksz. Steen",
+      "unFixedName": "Steen, Jan Havicksz.",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1626",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1679-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Leiden",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jan Havicksz. Steen (c. 1626 - feb-1679)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Havicksz. Steen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1809-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1660 - c. 1670",
+    "sortingDate": 1660,
+    "period": 17,
+    "yearEarly": 1660,
+    "yearLate": 1670
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "34B131",
+      "25FF35(PARROT)(+45)",
+      "43C522",
+      "25F72(OYSTER)",
+      "34B12",
+      "41A2",
+      "41C25"
+    ],
+    "iconClassDescription": [
+      "bird in a cage",
+      "ornamental birds: parrot - FF - fabulous animals (sometimes wrongly called 'grotesques'); 'Mostri' (Ripa) (+ animals eating and drinking)",
+      "backgammon, tric-trac",
+      "molluscs: oyster",
+      "cat",
+      "interior of the house",
+      "cooking food"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-386"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Havicksz. Steen",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "40"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas on panel",
+  "longTitle": "Interior with a Woman Feeding a Parrot, Known as \u2018The Parrot Cage\u2019, Jan Havicksz. Steen, c. 1660 - c. 1670",
+  "subTitle": "h 50cm \u00d7 w 40cm",
+  "scLabelLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, laid down on panel, c. 1660\u20131670",
+  "label": {
+    "title": "Interior with a Woman Feeding a Parrot, Known as \u2018The Parrot Cage\u2019",
+    "makerLine": "Jan Havicksz Steen (c. 1625\u20131679), oil on canvas, laid down on panel, c. 1660\u20131670",
+    "description": "The wealth of motifs and humorous vignettes in Jan Steen\u2019s paintings often overshadow his great artistic flair. Steen\u2019s mastery lies both in his subtle colour combinations and in his rendering of different kinds of textures. The colour scheme of this painting is fairly drab and grey: only the clothing of the woman in the middle is rendered in delicate shades of violet and green.",
+    "notes": null,
+    "date": "2013-04-11"
+  },
+  "showImage": true,
+  "location": null
+}

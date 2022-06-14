@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-115.985",
+  "priref": "108396",
+  "objectNumber": "RP-P-OB-115.985",
+  "language": "en",
+  "title": "Maria met kind, naast hen Jozef en Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ca2e9309-6d34-4ec5-8cc1-c137d7d1e0d6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1707,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/mgtrsTawUE0HQmFvszMvjBFZHZTMM7W0g_9AFRQlJQ8lmkqoFJTYis-CNkUGPZnahHjm4o4vkl2Mz6onJD-9U7mwVUkCNWlRR1-VqG6h6g=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Maria met kind, naast hen Jozef en Johannes de Doper"
+  ],
+  "description": "Rondom drie cartouches met delen uit cantates van Claudio Monteverdi.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Paul Friedrich Engelbrecht",
+      "unFixedName": "Engelbrecht, Paul Friedrich",
+      "placeOfBirth": null,
+      "dateOfBirth": "1719",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1776",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Augsburg"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Paul Friedrich Engelbrecht (1719 - 1776), Augsburg"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Paul Friedrich Engelbrecht",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Augsburg"
+  ],
+  "dating": {
+    "presentingDate": "1729 - 1776",
+    "sortingDate": 1729,
+    "period": 18,
+    "yearEarly": 1729,
+    "yearLate": 1776
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11F62",
+      "11H(JOHN THE BAPTIST)2",
+      "11H(JOSEPH)",
+      "11G1911",
+      "48A9863",
+      "48C51562"
+    ],
+    "iconClassDescription": [
+      "specific types of Madonna with others",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff - early life of male saint",
+      "the foster-father of Christ, Joseph of Nazareth, husband of Mary; possible attributes: flowering rod or wand, lily, carpenter's tools",
+      "cherubs, i.e. children's heads with wings",
+      "rocaille ornament",
+      "(feigned) picture curtain"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-115.985"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Paul Friedrich Engelbrecht",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "524"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "353"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Maria met kind, naast hen Jozef en Johannes de Doper, Paul Friedrich Engelbrecht, 1729 - 1776",
+  "subTitle": "h 524mm \u00d7 w 353mm",
+  "scLabelLine": "Paul Friedrich Engelbrecht, 1729 - 1776, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

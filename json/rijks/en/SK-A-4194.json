@@ -1,0 +1,268 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-4194",
+  "priref": "10145",
+  "objectNumber": "SK-A-4194",
+  "language": "en",
+  "title": "Allegorical Representation of the Birth of William Frederick, Prince of Orange-Nassau, later King William I",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0b09fc77-807f-4fb4-9c34-2b1a6812abc6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2033,
+    "height": 2394,
+    "url": "https://lh4.ggpht.com/83BWKT-jHQ0cNjqYUvA4GL-IZyWdSJKNojBbZhOmTo4KPHuLWjv6hlHXeRgx2i__zB8dOKmpskZEvynMx9EVZuYS4OE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#343028"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E3DCBB"
+    },
+    {
+      "percentage": 12,
+      "hex": " #C0BFA6"
+    },
+    {
+      "percentage": 50,
+      "hex": " #9A9B7F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #544E3F"
+    },
+    {
+      "percentage": 25,
+      "hex": " #8B654D"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#343028",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #E3DCBB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C0BFA6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9A9B7F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #544E3F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8B654D",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 50,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 25,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 12,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 25,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Allegorical Representation of the Birth of William Frederick, Prince of Orange-Nassau, later King William I"
+  ],
+  "description": "Allegorische voorstelling op de geboorte van Willem Frederik (1772-1843), prins van Oranje-Nassau, de latere koning Willem I. Rechts zit de Nederlandse Maagd bij een oranjeboom, aan haar voeten ligt de Nederlandse Leeuw met pijlenbundel. Vanuit de hemel, met het oog van God, daalt een jongetje op een lichtbundel naar de aarde, links zit een putto met een lauwerkrans.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1970-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1772",
+    "sortingDate": 1772,
+    "period": 18,
+    "yearEarly": 1772,
+    "yearLate": 1772
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44A51",
+      "42A"
+    ],
+    "iconClassDescription": [
+      "personifications of countries, nations, states, districts, etc.",
+      "voortplanting, geboorte en (vroege) jeugd"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17721772"
+    ],
+    "places": [],
+    "people": [
+      "Willem I (koning der Nederlanden)"
+    ],
+    "objectNumbers": [
+      "SK-A-4194"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (koning der Nederlanden)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "36.3"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "28.8"
+    },
+    {
+      "unit": "cm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "1.8"
+    },
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "44.9"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "37.4"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "9.8"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Allegorical Representation of the Birth of William Frederick, Prince of Orange-Nassau, later King William I, anonymous, 1772",
+  "subTitle": "h 36.3cm \u00d7 w 28.8cm \u00d7 t 1.8cm",
+  "scLabelLine": "anonymous, 1772, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

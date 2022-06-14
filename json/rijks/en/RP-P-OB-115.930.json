@@ -1,0 +1,146 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-115.930",
+  "priref": "107205",
+  "objectNumber": "RP-P-OB-115.930",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f285c62d-ad2d-4139-8147-55572c69c828",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1467,
+    "height": 1849,
+    "url": "https://lh3.googleusercontent.com/pG5LiZ9rdwi7Ik-yIPpZSC6efPDyZOuU-52jSsVJ1gHHBaA47kNeSs9ZLMY-9ssqNZrC_4KUNQAhXWF24eUhRAnrSj18=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning",
+    "Passie van Christus"
+  ],
+  "description": "Rechtsonder genummerd: 16.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Marcantonio Raimondi",
+      "unFixedName": "Raimondi, Marcantonio",
+      "placeOfBirth": null,
+      "dateOfBirth": "1482",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1534",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": null,
+      "labelDesc": "Marcantonio Raimondi (c. 1482 - 1534), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Marcantonio Raimondi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1511 - 1534",
+    "sortingDate": 1511,
+    "period": 16,
+    "yearEarly": 1511,
+    "yearLate": 1534
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-115.930"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "The Illustrated Bartsch 234",
+    "234",
+    "Bartsch 602",
+    "602"
+  ],
+  "principalOrFirstMaker": "Marcantonio Raimondi",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "131"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "99"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Doornenkroning, Marcantonio Raimondi, 1511 - 1534",
+  "subTitle": "h 131mm \u00d7 w 99mm",
+  "scLabelLine": "Marcantonio Raimondi, 1511 - 1534, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

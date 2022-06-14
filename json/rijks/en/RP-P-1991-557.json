@@ -1,0 +1,255 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1991-557",
+  "priref": "422453",
+  "objectNumber": "RP-P-1991-557",
+  "language": "en",
+  "title": "Greens in a Straw Container",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "800d5924-db24-4532-b99a-66e285a47e8e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2796,
+    "height": 2082,
+    "url": "https://lh5.ggpht.com/FiL2gjiYS5-0o82tfbzqMZLmK0Pv9ltQZu97Ri4kXSOGvBRTyH7D9xnnVLskJ69wyK30jOGyuW4H5dCRPFIKR7UiNQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#536150"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FCF7D6"
+    },
+    {
+      "percentage": 2,
+      "hex": " #787D68"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C4BF98"
+    },
+    {
+      "percentage": 83,
+      "hex": " #DED8BA"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A5A384"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#536150",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #FCF7D6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #787D68",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C4BF98",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DED8BA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #A5A384",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 83,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #BDB76B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 83,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 13,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Greens in a Straw Container"
+  ],
+  "description": "Een gevlochten mandje in de vorm van een kolf is gevuld met waarschijnlijk radijsjes. Met \u00e9\u00e9n gedicht.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Kitsuneen",
+      "unFixedName": "Kitsuneen",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Kitsuneen, Japan"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Totoya Hokkei",
+      "unFixedName": "Hokkei, Totoya",
+      "placeOfBirth": null,
+      "dateOfBirth": "1790",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1850",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Japan"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Totoya Hokkei (1790 - 1850), Japan"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Totoya Hokkei",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1991-01-01T00:00:00",
+    "creditLine": "Gift of J.H.W. Goslings, Epse"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "color woodcut"
+  ],
+  "productionPlaces": [
+    "Japan",
+    "Japan"
+  ],
+  "dating": {
+    "presentingDate": "1818",
+    "sortingDate": 1818,
+    "period": 19,
+    "yearEarly": 1818,
+    "yearLate": 1818
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41C652",
+      "47I17(STRAW)"
+    ],
+    "iconClassDescription": [
+      "vegetables",
+      "agricultural products and by-products: straw"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1991-557"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Forrer 129",
+    "129",
+    "Goslings 18",
+    "18"
+  ],
+  "principalOrFirstMaker": "Totoya Hokkei",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "96"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "132"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "nishikie",
+  "longTitle": "Greens in a Straw Container, Totoya Hokkei, 1818",
+  "subTitle": "h 96mm \u00d7 w 132mm",
+  "scLabelLine": "Totoya Hokkei, 1818, nishikie",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

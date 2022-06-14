@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1918-1399",
+  "priref": "303998",
+  "objectNumber": "RP-P-1918-1399",
+  "language": "en",
+  "title": "Gezicht op Gretna Green",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Gretna Green",
+    "Gretna green",
+    "Twaalf gezichten op Schotland door Frances Waring",
+    "Twelve views in Scotland, delineated by a lady in the polyautographic art of drawing on stone"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Rudolph Ackermann",
+      "unFixedName": "Ackermann, Rudolph",
+      "placeOfBirth": "Schneeberg",
+      "dateOfBirth": "1764-04-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1834-03-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Rudolph Ackermann (20-apr-1764 - 30-mrt-1834), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Frances Waring",
+      "unFixedName": "Waring, Frances",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Frances Waring"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Frances Waring",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "exchange",
+    "date": "1918-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1803",
+    "sortingDate": 1803,
+    "period": 19,
+    "yearEarly": 1803,
+    "yearLate": 1803
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I241"
+    ],
+    "iconClassDescription": [
+      "village street"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Schotland"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1918-1399"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Man, Felix H. 'Lithography in England (1801-1810)', gepubliceerd in: Zigrosser, Carl. Prints: thirteen illustrated essays on the art of the print, selected for the Print Council of America. Londen: Peter Owen, [1962-1963]."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Frances Waring",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "342"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "531"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Gezicht op Gretna Green, Frances Waring, 1803",
+  "subTitle": "h 342mm \u00d7 w 531mm",
+  "scLabelLine": "Frances Waring, 1803, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

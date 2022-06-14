@@ -1,0 +1,116 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-74.880",
+  "priref": "345302",
+  "objectNumber": "RP-P-OB-74.880",
+  "language": "en",
+  "title": "De lezer",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b129b26e-6ff8-48c5-b440-bc7966d946fd",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2004,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/dWkAXuWHsBwtDdLKBtiZf1xLpV8Z-TBxDFONx5mbFaptP-fHtRNzS9WOjzpZdkc7FkYadJ4JEngR-xNnbMuh29Ic0xLG-Vr73MKjy5U=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De lezer"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Valentine Green",
+      "unFixedName": "Green, Valentine",
+      "placeOfBirth": "Salford",
+      "dateOfBirth": "1739-10-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1813-06-29",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Valentine Green (16-okt-1739 - 29-jun-1813)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Valentine Green",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "paper",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1749 - 1813",
+    "sortingDate": 1749,
+    "period": 18,
+    "yearEarly": 1749,
+    "yearLate": 1813
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-74.880"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Valentine Green",
+  "dimensions": [],
+  "physicalProperties": [],
+  "physicalMedium": "glass",
+  "longTitle": "De lezer, Valentine Green, 1749 - 1813",
+  "subTitle": "",
+  "scLabelLine": "Valentine Green, 1749 - 1813, glass",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

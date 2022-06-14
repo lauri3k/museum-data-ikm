@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-948",
+  "priref": "6119",
+  "objectNumber": "SK-A-948",
+  "language": "en",
+  "title": "Willem V (1748-1806), Prince of Orange-Nassau",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ee4f2f6c-9481-49e4-bf8a-8ed601837d62",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1326,
+    "height": 2820,
+    "url": "https://lh5.ggpht.com/yE9xelUzcjB507uPNo2Bqc0SayRNOjPXP3nnq0CvZEF90D9YvZIhjSxl4yOcdCTAPVOSj_1nXQf2pt2hrCswpXaAq4c=s0"
+  },
+  "colors": [
+    {
+      "percentage": 9,
+      "hex": "#6E6E6E"
+    },
+    {
+      "percentage": 10,
+      "hex": " #BBBBBB"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8E8E8E"
+    },
+    {
+      "percentage": 39,
+      "hex": " #424242"
+    },
+    {
+      "percentage": 29,
+      "hex": " #121212"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F0F0F0"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#6E6E6E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BBBBBB",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8E8E8E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #424242",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #121212",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #F0F0F0",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 39,
+      "hex": "#2F4F4F"
+    },
+    {
+      "percentage": 29,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Willem V (1748-1806), Prince of Orange-Nassau"
+  ],
+  "description": "Portret van Willem V, prins van Oranje-Nassau.Ten voeten uit, in wapenrusting, staande bij een rots met een commandostaf in de linkerhand. Pendant van SK-A-949.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Benjamin Samuel Bolomey",
+      "unFixedName": "Bolomey, Benjamin Samuel",
+      "placeOfBirth": "Lausanne",
+      "dateOfBirth": "1739",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1819-12-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Lausanne",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Benjamin Samuel Bolomey (1739 - 19-dec-1819)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Benjamin Samuel Bolomey",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1878-01-01T00:00:00",
+    "creditLine": "Gift of the Gedeputeerde Staten van Zeeland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1770",
+    "sortingDate": 1770,
+    "period": 18,
+    "yearEarly": 1770,
+    "yearLate": 1770
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17481806"
+    ],
+    "places": [],
+    "people": [
+      "Willem V (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "SK-A-948"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem V (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Benjamin Samuel Bolomey",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "223"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Willem V (1748-1806), Prince of Orange-Nassau, Benjamin Samuel Bolomey, 1770",
+  "subTitle": "h 223cm \u00d7 w 103cm",
+  "scLabelLine": "Benjamin Samuel Bolomey, 1770, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

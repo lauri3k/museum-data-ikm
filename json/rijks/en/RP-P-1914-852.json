@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-852",
+  "priref": "164670",
+  "objectNumber": "RP-P-1914-852",
+  "language": "en",
+  "title": "Portret van Ludwig Georg Winter",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d469c15f-77a7-4973-a917-0b0e8e1fc09b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1758,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/mhvGb8yL5gdLrC7rXGsrzXaMMMmzPvIr0u2S38CKP5uod13_A0XhVutoPq3jX4hLtPvFRbUn6SK8JLtMJK4E0bTxllRNzJEDGKQVRRdf=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Ludwig Georg Winter"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hermann Hirsch Pinhas",
+      "unFixedName": "Pinhas, Hermann Hirsch",
+      "placeOfBirth": "Kassel",
+      "dateOfBirth": "1795-09-07",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1844-02-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Freiburg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Hermann Hirsch Pinhas (07-sep-1795 - 14-feb-1844)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hermann Hirsch Pinhas",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "steel engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1805 - 1844",
+    "sortingDate": 1805,
+    "period": 19,
+    "yearEarly": 1805,
+    "yearLate": 1844
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "46A1241(RED EAGLE ORDER)"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "knighthood order (RED EAGLE ORDER)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Winter, Ludwig Georg"
+    ],
+    "objectNumbers": [
+      "RP-P-1914-852"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Winter, Ludwig Georg"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hermann Hirsch Pinhas",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "156"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "113"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel engraving",
+  "longTitle": "Portret van Ludwig Georg Winter, Hermann Hirsch Pinhas, 1805 - 1844",
+  "subTitle": "h 156mm \u00d7 w 113mm",
+  "scLabelLine": "Hermann Hirsch Pinhas, 1805 - 1844, steel engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

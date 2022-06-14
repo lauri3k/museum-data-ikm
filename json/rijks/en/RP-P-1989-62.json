@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1989-62",
+  "priref": "532588",
+  "objectNumber": "RP-P-1989-62",
+  "language": "en",
+  "title": "Vertelling van Roodkapje",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "306aafb1-916d-4ae7-82e7-96a91dcb18ff",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2089,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/G6-edKGVuaF7kHPIsO6tq-FxAe04uOQ1zJK3tyhb649Q7cd8J21mfKkZescDgCzup8w-o-BJyxGHSMFhLZy4Rzl--Q=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Vertelling van Roodkapje"
+  ],
+  "description": "Blad met 12 voorstellingen uit het sprookje van Roodkapje. Onder elke voorstelling een vierregelig vers. Genummerd rechtsboven: No. 46.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "W. Thompson",
+      "unFixedName": "Thompson, W.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rotterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object W. Thompson, Rotterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "W. Thompson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1988-12-20T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Rotterdam",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1835 - 1837",
+    "sortingDate": 1835,
+    "period": 19,
+    "yearEarly": 1835,
+    "yearLate": 1837
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "84(LITTLE RED RIDING-HOOD)"
+    ],
+    "iconClassDescription": [
+      "tales and fairy tales: Little Red Riding-hood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1989-62"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "W. Thompson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "406"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "336"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Vertelling van Roodkapje, W. Thompson, 1835 - 1837",
+  "subTitle": "h 406mm \u00d7 w 336mm",
+  "scLabelLine": "W. Thompson, 1835 - 1837, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

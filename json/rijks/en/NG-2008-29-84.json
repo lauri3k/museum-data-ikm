@@ -1,0 +1,218 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-2008-29-84",
+  "priref": "463060",
+  "objectNumber": "NG-2008-29-84",
+  "language": "en",
+  "title": "Blue gate",
+  "copyrightHolder": "Jem Southam/In opdracht van Atelier HSL",
+  "webImage": null,
+  "colors": [
+    {
+      "percentage": 62,
+      "hex": "#EFF0F4"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C7CDD5"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A0A4A7"
+    },
+    {
+      "percentage": 11,
+      "hex": " #1A1A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #7E8083"
+    },
+    {
+      "percentage": 14,
+      "hex": " #5F5E55"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EFF0F4",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #C7CDD5",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #A0A4A7",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #1A1A1F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #7E8083",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5F5E55",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 14,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D3D3D3"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 11,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B5BFCC"
+    }
+  ],
+  "titles": [
+    "Blue gate"
+  ],
+  "description": "Een blauw geverfd hek sluit een zandweg af. Achter het hek kale winterse bomen en een hoop stenen.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jem Southam",
+      "unFixedName": "Southam, Jem",
+      "placeOfBirth": "Bristol",
+      "dateOfBirth": "1950",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": "english",
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jem Southam (1950 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jem Southam",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2006-11-21T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "2003",
+    "sortingDate": 2003,
+    "period": 21,
+    "yearEarly": 2003,
+    "yearLate": 2003
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47G1"
+    ],
+    "iconClassDescription": [
+      "building-site"
+    ],
+    "motifs": [],
+    "events": [
+      "Aanleg traject HSL"
+    ],
+    "periods": [
+      "20012007"
+    ],
+    "places": [
+      "Zoetermeer"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "NG-2008-29-84"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jem Southam",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "30.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "40.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "photographic support",
+  "longTitle": "Blue gate, Jem Southam, 2003",
+  "subTitle": "h 30.5cm \u00d7 w 40.5cm",
+  "scLabelLine": "Jem Southam, 2003, photographic support",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

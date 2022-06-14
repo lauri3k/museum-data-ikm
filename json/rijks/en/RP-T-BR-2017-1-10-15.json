@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-BR-2017-1-10-15",
+  "priref": "675680",
+  "objectNumber": "RP-T-BR-2017-1-10-15",
+  "language": "en",
+  "title": "Paarse iris (Iris germanica)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2b646042-3b4d-4a93-91aa-24cc2bd49c7d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1033,
+    "height": 1571,
+    "url": "https://lh3.googleusercontent.com/YJ_5JvuDIKX80wsEdWSoUv0QwGvJaVMjW6NbTgcWZCwNr84bV1JHtJPldrsggllR3lzlhHUIOC-dvrf9RgoVbtP_pa8vm0YI3AgSFCUU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Paarse iris (Iris germanica)",
+    "Blauwe lis Lelie. / iris Vulgaris. / iris Blue Commune"
+  ],
+  "description": "Paarse iris. Genummerd rechtsboven: 211. Rechtsboven de naam in vier talen. Onderdeel van het derde album met tekeningen van bloemen en planten. Tiende van twaalf albums met tekeningen van dieren, vogels en planten bekend rond 1600, gemaakt in opdracht van keizer Rudolf II. Met toelichting in Nederlands, Latijn en Frans.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [
+    {
+      "name": "Elias Verhulst",
+      "unFixedName": "Verhulst, Elias",
+      "placeOfBirth": "Mechelen",
+      "dateOfBirth": "1585",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1601-01-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Delft",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "Elias Verhulst (1585 - 21-jan-1601), Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Anselmus Bo\u00ebtius de Boodt",
+      "unFixedName": "Boodt, Anselmus Bo\u00ebtius de",
+      "placeOfBirth": "Brugge",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1632",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Anselmus Bo\u00ebtius de Boodt (1550 - 1632)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anselmus Bo\u00ebtius de Boodt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "2017-03-21T00:00:00",
+    "creditLine": "On loan from a private collection"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)",
+    "deck paint",
+    "chalk",
+    "ink"
+  ],
+  "techniques": [
+    "brush",
+    "pen"
+  ],
+  "productionPlaces": [
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "1596 - 1610",
+    "sortingDate": 1596,
+    "period": 16,
+    "yearEarly": 1596,
+    "yearLate": 1610
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G41(IRIS)"
+    ],
+    "iconClassDescription": [
+      "flowers: iris"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-BR-2017-1-10-15"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anselmus Bo\u00ebtius de Boodt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "246"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "169"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Paarse iris (Iris germanica), Anselmus Bo\u00ebtius de Boodt, 1596 - 1610",
+  "subTitle": "h 246mm \u00d7 w 169mm",
+  "scLabelLine": "Anselmus Bo\u00ebtius de Boodt, 1596 - 1610, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

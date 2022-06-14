@@ -1,0 +1,149 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-32.526",
+  "priref": "148087",
+  "objectNumber": "RP-P-OB-32.526",
+  "language": "en",
+  "title": "Portret van Charles Saunders",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8f95ab1d-e5df-47c0-9d4b-dea0c662f163",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1843,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/Fr5x_yp8UzZYFRO1OFYhD8kh8vWsE8i9LNv6ESPm5ndhd--mTfq5ZSlByU6MR6YTKeOnJNuLmWJgnOwo8jyGTQic8Ufojf2WkOiAR6aO=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Charles Saunders",
+    "Charles Saunders Esqr. Vice Adml. of the Blue Squadron (...)"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "James McArdell",
+      "unFixedName": "McArdell, James",
+      "placeOfBirth": "Dublin",
+      "dateOfBirth": "1728",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1765-06-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object James McArdell (c. 1728 - 01-jun-1765), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "James McArdell",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1760 - 1765",
+    "sortingDate": 1760,
+    "period": 18,
+    "yearEarly": 1760,
+    "yearLate": 1765
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "45D321"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "commander-in-chief, admiral"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Saunders, Charles"
+    ],
+    "objectNumbers": [
+      "RP-P-OB-32.526"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Saunders, Charles"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 163",
+    "163",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "James McArdell",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "391"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "278"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Charles Saunders, James McArdell, 1760 - 1765",
+  "subTitle": "h 391mm \u00d7 w 278mm",
+  "scLabelLine": "James McArdell, 1760 - 1765, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

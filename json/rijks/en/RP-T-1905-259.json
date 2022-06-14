@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1905-259",
+  "priref": "297083",
+  "objectNumber": "RP-T-1905-259",
+  "language": "en",
+  "title": "Floral Still Life",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "33498efd-ec70-4442-9e2f-70252a670349",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1970,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/gbRZVO53a25PKB_vv04vrtnGck_S2ZgnLjt2AEcsaHtm2LySnYXOVSqlfqKEPxn9RJHlX501HTziGw7BkD5UXUmIZts=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Bloemstilleven van koolroos, anjer, goudsbloem, dagschone, stokroos, aurikel en Franse silene.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Georgius Jacobus Johannes van Os",
+      "unFixedName": "Os, Georgius Jacobus Johannes van",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1782-11-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1861-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Georgius Jacobus Johannes van Os (20-nov-1782 - 24-jul-1861)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Georgius Jacobus Johannes van Os",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": "M.E. van den Brink Bequest, Velp"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)",
+    "pencil"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1800 - c. 1825",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1825
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G411",
+      "25G41(ROSE)",
+      "25G41(CHRYSANTHEMUM)"
+    ],
+    "iconClassDescription": [
+      "cut flowers; nosegay, bunch of flowers",
+      "flowers: rose",
+      "flowers: chrysanthemum"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1905-259"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Georgius Jacobus Johannes van Os",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "304"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "257"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Floral Still Life, Georgius Jacobus Johannes van Os, c. 1800 - c. 1825",
+  "subTitle": "h 304mm \u00d7 w 257mm",
+  "scLabelLine": "Georgius Jacobus Johannes van Os (1782-1826), watercolour, c. 1800-1825",
+  "label": {
+    "title": "Floral Still Life",
+    "makerLine": "Georgius Jacobus Johannes van Os (1782-1826), watercolour, c. 1800-1825",
+    "description": "Georgius van Os painted his flowers in bright colours, with crisp contours and little attention to light and shade, entirely in keeping with the taste of his time. The uniform grey background also contributes to the still life\u2019s distinct character. The watercolour can be compared to the still lifes Van Os painted on porcelain in the famous factory in S\u00e8vres near Paris.",
+    "notes": null,
+    "date": "2015-06-05"
+  },
+  "showImage": true,
+  "location": null
+}

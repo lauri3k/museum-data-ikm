@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-37.234",
+  "priref": "243259",
+  "objectNumber": "RP-P-OB-37.234",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "840d7541-d205-41ef-b34c-0b8e6be3143c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2098,
+    "height": 1574,
+    "url": "https://lh3.googleusercontent.com/FLlKQaEFE23v4PxdfKPVgQujqBNJYojhwBnrhPSQpCU8k2tKOeihzCbD3Yfr_YeHVUOgYsQsRE-2dXgVXORzxkwbUlyc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning",
+    "Vijftien Mysteries van de Rozenkrans",
+    "Quindecim Mysteria Rosarii Beatae Mariae Virginis"
+  ],
+  "description": "Christus zittend met de doornenkroon op zijn hoofd en rieten scepter in zijn hand. Om hem heen soldaten die hem slaan met riet. Links en op de achtergrond toekijkende omstanders. In de ondermarge een tweeregelige Latijnse tekst.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Raffaello Schiaminossi",
+      "unFixedName": "Schiaminossi, Raffaello",
+      "placeOfBirth": "Sansepolcro",
+      "dateOfBirth": "1572",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1622",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Rome"
+      ],
+      "qualification": null,
+      "labelDesc": "Raffaello Schiaminossi (1572 - 1622), Rome"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Raffaello Schiaminossi",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Rome",
+    "Rome"
+  ],
+  "dating": {
+    "presentingDate": "1602 - 1604",
+    "sortingDate": 1602,
+    "period": 17,
+    "yearEarly": 1602,
+    "yearLate": 1604
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-37.234"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Giannotti (Schiaminossi) 13",
+    "13",
+    "The Illustrated Bartsch 45",
+    "45",
+    "Bartsch 45",
+    "45",
+    "Aantal staten bekend"
+  ],
+  "principalOrFirstMaker": "Raffaello Schiaminossi",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Doornenkroning, Raffaello Schiaminossi, 1602 - 1604",
+  "subTitle": "h 112mm \u00d7 w 155mm",
+  "scLabelLine": "Raffaello Schiaminossi, 1602 - 1604, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

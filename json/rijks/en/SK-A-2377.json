@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2377",
+  "priref": "7734",
+  "objectNumber": "SK-A-2377",
+  "language": "en",
+  "title": "William IV (1711-51), Prince of Orange",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a980ed49-94e8-40d6-9b16-bf12300a4ffc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1976,
+    "height": 2604,
+    "url": "https://lh3.googleusercontent.com/agcIUhWywliyjeECOq5hpmDMWUvQolmh01vTnGMudPboY0I3xv6r79rDrueGSt_2BbgEP0Gj2ZvA-3aOgV3k8n0XBfA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#9B9376"
+    },
+    {
+      "percentage": 2,
+      "hex": " #776049"
+    },
+    {
+      "percentage": 1,
+      "hex": " #897C61"
+    },
+    {
+      "percentage": 4,
+      "hex": " #625439"
+    },
+    {
+      "percentage": 22,
+      "hex": " #584126"
+    },
+    {
+      "percentage": 68,
+      "hex": " #20201A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#9B9376",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #776049",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #897C61",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #625439",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #584126",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #20201A",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 68,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 22,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 7,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 68,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 29,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "William IV (1711-51), Prince of Orange"
+  ],
+  "description": "Portret van Willem IV, prins van Oranje. Kniestuk, staande met de linkerhand op een tafeltje en commadostaf in de rechterhand. De staf geleund op een stoel waarop ook zijn gepluimde helm staat. Links op de achtergrond een beeld van een vrouwelijke krijger of godin met een lans.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hans Hysing",
+      "unFixedName": "Hysing, Hans",
+      "placeOfBirth": "Stockholm",
+      "dateOfBirth": "1678",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1753",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Hans Hysing (1678 - 1753)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hans Hysing",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1909-03-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1730 - 1753",
+    "sortingDate": 1730,
+    "period": 18,
+    "yearEarly": 1730,
+    "yearLate": 1753
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44B1161"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "stadtholder"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "17111751"
+    ],
+    "places": [],
+    "people": [
+      "Willem IV (prins van Oranje-Nassau)"
+    ],
+    "objectNumbers": [
+      "SK-A-2377"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem IV (prins van Oranje-Nassau)"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "Documentatiemap Schilderijen: aantekeningen R. van Luttervelt (voor 1963)."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hans Hysing",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "76.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "58.5"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "14.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "William IV (1711-51), Prince of Orange, Hans Hysing (attributed to), 1730 - 1753",
+  "subTitle": "h 76.5cm \u00d7 w 58.5cm \u00d7 d 14.5cm",
+  "scLabelLine": "Hans Hysing, 1730 - 1753, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

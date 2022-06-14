@@ -1,0 +1,269 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-1968",
+  "priref": "34456",
+  "objectNumber": "RP-P-OB-1968",
+  "language": "en",
+  "title": "Mercurius als personificatie van Deugd red zielen bij voorgeborchte en Daphne verandert in boom",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8649068d-acec-495c-8bba-f7824c33217c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2916,
+    "height": 1990,
+    "url": "https://lh4.ggpht.com/o1GHG0MsNnX1r8xZVANh-YI5OYSPzFU7yNN1db9x75WUBuzRHKcD46dE3G1uc5ojJ-jyxbqWRjefJFmqcgrbCBEnUHKE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 23,
+      "hex": "#8F8877"
+    },
+    {
+      "percentage": 23,
+      "hex": " #E6DBC3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #C8BFA8"
+    },
+    {
+      "percentage": 17,
+      "hex": " #706B5C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #ACA490"
+    },
+    {
+      "percentage": 3,
+      "hex": " #555046"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEF4D9"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#8F8877",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #E6DBC3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C8BFA8",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #706B5C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ACA490",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #555046",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FEF4D9",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 23,
+      "hex": "#808080"
+    },
+    {
+      "percentage": 23,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 21,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 45,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 30,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 24,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Mercurius als personificatie van Deugd red zielen bij voorgeborchte en Daphne verandert in boom",
+    "Virtus Deserta"
+  ],
+  "description": "Mercurius knielt bij de deur naar het voorgeborchte waar zielen op elkaar gestapeld liggen. Hij reikt een ziel de hand om hem te redden. Links staat Daphne veranderd in een boom met een tekstbord VIRTVS DESERTA. Op een blok steen staat de tekst VIRTVTI S.A.I. Dit is de onderste helft van een voorstelling met een allegorie op deugden en ondeugden.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Zoan Andrea",
+      "unFixedName": "Zoan Andrea",
+      "placeOfBirth": "Mantua",
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Zoan Andrea, Italy"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Andrea Mantegna",
+      "unFixedName": "Mantegna, Andrea",
+      "placeOfBirth": "Isola di Cartura",
+      "dateOfBirth": "1431",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1506-09-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Mantua",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Italy"
+      ],
+      "qualification": "school of",
+      "labelDesc": "school of Andrea Mantegna (1431 - 13-sep-1506), Italy"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Andrea Mantegna",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Italy",
+    "Italy"
+  ],
+  "dating": {
+    "presentingDate": "1490 - 1499",
+    "sortingDate": 1490,
+    "period": 15,
+    "yearEarly": 1490,
+    "yearLate": 1499
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92B571",
+      "97AA1"
+    ],
+    "iconClassDescription": [
+      "Hermes Psychopompos: Mercury as guide of the souls",
+      "Daphne changed into a laurel-tree: while fleeing from Apollo, Daphne is changed into a laurel-tree by her father Peneus (Ovid, Metamorphoses I 548)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-1968"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hind (Italy) 22",
+    "22",
+    "The Illustrated Bartsch 27",
+    "27"
+  ],
+  "principalOrFirstMaker": "Andrea Mantegna",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "280"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "413"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Mercurius als personificatie van Deugd red zielen bij voorgeborchte en Daphne verandert in boom, Andrea Mantegna (school of), 1490 - 1499",
+  "subTitle": "h 280mm \u00d7 w 413mm",
+  "scLabelLine": "Andrea Mantegna, 1490 - 1499, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,159 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F07328",
+  "priref": "263240",
+  "objectNumber": "RP-F-F07328",
+  "language": "en",
+  "title": "Aqua Claudia buiten Rome, met op de voorgrond een vrouw met twee kinderen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1f167a5c-8edd-4078-ba2a-71a4f5cb4069",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1332,
+    "url": "https://lh3.googleusercontent.com/xhr-wkCdYBCv09il_QMWOnnsBUkvJvfkLJEOh7b90LTgVqjQEcB1MwST7v6x3wH3uUgGYY_qZ7MGnHdkF5eK4W0Gv9A=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Aqua Claudia buiten Rome, met op de voorgrond een vrouw met twee kinderen",
+    "Aqueduct of Claudius (49 miles long, constructed, A.D. 52), near Rome, Italy."
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Underwood and Underwood",
+      "unFixedName": "Underwood and Underwood",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Underwood and Underwood, New York (city)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "New York (city)"
+  ],
+  "dating": {
+    "presentingDate": "1897",
+    "sortingDate": 1897,
+    "period": 19,
+    "yearEarly": 1897,
+    "yearLate": 1897
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I6"
+    ],
+    "iconClassDescription": [
+      "landscape with bridge, viaduct or aqueduct"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Aqua Claudia"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F07328"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Aqua Claudia buiten Rome, met op de voorgrond een vrouw met twee kinderen, anonymous, 1897",
+  "subTitle": "h c.85mm \u00d7 w c.170mm",
+  "scLabelLine": "anonymous, 1897, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

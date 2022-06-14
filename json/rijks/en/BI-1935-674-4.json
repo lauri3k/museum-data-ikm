@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-1935-674-4",
+  "priref": "636666",
+  "objectNumber": "BI-1935-674-4",
+  "language": "en",
+  "title": "Willem II van Oranje te paard",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "247c42e8-edf4-4d14-ae6f-30cb44953e98",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1591,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/zfQmXE8-sPTopNZp3Do9-rmH0GHVDcXHG44QAxuX3n5duEKa2rcqVmQQRX82RzH5dPx1__9G0g-f2slQv-zVT3tIKnxARlA-mwi8oTUE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Willem II van Oranje te paard",
+    "William Prince of Orange Father of King William the Third"
+  ],
+  "description": "Portret van Willem II, prins van Oranje, te paard. Hij heeft een zweep in zijn handen. Rechts zijn metgezel met paard en hond. De prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "William Baillie",
+      "unFixedName": "Baillie, William",
+      "placeOfBirth": "Kilbride",
+      "dateOfBirth": "1723-06-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1810-12-22",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Paddington",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object William Baillie (05-jun-1723 - 22-dec-1810)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "William Baillie",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1935-07-04T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "drypoint"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1771",
+    "sortingDate": 1771,
+    "period": 18,
+    "yearEarly": 1771,
+    "yearLate": 1771
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C13141"
+    ],
+    "iconClassDescription": [
+      "horse"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem II (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BI-1935-674-4"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem II (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "William Baillie",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "248"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Willem II van Oranje te paard, William Baillie, 1771",
+  "subTitle": "h 270mm \u00d7 w 248mm",
+  "scLabelLine": "William Baillie, 1771, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

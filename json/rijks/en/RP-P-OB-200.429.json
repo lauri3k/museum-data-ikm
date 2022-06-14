@@ -1,0 +1,169 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-200.429",
+  "priref": "530419",
+  "objectNumber": "RP-P-OB-200.429",
+  "language": "en",
+  "title": "Deez' bybelprent toont u 't aardsvaderlyk geslacht. / En hoe Gods oude volk Egijpt' werd uitgebragt",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "477f20f0-81bd-437c-bca7-fa3f6264e358",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2034,
+    "url": "https://lh5.ggpht.com/hXvXqSxQGF5lNXxM7cdLoHWO3F1d7RIuj4rwxWOHsg4wI1ytf0C-WC12NDSShOP8d3XK5MqR4ZO-D034ix7eEzoyww=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Deez' bybelprent toont u 't aardsvaderlyk geslacht. / En hoe Gods oude volk Egijpt' werd uitgebragt"
+  ],
+  "description": "Blad met 16 voorstellingen uit het Oude Testament, waaronder Jakobs droom, Mozes die wordt gevonden en de doortocht door de Rode zee. Onder elke voorstelling een tweeregelig vers en de bijbehorende Bijbelverwijzing. Genummerd rechtsboven: No. 20.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "weduwe C. Kok-van Kolm",
+      "unFixedName": "Kok-van Kolm, weduwe C.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object weduwe C. Kok-van Kolm, Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "weduwe C. Kok-van Kolm",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1842 - 1866",
+    "sortingDate": 1842,
+    "period": 19,
+    "yearEarly": 1842,
+    "yearLate": 1866
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71",
+      "71E11241",
+      "71E122",
+      "71C3121"
+    ],
+    "iconClassDescription": [
+      "Oude Testament",
+      "Moses is pulled out of the water by the servants",
+      "passage through the Red Sea",
+      "the dream of Jacob: while sleeping on the ground with a stone for pillow Jacob sees a ladder reaching from earth to heaven with angels going up and down; usually with God at the top of the ladder"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-200.429"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "weduwe C. Kok-van Kolm",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "322"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "395"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Deez' bybelprent toont u 't aardsvaderlyk geslacht. / En hoe Gods oude volk Egijpt' werd uitgebragt, weduwe C. Kok-van Kolm, 1842 - 1866",
+  "subTitle": "h 322mm \u00d7 w 395mm",
+  "scLabelLine": "weduwe C. Kok-van Kolm, 1842 - 1866, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

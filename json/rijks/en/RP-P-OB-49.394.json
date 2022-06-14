@@ -1,0 +1,175 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-49.394",
+  "priref": "159625",
+  "objectNumber": "RP-P-OB-49.394",
+  "language": "en",
+  "title": "Moord op het reisgezelschap van de H. Ursula",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "becec60b-7b4f-4d77-9303-f2d1633ffdca",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1754,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/YmwDzwtkvPEFGSLMljj3qtf98vG95QXQLm0OFoRT5hS21S53Of_cjQtAVPww4Kp5nC1MerKQC3oMadXGbhCOXQxAnUSB4-WG5GZAEF0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Moord op het reisgezelschap van de H. Ursula",
+    "Le Massacre",
+    "Ch\u00e2sse van de H. Ursula in het Hospitaal van St. Jan te Brugge"
+  ],
+  "description": "Reliekhouder versierd met voorstellingen uit de historie van de H. Ursula.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Soci\u00e9t\u00e9 des Beaux-Arts",
+      "unFixedName": "Soci\u00e9t\u00e9 des Beaux-Arts",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Brussels"
+      ],
+      "qualification": null,
+      "labelDesc": "Soci\u00e9t\u00e9 des Beaux-Arts, Brussels"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Charles Onghena",
+      "unFixedName": "Onghena, Charles",
+      "placeOfBirth": "Gent",
+      "dateOfBirth": "1806-06-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1886-12-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Gent",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Charles Onghena (06-jun-1806 - 16-dec-1886)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Charles Onghena",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Brussels"
+  ],
+  "dating": {
+    "presentingDate": "1841",
+    "sortingDate": 1841,
+    "period": 19,
+    "yearEarly": 1841,
+    "yearLate": 1841
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(URSULA)",
+      "11Q652"
+    ],
+    "iconClassDescription": [
+      "the virgin martyr Ursula of Cologne; possible attributes: arrow, banner with red cross, cloak of ermine, crown, ship",
+      "relics (and reliquaries)"
+    ],
+    "motifs": [],
+    "events": [
+      "Nederland onder de Habsburgers"
+    ],
+    "periods": [
+      "14751499"
+    ],
+    "places": [
+      "Sint-Janshospitaal"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-49.394"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "FMH 347",
+    "347"
+  ],
+  "principalOrFirstMaker": "Charles Onghena",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "275"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "187"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Moord op het reisgezelschap van de H. Ursula, Charles Onghena, 1841",
+  "subTitle": "h 275mm \u00d7 w 187mm",
+  "scLabelLine": "Charles Onghena, 1841, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

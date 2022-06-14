@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-VG-3-425",
+  "priref": "236275",
+  "objectNumber": "NG-VG-3-425",
+  "language": "en",
+  "title": "The All Saints\u2019 Flood of 1570",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "85271380-8d6d-4a81-844e-c37ac8d5b4a2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2448,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/5bXyW9rTF5Tv2Djg5wpsbOavAcbizh2V07g9WVgSR94o3i3cngeChgi3sC7Vj83AmwHFMZcY5gDFBP04wcrjysE56UE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Zilveren penning. Voorzijde: gekroond wapenschild tussen jaartal binnen omschrift. Keerzijde: stad, overstroomd door water, opgezwiept door blazende winden binnen omschrift.",
+  "labelText": null,
+  "objectTypes": [
+    "jeton"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1885-01-01T00:00:00",
+    "creditLine": "Gift of J.M. van Gelder-Nijhoff"
+  },
+  "exhibitions": [],
+  "materials": [
+    "silver (metal)"
+  ],
+  "techniques": [
+    "striking (metalworking)"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1570",
+    "sortingDate": 1570,
+    "period": 16,
+    "yearEarly": 1570,
+    "yearLate": 1570
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [
+      "Allerheiligenvloed (1570)"
+    ],
+    "periods": [
+      "1570-11-011570-11-01"
+    ],
+    "places": [
+      "Zeeland"
+    ],
+    "people": [
+      "Staten van Zeeland"
+    ],
+    "objectNumbers": [
+      "NG-VG-3-425"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Staten van Zeeland"
+  ],
+  "inscriptions": [],
+  "documentation": [
+    "J.F. Dugniolle, Le jeton historique des dix-sept provinces des Pays-Bas, Brussel 1876-1880, cat.nr. 2518.",
+    "Dr. H.A. Fonteijn Kuijpers, 'A cvnctis hostibvs nos redde secvros', Geuzenpenning 2 (1953) april, p. 15-16."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "2.9"
+    },
+    {
+      "unit": "gr",
+      "type": "weight",
+      "precision": null,
+      "part": null,
+      "value": "4.99"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "striking (metalworking)",
+  "longTitle": "The All Saints\u2019 Flood of 1570, anonymous, 1570",
+  "subTitle": "d 2.9cm \u00d7 w 4.99gr",
+  "scLabelLine": "silver, 1570",
+  "label": {
+    "title": "The All Saints\u2019 Flood of 1570",
+    "makerLine": "silver, 1570",
+    "description": "Flood Disaster Medals. Much of the Netherlands lies below sea level. The threat of flooding is thus ever-present. Dikes, dams and polders were created to control the water. Still, these safety measures sometimes failed. Each century witnessed disastrous floods, with levees breaching and the countryside being inundated. The North Sea Flood of 1953 led to the construction of the Delta Works. Thanks to this major intervention the country has since remained dry.",
+    "notes": null,
+    "date": "2015-06-05"
+  },
+  "showImage": true,
+  "location": null
+}

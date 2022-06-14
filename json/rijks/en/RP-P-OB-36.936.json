@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-36.936",
+  "priref": "165210",
+  "objectNumber": "RP-P-OB-36.936",
+  "language": "en",
+  "title": "De heilige Johannes de Doper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3be5c726-77b5-4e17-a903-0d5c8f0f0357",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1987,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/jRsqCmcjgJZ_nkB0v9RGfutc_S6ERRl__QJUoxxNsgvN5TTBhGHvTe44Tu3uC2B_NWzBJ6Y1jojiOJI_W4sY7MCKHTU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "De heilige Johannes de Doper",
+    "S. Joannes Baptista"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Senaat van Veneti\u00eb",
+      "unFixedName": "Senaat van Veneti\u00eb",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Venice"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Senaat van Veneti\u00eb, Venice"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Giovanni Marco Pitteri",
+      "unFixedName": "Pitteri, Giovanni Marco",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1702-05-24",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1786-08-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Venice"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Giovanni Marco Pitteri (24-mei-1702 - 04-aug-1786), Venice"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Giovanni Marco Pitteri",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Venice",
+    "Venice",
+    "Venice"
+  ],
+  "dating": {
+    "presentingDate": "1712 - 1786",
+    "sortingDate": 1712,
+    "period": 18,
+    "yearEarly": 1712,
+    "yearLate": 1786
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-36.936"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Rava (Pitteri) 77",
+    "77"
+  ],
+  "principalOrFirstMaker": "Giovanni Marco Pitteri",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "433"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "331"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "De heilige Johannes de Doper, Giovanni Marco Pitteri, 1712 - 1786",
+  "subTitle": "h 433mm \u00d7 w 331mm",
+  "scLabelLine": "Giovanni Marco Pitteri, 1712 - 1786, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

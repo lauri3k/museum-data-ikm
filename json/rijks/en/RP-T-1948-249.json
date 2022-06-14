@@ -1,0 +1,127 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1948-249",
+  "priref": "297513",
+  "objectNumber": "RP-T-1948-249",
+  "language": "en",
+  "title": "Skelet van een orang-oetan",
+  "copyrightHolder": "erven Herbert van de Poll",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Skelet van een orang-oetan"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Herbert van der Poll",
+      "unFixedName": "Poll, Herbert van der",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1877-04-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1963-12-07",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Herbert van der Poll (13-apr-1877 - 07-dec-1963)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Herbert van der Poll",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1948-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1915",
+    "sortingDate": 1915,
+    "period": 20,
+    "yearEarly": 1915,
+    "yearLate": 1915
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F22(ORANG-UTAN)(+331)"
+    ],
+    "iconClassDescription": [
+      "monkeys, apes: orang-utan (skull of an animal)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1948-249"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Herbert van der Poll",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "166"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "130"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Skelet van een orang-oetan, Herbert van der Poll, 1915",
+  "subTitle": "h 166mm \u00d7 w 130mm",
+  "scLabelLine": "Herbert van der Poll, 1915, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

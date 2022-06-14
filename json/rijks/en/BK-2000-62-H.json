@@ -1,0 +1,271 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-2000-62-H",
+  "priref": "362926",
+  "objectNumber": "BK-2000-62-H",
+  "language": "en",
+  "title": "Ovoid vessel with a long neck",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "dc60bb0a-2e4c-4ccf-8b31-73133e5e3d87",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2247,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/bFoWA7v8132NX4n_NPoZcaD_tDvFcdIlwXHwkWbX7KfiJ0xK6YX6a9UJwYPpMnXkj9YcZiynseZBlCuNp2WES7UFeQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#7F8174"
+    },
+    {
+      "percentage": 57,
+      "hex": " #A9A8A0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #52574B"
+    },
+    {
+      "percentage": 5,
+      "hex": " #ECEDEB"
+    },
+    {
+      "percentage": 1,
+      "hex": " #31372A"
+    },
+    {
+      "percentage": 17,
+      "hex": " #CBD0C5"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#7F8174",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A9A8A0",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #52574B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #ECEDEB",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #31372A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #CBD0C5",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 17,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 11,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Ovoid vessel with a long neck"
+  ],
+  "description": "Eivormige kruik van kwarts-fritgoed met een lange nek, bedekt met een monochroom turquoise alkaliglazuur.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "Mr and Mrs Oosterbaan-Lugt Bequest, Heemstede"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "glaze"
+  ],
+  "techniques": [
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1100 - c. 1299",
+    "sortingDate": 1100,
+    "period": 11,
+    "yearEarly": 1100,
+    "yearLate": 1299
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-2000-62-H"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "24.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "5.1"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "15"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "7.1"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "vitrification",
+  "longTitle": "Ovoid vessel with a long neck, anonymous, c. 1100 - c. 1299",
+  "subTitle": "h 24.1cm \u00d7 d 5.1cm",
+  "scLabelLine": "anonymous, c. 1100 - c. 1299, vitrification",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

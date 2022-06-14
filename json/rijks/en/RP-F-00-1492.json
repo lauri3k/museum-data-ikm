@@ -1,0 +1,274 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-1492",
+  "priref": "67039",
+  "objectNumber": "RP-F-00-1492",
+  "language": "en",
+  "title": "Polderlandschap met molens en koeien in Nederland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c5f035f2-9f9f-479f-9cf0-879e1fea1d2e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1967,
+    "url": "https://lh5.ggpht.com/7d4Y-ybZ4DGOf5xtH3SobsUnu6a5CeF45DS4zpgHgGsyECWv1qtxebSGDLz-J0z4Zn4xXCJBC0M9Pt424pgHQz60y2lU=s0"
+  },
+  "colors": [
+    {
+      "percentage": 67,
+      "hex": "#D3C9AF"
+    },
+    {
+      "percentage": 12,
+      "hex": " #9D9483"
+    },
+    {
+      "percentage": 10,
+      "hex": " #BBAD8E"
+    },
+    {
+      "percentage": 7,
+      "hex": " #837561"
+    },
+    {
+      "percentage": 0,
+      "hex": " #695743"
+    },
+    {
+      "percentage": 0,
+      "hex": " #E9E5DA"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEFC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D3C9AF",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #9D9483",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BBAD8E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #837561",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #695743",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #E9E5DA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #FEFEFC",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 12,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 78,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 19,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Polderlandschap met molens en koeien in Nederland",
+    "Holland"
+  ],
+  "description": "De molens op de prent zijn de volgende v.l.n.r.: Pelmolen Het Guiswijf (Zaandijk), pelmolen De Sint Jacob of Slabbert, oliemolen De Wezel, beiden in Koog aan de Zaan, oliemolen De Zwarte Ruiter (Zaandijk), oliemolen De Kieft (Koog), verfmolen De Valk, papierstofmaler De Witte Veer, papiermolen De Vergulde Bijkorf (allen Zaandijk), oliemolen De Munnik, rijstpelmolen De Zwarte Bonsem, (beiden in Koog), oliemolen Het Vette Schaap, oliemolen De Ezel (beide in Zaandijk), oliemolen De Paap, oliemolen Het Pink (beide in Koog), korenmolen De Bleeke Dood (Zaandijk).",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "unknown"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, unknown"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1990-01-01T00:00:00",
+    "creditLine": "Gift of the Historical Society of Western Pennsylvania"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "unknown"
+  ],
+  "dating": {
+    "presentingDate": "1870 - in or before 1888",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1888
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Zaandijk"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-1492"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "267"
+    },
+    {
+      "unit": null,
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": null
+    },
+    {
+      "unit": null,
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": null
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Polderlandschap met molens en koeien in Nederland, anonymous, 1870 - in or before 1888",
+  "subTitle": "h 200mm \u00d7 w 267mm",
+  "scLabelLine": "anonymous, 1870 - in or before 1888, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

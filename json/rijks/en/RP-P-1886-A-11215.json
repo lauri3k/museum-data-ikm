@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1886-A-11215",
+  "priref": "84423",
+  "objectNumber": "RP-P-1886-A-11215",
+  "language": "en",
+  "title": "Johannes de Doper als kind met kruisvaandel en lam",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9335978e-6b11-49ff-8b43-8a8ad4e5e494",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1832,
+    "height": 2592,
+    "url": "https://lh3.ggpht.com/WPycGUdv1SBMe9pdl5bXzd1zCxGRFtHMwIzjlef82hirGR23F9JDvca08siYorRS4pIYOUad30liYFmQDAgsMvRbFsE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Johannes de Doper als kind met kruisvaandel en lam",
+    "S. Ioannes Baptista",
+    "V\u00e9lins"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Galle (II)",
+      "unFixedName": "Galle, Cornelis (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1615",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-10-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle (II) (1615 - 18-okt-1678)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Schelte Adamsz. Bolswert",
+      "unFixedName": "Bolswert, Schelte Adamsz.",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1659-12-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Schelte Adamsz. Bolswert (c. 1586 - 12-dec-1659)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Schelte Adamsz. Bolswert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1886-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1596 - 1678",
+    "sortingDate": 1596,
+    "period": 16,
+    "yearEarly": 1596,
+    "yearLate": 1678
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(JOHN THE BAPTIST)"
+    ],
+    "iconClassDescription": [
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1886-A-11215"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 60-149",
+    "60-149"
+  ],
+  "principalOrFirstMaker": "Schelte Adamsz. Bolswert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "134"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Johannes de Doper als kind met kruisvaandel en lam, Schelte Adamsz. Bolswert, 1596 - 1678",
+  "subTitle": "h 134mm \u00d7 w 90mm",
+  "scLabelLine": "Schelte Adamsz. Bolswert, 1596 - 1678, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

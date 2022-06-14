@@ -1,0 +1,249 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-12568",
+  "priref": "299594",
+  "objectNumber": "BK-NM-12568",
+  "language": "en",
+  "title": "Saint John the Baptist Going out into the Wilderness",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "15b26245-05b4-4b4d-8da1-70acd7a43cf0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/geQnjRE3tSkTIJ_K2n1mbKKXq_UmjX0jHoEdC1OOTK84K211YoeqrIugDgl6_eC__tJ-qHGVgl2M0UY3jkXGWpGckn8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 33,
+      "hex": "#0A0908"
+    },
+    {
+      "percentage": 7,
+      "hex": " #E9EEE0"
+    },
+    {
+      "percentage": 21,
+      "hex": " #D0D3AB"
+    },
+    {
+      "percentage": 0,
+      "hex": " #D2C547"
+    },
+    {
+      "percentage": 27,
+      "hex": " #827650"
+    },
+    {
+      "percentage": 9,
+      "hex": " #453A26"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#0A0908",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #E9EEE0",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D0D3AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D2C547",
+      "normalizedHex": "#FFEB00"
+    },
+    {
+      "originalHex": " #827650",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #453A26",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 33,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 27,
+      "hex": " #556B2F"
+    },
+    {
+      "percentage": 21,
+      "hex": " #EEE8AA"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 49,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 43,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 7,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFEB00"
+    }
+  ],
+  "titles": [],
+  "description": "Ronde gebrandschilderde ruit met voorstelling van het vertrek van Johannes de Doper naar de woestijn. Op de voorgrond, in het midden, is uitgebeeld hoe Johannes afscheid neemt van zijn ouders, Zacharias en Elisabeth, om zich terug te trekken in de woestijn. Op zijn heup hangt een hoorn, symbool van de redding brengende macht van de Heer. Links kijken een paar vrouwen en mannen toe. De sc\u00e8ne speelt zich af op een verhoging voor een gebouw in renaissancestijl. Op de achtergrond rechts zit Johannes alleen op een rots in de woestijn, mediterend of in gebed (de grisaille is op de plaats van Johannes grotendeels weggesleten, alleen zijn benen en gezicht zijn nog zichtbaar). In het landschap staan verschillende hoorndieren, waaronder een os, twee herten met geweien en een eenhoorn.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Pieter Coecke van Aelst (I)",
+      "unFixedName": "Coecke van Aelst, Pieter (I)",
+      "placeOfBirth": "Aalst",
+      "dateOfBirth": "1502",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1550-12-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": "after",
+      "labelDesc": "after Pieter Coecke van Aelst (I) (1502 - 06-dec-1550), Southern Netherlands"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Southern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Southern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1920-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "glass",
+    "silver stain",
+    "lead (metal)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Southern Netherlands",
+    "Southern Netherlands",
+    "Northern Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "c. 1540",
+    "sortingDate": 1540,
+    "period": 16,
+    "yearEarly": 1540,
+    "yearLate": 1540
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73A17",
+      "73A18"
+    ],
+    "iconClassDescription": [
+      "John the Baptist leaves his parents to go into the wilderness",
+      "John the Baptist in the wilderness, usually accompanied by a lamb"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-12568"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "F. Hudig, 'Zestiende eeuwsche ruiten', Onze Kunst 40 (1922), p. 43-52.",
+    "M.J. Friedl\u00e4nder, in: Amtliche Berichte aus den K\u00f6niglichen Kunstsammlungen 1917, p. 76",
+    "M.J. Friedl\u00e4nder, in: Jahrb. des Preus. Kunstsamml. 1917, p. 73"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "29.3"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "glass",
+  "longTitle": "Saint John the Baptist Going out into the Wilderness, anonymous, c. 1540",
+  "subTitle": "d 29.3cm",
+  "scLabelLine": "after a design by Pieter Coecke van Aelst (1502-1550), Southern Netherlands, c. 1540",
+  "label": {
+    "title": "Saint John the Baptist Going out into the Wilderness",
+    "makerLine": "after a design by Pieter Coecke van Aelst (1502-1550), Southern Netherlands, c. 1540",
+    "description": null,
+    "notes": null,
+    "date": "2013-08-19"
+  },
+  "showImage": true,
+  "location": "HG-0.6"
+}

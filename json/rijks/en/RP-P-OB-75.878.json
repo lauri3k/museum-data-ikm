@@ -1,0 +1,179 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-75.878",
+  "priref": "346906",
+  "objectNumber": "RP-P-OB-75.878",
+  "language": "en",
+  "title": "Ontvoering van Hippodamea",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a32cbdf9-d41b-416c-9eb7-67b44cdc393b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1902,
+    "url": "https://lh3.googleusercontent.com/i6OyUiDmmY1C1dc_UuDhDYawziPH5AgKyq9J7Z_UDSUTbxn5mqjuAyNPcy-kSCzCgfMkYMm-gB6RK_Q-dEz8cdIXaRk=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Ontvoering van Hippodamea"
+  ],
+  "description": "Lapithen met wapens trachten Hippodamea te redden van een ontvoering door centaur Eurytus. Met twee vierregelige verzen in het Latijn onder de voorstelling. Deze prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Cornelis Galle",
+      "unFixedName": "Galle, Cornelis",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Cornelis Galle"
+    },
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pieter de Bailliu (I)",
+      "unFixedName": "Bailliu, Pieter de (I)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1613",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1660",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pieter de Bailliu (I) (1613 - 1660), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter de Bailliu (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1623 - 1660",
+    "sortingDate": 1623,
+    "period": 17,
+    "yearEarly": 1623,
+    "yearLate": 1660
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92L714111"
+    ],
+    "iconClassDescription": [
+      "the centaur Eurytion tries to carry off Hippodamia, the bride"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-75.878"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 84",
+    "84"
+  ],
+  "principalOrFirstMaker": "Pieter de Bailliu (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "397"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "523"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Ontvoering van Hippodamea, Pieter de Bailliu (I), 1623 - 1660",
+  "subTitle": "h 397mm \u00d7 w 523mm",
+  "scLabelLine": "Pieter de Bailliu (I), 1623 - 1660, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

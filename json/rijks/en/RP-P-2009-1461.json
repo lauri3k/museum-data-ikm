@@ -1,0 +1,174 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2009-1461",
+  "priref": "483467",
+  "objectNumber": "RP-P-2009-1461",
+  "language": "en",
+  "title": "Journal des Dames et des Modes, Costume Parisien, 15 mars 1817 (1634)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8ceb2b6b-de97-48d4-92fb-89e11e1ae4aa",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1671,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/BrErEMVyVUNk3fe32KxnjcixQdUKgKViEv0ZGCSqYT1fbBZefgV02P2R4_hoUstUAWisOcfz2AnOWsGZeLc_b9zhOg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Journal des Dames et des Modes, Costume Parisien, 15 mars 1817 (1634)"
+  ],
+  "description": "Staande vrouw gekleed in een japon van tule, afgezet met gerimpelde stroken stof. Accessoires: het haar versierd met parels(?), oorbel in het linkeroor, collier, bloemcorsage, lange handschoenen, platte schoenen met strikken en gekruiste banden. Proefdruk van een prent uit het modetijdschrift Journal des Dames et des Modes, uitgegeven door Pierre de la M\u00e9sang\u00e8re, Parijs, 1797-1839.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "prints",
+    "costume and fashion prints"
+  ],
+  "makers": [
+    {
+      "name": "Pierre de la M\u00e9sang\u00e8re",
+      "unFixedName": "M\u00e9sang\u00e8re, Pierre de la",
+      "placeOfBirth": null,
+      "dateOfBirth": "1761",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1831",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "Pierre de la M\u00e9sang\u00e8re (1761 - 1831), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Pierre Charles Baquoy",
+      "unFixedName": "Baquoy, Pierre Charles",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1759",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1829-02-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Pierre Charles Baquoy (1759 - 04-feb-1829)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pierre Charles Baquoy",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2009-09-30T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1817",
+    "sortingDate": 1817,
+    "period": 19,
+    "yearEarly": 1817,
+    "yearLate": 1817
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D11",
+      "41D225(LONG GLOVES)(+82)",
+      "41D211(+82)",
+      "41D2332(+82)",
+      "41D2661(+82)",
+      "25G411",
+      "41D2655(+82)"
+    ],
+    "iconClassDescription": [
+      "fashion plates",
+      "gloves, mittens (LONG GLOVES) (+ women's clothes)",
+      "dress, gown (+ women's clothes)",
+      "shoes, sandals (+ women's clothes)",
+      "necklace (+ women's clothes)",
+      "cut flowers; nosegay, bunch of flowers",
+      "corsage (+ women's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "18171817"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2009-1461"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pierre Charles Baquoy",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "111"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Journal des Dames et des Modes, Costume Parisien, 15 mars 1817 (1634), Pierre Charles Baquoy, 1817",
+  "subTitle": "h 176mm \u00d7 w 111mm",
+  "scLabelLine": "Pierre Charles Baquoy, 1817, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

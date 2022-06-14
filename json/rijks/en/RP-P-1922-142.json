@@ -1,0 +1,183 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1922-142",
+  "priref": "42293",
+  "objectNumber": "RP-P-1922-142",
+  "language": "en",
+  "title": "Onder de lange haren die haar gezicht bedekten, meende ik Ammonaria te herkennen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9c0edeb5-cbdb-4a29-92d0-f10310cb241b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1931,
+    "height": 2964,
+    "url": "https://lh6.ggpht.com/s-RQKAuzzjqrhnMKHAa75hG8PwEfGBqMV8BiDjuj0uY4B5nQmzgo6eEd-351BTk3CeTcBWjdMyMN5QAp7AQDeA4GCxkK=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Onder de lange haren die haar gezicht bedekten, meende ik Ammonaria te herkennen",
+    "Saint-Antoine: ...\u00e0 travers ses longs chevaux qui lui couvraient la figure, j'ai cru reconna\u00eetre Ammonaria",
+    "Tentation de Saint-Antoine (2)",
+    "Verzoeking van de heilige Antonius"
+  ],
+  "description": "De heilige Ammonaria, naakt en vastgebonden aan een paal, wordt door een man gegeseld. Haar lange haren bedekken haar lichaam. Eerste prent van zes uit de tweede serie illustraties voor Gustave Flauberts De verzoeking van de heilige Antonius.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Becquet",
+      "unFixedName": "Becquet",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "Becquet, Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Odilon Redon",
+      "unFixedName": "Redon, Odilon",
+      "placeOfBirth": "Bordeaux",
+      "dateOfBirth": "1840-04-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1916-07-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Odilon Redon (22-apr-1840 - 06-jul-1916), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Odilon Redon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1922-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "France",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1888 - 1889",
+    "sortingDate": 1888,
+    "period": 19,
+    "yearEarly": 1888,
+    "yearLate": 1889
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(ANTONY ABBOT)35",
+      "11HH(AMMONARIA)",
+      "11Q313"
+    ],
+    "iconClassDescription": [
+      "temptations of St. Antony Abbot",
+      "female saints (AMMONARIA)",
+      "castigation, flagellation ~ ascetic life"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1922-142"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Odilon Redon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "289"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "232"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "548"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "359"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "print",
+  "longTitle": "Onder de lange haren die haar gezicht bedekten, meende ik Ammonaria te herkennen, Odilon Redon, 1888 - 1889",
+  "subTitle": "h 289mm \u00d7 w 232mm",
+  "scLabelLine": "Odilon Redon, 1888 - 1889, print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

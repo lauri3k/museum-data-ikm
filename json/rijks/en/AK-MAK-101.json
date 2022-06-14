@@ -1,0 +1,229 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-AK-MAK-101",
+  "priref": "666",
+  "objectNumber": "AK-MAK-101",
+  "language": "en",
+  "title": "Vase",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7fc441ed-5394-4f53-bc00-d46f3a6ecfe8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2326,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/O869nL6BPr_lPAKBJzhnxp9T5DVp3HRAw-egjcK8wYZzHID1KrL_E2pkLiylBSVKBwfU9Rs4xTELYx-fuDAhGTKboA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 1,
+      "hex": "#4D503D"
+    },
+    {
+      "percentage": 14,
+      "hex": " #8A8A76"
+    },
+    {
+      "percentage": 57,
+      "hex": " #A6A593"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D3D0C3"
+    },
+    {
+      "percentage": 17,
+      "hex": " #6B6C5D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F2C1F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#4D503D",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #8A8A76",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A6A593",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D3D0C3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6B6C5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #2F2C1F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 57,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 19,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 14,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D3D3D3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 31,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    }
+  ],
+  "titles": [
+    "Vase with two 'taotie' masks with rings"
+  ],
+  "description": "Vaas van aardewerk met een gedrukt eivormig lichaam en spreidende, hoge nek, bedekt met een groen glazuur. Op de buik enkele ingegrifte, horizontale lijnen. Op de wand tweemaal een gemodelleerd 'taotie'-masker met een ring.",
+  "labelText": null,
+  "objectTypes": [
+    "vase"
+  ],
+  "objectCollection": [
+    "Asian ceramics"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "China"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, China"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1972-01-01T00:00:00",
+    "creditLine": "On loan from the Royal Asian Art Society in The Netherlands (gift of Ernst Heldring, 1938)"
+  },
+  "exhibitions": [],
+  "materials": [
+    "earthenware",
+    "glaze"
+  ],
+  "techniques": [
+    "engraving",
+    "vitrification"
+  ],
+  "productionPlaces": [
+    "China"
+  ],
+  "dating": {
+    "presentingDate": "c. -206 - c. 220",
+    "sortingDate": -206,
+    "period": -1,
+    "yearEarly": -206,
+    "yearLate": 220
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "AK-MAK-101"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Jan van Campen, 'De vaas van Heldring', Aziatische Kunst 38 (2008), nr. 3, p. 87-90.",
+    "Nicole Schouten, 'Bronsvormen en -motieven in de Chinese keramiek', Mededelingenblad Vereniging van Vrienden der Aziatische Kunst 17/2 (1987), pp. 30-34.",
+    "Maandblad voor beeldende kunsten, 1938 (juli), p. afb. 224."
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "46.5"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "38.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Vase, anonymous, c. -206 - c. 220",
+  "subTitle": "h 46.5cm \u00d7 d 38.5cm",
+  "scLabelLine": "China, Han Dynasty (206 BC\u2013AD 220), glazed earthenware",
+  "label": {
+    "title": "Vase",
+    "makerLine": "China, Han Dynasty (206 BC\u2013AD 220), glazed earthenware",
+    "description": "The green glaze was a new invention during the Han period. It imitated the patina of bronze and was used only for grave goods. The colour of the glaze, which has a characteristic pearly gloss, can range from various shades of green to brownish-yellow.",
+    "notes": null,
+    "date": "2013-04-03"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,238 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-192",
+  "priref": "8350",
+  "objectNumber": "SK-A-192",
+  "language": "en",
+  "title": "Italian Landscape with Girl Milking a Goat",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "68dbe31e-97df-4113-8cb6-4a0f63ddb4f9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1800,
+    "url": "https://lh3.googleusercontent.com/7ZkJ9NFS2trzAdPEbWUEqk4--IhCcmNNA8hY96ZbH13bd-4Fv53_3LGnEWNEtSX_t8UtIkVDWWfSt1LfQLLVvzChqOMt=s0"
+  },
+  "colors": [
+    {
+      "percentage": 21,
+      "hex": "#A8A796"
+    },
+    {
+      "percentage": 20,
+      "hex": " #6C7C8C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #D3CBB1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9A8767"
+    },
+    {
+      "percentage": 21,
+      "hex": " #694D39"
+    },
+    {
+      "percentage": 26,
+      "hex": " #2D2416"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#A8A796",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #6C7C8C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #D3CBB1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9A8767",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #694D39",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #2D2416",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 26,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 21,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 21,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 20,
+      "hex": " #708090"
+    },
+    {
+      "percentage": 6,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 26,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 24,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 21,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Italian Landscape with Girl milking a Goat"
+  ],
+  "description": "Italiaans landschap met een geitenmelkster. Naast haar draagt een boer een teil gevuld met melk. Rechts een slapende hond, daarachter een paard.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Karel du Jardin",
+      "unFixedName": "Jardin, Karel du",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1626-09-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1678-11-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "painter",
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Karel du Jardin (27-sep-1626 - 20-nov-1678)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Karel du Jardin",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1870-01-01T00:00:00",
+    "creditLine": "Dupper Wzn. Bequest, Dordrecht"
+  },
+  "exhibitions": [],
+  "materials": [
+    "panel",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1652",
+    "sortingDate": 1652,
+    "period": 17,
+    "yearEarly": 1652,
+    "yearLate": 1652
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "47I223",
+      "47I2142",
+      "46C13141",
+      "25H1"
+    ],
+    "iconClassDescription": [
+      "milking",
+      "she-goat, nanny-goat",
+      "horse",
+      "landscapes in the temperate zone"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-192"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Karel du Jardin",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "37"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "50"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on panel",
+  "longTitle": "Italian Landscape with Girl Milking a Goat, Karel du Jardin, 1652",
+  "subTitle": "h 37cm \u00d7 w 50cm",
+  "scLabelLine": "Karel Dujardin (1626\u20131678), oil on panel, 1652",
+  "label": {
+    "title": "Italian Landscape with Girl Milking a Goat",
+    "makerLine": "Karel Dujardin (1626\u20131678), oil on panel, 1652",
+    "description": "Sunshine, warm air, country life \u2013 17th-century painting collectors also had such associations with Italy, and Dujardin was a master at conjuring up atmospheric idylls. At the left, the blue sky is tinged yellow by the rising sun, which will soon burn away the mist from the valley.",
+    "notes": null,
+    "date": "2013-04-08"
+  },
+  "showImage": true,
+  "location": "HG-2.17"
+}

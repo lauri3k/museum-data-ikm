@@ -1,0 +1,270 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F25505-P",
+  "priref": "281513",
+  "objectNumber": "RP-F-F25505-P",
+  "language": "en",
+  "title": "Fotoreproductie van een schilderij van de terechtstelling van Jane Grey door Paul Delaroche",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "00efabbd-fac1-4f11-b0c7-e3b260dc6f72",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1666,
+    "url": "https://lh3.googleusercontent.com/5bjl_7_AxiTZw1i50bfEk2-eMRmX5nK6KQq25df8RGKwqerJjoUYsGUrB1tGgIoiuwSceEYcehDJZNWw9RZMXxYmqaf-5XScXrayQ5n0=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#EDEEEA"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C1BEB5"
+    },
+    {
+      "percentage": 8,
+      "hex": " #99958E"
+    },
+    {
+      "percentage": 18,
+      "hex": " #7F7975"
+    },
+    {
+      "percentage": 37,
+      "hex": " #5D5653"
+    },
+    {
+      "percentage": 22,
+      "hex": " #362D29"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EDEEEA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C1BEB5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #99958E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7F7975",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5D5653",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #362D29",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 37,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 18,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 8,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 22,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 12,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Fotoreproductie van een schilderij van de terechtstelling van Jane Grey door Paul Delaroche",
+    "Jane Gray"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Goupil & Cie.",
+      "unFixedName": "Goupil & Cie.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Goupil & Cie., Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Jefferson Bingham",
+      "unFixedName": "Bingham, Robert Jefferson",
+      "placeOfBirth": "Leicestershire",
+      "dateOfBirth": "1824-03-07",
+      "dateOfBirthPrecision": "before",
+      "dateOfDeath": "1870-02-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Brussel (stad)",
+      "occupation": [
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Jefferson Bingham (before 07-mrt-1824 - 21-feb-1870)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Jefferson Bingham",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "albumen print",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "c. 1853 - in or before 1858",
+    "sortingDate": 1853,
+    "period": 19,
+    "yearEarly": 1853,
+    "yearLate": 1858
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31AA3191",
+      "44G32",
+      "44G34"
+    ],
+    "iconClassDescription": [
+      "blindfold - AA - female human figure",
+      "executioner, hangman",
+      "death penalty, execution"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Grey, Lady Jane"
+    ],
+    "objectNumbers": [
+      "RP-F-F25505-P"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Grey, Lady Jane"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Robert Jefferson Bingham",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "205"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "280"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Fotoreproductie van een schilderij van de terechtstelling van Jane Grey door Paul Delaroche, Robert Jefferson Bingham, c. 1853 - in or before 1858",
+  "subTitle": "h 172mm \u00d7 w 205mm",
+  "scLabelLine": "Robert Jefferson Bingham, c. 1853 - in or before 1858, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

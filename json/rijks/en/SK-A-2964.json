@@ -1,0 +1,235 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-SK-A-2964",
+  "priref": "5581",
+  "objectNumber": "SK-A-2964",
+  "language": "en",
+  "title": "Portrait of a Man with a Red Cloak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f29d1eb1-5833-47dd-9706-e11fcdd7206c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1942,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/opMpdOpSOLhIfzR9VPtLXjXx70JZiR3_NteRLdzkFx_LZoVv0joP3x03s4WY3Vy2wFDRXWuKVx6iDU7kJR2hxfo5IFM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 65,
+      "hex": "#29211E"
+    },
+    {
+      "percentage": 13,
+      "hex": " #5B402D"
+    },
+    {
+      "percentage": 9,
+      "hex": " #100D0C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #765F3B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #B58F52"
+    },
+    {
+      "percentage": 2,
+      "hex": " #CFAF69"
+    },
+    {
+      "percentage": 2,
+      "hex": " #937748"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#29211E",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #5B402D",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #100D0C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #765F3B",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #B58F52",
+      "normalizedHex": "#E09714"
+    },
+    {
+      "originalHex": " #CFAF69",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #937748",
+      "normalizedHex": "#E09714"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 74,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #8B4513"
+    },
+    {
+      "percentage": 5,
+      "hex": " #B8860B"
+    },
+    {
+      "percentage": 2,
+      "hex": " #DEB887"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 74,
+      "hex": "#000000"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 5,
+      "hex": " #E09714"
+    },
+    {
+      "percentage": 2,
+      "hex": " #E0CC91"
+    }
+  ],
+  "titles": [
+    "Portrait of a Man with a Red Cloak"
+  ],
+  "description": "Portret van een man met een rode mantel, misschien een senator of kardinaal. Buste van een man met baard, naar links.",
+  "labelText": null,
+  "objectTypes": [
+    "painting"
+  ],
+  "objectCollection": [
+    "paintings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacopo Tintoretto",
+      "unFixedName": "Tintoretto, Jacopo",
+      "placeOfBirth": "Veneti\u00eb",
+      "dateOfBirth": "1519",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1594",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "painter"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacopo Tintoretto (1519 - 1594)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacopo Tintoretto",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1922-01-01T00:00:00",
+    "creditLine": "Gift of the Leden van de Vereniging Rembrandt"
+  },
+  "exhibitions": [],
+  "materials": [
+    "canvas",
+    "oil paint (paint)"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1555 - 1580",
+    "sortingDate": 1555,
+    "period": 16,
+    "yearEarly": 1555,
+    "yearLate": 1580
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B1"
+    ],
+    "iconClassDescription": [
+      "historical persons not known by name"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "SK-A-2964"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacopo Tintoretto",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "61.5"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "47"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "6.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "oil on canvas",
+  "longTitle": "Portrait of a Man with a Red Cloak, Jacopo Tintoretto, 1555 - 1580",
+  "subTitle": "h 61.5cm \u00d7 w 47cm \u00d7 d 6.5cm",
+  "scLabelLine": "Jacopo Tintoretto, 1555 - 1580, oil on canvas",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

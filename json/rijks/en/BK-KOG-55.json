@@ -1,0 +1,206 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-KOG-55",
+  "priref": "323119",
+  "objectNumber": "BK-KOG-55",
+  "language": "en",
+  "title": "Two Baby\u2019s Jackets",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ef981271-611e-4af7-90c6-6266a2720ffc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2469,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/7boztEaN7Z-2ddkRfywNgzJ9zA3FckcEk_ItG-9uVWy4-m6_ZnMMjIITdYNAxsFOpi5MFuCW8uhJx19TLo_cwYd8Ow=s0"
+  },
+  "colors": [
+    {
+      "percentage": 8,
+      "hex": "#EBEDE6"
+    },
+    {
+      "percentage": 1,
+      "hex": " #717777"
+    },
+    {
+      "percentage": 11,
+      "hex": " #7B594E"
+    },
+    {
+      "percentage": 4,
+      "hex": " #AD9989"
+    },
+    {
+      "percentage": 4,
+      "hex": " #48271C"
+    },
+    {
+      "percentage": 68,
+      "hex": " #CAC3B3"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#EBEDE6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #717777",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7B594E",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #AD9989",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #48271C",
+      "normalizedHex": "#981313"
+    },
+    {
+      "originalHex": " #CAC3B3",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 68,
+      "hex": "#C0C0C0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 4,
+      "hex": " #800000"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 4,
+      "hex": " #981313"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "costumes and accessories"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "loan",
+    "date": "1953-01-01T00:00:00",
+    "creditLine": "On loan from the Koninklijk Oudheidkundig Genootschap"
+  },
+  "exhibitions": [],
+  "materials": [
+    "cotton (textile)",
+    "silk",
+    "chintz"
+  ],
+  "techniques": [
+    "chintz"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "",
+    "sortingDate": null,
+    "period": -2,
+    "yearEarly": null,
+    "yearLate": null
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-KOG-55"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [],
+  "physicalProperties": [],
+  "physicalMedium": "chintz",
+  "longTitle": "Two Baby\u2019s Jackets, anonymous",
+  "subTitle": "",
+  "scLabelLine": "chintz: India, Coromandel Coast, jacket: The Netherlands, c. 1750, hand-painted cotton, cotton",
+  "label": {
+    "title": "Two Baby\u2019s Jackets",
+    "makerLine": "chintz: India, Coromandel Coast, jacket: The Netherlands, c. 1750, hand-painted cotton, cotton",
+    "description": "Chintz is eminently suitable for baby clothing because unlike silk and wool it is easy to wash. One jacket is decorated with floral motifs and trimmed at the neck and sleeves with red long-band, while the other one features two birds in addition to flowers. These jackets came from Hindeloopen, where they were called \u2018sliepwentke\u2019 or nightgowns.",
+    "notes": null,
+    "date": "2018-09-17"
+  },
+  "showImage": true,
+  "location": null
+}

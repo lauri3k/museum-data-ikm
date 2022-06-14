@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-22.161",
+  "priref": "48908",
+  "objectNumber": "RP-P-OB-22.161",
+  "language": "en",
+  "title": "Doornenkroning",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5f982dfe-1635-4ab5-a895-b6e26786717d",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1521,
+    "height": 1710,
+    "url": "https://lh3.googleusercontent.com/8-698GjysvTTBseGAXhwokRmJNdZblczvg-p2RVaDvvisf9UWr3geizYQCkNObeWqSVlL6XPXjdaiCvN1Guzf8waGR5KEXN8P7LU-DzW=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Doornenkroning"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Valentin Gei\u00dfler",
+      "unFixedName": "Gei\u00dfler, Valentin",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Valentin Gei\u00dfler"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Virgilius Solis",
+      "unFixedName": "Solis, Virgilius",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1514",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1562-08-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Virgilius Solis (1514 - 01-aug-1562)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Virgilius Solis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1552",
+    "sortingDate": 1552,
+    "period": 16,
+    "yearEarly": 1552,
+    "yearLate": 1552
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "73D352"
+    ],
+    "iconClassDescription": [
+      "the crowning with thorns: soldiers with sticks place a thorny crown on Christ's head and give him a reed (Matthew 27:27-31; Mark 15:16-20; John 19:2-3)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-22.161"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein German 1320",
+    "1320"
+  ],
+  "principalOrFirstMaker": "Virgilius Solis",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "119"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "81"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Doornenkroning, Virgilius Solis, 1552",
+  "subTitle": "h 119mm \u00d7 w 81mm",
+  "scLabelLine": "Virgilius Solis, 1552, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

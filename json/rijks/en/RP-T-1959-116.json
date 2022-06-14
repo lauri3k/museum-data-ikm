@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1959-116",
+  "priref": "296113",
+  "objectNumber": "RP-T-1959-116",
+  "language": "en",
+  "title": "Red Rose",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1227502d-9cdf-4dc4-9e9f-d86ce968cd2a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2009,
+    "url": "https://lh3.googleusercontent.com/iUKdTfdO9WOQifxTf-mmg12-I5_CyhRrrhXu2VgRROWzOCogvcExufh53DYzR8uPDSIRRgD_1wBBgJUG5tLcV4ZhdKWh=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Red Rose"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Georgius Jacobus Johannes van Os",
+      "unFixedName": "Os, Georgius Jacobus Johannes van",
+      "placeOfBirth": "Den Haag",
+      "dateOfBirth": "1782-11-20",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1861-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Georgius Jacobus Johannes van Os (20-nov-1782 - 24-jul-1861)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Georgius Jacobus Johannes van Os",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1959-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "pencil",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1792 - 1861",
+    "sortingDate": 1792,
+    "period": 18,
+    "yearEarly": 1792,
+    "yearLate": 1861
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G41(ROSE)"
+    ],
+    "iconClassDescription": [
+      "flowers: rose"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1959-116"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Georgius Jacobus Johannes van Os",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "143"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "178"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Red Rose, Georgius Jacobus Johannes van Os, 1792 - 1861",
+  "subTitle": "h 143mm \u00d7 w 178mm",
+  "scLabelLine": "Georgius Jacobus Johannes van Os, 1792 - 1861, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

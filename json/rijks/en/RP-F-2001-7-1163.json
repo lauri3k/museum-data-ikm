@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1163",
+  "priref": "696453",
+  "objectNumber": "RP-F-2001-7-1163",
+  "language": "en",
+  "title": "A history of Lichfield Cathedral, from its foundation to the present time : with a description of its architecture and monuments",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ed84e570-1070-440d-8792-22fd3b90fcfe",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1546,
+    "url": "https://lh3.googleusercontent.com/jtDI-ncHP6J7pMCy9XRGaQZwmchy3bsU0W4IZmER0ByQ9WT2tlDwjyihdg6OD8TRzL3VIT1iugVxS8sp-UCSV45tLA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "A history of Lichfield Cathedral, from its foundation to the present time : with a description of its architecture and monuments"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "book"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Reader, & Dyer Longmans Green",
+      "unFixedName": "Longmans, Green, Reader, & Dyer",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Reader, & Dyer Longmans Green, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Benjamin Stone",
+      "unFixedName": "Stone, John Benjamin",
+      "placeOfBirth": "Birmingham",
+      "dateOfBirth": "1838-02-09",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1914-07-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "politician"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Benjamin Stone (09-feb-1838 - 02-jul-1914)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Benjamin Stone",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "linen (material)",
+    "photographic support"
+  ],
+  "techniques": [
+    "printing",
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1870",
+    "sortingDate": 1870,
+    "period": 19,
+    "yearEarly": 1870,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1163"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Benjamin Stone",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "217"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "mm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "24"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing",
+  "longTitle": "A history of Lichfield Cathedral, from its foundation to the present time : with a description of its architecture and monuments, John Benjamin Stone, 1870",
+  "subTitle": "h 217mm \u00d7 w 172mm \u00d7 t 24mm",
+  "scLabelLine": "John Benjamin Stone, 1870, printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

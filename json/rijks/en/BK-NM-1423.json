@@ -1,0 +1,138 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-1423",
+  "priref": "24522",
+  "objectNumber": "BK-NM-1423",
+  "language": "en",
+  "title": "Portrait of William of Orange (1533-1584)",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portrait of William of Orange (1533-1584)"
+  ],
+  "description": "Voorste helft van het gelaat (masker) van Willem de Zwijger (A) met daarbij een losse gepijpte kraag (B) van terracotta.",
+  "labelText": null,
+  "objectTypes": [
+    "sculpture"
+  ],
+  "objectCollection": [
+    "sculptures"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hendrick de Keyser (I)",
+      "unFixedName": "Keyser, Hendrick de (I)",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1565-05-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1621-05-15",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "sculptor",
+        "print maker"
+      ],
+      "roles": [
+        "sculptor"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Hendrick de Keyser (I) (15-mei-1565 - 15-mei-1621), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hendrick de Keyser (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1883-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "terracotta (clay material)"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1618 - c. 1625",
+    "sortingDate": 1618,
+    "period": 17,
+    "yearEarly": 1618,
+    "yearLate": 1625
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Willem I (prins van Oranje)"
+    ],
+    "objectNumbers": [
+      "BK-NM-1423"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Willem I (prins van Oranje)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Hendrick de Keyser (I)",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "22"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "24"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "11.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "terracotta (clay material)",
+  "longTitle": "Portrait of William of Orange (1533-1584), Hendrick de Keyser (I) (workshop of), c. 1618 - c. 1625",
+  "subTitle": "h 22cm \u00d7 w 24cm \u00d7 d 11.5cm",
+  "scLabelLine": "Hendrick de Keyser (I), c. 1618 - c. 1625, terracotta (clay material)",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

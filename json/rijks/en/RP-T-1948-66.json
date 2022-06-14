@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1948-66",
+  "priref": "230992",
+  "objectNumber": "RP-T-1948-66",
+  "language": "en",
+  "title": "Red Lily",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0e1b07d4-d8fc-4b52-9a1f-695cf41a6d28",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1574,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/EG-aZye5az2erGCzH7JVNSosmQg4nBKkE7QQGheNi2kvj0rrw-q1rIsjtGirjDr81Zh_Hxt4fxbaKLZo1gyTHr_fV3Y=s0"
+  },
+  "colors": [
+    {
+      "percentage": 80,
+      "hex": "#F9F6E9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #E5DCC3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #BD7264"
+    },
+    {
+      "percentage": 1,
+      "hex": " #9B4046"
+    },
+    {
+      "percentage": 1,
+      "hex": " #96906F"
+    },
+    {
+      "percentage": 2,
+      "hex": " #C8B491"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F9F6E9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E5DCC3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #BD7264",
+      "normalizedHex": "#F49B7A"
+    },
+    {
+      "originalHex": " #9B4046",
+      "normalizedHex": "#DE4153"
+    },
+    {
+      "originalHex": " #96906F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C8B491",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 80,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FFEFD5"
+    },
+    {
+      "percentage": 3,
+      "hex": " #CD5C5C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A52A2A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #BDB76B"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 90,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F49B7A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #DE4153"
+    }
+  ],
+  "titles": [
+    "Red Lily"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Catharina Lintheimer",
+      "unFixedName": "Lintheimer, Catharina",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Catharina Lintheimer"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Catharina Lintheimer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1948-03-26T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1728",
+    "sortingDate": 1728,
+    "period": 18,
+    "yearEarly": 1728,
+    "yearLate": 1728
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25G41(LILY)"
+    ],
+    "iconClassDescription": [
+      "flowers: lily"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1948-66"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Catharina Lintheimer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "327"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "208"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "brush",
+  "longTitle": "Red Lily, Catharina Lintheimer, 1728",
+  "subTitle": "h 327mm \u00d7 w 208mm",
+  "scLabelLine": "Catharina Lintheimer, 1728, brush",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

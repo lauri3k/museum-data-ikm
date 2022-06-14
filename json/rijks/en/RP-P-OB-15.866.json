@@ -1,0 +1,278 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-15.866",
+  "priref": "322147",
+  "objectNumber": "RP-P-OB-15.866",
+  "language": "en",
+  "title": "Perseus en Andromeda",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "9f590510-f202-4dc3-a098-53fce0cbb4af",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 6533,
+    "height": 4539,
+    "url": "https://lh3.ggpht.com/425hFz05O70w4x-4Tio5fKaRgNUNvBgjiWyb4YQhIHmzJ9lc8vUTRAZjRNpJdNKFK_AXzOElCf7FFv3k6sqBH3ywOxc=s0"
+  },
+  "colors": [
+    {
+      "percentage": 32,
+      "hex": "#F4F2EA"
+    },
+    {
+      "percentage": 21,
+      "hex": " #DCD8C9"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B7B4A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #919085"
+    },
+    {
+      "percentage": 9,
+      "hex": " #6B6A5F"
+    },
+    {
+      "percentage": 13,
+      "hex": " #3A3B33"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F2EA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #DCD8C9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B7B4A9",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #919085",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6B6A5F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3A3B33",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 32,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 23,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 21,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 14,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 53,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 13,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Perseus en Andromeda",
+    "Metamorfosen van Ovidius"
+  ],
+  "description": "Andromeda, de dochter van een Ethiopische koning, is vastgeketend aan een rots. Op de achtergrond verslaat Perseus het zeemonster om Andromeda te kunnen komen redden. In de marge een vierregelig onderschrift, in twee kolommen, in het Latijn.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Posthius",
+      "unFixedName": "Posthius, Johannes",
+      "placeOfBirth": "Germersheim",
+      "dateOfBirth": "1537-10-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1597-07-24",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Johannes Posthius (15-okt-1537 - 24-jul-1597)"
+    },
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Crispijn van de Passe (I) (1564 - 1637)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Crispijn van de Passe (I)",
+      "unFixedName": "Passe, Crispijn van de (I)",
+      "placeOfBirth": "Arnemuiden",
+      "dateOfBirth": "1564",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1637",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Cologne"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Crispijn van de Passe (I) (1564 - 1637), Cologne"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Crispijn van de Passe (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Cologne"
+  ],
+  "dating": {
+    "presentingDate": "1602 - 1607",
+    "sortingDate": 1602,
+    "period": 17,
+    "yearEarly": 1602,
+    "yearLate": 1607
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "94P211"
+    ],
+    "iconClassDescription": [
+      "Perseus kills the sea monster (or turns it into stone by showing it the Gorgon's head) to release Andromeda; sometimes her parents Cepheus and Cassiopea watch the scene"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-15.866"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Franken 1338",
+    "1338",
+    "Hollstein Dutch 852",
+    "852",
+    "Hollstein Dutch 1571",
+    "1571"
+  ],
+  "principalOrFirstMaker": "Crispijn van de Passe (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "81"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "131"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Perseus en Andromeda, Crispijn van de Passe (I), 1602 - 1607",
+  "subTitle": "h 81mm \u00d7 w 131mm",
+  "scLabelLine": "Crispijn van de Passe (I), 1602 - 1607, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

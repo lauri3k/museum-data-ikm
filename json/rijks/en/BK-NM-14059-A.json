@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-NM-14059-A",
+  "priref": "242669",
+  "objectNumber": "BK-NM-14059-A",
+  "language": "en",
+  "title": "Cup with a floral scroll on a black ground",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "163c82ff-e820-4700-bbcb-f6a295f857f1",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 3000,
+    "url": "https://lh3.googleusercontent.com/34V9hVw20aBq3XFSc6b_YoC7eBZBN0K3bC-2S5EgfCRtKG49wcmSrnjxHqlmkl0sPN1WwXfFAobsTCB63TdM8NUSQxZU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Cup with a floral scroll on a black ground"
+  ],
+  "description": "Kop van porselein met een cilindrische wand en C-vormig oor, beschilderd op het glazuur in blauw, rood, roze, groen, geel, paars, zwart en goud. Op de buitenwand twijgjes met op de rand een band met een bloemrank op een zwarte achtergrond. Het oor met stippen en bladmotieven. Gouden rand. Gemerkt op de onderzijde met de vis.",
+  "labelText": null,
+  "objectTypes": [],
+  "objectCollection": [
+    "European ceramics",
+    "European porcelain"
+  ],
+  "makers": [
+    {
+      "name": "",
+      "unFixedName": null,
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": ""
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "porcelain company"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "1925-01-01T00:00:00",
+    "creditLine": "J.G.A.N. de Vries Bequest, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "porcelain",
+    "glaze",
+    "gold (metal)"
+  ],
+  "techniques": [
+    "painting",
+    "gilding",
+    "vitrification"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1775 - c. 1799",
+    "sortingDate": 1775,
+    "period": 18,
+    "yearEarly": 1775,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-NM-14059-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "6.4"
+    },
+    {
+      "unit": "cm",
+      "type": "diameter",
+      "precision": null,
+      "part": null,
+      "value": "6.4"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "8.5"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "painting",
+  "longTitle": "Cup with a floral scroll on a black ground, anonymous, c. 1775 - c. 1799",
+  "subTitle": "h 6.4cm \u00d7 d 6.4cm \u00d7 w 8.5cm",
+  "scLabelLine": "anonymous, c. 1775 - c. 1799, painting",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

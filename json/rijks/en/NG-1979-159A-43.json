@@ -1,0 +1,181 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-NG-1979-159A-43",
+  "priref": "784586",
+  "objectNumber": "NG-1979-159A-43",
+  "language": "en",
+  "title": "Groot is dien Herte (...) Tiran van den Lande",
+  "copyrightHolder": "erven Louis Raemaekers",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Groot is dien Herte (...) Tiran van den Lande"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "De Telegraaf",
+      "unFixedName": "De Telegraaf",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "De Telegraaf, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Louis Raemaekers",
+      "unFixedName": "Raemaekers, Louis",
+      "placeOfBirth": "Roermond",
+      "dateOfBirth": "1869-04-06",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1956-07-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Scheveningen",
+      "occupation": [
+        "draughtsman"
+      ],
+      "roles": [
+        "after drawing by"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Louis Raemaekers (06-apr-1869 - 25-jul-1956)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": "Gift of W.F. van Limborch van der Meersch, Renswoude"
+  },
+  "exhibitions": [],
+  "materials": [
+    "newsprint"
+  ],
+  "techniques": [
+    "printing block"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1915",
+    "sortingDate": 1915,
+    "period": 20,
+    "yearEarly": 1915,
+    "yearLate": 1915
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44C312",
+      "11H(GEORGE)",
+      "31D15",
+      "11Q21",
+      "45H2"
+    ],
+    "iconClassDescription": [
+      "political caricatures and satires",
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword",
+      "adult woman",
+      "one person praying",
+      "being attacked; defence"
+    ],
+    "motifs": [],
+    "events": [
+      "Eerste Wereldoorlog"
+    ],
+    "periods": [
+      "19151915"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "NG-1979-159A-43"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous, Louis Raemaekers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "595"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "448"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing block",
+  "longTitle": "Groot is dien Herte (...) Tiran van den Lande, anonymous, Louis Raemaekers, 1915",
+  "subTitle": "h 595mm \u00d7 w 448mm",
+  "scLabelLine": "anonymous, 1915, printing block",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BI-1924-103-96",
+  "priref": "642836",
+  "objectNumber": "BI-1924-103-96",
+  "language": "en",
+  "title": "Gebedsplaats van de heilige Birgitta van Zweden in Finsta",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5b13469f-3ce3-49ab-b3c2-d88fce80b9ae",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1867,
+    "url": "https://lh3.googleusercontent.com/p-lEC2Tj6YdkUSQZ8Pz8JOw0GMpwnYQ18M-K4BGE_Rqiyz4LaC5O-49peFj6belg3UVAELr53wuGZKZcebeooYpPq58PmrBbLMSZSVGz=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gebedsplaats van de heilige Birgitta van Zweden in Finsta",
+    "Oratorium divae Birgittae in Finstad / Ipse locus precum D: Birgittae prout typis delineatus extat in libris revelationum",
+    "Suecia Antiqua et Hodierna"
+  ],
+  "description": "De prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Erik J\u00f6nssen Dahlberg",
+      "unFixedName": "Dahlberg, Erik J\u00f6nssen",
+      "placeOfBirth": null,
+      "dateOfBirth": "1625-10-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1703-01-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Erik J\u00f6nssen Dahlberg (10-okt-1625 - 16-jan-1703)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Johannes Jacobsz van den Aveele",
+      "unFixedName": "Aveele, Johannes Jacobsz van den",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1655",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1727-05-18",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Zweden",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Jacobsz van den Aveele (1655 - 18-mei-1727)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johannes Jacobsz van den Aveele",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1924-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1708",
+    "sortingDate": 1708,
+    "period": 18,
+    "yearEarly": 1708,
+    "yearLate": 1708
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(BRIDGET)"
+    ],
+    "iconClassDescription": [
+      "the foundress of the Order of Bri(d)gettines, the widow Bridget (Birgitta) of Sweden; possible attributes: band over veil with five red spots, book, candle, heart with cross, inkhorn, pilgrim's hat, staff, wallet"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Finsta"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "BI-1924-103-96"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Johannes Jacobsz van den Aveele",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "263"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "164"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gebedsplaats van de heilige Birgitta van Zweden in Finsta, Johannes Jacobsz van den Aveele, 1708",
+  "subTitle": "h 263mm \u00d7 w 164mm",
+  "scLabelLine": "Johannes Jacobsz van den Aveele, 1708, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

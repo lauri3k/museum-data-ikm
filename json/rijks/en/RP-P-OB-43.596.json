@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-43.596",
+  "priref": "119519",
+  "objectNumber": "RP-P-OB-43.596",
+  "language": "en",
+  "title": "Heilige Joris te paard",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6192ba9d-f355-4859-b2d8-f43f1f186adb",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1752,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/CszPr8CxS3g2nA3ui4SFhCOUGdxwfUnOEzkszsRhm8suq5e3QZKB8kReYsBZfcQ7nsU1D47PTbucYd6MlU6aZ6GbwZG2u17N2pdR9RVzrQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Joris te paard",
+    "Saint Georges"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Georges Petit",
+      "unFixedName": "Petit, Georges",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1856-03-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1920-05-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Georges Petit (11-mrt-1856 - 12-mei-1920), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Henri Charles Gu\u00e9rard",
+      "unFixedName": "Gu\u00e9rard, Henri Charles",
+      "placeOfBirth": "Parijs",
+      "dateOfBirth": "1846-04-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1897-03-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Henri Charles Gu\u00e9rard (28-apr-1846 - 25-mrt-1897)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Henri Charles Gu\u00e9rard",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1897",
+    "sortingDate": 1897,
+    "period": 19,
+    "yearEarly": 1897,
+    "yearLate": 1897
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-43.596"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF apr\u00e8s 1800 98",
+    "98"
+  ],
+  "principalOrFirstMaker": "Henri Charles Gu\u00e9rard",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "236"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "163"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Heilige Joris te paard, Henri Charles Gu\u00e9rard, 1897",
+  "subTitle": "h 236mm \u00d7 w 163mm",
+  "scLabelLine": "Henri Charles Gu\u00e9rard, 1897, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

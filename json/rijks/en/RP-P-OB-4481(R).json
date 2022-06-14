@@ -1,0 +1,225 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-4481(R)",
+  "priref": "31945",
+  "objectNumber": "RP-P-OB-4481(R)",
+  "language": "en",
+  "title": "Beeld van Joris en de draak",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8144f671-7ba1-418d-b6b9-bd31eb49b77b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1894,
+    "height": 2676,
+    "url": "https://lh4.ggpht.com/Q32JzFystI3tWgIUcMvoL7P-Ye01Ma8zmsVIHkzbxF-G9dGAtVnqUiF-EX9SkAdlcgGxULVC38UTyBYqXZLSdJ63hlgz=s0"
+  },
+  "colors": [
+    {
+      "percentage": 13,
+      "hex": "#F9F9F6"
+    },
+    {
+      "percentage": 7,
+      "hex": " #ACA79B"
+    },
+    {
+      "percentage": 10,
+      "hex": " #8F8A7F"
+    },
+    {
+      "percentage": 20,
+      "hex": " #646055"
+    },
+    {
+      "percentage": 5,
+      "hex": " #3A372F"
+    },
+    {
+      "percentage": 41,
+      "hex": " #D5D1C4"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F9F9F6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ACA79B",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8F8A7F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #646055",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3A372F",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #D5D1C4",
+      "normalizedHex": "#FBF6E1"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 41,
+      "hex": "#D3D3D3"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 13,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 7,
+      "hex": " #A9A9A9"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 55,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 30,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #B5BFCC"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Beeld van Joris en de draak"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Lucas Cranach (I)",
+      "unFixedName": "Cranach, Lucas (I)",
+      "placeOfBirth": "Kronach",
+      "dateOfBirth": "1472",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1553-10-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Weimar",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Lucas Cranach (I) (1472 - 16-okt-1553)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Lucas Cranach (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1509 - 1549",
+    "sortingDate": 1509,
+    "period": 16,
+    "yearEarly": 1509,
+    "yearLate": 1549
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(GEORGE)"
+    ],
+    "iconClassDescription": [
+      "the warrior martyr George (Georgius); possible attributes: banner (red cross on white field), (red) cross, dragon, (white) horse, broken lance, shield (with cross), sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-4481(R)"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein German 96",
+    "96"
+  ],
+  "principalOrFirstMaker": "Lucas Cranach (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "131"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Beeld van Joris en de draak, Lucas Cranach (I), 1509 - 1549",
+  "subTitle": "h 131mm \u00d7 w 90mm",
+  "scLabelLine": "Lucas Cranach (I), 1509 - 1549, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

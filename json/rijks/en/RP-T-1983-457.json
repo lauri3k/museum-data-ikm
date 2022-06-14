@@ -1,0 +1,217 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1983-457",
+  "priref": "54364",
+  "objectNumber": "RP-T-1983-457",
+  "language": "en",
+  "title": "Nude Young Man, Half Length",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3090e916-b925-43f8-89f0-2a23de2bdba3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2525,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/KkAur-tmH6VpDW5h0oVPV5xuRiU1-8gFGbxzc5PIPZnCcSl0LgjKM8kmdysialMAtNpuZdqGVtQo2b1cxaPuTsM7OA=s0"
+  },
+  "colors": [
+    {
+      "percentage": 61,
+      "hex": "#C1A883"
+    },
+    {
+      "percentage": 31,
+      "hex": " #B0906A"
+    },
+    {
+      "percentage": 2,
+      "hex": " #DED7C1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #EEE9D3"
+    },
+    {
+      "percentage": 1,
+      "hex": " #916E51"
+    },
+    {
+      "percentage": 1,
+      "hex": " #D0C0A1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #898578"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#C1A883",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B0906A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #DED7C1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EEE9D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #916E51",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #D0C0A1",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #898578",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 94,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Nude Young Man, Half Length"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Pieter Lastman",
+      "unFixedName": "Lastman, Pieter",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1583",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1633-04-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Pieter Lastman (c. 1583 - 04-apr-1633)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Pieter Lastman",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1983-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "prepared paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1600 - 1633",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1633
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31AA2513",
+      "31A2421"
+    ],
+    "iconClassDescription": [
+      "arm stretched sidewards - AA - both arms or hands",
+      "head turned to the left"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1983-457"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Pieter Lastman",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "190"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "158"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "red chalk on orange-yellow prepared paper",
+  "longTitle": "Nude Young Man, Half Length, Pieter Lastman, 1600 - 1633",
+  "subTitle": "h 190mm \u00d7 w 158mm",
+  "scLabelLine": "Pieter Lastman (1583-1633), red chalk on orange-yellow prepared paper, c. 1625",
+  "label": {
+    "title": "Nude Young Man, Half Length",
+    "makerLine": "Pieter Lastman (1583-1633), red chalk on orange-yellow prepared paper, c. 1625",
+    "description": "Rembrandt trained with Lastman around 1624. In that period, as preparation for his history pieces, Lastman drew figure studies in red chalk on paper that he had coloured yellow. This technique appealed to Rembrandt. During and shortly after his apprenticeship, Rembrandt made multiple drawings in red chalk on prepared paper. Years later he even owned a \u2018boeckie vol schetsen [\u2026] met rood krijt\u2019 (little book full of sketches [\u2026] in red chalk) by Lastman.",
+    "notes": null,
+    "date": "2018-06-05"
+  },
+  "showImage": true,
+  "location": null
+}

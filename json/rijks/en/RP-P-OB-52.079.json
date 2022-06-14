@@ -1,0 +1,144 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-52.079",
+  "priref": "111789",
+  "objectNumber": "RP-P-OB-52.079",
+  "language": "en",
+  "title": "Maria en kind met heiligen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0e161fd7-a052-410b-bdd0-e541a31281ea",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2027,
+    "url": "https://lh6.ggpht.com/2W2FKuC0upyfIZTlya-ZPBlGWFogqNLWHrTmmzDP3B6V0IeaIuauqARBo3d9K0U-AxkLoVeP-IVtVEuNPveERZ_0k1E=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Maria en kind met heiligen"
+  ],
+  "description": "Maria en kind worden omringd door links Johannes de Doper en rechts Paulus, Maria Magdalena en Hieronymus. In de marge onder de voorstelling staan twee wapenschilden in een cartouche, met links een tekst in het Italiaans en rechts een tekst in het Frans.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Folkema",
+      "unFixedName": "Folkema, Jacob",
+      "placeOfBirth": "Dokkum",
+      "dateOfBirth": "1692",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1767",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Folkema (1692 - 1767)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Folkema",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1752",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1752
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(MARY MAGDALENE)",
+      "11F61",
+      "11H(JOHN THE BAPTIST)",
+      "11H(JEROME)",
+      "11H(PAUL)"
+    ],
+    "iconClassDescription": [
+      "the penitent harlot Mary Magdalene; possible attributes: book (or scroll), crown, crown of thorns, crucifix, jar of ointment, mirror, musical instrument, palm-branch, rosary, scourge",
+      "Madonna accompanied by saint(s)",
+      "John the Baptist; possible attributes: book, reed cross, baptismal cup, honeycomb, lamb, staff",
+      "the monk and hermit Jerome (Hieronymus); possible attributes: book, cardinal's hat, crucifix, hour-glass, lion, skull, stone",
+      "the apostle Paul of Tarsus; possible attributes: book, scroll, sword"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-52.079"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Folkema",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "316"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "385"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Maria en kind met heiligen, Jacob Folkema, 1752",
+  "subTitle": "h 316mm \u00d7 w 385mm",
+  "scLabelLine": "Jacob Folkema, 1752, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}
