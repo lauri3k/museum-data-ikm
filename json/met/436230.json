@@ -44,20 +44,20 @@
   "dimensions": "31 1/8 x 38 3/4 in. (79.1 x 98.4 cm)",
   "measurements": [
     {
-      "elementName": "Overall",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 79.1,
-        "Width": 98.4
-      }
-    },
-    {
       "elementName": "Frame",
       "elementDescription": null,
       "elementMeasurements": {
         "Depth": 10.16002,
         "Height": 97.7902,
         "Width": 117.475235
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 79.1,
+        "Width": 98.4
       }
     }
   ],

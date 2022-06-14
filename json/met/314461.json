@@ -35,13 +35,6 @@
   "dimensions": "H. 6 7/8 x Diam. 5 1/2 in. (17.5 x 14 cm)",
   "measurements": [
     {
-      "elementName": "Other",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Diameter": 13.97
-      }
-    },
-    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
@@ -54,6 +47,13 @@
       "elementMeasurements": {
         "Diameter": 13.970028,
         "Height": 17.462536
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 13.97
       }
     }
   ],

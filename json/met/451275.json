@@ -66,6 +66,30 @@
   "measurements": [
     {
       "elementName": "Other",
+      "elementDescription": "Portrait (bottom right)",
+      "elementMeasurements": {
+        "Height": 11.271273,
+        "Width": 6.350013
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Portrait (bottom left)",
+      "elementMeasurements": {
+        "Height": 11.430023,
+        "Width": 5.7150116
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Portrait (top right)",
+      "elementMeasurements": {
+        "Height": 14.287529,
+        "Width": 6.350013
+      }
+    },
+    {
+      "elementName": "Other",
       "elementDescription": "Portrait (top left)",
       "elementMeasurements": {
         "Height": 13.493777,
@@ -102,30 +126,6 @@
       "elementMeasurements": {
         "Height": 38.7,
         "Width": 26.4
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": "Portrait (bottom right)",
-      "elementMeasurements": {
-        "Height": 11.271273,
-        "Width": 6.350013
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": "Portrait (bottom left)",
-      "elementMeasurements": {
-        "Height": 11.430023,
-        "Width": 5.7150116
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": "Portrait (top right)",
-      "elementMeasurements": {
-        "Height": 14.287529,
-        "Width": 6.350013
       }
     }
   ],

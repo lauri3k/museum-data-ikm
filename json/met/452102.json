@@ -64,6 +64,13 @@
   "measurements": [
     {
       "elementName": "Other",
+      "elementDescription": "Fountain",
+      "elementMeasurements": {
+        "Height": 12.5
+      }
+    },
+    {
+      "elementName": "Other",
       "elementDescription": "from inside front entrance to back wall",
       "elementMeasurements": {
         "Depth": 804.2
@@ -76,13 +83,6 @@
         "Depth": 804.2,
         "Height": 671.6,
         "Width": 509.2
-      }
-    },
-    {
-      "elementName": "Other",
-      "elementDescription": "Fountain",
-      "elementMeasurements": {
-        "Height": 12.5
       }
     }
   ],
