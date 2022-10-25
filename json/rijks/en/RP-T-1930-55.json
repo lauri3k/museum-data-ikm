@@ -1,0 +1,240 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1930-55",
+  "priref": "28546",
+  "objectNumber": "RP-T-1930-55",
+  "language": "en",
+  "title": "Four Men Standing, Wearing Hats",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0b33f2ab-c557-4a3a-b564-cf6e010f6e24",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1822,
+    "height": 2736,
+    "url": "https://lh4.ggpht.com/0aPT--fuzrEqateje29m1YKaxmI0IochBhfsIy8GWOtCCjPfgaqcm7qy3GPZAkz5uT9fOrYjgqINHy3zUzKgMfQBig=s0"
+  },
+  "colors": [
+    {
+      "percentage": 48,
+      "hex": "#DDD7C1"
+    },
+    {
+      "percentage": 23,
+      "hex": " #C5BDA6"
+    },
+    {
+      "percentage": 12,
+      "hex": " #AEA690"
+    },
+    {
+      "percentage": 8,
+      "hex": " #F5F3E6"
+    },
+    {
+      "percentage": 4,
+      "hex": " #978F7B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #7D7664"
+    },
+    {
+      "percentage": 0,
+      "hex": " #5C574A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#DDD7C1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C5BDA6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #AEA690",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F5F3E6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #978F7B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #7D7664",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #5C574A",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#F5F5DC"
+    },
+    {
+      "percentage": 35,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 8,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 35,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Four Men Standing, Wearing Hats"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Rembrandt van Rijn",
+      "unFixedName": "Rijn, Rembrandt van",
+      "placeOfBirth": "Leiden",
+      "dateOfBirth": "1606-07-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1669-10-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Rembrandt van Rijn (15-jul-1606 - 08-okt-1669), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Rembrandt van Rijn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1906-01-01T00:00:00",
+    "creditLine": "Gift of C. Hofstede de Groot, The Hague"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "c. 1650",
+    "sortingDate": 1650,
+    "period": 17,
+    "yearEarly": 1650,
+    "yearLate": 1650
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A231",
+      "41D221(HAT)"
+    ],
+    "iconClassDescription": [
+      "standing figure",
+      "head-gear: hat"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1930-55"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "W.W. Robinson, 'A black chalk drawing by Rembrandt', Festschrift f\u00fcr Konrad Oberhuber, Milaan 2000, p. 303.",
+    "W.W. Robinson, 'Five black chalk figure studies by Rembrandt', Master drawings 36 (1998) nr. 1, p. 36, 40."
+  ],
+  "catRefRPK": [
+    "Schatborn 28",
+    "28"
+  ],
+  "principalOrFirstMaker": "Rembrandt van Rijn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "153"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "black chalk, with white chalk; framing lines in black ink over brown ink",
+  "longTitle": "Four Men Standing, Wearing Hats, Rembrandt van Rijn, c. 1650",
+  "subTitle": "h 153mm \u00d7 w 103mm",
+  "scLabelLine": "black chalk, with white chalk, c. 1650",
+  "label": {
+    "title": "Four Men Standing, Wearing Hats",
+    "makerLine": "black chalk, with white chalk, c. 1650",
+    "description": "Four men are deep in conversation with one another. Rembrandt recorded them quickly and deftly, possibly drawing them on the street in a sketchbook. He could also have committed them to his prodigious visual memory, and depicted them back in his workshop. Rembrandt collected these kinds of scenes as inspiration for his often-crowded historical compositions.",
+    "notes": null,
+    "date": "2019-02-01"
+  },
+  "showImage": true,
+  "location": null
+}

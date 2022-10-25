@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2015-26-1421",
+  "priref": "619964",
+  "objectNumber": "RP-P-2015-26-1421",
+  "language": "en",
+  "title": "Verkoopster van de London Gazette",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "df9eb768-8538-497e-bcd4-7071adec9540",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1670,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/uRhDI5Khvq8wzxhXBeU5DeB-Ez-loTe3wp_kS1Wqx-Lb3WvkWuFLK93dOsiIP1FAbAScg5fHSH15AWIUZZGdBZtTUyY=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Verkoopster van de London Gazette",
+    "Londons Gazette here / Nouvelle gazette / Chi compra gli'anisi di Londra",
+    "Straatverkopers in Londen",
+    "The Cryes of the City of London Drawne after the Life"
+  ],
+  "description": "Linksboven genummerd: 9; rechtsboven genummerd: 21.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "bequest",
+    "date": "2000-01-01T00:00:00",
+    "creditLine": "S. Emmering Bequest, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1688",
+    "sortingDate": 1688,
+    "period": 17,
+    "yearEarly": 1688,
+    "yearLate": 1688
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46B221",
+      "49M7"
+    ],
+    "iconClassDescription": [
+      "street-trader",
+      "book-shop, bookseller"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2015-26-1421"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "245"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "160"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Verkoopster van de London Gazette, anonymous, 1688",
+  "subTitle": "h 245mm \u00d7 w 160mm",
+  "scLabelLine": "anonymous, 1688, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

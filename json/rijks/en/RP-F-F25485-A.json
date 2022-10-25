@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F25485-A",
+  "priref": "280280",
+  "objectNumber": "RP-F-F25485-A",
+  "language": "en",
+  "title": "Street Life in London",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "02b30068-f106-43f9-a820-e3447ca6f9b4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1623,
+    "url": "https://lh3.googleusercontent.com/3P859ZD290kTbf6v5PiCL5F_beNh2-qKNh_AqmFWXIjjwJPZfh2ARd29jo_MOb_KIMueVsjlvVHvQpTysZXscL6roZQT=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "London Nomades"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Thomson",
+      "unFixedName": "Thomson, John",
+      "placeOfBirth": "Edinburgh",
+      "dateOfBirth": "1837-06-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1921-09-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "John Thomson (14-jun-1837 - 30-sep-1921), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Thomson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1876 - in or before 1877",
+    "sortingDate": 1876,
+    "period": 19,
+    "yearEarly": 1876,
+    "yearLate": 1877
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46A81(NOMADS)"
+    ],
+    "iconClassDescription": [
+      "wandering communities: nomads"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F25485-A"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Thomson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "110"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Street Life in London, John Thomson, c. 1876 - in or before 1877",
+  "subTitle": "h 110mm \u00d7 w 88mm",
+  "scLabelLine": "photography: John Thomson, text: Adolphe Smith, published by: Sampson Low, Marston, Searle and Rivington, woodburytype, 1877-1878",
+  "label": {
+    "title": "Street Life in London",
+    "makerLine": "photography: John Thomson, text: Adolphe Smith, published by: Sampson Low, Marston, Searle and Rivington, woodburytype, 1877-1878",
+    "description": "The recording of street sellers and types has a long tradition in the visual arts. Printed Cris de Paris and Street Cries of London date back centuries. The theme was also embraced by photography. Thomson portrayed London\u2019s flower and newspaper sellers, city nomads, chimney sweeps, and the fishmonger of St. Giles. The photographs were accompanied by Smith\u2019s stories.",
+    "notes": null,
+    "date": "2017-08-25"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,242 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-26.774",
+  "priref": "85174",
+  "objectNumber": "RP-P-OB-26.774",
+  "language": "en",
+  "title": "Triomfwagen van Diana",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5c95916d-8c8d-44a4-b11b-8ff387237f0b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1952,
+    "url": "https://lh5.ggpht.com/tkLORueGT5D2wOrN4rGTyst68moHjKN5e1jSlN4HuF1QG9vo1_AUkH66Hh4f4Egf2Ke9BXDE3qGlqgEV7ASplJK5Pg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 55,
+      "hex": "#F4F0DE"
+    },
+    {
+      "percentage": 15,
+      "hex": " #D1CAB6"
+    },
+    {
+      "percentage": 10,
+      "hex": " #B0A998"
+    },
+    {
+      "percentage": 8,
+      "hex": " #8D887A"
+    },
+    {
+      "percentage": 4,
+      "hex": " #575349"
+    },
+    {
+      "percentage": 3,
+      "hex": " #6F6A5E"
+    },
+    {
+      "percentage": 1,
+      "hex": " #383630"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F0DE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D1CAB6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B0A998",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #8D887A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #575349",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6F6A5E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #383630",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 55,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 15,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 71,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Triomfwagen van Diana"
+  ],
+  "description": "De godin Dianna in haar triomfwagen. Ze is naakt en heeft een maansikkel op haar voorhoofd, haar attribuut als maangodin. Links van haar schouder zit Cupido. Twee draken trekken de triomfwagen. Achter de kar is een enorme volle maan te zien.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Eloy Bonnejonne",
+      "unFixedName": "Bonnejonne, Eloy",
+      "placeOfBirth": "Ch\u00e2telet",
+      "dateOfBirth": "1630",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1695-10-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Eloy Bonnejonne (1630 - 21-okt-1695)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Eloy Bonnejonne",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1640 - 1695",
+    "sortingDate": 1640,
+    "period": 17,
+    "yearEarly": 1640,
+    "yearLate": 1695
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92C3",
+      "92C3711",
+      "25FF422",
+      "92D1",
+      "24B2"
+    ],
+    "iconClassDescription": [
+      "(story of) Diana (Artemis)",
+      "Luna in her chariot, usually drawn by two horses, a white and a black one; 'Carro della Luna' (Ripa)",
+      "dragon (large fabulous serpent, sometimes with wings and legs)",
+      "(story of) Cupid, Amor (Eros)",
+      "full moon"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-26.774"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 3",
+    "3"
+  ],
+  "principalOrFirstMaker": "Eloy Bonnejonne",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "239"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "168"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Triomfwagen van Diana, Eloy Bonnejonne, c. 1640 - 1695",
+  "subTitle": "w 239mm \u00d7 h 168mm",
+  "scLabelLine": "Eloy Bonnejonne, c. 1640 - 1695, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

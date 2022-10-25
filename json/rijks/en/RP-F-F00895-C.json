@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00895-C",
+  "priref": "273309",
+  "objectNumber": "RP-F-F00895-C",
+  "language": "en",
+  "title": "Portret van een staande man",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3c0907c4-8d02-40d3-b20c-1a5cc1b5004f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1600,
+    "height": 1652,
+    "url": "https://lh3.googleusercontent.com/sSYw6MuNs37_l5Gpka4EjDgwLRsscMtcZlFTsQVohnONny0POhpuTWPzgm-iHBF6LDAXrqKCdT20dHzWK8q_yMcf7sCNGsc0tHGlG09p=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een staande man"
+  ],
+  "description": "Deze foto maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London School of Photography",
+      "unFixedName": "London School of Photography, The",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London School of Photography"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London School of Photography",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1855 - 1870",
+    "sortingDate": 1855,
+    "period": 19,
+    "yearEarly": 1855,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31D14",
+      "31A231"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "adult man",
+      "standing figure"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F00895-C"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London School of Photography",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van een staande man, The London School of Photography, 1855 - 1870",
+  "subTitle": "h 100mm \u00d7 w 62mm",
+  "scLabelLine": "The London School of Photography, 1855 - 1870, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

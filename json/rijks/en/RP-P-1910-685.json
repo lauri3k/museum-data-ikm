@@ -1,0 +1,163 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1910-685",
+  "priref": "109907",
+  "objectNumber": "RP-P-1910-685",
+  "language": "en",
+  "title": "Portret van Robert Southey",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Robert Southey"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Black & Armstrong",
+      "unFixedName": "Black & Armstrong",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Black & Armstrong, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Edward Finden",
+      "unFixedName": "Finden, Edward",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1791",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1857-02-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Edward Finden (1791 - 09-feb-1857), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Edward Finden",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1905-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1830 - c. 1840",
+    "sortingDate": 1830,
+    "period": 19,
+    "yearEarly": 1830,
+    "yearLate": 1840
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C93",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "portrait of a writer",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Southey, Robert"
+    ],
+    "objectNumbers": [
+      "RP-P-1910-685"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [
+    "Southey, Robert"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Edward Finden",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "129"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Portret van Robert Southey, Edward Finden, c. 1830 - c. 1840",
+  "subTitle": "h 175mm \u00d7 w 129mm",
+  "scLabelLine": "Edward Finden, c. 1830 - c. 1840, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

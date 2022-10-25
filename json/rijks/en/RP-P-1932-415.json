@@ -1,0 +1,201 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1932-415",
+  "priref": "402024",
+  "objectNumber": "RP-P-1932-415",
+  "language": "en",
+  "title": "Gezicht op het Monument to the Great Fire of London",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c3457daa-249d-4d4c-9aa6-767a283f39ec",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1560,
+    "url": "https://lh3.googleusercontent.com/2ZxyX3ZQga59HI0qMvxVngjhKrBvX1y3-nWbeGymDTytkFf1VCOj0xMlOyWefT2QYIGgnqdLZYwBVggxv7PPhTqSia4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op het Monument to the Great Fire of London",
+    "A view of the Monument erected in memory of the dreadfull fire in the year 1666 (...)",
+    "Londen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Henry Overton (II)",
+      "unFixedName": "Overton, Henry (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Henry Overton (II), London"
+    },
+    {
+      "name": "George Bickham (II)",
+      "unFixedName": "Bickham, George (II)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1706",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1771",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object George Bickham (II) (c. 1706 - 1771), England"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Robert Sayer",
+      "unFixedName": "Sayer, Robert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1725",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1794-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Robert Sayer (c. 1725 - feb-1794), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Robert Sayer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1932-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "etching",
+    "brush"
+  ],
+  "productionPlaces": [
+    "London",
+    "London",
+    "England"
+  ],
+  "dating": {
+    "presentingDate": "1752",
+    "sortingDate": 1752,
+    "period": 18,
+    "yearEarly": 1752,
+    "yearLate": 1752
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I152",
+      "25I141(+1)"
+    ],
+    "iconClassDescription": [
+      "monument, statue",
+      "street (+ city(-scape) with figures, staffage)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Monument to the Great Fire of London"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1932-415"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Sayer 29",
+    "29"
+  ],
+  "principalOrFirstMaker": "Robert Sayer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "258"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "396"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op het Monument to the Great Fire of London, Robert Sayer, 1752",
+  "subTitle": "h 258mm \u00d7 w 396mm",
+  "scLabelLine": "Robert Sayer, 1752, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-1996-260",
+  "priref": "340514",
+  "objectNumber": "RP-F-1996-260",
+  "language": "en",
+  "title": "Leeuw in de London Zoo",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2e330178-19a9-4efe-a11b-96af80cb2195",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1972,
+    "url": "https://lh3.googleusercontent.com/Be1ol7mEBwga5M4Cza0aTEDhozF_lz4nZ79BO_PWWk65uSr8WNtC-2LUiaOi8nEnzh6mQdYUl0FAjGioFzmpjYxt6A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 10,
+      "hex": "#897A6A"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A79A89"
+    },
+    {
+      "percentage": 22,
+      "hex": " #CEC2AB"
+    },
+    {
+      "percentage": 9,
+      "hex": " #F2E6C4"
+    },
+    {
+      "percentage": 26,
+      "hex": " #6C5A4A"
+    },
+    {
+      "percentage": 13,
+      "hex": " #3C2C21"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#897A6A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A79A89",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #CEC2AB",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #F2E6C4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6C5A4A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3C2C21",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 26,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 37,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 9,
+      "hex": " #FBF6E1"
+    }
+  ],
+  "titles": [
+    "Leeuw in de London Zoo"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Thomas James Dixon",
+      "unFixedName": "Dixon, Thomas James",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1857",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1943-02-25",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Thomas James Dixon (1857 - 25-feb-1943), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Thomas James Dixon",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1996-01-01T00:00:00",
+    "creditLine": "Gift of Kunsthandel Robert Hershkowitz Ltd"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "carbon print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1880",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25F23(LION)"
+    ],
+    "iconClassDescription": [
+      "beasts of prey, predatory animals: lion"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "London Zoo"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-1996-260"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Thomas James Dixon",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "230"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "285"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "carbon print",
+  "longTitle": "Leeuw in de London Zoo, Thomas James Dixon, 1880",
+  "subTitle": "h 230mm \u00d7 w 285mm",
+  "scLabelLine": "Thomas James Dixon, 1880, carbon print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

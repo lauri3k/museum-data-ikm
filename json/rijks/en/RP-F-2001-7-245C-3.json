@@ -1,0 +1,179 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-245C-3",
+  "priref": "624398",
+  "objectNumber": "RP-F-2001-7-245C-3",
+  "language": "en",
+  "title": "George Rignold (Henry V)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5f3bfc5e-ec25-4ec4-a34f-713215b24446",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1931,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/aPSaJ5KzlmmB9eX2wfNF829TaE4_ZhGKnBOJm0JqaVnGCQFDFuPhW6qirVR8suOSTsRVCC2_lFDztaXEj6dGhFieLdtZdKitKU6788zB=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "George Rignold (Henry V)"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    },
+    {
+      "name": "Virtue & Co.",
+      "unFixedName": "Virtue & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Virtue & Co., London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1880 - in or before 1890",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C8312"
+    ],
+    "iconClassDescription": [
+      "portrait of actor, actress"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Rignold, George"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-245C-3"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Rignold, George"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "195"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "George Rignold (Henry V), The London Stereoscopic Company, c. 1880 - in or before 1890",
+  "subTitle": "h 195mm \u00d7 w 120mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1880 - in or before 1890, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

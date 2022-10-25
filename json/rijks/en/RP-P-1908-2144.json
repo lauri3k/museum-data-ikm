@@ -1,0 +1,273 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1908-2144",
+  "priref": "141397",
+  "objectNumber": "RP-P-1908-2144",
+  "language": "en",
+  "title": "Portret van H. Dominicus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a67ccf0e-5a3d-4b61-a6be-48341e78eaf4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1726,
+    "height": 2500,
+    "url": "https://lh3.ggpht.com/LTtlO7r-YI9wrCEL3cJl3JPhnqDACVTvWIJFeRoHT3pj3WzaDQnNM4PeVlHCUukZ_GYZiakx4y51nBvBg6ZrJ3fZWHuP=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FCF8E6"
+    },
+    {
+      "percentage": 20,
+      "hex": " #E3DFCD"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C5C0B1"
+    },
+    {
+      "percentage": 20,
+      "hex": " #9C998B"
+    },
+    {
+      "percentage": 11,
+      "hex": " #4A4A41"
+    },
+    {
+      "percentage": 37,
+      "hex": " #6D6C61"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FCF8E6",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #E3DFCD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #C5C0B1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #9C998B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A4A41",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #6D6C61",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 48,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 57,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 31,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Portret van H. Dominicus",
+    "Heiligen"
+  ],
+  "description": "Portret van de heilige Dominicus, stichter van de Dominicanen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Michel van Lochom",
+      "unFixedName": "Lochom, Michel van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1601",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1647-01-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Michel van Lochom (1601 - 23-jan-1647), Antwerp"
+    },
+    {
+      "name": "Michel van Lochom",
+      "unFixedName": "Lochom, Michel van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1601",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1647-01-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Michel van Lochom (1601 - 23-jan-1647), Paris"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Michel van Lochom",
+      "unFixedName": "Lochom, Michel van",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1601",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1647-01-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Michel van Lochom (1601 - 23-jan-1647)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michel van Lochom",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1908-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "1611 - 1647",
+    "sortingDate": 1611,
+    "period": 17,
+    "yearEarly": 1611,
+    "yearLate": 1647
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1908-2144"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michel van Lochom",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van H. Dominicus, Michel van Lochom, 1611 - 1647",
+  "subTitle": "h 150mm \u00d7 w 104mm",
+  "scLabelLine": "Michel van Lochom, 1611 - 1647, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

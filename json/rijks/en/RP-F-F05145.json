@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F05145",
+  "priref": "257233",
+  "objectNumber": "RP-F-F05145",
+  "language": "en",
+  "title": "Gezicht op de Rue de Rivoli te Parijs",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "98e75caf-7b1b-46d7-9d4e-52d7f8f412dc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1249,
+    "url": "https://lh3.googleusercontent.com/rm_aEc72M0qeZ9R9uCK0OR7ls3hKlnOUboMVBmW_KfYMqBcCFIhb39W9SI1Oi8boIG-yEu2QD_tcGYrdfOE40eUgwcs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de Rue de Rivoli te Parijs",
+    "Rue de Rivoli, a Paris-Vue instantan\u00e9e"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": null,
+      "labelDesc": "The London Stereoscopic Company, Paris"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "Paris"
+  ],
+  "dating": {
+    "presentingDate": "c. 1850 - c. 1875",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I142"
+    ],
+    "iconClassDescription": [
+      "avenue, boulevard, promenade, esplanade"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Rue de Rivoli"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F05145"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "170"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op de Rue de Rivoli te Parijs, The London Stereoscopic Company, c. 1850 - c. 1875",
+  "subTitle": "h c.170mm \u00d7 w c.170mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1850 - c. 1875, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

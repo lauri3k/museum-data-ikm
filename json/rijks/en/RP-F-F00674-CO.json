@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00674-CO",
+  "priref": "288955",
+  "objectNumber": "RP-F-F00674-CO",
+  "language": "en",
+  "title": "Portret van Abraham Lincoln, president van de Verenigde Staten",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "64332853-4853-40fa-a4a2-1de6580845a4",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1650,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/uviaij17GifcccfQLhmcuz20ntdsV2UCRbEn2OYqwq0JfBFDfAiHmziNz3H2QDtF7DzOSRof3MuDdN1JgVAghdUwcLMC=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Abraham Lincoln, president van de Verenigde Staten",
+    "President Lincoln"
+  ],
+  "description": "Onderdeel van Fotoalbum met 123 cartes-de-visite van leden van Europese vorstenhuizen, politici en bekende personen.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic and Photographic Company",
+      "unFixedName": "London Stereoscopic and Photographic Company, The",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "The London Stereoscopic and Photographic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic and Photographic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1865 - c. 1870",
+    "sortingDate": 1865,
+    "period": 19,
+    "yearEarly": 1865,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "44C34",
+      "44B115",
+      "41D222",
+      "31A53"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "politician, e.g. party leader",
+      "president ~ head of republic",
+      "neck-gear ~ clothing",
+      "hairdress"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Lincoln, Abraham"
+    ],
+    "objectNumbers": [
+      "RP-F-F00674-CO"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Lincoln, Abraham"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic and Photographic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "89"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "59"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "102"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "62"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van Abraham Lincoln, president van de Verenigde Staten, The London Stereoscopic and Photographic Company, 1865 - c. 1870",
+  "subTitle": "h 89mm \u00d7 w 59mm",
+  "scLabelLine": "The London Stereoscopic and Photographic Company, 1865 - c. 1870, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

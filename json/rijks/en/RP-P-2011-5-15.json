@@ -1,0 +1,233 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2011-5-15",
+  "priref": "499009",
+  "objectNumber": "RP-P-2011-5-15",
+  "language": "en",
+  "title": "Dangerous, dangerous",
+  "copyrightHolder": "Hans Landsaat",
+  "webImage": null,
+  "colors": [
+    {
+      "percentage": 70,
+      "hex": "#F5F3EE"
+    },
+    {
+      "percentage": 25,
+      "hex": " #88A75C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2C2E2B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A3B28B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #CACEB8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #B16458"
+    },
+    {
+      "percentage": 0,
+      "hex": " #6B6A68"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F5F3EE",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #88A75C",
+      "normalizedHex": "#62AD77"
+    },
+    {
+      "originalHex": " #2C2E2B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #A3B28B",
+      "normalizedHex": "#62AD77"
+    },
+    {
+      "originalHex": " #CACEB8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B16458",
+      "normalizedHex": "#DE4153"
+    },
+    {
+      "originalHex": " #6B6A68",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 70,
+      "hex": "#F5F5F5"
+    },
+    {
+      "percentage": 25,
+      "hex": " #6B8E23"
+    },
+    {
+      "percentage": 1,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #8FBC8B"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #CD5C5C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Dangerous, dangerous",
+    "In the Parks of London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hans Landsaat",
+      "unFixedName": "Landsaat, Hans",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1935-09-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": "dutch",
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Hans Landsaat (27-sep-1935 - ....), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hans Landsaat",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2011-01-20T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Den Blaauwen-Kerst, Uitgeest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1973",
+    "sortingDate": 1973,
+    "period": 20,
+    "yearEarly": 1973,
+    "yearLate": 1973
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2011-5-15"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Den Blaauwen 18",
+    "18"
+  ],
+  "principalOrFirstMaker": "Hans Landsaat",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "500"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "500"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "600"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "600"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Dangerous, dangerous, Hans Landsaat, 1973",
+  "subTitle": "h 500mm \u00d7 w 500mm",
+  "scLabelLine": "Hans Landsaat, 1973, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

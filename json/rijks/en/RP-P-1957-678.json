@@ -1,0 +1,191 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1957-678",
+  "priref": "117625",
+  "objectNumber": "RP-P-1957-678",
+  "language": "en",
+  "title": "Verkoper van tweedehandskleding",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d80210f7-fb76-47f6-a6a3-7d0be731743a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2020,
+    "height": 3000,
+    "url": "https://lh5.ggpht.com/WGUU0TfrHHQVnEBX9IR-YJR_nX5So-h9iHeE0ocXm2m46QLddcGnYszez1NJAro4ix6Hd1qRoOnNCeW-l01g5FrmLQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Verkoper van tweedehandskleding",
+    "Straatventers in Londen",
+    "The Cryes of the City of London"
+  ],
+  "description": "Verkoper van tweedehandskleding. Op zijn hoofd drie hoeden, sjaals en mutsen in de rechterhand, twee degens in de linkerhand. De prent heeft een Engels, Frans, Italiaans en Nederlands onderschrift en maakt deel uit van een serie over de straatventers in Londen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Gole (c. 1660 - c. 1724), Amsterdam"
+    },
+    {
+      "name": "Provincie Holland",
+      "unFixedName": "Provincie Holland",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Provincie Holland"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Gole (c. 1660 - c. 1724)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Gole",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1688 - 1724",
+    "sortingDate": 1688,
+    "period": 17,
+    "yearEarly": 1688,
+    "yearLate": 1724
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D221(HAT)(+81)",
+      "46B2211",
+      "46B21(CLOTHES VENDOR)",
+      "41D2332(+81)"
+    ],
+    "iconClassDescription": [
+      "head-gear: hat (+ men's clothes)",
+      "'cris de Paris', cries of London, etc.",
+      "merchant, salesman (with NAME of trade or profession)",
+      "shoes, sandals (+ men's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1957-678"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 32",
+    "32"
+  ],
+  "principalOrFirstMaker": "Jacob Gole",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "246"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "166"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Verkoper van tweedehandskleding, Jacob Gole, 1688 - 1724",
+  "subTitle": "h 246mm \u00d7 w 166mm",
+  "scLabelLine": "Jacob Gole, 1688 - 1724, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

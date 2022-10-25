@@ -1,0 +1,167 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-203.965",
+  "priref": "547226",
+  "objectNumber": "RP-P-OB-203.965",
+  "language": "en",
+  "title": "Bijbelsche geschiedenissen uit het Oude Testament",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a53c36b6-8ce2-4dcc-8e88-2f82b92cca4f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2000,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/g0PMZJTHrdtApGW__kzpxx5Y-00YreXq7r51eqpHFpO4xA3jFvaTKLzxb-_O1mVBok52qgh-zAxy_jN1156lsaCDLg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Bijbelsche geschiedenissen uit het Oude Testament"
+  ],
+  "description": "Blad met 4 voorstellingen van verhalen uit het Oude Testament. Rebekka en Elizi\u00ebr bij de bron, de ontmoeting tussen Rebekka en Isaak, de ontmoeting tussen Rachel en Jakob en Jakob bij een kudde schapen. Onder elke afbeelding de bijbehorende Bijbeltekst. Genummerd linksboven: No. 5.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Vlieger",
+      "unFixedName": "Vlieger, Jan",
+      "placeOfBirth": "Landsmeer",
+      "dateOfBirth": "1844-11-10",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1908-01-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Vlieger (10-nov-1844 - 14-jan-1908), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Vlieger",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1923-01-01T00:00:00",
+    "creditLine": "Gift of F.G. Waller, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1871 - 1908",
+    "sortingDate": 1871,
+    "period": 19,
+    "yearEarly": 1871,
+    "yearLate": 1908
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "71",
+      "71C21311",
+      "71C215",
+      "71C313",
+      "71C3161"
+    ],
+    "iconClassDescription": [
+      "Oude Testament",
+      "Rebekah offers Eliezer a drink from her pitcher",
+      "the return journey and arrival in Canaan (Eliezer and Rebekah)",
+      "Jacob at the well of Haran (Genesis 29:1-13)",
+      "Laban agrees to give Jacob all the black and spotted sheep and goats as wages"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-203.965"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jan Vlieger",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "424"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "338"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Bijbelsche geschiedenissen uit het Oude Testament, Jan Vlieger, 1871 - 1908",
+  "subTitle": "h 424mm \u00d7 w 338mm",
+  "scLabelLine": "Jan Vlieger, 1871 - 1908, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F04888",
+  "priref": "257406",
+  "objectNumber": "RP-F-F04888",
+  "language": "en",
+  "title": "Gezicht op de Tower of London",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f146b6db-18e8-448f-91d0-427ad97e9b81",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1304,
+    "url": "https://lh3.googleusercontent.com/SEa9SZA72BZ0cy88_0dyWCVTH7l4qX1m65ZaiqZdlaTIzpAput2vOlDYxmxSIB-n5lSThHin2whLZIpX47_pcQKnctU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de Tower of London",
+    "The Tower of London",
+    "London and Neighbourhood"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Frederick York",
+      "unFixedName": "York, Frederick",
+      "placeOfBirth": "Bridgwater",
+      "dateOfBirth": "1823",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1903",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Frederick York (1823 - 1903), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Frederick York",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1860 - c. 1880",
+    "sortingDate": 1860,
+    "period": 19,
+    "yearEarly": 1860,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C1441",
+      "25I155"
+    ],
+    "iconClassDescription": [
+      "four-wheeled vehicle drawn by one animal",
+      "tower, clock tower ~ monumental adornment"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Tower of London"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F04888"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Frederick York",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op de Tower of London, Frederick York, c. 1860 - c. 1880",
+  "subTitle": "h c.85mm \u00d7 w c.170mm",
+  "scLabelLine": "Frederick York, c. 1860 - c. 1880, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

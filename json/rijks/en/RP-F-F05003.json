@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F05003",
+  "priref": "257120",
+  "objectNumber": "RP-F-F05003",
+  "language": "en",
+  "title": "Straatgezicht op de London Bridge",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "78a4aaa2-b4d6-40fa-af33-9147da61e26e",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1263,
+    "url": "https://lh3.googleusercontent.com/tR4ubmc7UoljaUJCggHnR98oKtvMCrGJ7jvqiFkccRe-SLlAov8soWuUyvn9GBwCCXC5JJbZrddvFsNTQo6AQw5BBKRu=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Straatgezicht op de London Bridge",
+    "London Bridge, looking towards Southwark",
+    "Instantaneous Views of London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1850 - c. 1880",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I141",
+      "46C144",
+      "25I2451"
+    ],
+    "iconClassDescription": [
+      "street",
+      "four-wheeled, animal-drawn vehicle, e.g.: cab, carriage, coach",
+      "bridge in village across river, canal, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "London Bridge"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F05003"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Straatgezicht op de London Bridge, anonymous, c. 1850 - c. 1880",
+  "subTitle": "h 85mm \u00d7 w 170mm",
+  "scLabelLine": "anonymous, c. 1850 - c. 1880, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

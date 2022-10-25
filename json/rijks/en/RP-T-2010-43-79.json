@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-2010-43-79",
+  "priref": "493509",
+  "objectNumber": "RP-T-2010-43-79",
+  "language": "en",
+  "title": "London '71",
+  "copyrightHolder": "erven Constant/Pictoright",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "London '71",
+    "Party"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Constant",
+      "unFixedName": "Constant",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1920-07-21",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2005-08-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Utrecht",
+      "occupation": [
+        "sculptor",
+        "print maker",
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Constant (21-jul-1920 - 01-aug-2005)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Constant",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "2008-12-01T00:00:00",
+    "creditLine": "Transfer Instituut Collectie Nederland"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor (paint)"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1971",
+    "sortingDate": 1971,
+    "period": 20,
+    "yearEarly": 1971,
+    "yearLate": 1971
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "43A2"
+    ],
+    "iconClassDescription": [
+      "private festivities, merry company"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-2010-43-79"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Constant",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "387"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "472"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "London '71, Constant, 1971",
+  "subTitle": "h 387mm \u00d7 w 472mm",
+  "scLabelLine": "Constant, 1971, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

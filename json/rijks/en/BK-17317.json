@@ -1,0 +1,267 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-BK-17317",
+  "priref": "16048",
+  "objectNumber": "BK-17317",
+  "language": "en",
+  "title": "Oval bowl",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ec091ccd-d5d6-4058-850a-df57f4ab8a61",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1356,
+    "url": "https://lh4.ggpht.com/as4J1B1zfCB-Wa1_xhRDLUBY95ALb7PH5luPDNF-6NzPBB86bL_T45R9s1xU5Xyj2HQ_NgWfR65-e5dOOycUwFm8B18=s0"
+  },
+  "colors": [
+    {
+      "percentage": 62,
+      "hex": "#E3E3E1"
+    },
+    {
+      "percentage": 17,
+      "hex": " #534844"
+    },
+    {
+      "percentage": 8,
+      "hex": " #BEA892"
+    },
+    {
+      "percentage": 4,
+      "hex": " #11110F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #9C795C"
+    },
+    {
+      "percentage": 1,
+      "hex": " #7E8CA5"
+    },
+    {
+      "percentage": 0,
+      "hex": " #556686"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E3E3E1",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #534844",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #BEA892",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #11110F",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #9C795C",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #7E8CA5",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #556686",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 62,
+      "hex": "#DCDCDC"
+    },
+    {
+      "percentage": 17,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #CD853F"
+    },
+    {
+      "percentage": 1,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 0,
+      "hex": " #708090"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 62,
+      "hex": "#F6ECF3"
+    },
+    {
+      "percentage": 19,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 8,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 3,
+      "hex": " #B35A1F"
+    }
+  ],
+  "titles": [],
+  "description": "Schaal van faience. Veelkleurig beschilderd.",
+  "labelText": null,
+  "objectTypes": [
+    "dish"
+  ],
+  "objectCollection": [
+    "Dutch tin-glazed earthenware"
+  ],
+  "makers": [
+    {
+      "name": "Lambertus van Eenhoorn",
+      "unFixedName": "Eenhoorn, Lambertus van",
+      "placeOfBirth": "Delft",
+      "dateOfBirth": "1651",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1721",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lambertus van Eenhoorn (1651 - 1721), Delft"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "De Metaale Pot",
+      "unFixedName": "De Metaale Pot",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Delft"
+      ],
+      "qualification": null,
+      "labelDesc": "De Metaale Pot, Delft"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "De Metaale Pot",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1960-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [],
+  "techniques": [],
+  "productionPlaces": [
+    "Delft",
+    "Delft"
+  ],
+  "dating": {
+    "presentingDate": "c. 1695 - c. 1715",
+    "sortingDate": 1695,
+    "period": 17,
+    "yearEarly": 1695,
+    "yearLate": 1715
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A9833"
+    ],
+    "iconClassDescription": [
+      "flowers ~ ornament"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "BK-17317"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "tent. cat. \"Het wondere zwart van delft. tentoonstelling ter gelegenheid van het tienjarig bestaan van de vereniging van vrienden der Nederlandse keramiek\" Mededelingenblad van de Vrienden der Nederlandse Ceramiek, Gemeente Musea Amsterdam, Willet Holthuysen, 1964, nr. 2"
+  ],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "De Metaale Pot",
+  "dimensions": [
+    {
+      "unit": "cm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "5.9"
+    },
+    {
+      "unit": "cm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "24.9"
+    },
+    {
+      "unit": "cm",
+      "type": "depth",
+      "precision": null,
+      "part": null,
+      "value": "21.2"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "dish",
+  "longTitle": "Oval bowl, De Metaale Pot, c. 1695 - c. 1715",
+  "subTitle": "h 5.9cm \u00d7 w 24.9cm \u00d7 d 21.2cm",
+  "scLabelLine": "attributed to De Metaale Pot (Lambertus van Eenhoorn), Delft, c. 1695\u20131715, tin-glazed earthenware (faience)",
+  "label": {
+    "title": "Oval bowl",
+    "makerLine": "attributed to De Metaale Pot (Lambertus van Eenhoorn), Delft, c. 1695\u20131715, tin-glazed earthenware (faience)",
+    "description": "The desire to make earthenware objects with a black ground was probably prompted by the popularity of Asian lacquerware. But black enamel was very difficult to apply, so black-glazed Delft earthenware is extremely rare.",
+    "notes": null,
+    "date": "2013-04-04"
+  },
+  "showImage": true,
+  "location": "HG-2.22"
+}

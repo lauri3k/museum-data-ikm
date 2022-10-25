@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1888-A-12870",
+  "priref": "44271",
+  "objectNumber": "RP-P-1888-A-12870",
+  "language": "en",
+  "title": "Vrouw voor een spiegel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2e8291b8-80d7-4b29-a09f-5af1aa35f170",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2096,
+    "height": 2500,
+    "url": "https://lh4.ggpht.com/HXyKZ1GZ-oZOklNa7XvB-22XCEkOUJ9u0O_vKIcIM6YJgao2-iV6U5H8cCs3JsDzQnU93xmT5dKQttG0cu4MpZKCCpU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Vrouw voor een spiegel"
+  ],
+  "description": "Een vrouw bekijkt zichzelf in de spiegel. Naast de spiegel een met afbeeldingen gedecoreerd doosje en een stoffen maskertje, bezet met kralen (parels?)",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Jacob Hoolaart",
+      "unFixedName": "Hoolaart, Jacob",
+      "placeOfBirth": "Dordrecht",
+      "dateOfBirth": "1713-01-29",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1789-04-02",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Dordrecht",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Hoolaart (29-jan-1713 - 02-apr-1789)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Hoolaart",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1888-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1723 - 1789",
+    "sortingDate": 1723,
+    "period": 18,
+    "yearEarly": 1723,
+    "yearLate": 1789
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "31A511",
+      "41D2668",
+      "41D269(+82)"
+    ],
+    "iconClassDescription": [
+      "mirror",
+      "jewel-box",
+      "black velvet or satin mask, 'loup', 'cachenez' (+ women's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1888-A-12870"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Jacob Hoolaart",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "227"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "189"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Vrouw voor een spiegel, Jacob Hoolaart, 1723 - 1789",
+  "subTitle": "h 227mm \u00d7 w 189mm",
+  "scLabelLine": "Jacob Hoolaart, 1723 - 1789, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

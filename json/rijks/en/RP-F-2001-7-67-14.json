@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-67-14",
+  "priref": "615029",
+  "objectNumber": "RP-F-2001-7-67-14",
+  "language": "en",
+  "title": "Portret van Henry Petty-Fitzmaurice",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "c9ccfecd-0542-444d-a8fd-0147c203865b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1914,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/viM1ix2hY4xQBl330izjqNlPO7mmMys_DqpyLAQphk_U3YkH_t8hxCgo_2lEijKkNM3wxoMsqMQstMqmkXNZ3Gish1M=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Henry Petty-Fitzmaurice"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1881 - in or before 1891",
+    "sortingDate": 1881,
+    "period": 19,
+    "yearEarly": 1881,
+    "yearLate": 1891
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44D4"
+    ],
+    "iconClassDescription": [
+      "official; civil servant; functionary (in general)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Petty-Fitzmaurice, Henry (5th Marquess of Lansdowne)"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-67-14"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Petty-Fitzmaurice, Henry (5th Marquess of Lansdowne)"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "142"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "100"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Henry Petty-Fitzmaurice, The London Stereoscopic Company, c. 1881 - in or before 1891",
+  "subTitle": "h 142mm \u00d7 w 100mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1881 - in or before 1891, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

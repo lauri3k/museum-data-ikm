@@ -1,0 +1,141 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F09280",
+  "priref": "270271",
+  "objectNumber": "RP-F-F09280",
+  "language": "en",
+  "title": "Straatbeeld in Londen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ae4c3886-8f8a-4fde-bfbf-085a7952e240",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1282,
+    "url": "https://lh3.googleusercontent.com/YVzAbOU0jaYNi8j_QNKeZI7Df5zEch14R6pRd5mpilf5r7QgWaP7KfnFbcbb4g_G0M-EJc9A7ssGSi0FfC_BOFkVDA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Straatbeeld in Londen",
+    "London Illuminations at the Prince of Wales' Marriage"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "tissue stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print",
+    "perforating"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1855 - 1863",
+    "sortingDate": 1855,
+    "period": 19,
+    "yearEarly": 1855,
+    "yearLate": 1863
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I141",
+      "41A14"
+    ],
+    "iconClassDescription": [
+      "street",
+      "urban housing"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F09280"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "81"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "169"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Straatbeeld in Londen, anonymous, 1855 - 1863",
+  "subTitle": "h 81mm \u00d7 w 169mm",
+  "scLabelLine": "anonymous, 1855 - 1863, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

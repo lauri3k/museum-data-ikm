@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-222",
+  "priref": "626151",
+  "objectNumber": "RP-F-2001-7-222",
+  "language": "en",
+  "title": "A walk from London to John O'Groat's, with notes by the way",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "82e273b6-27e3-4d33-b6fe-498add919815",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1996,
+    "url": "https://lh3.googleusercontent.com/QvAeNHiL-AjZ-uFPTqH8Uk3iIL-og7N9Ilgpa6fBuVPzQHTKpCu_AJ9QbArU6lfY0DDurWfInv3cROL5K7XAkcbaKIxJOXu6gSUneC-xAA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "A walk from London to John O'Groat's, with notes by the way"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "book"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Marston & Company Sampson Low",
+      "unFixedName": "Sampson Low, Marston & Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Marston & Company Sampson Low, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Elihu Burritt",
+      "unFixedName": "Burritt, Elihu",
+      "placeOfBirth": null,
+      "dateOfBirth": "1810-12-08",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1879-03-06",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Elihu Burritt (08-dec-1810 - 06-mrt-1879)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Elihu Burritt",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "photographic support",
+    "cardboard",
+    "linen (material)"
+  ],
+  "techniques": [
+    "printing",
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1864",
+    "sortingDate": 1864,
+    "period": 19,
+    "yearEarly": 1864,
+    "yearLate": 1864
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-222"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Elihu Burritt",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "141"
+    },
+    {
+      "unit": "mm",
+      "type": "thickness",
+      "precision": null,
+      "part": null,
+      "value": "38"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "printing",
+  "longTitle": "A walk from London to John O'Groat's, with notes by the way, Elihu Burritt, 1864",
+  "subTitle": "h 210mm \u00d7 w 141mm \u00d7 t 38mm",
+  "scLabelLine": "Elihu Burritt, 1864, printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

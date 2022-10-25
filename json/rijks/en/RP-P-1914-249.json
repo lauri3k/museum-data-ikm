@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-249",
+  "priref": "391874",
+  "objectNumber": "RP-P-1914-249",
+  "language": "en",
+  "title": "Gezicht op het Paleis van de Prins-bisschoppen in Luik",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d2828842-8736-4c93-92ef-99e931742b8a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2473,
+    "height": 1590,
+    "url": "https://lh3.googleusercontent.com/QJDxtgX78K4PKHXjxqxp2SVNLvwYgjgoVd4MTxLh_umUe4N60xlO-UwSDHawkhf6vHMexYUHm6zmrIkmjYc5TtwDqNatcjndcUcO_p4=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op het Paleis van de Prins-bisschoppen in Luik",
+    "Palace, Liege / Palais \u00e0 Liege / Palast zu L\u00fcttich"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Black & Armstrong",
+      "unFixedName": "Black & Armstrong",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Black & Armstrong, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "R. Brice",
+      "unFixedName": "Brice, R.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object R. Brice"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "R. Brice",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "steel engraving"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1838",
+    "sortingDate": 1838,
+    "period": 19,
+    "yearEarly": 1838,
+    "yearLate": 1838
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A11"
+    ],
+    "iconClassDescription": [
+      "palace"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Luik"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1914-249"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "R. Brice",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "153"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "236"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel engraving",
+  "longTitle": "Gezicht op het Paleis van de Prins-bisschoppen in Luik, R. Brice, 1838",
+  "subTitle": "h 153mm \u00d7 w 236mm",
+  "scLabelLine": "R. Brice, 1838, steel engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

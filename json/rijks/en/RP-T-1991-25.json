@@ -1,0 +1,220 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1991-25",
+  "priref": "316575",
+  "objectNumber": "RP-T-1991-25",
+  "language": "en",
+  "title": "De H. Dominicus, staand ten voeten uit",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "df13ef2a-96fb-4587-aa2f-7aafcc19e7b0",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1565,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/MczSQ07MCI_67276Yg5PfU071sAseJPWpgI2JKM86yvognKzqZKmoNXspxL6pBA__jHK10KMEyeS-PSV3Gooq2CNfw=s0"
+  },
+  "colors": [
+    {
+      "percentage": 11,
+      "hex": "#ABA592"
+    },
+    {
+      "percentage": 58,
+      "hex": " #D4CEB7"
+    },
+    {
+      "percentage": 3,
+      "hex": " #878373"
+    },
+    {
+      "percentage": 0,
+      "hex": " #6B685A"
+    },
+    {
+      "percentage": 25,
+      "hex": " #F7F4E3"
+    },
+    {
+      "percentage": 0,
+      "hex": " #4E4C41"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#ABA592",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D4CEB7",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #878373",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #6B685A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F7F4E3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #4E4C41",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 58,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 25,
+      "hex": " #FFFFF0"
+    },
+    {
+      "percentage": 11,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 84,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 11,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "De H. Dominicus, staand ten voeten uit"
+  ],
+  "description": "Ontwerp voor een prent.",
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1991-08-30T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1600 - c. 1699",
+    "sortingDate": 1600,
+    "period": 16,
+    "yearEarly": 1600,
+    "yearLate": 1699
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1991-25"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "270"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "De H. Dominicus, staand ten voeten uit, anonymous, c. 1600 - c. 1699",
+  "subTitle": "h 270mm \u00d7 w 147mm",
+  "scLabelLine": "anonymous, c. 1600 - c. 1699, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

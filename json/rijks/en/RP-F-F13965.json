@@ -1,0 +1,136 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F13965",
+  "priref": "281193",
+  "objectNumber": "RP-F-F13965",
+  "language": "en",
+  "title": "Brug in Baden-Baden in het Zwarte Woud, Duitsland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cbef2bef-29e8-4b99-9fec-c7c1a582cb02",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1255,
+    "url": "https://lh3.ggpht.com/tGM8epszLfbXnfeqFNmQEQxZWfLnBq8sIUuXc8201PHQOajmCgOAo5otJbIzLlJtepbJ5ApbWh6S0arZjXeDrpRmexI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Brug in Baden-Baden in het Zwarte Woud, Duitsland",
+    "Vue prise du Pont de la Promenade \u00e0 Bade (For\u00eat Noire)",
+    "Ansichten aus dem Schwarzwald / Views of the Black Forrest"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "SP",
+      "unFixedName": "SP",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object SP"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "SP",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1861 - 1870",
+    "sortingDate": 1861,
+    "period": 19,
+    "yearEarly": 1861,
+    "yearLate": 1870
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I2",
+      "25I2451"
+    ],
+    "iconClassDescription": [
+      "village",
+      "bridge in village across river, canal, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Baden-Baden"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F13965"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "SP",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Brug in Baden-Baden in het Zwarte Woud, Duitsland, SP, 1861 - 1870",
+  "subTitle": "h 86mm \u00d7 w 175mm",
+  "scLabelLine": "SP, 1861 - 1870, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

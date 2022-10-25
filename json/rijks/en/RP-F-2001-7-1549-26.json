@@ -1,0 +1,178 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1549-26",
+  "priref": "627191",
+  "objectNumber": "RP-F-2001-7-1549-26",
+  "language": "en",
+  "title": "The London obelisk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ba44ef74-7d33-402d-b6a9-122fd51dce69",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1971,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/lW75FjAscGkEX9rpkKgX5fc-k-IQGZJ6kHYd1sCHHJsOrtxDbJtQCGy2dsrYV1vnIA3aywlmRJmYSXC2POxcyQWj1co=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "The London obelisk"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Harroun & Bierstadt",
+      "unFixedName": "Harroun & Bierstadt",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Harroun & Bierstadt"
+    },
+    {
+      "name": "Harroun & Bierstadt",
+      "unFixedName": "Harroun & Bierstadt",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Harroun & Bierstadt, New York (city)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "New York (city)"
+  ],
+  "dating": {
+    "presentingDate": "c. 1881",
+    "sortingDate": 1881,
+    "period": 19,
+    "yearEarly": 1881,
+    "yearLate": 1881
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I153"
+    ],
+    "iconClassDescription": [
+      "obelisk, needle"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Naald van Cleopatra"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1549-26"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "266"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "192"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "The London obelisk, anonymous, c. 1881",
+  "subTitle": "h 266mm \u00d7 w 192mm",
+  "scLabelLine": "anonymous, c. 1881, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,207 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1904-2968",
+  "priref": "196718",
+  "objectNumber": "RP-P-1904-2968",
+  "language": "en",
+  "title": "Gezicht op Kasteel Rochester vanaf een brug over de Medway",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Kasteel Rochester vanaf een brug over de Medway",
+    "Rochester Castle. Kent"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Tombleson & Co.",
+      "unFixedName": "Tombleson & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Tombleson & Co., London"
+    },
+    {
+      "name": "Wilhelm Creuzbauer",
+      "unFixedName": "Creuzbauer, Wilhelm",
+      "placeOfBirth": null,
+      "dateOfBirth": "1803",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1883",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Wilhelm Creuzbauer (1803 - 1883)"
+    },
+    {
+      "name": "Black & Armstrong",
+      "unFixedName": "Black & Armstrong",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "possibly",
+      "labelDesc": "possibly Black & Armstrong, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Henry Winkles",
+      "unFixedName": "Winkles, Henry",
+      "placeOfBirth": null,
+      "dateOfBirth": "1801",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1860",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter",
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Henry Winkles (1801 - 1860)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Henry Winkles",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1904-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1831 - c. 1837",
+    "sortingDate": 1831,
+    "period": 19,
+    "yearEarly": 1831,
+    "yearLate": 1837
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A12",
+      "46C112",
+      "25H213"
+    ],
+    "iconClassDescription": [
+      "castle",
+      "bridge",
+      "river"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Kasteel Rochester"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1904-2968"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Henry Winkles",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "176"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "220"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Kasteel Rochester vanaf een brug over de Medway, Henry Winkles, c. 1831 - c. 1837",
+  "subTitle": "h 176mm \u00d7 w 220mm",
+  "scLabelLine": "Henry Winkles, c. 1831 - c. 1837, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

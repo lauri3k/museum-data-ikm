@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-234",
+  "priref": "175388",
+  "objectNumber": "RP-P-1914-234",
+  "language": "en",
+  "title": "Gezicht op Antwerpen vanaf de Schelde",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Antwerpen vanaf de Schelde",
+    "Antwerp, from the Tete de Flandries"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Black & Armstrong",
+      "unFixedName": "Black & Armstrong",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Black & Armstrong, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Shury",
+      "unFixedName": "Shury, John",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Great Britain"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Shury, Great Britain"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Shury",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Great Britain",
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1838",
+    "sortingDate": 1838,
+    "period": 19,
+    "yearEarly": 1838,
+    "yearLate": 1838
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C24",
+      "25I1",
+      "25H213"
+    ],
+    "iconClassDescription": [
+      "sailing-ship, sailing-boat",
+      "city-view in general; 'veduta'",
+      "river"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Antwerpen (stad)",
+      "Schelde"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1914-234"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Shury",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "140"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "213"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op Antwerpen vanaf de Schelde, John Shury, 1838",
+  "subTitle": "h 140mm \u00d7 w 213mm",
+  "scLabelLine": "John Shury, 1838, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

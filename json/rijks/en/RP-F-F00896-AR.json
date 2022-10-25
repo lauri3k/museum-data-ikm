@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00896-AR",
+  "priref": "273396",
+  "objectNumber": "RP-F-F00896-AR",
+  "language": "en",
+  "title": "Portret van een vrouw",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "8d673cb9-6577-4dac-96f2-173bd07f8db5",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1600,
+    "height": 1883,
+    "url": "https://lh3.googleusercontent.com/gOTnzCN9DuT4qC7f3-pJjD_6Appm3JrcEXTK0SoD8bqTRVHbDx-aak11J4YJHIItUWSBNJBf8iDEHMKwjFjHThthnz1irFEI0ETO1WI=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een vrouw"
+  ],
+  "description": "Deze foto maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London School of Photography",
+      "unFixedName": "London School of Photography, The",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "The London School of Photography"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London School of Photography",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1855 - 1890",
+    "sortingDate": 1855,
+    "period": 19,
+    "yearEarly": 1855,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31D15",
+      "31AA231"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "adult woman",
+      "standing figure - AA - female human figure"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F00896-AR"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London School of Photography",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "52"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van een vrouw, The London School of Photography, 1855 - 1890",
+  "subTitle": "h 86mm \u00d7 w 52mm",
+  "scLabelLine": "The London School of Photography, 1855 - 1890, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

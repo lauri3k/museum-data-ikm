@@ -1,0 +1,137 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F05125",
+  "priref": "257213",
+  "objectNumber": "RP-F-F05125",
+  "language": "en",
+  "title": "Gezicht op de Rue de Rivoli te Parijs, met op de achtergrond de Tour Saint-Jacques",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "05c9ca1e-a75c-41f6-80fb-c9e74c4b9f1c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1286,
+    "url": "https://lh3.googleusercontent.com/sBD78vH8SzyEqTIvh7nfEZm0qe-CK1ge2HuhD4o3in2bqYvY5QIrghXsQjM-nVKZI4VRhES0CGe9StqHUQGMJE1VGBs=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de Rue de Rivoli te Parijs, met op de achtergrond de Tour Saint-Jacques",
+    "Tour St. Jacques, \u00e0 Paris"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1850 - c. 1875",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I142",
+      "25I155"
+    ],
+    "iconClassDescription": [
+      "avenue, boulevard, promenade, esplanade",
+      "tower, clock tower ~ monumental adornment"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Tour Saint-Jacques"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F05125"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op de Rue de Rivoli te Parijs, met op de achtergrond de Tour Saint-Jacques, The London Stereoscopic Company, c. 1850 - c. 1875",
+  "subTitle": "h 85mm \u00d7 w 170mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1850 - c. 1875, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

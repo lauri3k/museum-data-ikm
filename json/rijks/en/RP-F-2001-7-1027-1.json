@@ -1,0 +1,131 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-1027-1",
+  "priref": "673551",
+  "objectNumber": "RP-F-2001-7-1027-1",
+  "language": "en",
+  "title": "St. Augustine and his mother",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "22ad840a-6ac6-4a2a-8f40-98c92782aebc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1589,
+    "url": "https://lh3.googleusercontent.com/cVWKXnnv_371nKK5vBRX5taP9KSo7YxKetBAWkstVuQu1vTrz_8ht9xraBZ8TsIS8jZ6cNnCCw7JzKrtVKm2oOQDm9bH4yqoZolwoeU=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "St. Augustine and his mother"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1860 - in or before 1865",
+    "sortingDate": 1860,
+    "period": 19,
+    "yearEarly": 1860,
+    "yearLate": 1865
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(MONICA)",
+      "11H(AUGUSTINE)"
+    ],
+    "iconClassDescription": [
+      "the mother of Augustine, Monica of Tagaste (or Ostia); possible attributes: black dress with white veil or wimple, book, crucifix, rosary",
+      "Augustine, bishop of Hippo; possible attributes: arrows piercing his breast, book, child with spoon, flaming heart, heart (pierced with arrows), pen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2001-7-1027-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "103"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "81"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "St. Augustine and his mother, anonymous, c. 1860 - in or before 1865",
+  "subTitle": "h 103mm \u00d7 w 81mm",
+  "scLabelLine": "anonymous, c. 1860 - in or before 1865, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

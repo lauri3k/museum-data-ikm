@@ -1,0 +1,157 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-392D-5",
+  "priref": "636175",
+  "objectNumber": "RP-F-2001-7-392D-5",
+  "language": "en",
+  "title": "Mr. A.J. Beresford-Hope",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "42259e2d-a5da-4370-bc1f-82fb739c07ed",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1672,
+    "url": "https://lh3.googleusercontent.com/2MALpTLliEF57kuL55CAkc9VJ9JDfX6Odwvmx6uUhK30tiHKnqXE5HisNa3A2h6k6QQf9c0bwtufjUnfIMcJ_JFlja8=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Mr. A.J. Beresford-Hope"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1871 - in or before 1881",
+    "sortingDate": 1871,
+    "period": 19,
+    "yearEarly": 1871,
+    "yearLate": 1881
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44C34"
+    ],
+    "iconClassDescription": [
+      "politician, e.g. party leader"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Beresford Hope, Alexander"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-392D-5"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Beresford Hope, Alexander"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "83"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Mr. A.J. Beresford-Hope, The London Stereoscopic Company, c. 1871 - in or before 1881",
+  "subTitle": "h 115mm \u00d7 w 83mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1871 - in or before 1881, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

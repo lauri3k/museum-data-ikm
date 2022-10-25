@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2018-2086",
+  "priref": "715179",
+  "objectNumber": "RP-P-2018-2086",
+  "language": "en",
+  "title": "Gezicht op de Tower of London",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f8430451-de9f-4467-af07-d55f360455f6",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2246,
+    "height": 1629,
+    "url": "https://lh3.googleusercontent.com/RVZOOX8SVTX6imB7FzpGX6YF9sPgM7sLPGJTkU50-4JooXAA827-Xte0LIgLg_uRFzzJMQAkekdqrKwVyqqPgQA0QM6DOeC_7Kt7Ww=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de Tower of London",
+    "Six etchings of the Tower of London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Catty & Co Mansell Hunt",
+      "unFixedName": "Mansell, Hunt, Catty & Co",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Catty & Co Mansell Hunt, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "unknown",
+      "unFixedName": "unknown",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object unknown"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "unknown",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1850 - 1949",
+    "sortingDate": 1850,
+    "period": 19,
+    "yearEarly": 1850,
+    "yearLate": 1949
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A361",
+      "45K13"
+    ],
+    "iconClassDescription": [
+      "tower (of house or building)",
+      "fortress"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Tower of London"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2018-2086"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "unknown",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "79"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "120"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de Tower of London, unknown, 1850 - 1949",
+  "subTitle": "h 79mm \u00d7 w 120mm",
+  "scLabelLine": "unknown, 1850 - 1949, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

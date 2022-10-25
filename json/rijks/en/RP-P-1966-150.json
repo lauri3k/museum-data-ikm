@@ -1,0 +1,258 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1966-150",
+  "priref": "97303",
+  "objectNumber": "RP-P-1966-150",
+  "language": "en",
+  "title": "Heilige Dominicus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a694586d-8501-4a28-a2a3-a2d544b5a67f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1780,
+    "height": 2500,
+    "url": "https://lh5.ggpht.com/P9wBEvfLE5nYDe8UlRycNkH6DIfwIaWQoE_ggN_0ztyantZmQMQWf6hliDq8iHT534MkrIvfpHfU7kJHlDW9qmlTr4o=s0"
+  },
+  "colors": [
+    {
+      "percentage": 6,
+      "hex": "#F8F3E2"
+    },
+    {
+      "percentage": 14,
+      "hex": " #B3AA94"
+    },
+    {
+      "percentage": 35,
+      "hex": " #D5CAB2"
+    },
+    {
+      "percentage": 18,
+      "hex": " #928B79"
+    },
+    {
+      "percentage": 22,
+      "hex": " #625E50"
+    },
+    {
+      "percentage": 2,
+      "hex": " #3C3B31"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F8F3E2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #B3AA94",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #D5CAB2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #928B79",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #625E50",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #3C3B31",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 35,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 18,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 14,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 6,
+      "hex": " #FDF5E6"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 41,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 40,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 14,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 2,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Heilige Dominicus"
+  ],
+  "description": "De Heilige Dominicus draagt het habijt van zijn orde. In zijn hand een boek en een vlag waarop Maria in een rozenkrans. Op zijn voorhoofd een ster. Dominicus vertrapt de ketterijen van de Albigenzen. Naast hem zijn attribuut: een hond met een brandende toorts in zijn bek ('Domini Canis'). In de linkerbovenhoek het visioen van Christus met drie pijlen, de deugden van de dominicaner-orde: gehoorzaamheid, armoede en kuisheid. Op de achtergrond een voorbijtrekkend leger. De prent heeft een Latijns onderschrift.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Johannes Baptista Vrints (I)",
+      "unFixedName": "Vrints, Johannes Baptista (I)",
+      "placeOfBirth": null,
+      "dateOfBirth": "1555",
+      "dateOfBirthPrecision": "in or before",
+      "dateOfDeath": "1610",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker",
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johannes Baptista Vrints (I) (in or before 1555 - 1610), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jan Collaert (II)",
+      "unFixedName": "Collaert, Jan (II)",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1566",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1628-05-26",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jan Collaert (II) (1566 - c. 26-mei-1628), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jan Collaert (II)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1966-02-14T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1576 - 1628",
+    "sortingDate": 1576,
+    "period": 16,
+    "yearEarly": 1576,
+    "yearLate": 1628
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1966-150"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "New Hollstein Dutch 946",
+    "946"
+  ],
+  "principalOrFirstMaker": "Jan Collaert (II)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "200"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "282"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Dominicus, Jan Collaert (II), 1576 - 1628",
+  "subTitle": "w 200mm \u00d7 h 282mm",
+  "scLabelLine": "Jan Collaert (II), 1576 - 1628, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

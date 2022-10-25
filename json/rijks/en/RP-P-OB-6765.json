@@ -1,0 +1,274 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-6765",
+  "priref": "115289",
+  "objectNumber": "RP-P-OB-6765",
+  "language": "en",
+  "title": "Portret van de Heilige Dominicus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e2e59fb1-e1d7-45c9-bab8-b39136cde21a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3384,
+    "height": 5357,
+    "url": "https://lh6.ggpht.com/PJV_EfeL5Hy4o1NX-fl4ZS20_LvyW8PGyDCIolUFDWkFDi7HyHa_nfkAyrZNDR0fVkqL-YVjKJfXCn4e02Ys2HkIKUmP=s0"
+  },
+  "colors": [
+    {
+      "percentage": 46,
+      "hex": "#F0ECDF"
+    },
+    {
+      "percentage": 14,
+      "hex": " #44443A"
+    },
+    {
+      "percentage": 12,
+      "hex": " #69675B"
+    },
+    {
+      "percentage": 8,
+      "hex": " #ACA79B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #8A877B"
+    },
+    {
+      "percentage": 6,
+      "hex": " #CEC9BC"
+    },
+    {
+      "percentage": 3,
+      "hex": " #27281F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F0ECDF",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #44443A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #69675B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ACA79B",
+      "normalizedHex": "#B5BFCC"
+    },
+    {
+      "originalHex": " #8A877B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #CEC9BC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #27281F",
+      "normalizedHex": "#000000"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 46,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 26,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 8,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 6,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van de Heilige Dominicus",
+    "Leven en mirakels van de heilige Dominicus",
+    "Vita et miracula S.P. Dominici"
+  ],
+  "description": "De heilige Dominicus, in ovale lijst. De prent heeft een Latijns onderschrift en is deel van een boek over het leven van de heilige Dominicus.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Augustino Galaminio",
+      "unFixedName": "Galaminio, Augustino",
+      "placeOfBirth": null,
+      "dateOfBirth": "1552",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1639",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Poland"
+      ],
+      "qualification": null,
+      "labelDesc": "Augustino Galaminio (1552 - 1639), Poland"
+    },
+    {
+      "name": "Theodoor Galle",
+      "unFixedName": "Galle, Theodoor",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1571",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1633",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Theodoor Galle (1571 - 1633), Antwerp"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Theodoor Galle",
+      "unFixedName": "Galle, Theodoor",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1571",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1633",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": null,
+      "labelDesc": "Theodoor Galle (1571 - 1633), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Theodoor Galle",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": null,
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp",
+    "Antwerp",
+    "Antwerp",
+    "Poland",
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1611",
+    "sortingDate": 1611,
+    "period": 17,
+    "yearEarly": 1611,
+    "yearLate": 1611
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-6765"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 127-138",
+    "127-138"
+  ],
+  "principalOrFirstMaker": "Theodoor Galle",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "95"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van de Heilige Dominicus, Theodoor Galle, 1611",
+  "subTitle": "h 155mm \u00d7 w 95mm",
+  "scLabelLine": "Theodoor Galle, 1611, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

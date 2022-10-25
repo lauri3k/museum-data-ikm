@@ -1,0 +1,230 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F25488-B",
+  "priref": "280287",
+  "objectNumber": "RP-F-F25488-B",
+  "language": "en",
+  "title": "Street Life in London",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2a0b0a72-555a-4a61-9131-a35a473e8a19",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1980,
+    "height": 2514,
+    "url": "https://lh3.ggpht.com/3A-8ycu1Y0wZbrJJ1R_9vC2CyjO38HGZg1n1SOLm2RCJoF1FhqDZvGjJk-dnawB3kswiQ_7pTWwfjNgHClXThSk8Lg=s0"
+  },
+  "colors": [
+    {
+      "percentage": 81,
+      "hex": "#D4C2A6"
+    },
+    {
+      "percentage": 7,
+      "hex": " #3C2C21"
+    },
+    {
+      "percentage": 3,
+      "hex": " #807260"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F6EFDC"
+    },
+    {
+      "percentage": 2,
+      "hex": " #5C4A3A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B89C7E"
+    },
+    {
+      "percentage": 0,
+      "hex": " #BB6C4A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D4C2A6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #3C2C21",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #807260",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F6EFDC",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #5C4A3A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B89C7E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #BB6C4A",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 82,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 7,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 5,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 0,
+      "hex": " #A0522D"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Cheap fish of St. Giles's"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Thomson",
+      "unFixedName": "Thomson, John",
+      "placeOfBirth": "Edinburgh",
+      "dateOfBirth": "1837-06-14",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1921-09-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "John Thomson (14-jun-1837 - 30-sep-1921), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Thomson",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1876 - in or before 1877",
+    "sortingDate": 1876,
+    "period": 19,
+    "yearEarly": 1876,
+    "yearLate": 1877
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46B221"
+    ],
+    "iconClassDescription": [
+      "street-trader"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F25488-B"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Thomson",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "90"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Street Life in London, John Thomson, c. 1876 - in or before 1877",
+  "subTitle": "h 112mm \u00d7 w 90mm",
+  "scLabelLine": "photography: John Thomson, text: Adolphe Smith, published by: Sampson Low, Marston, Searle and Rivington, woodburytype, 1877-1878",
+  "label": {
+    "title": "Street Life in London",
+    "makerLine": "photography: John Thomson, text: Adolphe Smith, published by: Sampson Low, Marston, Searle and Rivington, woodburytype, 1877-1878",
+    "description": "The recording of street sellers and types has a long tradition in the visual arts. Printed Cris de Paris and Street Cries of London date back centuries. The theme was also embraced by photography. Thomson portrayed London\u2019s flower and newspaper sellers, city nomads, chimney sweeps, and the fishmonger of St. Giles. The photographs were accompanied by Smith\u2019s stories.",
+    "notes": null,
+    "date": "2017-08-25"
+  },
+  "showImage": true,
+  "location": null
+}

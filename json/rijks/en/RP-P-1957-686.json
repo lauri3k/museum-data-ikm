@@ -1,0 +1,287 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1957-686",
+  "priref": "117629",
+  "objectNumber": "RP-P-1957-686",
+  "language": "en",
+  "title": "Melkmeid",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3e4c55d8-8634-430b-8205-f9eb6a77247c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1954,
+    "height": 3000,
+    "url": "https://lh4.ggpht.com/d1SXa2n6TSvPNDoc-Q-6cceGNGd-lQV5UZ6rALZyuVp29OnAiSC6Q5TCYSczabuROvZjFNZqvJ5gMliJQltQiLw91Q=s0"
+  },
+  "colors": [
+    {
+      "percentage": 70,
+      "hex": "#E5E0D5"
+    },
+    {
+      "percentage": 7,
+      "hex": " #80796C"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C4BEB2"
+    },
+    {
+      "percentage": 5,
+      "hex": " #433E36"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A49E93"
+    },
+    {
+      "percentage": 3,
+      "hex": " #615B4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFEFE"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E5E0D5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #80796C",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C4BEB2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #433E36",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #A49E93",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #615B4F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FFFEFE",
+      "normalizedHex": "#F6ECF3"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 70,
+      "hex": "#FAF0E6"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 5,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 5,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 76,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 16,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 5,
+      "hex": " #2F4F4F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Melkmeid",
+    "Straatventers in Londen",
+    "The Cryes of the City of London"
+  ],
+  "description": "Een meisje met een ornamentaal melkvat op haar hoofd, waaraan bekers hangen. Ze verkoopt melk. De prent heeft een Engels, Frans, Italiaans en Nederlands onderschrift en maakt deel uit van een serie over de straatventers in Londen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Gole (c. 1660 - c. 1724), Amsterdam"
+    },
+    {
+      "name": "Provincie Holland",
+      "unFixedName": "Provincie Holland",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Provincie Holland"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Gole (c. 1660 - c. 1724)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Gole",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1688 - 1724",
+    "sortingDate": 1688,
+    "period": 17,
+    "yearEarly": 1688,
+    "yearLate": 1724
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46BB2211",
+      "47I22311"
+    ],
+    "iconClassDescription": [
+      "'cris de Paris', cries of London, etc. - BB - women engaged in trade and commerce",
+      "milkmaid"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1957-686"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 36",
+    "36"
+  ],
+  "principalOrFirstMaker": "Jacob Gole",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "167"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Melkmeid, Jacob Gole, 1688 - 1724",
+  "subTitle": "h 249mm \u00d7 w 167mm",
+  "scLabelLine": "Jacob Gole, 1688 - 1724, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

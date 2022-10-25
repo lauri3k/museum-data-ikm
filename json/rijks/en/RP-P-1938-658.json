@@ -1,0 +1,168 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1938-658",
+  "priref": "39826",
+  "objectNumber": "RP-P-1938-658",
+  "language": "en",
+  "title": "Portret van Henry Compton",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "30572f3d-0016-456e-bba9-d40f5d77648c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1975,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/d_Q-OdPjdWu0wPEgGybkumjzUs_cUm8ql7LW5-4wEbC6sZNe_P71hgQBF3jXb-Mi4yHBD9cQXsAC1tMzPhNjGuuinUEyb8vATO52EUcpLA=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Henry Compton",
+    "Henry Bishop of London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "John Smith (prentmaker/ uitgever)",
+      "unFixedName": "Smith, John (prentmaker/ uitgever)",
+      "placeOfBirth": "Daventry",
+      "dateOfBirth": "1664",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1743",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Northampton",
+      "occupation": [
+        "print maker",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Smith (prentmaker/ uitgever) (c. 1664 - c. 1743), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Isaac Beckett",
+      "unFixedName": "Beckett, Isaac",
+      "placeOfBirth": "Kent",
+      "dateOfBirth": "1653",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1719",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Isaac Beckett (1653 - 1719)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Isaac Beckett",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1938-01-01T00:00:00",
+    "creditLine": "Gift of D.H. Cevat, Guernsey"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1683 - c. 1687",
+    "sortingDate": 1683,
+    "period": 17,
+    "yearEarly": 1683,
+    "yearLate": 1687
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Compton, Henry"
+    ],
+    "objectNumbers": [
+      "RP-P-1938-658"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Compton, Henry"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Chaloner Smith 26",
+    "26"
+  ],
+  "principalOrFirstMaker": "Isaac Beckett",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "332"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "247"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Henry Compton, Isaac Beckett, c. 1683 - c. 1687",
+  "subTitle": "h 332mm \u00d7 w 247mm",
+  "scLabelLine": "Isaac Beckett, c. 1683 - c. 1687, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

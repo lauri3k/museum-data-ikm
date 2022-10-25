@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1909-1652",
+  "priref": "163798",
+  "objectNumber": "RP-P-1909-1652",
+  "language": "en",
+  "title": "Gezicht op de London Bridge en op de Westminster Bridge",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6929375f-2dce-4b06-8557-26ea4698ffb2",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1923,
+    "url": "https://lh3.ggpht.com/DjtNft1fybhqQLbB9TgaZLH9SuPzXvPTw5mSmj27zFDxHtNKsbUhlk51wYkd-7Lul3VzNwDYJMKtfAG-hMKBlKdc7sk=s0"
+  },
+  "colors": [
+    {
+      "percentage": 36,
+      "hex": "#D0CAB8"
+    },
+    {
+      "percentage": 28,
+      "hex": " #F3EDDA"
+    },
+    {
+      "percentage": 10,
+      "hex": " #ADA898"
+    },
+    {
+      "percentage": 10,
+      "hex": " #7E796B"
+    },
+    {
+      "percentage": 8,
+      "hex": " #615D50"
+    },
+    {
+      "percentage": 4,
+      "hex": " #A69374"
+    },
+    {
+      "percentage": 1,
+      "hex": " #454238"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#D0CAB8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F3EDDA",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #ADA898",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #7E796B",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #615D50",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A69374",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #454238",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 36,
+      "hex": "#FAEBD7"
+    },
+    {
+      "percentage": 28,
+      "hex": " #FDF5E6"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 10,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D2B48C"
+    }
+  ],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de London Bridge en op de Westminster Bridge",
+    "Gezigt langs de Rivier de Theems op de Brug van Londen / Gezigt langs de Theems op de Brug van Westmunster"
+  ],
+  "description": "Twee voorstellingen op \u00e9\u00e9n blad. Boven: een gezicht op de Theems en de London Bridge. Onder: een gezicht op de Theems en de Westminster Bridge.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Caspar Jacobsz. Philips",
+      "unFixedName": "Philips, Caspar Jacobsz.",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1732-04-16",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1789-03-19",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Caspar Jacobsz. Philips (16-apr-1732 - 19-mrt-1789), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Caspar Jacobsz. Philips",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1909-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1754",
+    "sortingDate": 1754,
+    "period": 18,
+    "yearEarly": 1754,
+    "yearLate": 1754
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C112"
+    ],
+    "iconClassDescription": [
+      "bridge"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Theems",
+      "London Bridge",
+      "Westminster Bridge"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1909-1652"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Caspar Jacobsz. Philips",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "172"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "225"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de London Bridge en op de Westminster Bridge, Caspar Jacobsz. Philips, 1754",
+  "subTitle": "h 172mm \u00d7 w 225mm",
+  "scLabelLine": "Caspar Jacobsz. Philips, 1754, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

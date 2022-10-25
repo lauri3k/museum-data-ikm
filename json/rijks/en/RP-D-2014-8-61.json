@@ -1,0 +1,164 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-D-2014-8-61",
+  "priref": "564783",
+  "objectNumber": "RP-D-2014-8-61",
+  "language": "en",
+  "title": "Zwarte Beertjes (Little Black Bears) Series",
+  "copyrightHolder": "Dick Bruna/Mercis Publishing bv",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [],
+  "description": "Blauwe jurk tegen zwarte achtergrond.",
+  "labelText": null,
+  "objectTypes": [
+    "book"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Georges Simenon",
+      "unFixedName": "Simenon, Georges",
+      "placeOfBirth": "Luik",
+      "dateOfBirth": "1903-02-13",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1989-09-04",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Lausanne",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Georges Simenon (13-feb-1903 - 04-sep-1989)"
+    },
+    {
+      "name": "A.W. Bruna Uitgevers",
+      "unFixedName": "A.W. Bruna Uitgevers",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Utrecht"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object A.W. Bruna Uitgevers, Utrecht"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Dick Bruna",
+      "unFixedName": "Bruna, Dick",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1927-08-23",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "2017-02-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Dick Bruna (23-aug-1927 - 16-feb-2017), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Dick Bruna",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2014-10-03T00:00:00",
+    "creditLine": "Gift of L.E. van Halem, Amsterdam and P.C. van Ulzen, Amsterdam"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Netherlands",
+    "Utrecht"
+  ],
+  "dating": {
+    "presentingDate": "1967",
+    "sortingDate": 1967,
+    "period": 20,
+    "yearEarly": 1967,
+    "yearLate": 1967
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-D-2014-8-61"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Dick Bruna",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "175"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "115"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Zwarte Beertjes (Little Black Bears) Series, Dick Bruna, 1967",
+  "subTitle": "h 175mm \u00d7 w 115mm",
+  "scLabelLine": "Dick Bruna (1927), published by: A.W. Bruna & Zn., offset, relief printing, letterpress, 1955-1973",
+  "label": {
+    "title": "Zwarte Beertjes (Little Black Bears) Series",
+    "makerLine": "Dick Bruna (1927), published by: A.W. Bruna & Zn., offset, relief printing, letterpress, 1955-1973",
+    "description": "In 1962 Dick Bruna exhibited his book covers at Steendrukkerij De Jongh en Co., where designers such as Willem Sandberg and Dick Elffers also showed their work. This signified recognition for him on the part of his colleagues. The little flat books were incorporated into pillars, giving rise to a three-dimensional installation. An inquisitive Gerrit Rietveld expressed his admiration for this architectonic solution. The pillars in this gallery allude to this historical event.",
+    "notes": "Geldt voor RP-D-2014-8-1 t/m 79.",
+    "date": "2015-08-27"
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1888-A-13293",
+  "priref": "174760",
+  "objectNumber": "RP-P-1888-A-13293",
+  "language": "en",
+  "title": "Gemaskerde vrouw in baljurk",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0e167585-77f6-4287-9fb6-2ddb33137b14",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1569,
+    "height": 1990,
+    "url": "https://lh3.googleusercontent.com/MoNBHjVBiS8FZgOgyDGG9uiD3OOFwWYuCD3YbP1arwxIx4nC68i0p3cxm9WAzwWRFeZ9ST91zZtQWFYaSSVyyjKvoiIhSp3GRld0ozgn=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gemaskerde vrouw in baljurk"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Corneille Seghers",
+      "unFixedName": "Seghers, Corneille",
+      "placeOfBirth": "Antwerpen (stad)",
+      "dateOfBirth": "1814-05-28",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1869",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Corneille Seghers (28-mei-1814 - 1869)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Corneille Seghers",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1888-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1824 - 1869",
+    "sortingDate": 1824,
+    "period": 19,
+    "yearEarly": 1824,
+    "yearLate": 1869
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41D269",
+      "41D211"
+    ],
+    "iconClassDescription": [
+      "black velvet or satin mask, 'loup', 'cachenez'",
+      "dress, gown"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1888-A-13293"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hippert&Linnig 20",
+    "20",
+    "Collectie Rijksmuseum"
+  ],
+  "principalOrFirstMaker": "Corneille Seghers",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "68"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "46"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gemaskerde vrouw in baljurk, Corneille Seghers, 1824 - 1869",
+  "subTitle": "h 68mm \u00d7 w 46mm",
+  "scLabelLine": "Corneille Seghers, 1824 - 1869, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

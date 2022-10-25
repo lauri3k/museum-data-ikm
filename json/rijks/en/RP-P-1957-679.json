@@ -1,0 +1,273 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1957-679",
+  "priref": "410625",
+  "objectNumber": "RP-P-1957-679",
+  "language": "en",
+  "title": "Inkoopster van tweedehandskleding",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3bf3818e-17e5-4524-98cb-ab00a97b5fad",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1625,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/z2lDtDFo3Z6NWR1OVKUo_LP9ltjxoB5T4U9ST9ijrL_9p1NNGtD9HWVbwUN5wQSyuN7ZIZtX-J6l-db3NhU5rFJxPQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 3,
+      "hex": "#878174"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A39E91"
+    },
+    {
+      "percentage": 8,
+      "hex": " #625E52"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C7C1B1"
+    },
+    {
+      "percentage": 66,
+      "hex": " #F0EADB"
+    },
+    {
+      "percentage": 4,
+      "hex": " #3F3C35"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#878174",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #A39E91",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #625E52",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #C7C1B1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F0EADB",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #3F3C35",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 66,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 12,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 10,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 6,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 77,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 4,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Inkoopster van tweedehandskleding",
+    "Straatventers in Londen",
+    "The Cryes of the City of London"
+  ],
+  "description": "Een inkoopster van tweedehandskleding. Ze draagt een hoge hoed en heeft een mand om haar rechterarm. De prent heeft een Engels, Frans, Italiaans en Nederlands onderschrift en maakt deel uit van een serie over de straatventers in Londen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Gole (c. 1660 - c. 1724), Amsterdam"
+    },
+    {
+      "name": "Provincie Holland",
+      "unFixedName": "Provincie Holland",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Provincie Holland"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Gole (c. 1660 - c. 1724)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Gole",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "London",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1688 - 1724",
+    "sortingDate": 1688,
+    "period": 17,
+    "yearEarly": 1688,
+    "yearLate": 1724
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46BB2211",
+      "46BB21(CLOTHES VENDOR)"
+    ],
+    "iconClassDescription": [
+      "'cris de Paris', cries of London, etc. - BB - women engaged in trade and commerce",
+      "merchant, salesman (with NAME of trade or profession) - BB - women engaged in trade and commerce"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1957-679"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 28",
+    "28"
+  ],
+  "principalOrFirstMaker": "Jacob Gole",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "247"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "162"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Inkoopster van tweedehandskleding, Jacob Gole, 1688 - 1724",
+  "subTitle": "h 247mm \u00d7 w 162mm",
+  "scLabelLine": "Jacob Gole, 1688 - 1724, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

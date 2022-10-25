@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F04912",
+  "priref": "257411",
+  "objectNumber": "RP-F-F04912",
+  "language": "en",
+  "title": "Scott Monument in Edinburgh",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "5009a0c8-5ecd-4d8c-ae02-87c39b33afea",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1309,
+    "url": "https://lh3.googleusercontent.com/K9ih9IZUgN9Ogu7RP5rfr48AI3J3CeK9-F6-NMaqZ3m9feN0p4PtbmOzPqnk7IfBo3jXY77Hy5_Lt9xj2ZohRz-HRQ=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Scott Monument in Edinburgh",
+    "Sir Walter Scott's Monument"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1854 - c. 1880",
+    "sortingDate": 1854,
+    "period": 19,
+    "yearEarly": 1854,
+    "yearLate": 1880
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I152"
+    ],
+    "iconClassDescription": [
+      "monument, statue"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Scott Monument"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F04912"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Scott Monument in Edinburgh, The London Stereoscopic Company, c. 1854 - c. 1880",
+  "subTitle": "h c.85mm \u00d7 w c.170mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1854 - c. 1880, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

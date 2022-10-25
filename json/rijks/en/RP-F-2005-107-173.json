@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2005-107-173",
+  "priref": "435327",
+  "objectNumber": "RP-F-2005-107-173",
+  "language": "en",
+  "title": "Oever van de Theems in London",
+  "copyrightHolder": "erven Alvin Langdon Coburn",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oever van de Theems in London",
+    "London, 1909"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Alvin Langdon Coburn",
+      "unFixedName": "Coburn, Alvin Langdon",
+      "placeOfBirth": "Boston",
+      "dateOfBirth": "1882-06-11",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1966-11-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Rhos-on-Sea",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "Alvin Langdon Coburn (11-jun-1882 - 23-nov-1966), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Alvin Langdon Coburn",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2005-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the BankGiro Lottery, the Paul Huf Fonds/Rijksmuseum Fonds and the Johan Huizinga Fonds/Rijksmuseum Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1909",
+    "sortingDate": 1909,
+    "period": 20,
+    "yearEarly": 1909,
+    "yearLate": 1909
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25H213",
+      "46C241"
+    ],
+    "iconClassDescription": [
+      "river",
+      "sailing-ship's rigging"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Theems",
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2005-107-173"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Alvin Langdon Coburn",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "217"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "171"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "307"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "221"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Oever van de Theems in London, Alvin Langdon Coburn, 1909",
+  "subTitle": "h 217mm \u00d7 w 171mm",
+  "scLabelLine": "Alvin Langdon Coburn, 1909, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

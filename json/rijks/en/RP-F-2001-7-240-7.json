@@ -1,0 +1,153 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-240-7",
+  "priref": "624626",
+  "objectNumber": "RP-F-2001-7-240-7",
+  "language": "en",
+  "title": "Mr R. Mansfield and Miss B. Cameron as Richard III and Lady Anne",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "f2770359-b524-491d-ae25-b42a2d70b5de",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1646,
+    "url": "https://lh3.googleusercontent.com/l2_66pawCDwympHCSkWh-rJhcMecGM9ckSonAJev3cBi1yDsjlg0Jc_dk_wnt2HCtfEd9YSoIRyUqfDKeiauFskPDg=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Mr R. Mansfield and Miss B. Cameron as Richard III and Lady Anne"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1883 - in or before 1893",
+    "sortingDate": 1883,
+    "period": 19,
+    "yearEarly": 1883,
+    "yearLate": 1893
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C8312"
+    ],
+    "iconClassDescription": [
+      "portrait of actor, actress"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Mansfield, Richard",
+      "Cameron, Beatrice"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-240-7"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Mansfield, Richard",
+    "Cameron, Beatrice"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "215"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Mr R. Mansfield and Miss B. Cameron as Richard III and Lady Anne, The London Stereoscopic Company, c. 1883 - in or before 1893",
+  "subTitle": "h 215mm \u00d7 w 147mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1883 - in or before 1893, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

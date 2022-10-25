@@ -1,0 +1,228 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2007-251-6",
+  "priref": "448835",
+  "objectNumber": "RP-F-2007-251-6",
+  "language": "en",
+  "title": "British Museum in Londen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "73158afe-450b-45ab-b33b-15da8c995a69",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2048,
+    "url": "https://lh3.googleusercontent.com/lnACbV7f1l9g5x7bAB4OWmB3dBETAgbCF1FSqrbHoQ-sQJdKOQwylnt1yc-qMFMk6c28ZfY7JduiQmU-7qnc2NZSVJQ=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#83887D"
+    },
+    {
+      "percentage": 15,
+      "hex": " #DBE3D3"
+    },
+    {
+      "percentage": 6,
+      "hex": " #7090A6"
+    },
+    {
+      "percentage": 8,
+      "hex": " #4A6E93"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2B4B7C"
+    },
+    {
+      "percentage": 61,
+      "hex": " #A3B1AC"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#83887D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #DBE3D3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #7090A6",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #4A6E93",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #2B4B7C",
+      "normalizedHex": "#4279DB"
+    },
+    {
+      "originalHex": " #A3B1AC",
+      "normalizedHex": "#B5BFCC"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 61,
+      "hex": "#A9A9A9"
+    },
+    {
+      "percentage": 15,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 8,
+      "hex": " #4682B4"
+    },
+    {
+      "percentage": 7,
+      "hex": " #483D8B"
+    },
+    {
+      "percentage": 6,
+      "hex": " #778899"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 61,
+      "hex": "#B5BFCC"
+    },
+    {
+      "percentage": 16,
+      "hex": " #4279DB"
+    },
+    {
+      "percentage": 15,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 6,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "British Museum in Londen",
+    "London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Great Britain"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Great Britain"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2007-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support"
+  ],
+  "techniques": [
+    "cyanotype"
+  ],
+  "productionPlaces": [
+    "Great Britain"
+  ],
+  "dating": {
+    "presentingDate": "1890 - 1905",
+    "sortingDate": 1890,
+    "period": 19,
+    "yearEarly": 1890,
+    "yearLate": 1905
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A821"
+    ],
+    "iconClassDescription": [
+      "permanent exhibition, museum"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "British Museum"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2007-251-6"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "88"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "108"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "cyanotype",
+  "longTitle": "British Museum in Londen, anonymous, 1890 - 1905",
+  "subTitle": "h 88mm \u00d7 w 108mm",
+  "scLabelLine": "anonymous, 1890 - 1905, cyanotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

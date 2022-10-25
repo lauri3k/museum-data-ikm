@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-67-55",
+  "priref": "615183",
+  "objectNumber": "RP-F-2001-7-67-55",
+  "language": "en",
+  "title": "Portret van Henry James",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d28ebda8-251d-4688-8420-bd9a3ecc9e30",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1826,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/rBj_77BO_juadOXzxFpCqM52ziNsp1gn1xzYOpUmohy5xpRxMhR3tnBMfLO_CgAy_Lpr_CArhii24BD_IXPSAZynudc=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Henry James"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1881 - in or before 1891",
+    "sortingDate": 1881,
+    "period": 19,
+    "yearEarly": 1881,
+    "yearLate": 1891
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "44G16"
+    ],
+    "iconClassDescription": [
+      "lawyer, attorney at law"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "James, Henry"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-67-55"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "James, Henry"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "127"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "101"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Henry James, The London Stereoscopic Company, c. 1881 - in or before 1891",
+  "subTitle": "h 127mm \u00d7 w 101mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1881 - in or before 1891, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

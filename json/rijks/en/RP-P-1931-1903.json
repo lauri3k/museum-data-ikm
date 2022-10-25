@@ -1,0 +1,130 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1931-1903",
+  "priref": "203929",
+  "objectNumber": "RP-P-1931-1903",
+  "language": "en",
+  "title": "London: Victoria Embankment",
+  "copyrightHolder": "erven Willem Jans Dijk",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "London: Victoria Embankment"
+  ],
+  "description": "Een kade langs de noordelijke oever van de Theems in Londen. Op de Theems varende schepen. Op de achtergrond gebouwen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Willem Jans Dijk",
+      "unFixedName": "Dijk, Willem Jans",
+      "placeOfBirth": "Bergum",
+      "dateOfBirth": "1881-02-15",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1970-10-23",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Den Haag",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Willem Jans Dijk (15-feb-1881 - 23-okt-1970)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Willem Jans Dijk",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1931-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "transparant paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1891 - 1931",
+    "sortingDate": 1891,
+    "period": 19,
+    "yearEarly": 1891,
+    "yearLate": 1931
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I143",
+      "25H213"
+    ],
+    "iconClassDescription": [
+      "quay",
+      "river"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Victoria Embankment"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1931-1903"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Willem Jans Dijk",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "232"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "232"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "transparant paper",
+  "longTitle": "London: Victoria Embankment, Willem Jans Dijk, 1891 - 1931",
+  "subTitle": "h 232mm \u00d7 w 232mm",
+  "scLabelLine": "Willem Jans Dijk, 1891 - 1931, transparant paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

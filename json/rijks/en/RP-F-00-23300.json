@@ -1,0 +1,198 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-00-23300",
+  "priref": "822853",
+  "objectNumber": "RP-F-00-23300",
+  "language": "en",
+  "title": "Black Hawthorn Vase, Chinese Porcelain, K'ang-hsi Period, 1662 - 1722",
+  "copyrightHolder": null,
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Black Hawthorn Vase, Chinese Porcelain, K'ang-hsi Period, 1662 - 1722"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "Max Jaff\u00e9",
+      "unFixedName": "Jaff\u00e9, Max",
+      "placeOfBirth": "Schwerin",
+      "dateOfBirth": "1845-07-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1939-12-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Wenen",
+      "occupation": [
+        "painter",
+        "publisher",
+        "printer"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Max Jaff\u00e9 (27-jul-1845 - 14-dec-1939)"
+    },
+    {
+      "name": "Max Jaff\u00e9",
+      "unFixedName": "Jaff\u00e9, Max",
+      "placeOfBirth": "Schwerin",
+      "dateOfBirth": "1845-07-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1939-12-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Wenen",
+      "occupation": [
+        "painter",
+        "publisher",
+        "printer"
+      ],
+      "roles": [
+        "printer"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Vienna"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Max Jaff\u00e9 (27-jul-1845 - 14-dec-1939), Vienna"
+    },
+    {
+      "name": "The Metropolitan Museum of Art",
+      "unFixedName": "The Metropolitan Museum of Art",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The Metropolitan Museum of Art, New York (city)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "New York (city)"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object anonymous, New York (city)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1979-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "New York (city)",
+    "Vienna",
+    "New York (city)"
+  ],
+  "dating": {
+    "presentingDate": "1914 - c. 1940",
+    "sortingDate": 1914,
+    "period": 20,
+    "yearEarly": 1914,
+    "yearLate": 1940
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A773",
+      "25G41"
+    ],
+    "iconClassDescription": [
+      "container of ceramics: jar, jug, pot, vase",
+      "flowers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-00-23300"
+    ]
+  },
+  "hasImage": false,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "140"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "90"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Black Hawthorn Vase, Chinese Porcelain, K'ang-hsi Period, 1662 - 1722, anonymous, 1914 - c. 1940",
+  "subTitle": "h c.140mm \u00d7 w c.90mm",
+  "scLabelLine": "anonymous, 1914 - c. 1940, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": false,
+  "location": null
+}

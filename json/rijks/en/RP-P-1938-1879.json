@@ -1,0 +1,176 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1938-1879",
+  "priref": "37753",
+  "objectNumber": "RP-P-1938-1879",
+  "language": "en",
+  "title": "Heiligen Dominicus en Brigitta",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6751870c-b00e-4170-b52e-9fef13534683",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2112,
+    "height": 2922,
+    "url": "https://lh4.ggpht.com/qsZPtwtvaeMBSWvhpp_t6g0mzBf-dhxMfF32hTlKHEwfWiggISXOZTtWLdbrOR6uoEOBQUxGFbV6KQX30Y2ibPt3ud0=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heiligen Dominicus en Brigitta"
+  ],
+  "description": "Twee heiligen in omlijsting met ornamentversiering. Dominicus met boek, kruisstaf hond met bandende fakkel en monster. Brigitta met hart en crucifix. Boven in cirkel Maria met kind in stralenkrans geeft Dominicus gewaad. Los blad met handgeschreven tekst in zwart en rood.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Monogrammist S (16e eeuw)",
+      "unFixedName": "Monogrammist S (16e eeuw)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "possibly",
+      "labelDesc": "possibly Monogrammist S (16e eeuw)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Allaert Claesz.",
+      "unFixedName": "Claesz., Allaert",
+      "placeOfBirth": null,
+      "dateOfBirth": "1508",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Allaert Claesz. (1508 - ....)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Allaert Claesz.",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1938-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1510 - 1530",
+    "sortingDate": 1510,
+    "period": 16,
+    "yearEarly": 1510,
+    "yearLate": 1530
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)",
+      "11HH(BRIGID)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star",
+      "the abbess of Kildare, Brigid (Bridget) of Ireland; possible attributes: cow, flame, goose"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1938-1879"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 115",
+    "115"
+  ],
+  "principalOrFirstMaker": "Allaert Claesz.",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "107"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "75"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "110"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "76"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heiligen Dominicus en Brigitta, Allaert Claesz. (attributed to), 1510 - 1530",
+  "subTitle": "h 107mm \u00d7 w 75mm",
+  "scLabelLine": "Allaert Claesz., 1510 - 1530, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

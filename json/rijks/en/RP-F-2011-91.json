@@ -1,0 +1,128 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2011-91",
+  "priref": "506637",
+  "objectNumber": "RP-F-2011-91",
+  "language": "en",
+  "title": "Oxford Street",
+  "copyrightHolder": "The E.O. Hopp\u00e9 Estate Collection",
+  "webImage": null,
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Oxford Street, London 1929"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Emil Otto Hopp\u00e9",
+      "unFixedName": "Hopp\u00e9, Emil Otto",
+      "placeOfBirth": "Duitsland",
+      "dateOfBirth": "1878-04-17",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1972-12-09",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Emil Otto Hopp\u00e9 (17-apr-1878 - 09-dec-1972), London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Emil Otto Hopp\u00e9",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2011-11-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "baryta paper"
+  ],
+  "techniques": [
+    "gelatin silver print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1929",
+    "sortingDate": 1929,
+    "period": 20,
+    "yearEarly": 1929,
+    "yearLate": 1929
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I141"
+    ],
+    "iconClassDescription": [
+      "street"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Oxford Street"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-2011-91"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Emil Otto Hopp\u00e9",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "80"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "gelatin silver print",
+  "longTitle": "Oxford Street, Emil Otto Hopp\u00e9 (attributed to), 1929",
+  "subTitle": "h 80mm \u00d7 w 105mm",
+  "scLabelLine": "Emil Otto Hopp\u00e9 (1878-1972), gelatin silver print, London, 1929",
+  "label": {
+    "title": "Oxford Street",
+    "makerLine": "Emil Otto Hopp\u00e9 (1878-1972), gelatin silver print, London, 1929",
+    "description": "In the 1920s a young generation of photographers began capturing modern life, of which the telephone and telegraph, modern offices, electricity, automobiles and aeroplanes were important symbols. The hectic pedestrian traffic on the street was part of this as well, as is subtly depicted in this photograph of three pairs of legs.",
+    "notes": null,
+    "date": "2014-11-26"
+  },
+  "showImage": true,
+  "location": null
+}

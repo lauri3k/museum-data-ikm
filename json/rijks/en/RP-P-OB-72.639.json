@@ -1,0 +1,186 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-72.639",
+  "priref": "229894",
+  "objectNumber": "RP-P-OB-72.639",
+  "language": "en",
+  "title": "Diana als maangodin Luna",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "2330a0e2-869b-475d-ac9c-77c10039d19b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1657,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/iRE0Klc0ejbDLYLAocyPgiaEzINFsP046tljtCMidXsdNnpQIELtjva7iT0WmINc5u4g5-zttYEh4blTPUGV14e_pEBPmLL78neKMl12=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Diana als maangodin Luna",
+    "Au Iour de Lanvit La Lune",
+    "Planeten"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Antoine de Fer",
+      "unFixedName": "Fer, Antoine de",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1675",
+      "dateOfDeathPrecision": "before",
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Paris"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Antoine de Fer (.... - before 1675), Paris"
+    },
+    {
+      "name": "Lodewijk XIV (koning van Frankrijk)",
+      "unFixedName": "Lodewijk XIV (koning van Frankrijk)",
+      "placeOfBirth": "Saint-Germain-en-Laye",
+      "dateOfBirth": "1638-09-05",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1715-09-01",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Versailles",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lodewijk XIV (koning van Frankrijk) (05-sep-1638 - 01-sep-1715), France"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "L. Richer",
+      "unFixedName": "Richer, L.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object L. Richer"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "L. Richer",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Paris",
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "c. 1630 - c. 1673",
+    "sortingDate": 1630,
+    "period": 17,
+    "yearEarly": 1630,
+    "yearLate": 1673
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "24C1",
+      "92C3711"
+    ],
+    "iconClassDescription": [
+      "planets; planetary system, solar system",
+      "Luna in her chariot, usually drawn by two horses, a white and a black one; 'Carro della Luna' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-72.639"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "L. Richer",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "210"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "124"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Diana als maangodin Luna, L. Richer, c. 1630 - c. 1673",
+  "subTitle": "h 210mm \u00d7 w 124mm",
+  "scLabelLine": "L. Richer, c. 1630 - c. 1673, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

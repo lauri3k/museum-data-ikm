@@ -1,0 +1,142 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-5885",
+  "priref": "168537",
+  "objectNumber": "RP-P-OB-5885",
+  "language": "en",
+  "title": "Heilige Dominicus (versie 1)",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7c3e6310-262d-4f00-8362-d869d776caf8",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1840,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/dZXnOhYI9c7nAO_VsBmVxCdRZPTlob3I2c2PVBM273Mj3PKyBoLVbCNqtG2jZgMs4M-jdyJWyNm6Qnq8-D08gz4-wtld=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Dominicus (versie 1)"
+  ],
+  "description": "De H. Dominicus, een lelie en een bijbel in de handen",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Johann Sadeler (I)",
+      "unFixedName": "Sadeler, Johann (I)",
+      "placeOfBirth": "Brussel (stad)",
+      "dateOfBirth": "1550",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1600-08",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Veneti\u00eb",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Antwerp"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Johann Sadeler (I) (1550 - aug-1600), Antwerp"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Johann Sadeler (I)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Antwerp"
+  ],
+  "dating": {
+    "presentingDate": "1580 - 1584",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1584
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-5885"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 362",
+    "362"
+  ],
+  "principalOrFirstMaker": "Johann Sadeler (I)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "147"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "107"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Dominicus (versie 1), Johann Sadeler (I), 1580 - 1584",
+  "subTitle": "h 147mm \u00d7 w 107mm",
+  "scLabelLine": "Johann Sadeler (I), 1580 - 1584, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

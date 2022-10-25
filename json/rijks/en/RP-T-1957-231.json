@@ -1,0 +1,231 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-T-1957-231",
+  "priref": "49831",
+  "objectNumber": "RP-T-1957-231",
+  "language": "en",
+  "title": "Heilige Dominicus en de ketterse vrouwen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "36160bf4-db34-4035-b9da-487f5b8aa030",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2377,
+    "height": 2500,
+    "url": "https://lh6.ggpht.com/gCiRAxK0ieWsOvWHXHky5YsyuwW0mLbP8sp88OLWmlKYz1TOPRZXF1lwGjLv17JYQLRsF2qmG1RX82u62DFLOCoT-A=s0"
+  },
+  "colors": [
+    {
+      "percentage": 35,
+      "hex": "#B0A185"
+    },
+    {
+      "percentage": 31,
+      "hex": " #C4B79B"
+    },
+    {
+      "percentage": 23,
+      "hex": " #EDE9D1"
+    },
+    {
+      "percentage": 4,
+      "hex": " #D7CDB0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #948C7A"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FEFEF1"
+    },
+    {
+      "percentage": 0,
+      "hex": " #8A775C"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#B0A185",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C4B79B",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #EDE9D1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D7CDB0",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #948C7A",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #FEFEF1",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #8A775C",
+      "normalizedHex": "#E0CC91"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 67,
+      "hex": "#D2B48C"
+    },
+    {
+      "percentage": 23,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F5DEB3"
+    },
+    {
+      "percentage": 3,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFF0"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 71,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 24,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 3,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Heilige Dominicus en de ketterse vrouwen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "drawing"
+  ],
+  "objectCollection": [
+    "drawings"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Bernardino Poccetti",
+      "unFixedName": "Poccetti, Bernardino",
+      "placeOfBirth": "Florence",
+      "dateOfBirth": "1545",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1612-11-10",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Florence",
+      "occupation": [
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "draughtsman"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Bernardino Poccetti (c. 1545 - 10-nov-1612)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Bernardino Poccetti",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "chalk",
+    "ink"
+  ],
+  "techniques": [
+    "pen",
+    "brush"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1580 - 1585",
+    "sortingDate": 1580,
+    "period": 16,
+    "yearEarly": 1580,
+    "yearLate": 1585
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-T-1957-231"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Bernardino Poccetti",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "281"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "269"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "pen",
+  "longTitle": "Heilige Dominicus en de ketterse vrouwen, Bernardino Poccetti, 1580 - 1585",
+  "subTitle": "h 281mm \u00d7 w 269mm",
+  "scLabelLine": "Bernardino Poccetti, 1580 - 1585, pen",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

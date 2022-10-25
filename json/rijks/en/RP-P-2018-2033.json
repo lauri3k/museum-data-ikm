@@ -1,0 +1,162 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2018-2033",
+  "priref": "714982",
+  "objectNumber": "RP-P-2018-2033",
+  "language": "en",
+  "title": "Gezicht op de London Colosseum",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "bcac557f-9d81-487f-bb79-e3f538c1fead",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2103,
+    "height": 1711,
+    "url": "https://lh3.googleusercontent.com/Yh-hnJc1tR3QIt4VtckVGA6crmqv9pRH3Kyn2GOPogFQ27It9-72N5f6bLGyktVRTJ18EmFlqnYDEvJCooda7dBwPMFk0fskQKgVlnf3Pw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op de London Colosseum",
+    "The Colosseum, Regents Park / Le Colosseum, Parc au Regent, Londres"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Joseph Thomas Wood",
+      "unFixedName": "Wood, Joseph Thomas",
+      "placeOfBirth": null,
+      "dateOfBirth": "1811",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1876",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Joseph Thomas Wood (c. 1811 - 1876), London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2018-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1841 - 1885",
+    "sortingDate": 1841,
+    "period": 19,
+    "yearEarly": 1841,
+    "yearLate": 1885
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48A821"
+    ],
+    "iconClassDescription": [
+      "permanent exhibition, museum"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Regent's Park"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2018-2033"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "117"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "152"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Gezicht op de London Colosseum, anonymous, 1841 - 1885",
+  "subTitle": "h 117mm \u00d7 w 152mm",
+  "scLabelLine": "anonymous, 1841 - 1885, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

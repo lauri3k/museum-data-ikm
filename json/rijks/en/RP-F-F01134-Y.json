@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F01134-Y",
+  "priref": "574037",
+  "objectNumber": "RP-F-F01134-Y",
+  "language": "en",
+  "title": "Exterieur van Buckingham Palace in Londen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "be2055e2-851a-40a5-a054-24d2de45848f",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2001,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/pHSijfDc5nZfs86Cosc5yGaEicnnvQo6Y9sKa2EwOncxJ_p1TVtUDoQqQHyQ3Z02v151PUOxHsCIsi--cuh6sHV7bYoQrpIHDFb2U9M=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Exterieur van Buckingham Palace in Londen",
+    "London"
+  ],
+  "description": "Onderdeel van Reisalbum met bezienswaardigheden in Engeland, Zwitserland, Frankrijk en Duitsland.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "R\u00f6mmler & Jonas",
+      "unFixedName": "R\u00f6mmler & Jonas",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object R\u00f6mmler & Jonas"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "printing ink"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1880 - c. 1910",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1910
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41A11"
+    ],
+    "iconClassDescription": [
+      "palace"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F01134-Y"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "155"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Exterieur van Buckingham Palace in Londen, anonymous, c. 1880 - c. 1910",
+  "subTitle": "h 104mm \u00d7 w 155mm",
+  "scLabelLine": "anonymous, c. 1880 - c. 1910, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

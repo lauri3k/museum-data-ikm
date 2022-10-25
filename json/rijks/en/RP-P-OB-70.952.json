@@ -1,0 +1,193 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-70.952",
+  "priref": "340183",
+  "objectNumber": "RP-P-OB-70.952",
+  "language": "en",
+  "title": "Rustende arbeiders bij de kolenmijn in Cumberland",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "7cbcbdc6-e1c9-499f-9b13-1c1f58a67d4b",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2038,
+    "url": "https://lh3.googleusercontent.com/_h9hyKtH6zJTS-RNgNxEZAjpNmBgAvRfmOajUhKmzBjc10qqdgQtY5h7jlCDQ1k9TrZgQrUJ8nrgpKndcvy0LuG_poJpHU285xgRU85X=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Rustende arbeiders bij de kolenmijn in Cumberland",
+    "A View of the Black-Lead Mine, in Cumberland"
+  ],
+  "description": "Tekst in het Engels in de ondermarge.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Torre & Co.",
+      "unFixedName": "Torre & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Torre & Co., London"
+    },
+    {
+      "name": "Artaria & Co.",
+      "unFixedName": "Artaria & Co.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Vienna"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Artaria & Co., Vienna"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Maria Catharina Prestel",
+      "unFixedName": "Prestel, Maria Catharina",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1747-07-22",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1794-03-16",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Maria Catharina Prestel (22-jul-1747 - 16-mrt-1794), Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Maria Catharina Prestel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "2006-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Germany",
+    "London",
+    "Vienna"
+  ],
+  "dating": {
+    "presentingDate": "1788",
+    "sortingDate": 1788,
+    "period": 18,
+    "yearEarly": 1788,
+    "yearLate": 1788
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25D32",
+      "25H113(+1)"
+    ],
+    "iconClassDescription": [
+      "miner",
+      "(high) hill (+ landscape with figures, staffage)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Cumberland"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-70.952"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "LeBlanc 52",
+    "52"
+  ],
+  "principalOrFirstMaker": "Maria Catharina Prestel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "540"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "673"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Rustende arbeiders bij de kolenmijn in Cumberland, Maria Catharina Prestel, 1788",
+  "subTitle": "h 540mm \u00d7 w 673mm",
+  "scLabelLine": "Maria Catharina Prestel, 1788, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

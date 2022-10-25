@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1994-216",
+  "priref": "316508",
+  "objectNumber": "RP-P-1994-216",
+  "language": "en",
+  "title": "Portret van een onbekende vrouw",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "84e4aa1b-106e-47f5-926b-3a3b4c08b158",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1260,
+    "height": 1604,
+    "url": "https://lh3.googleusercontent.com/ByVQvb0cZbdLmHrX49Wmsql6L6z98lWEO48fp_dtAV0Ykl7uUz9prXUe18js23Hjr946yTquaD7bNqJONxPaJrum4vC5Ywol29B9OHw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een onbekende vrouw"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Anton Schlechter",
+      "unFixedName": "Schlechter, Anton",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Germany"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Anton Schlechter, Germany"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Anton Schlechter",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": "Gift of the heirs of I.Q. van Regteren Altena, Amersfoort"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [
+    "Germany"
+  ],
+  "dating": {
+    "presentingDate": "1737 - 1799",
+    "sortingDate": 1737,
+    "period": 18,
+    "yearEarly": 1737,
+    "yearLate": 1799
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "32B381"
+    ],
+    "iconClassDescription": [
+      "person with white and black parents"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1994-216"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Anton Schlechter",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "104"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "78"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Portret van een onbekende vrouw, Anton Schlechter, 1737 - 1799",
+  "subTitle": "h 104mm \u00d7 w 78mm",
+  "scLabelLine": "Anton Schlechter, 1737 - 1799, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

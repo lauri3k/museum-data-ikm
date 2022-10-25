@@ -1,0 +1,140 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F20140",
+  "priref": "500110",
+  "objectNumber": "RP-F-F20140",
+  "language": "en",
+  "title": "Gezicht op London Bridge",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cf25c277-77ba-4c4a-a6e3-4c90a7fc7f40",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1648,
+    "url": "https://lh3.googleusercontent.com/3NSxs3Q29D9N6ckRK3KrTDAI1bDNPdf876E_dqVxw8xoG6iYstEFpHCQKIyF0rPWak0XGJCczjYmtHty6e6M6ah2g56h=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op London Bridge",
+    "London Bridge",
+    "London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "cabinet photograph",
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "R\u00f6mmler & Jonas",
+      "unFixedName": "R\u00f6mmler & Jonas",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "printer",
+        "publisher"
+      ],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object R\u00f6mmler & Jonas"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "R\u00f6mmler & Jonas",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "paper"
+  ],
+  "techniques": [
+    "collotype"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1880 - 1900",
+    "sortingDate": 1880,
+    "period": 19,
+    "yearEarly": 1880,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I1451"
+    ],
+    "iconClassDescription": [
+      "bridge in city across river, canal, etc."
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "London Bridge"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F20140"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "R\u00f6mmler & Jonas",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "107"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "166"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "collotype",
+  "longTitle": "Gezicht op London Bridge, R\u00f6mmler & Jonas, 1880 - 1900",
+  "subTitle": "h 107mm \u00d7 w 166mm",
+  "scLabelLine": "R\u00f6mmler & Jonas, 1880 - 1900, collotype",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

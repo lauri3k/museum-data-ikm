@@ -1,0 +1,135 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F24034",
+  "priref": "263730",
+  "objectNumber": "RP-F-F24034",
+  "language": "en",
+  "title": "Portret van een onbekende jongen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "e084ab83-22d4-4a6b-aa79-45a02ca0b185",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1440,
+    "height": 2432,
+    "url": "https://lh3.googleusercontent.com/AKw2u3I7RmIEdcTxazDm2S-R7ky8kZ7vtd7OLLLLMNYAyHIk_51Neg2TKT6agm51whJsPCbf60cGRC7mISM_MPz3Ly6nFHalTh71aoUN=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een onbekende jongen"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "London Portrait Company",
+      "unFixedName": "London Portrait Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object London Portrait Company, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "London Portrait Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "baryta paper",
+    "cardboard"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1900 - 1914",
+    "sortingDate": 1900,
+    "period": 19,
+    "yearEarly": 1900,
+    "yearLate": 1914
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "42A51",
+      "61B11"
+    ],
+    "iconClassDescription": [
+      "toddler",
+      "anonymous historical person portrayed"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F24034"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "London Portrait Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "105"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "64"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "baryta paper",
+  "longTitle": "Portret van een onbekende jongen, London Portrait Company, 1900 - 1914",
+  "subTitle": "h 105mm \u00d7 w 64mm",
+  "scLabelLine": "London Portrait Company, 1900 - 1914, baryta paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

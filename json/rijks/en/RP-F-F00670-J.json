@@ -1,0 +1,139 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00670-J",
+  "priref": "272463",
+  "objectNumber": "RP-F-F00670-J",
+  "language": "en",
+  "title": "Portret van Alfred Tennyson",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "70cc821d-df98-478e-bdee-d4efcb29d5da",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1951,
+    "height": 1601,
+    "url": "https://lh3.googleusercontent.com/aqWFIscIH-bcQg_pL-sEMK4q2vR6iEyBVj56jk_pRlapfRlPo5t9hbT3AHlM99cIALAfHiLta0GjYFh9bkV0x8c37_A_QFA6tCUE9Rpx=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Alfred Tennyson"
+  ],
+  "description": "Deze foto maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic and Photographic Company",
+      "unFixedName": "London Stereoscopic and Photographic Company, The",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic and Photographic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic and Photographic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1860 - 1867",
+    "sortingDate": 1860,
+    "period": 19,
+    "yearEarly": 1860,
+    "yearLate": 1867
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "48C91",
+      "61B2"
+    ],
+    "iconClassDescription": [
+      "writer, poet, author",
+      "historical persons"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Tennyson, Alfred"
+    ],
+    "objectNumbers": [
+      "RP-F-F00670-J"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Tennyson, Alfred"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic and Photographic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "83"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "51"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van Alfred Tennyson, The London Stereoscopic and Photographic Company, 1860 - 1867",
+  "subTitle": "h 83mm \u00d7 w 51mm",
+  "scLabelLine": "The London Stereoscopic and Photographic Company, 1860 - 1867, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

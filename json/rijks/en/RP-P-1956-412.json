@@ -1,0 +1,227 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1956-412",
+  "priref": "37754",
+  "objectNumber": "RP-P-1956-412",
+  "language": "en",
+  "title": "Heilige Dominicus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "a67a7a8b-12c0-4010-846e-af4ee7f24d79",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2154,
+    "height": 3000,
+    "url": "https://lh6.ggpht.com/kUewwUBIy4vbsjvbgh1BRtlobnonAnXdYtDNo55qqCtaKVoDhAlBbnSDtJP5U_N-kMGh6YW4YmfVEN0y9PCsE9BqSZE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FDF6D9"
+    },
+    {
+      "percentage": 64,
+      "hex": " #D7CFB4"
+    },
+    {
+      "percentage": 6,
+      "hex": " #948A71"
+    },
+    {
+      "percentage": 7,
+      "hex": " #716D5D"
+    },
+    {
+      "percentage": 18,
+      "hex": " #B4A98D"
+    },
+    {
+      "percentage": 1,
+      "hex": " #515045"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FDF6D9",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D7CFB4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #948A71",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #716D5D",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #B4A98D",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #515045",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 64,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 18,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 9,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 6,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFF8DC"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 65,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 25,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 7,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 1,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Heilige Dominicus"
+  ],
+  "description": "Dominicus in boom met crucifix in rechterhand. Maria met schep en Christus met emmer bij stam. Om de boom: twee engelen, Petrus, apostel en God de Vader. Latere afdruk van versleten plaat, bijgewerkt met pen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Monogrammist S (16e eeuw)",
+      "unFixedName": "Monogrammist S (16e eeuw)",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to Monogrammist S (16e eeuw)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Monogrammist S (16e eeuw)",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "1956-01-01T00:00:00",
+    "creditLine": "Gift of Veiling Gutekunst & Klipstein"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "pen"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1510 - 1530",
+    "sortingDate": 1510,
+    "period": 16,
+    "yearEarly": 1510,
+    "yearLate": 1530
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1956-412"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 333",
+    "333"
+  ],
+  "principalOrFirstMaker": "Monogrammist S (16e eeuw)",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "112"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "75"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Dominicus, Monogrammist S (16e eeuw) (attributed to), 1510 - 1530",
+  "subTitle": "h 112mm \u00d7 w 75mm",
+  "scLabelLine": "Monogrammist S (16e eeuw), 1510 - 1530, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

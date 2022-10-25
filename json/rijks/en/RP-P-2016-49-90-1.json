@@ -1,0 +1,160 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2016-49-90-1",
+  "priref": "616080",
+  "objectNumber": "RP-P-2016-49-90-1",
+  "language": "en",
+  "title": "Heilige Dominicus",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "942a6032-7737-4cd1-8114-3a536b3e05ab",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1054,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/LvLBiH3eV66pUF8sMz6Lx4RM51pV5hqy_C2WJ3QEPQ2Rlu0xxaYdfvOAawtwbB-mz342F-GA3fzjt2-qwOXyyJ32Q5c=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Heilige Dominicus",
+    "S. Dominicus",
+    "Liber Chronicarum"
+  ],
+  "description": "De heilige Domicus en een hond met brandende fakkel. De prent maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Wilhelm Pleydenwurff",
+      "unFixedName": "Pleydenwurff, Wilhelm",
+      "placeOfBirth": null,
+      "dateOfBirth": "1460",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1494-01-31",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Wilhelm Pleydenwurff (c. 1460 - 31-jan-1494)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Michel Wolgemut",
+      "unFixedName": "Wolgemut, Michel",
+      "placeOfBirth": "Neurenberg",
+      "dateOfBirth": "1434",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1519-11-30",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Neurenberg",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "workshop of",
+      "labelDesc": "workshop of Michel Wolgemut (1434 - 30-nov-1519)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michel Wolgemut",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1874-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "letterpress printing"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1493",
+    "sortingDate": 1493,
+    "period": 15,
+    "yearEarly": 1493,
+    "yearLate": 1493
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11H(DOMINIC)"
+    ],
+    "iconClassDescription": [
+      "Dominic(us) Guzman of Calerueja, founder of the Order of Preachers (or Dominican (Black) Friars; possible attributes: book, dog with flaming torch, lily, loaf of bread, rosary, star"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2016-49-90-1"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "Michel Wolgemut",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "137"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "51"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "letterpress printing",
+  "longTitle": "Heilige Dominicus, Michel Wolgemut (workshop of), 1493",
+  "subTitle": "h 137mm \u00d7 w 51mm",
+  "scLabelLine": "Michel Wolgemut, 1493, letterpress printing",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

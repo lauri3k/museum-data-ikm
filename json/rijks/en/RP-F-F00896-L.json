@@ -1,0 +1,133 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F00896-L",
+  "priref": "273358",
+  "objectNumber": "RP-F-F00896-L",
+  "language": "en",
+  "title": "Portret van een vrouw",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1075fabc-1813-4be8-b070-dc84d806efb3",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1600,
+    "height": 1841,
+    "url": "https://lh3.googleusercontent.com/o2VqccOQOmQZH9y6NAvu5eb9YbO3lIzXQyoqqcEBH3iogLUHI0nTGlztxr0eSG3bq3Dtxy-xdOvEJ9GsmeTvO6-BRKFLJzdtyRT3D1Xv=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van een vrouw"
+  ],
+  "description": "Deze foto maakt deel uit van een album.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "carte-de-visite"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "London and Continental Photographic Copying Company",
+      "unFixedName": "London and Continental Photographic Copying Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "London and Continental Photographic Copying Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "London and Continental Photographic Copying Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1855 - 1890",
+    "sortingDate": 1855,
+    "period": 19,
+    "yearEarly": 1855,
+    "yearLate": 1890
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "61B2",
+      "31AA235"
+    ],
+    "iconClassDescription": [
+      "historical persons",
+      "sitting figure - AA - female human figure"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F00896-L"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "London and Continental Photographic Copying Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "86"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "52"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Portret van een vrouw, London and Continental Photographic Copying Company, 1855 - 1890",
+  "subTitle": "h 86mm \u00d7 w 52mm",
+  "scLabelLine": "London and Continental Photographic Copying Company, 1855 - 1890, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

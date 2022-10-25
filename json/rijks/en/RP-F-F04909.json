@@ -1,0 +1,264 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F04909",
+  "priref": "257409",
+  "objectNumber": "RP-F-F04909",
+  "language": "en",
+  "title": "Gezicht op Eton College",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "78e01443-4cae-42b3-be40-2e7f2213f01c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 3000,
+    "height": 1485,
+    "url": "https://lh3.googleusercontent.com/XL0QA-UPIa45qf7HougFkUL8irH-zXGFpTwUoLNMJxrSjiqQ5eAYC9-0Nf_k6CAOK5BkKe38hFoOuCePfUVx-uYqVl8=s0"
+  },
+  "colors": [
+    {
+      "percentage": 51,
+      "hex": "#CFC5A9"
+    },
+    {
+      "percentage": 34,
+      "hex": " #B6A06F"
+    },
+    {
+      "percentage": 6,
+      "hex": " #806F4C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #E9E9EA"
+    },
+    {
+      "percentage": 1,
+      "hex": " #604D36"
+    },
+    {
+      "percentage": 0,
+      "hex": " #38281C"
+    },
+    {
+      "percentage": 0,
+      "hex": " #888888"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#CFC5A9",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #B6A06F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #806F4C",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E9E9EA",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #604D36",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #38281C",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #888888",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 51,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 41,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 93,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 4,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 1,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 0,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #737C84"
+    }
+  ],
+  "titles": [
+    "Gezicht op Eton College",
+    "Eton"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company"
+    },
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company, London"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "c. 1856 - c. 1859",
+    "sortingDate": 1856,
+    "period": 19,
+    "yearEarly": 1856,
+    "yearLate": 1859
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "49B416"
+    ],
+    "iconClassDescription": [
+      "university building, college"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Eton College"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F04909"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op Eton College, The London Stereoscopic Company, The London Stereoscopic Company, c. 1856 - c. 1859",
+  "subTitle": "h c.85mm \u00d7 w c.170mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1856 - c. 1859, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

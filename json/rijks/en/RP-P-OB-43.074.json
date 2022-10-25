@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-43.074",
+  "priref": "106233",
+  "objectNumber": "RP-P-OB-43.074",
+  "language": "en",
+  "title": "Strijdwagen van Diana",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "1e94668c-91c8-4813-af11-2e6ad908e019",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1576,
+    "url": "https://lh3.googleusercontent.com/4Al1qs-Vbehi46yl23YqWCgHG4AWZPoyLX2GbeyeB2yayJJTaazy0DFIqm23X7q_K571D4YFs06dP0KQ5zu2mWWTHypfRZ_C-wDQqYBo=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Strijdwagen van Diana"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Lodewijk XIII (koning van Frankrijk)",
+      "unFixedName": "Lodewijk XIII (koning van Frankrijk)",
+      "placeOfBirth": "Fontainebleau",
+      "dateOfBirth": "1601-09-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1643-05-14",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Saint-Germain-en-Laye",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Lodewijk XIII (koning van Frankrijk) (27-sep-1601 - 14-mei-1643)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Michel Dorigny",
+      "unFixedName": "Dorigny, Michel",
+      "placeOfBirth": "Saint-Quentin",
+      "dateOfBirth": "1617",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1665-02-21",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Parijs",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "painter"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "France"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Michel Dorigny (c. 1617 - 21-feb-1665), France"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Michel Dorigny",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving",
+    "etching"
+  ],
+  "productionPlaces": [
+    "France"
+  ],
+  "dating": {
+    "presentingDate": "1638",
+    "sortingDate": 1638,
+    "period": 17,
+    "yearEarly": 1638,
+    "yearLate": 1638
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "92C3",
+      "92C3711"
+    ],
+    "iconClassDescription": [
+      "(story of) Diana (Artemis)",
+      "Luna in her chariot, usually drawn by two horses, a white and a black one; 'Carro della Luna' (Ripa)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-43.074"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "IFF 17e si\u00e8cle 68",
+    "68"
+  ],
+  "principalOrFirstMaker": "Michel Dorigny",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "267"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "502"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Strijdwagen van Diana, Michel Dorigny, 1638",
+  "subTitle": "h 267mm \u00d7 w 502mm",
+  "scLabelLine": "Michel Dorigny, 1638, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

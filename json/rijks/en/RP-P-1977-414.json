@@ -1,0 +1,180 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1977-414",
+  "priref": "419143",
+  "objectNumber": "RP-P-1977-414",
+  "language": "en",
+  "title": "Elegant gezelschap op het ijs",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "3910008a-6477-4f59-9d6a-ee76039e86d9",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 2393,
+    "url": "https://lh3.googleusercontent.com/OP1-hOtxuPXiMlMvlktLkdzZxhlcopV2JQkQg1p8sWowCJsRs8DhLIhV-GKxBI8kukjPWQAfUQeyodALuc0KW__ZKw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Elegant gezelschap op het ijs",
+    "Winterkoning op het ijs"
+  ],
+  "description": "Een rijk gekleed gezelschap, bestaande uit twee mannen en twee vrouwen, op het ijs.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Christiaan Josi",
+      "unFixedName": "Josi, Christiaan",
+      "placeOfBirth": "Utrecht",
+      "dateOfBirth": "1768",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1828-11",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Ramsgate",
+      "occupation": [
+        "print maker",
+        "draughtsman",
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Christiaan Josi (c. 1768 - nov-1828)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Cornelis Ploos van Amstel",
+      "unFixedName": "Ploos van Amstel, Cornelis",
+      "placeOfBirth": "Weesp",
+      "dateOfBirth": "1726-01-04",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1798-12-20",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": null,
+      "labelDesc": "Cornelis Ploos van Amstel (04-jan-1726 - 20-dec-1798), Amsterdam"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Cornelis Ploos van Amstel",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1977-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Stichting tot Bevordering van de Belangen van het Rijksmuseum"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching"
+  ],
+  "productionPlaces": [
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1795 - 1828",
+    "sortingDate": 1795,
+    "period": 18,
+    "yearEarly": 1795,
+    "yearLate": 1828
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11Q7121(TOWER)",
+      "43C24",
+      "41D2(+81)",
+      "41D2(+82)",
+      "41D2252",
+      "41D283",
+      "41D269(+82)"
+    ],
+    "iconClassDescription": [
+      "parts of church exterior and annexes: tower",
+      "winter sports",
+      "clothes, costume (+ men's clothes)",
+      "clothes, costume (+ women's clothes)",
+      "muff",
+      "mask",
+      "black velvet or satin mask, 'loup', 'cachenez' (+ women's clothes)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [
+      "16151625"
+    ],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1977-414"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Laurentius, Niemeijer en Ploos van Amstel 8",
+    "8"
+  ],
+  "principalOrFirstMaker": "Cornelis Ploos van Amstel",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "252"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "261"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Elegant gezelschap op het ijs, Cornelis Ploos van Amstel, 1795 - 1828",
+  "subTitle": "h 252mm \u00d7 w 261mm",
+  "scLabelLine": "Cornelis Ploos van Amstel, 1795 - 1828, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

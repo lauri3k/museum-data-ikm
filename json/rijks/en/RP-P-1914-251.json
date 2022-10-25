@@ -1,0 +1,165 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1914-251",
+  "priref": "391876",
+  "objectNumber": "RP-P-1914-251",
+  "language": "en",
+  "title": "Parlementsgebouw te Brussel",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "6168a4f0-c913-4d8e-9c4d-de2cde2dc767",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1777,
+    "url": "https://lh3.googleusercontent.com/6-z2q5Cg5roRXnQ8WSIidQD41_P72McqBPoSZ_5H-W-EuwigV9HuI046WR6pfZduV-zJwXX6aNX2rWOv-Ecn1bnRoVRnhphKCwlc_IJX=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Parlementsgebouw te Brussel",
+    "House of representatives, Brussels / Chambre des D\u00e9put\u00e9s / Desputirten kammer zu Br\u00fcssel",
+    "Gezichten op Brussel"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Black & Armstrong",
+      "unFixedName": "Black & Armstrong",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "London"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Black & Armstrong, London"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "W. Owen",
+      "unFixedName": "Owen, W.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object W. Owen"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "W. Owen",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "unknown",
+    "date": "1914-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "steel engraving"
+  ],
+  "productionPlaces": [
+    "London"
+  ],
+  "dating": {
+    "presentingDate": "1800 - 1875",
+    "sortingDate": 1800,
+    "period": 18,
+    "yearEarly": 1800,
+    "yearLate": 1875
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I"
+    ],
+    "iconClassDescription": [
+      "stadsgezichten en landschappen met bouwsels van mensen"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Brussel (stad)"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1914-251"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "W. Owen",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "143"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "221"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "steel engraving",
+  "longTitle": "Parlementsgebouw te Brussel, W. Owen, 1800 - 1875",
+  "subTitle": "h 143mm \u00d7 w 221mm",
+  "scLabelLine": "W. Owen, 1800 - 1875, steel engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

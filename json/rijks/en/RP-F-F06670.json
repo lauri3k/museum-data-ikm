@@ -1,0 +1,221 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F06670",
+  "priref": "261582",
+  "objectNumber": "RP-F-F06670",
+  "language": "en",
+  "title": "Gezicht in het Italian Court in het Crystal Palace in Londen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "872d71cc-496d-41c4-90ed-4bef08dc7419",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1187,
+    "url": "https://lh3.googleusercontent.com/MF1yDv6V8m38IFH98wQBMxs569CFpFtjpsSROzH2JOlL9YeBTN4dBE3qab6KJQtk7bFDWs8MrtEKYI4Kxi9ypfcwLO_2=s0"
+  },
+  "colors": [
+    {
+      "percentage": 0,
+      "hex": "#FEFEFE"
+    },
+    {
+      "percentage": 3,
+      "hex": " #E1E0DD"
+    },
+    {
+      "percentage": 20,
+      "hex": " #A3997E"
+    },
+    {
+      "percentage": 7,
+      "hex": " #756448"
+    },
+    {
+      "percentage": 49,
+      "hex": " #CAC1A3"
+    },
+    {
+      "percentage": 18,
+      "hex": " #4E3E2A"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FEFEFE",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #E1E0DD",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #A3997E",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #756448",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #CAC1A3",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #4E3E2A",
+      "normalizedHex": "#B35A1F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#F5DEB3"
+    },
+    {
+      "percentage": 25,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 20,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 3,
+      "hex": " #DCDCDC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #FFFFFF"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 70,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 25,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #F6ECF3"
+    }
+  ],
+  "titles": [
+    "Gezicht in het Italian Court in het Crystal Palace in Londen",
+    "The Italian Court"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1854",
+    "sortingDate": 1854,
+    "period": 19,
+    "yearEarly": 1854,
+    "yearLate": 1854
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46B181"
+    ],
+    "iconClassDescription": [
+      "world fair, world exhibition"
+    ],
+    "motifs": [],
+    "events": [
+      "Wereldtentoonstelling 1853-1855"
+    ],
+    "periods": [],
+    "places": [
+      "Crystal Palace"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F06670"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "87"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "174"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht in het Italian Court in het Crystal Palace in Londen, The London Stereoscopic Company, 1854",
+  "subTitle": "h 87mm \u00d7 w 174mm",
+  "scLabelLine": "The London Stereoscopic Company, 1854, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

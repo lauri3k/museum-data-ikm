@@ -1,0 +1,154 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F10382",
+  "priref": "282951",
+  "objectNumber": "RP-F-F10382",
+  "language": "en",
+  "title": "Stilleven met gedroogde planten",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "0f78c86d-f2cc-4bc4-8a39-628e04ec1f73",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1241,
+    "url": "https://lh3.googleusercontent.com/3PwRlwfcxaXsfgxZBQAkyy-2G_uZlTLE7l46QwXGN431HkWGCKPU0i6z24_fxGd41_xodPEWK31Pxpajp7asKGJVi6JE=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Stilleven met gedroogde planten",
+    "A Plant Dissected, Showing the Fibres of the Leaves"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "William England",
+      "unFixedName": "England, William",
+      "placeOfBirth": "Londen",
+      "dateOfBirth": "1816",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1896-08-13",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Londen",
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "attributed to",
+      "labelDesc": "attributed to William England (c. 1816 - 13-aug-1896)"
+    },
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "William England",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "photographic support",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1858",
+    "sortingDate": 1858,
+    "period": 19,
+    "yearEarly": 1858,
+    "yearLate": 1858
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "41E",
+      "25G412"
+    ],
+    "iconClassDescription": [
+      "stillevens van diverse voorwerpen",
+      "dried flowers"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F10382"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "William England, The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "84"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "174"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Stilleven met gedroogde planten, William England (attributed to), The London Stereoscopic Company, c. 1858",
+  "subTitle": "h 84mm \u00d7 w 174mm",
+  "scLabelLine": "William England, c. 1858, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

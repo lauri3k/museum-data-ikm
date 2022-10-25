@@ -1,0 +1,287 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-1957-680",
+  "priref": "117628",
+  "objectNumber": "RP-P-1957-680",
+  "language": "en",
+  "title": "Oesterverkoper",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "cb62f335-b120-4935-9c9b-0e072e6b92af",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2042,
+    "height": 3000,
+    "url": "https://lh3.ggpht.com/4BWH-cBOx4JIV3iAU5GalC6WWeTgqZLg8KeHcBhBui6N8xuiEF2uIvrtEl0iib9s97RRoH1i04L3mrGtq8Aw8TaBOGM=s0"
+  },
+  "colors": [
+    {
+      "percentage": 49,
+      "hex": "#E1DCD2"
+    },
+    {
+      "percentage": 25,
+      "hex": " #F8F7F4"
+    },
+    {
+      "percentage": 7,
+      "hex": " #48443B"
+    },
+    {
+      "percentage": 7,
+      "hex": " #BDB8AD"
+    },
+    {
+      "percentage": 3,
+      "hex": " #6A6559"
+    },
+    {
+      "percentage": 3,
+      "hex": " #999489"
+    },
+    {
+      "percentage": 2,
+      "hex": " #817C71"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#E1DCD2",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #F8F7F4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #48443B",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #BDB8AD",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #6A6559",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #999489",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #817C71",
+      "normalizedHex": "#737C84"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 49,
+      "hex": "#FAF0E6"
+    },
+    {
+      "percentage": 25,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 11,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 7,
+      "hex": " #C0C0C0"
+    },
+    {
+      "percentage": 3,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 2,
+      "hex": " #808080"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 82,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 7,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Oesterverkoper",
+    "Straatventers in Londen",
+    "The Cryes of the City of London"
+  ],
+  "description": "Straatventer, lopend achter een kruiwagen met oesters. De prent heeft een Engels, Frans, Italiaans en Nederlands onderschrift en maakt deel uit van een serie over de straatventers in Londen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Jacob Gole (c. 1660 - c. 1724), Amsterdam"
+    },
+    {
+      "name": "Provincie Holland",
+      "unFixedName": "Provincie Holland",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Provincie Holland"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Jacob Gole",
+      "unFixedName": "Gole, Jacob",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1660",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1724",
+      "dateOfDeathPrecision": "c.",
+      "placeOfDeath": "Amsterdam",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "Jacob Gole (c. 1660 - c. 1724)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Jacob Gole",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1957-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the F.G. Waller-Fonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "engraving"
+  ],
+  "productionPlaces": [
+    "London",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1688 - 1724",
+    "sortingDate": 1688,
+    "period": 17,
+    "yearEarly": 1688,
+    "yearLate": 1724
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46B2211",
+      "25F72(OYSTER)",
+      "46C123",
+      "47K3(+66)"
+    ],
+    "iconClassDescription": [
+      "'cris de Paris', cries of London, etc.",
+      "molluscs: oyster",
+      "hand-cart",
+      "oyster and mussel culture (+ trade ~ crafts, industries, agriculture)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-1957-680"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch 35",
+    "35"
+  ],
+  "principalOrFirstMaker": "Jacob Gole",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "249"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "165"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Oesterverkoper, Jacob Gole, 1688 - 1724",
+  "subTitle": "h 249mm \u00d7 w 165mm",
+  "scLabelLine": "Jacob Gole, 1688 - 1724, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

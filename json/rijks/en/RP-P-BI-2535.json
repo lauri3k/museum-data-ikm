@@ -1,0 +1,250 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-BI-2535",
+  "priref": "84560",
+  "objectNumber": "RP-P-BI-2535",
+  "language": "en",
+  "title": "Heilige Monica met IHS monogram",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "d118c775-8f4d-45d8-a5c4-20331a170490",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1883,
+    "height": 2532,
+    "url": "https://lh3.ggpht.com/8322bddamqki_TWAK--jXGIKQ33uZdZK4jMnpPNukaz_hW6wSHo118qsS66LDMCy4kgUCIbpcROqMQfq3BHlHjZ3TTE=s0"
+  },
+  "colors": [
+    {
+      "percentage": 14,
+      "hex": "#F9F8F6"
+    },
+    {
+      "percentage": 30,
+      "hex": " #76705E"
+    },
+    {
+      "percentage": 14,
+      "hex": " #ABA189"
+    },
+    {
+      "percentage": 4,
+      "hex": " #C9BD9F"
+    },
+    {
+      "percentage": 22,
+      "hex": " #E4DAC4"
+    },
+    {
+      "percentage": 14,
+      "hex": " #46453F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F9F8F6",
+      "normalizedHex": "#F6ECF3"
+    },
+    {
+      "originalHex": " #76705E",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #ABA189",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #C9BD9F",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #E4DAC4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #46453F",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 44,
+      "hex": "#696969"
+    },
+    {
+      "percentage": 22,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 18,
+      "hex": " #D2B48C"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F5F5F5"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 30,
+      "hex": "#737C84"
+    },
+    {
+      "percentage": 22,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 18,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 14,
+      "hex": " #F6ECF3"
+    },
+    {
+      "percentage": 14,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Heilige Monica met IHS monogram",
+    "S. Monica"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Martinus van den Enden",
+      "unFixedName": "Enden, Martinus van den",
+      "placeOfBirth": null,
+      "dateOfBirth": "1605",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Martinus van den Enden (1605 - ....)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "Schelte Adamsz. Bolswert",
+      "unFixedName": "Bolswert, Schelte Adamsz.",
+      "placeOfBirth": "Bolsward",
+      "dateOfBirth": "1586",
+      "dateOfBirthPrecision": "c.",
+      "dateOfDeath": "1659-12-12",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Antwerpen (stad)",
+      "occupation": [
+        "print maker"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Schelte Adamsz. Bolswert (c. 1586 - 12-dec-1659)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Schelte Adamsz. Bolswert",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1816-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "engraving"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1596 - 1659",
+    "sortingDate": 1596,
+    "period": 16,
+    "yearEarly": 1596,
+    "yearLate": 1659
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "11HH(MONICA)",
+      "11D113"
+    ],
+    "iconClassDescription": [
+      "the mother of Augustine, Monica of Tagaste (or Ostia); possible attributes: black dress with white veil or wimple, book, crucifix, rosary",
+      "IHS ('Iesus Hominum Salvator') ~ symbol of Christ"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-BI-2535"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Hollstein Dutch"
+  ],
+  "principalOrFirstMaker": "Schelte Adamsz. Bolswert",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "135"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "92"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "engraving",
+  "longTitle": "Heilige Monica met IHS monogram, Schelte Adamsz. Bolswert, 1596 - 1659",
+  "subTitle": "h 135mm \u00d7 w 92mm",
+  "scLabelLine": "Schelte Adamsz. Bolswert, 1596 - 1659, engraving",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

@@ -1,0 +1,151 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-2001-7-67-17",
+  "priref": "615038",
+  "objectNumber": "RP-F-2001-7-67-17",
+  "language": "en",
+  "title": "Portret van Garnet Wolseley",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "ed0d9ffe-0b49-4b0c-ac0b-2dcd404614cc",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 1863,
+    "height": 2500,
+    "url": "https://lh3.googleusercontent.com/W-pa6RrX_N6W-ILfm3RMpNy3nsS4jERSgWAMOcDaB8ztBWJ4wFGyh6iFmHoO8it_ADimvVjMd-UyHKIRlqHt3cKUcw=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Portret van Garnet Wolseley"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "photomechanical print"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "anonymous"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "The London Stereoscopic Company",
+      "unFixedName": "The London Stereoscopic Company",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": null,
+      "labelDesc": "The London Stereoscopic Company"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "The London Stereoscopic Company",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "2001-01-01T00:00:00",
+    "creditLine": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "c. 1881 - in or before 1891",
+    "sortingDate": 1881,
+    "period": 19,
+    "yearEarly": 1881,
+    "yearLate": 1891
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "45D322"
+    ],
+    "iconClassDescription": [
+      "officer"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [
+      "Wolseley, Garnet"
+    ],
+    "objectNumbers": [
+      "RP-F-2001-7-67-17"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [
+    "Wolseley, Garnet"
+  ],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "The London Stereoscopic Company",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "173"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "150"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "Portret van Garnet Wolseley, The London Stereoscopic Company, c. 1881 - in or before 1891",
+  "subTitle": "h 173mm \u00d7 w 150mm",
+  "scLabelLine": "The London Stereoscopic Company, c. 1881 - in or before 1891, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

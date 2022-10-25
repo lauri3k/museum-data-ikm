@@ -1,0 +1,161 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F07789",
+  "priref": "268407",
+  "objectNumber": "RP-F-F07789",
+  "language": "en",
+  "title": "Gezicht op Cheapside te Londen",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "b9704657-0563-40a3-98a5-6a600d307dff",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1184,
+    "url": "https://lh3.googleusercontent.com/eXUE-ywBYZp1kc4XKNTtM8iJH-ucd9KRBiOcf6IXjx79SFfAourDt2wND0JAlodu-raNHogawA25TUfhuoiEM2ZQm5I=s0"
+  },
+  "colors": [],
+  "colorsWithNormalization": [],
+  "normalizedColors": [],
+  "normalized32Colors": [],
+  "titles": [
+    "Gezicht op Cheapside te Londen",
+    "Cheapside, London, England."
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "stereograph"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "John Fillis Jarvis",
+      "unFixedName": "Jarvis, John Fillis",
+      "placeOfBirth": null,
+      "dateOfBirth": "1849",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1931",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Washington D.C.",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Fillis Jarvis (1849 - 1931)"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "John Fillis Jarvis",
+      "unFixedName": "Jarvis, John Fillis",
+      "placeOfBirth": null,
+      "dateOfBirth": "1849",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": "1931",
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": "Washington D.C.",
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object John Fillis Jarvis (1849 - 1931)"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "John Fillis Jarvis",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1994-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "cardboard",
+    "photographic support"
+  ],
+  "techniques": [
+    "albumen print"
+  ],
+  "productionPlaces": [],
+  "dating": {
+    "presentingDate": "1887",
+    "sortingDate": 1887,
+    "period": 19,
+    "yearEarly": 1887,
+    "yearLate": 1887
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "46C147",
+      "25I141",
+      "41A31"
+    ],
+    "iconClassDescription": [
+      "diligence, omnibus, horse-tram",
+      "street",
+      "fa\u00e7ade (of house or building)"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Ch\u00e2teau de Villette\t**"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F07789"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "John Fillis Jarvis",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": "c.",
+      "part": null,
+      "value": "85"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": "c.",
+      "part": null,
+      "value": "170"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Gezicht op Cheapside te Londen, John Fillis Jarvis, 1887",
+  "subTitle": "h c.85mm \u00d7 w c.170mm",
+  "scLabelLine": "John Fillis Jarvis, 1887, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

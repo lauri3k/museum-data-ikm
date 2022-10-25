@@ -1,0 +1,266 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-OB-82.346",
+  "priref": "466371",
+  "objectNumber": "RP-P-OB-82.346",
+  "language": "en",
+  "title": "Plattegrond van Londen na de grote brand van 1666",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "639c0946-2d27-45ed-81dd-2894ad072e3a",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2262,
+    "height": 2085,
+    "url": "https://lh5.ggpht.com/ndeEFL0ctx1ibBOmZznwOJshrWsPm5RIJKWM_L6XJE0Y72BXA9GtrZbbUgDAGjpMAV5ZF6tYq-ZSFFclu2IedkG00F-R=s0"
+  },
+  "colors": [
+    {
+      "percentage": 4,
+      "hex": "#948F7F"
+    },
+    {
+      "percentage": 10,
+      "hex": " #AFA997"
+    },
+    {
+      "percentage": 4,
+      "hex": " #797565"
+    },
+    {
+      "percentage": 42,
+      "hex": " #F5F2E4"
+    },
+    {
+      "percentage": 36,
+      "hex": " #D0CAB8"
+    },
+    {
+      "percentage": 0,
+      "hex": " #565244"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#948F7F",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #AFA997",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #797565",
+      "normalizedHex": "#737C84"
+    },
+    {
+      "originalHex": " #F5F2E4",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #D0CAB8",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #565244",
+      "normalizedHex": "#2F4F4F"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 42,
+      "hex": "#FDF5E6"
+    },
+    {
+      "percentage": 36,
+      "hex": " #FAEBD7"
+    },
+    {
+      "percentage": 10,
+      "hex": " #A9A9A9"
+    },
+    {
+      "percentage": 9,
+      "hex": " #808080"
+    },
+    {
+      "percentage": 0,
+      "hex": " #696969"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 79,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 10,
+      "hex": " #E0CC91"
+    },
+    {
+      "percentage": 9,
+      "hex": " #737C84"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "Plattegrond van Londen na de grote brand van 1666",
+    "Platte Grondt der Stadt London",
+    "Afbeelding van de Stadt London. Aenwijzende hoe verre de zelve verbrandt is, en wat plaetzen noch overgebleven zijn / Representation curieuse de l'embrasement de la Ville de Londres (...) / Delineation of the Citie London (...)"
+  ],
+  "description": "Plattegrond van Londen waarop is aangegeven het deel van de stad dat verwoest is tijdens de grote brand van 12-15 september 1666. Onderaan teksten in 2 kolommen in het Nederlands, 2 kolommen in het Frans en 2 kolommen in het Engels met een beschrijving van de gebeurtenissen en een lijst van de verbrande straten en plaatsen binnen Londen.",
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [
+    {
+      "name": "Marcus Willemsz. Doornick",
+      "unFixedName": "Doornick, Marcus Willemsz.",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "publisher"
+      ],
+      "roles": [
+        "publisher"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Amsterdam"
+      ],
+      "qualification": "mentioned on object",
+      "labelDesc": "mentioned on object Marcus Willemsz. Doornick, Amsterdam"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Northern Netherlands"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, Northern Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "purchase",
+    "date": "1881-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [
+    "etching",
+    "letterpress printing"
+  ],
+  "productionPlaces": [
+    "Northern Netherlands",
+    "Amsterdam"
+  ],
+  "dating": {
+    "presentingDate": "1666",
+    "sortingDate": 1666,
+    "period": 17,
+    "yearEarly": 1666,
+    "yearLate": 1666
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25A4"
+    ],
+    "iconClassDescription": [
+      "maps of cities"
+    ],
+    "motifs": [],
+    "events": [
+      "Grote brand van Londen (1666)"
+    ],
+    "periods": [
+      "1666-09-121666-09-15"
+    ],
+    "places": [
+      "Londen"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-OB-82.346"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [
+    "Frederik Muller, De Nederlandsche geschiedenis in platen : beredeneerde beschrijving van Nederlandsche historieplaten, zinneprenten en historische kaarten, 4 delen, F. Muller, Amsterdam 1863-1882, dl. IV (supplement, aanhangsel en algemeen register), p. 222, nr. 2249A."
+  ],
+  "catRefRPK": [
+    "FMH 2249",
+    "2249",
+    "Atlas van Stolk 2352",
+    "2352"
+  ],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "518"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "560"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "etching",
+  "longTitle": "Plattegrond van Londen na de grote brand van 1666, anonymous, 1666",
+  "subTitle": "h 518mm \u00d7 w 560mm",
+  "scLabelLine": "anonymous, 1666, etching",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

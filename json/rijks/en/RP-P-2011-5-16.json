@@ -1,0 +1,242 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-P-2011-5-16",
+  "priref": "499010",
+  "objectNumber": "RP-P-2011-5-16",
+  "language": "en",
+  "title": "When she came to me",
+  "copyrightHolder": "Hans Landsaat",
+  "webImage": null,
+  "colors": [
+    {
+      "percentage": 39,
+      "hex": "#F4F3ED"
+    },
+    {
+      "percentage": 1,
+      "hex": " #CFD6C3"
+    },
+    {
+      "percentage": 13,
+      "hex": " #1C1F1D"
+    },
+    {
+      "percentage": 0,
+      "hex": " #40554A"
+    },
+    {
+      "percentage": 31,
+      "hex": " #89B37A"
+    },
+    {
+      "percentage": 14,
+      "hex": " #5F8174"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#F4F3ED",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #CFD6C3",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #1C1F1D",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #40554A",
+      "normalizedHex": "#2F4F4F"
+    },
+    {
+      "originalHex": " #89B37A",
+      "normalizedHex": "#62AD77"
+    },
+    {
+      "originalHex": " #5F8174",
+      "normalizedHex": "#2CAAA7"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 39,
+      "hex": "#FFFAF0"
+    },
+    {
+      "percentage": 31,
+      "hex": " #8FBC8B"
+    },
+    {
+      "percentage": 14,
+      "hex": " #5F9EA0"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 1,
+      "hex": " #F5F5DC"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 40,
+      "hex": "#FBF6E1"
+    },
+    {
+      "percentage": 31,
+      "hex": " #62AD77"
+    },
+    {
+      "percentage": 14,
+      "hex": " #2CAAA7"
+    },
+    {
+      "percentage": 13,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 0,
+      "hex": " #2F4F4F"
+    }
+  ],
+  "titles": [
+    "When she came to me",
+    "In the Parks of London"
+  ],
+  "description": null,
+  "labelText": null,
+  "objectTypes": [
+    "print"
+  ],
+  "objectCollection": [
+    "prints"
+  ],
+  "makers": [],
+  "principalMakers": [
+    {
+      "name": "Hans Landsaat",
+      "unFixedName": "Landsaat, Hans",
+      "placeOfBirth": "Amsterdam",
+      "dateOfBirth": "1935-09-27",
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [
+        "painter",
+        "draughtsman"
+      ],
+      "roles": [
+        "print maker"
+      ],
+      "nationality": "dutch",
+      "biography": null,
+      "productionPlaces": [
+        "Netherlands"
+      ],
+      "qualification": "signed by artist",
+      "labelDesc": "signed by artist Hans Landsaat (27-sep-1935 - ....), Netherlands"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "Hans Landsaat",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "gift",
+    "date": "2011-01-20T00:00:00",
+    "creditLine": "Gift of Mr and Mrs Den Blaauwen-Kerst, Uitgeest"
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper"
+  ],
+  "techniques": [],
+  "productionPlaces": [
+    "Netherlands",
+    "Netherlands"
+  ],
+  "dating": {
+    "presentingDate": "1973",
+    "sortingDate": 1973,
+    "period": 20,
+    "yearEarly": 1973,
+    "yearLate": 1973
+  },
+  "classification": {
+    "iconClassIdentifier": [],
+    "iconClassDescription": [],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [],
+    "people": [],
+    "objectNumbers": [
+      "RP-P-2011-5-16"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [
+    "Den Blaauwen 19",
+    "19"
+  ],
+  "principalOrFirstMaker": "Hans Landsaat",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "500"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "500"
+    },
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "600"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "600"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "paper",
+  "longTitle": "When she came to me, Hans Landsaat, 1973",
+  "subTitle": "h 500mm \u00d7 w 500mm",
+  "scLabelLine": "Hans Landsaat, 1973, paper",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

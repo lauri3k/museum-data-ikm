@@ -13,11 +13,7 @@ from src.utils import find_existing_files
 
 
 def get_key() -> str:
-    """
-    Get API key from .env file.
-    """
     return "Yiv3t0C0"
-    # return os.getenv("RIJKSMUSEUM_API")
 
 
 def get_page(session, url: str, page_nr: Optional[int] = None):
@@ -35,12 +31,26 @@ def rijks_find_results(query: str, lang: str = "en"):
     with requests.Session() as session:
         session.headers = {"Accept": "*/*"}
         first_page = get_page(session, url)
-        print(f"Found {first_page['count']} results.")
+        print(
+            f"Found {first_page['count']} results. Collecting object numbers. This may take a while, if there are a lot of results."
+        )
         n_pages = math.ceil(int(first_page["count"]) / n_results)
         art_objects = first_page["artObjects"]
         for n in range(2, n_pages + 1):
-            page = get_page(session, url, n)
-            art_objects.extend(page["artObjects"])
+            for attempts in range(4, -1, -1):
+                try:
+                    page = get_page(session, url, n)
+                    art_objects.extend(page["artObjects"])
+                    break
+                except requests.JSONDecodeError:
+                    wait_for = 10
+                    print(
+                        f"Rate limiter on request {n} / {n_pages} :( waiting for {wait_for} seconds. Trying again {attempts} times."
+                    )
+                    time.sleep(wait_for)
+                    if attempts == 0:
+                        raise Exception("Too many failures :( Please try again.")
+                    continue
     return art_objects
 
 
