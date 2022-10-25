@@ -52,19 +52,19 @@
   "dimensions": "sheet: 21 1/4 x 30 5/16 in. (54 x 77 cm)\r\nplate: 15 3/4 x 18 7/8 in. (40 x 48 cm)",
   "measurements": [
     {
-      "elementName": "Plate",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 40,
-        "Width": 48
-      }
-    },
-    {
       "elementName": "Sheet",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 54,
         "Width": 77
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40,
+        "Width": 48
       }
     }
   ],

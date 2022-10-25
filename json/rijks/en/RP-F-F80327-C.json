@@ -1,0 +1,262 @@
+{
+  "links": {
+    "search": "http://www.rijksmuseum.nl/api/nl/collection"
+  },
+  "id": "en-RP-F-F80327-C",
+  "priref": "350080",
+  "objectNumber": "RP-F-F80327-C",
+  "language": "en",
+  "title": "Bosgezicht in Allum Green, en besneeuwd winterlandschap in Pikes Hill, omringd door orchidee\u00ebn",
+  "copyrightHolder": null,
+  "webImage": {
+    "guid": "961a65c1-5736-4ec8-ad00-756e7fa05d6c",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 50,
+    "width": 2500,
+    "height": 1944,
+    "url": "https://lh3.googleusercontent.com/f2wMevGSyltkiUREUuzOxds_nVnzMMmiODvet-CENB-OEPcUMig9G-GgW5KpaJUfS-d7bI7C3fuQQ3PgqrQrPnX-Mrb3d_Y7pV0RK8E=s0"
+  },
+  "colors": [
+    {
+      "percentage": 2,
+      "hex": "#FAFAF5"
+    },
+    {
+      "percentage": 33,
+      "hex": " #EAE0A6"
+    },
+    {
+      "percentage": 3,
+      "hex": " #47372B"
+    },
+    {
+      "percentage": 17,
+      "hex": " #996A50"
+    },
+    {
+      "percentage": 40,
+      "hex": " #BEAD7A"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A4422F"
+    }
+  ],
+  "colorsWithNormalization": [
+    {
+      "originalHex": "#FAFAF5",
+      "normalizedHex": "#FBF6E1"
+    },
+    {
+      "originalHex": " #EAE0A6",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #47372B",
+      "normalizedHex": "#000000"
+    },
+    {
+      "originalHex": " #996A50",
+      "normalizedHex": "#B35A1F"
+    },
+    {
+      "originalHex": " #BEAD7A",
+      "normalizedHex": "#E0CC91"
+    },
+    {
+      "originalHex": " #A4422F",
+      "normalizedHex": "#981313"
+    }
+  ],
+  "normalizedColors": [
+    {
+      "percentage": 40,
+      "hex": "#BDB76B"
+    },
+    {
+      "percentage": 33,
+      "hex": " #EEE8AA"
+    },
+    {
+      "percentage": 17,
+      "hex": " #A0522D"
+    },
+    {
+      "percentage": 3,
+      "hex": " #696969"
+    },
+    {
+      "percentage": 2,
+      "hex": " #F5F5F5"
+    },
+    {
+      "percentage": 1,
+      "hex": " #A52A2A"
+    }
+  ],
+  "normalized32Colors": [
+    {
+      "percentage": 73,
+      "hex": "#E0CC91"
+    },
+    {
+      "percentage": 17,
+      "hex": " #B35A1F"
+    },
+    {
+      "percentage": 3,
+      "hex": " #000000"
+    },
+    {
+      "percentage": 2,
+      "hex": " #FBF6E1"
+    },
+    {
+      "percentage": 1,
+      "hex": " #981313"
+    }
+  ],
+  "titles": [
+    "Bosgezicht in Allum Green, en besneeuwd winterlandschap in Pikes Hill, omringd door orchidee\u00ebn",
+    "In Alum Green / Pikes Hill in Winter"
+  ],
+  "description": "Dichtregels van Frederic W. H. Myers en aartsbisschop Robert Leighton van Glasgow.",
+  "labelText": null,
+  "objectTypes": [
+    "photograph",
+    "print",
+    "collage"
+  ],
+  "objectCollection": [],
+  "makers": [
+    {
+      "name": "diverse vervaardigers",
+      "unFixedName": "diverse vervaardigers",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [
+        "maker"
+      ],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "Great Britain"
+      ],
+      "qualification": null,
+      "labelDesc": "diverse vervaardigers, Great Britain"
+    }
+  ],
+  "principalMakers": [
+    {
+      "name": "anonymous",
+      "unFixedName": "anonymous",
+      "placeOfBirth": null,
+      "dateOfBirth": null,
+      "dateOfBirthPrecision": null,
+      "dateOfDeath": null,
+      "dateOfDeathPrecision": null,
+      "placeOfDeath": null,
+      "occupation": [],
+      "roles": [],
+      "nationality": null,
+      "biography": null,
+      "productionPlaces": [
+        "England"
+      ],
+      "qualification": null,
+      "labelDesc": "anonymous, England"
+    }
+  ],
+  "plaqueDescriptionDutch": null,
+  "plaqueDescriptionEnglish": null,
+  "principalMaker": "anonymous",
+  "artistRole": null,
+  "associations": [],
+  "acquisition": {
+    "method": "transfer",
+    "date": "1997-01-01T00:00:00",
+    "creditLine": null
+  },
+  "exhibitions": [],
+  "materials": [
+    "paper",
+    "cardboard"
+  ],
+  "techniques": [
+    "albumen print",
+    "writing (processes)"
+  ],
+  "productionPlaces": [
+    "England",
+    "Great Britain"
+  ],
+  "dating": {
+    "presentingDate": "1855 - 1900",
+    "sortingDate": 1855,
+    "period": 19,
+    "yearEarly": 1855,
+    "yearLate": 1900
+  },
+  "classification": {
+    "iconClassIdentifier": [
+      "25I2",
+      "25H15"
+    ],
+    "iconClassDescription": [
+      "village",
+      "forest, wood"
+    ],
+    "motifs": [],
+    "events": [],
+    "periods": [],
+    "places": [
+      "Allum Green",
+      "Pikes Hill"
+    ],
+    "people": [],
+    "objectNumbers": [
+      "RP-F-F80327-C"
+    ]
+  },
+  "hasImage": true,
+  "historicalPersons": [],
+  "inscriptions": [],
+  "documentation": [],
+  "catRefRPK": [],
+  "principalOrFirstMaker": "anonymous",
+  "dimensions": [
+    {
+      "unit": "mm",
+      "type": "height",
+      "precision": null,
+      "part": null,
+      "value": "295"
+    },
+    {
+      "unit": "mm",
+      "type": "width",
+      "precision": null,
+      "part": null,
+      "value": "386"
+    }
+  ],
+  "physicalProperties": [],
+  "physicalMedium": "albumen print",
+  "longTitle": "Bosgezicht in Allum Green, en besneeuwd winterlandschap in Pikes Hill, omringd door orchidee\u00ebn, anonymous, 1855 - 1900",
+  "subTitle": "h 295mm \u00d7 w 386mm",
+  "scLabelLine": "anonymous, 1855 - 1900, albumen print",
+  "label": {
+    "title": null,
+    "makerLine": null,
+    "description": null,
+    "notes": null,
+    "date": null
+  },
+  "showImage": true,
+  "location": null
+}

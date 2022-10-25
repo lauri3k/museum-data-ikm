@@ -50,20 +50,20 @@
   "dimensions": "Image (visible): 9 \u00d7 6.6 cm (3 9/16 \u00d7 2 5/8 in.)\r\nCase: 11.8 \u00d7 9.4 \u00d7 1.7 cm (4 5/8 \u00d7 3 11/16 \u00d7 11/16 in.)",
   "measurements": [
     {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 9,
+        "Width": 6.6
+      }
+    },
+    {
       "elementName": "Case",
       "elementDescription": null,
       "elementMeasurements": {
         "Depth": 1.7,
         "Height": 11.8,
         "Width": 9.4
-      }
-    },
-    {
-      "elementName": "Image",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 9,
-        "Width": 6.6
       }
     }
   ],
@@ -82,7 +82,7 @@
   "classification": "Photographs",
   "rightsAndReproduction": "",
   "linkResource": "",
-  "metadataDate": "2021-05-12T04:39:02.923Z",
+  "metadataDate": "2022-10-15T04:54:56.9Z",
   "repository": "Metropolitan Museum of Art, New York, NY",
   "objectURL": "https://www.metmuseum.org/art/collection/search/286313",
   "tags": [

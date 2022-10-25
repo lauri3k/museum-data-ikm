@@ -30,12 +30,12 @@
   "artistRole": "Calligrapher",
   "artistPrefix": "",
   "artistDisplayName": "'Ali Riza 'Abbasi",
-  "artistDisplayBio": "Iranian",
+  "artistDisplayBio": "Indian, active ca. 1600\u20131650",
   "artistSuffix": "",
   "artistAlphaSort": "'Ali Riza 'Abbasi",
-  "artistNationality": "Iranian",
-  "artistBeginDate": "",
-  "artistEndDate": "",
+  "artistNationality": "Indian",
+  "artistBeginDate": "1575",
+  "artistEndDate": "1675",
   "artistGender": "",
   "artistWikidata_URL": "",
   "artistULAN_URL": "",
@@ -45,6 +45,14 @@
   "medium": "Ink, opaque watercolor, and gold on paper",
   "dimensions": "Page: H. 13 1/8 in. (33.3 cm)\r\n           W. 8 9/16 in. (21.7 cm)\r\nPainting: H. 7 7/8 in. (20 cm)\r\n                 W. 6 1/4  in. (15.9 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n         W. 14 1/4 in. (36.2 cm)",
   "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.00254,
+        "Width": 15.875031
+      }
+    },
     {
       "elementName": "Overall",
       "elementDescription": null,
@@ -59,14 +67,6 @@
       "elementMeasurements": {
         "Height": 48.8951,
         "Width": 36.195072
-      }
-    },
-    {
-      "elementName": "Overall",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 20.00254,
-        "Width": 15.875031
       }
     }
   ],
@@ -85,7 +85,7 @@
   "classification": "Codices",
   "rightsAndReproduction": "",
   "linkResource": "",
-  "metadataDate": "2021-12-17T04:39:04.243Z",
+  "metadataDate": "2022-09-16T04:54:58.957Z",
   "repository": "Metropolitan Museum of Art, New York, NY",
   "objectURL": "https://www.metmuseum.org/art/collection/search/448493",
   "tags": [

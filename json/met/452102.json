@@ -63,6 +63,15 @@
   "dimensions": "Overall:\r\n           H. 264 7/16 in. (671.6 cm)\r\n           W. 200 1/2 in. (509.2 cm)\r\n           D. 316 5/8 in. (804.2 cm)\r\nFrom inside front entrance to back wall:\r\n           H. 316 5/8 in. (804.2 cm)\r\nFountain:\r\n           H. 4 15/16 in. (12.5 cm)",
   "measurements": [
     {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 804.2,
+        "Height": 671.6,
+        "Width": 509.2
+      }
+    },
+    {
       "elementName": "Other",
       "elementDescription": "Fountain",
       "elementMeasurements": {
@@ -74,15 +83,6 @@
       "elementDescription": "from inside front entrance to back wall",
       "elementMeasurements": {
         "Depth": 804.2
-      }
-    },
-    {
-      "elementName": "Overall",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Depth": 804.2,
-        "Height": 671.6,
-        "Width": 509.2
       }
     }
   ],
@@ -101,7 +101,7 @@
   "classification": "Wood",
   "rightsAndReproduction": "",
   "linkResource": "",
-  "metadataDate": "2022-04-29T05:14:53.58Z",
+  "metadataDate": "2022-10-20T04:55:06.267Z",
   "repository": "Metropolitan Museum of Art, New York, NY",
   "objectURL": "https://www.metmuseum.org/art/collection/search/452102",
   "tags": [

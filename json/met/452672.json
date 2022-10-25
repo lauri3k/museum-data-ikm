@@ -38,14 +38,6 @@
   "dimensions": "Painting: H. 7 1/4 in. (18.4 cm)\r\n                W. 4 11/16 in. (11.9 cm)\r\nPage: H. 11 in. (27.9 cm)\r\n          W. 7 1/4 in. (18.4 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n        W. 14 1/4 in. (36.2 cm)",
   "measurements": [
     {
-      "elementName": "Other",
-      "elementDescription": "Page",
-      "elementMeasurements": {
-        "Height": 27.9401,
-        "Width": 18.415
-      }
-    },
-    {
       "elementName": "Overall",
       "elementDescription": "Painting",
       "elementMeasurements": {
@@ -59,6 +51,14 @@
       "elementMeasurements": {
         "Height": 48.8951,
         "Width": 36.1951
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 27.9401,
+        "Width": 18.415
       }
     }
   ],
@@ -77,7 +77,7 @@
   "classification": "Codices",
   "rightsAndReproduction": "",
   "linkResource": "",
-  "metadataDate": "2021-10-20T04:36:56.98Z",
+  "metadataDate": "2022-07-30T04:53:51.12Z",
   "repository": "Metropolitan Museum of Art, New York, NY",
   "objectURL": "https://www.metmuseum.org/art/collection/search/452672",
   "tags": [
@@ -94,5 +94,5 @@
   ],
   "objectWikidata_URL": "",
   "isTimelineWork": false,
-  "GalleryNumber": ""
+  "GalleryNumber": "455"
 }

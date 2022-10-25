@@ -44,19 +44,19 @@
   "dimensions": "30 \u00d7 25 in. (76.2 \u00d7 63.5 cm)",
   "measurements": [
     {
-      "elementName": "Framed",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 83.82017,
-        "Width": 70.80264
-      }
-    },
-    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 76.20015,
         "Width": 63.500126
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 83.82017,
+        "Width": 70.80264
       }
     }
   ],

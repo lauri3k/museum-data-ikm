@@ -52,14 +52,6 @@
   "dimensions": "sheet: 15 1/4 x 20 3/16 in. (38.7 x 51.3 cm)\r\nimage: 12 11/16 x 16 3/4 in. (32.2 x 42.6 cm)\r\nframe: 16 x 21 in. (40.6 x 53.3 cm)",
   "measurements": [
     {
-      "elementName": "Frame",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 40.6401,
-        "Width": 53.3401
-      }
-    },
-    {
       "elementName": "Image",
       "elementDescription": null,
       "elementMeasurements": {
@@ -73,6 +65,14 @@
       "elementMeasurements": {
         "Height": 38.7,
         "Width": 51.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6401,
+        "Width": 53.3401
       }
     }
   ],
@@ -91,7 +91,7 @@
   "classification": "Prints",
   "rightsAndReproduction": "",
   "linkResource": "",
-  "metadataDate": "2022-06-02T12:28:57.13Z",
+  "metadataDate": "2022-10-20T04:55:06.267Z",
   "repository": "Metropolitan Museum of Art, New York, NY",
   "objectURL": "https://www.metmuseum.org/art/collection/search/372052",
   "tags": [

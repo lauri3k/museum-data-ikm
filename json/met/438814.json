@@ -44,6 +44,14 @@
   "dimensions": "39 1/2 x 32 1/4 in. (100.3 x 81.9 cm)",
   "measurements": [
     {
+      "elementName": "Rabbet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100.647705,
+        "Width": 82.232666
+      }
+    },
+    {
       "elementName": "Frame",
       "elementDescription": null,
       "elementMeasurements": {
@@ -58,14 +66,6 @@
       "elementMeasurements": {
         "Height": 100.3302,
         "Width": 81.91516
-      }
-    },
-    {
-      "elementName": "Rabbet",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 100.647705,
-        "Width": 82.232666
       }
     }
   ],
@@ -84,7 +84,7 @@
   "classification": "Paintings",
   "rightsAndReproduction": "",
   "linkResource": "",
-  "metadataDate": "2022-06-02T12:28:57.13Z",
+  "metadataDate": "2022-10-20T04:55:06.267Z",
   "repository": "Metropolitan Museum of Art, New York, NY",
   "objectURL": "https://www.metmuseum.org/art/collection/search/438814",
   "tags": [

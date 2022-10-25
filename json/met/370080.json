@@ -60,19 +60,19 @@
   "dimensions": "plate: 3 9/16 x 4 15/16 in. (9 x 12.5 cm)\r\nsheet: 9 15/16 x 12 15/16 in. (25.3 x 32.8 cm)",
   "measurements": [
     {
-      "elementName": "Sheet",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 25.3,
-        "Width": 32.8
-      }
-    },
-    {
       "elementName": "Plate",
       "elementDescription": null,
       "elementMeasurements": {
         "Height": 9,
         "Width": 12.5
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.3,
+        "Width": 32.8
       }
     }
   ],

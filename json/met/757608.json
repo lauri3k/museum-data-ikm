@@ -52,6 +52,15 @@
   "dimensions": "Image: 8 11/16 in. \u00d7 13 in. (22 \u00d7 33 cm)\r\nFrame: 10 3/8 \u00d7 14 3/4 in. (26.3 \u00d7 37.4 cm)\r\nSheet: 21 5/16 \u00d7 16 5/16 in. (54.2 \u00d7 41.5 cm)\r\nBook: 21 7/8 \u00d7 16 3/4 \u00d7 1 15/16 in. (55.5 \u00d7 42.5 \u00d7 5 cm)",
   "measurements": [
     {
+      "elementName": "Overall",
+      "elementDescription": "Book",
+      "elementMeasurements": {
+        "Depth": 5,
+        "Height": 55.5,
+        "Width": 42.5
+      }
+    },
+    {
       "elementName": "Sheet",
       "elementDescription": null,
       "elementMeasurements": {
@@ -73,15 +82,6 @@
       "elementMeasurements": {
         "Height": 22,
         "Width": 33
-      }
-    },
-    {
-      "elementName": "Overall",
-      "elementDescription": "Book",
-      "elementMeasurements": {
-        "Depth": 5,
-        "Height": 55.5,
-        "Width": 42.5
       }
     }
   ],

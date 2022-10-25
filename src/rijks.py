@@ -9,7 +9,7 @@ import httpx
 import pandas as pd
 from xml.etree import ElementTree as ET
 from datetime import datetime
-from utils import find_existing_files
+from src.utils import find_existing_files
 
 
 def get_key() -> str:
@@ -85,7 +85,9 @@ async def fetch(object_nrs, lang="en", overwrite=False):
     try:
         out = []
         if not overwrite:
-            file_path = os.path.join(os.path.dirname(__file__), "json", "rijks", lang)
+            file_path = os.path.join(
+                os.path.dirname(os.path.dirname(__file__)), "json", "rijks", lang
+            )
             existing_object_nrs = find_existing_files(file_path)
             cached_objects = [x for x in object_nrs if x in existing_object_nrs]
             object_nrs = [x for x in object_nrs if x not in existing_object_nrs]
@@ -149,7 +151,7 @@ async def fetch(object_nrs, lang="en", overwrite=False):
 
 def write_to_file(art_object, lang="en"):
     file_path = os.path.join(
-        os.path.dirname(__file__),
+        os.path.dirname(os.path.dirname(__file__)),
         "json",
         "rijks",
         lang,

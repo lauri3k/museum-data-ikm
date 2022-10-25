@@ -35,19 +35,19 @@
   "dimensions": "H. 10 3/4 x W. 7 3/4 x D. 7 13/16 in. (27.3 x 19.7 x 19.9 cm)",
   "measurements": [
     {
-      "elementName": "Other",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Depth": 19.89
-      }
-    },
-    {
       "elementName": "Overall",
       "elementDescription": null,
       "elementMeasurements": {
         "Depth": 19.89,
         "Height": 27.305,
         "Width": 19.69
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 19.89
       }
     }
   ],

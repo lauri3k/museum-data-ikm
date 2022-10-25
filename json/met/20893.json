@@ -44,6 +44,14 @@
   "dimensions": "86 1/4 x 57 1/2 in. (219.1 x 146.1 cm)",
   "measurements": [
     {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 219.07544,
+        "Width": 146.0503
+      }
+    },
+    {
       "elementName": "Framed",
       "elementDescription": null,
       "elementMeasurements": {
@@ -59,14 +67,6 @@
       "elementMeasurements": {
         "Height": 217.80544,
         "Width": 145.41528
-      }
-    },
-    {
-      "elementName": "Overall",
-      "elementDescription": null,
-      "elementMeasurements": {
-        "Height": 219.07544,
-        "Width": 146.0503
       }
     }
   ],

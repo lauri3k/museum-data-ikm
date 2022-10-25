@@ -7,8 +7,8 @@
   "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP217259.jpg",
   "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP217259.jpg",
   "additionalImages": [
-    "https://images.metmuseum.org/CRDImages/es/original/DP217260.jpg",
     "https://images.metmuseum.org/CRDImages/es/original/DP217258.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP217260.jpg",
     "https://images.metmuseum.org/CRDImages/es/original/DP217262.jpg",
     "https://images.metmuseum.org/CRDImages/es/original/DP217261.jpg",
     "https://images.metmuseum.org/CRDImages/es/original/DP217246.jpg",
@@ -54,6 +54,15 @@
       "elementName": "Overall",
       "elementDescription": "confirmed",
       "elementMeasurements": {
+        "Depth": 16.510033,
+        "Height": 54.92761,
+        "Width": 16.510033
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
         "Depth": 16.033783,
         "Height": 54.29261,
         "Width": 16.986284
@@ -66,15 +75,6 @@
         "Depth": 16.192532,
         "Height": 54.29261,
         "Width": 16.192532
-      }
-    },
-    {
-      "elementName": "Overall",
-      "elementDescription": "confirmed",
-      "elementMeasurements": {
-        "Depth": 16.510033,
-        "Height": 54.92761,
-        "Width": 16.510033
       }
     }
   ],
@@ -93,7 +93,7 @@
   "classification": "Sculpture-Bronze",
   "rightsAndReproduction": "",
   "linkResource": "",
-  "metadataDate": "2021-07-15T04:43:24.967Z",
+  "metadataDate": "2022-10-18T15:07:24.71Z",
   "repository": "Metropolitan Museum of Art, New York, NY",
   "objectURL": "https://www.metmuseum.org/art/collection/search/198643",
   "tags": [
@@ -110,5 +110,5 @@
   ],
   "objectWikidata_URL": "",
   "isTimelineWork": false,
-  "GalleryNumber": "608"
+  "GalleryNumber": ""
 }
